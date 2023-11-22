@@ -1,6 +1,13 @@
 # PreclinicalAbstractClassification
 Objectives: develop methods to distinguish different types of pre-clinical literature based on abstract text.
 # 1. Set up the environment
+The project is build using poetry for dependency management. Instructions on how to install poetry can be found in the [documentation](https://python-poetry.org/docs/).  
+To install the defined dependencies for the project, make sure you have the .toml and .lock files and run the _install_ command.
+```bib
+poetry install
+```
+The pyproject.toml file contains all relevant packages that need to be installed for running the project. The poetry.lock file is needed to ensure the same version of the installed libraries.
+
 # 2. Data
 ## Querying PubMed
 
