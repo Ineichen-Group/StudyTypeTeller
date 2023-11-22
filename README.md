@@ -20,3 +20,8 @@ Relevant API documentation references:
 - https://www.nlm.nih.gov/dataguide/edirect/xtract_formatting.html
 - https://dataguide.nlm.nih.gov/classes/edirect-for-pubmed/samplecode4.html#specify-a-placeholder-to-replace-blank-spaces-in-the-output-table
 
+## Data Annotation with Prodigy
+The prepared data for prodigy is stored in [input](data%2Fprodigy%2Finput).
+A custom recipe was developed to use prodigy for text classification and include keyword highlighting, see [recipe_textcat_patterns.py](data%2Fprodigy%2Frecipe_textcat_patterns.py).
+
+To perform the annotations in prodigy, follow the instructions in [Prodigy_Annotator_Guide.pdf](data%2Fprodigy%2FProdigy_Annotator_Guide.pdf).
