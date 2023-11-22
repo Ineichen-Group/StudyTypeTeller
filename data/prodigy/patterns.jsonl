@@ -1,94 +1,94 @@
-{"pattern": "human", "label": "Remaining"}
-{"pattern": "cohort", "label": "Remaining"}
-{"pattern": "study", "label": "Remaining"}
-{"pattern": "review", "label": "Non-systematic-review"}
-{"pattern": "literature", "label": "Remaining"}
-{"pattern": "systematic", "label": "Human-systematic-review"}
-{"pattern": "non-systematic", "label": "Non-systematic-review"}
-{"pattern": "summarize", "label": "Remaining"}
-{"pattern": "summary", "label": "Remaining"}
-{"pattern": "traditional", "label": "Remaining"}
-{"pattern": "expert", "label": "Remaining"}
-{"pattern": "assigned", "label": "Remaining"}
-{"pattern": "randomly assigned", "label": "Remaining"}
-{"pattern": "placebo", "label": "Remaining"}
-{"pattern": "placebo controlled", "label": "Remaining"}
-{"pattern": "RCT", "label": "Remaining"}
-{"pattern": "healthy controls", "label": "Remaining"}
-{"pattern": "randomized", "label": "Remaining"}
-{"pattern": "randomized control trial", "label": "Remaining"}
-{"pattern": "randomization", "label": "Remaining"}
-{"pattern": "random", "label": "Remaining"}
-{"pattern": "randomly", "label": "Remaining"}
-{"pattern": "controlled trial", "label": "Remaining"}
-{"pattern": "doubleblind", "label": "Remaining"}
-{"pattern": "double blinded", "label": "Remaining"}
-{"pattern": "doubleblinded", "label": "Remaining"}
-{"pattern": "patients", "label": "Remaining"}
-{"pattern": "case", "label": "Human-case-report"}
-{"pattern": "report", "label": "Human-case-report"}
-{"pattern": "case report", "label": "Human-case-report"}
-{"pattern": "case series", "label": "Human-case-report"}
-{"pattern": "case control", "label": "Human-case-report"}
-{"pattern": "case controled", "label": "Human-case-report"}
-{"pattern": "compared with", "label": "Human-case-report"}
-{"pattern": "meta-analyis", "label": "Remaining"}
-{"pattern": "aims", "label": "Remaining"}
-{"pattern": "single arm", "label": "Remaining"}
-{"pattern": "regeression analysis", "label": "Remaining"}
-{"pattern": "therapy", "label": "Remaining"}
-{"pattern": "therapeutic", "label": "Remaining"}
-{"pattern": "intervention", "label": "Human-RCT-drug-intervention"}
-{"pattern": "surgery", "label": "Remaining"}
-{"pattern": "physical therapy", "label": "Remaining"}
-{"pattern": "radiotherapy", "label": "Remaining"}
-{"pattern": "longitudinal", "label": "Remaining"}
-{"pattern": "prevalence", "label": "Remaining"}
-{"pattern": "epidemiology", "label": "Remaining"}
-{"pattern": "diagnostic", "label": "Remaining"}
-{"pattern": "diagnosis", "label": "Remaining"}
-{"pattern": "questionnaire", "label": "Remaining"}
-{"pattern": "interview", "label": "Remaining"}
-{"pattern": "classification", "label": "Remaining"}
-{"pattern": "score", "label": "Remaining"}
-{"pattern": "methodological", "label": "Remaining"}
-{"pattern": "methodology", "label": "Remaining"}
-{"pattern": "historic", "label": "Remaining"}
-{"pattern": "history", "label": "Remaining"}
-{"pattern": "retrospective", "label": "Remaining"}
-{"pattern": "vascular", "label": "Remaining"}
-{"pattern": "animal", "label": "Remaining"}
-{"pattern": "systematic review", "label": "Animal-systematic-review"}
-{"pattern": "systematic", "label": "Animal-systematic"}
-{"pattern": "meta-analysis", "label": "Animal-systematic-review"}
-{"pattern": "cells", "label": "Remaining"}
-{"pattern": "in vitro", "label": "Remaining"}
-{"pattern": "in vivo", "label": "Remaining"}
-{"pattern": "trial", "label": "Remaining"}
-{"pattern": "animal trial", "label": "Remaining"}
-{"pattern": "trials", "label": "Remaining"}
-{"pattern": "animal trials", "label": "Remaining"}
-{"pattern": "transgenic", "label": "Remaining"}
-{"pattern": "genes", "label": "Remaining"}
-{"pattern": "knockout", "label": "Remaining"}
-{"pattern": "observational", "label": "Remaining"}
-{"pattern": "mouse", "label": "Remaining"}
-{"pattern": "mice", "label": "Remaining"}
-{"pattern": "monkey", "label": "Remaining"}
-{"pattern": "monkeys", "label": "Remaining"}
-{"pattern": "ape", "label": "Remaining"}
-{"pattern": "beagle", "label": "Remaining"}
-{"pattern": "beagles", "label": "Remaining"}
-{"pattern": "piglets", "label": "Remaining"}
-{"pattern": "porcine", "label": "Remaining"}
-{"pattern": "rabbits", "label": "Remaining"}
-{"pattern": "rabbit", "label": "Remaining"}
-{"pattern": "rat", "label": "Remaining"}
-{"pattern": "rodent", "label": "Remaining"}
-{"pattern": "equine", "label": "Remaining"}
-{"pattern": "cat", "label": "Remaining"}
-{"pattern": "cats", "label": "Remaining"}
-{"pattern": "dog", "label": "Remaining"}
-{"pattern": "dogs", "label": "Remaining"}
-{"pattern": "canine", "label": "Remaining"}
-{"pattern": "fish", "label": "Remaining"}
+{"pattern": [{"lower": "human"}], "label": "Remaining"}
+{"pattern": [{"lower": "cohort"}], "label": "Remaining"}
+{"pattern": [{"lower": "study"}], "label": "Remaining"}
+{"pattern": [{"lower": "review"}], "label": "Non-systematic-review"}
+{"pattern": [{"lower": "literature"}], "label": "Remaining"}
+{"pattern": [{"lower": "systematic"}], "label": "Human-systematic-review"}
+{"pattern": [{"lower": "non-systematic"}], "label": "Non-systematic-review"}
+{"pattern": [{"lower": "summarize"}], "label": "Remaining"}
+{"pattern": [{"lower": "summary"}], "label": "Remaining"}
+{"pattern": [{"lower": "traditional"}], "label": "Remaining"}
+{"pattern": [{"lower": "expert"}], "label": "Remaining"}
+{"pattern": [{"lower": "assigned"}], "label": "Remaining"}
+{"pattern": [{"lower": "randomly assigned"}], "label": "Remaining"}
+{"pattern": [{"lower": "placebo"}], "label": "Remaining"}
+{"pattern": [{"lower": "placebo controlled"}], "label": "Remaining"}
+{"pattern": [{"lower": "RCT"}], "label": "Remaining"}
+{"pattern": [{"lower": "healthy controls"}], "label": "Remaining"}
+{"pattern": [{"lower": "randomized"}], "label": "Remaining"}
+{"pattern": [{"lower": "randomized control trial"}], "label": "Remaining"}
+{"pattern": [{"lower": "randomization"}], "label": "Remaining"}
+{"pattern": [{"lower": "random"}], "label": "Remaining"}
+{"pattern": [{"lower": "randomly"}], "label": "Remaining"}
+{"pattern": [{"lower": "controlled trial"}], "label": "Remaining"}
+{"pattern": [{"lower": "doubleblind"}], "label": "Remaining"}
+{"pattern": [{"lower": "double blinded"}], "label": "Remaining"}
+{"pattern": [{"lower": "doubleblinded"}], "label": "Remaining"}
+{"pattern": [{"lower": "patients"}], "label": "Remaining"}
+{"pattern": [{"lower": "case"}], "label": "Human-case-report"}
+{"pattern": [{"lower": "report"}], "label": "Human-case-report"}
+{"pattern": [{"lower": "case report"}], "label": "Human-case-report"}
+{"pattern": [{"lower": "case series"}], "label": "Human-case-report"}
+{"pattern": [{"lower": "case control"}], "label": "Human-case-report"}
+{"pattern": [{"lower": "case controled"}], "label": "Human-case-report"}
+{"pattern": [{"lower": "compared with"}], "label": "Human-case-report"}
+{"pattern": [{"lower": "meta-analyis"}], "label": "Remaining"}
+{"pattern": [{"lower": "aims"}], "label": "Remaining"}
+{"pattern": [{"lower": "single arm"}], "label": "Remaining"}
+{"pattern": [{"lower": "regeression analysis"}], "label": "Remaining"}
+{"pattern": [{"lower": "therapy"}], "label": "Remaining"}
+{"pattern": [{"lower": "therapeutic"}], "label": "Remaining"}
+{"pattern": [{"lower": "intervention"}], "label": "Human-RCT-drug-intervention"}
+{"pattern": [{"lower": "surgery"}], "label": "Remaining"}
+{"pattern": [{"lower": "physical therapy"}], "label": "Remaining"}
+{"pattern": [{"lower": "radiotherapy"}], "label": "Remaining"}
+{"pattern": [{"lower": "longitudinal"}], "label": "Remaining"}
+{"pattern": [{"lower": "prevalence"}], "label": "Remaining"}
+{"pattern": [{"lower": "epidemiology"}], "label": "Remaining"}
+{"pattern": [{"lower": "diagnostic"}], "label": "Remaining"}
+{"pattern": [{"lower": "diagnosis"}], "label": "Remaining"}
+{"pattern": [{"lower": "questionnaire"}], "label": "Remaining"}
+{"pattern": [{"lower": "interview"}], "label": "Remaining"}
+{"pattern": [{"lower": "classification"}], "label": "Remaining"}
+{"pattern": [{"lower": "score"}], "label": "Remaining"}
+{"pattern": [{"lower": "methodological"}], "label": "Remaining"}
+{"pattern": [{"lower": "methodology"}], "label": "Remaining"}
+{"pattern": [{"lower": "historic"}], "label": "Remaining"}
+{"pattern": [{"lower": "history"}], "label": "Remaining"}
+{"pattern": [{"lower": "retrospective"}], "label": "Remaining"}
+{"pattern": [{"lower": "vascular"}], "label": "Remaining"}
+{"pattern": [{"lower": "animal"}], "label": "Remaining"}
+{"pattern": [{"lower": "systematic review"}], "label": "Animal-systematic-review"}
+{"pattern": [{"lower": "systematic"}], "label": "Animal-systematic"}
+{"pattern": [{"lower": "meta-analysis"}], "label": "Animal-systematic-review"}
+{"pattern": [{"lower": "cells"}], "label": "Remaining"}
+{"pattern": [{"lower": "in vitro"}], "label": "Remaining"}
+{"pattern": [{"lower": "in vivo"}], "label": "Remaining"}
+{"pattern": [{"lower": "trial"}], "label": "Remaining"}
+{"pattern": [{"lower": "animal trial"}], "label": "Remaining"}
+{"pattern": [{"lower": "trials"}], "label": "Remaining"}
+{"pattern": [{"lower": "animal trials"}], "label": "Remaining"}
+{"pattern": [{"lower": "transgenic"}], "label": "Remaining"}
+{"pattern": [{"lower": "genes"}], "label": "Remaining"}
+{"pattern": [{"lower": "knockout"}], "label": "Remaining"}
+{"pattern": [{"lower": "observational"}], "label": "Remaining"}
+{"pattern": [{"lower": "mouse"}], "label": "Remaining"}
+{"pattern": [{"lower": "mice"}], "label": "Remaining"}
+{"pattern": [{"lower": "monkey"}], "label": "Remaining"}
+{"pattern": [{"lower": "monkeys"}], "label": "Remaining"}
+{"pattern": [{"lower": "ape"}], "label": "Remaining"}
+{"pattern": [{"lower": "beagle"}], "label": "Remaining"}
+{"pattern": [{"lower": "beagles"}], "label": "Remaining"}
+{"pattern": [{"lower": "piglets"}], "label": "Remaining"}
+{"pattern": [{"lower": "porcine"}], "label": "Remaining"}
+{"pattern": [{"lower": "rabbits"}], "label": "Remaining"}
+{"pattern": [{"lower": "rabbit"}], "label": "Remaining"}
+{"pattern": [{"lower": "rat"}], "label": "Remaining"}
+{"pattern": [{"lower": "rodent"}], "label": "Remaining"}
+{"pattern": [{"lower": "equine"}], "label": "Remaining"}
+{"pattern": [{"lower": "cat"}], "label": "Remaining"}
+{"pattern": [{"lower": "cats"}], "label": "Remaining"}
+{"pattern": [{"lower": "dog"}], "label": "Remaining"}
+{"pattern": [{"lower": "dogs"}], "label": "Remaining"}
+{"pattern": [{"lower": "canine"}], "label": "Remaining"}
+{"pattern": [{"lower": "fish"}], "label": "Remaining"}

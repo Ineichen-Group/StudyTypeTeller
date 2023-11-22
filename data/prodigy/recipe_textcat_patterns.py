@@ -63,6 +63,21 @@ def manual(
             "choice_auto_accept": False,
             "exclude_by": "task",
             "auto_count_stream": True,
+            "keymap_by_label": {
+                "0": "1",
+                "1": "2",
+                "2": "3",
+                "3": "4",
+                "4": "5",
+                "5": "6",
+                "6": "7",
+                "7": "8",
+                "8": "9",
+                "9": "i",
+                "10": "o",
+                "11": "n",
+                "12": "r"
+            }
         },
     }
 
