@@ -11,13 +11,18 @@ The pyproject.toml file contains all relevant packages that need to be installed
 # 2. Data
 ## Querying PubMed
 
-Given a list of relevant PMIDs ([pmids.txt](data%2Fpubmed%2Fpmids.txt)).
+To obtain the initial set of relevant PMIDs, the database was queried using a generic search string related to CNS and Psychiatric conditions, as follows:
+`esearch -db pubmed -query 'Central nervous system diseases[MeSH] OR Mental Disorders Psychiatric illness[MeSH]' | efetch -format uid > ./pubmed/cns_psychiatric_diseases_mesh.txt
+`
+On 27/11/2023 this query returns 2,788,345 PMIDs, out of which we sample 5000 in [Data_Preparation.ipynb](data%2FData_Preparation.ipynb).
+
+Given this list (see [cns_psychiatric_diseases_mesh_5000_sample_pmids.txt](data%2Fpubmed%2Fcns_psychiatric_diseases_mesh_5000_sample_pmids.txt)).
 - Create a variable containing the list of PMIDs:
 
-`id_list=$(paste -sd, "pmids.txt") `
+`id_list=$(paste -sd, "./pubmed/cns_psychiatric_diseases_mesh_5000_sample_pmids.txt")`
 - Fetch the relevant contents from PubMed based on those IDs:
 
-`efetch -db pubmed -id $id_list -format xml | xtract -pattern PubmedArticle -tab '^' -def "N/A" -element MedlineCitation/PMID PubDate/Year Journal/Title ArticleTitle AbstractText -block ArticleId -if ArticleId@IdType -equals doi -element ArticleId > "./pmid_contents_v5.txt"
+`efetch -db pubmed -id $id_list -format xml | xtract -pattern PubmedArticle -tab '^' -def "N/A" -element MedlineCitation/PMID PubDate/Year Journal/Title ArticleTitle AbstractText -block ArticleId -if ArticleId@IdType -equals doi -element ArticleId > "./pubmed/pmid_contents_mesh_query.txt"
 `
 
 The data is then cleaned and prepared for annotation with prodigy in [Data_Preparation.ipynb](data%2FData_Preparation.ipynb).
