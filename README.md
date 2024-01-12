@@ -12,7 +12,7 @@ The pyproject.toml file contains all relevant packages that need to be installed
 ## Querying PubMed
 
 To obtain the initial set of relevant PMIDs, the database was queried using a generic search string related to CNS and Psychiatric conditions, as follows:
-
+y
 `esearch -db pubmed -query 'Central nervous system diseases[MeSH] OR Mental Disorders Psychiatric illness[MeSH]' | efetch -format uid > ./pubmed/cns_psychiatric_diseases_mesh.txt
 `
 
