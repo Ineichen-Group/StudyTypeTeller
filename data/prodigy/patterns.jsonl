@@ -70,7 +70,7 @@
 {"pattern": [{"lower": "systematic"}], "label": "Animal-systematic"}
 {"pattern": [{"lower": "meta-analysis"}], "label": "Animal-systematic-review"}
 {"pattern": [{"lower": "cells"}], "label": "Remaining"}
-{"pattern": [{"lower": "in vitro"}], "label": "Remaining"}
+{"pattern": [{"lower": "in vitro"}], "label": "In-vitro-study"}
 {"pattern": [{"lower": "in vivo"}], "label": "Remaining"}
 {"pattern": [{"lower": "trial"}], "label": "Remaining"}
 {"pattern": [{"lower": "animal trial"}], "label": "Remaining"}
@@ -100,3 +100,4 @@
 {"pattern": [{"lower": "dogs"}], "label": "Remaining"}
 {"pattern": [{"lower": "canine"}], "label": "Remaining"}
 {"pattern": [{"lower": "fish"}], "label": "Remaining"}
+{"pattern": [{"lower": "protocol"}], "label": "Clinica-study-protocol"}
