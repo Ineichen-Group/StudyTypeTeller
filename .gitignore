@@ -10,3 +10,5 @@ credentials.txt
 .ipynb_checkpoints/
 data/prodigy/typeteller_1500.zip
 .virtual_documents
+data/.DS_Store
+.DS_Store

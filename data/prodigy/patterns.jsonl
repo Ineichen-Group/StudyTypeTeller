@@ -1,6 +1,7 @@
 {"pattern": [{"lower": "human"}], "label": "Remaining"}
 {"pattern": [{"lower": "cohort"}], "label": "Remaining"}
 {"pattern": [{"lower": "study"}], "label": "Remaining"}
+{"pattern": [{"lower": "trial"}], "label": "Remaining"}
 {"pattern": [{"lower": "review"}], "label": "Non-systematic-review"}
 {"pattern": [{"lower": "literature"}], "label": "Remaining"}
 {"pattern": [{"lower": "systematic"}], "label": "Human-systematic-review"}
@@ -16,12 +17,19 @@
 {"pattern": [{"lower": "RCT"}], "label": "Remaining"}
 {"pattern": [{"lower": "healthy controls"}], "label": "Remaining"}
 {"pattern": [{"lower": "randomized"}], "label": "Remaining"}
+{"pattern": [{"lower": "randomised"}], "label": "Remaining"}
 {"pattern": [{"lower": "randomized control trial"}], "label": "Remaining"}
+{"pattern": [{"lower": "randomised control trial"}], "label": "Remaining"}
 {"pattern": [{"lower": "randomization"}], "label": "Remaining"}
+{"pattern": [{"lower": "randomisation"}], "label": "Remaining"}
 {"pattern": [{"lower": "random"}], "label": "Remaining"}
 {"pattern": [{"lower": "randomly"}], "label": "Remaining"}
 {"pattern": [{"lower": "controlled trial"}], "label": "Remaining"}
+{"pattern": [{"lower": "controlled"}], "label": "Remaining"}
 {"pattern": [{"lower": "doubleblind"}], "label": "Remaining"}
+{"pattern": [{"lower": "double-blind"}], "label": "Remaining"}
+{"pattern": [{"lower": "double blind"}], "label": "Remaining"}
+{"pattern": [{"lower": "double-blinded"}], "label": "Remaining"}
 {"pattern": [{"lower": "double blinded"}], "label": "Remaining"}
 {"pattern": [{"lower": "doubleblinded"}], "label": "Remaining"}
 {"pattern": [{"lower": "patients"}], "label": "Remaining"}
@@ -62,7 +70,7 @@
 {"pattern": [{"lower": "systematic"}], "label": "Animal-systematic"}
 {"pattern": [{"lower": "meta-analysis"}], "label": "Animal-systematic-review"}
 {"pattern": [{"lower": "cells"}], "label": "Remaining"}
-{"pattern": [{"lower": "in vitro"}], "label": "Remaining"}
+{"pattern": [{"lower": "in vitro"}], "label": "In-vitro-study"}
 {"pattern": [{"lower": "in vivo"}], "label": "Remaining"}
 {"pattern": [{"lower": "trial"}], "label": "Remaining"}
 {"pattern": [{"lower": "animal trial"}], "label": "Remaining"}
@@ -92,3 +100,4 @@
 {"pattern": [{"lower": "dogs"}], "label": "Remaining"}
 {"pattern": [{"lower": "canine"}], "label": "Remaining"}
 {"pattern": [{"lower": "fish"}], "label": "Remaining"}
+{"pattern": [{"lower": "protocol"}], "label": "Clinica-study-protocol"}
