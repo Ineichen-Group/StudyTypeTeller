@@ -33,7 +33,7 @@ def manual(
     only one can be selected during annotation.
     """
     if not labels:
-    	labels = ["Human-systematic-review", "Human-RCT-drug-intervention", "Human-RCT-non-drug-intervention", "Human-RCT-non-intervention", "Human-case-report", "Human-non-RCT-drug-intervention", "Human-non-RCT-non-drug-intervention", "Animal-systematic-review", "Animal-drug-intervention", "Animal-non-drug-intervention", "Animal-other", "Non-systematic-review", "In-vitro-study", "Clinical-study-protocol", "Remaining"]
+    	labels = ["Clinical-study-protocol", "Human-systematic-review", "Non-systematic-review", "Human-RCT-non-drug-intervention", "Human-RCT-drug-intervention", "Human-RCT-non-intervention", "Human-case-report", "Human-non-RCT-non-drug-intervention", "Human-non-RCT-drug-intervention", "Animal-systematic-review", "Animal-non-drug-intervention", "Animal-drug-intervention", "Animal-other", "In-vitro-study", "Remaining"]
     log("RECIPE: Starting recipe textcat.manual", locals())
     log(f"RECIPE: Annotating with {len(labels)} labels", labels)
     stream = get_stream(source, rehash=True, dedup=True, input_key="text")
@@ -73,11 +73,11 @@ def manual(
                 "6": "7",
                 "7": "8",
                 "8": "9",
-                "9": "i",
-                "10": "o",
-                "11": "n",
-                "12": "l",
-                "13": "p",
+                "9": "s",
+                "10": "n",
+                "11": "d",
+                "12": "o",
+                "13": "i",
                 "14": "r"
             }
         },
