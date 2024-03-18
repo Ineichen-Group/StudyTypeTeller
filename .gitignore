@@ -1,4 +1,12 @@
-.ipynb_checkpoints/
+#python cache
+__pycache__/
+
+#mac
+**.DS_Store
+
+#password GPT
 credentials.txt
+
+.ipynb_checkpoints/
 data/prodigy/typeteller_1500.zip
 .virtual_documents
