@@ -1,0 +1,29 @@
+{
+  "prompts": [
+    {
+      "id": "P1",
+      "text": "Classify this text, choosing one of these labels: Clinical-study-protocol, Human-systematic-review, Non-systematic-review, Human-RCT-non-drug-intervention, Human-RCT-drug-intervention, Human-RCT-non-intervention, Human-case-report, Human-non-RCT-non-drug-intervention, Human-non-RCT-drug-intervention, Animal-systematic-review, Animal-drug-intervention, Animal-non-drug-intervention, Animal-other, In-vitro-study, Remaining. Respond in json format with the key: gpt_label.",
+      "strategy_type": "zero_shot"
+    },
+    {
+      "id": "P2",
+      "text": "Determine which of these labels fits the text best: Clinical-study-protocol, Human-systematic-review, Non-systematic-review, Human-RCT-non-drug-intervention, Human-RCT-drug-intervention, Human-RCT-non-intervention, Human-case-report, Human-non-RCT-non-drug-intervention, Human-non-RCT-drug-intervention, Animal-systematic-review, Animal-drug-intervention, Animal-non-drug-intervention, Animal-other, In-vitro-study, Remaining. Respond in json format with the key: gpt_label.",
+      "strategy_type": "zero_shot"
+    },
+    {
+      "id": "P3",
+      "text": "Classify this text, choosing one of these labels: Clinical-study-protocol, Human-systematic-review, Non-systematic-review, Human-RCT-non-drug-intervention, Human-RCT-drug-intervention, Human-RCT-non-intervention, Human-case-report, Human-non-RCT-non-drug-intervention, Human-non-RCT-drug-intervention, Animal-systematic-review, Animal-drug-intervention, Animal-non-drug-intervention, Animal-other, In-vitro-study, Remaining. Respond in json format with the keys: gpt_label and gpt_explanation. The value for gpt_explanation should be a very short explanation for why gpt chose the label.",
+      "strategy_type": "zero_shot_with_output_explanation"
+    },
+    {
+      "id": "P4",
+      "text": "Classify the following text by choosing the most appropriate label from the list below. This classification applies to the title and/or abstract of a study. Respond in JSON format with the key: gpt_label.\n\nLabels and Guidelines:\n1. Study protocol: A study protocol for a clinical trial or systematic review.\n2. Human, systematic review: A structured research summary including human data.\n3. Non-systematic review: A text reviewing a certain topic in a non-systematic way.\n4. Human, RCT non-drug-intervention: A randomized controlled trial of a non-drug therapeutic intervention in human participants.\n5. RCT drug-intervention: A randomized controlled trial of a drug intervention in human participants.\n6. RCT non-intervention: A randomized controlled trial not testing any therapeutic intervention.\n7. Case report: A clinical study reporting findings of one single human individual.\n8. Non-RCT non-drug-intervention: Any non-RCT clinical study of a non-drug therapeutic intervention in human participants.\n9. Non-RCT drug-intervention: Any non-RCT clinical study of a drug intervention in human participants.\n10. Animal, systematic review: A structured research summary including animal data.\n11. Animal, non-drug-intervention: An animal study testing a non-drug therapeutic intervention.\n12. Animal, drug-intervention: An animal study testing a drug.\n13. Animal, other: Any animal study not testing a therapeutic intervention.\n14. In-vitro study: An experimental study conducted outside a living organism.\n15. Remaining: Any remaining study type not covered by the above definitions.\n\nYour task is to read the abstract and/or title provided, apply these guidelines, and determine the most accurate classification for the study. Ensure your response adheres to the specified format for submission.",
+      "strategy_type": "with_annotation_guidelines"
+    },
+    {
+      "id": "P5",
+      "text": "Classify the following text by choosing the most appropriate label from the list below. Use the first word, label, working definition, and hierarchy provided for guidance. This classification applies to the title and/or abstract of a study. Respond in JSON format with the keys: gpt_label and gpt_explanation. The value for gpt_explanation should be a concise rationale for the selected label.\n\nLabels and Guidelines:\n1. Study protocol: A study protocol for a clinical trial or systematic review.\n2. Human, systematic review: A structured research summary including human data.\n3. Non-systematic review: A text reviewing a certain topic in a non-systematic way.\n4. Human, RCT non-drug-intervention: A randomized controlled trial of a non-drug therapeutic intervention in human participants.\n5. RCT drug-intervention: A randomized controlled trial of a drug intervention in human participants.\n6. RCT non-intervention: A randomized controlled trial not testing any therapeutic intervention.\n7. Case report: A clinical study reporting findings of one single human individual.\n8. Non-RCT non-drug-intervention: Any non-RCT clinical study of a non-drug therapeutic intervention in human participants.\n9. Non-RCT drug-intervention: Any non-RCT clinical study of a drug intervention in human participants.\n10. Animal, systematic review: A structured research summary including animal data.\n11. Animal, non-drug-intervention: An animal study testing a non-drug therapeutic intervention.\n12. Animal, drug-intervention: An animal study testing a drug.\n13. Animal, other: Any animal study not testing a therapeutic intervention.\n14. In-vitro study: An experimental study conducted outside a living organism.\n15. Remaining: Any remaining study type not covered by the above definitions.\n\nYour task is to read the abstract and/or title provided, apply these guidelines, and determine the most accurate classification for the study. Ensure your response adheres to the specified format for submission.",
+      "strategy_type": "with_annotation_guidelines_and_output_explanation"
+    }
+  ]
+}
