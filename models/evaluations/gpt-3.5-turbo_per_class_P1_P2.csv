@@ -1,0 +1,37 @@
+,precision,recall,f1-score,support,Prompt ID
+Human-systematic-review,0.0,0.0,0.0,0.0,P1
+Human-RCT-drug-intervention,0.0,0.0,0.0,0.0,P1
+Human-RCT-non-drug-intervention,1.0,1.0,1.0,1.0,P1
+Human-RCT-non-intervention,0.0,0.0,0.0,0.0,P1
+Human-case-report,0.0,0.0,0.0,0.0,P1
+Human-non-RCT-drug-intervention,0.0,0.0,0.0,1.0,P1
+Human-non-RCT-non-drug-intervention,0.0,0.0,0.0,1.0,P1
+Animal-systematic-review,0.0,0.0,0.0,0.0,P1
+Animal-drug-intervention,0.0,0.0,0.0,0.0,P1
+Animal-non-drug-intervention,0.0,0.0,0.0,0.0,P1
+Animal-other,0.0,0.0,0.0,1.0,P1
+Non-systematic-review,0.0,0.0,0.0,0.0,P1
+In-vitro-study,0.0,0.0,0.0,0.0,P1
+Clinical-study-protocol,0.0,0.0,0.0,0.0,P1
+Remaining,0.0,0.0,0.0,6.0,P1
+micro avg,0.1,0.1,0.10000000000000002,10.0,P1
+macro avg,0.06666666666666667,0.06666666666666667,0.06666666666666667,10.0,P1
+weighted avg,0.1,0.1,0.1,10.0,P1
+Human-systematic-review,0.0,0.0,0.0,0.0,P2
+Human-RCT-drug-intervention,0.0,0.0,0.0,0.0,P2
+Human-RCT-non-drug-intervention,1.0,1.0,1.0,1.0,P2
+Human-RCT-non-intervention,0.0,0.0,0.0,0.0,P2
+Human-case-report,0.0,0.0,0.0,0.0,P2
+Human-non-RCT-drug-intervention,0.0,0.0,0.0,1.0,P2
+Human-non-RCT-non-drug-intervention,0.0,0.0,0.0,1.0,P2
+Animal-systematic-review,0.0,0.0,0.0,0.0,P2
+Animal-drug-intervention,0.0,0.0,0.0,0.0,P2
+Animal-non-drug-intervention,0.0,0.0,0.0,0.0,P2
+Animal-other,1.0,1.0,1.0,1.0,P2
+Non-systematic-review,0.0,0.0,0.0,0.0,P2
+In-vitro-study,0.0,0.0,0.0,0.0,P2
+Clinical-study-protocol,0.0,0.0,0.0,0.0,P2
+Remaining,0.0,0.0,0.0,6.0,P2
+micro avg,0.2,0.2,0.20000000000000004,10.0,P2
+macro avg,0.13333333333333333,0.13333333333333333,0.13333333333333333,10.0,P2
+weighted avg,0.2,0.2,0.2,10.0,P2
