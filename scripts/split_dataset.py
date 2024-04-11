@@ -10,15 +10,6 @@ from collections import defaultdict
 
 
 
-def map_to_label(col, label_map):
-    """ 
-    Function to map flattened_labels to the corresponding label 
-    """
-    for label, sublabels in label_map.items():
-        if col in sublabels:
-            return label
-    return None
-
 def map_labels(df):
 
     label_map = {
@@ -63,6 +54,15 @@ def map_labels(df):
         'Human-RCT-non-intervention': 12
     }
 
+    def map_to_label(col, label_map):
+        """ 
+        Function to map flattened_labels to the corresponding label 
+        """
+        for label, sublabels in label_map.items():
+            if col in sublabels:
+                return label
+        return None
+        
     df['BINARY_CLASS'] = df['accepted_label'].apply(lambda x: map_to_label(x, label_map))
     df.dropna(subset=['BINARY_CLASS'], inplace=True)  # Make sure there are no empty datapoints
     df['NUM_LABEL_BINARY'] = df['BINARY_CLASS'].map(label_mapping_binary)  # Encode binary labels
