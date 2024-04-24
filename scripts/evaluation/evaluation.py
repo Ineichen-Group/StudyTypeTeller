@@ -75,6 +75,9 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
             predictions.extend(preds.cpu().numpy())
             true_labels.extend(batch[2].cpu().numpy())
 
+    # create subdir for predictions if does not exist
+    predictions_dir = os.path.join(output_dir, 'predictions')
+    os.makedirs(predictions_dir, exist_ok=True)
     # Save predictions and true labels with the model name as CSV
     with open(os.path.join(output_dir, f'{model_name}_predictions.csv'), 'w', newline='') as f:
         writer = csv.writer(f)
@@ -83,7 +86,6 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
 
     classification_report_str = classification_report(true_labels, predictions)
     logger.info(f"Model: {model_name}\n{classification_report_str}")
-
     # create subdir for classification reports if does not exist
     class_report_dir = os.path.join(output_dir, 'classification_reports')
     os.makedirs(class_report_dir, exist_ok=True)
