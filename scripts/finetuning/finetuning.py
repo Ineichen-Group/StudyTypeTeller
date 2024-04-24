@@ -48,7 +48,7 @@ def load_data_splits(data_dir, col_name, tokenizer_name, batch_size):
     return DataLoader(train_dataset, sampler=RandomSampler(train_dataset), batch_size=batch_size), DataLoader(val_dataset, sampler=SequentialSampler(val_dataset), batch_size=batch_size)
 
 
-def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_size, learning_rate, weight_decay, data_dir, save_dir, classification_type, logger):
+def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_size, learning_rate, weight_decay, data_dir, save_dir, log_dir, classification_type, logger):
     log_dir = os.path.join(save_dir, 'logs')  # logs are saved here
     os.makedirs(log_dir, exist_ok=True) # create if does not exist yet
 
@@ -75,7 +75,7 @@ def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_si
     best_val_loss = float('inf')
     best_model_path = None
     no_improvement_count = 0  # Initialize the counter for epochs without improvement
-    
+
     # for plotting
     train_losses = []
     val_losses = []
@@ -179,6 +179,8 @@ def main(classification_type):
     # define input and output dirs
     data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes"
     save_dir = f"./../../models/transformers/checkpoints/{classification_type}/models"
+    log_dir = f"./../../models/transformers/checkpoints/{classification_type}"
+ 
     # define models and map autotokenizers
     # TODO more elegant way to do this?
     models_to_fine_tune = [
@@ -193,10 +195,8 @@ def main(classification_type):
     # select logger output dir based on classification type
     if classification_type == 'binary':
         col_name = 'binary_label'
-        log_dir = './logs/binary'
     else:
         col_name = 'multi_label'
-        log_dir = './logs/multi'
     
     # set up logger
     os.makedirs(log_dir, exist_ok=True)
@@ -217,6 +217,7 @@ def main(classification_type):
             weight_decay=5e-4,
             data_dir=data_dir,
             save_dir=save_dir,
+            log_dir=log_dir,
             classification_type=classification_type,
             logger=logger
         )
