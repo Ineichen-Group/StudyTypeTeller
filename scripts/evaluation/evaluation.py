@@ -75,7 +75,7 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
     predictions_dir = os.path.join(output_dir, 'predictions')
     os.makedirs(predictions_dir, exist_ok=True)
     # Save predictions and true labels with the model name as CSV
-    with open(os.path.join(output_dir, f'{model_name}_predictions.csv'), 'w', newline='') as f:
+    with open(os.path.join(predictions_dir, f'{model_name}_predictions.csv'), 'w', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(['prediction', 'true_label'])
         writer.writerows(zip(predictions, true_labels))
@@ -87,7 +87,7 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
     class_report_dir = os.path.join(output_dir, 'classification_reports')
     os.makedirs(class_report_dir, exist_ok=True)
     # Save classification report with the model name
-    with open(os.path.join(output_dir, f'{model_name}_classification_report.txt'), 'w') as f:
+    with open(os.path.join(class_report_dir, f'{model_name}_classification_report.txt'), 'w') as f:
         f.write(classification_report_str)
 
     ################# Confusion matrix #################
@@ -114,8 +114,11 @@ def main(classification_type):
 
     checkpoint_dir = f"./../../models/transformers/checkpoints/{classification_type}/models"
     data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes"
-
-    logging.basicConfig(filename=f"{classification_type}_evaluation.log", filemode='a', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+    output_dir = f'./../../models/transformers/evaluations/{classification_type}'
+    os.makedirs(output_dir, exist_ok=True)
+    logs_dir = os.path.join(output_dir, 'logs')
+    os.makedirs(logs_dir, exist_ok=True)
+    logging.basicConfig(filename=os.path.join(logs_dir, f"evaluation.log"), filemode='a', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
     logger = logging.getLogger(__name__)
 
     for model_name in os.listdir(checkpoint_dir):
@@ -131,12 +134,10 @@ def main(classification_type):
         # Shuffle the test set
         test_dataloader = DataLoader(test_dataset, batch_size=8, shuffle=True)
 
-        output_dir = f'./../../models/transformers/evaluations/{classification_type}'
-        os.makedirs(output_dir, exist_ok=True)
-
         evaluate_model(model, test_dataloader, output_dir, model_name, logger)
 
 
 
 if __name__ == "__main__":
-    main(classification_type='binary')  # TODO specify classification type
+    # TODO specify classification type (binary, multi)
+    main(classification_type='binary')  
