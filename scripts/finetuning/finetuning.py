@@ -14,7 +14,7 @@ def setup_logger(log_dir):
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.INFO)
     formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-    file_handler = logging.FileHandler(os.path.join(log_dir, 'training.log'), mode='a') # TODO append logs instead of overwriting
+    file_handler = logging.FileHandler(os.path.join(log_dir, 'training.log'), mode='a') # mode='a' is to append logs instead of overwriting
     file_handler.setFormatter(formatter)
     logger.addHandler(file_handler)
 
@@ -22,6 +22,7 @@ def setup_logger(log_dir):
 
 
 def load_data_splits(data_dir, col_name, tokenizer_name, batch_size):
+    # set paths to data splits and create dfs
     train_file = os.path.join(data_dir, 'train.csv')
     val_file = os.path.join(data_dir, 'val.csv')
     train_df = pd.read_csv(train_file)
@@ -30,15 +31,17 @@ def load_data_splits(data_dir, col_name, tokenizer_name, batch_size):
     # Concatenate 'journal_name', 'title', and 'abstract' columns to create 'text' column
     train_df['text'] = train_df['journal_name'] + ' ' + train_df['title'] + ' ' + train_df['abstract']
     val_df['text'] = val_df['journal_name'] + ' ' + val_df['title'] + ' ' + val_df['abstract']
-
-
+ 
+    # tokenize and encode textual data
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
     train_encodings = tokenizer(train_df['text'].tolist(), padding=True, truncation=True, max_length=256, return_tensors='pt')
     val_encodings = tokenizer(val_df['text'].tolist(), padding=True, truncation=True, max_length=256, return_tensors='pt')
-
+ 
+    # encode labels
     train_labels = torch.tensor(train_df[col_name].values)
     val_labels = torch.tensor(val_df[col_name].values)
 
+    # create encoded dataset
     train_dataset = TensorDataset(train_encodings['input_ids'], train_encodings['attention_mask'], train_labels)
     val_dataset = TensorDataset(val_encodings['input_ids'], val_encodings['attention_mask'], val_labels)
 
@@ -52,7 +55,8 @@ def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_si
     if classification_type == 'binary':
         num_labels = 2
     elif classification_type == 'multi':
-        num_labels = 14 # TODO double-check the classes in new data split
+        # TODO double-check the classes in new data split
+        num_labels = 14 
     else:
         raise ValueError("Invalid classification_type. Must be either 'binary' or 'multi'.")
 
@@ -64,12 +68,14 @@ def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_si
     criterion = nn.CrossEntropyLoss()
 
     total_steps = len(train_dataloader) * epochs
-    num_warmup_steps = int(total_steps * 0.1) # TODO modify to adapt dynamically
+    # TODO modify to adapt warmup dynamically
+    num_warmup_steps = int(total_steps * 0.1) 
     scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=num_warmup_steps, num_training_steps=total_steps)
 
     best_val_loss = float('inf')
     best_model_path = None
     no_improvement_count = 0  # Initialize the counter for epochs without improvement
+    
     # for plotting
     train_losses = []
     val_losses = []
@@ -136,20 +142,19 @@ def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_si
         print(f"Validation Loss: {val_loss}")
         print(f"Validation F1-score: {f1}")
         
-
         # Early stopping / patience
         if no_improvement_count >= patience:
             logger.info(f"Early stopping as validation loss didn't improve for {patience} consecutive epochs.")
             print((f"Early stopping as validation loss didn't improve for {patience} consecutive epochs."))
             break
-
         # Increment the counter if there's no improvement
         no_improvement_count += 1
-
+    
+    ################# Plot train and val losses #################
+    # create dir for plots
     model_name = model_name.replace("/", "_") # to avoid dir creation error
     plot_dir = os.path.join(save_dir, 'plots')
     os.makedirs(plot_dir, exist_ok=True)
-
     # Plot and save the training loss
     plt.plot(range(1, len(train_losses) + 1), train_losses, label='Train Loss')
     plt.xlabel('Epoch')
@@ -159,7 +164,6 @@ def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_si
     plt.savefig(os.path.join(plot_dir, f'{model_name}_train_loss_plot.png'))
     plt.show()
     plt.close()
-
     # Plot and save the validation loss
     plt.plot(range(1, len(val_losses)+1), val_losses, label='Validation Loss')
     plt.xlabel('Epoch')
@@ -172,9 +176,11 @@ def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_si
 
 
 def main(classification_type):
-
+    # define input and output dirs
     data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes"
-    save_dir = f"./../../models/transformers/checkpoints/{classification_type}"
+    save_dir = f"./../../models/transformers/checkpoints/{classification_type}/models"
+    # define models and map autotokenizers
+    # TODO more elegant way to do this?
     models_to_fine_tune = [
         ('bert-base-uncased', 'bert-base-uncased'),
         ('microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext', 'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext'),
@@ -183,8 +189,8 @@ def main(classification_type):
         ('dmis-lab/biobert-v1.1', 'dmis-lab/biobert-v1.1')
     ]
 
-
     # select label column based on classification type
+    # select logger output dir based on classification type
     if classification_type == 'binary':
         col_name = 'binary_label'
         log_dir = './logs/binary'
@@ -192,10 +198,11 @@ def main(classification_type):
         col_name = 'multi_label'
         log_dir = './logs/multi'
     
-    # Ensure that the directory exists
+    # set up logger
     os.makedirs(log_dir, exist_ok=True)
     logger = setup_logger(log_dir)
 
+    # iterate over model-tokenizer pairs and finetune models
     for model_name, tokenizer_name in models_to_fine_tune:
         logger.info(f"\n\n************** Fine-tuning {model_name} {classification_type} **************")
         print((f"\n\n************** Fine-tuning {model_name} {classification_type} **************"))
@@ -214,5 +221,7 @@ def main(classification_type):
             logger=logger
         )
 
+
 if __name__ == "__main__":
-    main(classification_type='multi')
+    # TODO select classification type (multi, binary)
+    main(classification_type='multi') 
