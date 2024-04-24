@@ -4,14 +4,11 @@ from transformers import AutoTokenizer
 from sklearn.metrics import classification_report, confusion_matrix
 import pandas as pd
 import os
-import json
 import csv
 import logging
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-
 
 def load_model(model_path):
     model = torch.load(model_path)
