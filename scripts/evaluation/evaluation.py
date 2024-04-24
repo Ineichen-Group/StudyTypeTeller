@@ -136,7 +136,7 @@ def main(classification_type):
         # Shuffle the test set
         test_dataloader = DataLoader(test_dataset, batch_size=8, shuffle=True)
 
-        output_dir = f'./../../models/transformers/evaluations/outputs/{classification_type}'
+        output_dir = f'./../../models/transformers/evaluations/{classification_type}'
         os.makedirs(output_dir, exist_ok=True)
 
         evaluate_model(model, test_dataloader, output_dir, model_name, logger)
