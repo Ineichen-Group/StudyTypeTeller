@@ -22,6 +22,8 @@ def load_test_data(data_dir, model_name, classification_type):
     test_file = os.path.join(data_dir, 'test.csv')
     test_df = pd.read_csv(test_file)
 
+    # map models and auto-tokenizers 
+    # TODO more elegant way to do this?
     tokenizer_name = None
     if 'bert-base-uncased' in model_name:
         tokenizer_name = 'bert-base-uncased'
@@ -33,17 +35,16 @@ def load_test_data(data_dir, model_name, classification_type):
         tokenizer_name = 'allenai/scibert_scivocab_uncased'
     elif 'dmis-lab_biobert-v1.1' in model_name:
         tokenizer_name = 'dmis-lab/biobert-v1.1'
-
     if tokenizer_name is None:
         raise ValueError(f"Tokenizer not found for model: {model_name}")
-
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
 
     # Concatenate 'journal_name', 'title', and 'abstract' columns to create 'text' column
     test_df['text'] = test_df['journal_name'] + ' ' + test_df['title'] + ' ' + test_df['abstract']
-
+    # encode textual data
     test_encodings = tokenizer(test_df['text'].tolist(), padding=True, truncation=True, max_length=256, return_tensors='pt')
 
+    # designate label column dependent on the classification type 
     if classification_type == 'binary':
         test_labels = torch.tensor(test_df['binary_label'].values)
     elif classification_type == 'multi':
@@ -59,11 +60,13 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
     model.to(device)
     model.eval()
 
+    # collect data for for plotting
     predictions = []
     true_labels = []
 
+    # set to evaluation mode
     with torch.no_grad():
-        for batch in test_dataloader:
+        for batch in test_dataloader: # TODO larger batches?
             batch = tuple(t.to(device) for t in batch)
             inputs = {'input_ids': batch[0], 'attention_mask': batch[1], 'labels': batch[2]}
             outputs = model(**inputs)
@@ -81,6 +84,9 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
     classification_report_str = classification_report(true_labels, predictions)
     logger.info(f"Model: {model_name}\n{classification_report_str}")
 
+    # create subdir for classification reports if does not exist
+    class_report_dir = os.path.join(output_dir, 'classification_reports')
+    os.makedirs(class_report_dir, exist_ok=True)
     # Save classification report with the model name
     with open(os.path.join(output_dir, f'{model_name}_classification_report.txt'), 'w') as f:
         f.write(classification_report_str)
@@ -109,7 +115,7 @@ def main(classification_type):
     if classification_type not in ['binary', 'multi']:
         raise ValueError("Invalid classification type. Must be either 'binary' or 'multi'.")
 
-    checkpoint_dir = f"./../../models/transformers/checkpoints/{classification_type}"
+    checkpoint_dir = f"./../../models/transformers/checkpoints/{classification_type}/models"
     data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes"
 
     logging.basicConfig(filename=f"{classification_type}_evaluation.log", filemode='a', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
