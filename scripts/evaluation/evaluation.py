@@ -58,13 +58,11 @@ def load_test_data(data_dir, model_name, classification_type):
 def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model.to(device)
-    model.eval()
-
+    model.eval() # set to evaluation mode
     # collect data for for plotting
     predictions = []
     true_labels = []
 
-    # set to evaluation mode
     with torch.no_grad():
         for batch in test_dataloader: # TODO larger batches?
             batch = tuple(t.to(device) for t in batch)
@@ -75,6 +73,7 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
             predictions.extend(preds.cpu().numpy())
             true_labels.extend(batch[2].cpu().numpy())
 
+    ################# Predictions #################
     # create subdir for predictions if does not exist
     predictions_dir = os.path.join(output_dir, 'predictions')
     os.makedirs(predictions_dir, exist_ok=True)
@@ -84,6 +83,7 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
         writer.writerow(['prediction', 'true_label'])
         writer.writerows(zip(predictions, true_labels))
 
+    ################# Classification report #################
     classification_report_str = classification_report(true_labels, predictions)
     logger.info(f"Model: {model_name}\n{classification_report_str}")
     # create subdir for classification reports if does not exist
@@ -93,21 +93,19 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger):
     with open(os.path.join(output_dir, f'{model_name}_classification_report.txt'), 'w') as f:
         f.write(classification_report_str)
 
+    ################# Confusion matrix #################
     # Compute confusion matrix
     conf_matrix = confusion_matrix(true_labels, predictions)
     conf_matrix_norm = conf_matrix.astype('float') / conf_matrix.sum(axis=1)[:, np.newaxis] # normalizze
-
     # Plot confusion matrix
     plt.figure(figsize=(8, 6))
     sns.heatmap(conf_matrix_norm, annot=True, fmt=".2f", cmap="Blues")
     plt.xlabel('Predicted')
     plt.ylabel('True')
     plt.title(f'Confusion Matrix for {model_name}')
-
     # Create directory for confusion matrices if it doesn't exist
     confusion_matrices_dir = os.path.join(output_dir, 'confusion_matrices')
     os.makedirs(confusion_matrices_dir, exist_ok=True)
-
     # Save confusion matrix as PNG
     plt.savefig(os.path.join(confusion_matrices_dir, f'{model_name}_confusion_matrix.png'))
     plt.close()
