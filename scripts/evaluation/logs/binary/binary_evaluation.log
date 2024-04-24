@@ -1,0 +1,211 @@
+2024-04-23 16:23:23,485 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_allenai_scibert_scivocab_uncased_binary_epoch_1_val_loss_0.9476_FULL.pt
+2024-04-23 16:23:30,337 - INFO - Model: BEST_allenai_scibert_scivocab_uncased_binary_epoch_1_val_loss_0.9476_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.88      0.99      0.93       355
+           1       0.00      0.00      0.00        47
+
+    accuracy                           0.87       402
+   macro avg       0.44      0.49      0.47       402
+weighted avg       0.78      0.87      0.82       402
+
+2024-04-23 16:23:30,345 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_microsoft_BiomedNLP-BiomedBERT-base-uncased-abstract_binary_epoch_4_val_loss_0.9524_FULL.pt
+2024-04-23 16:23:35,901 - INFO - Model: BEST_microsoft_BiomedNLP-BiomedBERT-base-uncased-abstract_binary_epoch_4_val_loss_0.9524_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.89      0.77      0.83       355
+           1       0.15      0.30      0.20        47
+
+    accuracy                           0.72       402
+   macro avg       0.52      0.53      0.51       402
+weighted avg       0.81      0.72      0.75       402
+
+2024-04-23 16:23:35,914 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_microsoft_BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext_binary_epoch_6_val_loss_0.9614_FULL.pt
+2024-04-23 16:23:41,503 - INFO - Model: BEST_microsoft_BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext_binary_epoch_6_val_loss_0.9614_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.88      0.93      0.90       355
+           1       0.00      0.00      0.00        47
+
+    accuracy                           0.82       402
+   macro avg       0.44      0.46      0.45       402
+weighted avg       0.77      0.82      0.79       402
+
+2024-04-23 16:23:41,516 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_bert-base-uncased_binary_epoch_2_val_loss_0.9562_FULL.pt
+2024-04-23 16:23:47,091 - INFO - Model: BEST_bert-base-uncased_binary_epoch_2_val_loss_0.9562_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       355
+           1       0.83      0.94      0.88        47
+
+    accuracy                           0.97       402
+   macro avg       0.91      0.96      0.93       402
+weighted avg       0.97      0.97      0.97       402
+
+2024-04-23 16:23:47,103 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_dmis-lab_biobert-v1.1_binary_epoch_6_val_loss_0.9659_FULL.pt
+2024-04-23 17:54:18,737 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_allenai_scibert_scivocab_uncased_binary_epoch_1_val_loss_0.9476_FULL.pt
+2024-04-23 17:55:44,704 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_allenai_scibert_scivocab_uncased_binary_epoch_1_val_loss_0.9476_FULL.pt
+2024-04-23 17:55:58,034 - INFO - Model: BEST_allenai_scibert_scivocab_uncased_binary_epoch_1_val_loss_0.9476_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98       357
+           1       0.97      0.66      0.78        47
+
+    accuracy                           0.96       404
+   macro avg       0.96      0.83      0.88       404
+weighted avg       0.96      0.96      0.95       404
+
+2024-04-23 17:55:58,036 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_microsoft_BiomedNLP-BiomedBERT-base-uncased-abstract_binary_epoch_4_val_loss_0.9524_FULL.pt
+2024-04-23 17:56:04,976 - INFO - Model: BEST_microsoft_BiomedNLP-BiomedBERT-base-uncased-abstract_binary_epoch_4_val_loss_0.9524_FULL.pt
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99       357
+           1       0.88      0.98      0.93        47
+
+    accuracy                           0.98       404
+   macro avg       0.94      0.98      0.96       404
+weighted avg       0.98      0.98      0.98       404
+
+2024-04-23 17:56:04,979 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_microsoft_BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext_binary_epoch_6_val_loss_0.9614_FULL.pt
+2024-04-23 17:56:12,071 - INFO - Model: BEST_microsoft_BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext_binary_epoch_6_val_loss_0.9614_FULL.pt
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       357
+           1       0.94      0.98      0.96        47
+
+    accuracy                           0.99       404
+   macro avg       0.97      0.99      0.98       404
+weighted avg       0.99      0.99      0.99       404
+
+2024-04-23 17:56:12,072 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_bert-base-uncased_binary_epoch_2_val_loss_0.9562_FULL.pt
+2024-04-23 17:56:18,983 - INFO - Model: BEST_bert-base-uncased_binary_epoch_2_val_loss_0.9562_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.99      0.97      0.98       357
+           1       0.79      0.94      0.85        47
+
+    accuracy                           0.96       404
+   macro avg       0.89      0.95      0.92       404
+weighted avg       0.97      0.96      0.96       404
+
+2024-04-23 17:56:18,986 - INFO - Loading model from ./../../models/transformers/checkpoints/BEST_dmis-lab_biobert-v1.1_binary_epoch_6_val_loss_0.9659_FULL.pt
+2024-04-23 17:56:25,993 - INFO - Model: BEST_dmis-lab_biobert-v1.1_binary_epoch_6_val_loss_0.9659_FULL.pt
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       357
+           1       0.92      1.00      0.96        47
+
+    accuracy                           0.99       404
+   macro avg       0.96      0.99      0.98       404
+weighted avg       0.99      0.99      0.99       404
+
+2024-04-23 20:26:01,840 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/bert-base-uncased_binary_epoch_1_val_loss_0.0765_FULL.pt
+2024-04-23 20:26:07,183 - INFO - Model: bert-base-uncased_binary_epoch_1_val_loss_0.0765_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       357
+           1       0.89      0.89      0.89        47
+
+    accuracy                           0.98       404
+   macro avg       0.94      0.94      0.94       404
+weighted avg       0.98      0.98      0.98       404
+
+2024-04-23 20:26:07,186 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/microsoft_BiomedNLP-BiomedBERT-base-uncased-abstract_binary_epoch_2_val_loss_0.0314_FULL.pt
+2024-04-23 20:26:10,918 - INFO - Model: microsoft_BiomedNLP-BiomedBERT-base-uncased-abstract_binary_epoch_2_val_loss_0.0314_FULL.pt
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99       357
+           1       0.89      1.00      0.94        47
+
+    accuracy                           0.99       404
+   macro avg       0.94      0.99      0.97       404
+weighted avg       0.99      0.99      0.99       404
+
+2024-04-23 20:26:10,921 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/microsoft_BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext_binary_epoch_4_val_loss_0.0321_FULL.pt
+2024-04-23 20:26:14,767 - INFO - Model: microsoft_BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext_binary_epoch_4_val_loss_0.0321_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.98      0.99      0.99       357
+           1       0.95      0.85      0.90        47
+
+    accuracy                           0.98       404
+   macro avg       0.97      0.92      0.94       404
+weighted avg       0.98      0.98      0.98       404
+
+2024-04-23 20:26:14,768 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/allenai_scibert_scivocab_uncased_binary_epoch_4_val_loss_0.0405_FULL.pt
+2024-04-23 20:26:18,908 - INFO - Model: allenai_scibert_scivocab_uncased_binary_epoch_4_val_loss_0.0405_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       357
+           1       0.91      0.89      0.90        47
+
+    accuracy                           0.98       404
+   macro avg       0.95      0.94      0.95       404
+weighted avg       0.98      0.98      0.98       404
+
+2024-04-23 20:26:18,910 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/dmis-lab_biobert-v1.1_binary_epoch_3_val_loss_0.0522_FULL.pt
+2024-04-23 20:26:22,478 - INFO - Model: dmis-lab_biobert-v1.1_binary_epoch_3_val_loss_0.0522_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       357
+           1       0.91      0.89      0.90        47
+
+    accuracy                           0.98       404
+   macro avg       0.95      0.94      0.95       404
+weighted avg       0.98      0.98      0.98       404
+
+2024-04-23 21:33:58,351 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/bert-base-uncased_binary_epoch_1_val_loss_0.0765_FULL.pt
+2024-04-23 21:34:13,574 - INFO - Model: bert-base-uncased_binary_epoch_1_val_loss_0.0765_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       357
+           1       0.89      0.89      0.89        47
+
+    accuracy                           0.98       404
+   macro avg       0.94      0.94      0.94       404
+weighted avg       0.98      0.98      0.98       404
+
+2024-04-23 21:34:13,755 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/microsoft_BiomedNLP-BiomedBERT-base-uncased-abstract_binary_epoch_2_val_loss_0.0314_FULL.pt
+2024-04-23 21:34:25,857 - INFO - Model: microsoft_BiomedNLP-BiomedBERT-base-uncased-abstract_binary_epoch_2_val_loss_0.0314_FULL.pt
+              precision    recall  f1-score   support
+
+           0       1.00      0.98      0.99       357
+           1       0.89      1.00      0.94        47
+
+    accuracy                           0.99       404
+   macro avg       0.94      0.99      0.97       404
+weighted avg       0.99      0.99      0.99       404
+
+2024-04-23 21:34:26,016 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/microsoft_BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext_binary_epoch_4_val_loss_0.0321_FULL.pt
+2024-04-23 21:34:39,972 - INFO - Model: microsoft_BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext_binary_epoch_4_val_loss_0.0321_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.98      0.99      0.99       357
+           1       0.95      0.85      0.90        47
+
+    accuracy                           0.98       404
+   macro avg       0.97      0.92      0.94       404
+weighted avg       0.98      0.98      0.98       404
+
+2024-04-23 21:34:40,118 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/allenai_scibert_scivocab_uncased_binary_epoch_4_val_loss_0.0405_FULL.pt
+2024-04-23 21:34:54,653 - INFO - Model: allenai_scibert_scivocab_uncased_binary_epoch_4_val_loss_0.0405_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       357
+           1       0.91      0.89      0.90        47
+
+    accuracy                           0.98       404
+   macro avg       0.95      0.94      0.95       404
+weighted avg       0.98      0.98      0.98       404
+
+2024-04-23 21:34:55,047 - INFO - Loading model from ./../../models/transformers/checkpoints/binary/dmis-lab_biobert-v1.1_binary_epoch_3_val_loss_0.0522_FULL.pt
+2024-04-23 21:35:08,547 - INFO - Model: dmis-lab_biobert-v1.1_binary_epoch_3_val_loss_0.0522_FULL.pt
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       357
+           1       0.91      0.89      0.90        47
+
+    accuracy                           0.98       404
+   macro avg       0.95      0.94      0.95       404
+weighted avg       0.98      0.98      0.98       404
+
