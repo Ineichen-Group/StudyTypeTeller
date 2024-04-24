@@ -15,5 +15,6 @@ data/.DS_Store
 .DS_Store
 
 # heavy bert-based models
-models/transformers
+models/transformers/checkpoints/binary/models
+models/transformers/checkpoints/multi/models
 
