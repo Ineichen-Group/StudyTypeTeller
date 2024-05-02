@@ -1,0 +1,2847 @@
+﻿TY  - JOUR
+AB  - Plasma levels of fluphenazine and clinical response were examined in 19 inpatient schizophrenics (DSM-III diagnoses) using a constant dose, steady-state methodology. A significant curvilinear correlation was demonstrated between clinical response and steady-state plasma levels of fluphenazine (p less than .05). A therapeutic range of plasma fluphenazine is suggested in the range of .13-.70 ng/ml. The lowest plasma level detected (.13 ng/ml) appeared to be well within the therapeutic range. The 9 patients with plasma fluphenazine levels in this range demonstrated a mean clinical improvement of 59% compared to 34% for patients with plasma levels above .70 ng/ml (p less than .01).
+AN  - 6381472
+AU  - Mavroidis, M. L.
+AU  - Kanter, D. R.
+AU  - Hirschowitz, J.
+AU  - Garver, D. L.
+DA  - Sep
+DP  - NLM
+IS  - 9
+KW  - Administration, Oral
+Clinical Trials as Topic
+Drug Administration Schedule
+Fluphenazine/administration & dosage/*blood
+Hospitalization
+Humans
+Schizophrenia/blood/*drug therapy
+Schizophrenic Psychology
+LA  - eng
+N1  - Mavroidis, M L
+Kanter, D R
+Hirschowitz, J
+Garver, D L
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+1984/09/01
+J Clin Psychiatry. 1984 Sep;45(9):370-3.
+PY  - 1984
+SN  - 0160-6689 (Print)
+0160-6689
+SP  - 370-3
+ST  - Fluphenazine plasma levels and clinical response
+T2  - J Clin Psychiatry
+TI  - Fluphenazine plasma levels and clinical response
+VL  - 45
+ID  - 51227
+ER  - 
+
+TY  - JOUR
+AB  - Previous studies of oral physostigmine in the treatment of Alzheimer's disease have: (1) assumed physostigmine is effective only in mildly affected patients; (2) relied on an initial "dose-finding" phase to determine the most effective dose and excluded nonresponders; and (3) primarily assessed memory. We examined the response of 22 patients to six different daily dosages of oral physostigmine, using selective reminding tests that were administered twice daily. Nine patients had a "best" dose/day (mode = 13 mg/day), which was used in a subsequent double-blind crossover study. The other 13 were given the highest tolerated dose. The selective reminding test and a full neuropsychological battery were given during the drug and placebo periods. As a group, the 22 patients improved significantly on the Wechsler Adult Intelligence Scale-Revised Digit Symbol subtest and a shape cancellation task (p less than 0.05). Nine patients showed improved performance on the selective reminding test during physostigmine treatment, and 9 showed no response; 4 patients performed better during placebo treatment. Dose finding did not help in predicting response in the crossover study; only 2 of the 9 who showed improvement had a best dose. Dementia severity did not predict crossover response. This suggests that: (1) physostigmine as administered had no pronounced effect on memory in Alzheimer's disease; (2) oral physostigmine produces no greater benefits on memory in mildly than in moderately demented patients; (3) response in a dose-finding phase does not predict response in double-blind crossover; and (4) Digit Symbol and cancellation tasks may be more sensitive than memory tests to the effects of oral physostigmine.
+AD  - Department of Neurology, Columbia University College of Physicians and Surgeons, New York, NY.
+AN  - 3674795
+AU  - Stern, Y.
+AU  - Sano, M.
+AU  - Mayeux, R.
+DA  - Sep
+DO  - 10.1002/ana.410220305
+DP  - NLM
+IS  - 3
+KW  - Administration, Oral
+Aged
+Alzheimer Disease/*drug therapy/physiopathology/psychology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Humans
+Middle Aged
+Neuropsychological Tests
+Physostigmine/adverse effects/*therapeutic use
+LA  - eng
+N1  - Stern, Y
+Sano, M
+Mayeux, R
+AGO2802/AG/NIA NIH HHS/United States
+AGO5433/AG/NIA NIH HHS/United States
+RR00645/RR/NCRR NIH HHS/United States
+Clinical Trial
+Comparative Study
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+United States
+1987/09/01
+Ann Neurol. 1987 Sep;22(3):306-10. doi: 10.1002/ana.410220305.
+PY  - 1987
+SN  - 0364-5134 (Print)
+0364-5134
+SP  - 306-10
+ST  - Effects of oral physostigmine in Alzheimer's disease
+T2  - Ann Neurol
+TI  - Effects of oral physostigmine in Alzheimer's disease
+VL  - 22
+ID  - 51218
+ER  - 
+
+TY  - JOUR
+AB  - In the first study to examine direct nicotinic augmentation of central cholinergic functioning in Alzheimer's disease, six patients were studied in an intensive pilot study with three doses (0.125, 0.25, and 0.5 microgram/kg/min) of intravenous nicotine and placebo. Cognitive tests showed a decrease in intrusion errors on the middle (0.25 microgram) dose. Prominent behavioral effects were noted, with significant dose-related increases in anxiety and depressive affect. These results suggest that central nicotinic cholinergic stimulation deserves further investigation as a treatment in Alzheimer's disease and that nicotine may also be a useful investigative tool in other populations as a probe of central cholinergic function, especially in regard to the modulation of affect.
+AD  - Department of Behavioral Biology, Walter Reed Army Institute of Research, Washington, DC 20307-5100.
+AN  - 3137593
+AU  - Newhouse, P. A.
+AU  - Sunderland, T.
+AU  - Tariot, P. N.
+AU  - Blumhardt, C. L.
+AU  - Weingartner, H.
+AU  - Mellow, A.
+AU  - Murphy, D. L.
+DO  - 10.1007/bf00174504
+DP  - NLM
+IS  - 2
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/psychology
+Behavior/drug effects
+Blood Pressure/drug effects
+Cognition/drug effects
+Female
+Humans
+Injections, Intravenous
+Male
+Middle Aged
+Nicotine/administration & dosage/adverse effects/*therapeutic use
+Pilot Projects
+Pulse/drug effects
+LA  - eng
+N1  - Newhouse, P A
+Sunderland, T
+Tariot, P N
+Blumhardt, C L
+Weingartner, H
+Mellow, A
+Murphy, D L
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+Germany
+1988/01/01
+Psychopharmacology (Berl). 1988;95(2):171-5. doi: 10.1007/BF00174504.
+PY  - 1988
+SN  - 0033-3158 (Print)
+0033-3158
+SP  - 171-5
+ST  - Intravenous nicotine in Alzheimer's disease: a pilot study
+T2  - Psychopharmacology (Berl)
+TI  - Intravenous nicotine in Alzheimer's disease: a pilot study
+VL  - 95
+ID  - 51223
+ER  - 
+
+TY  - JOUR
+AB  - In a previously reported clinical trial, patients with Alzheimer's disease were treated with deferoxamine mesylate, which resulted in a 50% reduction in the average rate of deterioration over 2 years. There were five deaths in the untreated group during the trial and no deaths in the treated group, although five of 25 treated patients reported anorexia. Deferoxamine metabolite analysis of urine for 24 hours after deferoxamine injection from sensitive and nonsensitive patients showed marked differences. Occurrence of side effects correlated with increased formation of a monoamine oxidase catalyzed (major) metabolite, MFO1. The metabolite ratio, MFO1/total metabolites, plus parent drug (TOT) showed a bimodal distribution with a mean +/- SD value of 0.68 +/- 0.06 for the nonsensitive and 0.79 +/- 0.04 for sensitive patients. The MFO1/TOT ratio discriminates between sensitive and nonsensitive patients, and we suggest that the half difference mark between the two mean values (0.735) can be used as a predictor of side effects. Patients with a MFO1/TOT ratio of greater than 0.70 would be considered at risk and observed for onset of side effects. Patients with a MFO1/TOT ratio greater than 0.80 would be considered for immediate adjunct treatment with isoniazid or other monoamine oxidase inhibitors.
+AD  - Department of Physiology and Medicine, University of Toronto, Ontario, Canada.
+AN  - 8422739
+AU  - Kruck, T. P.
+AU  - Fisher, E. A.
+AU  - McLachlan, D. R.
+DA  - Jan
+DO  - 10.1038/clpt.1993.6
+DP  - NLM
+IS  - 1
+KW  - Alzheimer Disease/*drug therapy/metabolism
+Anorexia/chemically induced
+Chromatography, High Pressure Liquid
+Deferoxamine/*adverse effects/metabolism
+Female
+Humans
+Injections, Intramuscular
+Male
+Monoamine Oxidase/urine
+Random Allocation
+LA  - eng
+N1  - Kruck, T P
+Fisher, E A
+McLachlan, D R
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+1993/01/01
+Clin Pharmacol Ther. 1993 Jan;53(1):30-7. doi: 10.1038/clpt.1993.6.
+PY  - 1993
+SN  - 0009-9236 (Print)
+0009-9236
+SP  - 30-7
+ST  - A predictor for side effects in patients with Alzheimer's disease treated with deferoxamine mesylate
+T2  - Clin Pharmacol Ther
+TI  - A predictor for side effects in patients with Alzheimer's disease treated with deferoxamine mesylate
+VL  - 53
+ID  - 51224
+ER  - 
+
+TY  - JOUR
+AB  - Eighteen patients with probable Alzheimer's disease (NINCDS/ADRDA criteria) participated in a placebo-controlled, double-blind study, with a crossover design. The patients had mild or moderate dementia (MMSE = 20.3 +/- 4.6, range 12-28). The trial consisted of two 4-week periods with a 2-week washout period in between. Nicotine was given in the form of dermal plasters. Most of the patients tolerated the highest doses of 21 mg nicotine/24 h, but some received 14 mg/24 h. The effect was monitored with tests of short-term memory, verbal fluency, attention and psychomotor speed. Nicotine was also determined in the blood. Short-term memory improved significantly after 4 weeks of treatment, both on nicotine and placebo (p < 0.05/p < 0.01). The results of our study thus do not indicate that nicotine applied in the form of dermal plasters is of any significance in the treatment of memory deficits in patient with Alzheimer's disease.
+AD  - Geriatric Department, University of Iceland, Reykjavik.
+AN  - 8788082
+AU  - Snaedal, J.
+AU  - Johannesson, T.
+AU  - Jonsson, J. E.
+AU  - Gylfadottir, G.
+DA  - Jan-Feb
+DO  - 10.1159/000106852
+DP  - NLM
+IS  - 1
+KW  - Administration, Cutaneous
+Aged
+Alzheimer Disease/*drug therapy/psychology
+Cognition/*drug effects
+Cross-Over Studies
+Double-Blind Method
+Female
+Humans
+Male
+Memory/drug effects
+Nicotine/administration & dosage/pharmacokinetics/*therapeutic use
+Nicotinic Agonists/administration & dosage/pharmacokinetics/*therapeutic use
+Pilot Projects
+Psychiatric Status Rating Scales
+Single-Blind Method
+LA  - eng
+N1  - Snaedal, J
+Johannesson, T
+Jonsson, J E
+Gylfadottir, G
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Switzerland
+1996/01/01
+Dementia. 1996 Jan-Feb;7(1):47-52. doi: 10.1159/000106852.
+PY  - 1996
+SN  - 1013-7424 (Print)
+1013-7424
+SP  - 47-52
+ST  - The effects of nicotine in dermal plaster on cognitive functions in patients with Alzheimer's disease
+T2  - Dementia
+TI  - The effects of nicotine in dermal plaster on cognitive functions in patients with Alzheimer's disease
+VL  - 7
+ID  - 51244
+ER  - 
+
+TY  - JOUR
+AB  - We report the results of an open trial with lamotrigine (LTG) as add-on drug in children and adolescents with refractory epilepsy and mental delay. Thirty-seven outpatients received LTG for a median period of 7 months at a daily dose of 5 and 15 mg/kg in valproate and non-valproate patients, respectively. The total number of seizures decreased by 100% in eight patients (21.6%) and by >50% in five patients (13.5%). However, the number of seizures remained unchanged in 20 patients (54.1%) and increased in four (10.8%). Lamotrigine was more effective in patients with typical and atypical absences, and in patients affected by atonic seizures. Six children (16.2%) developed generally mild adverse side-effects suggesting that LTG is well tolerated.
+AD  - Child Neuropsychiatry Clinic, Department of Pediatrics, Second University of Naples, Italy.
+AN  - 9339867
+AU  - Coppola, G.
+AU  - Pascotto, A.
+DA  - Sep
+DO  - 10.1016/s0387-7604(97)00046-6
+DP  - NLM
+IS  - 6
+KW  - Adolescent
+Adult
+Anticonvulsants/adverse effects/*therapeutic use
+Child
+Child, Preschool
+Developmental Disabilities/*complications/psychology
+Drug Resistance
+Drug Therapy, Combination
+Electroencephalography/drug effects
+Epilepsy/complications/*drug therapy/psychology
+Female
+Humans
+Lamotrigine
+Male
+Triazines/adverse effects/*therapeutic use
+Valproic Acid/adverse effects/therapeutic use
+LA  - eng
+N1  - Coppola, G
+Pascotto, A
+Clinical Trial
+Journal Article
+Netherlands
+1997/10/27
+Brain Dev. 1997 Sep;19(6):398-402. doi: 10.1016/s0387-7604(97)00046-6.
+PY  - 1997
+SN  - 0387-7604 (Print)
+0387-7604
+SP  - 398-402
+ST  - Lamotrigine as add-on drug in children and adolescents with refractory epilepsy and mental delay: an open trial
+T2  - Brain Dev
+TI  - Lamotrigine as add-on drug in children and adolescents with refractory epilepsy and mental delay: an open trial
+VL  - 19
+ID  - 51210
+ER  - 
+
+TY  - JOUR
+AB  - This case series pilot study assessed the safety of intraventricular urokinase administration, alternating with cerebrospinal fluid (CSF) drainage. A secondary objective was to comment on whether this therapy achieves fibrinolysis, and whether this fibrinolysis is sufficient to prevent progression of hydrocephalus to requirement for ventriculoperitoneal shunt. Six preterm infants with progressive posthemorrhagic hydrocephalus requiring treatment with a ventricular drain received an infusion of intraventricular urokinase alternating with CSF drainage for 3 days. Of the 6 treated patients, the median gestation at birth was 26.5 weeks and the median age at treatment was 30 days. One patient had an elevation in CSF erythrocyte count most likely due to successful clot lysis. One patient had an elevated CSF leukocyte count consistent with transient meningeal irritation. No other side effects were noted. Fibrinolysis was achieved in the CSF, as documented by markedly elevated D-dimer levels. Clot size diminished ultrasonographically. However, all 6 patients eventually required a ventriculoperitoneal shunt. We conclude that intermittent infusion of intraventricular urokinase alternating with periods of CSF drainage is probably a safe way to achieve a fibrinolytic state. However, when administered at the relatively late point in the neonatal course when a ventricular drain is required, this fibrinolytic state is not sufficient to decrease the requirement for ventriculoperitoneal shunt.
+AD  - Joint Program in Neonatology, Harvard Medical School, Boston, Massachusetts, USA.
+AN  - 9390696
+AU  - Hansen, A. R.
+AU  - Volpe, J. J.
+AU  - Goumnerova, L. C.
+AU  - Madsen, J. R.
+DA  - Oct
+DO  - 10.1016/s0887-8994(97)00130-6
+DP  - NLM
+IS  - 3
+KW  - Age of Onset
+Cerebral Hemorrhage/*complications
+Disease Progression
+Female
+Follow-Up Studies
+Humans
+Hydrocephalus/*drug therapy/etiology
+Infant, Newborn
+Injections, Intraventricular
+Male
+Pilot Projects
+Risk Factors
+Thrombolytic Therapy/*methods
+Urokinase-Type Plasminogen Activator/*therapeutic use
+Ventriculoperitoneal Shunt
+LA  - eng
+N1  - Hansen, A R
+Volpe, J J
+Goumnerova, L C
+Madsen, J R
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+1997/12/09
+Pediatr Neurol. 1997 Oct;17(3):213-7. doi: 10.1016/s0887-8994(97)00130-6.
+PY  - 1997
+SN  - 0887-8994 (Print)
+0887-8994
+SP  - 213-7
+ST  - Intraventricular urokinase for the treatment of posthemorrhagic hydrocephalus
+T2  - Pediatr Neurol
+TI  - Intraventricular urokinase for the treatment of posthemorrhagic hydrocephalus
+VL  - 17
+ID  - 51233
+ER  - 
+
+TY  - JOUR
+AB  - A placebo-controlled crossover design, with each treatment period lasting 6 weeks, was used to investigate effects of dronabinol in 15 patients with a diagnosis of probable Alzhemer's disease who were refusing food. Eleven patients completed both study periods; one patient who died of a heart attack 2 weeks before the end of the study was also included in the analysis. The study was terminated in 3 patients: one developed a grand mal seizure and 2 developed serious intercurrent infections. Body weight of study subjects increased more during the dronabinol treatment than during the placebo periods. Dronabinol treatment decreased severity of disturbed behavior and this effect persisted during the placebo period in patients who received dronabinol first. Adverse reactions observed more commonly during the dronabinol treatment than during placebo periods included euphoria, somnolence and tiredness, but did not require discontinuation of therapy. These results indicate that dronabinol is a promising novel therapeutic agent which may be useful not only for treatment of anorexia but also to improve disturbed behavior in patients with Alzheimer's disease.
+AD  - E. N. Rogers Memorial Veterans Hospital, Geriatric Research Education Clinical Center, Bedford, MA 01730, USA.
+AN  - 9309469
+AU  - Volicer, L.
+AU  - Stelly, M.
+AU  - Morris, J.
+AU  - McLaughlin, J.
+AU  - Volicer, B. J.
+DA  - Sep
+DP  - NLM
+IS  - 9
+KW  - Aged
+Alzheimer Disease/complications/*drug therapy
+Analysis of Variance
+Anorexia/*drug therapy
+Antidepressive Agents/therapeutic use
+Antipsychotic Agents/therapeutic use
+Appetite Stimulants/*therapeutic use
+Behavioral Symptoms/*drug therapy
+Cross-Over Studies
+Dronabinol/*therapeutic use
+Drug Therapy, Combination
+Female
+Humans
+Longitudinal Studies
+Male
+Severity of Illness Index
+Time Factors
+Treatment Outcome
+Weight Gain
+LA  - eng
+N1  - Volicer, L
+Stelly, M
+Morris, J
+McLaughlin, J
+Volicer, B J
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+England
+1997/10/06
+Int J Geriatr Psychiatry. 1997 Sep;12(9):913-9.
+PY  - 1997
+SN  - 0885-6230 (Print)
+0885-6230
+SP  - 913-9
+ST  - Effects of dronabinol on anorexia and disturbed behavior in patients with Alzheimer's disease
+T2  - Int J Geriatr Psychiatry
+TI  - Effects of dronabinol on anorexia and disturbed behavior in patients with Alzheimer's disease
+VL  - 12
+ID  - 51236
+ER  - 
+
+TY  - JOUR
+AB  - Antipsychotic efficacy and side effects of the selective sigma ligand EMD 57445 (panamesine) were investigated in 12 patients (6 males, 6 females) who met DSM-III-R criteria for schizophrenia. A 4-week open clinical study revealed only modest effects of EMD 57445 and its metabolites on positive and negative symptoms of schizophrenia. Extrapyramidal and other side effects were moderate, although a significant increase in mild dyskinetic movements was found. Five patients, four of whom were females, completed the trial. Dropouts were mainly due to treatment failure. Antipsychotic effects were significantly greater in female than male patients.
+AD  - Department of Psychiatry, University of Mainz, Germany. mjm@mail.psychiatrie.klinik.uni-mainz.de
+AN  - 10708274
+AU  - Müller, M. J.
+AU  - Gründer, G.
+AU  - Wetzel, H.
+AU  - Müller-Siecheneder, F.
+AU  - Marx-Dannigkeit, P.
+AU  - Benkert, O.
+DA  - Dec 27
+DO  - 10.1016/s0165-1781(99)00100-6
+DP  - NLM
+IS  - 3
+KW  - Acute Disease
+Adult
+Aged
+Antipsychotic Agents/adverse effects/pharmacokinetics/*therapeutic use
+Basal Ganglia Diseases/blood/chemically induced
+Biotransformation
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Humans
+Male
+Middle Aged
+Oxazoles/adverse effects/pharmacokinetics/*therapeutic use
+Piperidines/adverse effects/pharmacokinetics/*therapeutic use
+Psychiatric Status Rating Scales
+Receptors, sigma/drug effects
+Schizophrenia/blood/diagnosis/*drug therapy
+Schizophrenic Psychology
+Treatment Outcome
+LA  - eng
+N1  - Müller, M J
+Gründer, G
+Wetzel, H
+Müller-Siecheneder, F
+Marx-Dannigkeit, P
+Benkert, O
+Clinical Trial
+Journal Article
+Ireland
+2000/03/09
+Psychiatry Res. 1999 Dec 27;89(3):275-80. doi: 10.1016/s0165-1781(99)00100-6.
+PY  - 1999
+SN  - 0165-1781 (Print)
+0165-1781
+SP  - 275-80
+ST  - Antipsychotic effects and tolerability of the sigma ligand EMD 57445 (panamesine) and its metabolites in acute schizophrenia: an open clinical trial
+T2  - Psychiatry Res
+TI  - Antipsychotic effects and tolerability of the sigma ligand EMD 57445 (panamesine) and its metabolites in acute schizophrenia: an open clinical trial
+VL  - 89
+ID  - 51235
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Our purpose was to evaluate the overall efficacy and tolerability of novel antipsychotic medications for patients with bipolar disorder type I. METHOD: A retrospective study of the Massachusetts General Hospital Bipolar Clinic database was carried out to identify 50 consecutive treatment trials in patients with DSM-IV bipolar disorder type I who had received adjunctive treatment with risperidone, olanzapine, or clozapine, along with standard mood stabilizers. The treatment charts of those patients (N = 42) were reviewed for details of adverse effects, tolerability, and efficacy of medication. RESULTS: Overall results indicated equivalent efficacy in novel antipsychotic treatments according to change in Clinical Global Impressions scale score. Levels of extrapyramidal symptoms were similar in all groups and occurred in 12/42 patients (28.6%). Prolactin-related side effects were not observed in any patients. There were no cases of affective switch or worsening of mania. Substantial weight gain of more than 10 lb (4.5 kg) was significantly greater in patients treated with olanzapine. CONCLUSION: These results suggest that the efficacy and tolerability of risperidone, olanzapine, and clozapine are similar in patients with bipolar disorder. One major differentiation factor of these drugs appears to be weight gain, particularly between olanzapine and risperidone. This may, in part, also be related to the need to use mood-stabilizing agents, like lithium or divalproex sodium, which may potentiate the weight-gain effect of novel antipsychotics.
+AD  - Department of Psychiatry, Massachusetts General Hospital, Boston, USA.
+AN  - 11030483
+AU  - Guille, C.
+AU  - Sachs, G. S.
+AU  - Ghaemi, S. N.
+DA  - Sep
+DO  - 10.4088/jcp.v61n0907
+DP  - NLM
+IS  - 9
+KW  - Adult
+Antipsychotic Agents/adverse effects/*therapeutic use
+Basal Ganglia Diseases/chemically induced/epidemiology
+Benzodiazepines
+Bipolar Disorder/diagnosis/*drug therapy/psychology
+Body Weight/drug effects
+Clozapine/adverse effects/*therapeutic use
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Humans
+Lithium/therapeutic use
+Male
+Olanzapine
+Pirenzepine/adverse effects/*analogs & derivatives/*therapeutic use
+Psychiatric Status Rating Scales/statistics & numerical data
+Retrospective Studies
+Risperidone/adverse effects/*therapeutic use
+Treatment Outcome
+Valproic Acid/therapeutic use
+LA  - eng
+N1  - Guille, C
+Sachs, G S
+Ghaemi, S N
+Clinical Trial
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2000/10/13
+J Clin Psychiatry. 2000 Sep;61(9):638-42. doi: 10.4088/jcp.v61n0907.
+PY  - 2000
+SN  - 0160-6689 (Print)
+0160-6689
+SP  - 638-42
+ST  - A naturalistic comparison of clozapine, risperidone, and olanzapine in the treatment of bipolar disorder
+T2  - J Clin Psychiatry
+TI  - A naturalistic comparison of clozapine, risperidone, and olanzapine in the treatment of bipolar disorder
+VL  - 61
+ID  - 51228
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Reduced appetite and weight loss were found in clinical trials of topiramate for epilepsy. Binge-eating disorder is characterized by recurrent episodes of binge eating that are not associated with regular use of inappropriate compensatory behaviors. Overweight and obesity may be common complications. To explore the effectiveness and tolerability of topiramate in binge-eating disorder, we describe the response of 13 consecutive outpatients with binge-eating disorder to naturalistic, open-label treatment with topiramate. METHOD: The response of 13 female outpatients with binge-eating disorder by DSM-IV criteria to naturalistic, open-label treatment with topiramate (100-1400 mg/day) was reviewed. Response of binge-eating disorder symptoms was clinically assessed as none, mild, moderate, marked, or remission. Weight and side effects were also evaluated. RESULTS: All 13 patients had comorbid Axis I psychiatric disorders along with binge-eating disorder and were receiving psychotropic medications at the time of topiramate administration. After beginning topiramate treatment, 9 patients displayed a moderate or better response of binge-eating disorder symptoms that was maintained for periods ranging from 3 to 30 months (mean +/- SD = 18.7+/-8.0 months). Two other patients displayed moderate or marked responses that subsequently diminished. The remaining 2 patients had a mild or no response. The mean +/- SD weight of the 13 patients decreased from 99.3+/-26.4 kg to 87.5+/-20.4 kg (z = -2.4, df = 1, p = .02), but only 7 patients lost > or = 5 kg of weight. The mean topiramate treatment dose was 492.3+/-467.8 mg/day for all 13 patients. The mean topiramate dose was higher in patients who lost > or = 5 kg than in patients who lost < 5 kg. Also, topiramate dose correlated significantly with weight loss (p < .01). In general, topiramate was well tolerated, with neurologic side effects the most common. Of 3 patients who discontinued topiramate because of side effects, 2 resumed the drug at a later date without significant recurrence of these effects. CONCLUSION: Topiramate may be an effective treatment for binge-eating disorder. Controlled studies of topiramate in binge-eating disorder appear warranted.
+AD  - Department of Psychiatry, University of Florida, Gainesville, USA.
+AN  - 10847312
+AU  - Shapira, N. A.
+AU  - Goldsmith, T. D.
+AU  - McElroy, S. L.
+DA  - May
+DO  - 10.4088/jcp.v61n0508
+DP  - NLM
+IS  - 5
+KW  - Ambulatory Care
+Anticonvulsants/*therapeutic use
+Body Mass Index
+Comorbidity
+Drug Administration Schedule
+Drug Therapy, Combination
+Feeding and Eating Disorders/*drug therapy/epidemiology
+Female
+Fructose/*analogs & derivatives/therapeutic use
+Humans
+Mental Disorders/drug therapy/epidemiology
+Middle Aged
+Psychotropic Drugs/therapeutic use
+Research Design/standards
+Severity of Illness Index
+Topiramate
+Treatment Outcome
+Weight Loss
+LA  - eng
+N1  - Shapira, N A
+Goldsmith, T D
+McElroy, S L
+Case Reports
+Clinical Trial
+Journal Article
+United States
+2000/06/10
+J Clin Psychiatry. 2000 May;61(5):368-72. doi: 10.4088/jcp.v61n0508.
+PY  - 2000
+SN  - 0160-6689 (Print)
+0160-6689
+SP  - 368-72
+ST  - Treatment of binge-eating disorder with topiramate: a clinical case series
+T2  - J Clin Psychiatry
+TI  - Treatment of binge-eating disorder with topiramate: a clinical case series
+VL  - 61
+ID  - 51248
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: This open-label study examined the effects of the reversible cholinesterase inhibitor donepezil on emotional/behavioral symptoms in Alzheimer's disease (AD) patients. METHOD: Patients were diagnosed as having probable/possible AD by National Institute of Neurological and Communicative Disorders and Stroke/Alzheimer's Disease and Related Disorders Association (NINCDS/ADRDA) criteria. This study used the CERAD Behavior Rating Scale for Dementia (CBRSD) and its subscales to evaluate a group of 25 AD patients treated with donepezil. Dosage was increased at 4 months for most patients from 5 to 10 mg q.h.s. Analysis of variance was used to compare scores over a period of 12 months. These patients were also compared, using t tests, to a reference group that had received no donepezil or other anticholinesterase. RESULTS: Donepezil administration was associated with improvement in Mini-Mental State Examination (MMSE) and CBRSD total scores at 3-month evaluation (p< or =.05). CBRSD depression and behavioral dysregulation scores improved transiently at 4 months (p< or =.05). MMSE, CBRSD total, CBRSD depression, and CBRSD behavioral dysregulation scores returned to baseline levels at 12 months, in contrast to the reference group, whose MMSE and CBRSD total scores worsened minimally over the 12 months. CONCLUSION: Donepezil has a mildly positive effect on emotional/behavioral symptoms in AD in addition to its effect on cognitive function.
+AD  - Department of Psychiatry, University of Texas Southwestern Medical Center, Dallas 75235-9070, USA.
+AN  - 10937606
+AU  - Weiner, M. F.
+AU  - Martin-Cook, K.
+AU  - Foster, B. M.
+AU  - Saine, K.
+AU  - Fontaine, C. S.
+AU  - Svetlik, D. A.
+DA  - Jul
+DO  - 10.4088/jcp.v61n0705
+DP  - NLM
+IS  - 7
+KW  - Aged
+Alzheimer Disease/*drug therapy/psychology
+Cholinesterase Inhibitors/*therapeutic use
+Clinical Trials as Topic
+Donepezil
+Drug Administration Schedule
+Female
+Humans
+Indans/*therapeutic use
+Male
+Piperidines/*therapeutic use
+Psychiatric Status Rating Scales/statistics & numerical data
+Treatment Outcome
+LA  - eng
+N1  - Weiner, M F
+Martin-Cook, K
+Foster, B M
+Saine, K
+Fontaine, C S
+Svetlik, D A
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2000/08/11
+J Clin Psychiatry. 2000 Jul;61(7):487-92. doi: 10.4088/jcp.v61n0705.
+PY  - 2000
+SN  - 0160-6689 (Print)
+0160-6689
+SP  - 487-92
+ST  - Effects of donepezil on emotional/behavioral symptoms in Alzheimer's disease patients
+T2  - J Clin Psychiatry
+TI  - Effects of donepezil on emotional/behavioral symptoms in Alzheimer's disease patients
+VL  - 61
+ID  - 51216
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: An open-label trial was performed to explore efficacy and safety of olanzapine, an atypical neuroleptic with diverse receptor activity including both dopamine-2 and serotonin-2A and -2C antagonism, for treatment of Tourette's disorder. METHOD: Ten adult patients aged 20 to 44 years with Tourette's disorder were treated using an open-label, flexible dosing schedule for 8 weeks. Three patients who continued olanzapine were reevaluated after 6 months. Three subjects were psychotropic medication naive, 5 patients experienced intolerable side effects with conventional neuroleptics, and 2 patients had remote (> or = 10 years) successful response to conventional neuroleptics. Tic severity was rated by the Yale Global Tic Severity Scale; weight, vital signs, and adverse effects were assessed weekly. Electrocardiogram, laboratory studies, and comorbid symptoms, assessed by the Yale-Brown Obsessive Compulsive Scale and ADHD Behavior Checklist for Adults, were measured at baseline and at week 8. RESULTS: Two of 10 patients prematurely discontinued olanzapine owing to excessive sedation. Of 8 patients who completed the 8-week trial, 4 (50%) demonstrated reduction of global tic severity scores by > or = 20 points, and 6 (75%) demonstrated reductions by > or = 10 points. No significant changes in comorbid symptoms were demonstrated. Sedation, weight gain, increased appetite, dry mouth, and transient asymptomatic hypoglycemia were the most common side effects. Tic improvements were maintained in 3 patients reassessed 6 months later. Final olanzapine dosages ranged from 2.5 mg to 20 mg daily (mean = 10.9 mg/day). CONCLUSION: This open-label study suggests that olanzapine should be explored as a potential alternative to conventional neuroleptic medications for treatment of motor tics and Tourette's disorder.
+AD  - Department of Psychiatry, New York University School of Medicine, North Shore University Hospital, Manhasset 11030, USA.
+AN  - 11379844
+AU  - Budman, C. L.
+AU  - Gayer, A.
+AU  - Lesser, M.
+AU  - Shi, Q.
+AU  - Bruun, R. D.
+DA  - Apr
+DO  - 10.4088/jcp.v62n0412
+DP  - NLM
+IS  - 4
+KW  - Adult
+Antipsychotic Agents/administration & dosage/*therapeutic use
+Attention Deficit Disorder with Hyperactivity/diagnosis/epidemiology
+Benzodiazepines
+Comorbidity
+Drug Administration Schedule
+Female
+Humans
+Male
+Olanzapine
+Pirenzepine/administration & dosage/*analogs & derivatives/*therapeutic use
+Psychiatric Status Rating Scales/statistics & numerical data
+Severity of Illness Index
+Tourette Syndrome/diagnosis/*drug therapy/epidemiology
+Treatment Outcome
+LA  - eng
+N1  - Budman, C L
+Gayer, A
+Lesser, M
+Shi, Q
+Bruun, R D
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2001/05/31
+J Clin Psychiatry. 2001 Apr;62(4):290-4. doi: 10.4088/jcp.v62n0412.
+PY  - 2001
+SN  - 0160-6689 (Print)
+0160-6689
+SP  - 290-4
+ST  - An open-label study of the treatment efficacy of olanzapine for Tourette's disorder
+T2  - J Clin Psychiatry
+TI  - An open-label study of the treatment efficacy of olanzapine for Tourette's disorder
+VL  - 62
+ID  - 51212
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To examine measures of cognitive function during acute migraine, before and after treatment with sumatriptan nasal spray, 20 mg. BACKGROUND: Migraineurs frequently report symptoms of cognitive impairment during migraine. The efficacy of sumatriptan for treatment of migraine-related cognitive impairment is undocumented. METHODS: This open-label, single-attack study of 28 subjects used the Headache Care Center-Automated Neuropsychological Assessment Metrics, a computerized neuropsychological assessment battery, to measure cognitive function under three patient conditions: migraine-free, untreated migraine, and following sumatriptan (primary outcome). Headache response and pain-free response, percent effectiveness, and clinical disability were measured. RESULTS: Cognitive function (simple reaction time, sustained attention/concentration, working memory, visual-spatial processing) and alertness/fatigue were adversely affected during migraine compared with migraine-free performance (P<.05), and rapidly restored following sumatriptan nasal spray, 20 mg (P<.05). Headache and pain-free response were 86% and 68%, respectively, at 135 minutes postdose. Changes in migraine pain severity, clinical disability, and percent effectiveness following treatment with sumatriptan nasal spray, 20 mg, were significantly correlated with cognitive function measures across all subtests (P<.001). CONCLUSIONS: Sumatriptan nasal spray, 20 mg, restored migraine-related cognitive function and clinical disability.
+AD  - Headache Care Center, Springfield, Mo 65804, USA.
+AN  - 11318884
+AU  - Farmer, K.
+AU  - Cady, R.
+AU  - Bleiberg, J.
+AU  - Reeves, D.
+AU  - Putnam, G.
+AU  - O'Quinn, S.
+AU  - Batenhorst, A.
+DA  - Apr
+DO  - 10.1046/j.1526-4610.2001.111006377.x
+DP  - NLM
+IS  - 4
+KW  - Acute Disease
+Administration, Intranasal
+Adult
+Cognition/*drug effects/physiology
+Cognition Disorders/*etiology
+Female
+Humans
+Memory/drug effects
+Memory Disorders/etiology
+Middle Aged
+Migraine Disorders/*drug therapy/*psychology
+Neuropsychological Tests
+Serotonin Receptor Agonists/pharmacology/*therapeutic use
+Sumatriptan/pharmacology/*therapeutic use
+LA  - eng
+N1  - Farmer, K
+Cady, R
+Bleiberg, J
+Reeves, D
+Putnam, G
+O'Quinn, S
+Batenhorst, A
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2001/04/25
+Headache. 2001 Apr;41(4):377-84. doi: 10.1046/j.1526-4610.2001.111006377.x.
+PY  - 2001
+SN  - 0017-8748 (Print)
+0017-8748
+SP  - 377-84
+ST  - Sumatriptan nasal spray and cognitive function during migraine: results of an open-label study
+T2  - Headache
+TI  - Sumatriptan nasal spray and cognitive function during migraine: results of an open-label study
+VL  - 41
+ID  - 51229
+ER  - 
+
+TY  - JOUR
+AB  - 20 patients (12 men and 8 women, mean age 65 years) affected by severe Parkinson's disease (PD) with peak-dose and/or diphasic dyskinesias or painful dyskinesia were treated with amantadine (300 mg/day) as adjunctive therapy to current levodopa, carbidopa and dopaminoagonist. UPDRS (Unified Parkinson's disease rating scale), dyskinesias rating scale (DRS) and IGA (investigator global assessment) scale were used to evaluate the severity of PD symptoms during follow-up. After 15 days with amantadine treatment all patients improved with an average 38% reduction in dyskinesias (p<0.001). After 2-8 months. amantadine was withdrawn in all patients. After amantadine withdrawal, 2 patients experienced severe hyperthermia (39 degrees C and 40 degrees C). No difference was found between end of treatment dyskinesia scores and final withdrawal scores (p<0.5). In the two patients with hyperthemia amantadine was reintroduced; after four days hyperthermia subsided and amantadine was finally tapered over 15 days without further adverse reactions.
+AD  - Neurophysiopathology Service, G. D'Annunzio University, Pescara, Italy.
+AN  - 11487209
+AU  - Paci, C.
+AU  - Thomas, A.
+AU  - Onofrj, M.
+DA  - Feb
+DO  - 10.1007/s100720170054
+DP  - NLM
+IS  - 1
+KW  - Aged
+Amantadine/adverse effects/*therapeutic use
+Antiviral Agents/adverse effects/*therapeutic use
+Disease Progression
+Dopamine Agents/*adverse effects
+Drug Administration Schedule
+Drug Interactions/physiology
+Drug Therapy, Combination
+Dyskinesia, Drug-Induced/*drug therapy/physiopathology
+Female
+Humans
+Levodopa/*adverse effects
+Male
+Middle Aged
+Parkinson Disease/*drug therapy/physiopathology
+Recovery of Function/drug effects/physiology
+Substance Withdrawal Syndrome/physiopathology
+Treatment Outcome
+LA  - eng
+N1  - Paci, C
+Thomas, A
+Onofrj, M
+Clinical Trial
+Journal Article
+Italy
+2001/08/07
+Neurol Sci. 2001 Feb;22(1):75-6. doi: 10.1007/s100720170054.
+PY  - 2001
+SN  - 1590-1874 (Print)
+1590-1874
+SP  - 75-6
+ST  - Amantadine for dyskinesia in patients affected by severe Parkinson's disease
+T2  - Neurol Sci
+TI  - Amantadine for dyskinesia in patients affected by severe Parkinson's disease
+VL  - 22
+ID  - 51213
+ER  - 
+
+TY  - JOUR
+AB  - STUDY DESIGN: Multicenter, open, prospective, before-after study. OBJECTIVE: To assess the efficacy and safety of sildenafil therapy for erectile dysfunction in patients with spinal cord injury, and the association between the response to sildenafil and factors such as causes and levels of spinal cord injury, grade of ASIA deficit, time since injury, orgasmic perception, and degree of baseline erection. SETTING: Homes of outpatients of 16 spinal cord injury units in Spain. METHOD: One hundred and seventy patients with erectile dysfunction secondary to spinal cord injury, from whom baseline data were collected on their sexual function, and who started treatment with sildenafil 50 mg. An efficacy assessment was made by the patient and his partner, and the score of the International Index of Erectile Function (IIEF) was recorded. RESULTS: It was reported by 88.2% of the patients and 85.3% of their partners that treatment with sildenafil had improved their erections, regardless of the baseline characteristics of the spinal cord injury and erectile function. In responders, this improvement was confirmed by an increase from 12.5 to 24.8 points (P<0.001) of the Erectile Function Domain of IIEF. A significant improvement was also seen in patients' satisfaction with sexual activity and general satisfaction derived from sexual life. Preservation of orgasmic perception and a baseline degree of erection of 3 or 4 (P=0.006) were predictors of therapeutic success. No serious adverse events occurred. CONCLUSION: Sildenafil is an effective, well-tolerated treatment for erectile dysfunction caused by spinal cord injury, regardless of the cause, neurological level, ASIA grade, and time since injury. SPONSORSHIP: Spanish Society of Paraplegia.
+AD  - Hospital Nacional de Parapléjicos, Toledo, Spain.
+AN  - 11781860
+AU  - Sánchez Ramos, A.
+AU  - Vidal, J.
+AU  - Jáuregui, M. L.
+AU  - Barrera, M.
+AU  - Recio, C.
+AU  - Giner, M.
+AU  - Toribio, L.
+AU  - Salvador, S.
+AU  - Sanmartín, A.
+AU  - de la Fuente, M.
+AU  - Santos, J. F.
+AU  - de Juan, F. J.
+AU  - Moraleda, S.
+AU  - Méndez, J. L.
+AU  - Ramírez, L.
+AU  - Casado, R. M.
+DA  - Dec
+DO  - 10.1038/sj.sc.3101210
+DP  - NLM
+IS  - 12
+KW  - Adult
+Aged
+Chi-Square Distribution
+Drug Administration Schedule
+Erectile Dysfunction/complications/diagnosis/*drug therapy
+Follow-Up Studies
+Humans
+Logistic Models
+Male
+Middle Aged
+Paraplegia
+Piperazines/*administration & dosage/adverse effects
+Predictive Value of Tests
+Probability
+Prospective Studies
+Purines
+Quadriplegia
+Sildenafil Citrate
+Spinal Cord Injuries/complications/diagnosis/*drug therapy
+Statistics, Nonparametric
+Sulfones
+Treatment Outcome
+LA  - eng
+N1  - Sánchez Ramos, A
+Vidal, J
+Jáuregui, M L
+Barrera, M
+Recio, C
+Giner, M
+Toribio, L
+Salvador, S
+Sanmartín, A
+de la Fuente, M
+Santos, J F
+de Juan, F J
+Moraleda, S
+Méndez, J L
+Ramírez, L
+Casado, R M
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+England
+2002/01/10
+Spinal Cord. 2001 Dec;39(12):637-43. doi: 10.1038/sj.sc.3101210.
+PY  - 2001
+SN  - 1362-4393 (Print)
+1362-4393
+SP  - 637-43
+ST  - Efficacy, safety and predictive factors of therapeutic success with sildenafil for erectile dysfunction in patients with different spinal cord injuries
+T2  - Spinal Cord
+TI  - Efficacy, safety and predictive factors of therapeutic success with sildenafil for erectile dysfunction in patients with different spinal cord injuries
+VL  - 39
+ID  - 51242
+ER  - 
+
+TY  - JOUR
+AB  - In an open label study, we administered riluzole (50 mg twice a day) to nine patients with genetically confirmed Huntington's disease (HD) (clinical stages 1-3; mean age 46.4 (SD 9.3) years; mean disease duration 8 (SD 3.3) years). The study was designed to evaluate (1) safety and tolerability of riluzole and (2) effects of riluzole on motor impairment, functional disability, cognitive impairment, and behavioral abnormalities using the Unified HD Rating Scale. Patients were evaluated at baseline and after three and twelve months of riluzole therapy. Laboratory tests (hematology and liver enzymes) were repeated monthly. All adverse experiences, reported spontaneously or observed directly by the investigator, were recorded. Riluzole was well tolerated. No increase of serum liver enzymes was seen throughout the study in all but one patient showing a mild elevation. At three months, mean total motor scale (TMS), mean TMS chorea subscore, and mean total functional capacity scale were significantly improved compared with baseline. At twelve months, however, this beneficial effect on motor status and overall function was not sustained. In contrast, severity and frequency of behavioral dysfunction as well as psychomotor speed assessed by the symbol digit modalities test were improved compared with baseline. Our data suggest that there are transient antichoreatic effects and more sustained effects of riluzole on psychomotor speed and behavior in patients with HD. A double-blind, placebo-controlled trial appears highly warranted to establish definitely the symptomatic versus neuroprotective actions of riluzole in HD.
+AD  - Department of Neurology, Innsbruck University Hospital, Austria.
+AN  - 11697523
+AU  - Seppi, K.
+AU  - Mueller, J.
+AU  - Bodner, T.
+AU  - Brandauer, E.
+AU  - Benke, T.
+AU  - Weirich-Schwaiger, H.
+AU  - Poewe, W.
+AU  - Wenning, G. K.
+DA  - Oct
+DO  - 10.1007/s004150170071
+DP  - NLM
+IS  - 10
+KW  - Administration, Oral
+Adult
+Dose-Response Relationship, Drug
+Female
+Follow-Up Studies
+Humans
+Huntington Disease/*drug therapy/psychology
+Male
+Middle Aged
+Neuroprotective Agents/administration & dosage/adverse effects/*therapeutic use
+Psychomotor Performance/physiology
+Riluzole/administration & dosage/adverse effects/*therapeutic use
+LA  - eng
+N1  - Seppi, K
+Mueller, J
+Bodner, T
+Brandauer, E
+Benke, T
+Weirich-Schwaiger, H
+Poewe, W
+Wenning, G K
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Germany
+2001/11/08
+J Neurol. 2001 Oct;248(10):866-9. doi: 10.1007/s004150170071.
+PY  - 2001
+SN  - 0340-5354 (Print)
+0340-5354
+SP  - 866-9
+ST  - Riluzole in Huntington's disease (HD): an open label study with one year follow up
+T2  - J Neurol
+TI  - Riluzole in Huntington's disease (HD): an open label study with one year follow up
+VL  - 248
+ID  - 51230
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Authors determined the impact of high-dose vitamin supplements on plasma homocysteine levels in patients with Alzheimer disease (AD). METHODS: Authors used an open-label trial of folic acid, vitamin B(12), and vitamin B(6), in combination for 8 weeks, with measurement of plasma homocysteine levels in the fasting state and after methionine-loading. A total of 69 subjects with AD were enrolled, including 33 who were taking standard multivitamin supplements; 66 were available at 8-week follow-up. RESULTS: The high-dose vitamin regimen was associated with a significant reduction in fasting and post-methionine-loading homocysteine. Reductions were greater in the subgroup not using multivitamins, but were also significant in the multivitamin users. CONCLUSION: High-dose vitamin supplementation reduces homocysteine levels in patients with AD. The effect of supplementation on rate of cognitive decline will be assessed later in a randomized, double-blind study.
+AD  - Department of Neurology, Georgetown University Medical Center, Washington, DC 20007, USA.
+AN  - 12611755
+AU  - Aisen, P. S.
+AU  - Egelko, S.
+AU  - Andrews, H.
+AU  - Diaz-Arrastia, R.
+AU  - Weiner, M.
+AU  - DeCarli, C.
+AU  - Jagust, W.
+AU  - Miller, J. W.
+AU  - Green, R.
+AU  - Bell, K.
+AU  - Sano, M.
+DA  - Mar-Apr
+DP  - NLM
+IS  - 2
+KW  - Aged
+Alzheimer Disease/diagnosis/*metabolism
+Cognition Disorders/*diagnosis
+Double-Blind Method
+Drug Administration Schedule
+Folic Acid/administration & dosage/*pharmacology
+Follow-Up Studies
+Homocysteine/blood/*metabolism
+Humans
+Neuropsychological Tests
+Pilot Projects
+Severity of Illness Index
+Vitamin B 12/administration & dosage/*pharmacology
+Vitamin B 6/administration & dosage/*pharmacology
+LA  - eng
+N1  - Aisen, Paul S
+Egelko, Susan
+Andrews, Howard
+Diaz-Arrastia, Ramon
+Weiner, Myron
+DeCarli, Charles
+Jagust, William
+Miller, Joshua W
+Green, Ralph
+Bell, Karen
+Sano, Mary
+U19 AG010483/AG/NIA NIH HHS/United States
+5 M01-RR13297/RR/NCRR NIH HHS/United States
+U01-AG10483/AG/NIA NIH HHS/United States
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, U.S. Gov't, P.H.S.
+England
+2003/03/04
+Am J Geriatr Psychiatry. 2003 Mar-Apr;11(2):246-9.
+PY  - 2003
+SN  - 1064-7481 (Print)
+1064-7481
+SP  - 246-9
+ST  - A pilot study of vitamins to lower plasma homocysteine levels in Alzheimer disease
+T2  - Am J Geriatr Psychiatry
+TI  - A pilot study of vitamins to lower plasma homocysteine levels in Alzheimer disease
+VL  - 11
+ID  - 51246
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Phenytoin is an anticonvulsant used in the treatment of epilepsy. Its mechanism of action is incompletely understood but most likely involves modulation of glutamatergic transmission. The neurobiology of posttraumatic stress disorder (PTSD) has been hypothesized to involve, at least in part, alterations in glutamatergic transmission in the hippocampus and possibly other brain regions. The purpose of this study was to assess the effects of phenytoin on symptoms of PTSD. METHOD: Phenytoin was administered in an open-label fashion for 3 months to 9 adult male and female patients with DSM-IV PTSD related to a variety of traumas including childhood abuse, combat, and car accidents. Dosage was adjusted to maintain the therapeutic blood levels used in the treatment of epilepsy. Subjects were assessed before, during, and after treatment for PTSD with standardized dimensional measures of disease severity including the Clinician Administered PTSD Scale (CAPS), the Hamilton Rating Scale for Depression (HAM-D), and the Hamilton Rating Scale for Anxiety (HAM-A). Data were collected from November 2001 through June 2003. RESULTS: Phenytoin treatment resulted in a significant decrease in PTSD symptoms as measured with the CAPS (mean score = 65 pretreatment vs. 38 posttreatment) with reductions in each of the symptom clusters of intrusions, avoidance, and hyperarousal (p < .05). There were no significant decreases in symptoms of depression severity as measured with the HAM-D or anxiety severity as measured with the HAM-A. CONCLUSIONS: These findings suggest that phenytoin may be efficacious in the treatment of PTSD, possibly mediated through its antiglutamatergic effects. Randomized, controlled, double-blind clinical trials are indicated to further evaluate this medication in the treatment of PTSD.
+AD  - Department of Psychiatry and Behavioral Sciences, Emory University School of Medicine, Atlanta, GA 30306, USA. jdbremn@emory.edu
+AN  - 15554773
+AU  - Douglas Bremner, J.
+AU  - Mletzko, T.
+AU  - Welter, S.
+AU  - Siddiq, S.
+AU  - Reed, L.
+AU  - Williams, C.
+AU  - Heim, C. M.
+AU  - Nemeroff, C. B.
+DA  - Nov
+DO  - 10.4088/jcp.v65n1120
+DP  - NLM
+IS  - 11
+KW  - Anticonvulsants/*therapeutic use
+Drug Administration Schedule
+Humans
+Phenytoin/*therapeutic use
+Pilot Projects
+Psychiatric Status Rating Scales
+Severity of Illness Index
+Stress Disorders, Post-Traumatic/diagnosis/*drug therapy/psychology
+Treatment Outcome
+LA  - eng
+N1  - Douglas Bremner, J
+Mletzko, Tanya
+Welter, Silke
+Siddiq, Sajid
+Reed, Lai
+Williams, Chanda
+Heim, Christine M
+Nemeroff, Charles B
+1P50 MH58922/MH/NIMH NIH HHS/United States
+1R01MH56120/MH/NIMH NIH HHS/United States
+MH-42088/MH/NIMH NIH HHS/United States
+MH-56946/MH/NIMH NIH HHS/United States
+MH58922/MH/NIMH NIH HHS/United States
+R01 MH-39416/MH/NIMH NIH HHS/United States
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+Research Support, U.S. Gov't, P.H.S.
+United States
+2004/11/24
+J Clin Psychiatry. 2004 Nov;65(11):1559-64. doi: 10.4088/jcp.v65n1120.
+PY  - 2004
+SN  - 0160-6689 (Print)
+0160-6689
+SP  - 1559-64
+ST  - Treatment of posttraumatic stress disorder with phenytoin: an open-label pilot study
+T2  - J Clin Psychiatry
+TI  - Treatment of posttraumatic stress disorder with phenytoin: an open-label pilot study
+VL  - 65
+ID  - 51222
+ER  - 
+
+TY  - JOUR
+AB  - Levetiracetam (LEV) is a novel antiepileptic drug (AED) with efficacy against a wide range of seizures types. The aim of this observational study was to assess its effectiveness in patients with mental retardation and refractory epilepsy. Sixty-four patients were started on adjunctive LEV after a 3-month baseline. LEV was initially dosed at 250 mg daily and increased by 250 mg every 2 weeks thereafter according to clinical response. Caregivers rated the patient's sleep, appetite, alertness, and behavior as poor (1), reasonable (2), or good (3) at each clinic visit. Patients were reviewed until one of four endpoints was reached: seizure freedom for at least 6 months, > or = 50% reduction in seizure frequency (responder) over a 6-month period, <50% reduction in seizure frequency (marginal effect) over a 6-month period, or LEV withdrawal due to lack of efficacy, adverse effects, or both. Twenty-four (38%) patients became seizure-free, 10 of whom were controlled on LEV 250 mg twice daily. An additional 18 (28%) patients were classified as responders, and 8 (12%) reported only marginal benefit from adjunctive LEV. Fourteen (22%) patients discontinued LEV (6 worsening seizures, 1 lack of efficacy, 7 adverse effects). Caregivers rated combined sleep, appetite, alertness, and behavior scores as "improved" at the end of follow-up (P<0.001). LEV improved seizure control in the majority of patients with mental retardation and may also have enhanced their quality of life.
+AD  - Epilepsy Unit, Division of Cardiovascular and Medical Sciences, Western Infirmary, Glasgow G11 6NT, Scotland, UK.
+AN  - 15582836
+AU  - Kelly, K.
+AU  - Stephen, L. J.
+AU  - Brodie, M. J.
+DA  - Dec
+DO  - 10.1016/j.yebeh.2004.07.009
+DP  - NLM
+IS  - 6
+KW  - Adolescent
+Adult
+Aged
+Anticonvulsants/*therapeutic use
+Behavior/drug effects
+Child
+Drug Administration Schedule
+Drug Evaluation
+Epilepsy/*complications/*drug therapy
+Female
+Follow-Up Studies
+Humans
+Intellectual Disability/*complications/*drug therapy
+Levetiracetam
+Male
+Middle Aged
+Neurologic Examination
+Piracetam/*analogs & derivatives/*therapeutic use
+Sleep/drug effects
+Treatment Outcome
+LA  - eng
+N1  - Kelly, Kevin
+Stephen, Linda J
+Brodie, Martin J
+Clinical Trial
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2004/12/08
+Epilepsy Behav. 2004 Dec;5(6):878-83. doi: 10.1016/j.yebeh.2004.07.009.
+PY  - 2004
+SN  - 1525-5050 (Print)
+1525-5050
+SP  - 878-83
+ST  - Levetiracetam for people with mental retardation and refractory epilepsy
+T2  - Epilepsy Behav
+TI  - Levetiracetam for people with mental retardation and refractory epilepsy
+VL  - 5
+ID  - 51211
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The treatment of schizoaffective disorder is often complicated by the variety of symptoms that contribute to its pathology. Data from a large study (n=725), which included schizoaffective patients to assess the effect of long-acting risperidone, are presented. METHOD: A multicenter, open-label study enrolled non-acute, clinically stable patients with schizoaffective disorder (n=110). Patients on a stable dose of antipsychotic for at least 4 weeks at study entry were switched to long-acting risperidone every 2 weeks for 50 weeks. RESULTS: Mean Positive and Negative Syndrome Scale (PANSS) total scores (+/-S.E.) improved significantly (p<0.001) at each measured time point, including endpoint (-9.0+/-1.6), compared with baseline. Significant reductions were observed on mean PANSS cluster scores for both anxiety/depression (-1.3+/-0.4, p<0.001) and uncontrolled hostility/excitement (-0.7+/-0.3, p<0.05). In addition, scores improved significantly for positive symptoms (-2.2+/-0.5, p<0.001), negative symptoms (-3.1+/-0.5, p<0.001), and disorganized thoughts (-1.7+/-0.4, p<0.001). The overall subjective score of movement disorders was low at baseline (3.6+/-4.1) and had significantly decreased at endpoint (2.75; p<0.05). Patients were previously treated with antipsychotics for 398+/-790 days before being switched to long-acting risperidone. LIMITATIONS: Although this was a 50-week study, which included over 100 patients with schizoaffective disorder, limitations include the open-label design and that it was not designed specifically to assess patients with this disorder. PANSS symptom domains previously defined by factor analytic methods were used for mood symptom measures. No specific mood symptom scales were administered in this study. CONCLUSION: Patients with schizoaffective disorder, considered stable on their antipsychotic medication at study entry, experienced additional significant clinical improvements and minimal side effects with injections of long-acting risperidone over a 50-week study period.
+AD  - Janssen Pharmaceutical Products, LP, Titusville, NJ, USA.
+AN  - 15555724
+AU  - Lasser, R.
+AU  - Bossie, C. A.
+AU  - Gharabawi, G.
+AU  - Eerdekens, M.
+AU  - Nasrallah, H. A.
+DA  - Dec
+DO  - 10.1016/j.jad.2004.05.008
+DP  - NLM
+IS  - 2-3
+KW  - Administration, Oral
+Adolescent
+Adult
+Aged
+Aged, 80 and over
+Antidepressive Agents/*administration & dosage/adverse effects
+Delayed-Action Preparations
+Dose-Response Relationship, Drug
+Dyskinesia, Drug-Induced/etiology
+Female
+Follow-Up Studies
+Humans
+Injections, Intramuscular
+Male
+Middle Aged
+Psychiatric Status Rating Scales
+Psychotic Disorders/*drug therapy
+Risperidone/*administration & dosage/adverse effects
+Treatment Outcome
+LA  - eng
+N1  - Lasser, Robert
+Bossie, Cynthia A
+Gharabawi, Georges
+Eerdekens, Marielle
+Nasrallah, Henry A
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+Netherlands
+2004/11/24
+J Affect Disord. 2004 Dec;83(2-3):263-75. doi: 10.1016/j.jad.2004.05.008.
+PY  - 2004
+SN  - 0165-0327 (Print)
+0165-0327
+SP  - 263-75
+ST  - Efficacy and safety of long-acting risperidone in stable patients with schizoaffective disorder
+T2  - J Affect Disord
+TI  - Efficacy and safety of long-acting risperidone in stable patients with schizoaffective disorder
+VL  - 83
+ID  - 51234
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The use of risperidone long-acting injection (RLAI) is reasonably well supported by controlled studies. Little is known about treatment outcomes in patients receiving RLAI in clinical practice. METHOD: All prescribers in the South London and Maudsley Trust, London, United Kingdom, were informed that RLAI could be ordered for suitable patients with a DSM-IV diagnosis of schizophrenia or schizo-affective disorder: those known to be noncompliant with oral atypical antipsychotics and those intolerant of the adverse effects of conventional depot antipsychotics. Prescribers provided treatment and clinical progress data at the time of each prescription. Data collected included reason for prescribing RLAI, Clinical Global Impressions scale (CGI) score, inpatient or out-patient status, and details of all medications prescribed. All treatment discontinuations were investigated. The study was conducted from August 2002 to August 2003. RESULTS: Outcome could be determined for 100 subjects. Seventy-nine subjects (79%) were hospitalized when RLAI was initially prescribed. Mean duration of stay before RLAI initiation was 97 days (range, 0-1492 days). Most subjects were switched to RLAI from oral atypical (58%) or conventional depot (28%) antipsychotics. The main reason given for prescribing RLAI was poor patient acceptability of previous treatments (79%). Overall, 51% of the subjects discontinued RLAI. The main reason for discontinuation was lack of effect (24 subjects). No patient-related factor predicted outcome. CGI scores improved from a mean of 4.7 to 3.6 over the study period (p <.001). Overall, 61 subjects (61%) showed an improvement in CGI scores between baseline and endpoint. Antipsychotic coprescriptions were reduced from 71% of subjects to 8%. In completers, 23 (61%) of 38 subjects beginning RLAI as inpatients were discharged. The modal dose of RLAI was 25 mg every 2 weeks. CONCLUSION: RLAI was moderately effective in clinical practice as judged by attrition from treatment. CGI score changes and discharge rates also suggest moderate effectiveness. RLAI was well tolerated. Antipsychotic coprescription was infrequent.
+AD  - Pharmacy Department, Maudsley Hospital, London, United Kingdom. david.taylor@slam.nhs.uk
+AN  - 15323592
+AU  - Taylor, D. M.
+AU  - Young, C. L.
+AU  - Mace, S.
+AU  - Patel, M. X.
+DA  - Aug
+DO  - 10.4088/jcp.v65n0808
+DP  - NLM
+IS  - 8
+KW  - Adult
+Aged
+Antipsychotic Agents/administration & dosage/*therapeutic use
+Cohort Studies
+Delayed-Action Preparations
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Hospitalization
+Humans
+Injections, Intramuscular
+Male
+Middle Aged
+Patient Acceptance of Health Care
+Patient Dropouts
+Practice Patterns, Physicians'/statistics & numerical data
+Prospective Studies
+Psychiatric Status Rating Scales
+Psychotic Disorders/drug therapy/psychology
+Risperidone/administration & dosage/*therapeutic use
+Schizophrenia/diagnosis/*drug therapy
+Schizophrenic Psychology
+Treatment Outcome
+United Kingdom
+LA  - eng
+N1  - Taylor, David M
+Young, Corina L
+Mace, Shubhra
+Patel, Maxine X
+Clinical Trial
+Comparative Study
+Journal Article
+United States
+2004/08/25
+J Clin Psychiatry. 2004 Aug;65(8):1076-83. doi: 10.4088/jcp.v65n0808.
+PY  - 2004
+SN  - 0160-6689 (Print)
+0160-6689
+SP  - 1076-83
+ST  - Early clinical experience with risperidone long-acting injection: a prospective, 6-month follow-up of 100 patients
+T2  - J Clin Psychiatry
+TI  - Early clinical experience with risperidone long-acting injection: a prospective, 6-month follow-up of 100 patients
+VL  - 65
+ID  - 51245
+ER  - 
+
+TY  - JOUR
+AB  - Impairments of memory are often found after rupture and repair of aneurysms leading to a basal forebrain lesion. This open study investigated whether cholinergic substitution therapy may be a treatment option. The effect of donepezil, a cholinesterase inhibitor on memory functions was tested in an open-label, exploratory study in 11 patients with a chronic amnestic syndrome from a ruptured and repaired aneurysm of the anterior communicating artery (seven patients), the anterior cerebral (two) or the pericallosal artery (two). Mean time since onset was 75.4 months. Memory was evaluated at baseline and consecutively after 4 weeks of 5 mg donepezil daily, 8 weeks of 10 mg donepezil, and 4 weeks after drug discontinuation. Memory functions were assessed using the California Verbal Learning Test and compared with a matched group of normal, untreated controls. Tests of attention and of executive functions were also administered. Donepezil was well tolerated. Strong group effects were found at baseline and at all follow-up measurements showing profound impairments of memory functions in the patient group. Within patient statistics showed significant improvements of short and long delay free recall scores during the treatment period, both with 5 and 10 mg donepezil daily, whereas attentional and executive functions improved only non-significantly. Memory functions decreased after drug discontinuation. Repeated test administration in the control group also showed an increase of memory scores which was minor when compared with the performance change in the patient group. Donepezil may improve episodic memory functions in patients suffering from a chronic amnestic syndrome caused by rupture and repair of aneurysms of the anterior communicating, the anterior cerebral or the pericallosal artery. Future doubled-blind, placebo-controlled trials are warranted to confirm these findings.
+AD  - University Clinic of Neurology, Innsbruck, Austria. thomas.benke@uibk.ac.at
+AN  - 16190917
+AU  - Benke, T.
+AU  - Köylü, B.
+AU  - Delazer, M.
+AU  - Trinka, E.
+AU  - Kemmler, G.
+DA  - Oct
+DO  - 10.1111/j.1468-1331.2005.01063.x
+DP  - NLM
+IS  - 10
+KW  - Adult
+Amnesia/*drug therapy/etiology
+Aneurysm, Ruptured/*complications
+Case-Control Studies
+Cholinesterase Inhibitors/*administration & dosage
+Dementia/*drug therapy/etiology
+Donepezil
+Drug Administration Schedule
+Female
+Humans
+Indans/*administration & dosage
+Male
+Memory/drug effects
+Middle Aged
+Neuropsychological Tests/statistics & numerical data
+Pilot Projects
+Piperidines/*administration & dosage
+Prosencephalon/drug effects/*pathology
+Statistics, Nonparametric
+Time Factors
+Treatment Outcome
+LA  - eng
+N1  - Benke, T
+Köylü, B
+Delazer, M
+Trinka, E
+Kemmler, G
+Comparative Study
+Controlled Clinical Trial
+Journal Article
+England
+2005/09/30
+Eur J Neurol. 2005 Oct;12(10):791-6. doi: 10.1111/j.1468-1331.2005.01063.x.
+PY  - 2005
+SN  - 1351-5101 (Print)
+1351-5101
+SP  - 791-6
+ST  - Cholinergic treatment of amnesia following basal forebrain lesion due to aneurysm rupture--an open-label pilot study
+T2  - Eur J Neurol
+TI  - Cholinergic treatment of amnesia following basal forebrain lesion due to aneurysm rupture--an open-label pilot study
+VL  - 12
+ID  - 51226
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: Although treatment advances have improved outcomes in schizophrenia, definitions of remission and recovery are still evolving. Recently proposed criteria for remission (mild or less on multiple core-symptom ratings for at least 6 months) have been applied to a 1-year study of long-acting risperidone injection. METHODS: In a 50-week, open-label trial, stable patients with schizophrenia or schizoaffective disorder who received long-acting risperidone injection every 2 weeks were assessed using the Positive and Negative Syndrome Scale (PANSS). Remission criteria for the PANSS were applied; global illness severity (Clinical Global Impressions) and patient-rated health status (36-Item Short-form Health Survey) were measured. RESULTS: Groups were identified by initial remission status (excluding the time component). Although considered clinically "stable," 68.2% (394/578) did not meet the symptom-severity component of remission criteria at baseline. Following long-acting, injectable risperidone treatment, 20.8% (82) of nonremitted patients achieved symptom remission for at least 6 months, with significant decreases in mean PANSS total and cluster scores (P < 0.0001) and significantly improved patient-rated health status (P < 0.0001). Percentages rated as not ill, very mild, or mild increased from 39% to 88%. Among 31.8% (184/578) of patients meeting the symptom-severity component of remission criteria at baseline, 84.8% (156) maintained these criteria at endpoint. CONCLUSIONS: Among previously "stable," nonremitted patients, many achieved symptom remission after long-acting, injectable risperidone treatment, with significant improvements in multiple symptom domains and patient-rated health status. These results warrant further study as these remission criteria may represent a meaningful clinical endpoint and an important step towards functional recovery.
+AD  - Global Medical Strategy, Johnson & Johnson Pharmaceutical Services, LLC, Raritan, NJ 08869, USA. rlasser@psmus.jnj.com
+AN  - 15908183
+AU  - Lasser, R. A.
+AU  - Bossie, C. A.
+AU  - Gharabawi, G. M.
+AU  - Kane, J. M.
+DA  - Sep 15
+DO  - 10.1016/j.schres.2005.03.006
+DP  - NLM
+IS  - 2-3
+KW  - Adult
+Antipsychotic Agents/*administration & dosage
+Delayed-Action Preparations
+Drug Therapy, Combination
+Female
+Humans
+Male
+Psychiatric Status Rating Scales
+Psychotic Disorders/diagnosis/*drug therapy
+Risperidone/*administration & dosage
+Schizophrenia/diagnosis/*drug therapy
+Severity of Illness Index
+Statistics, Nonparametric
+Treatment Outcome
+LA  - eng
+N1  - Lasser, Robert A
+Bossie, Cynthia A
+Gharabawi, Georges M
+Kane, John M
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+Netherlands
+2005/05/24
+Schizophr Res. 2005 Sep 15;77(2-3):215-27. doi: 10.1016/j.schres.2005.03.006.
+PY  - 2005
+SN  - 0920-9964 (Print)
+0920-9964
+SP  - 215-27
+ST  - Remission in schizophrenia: Results from a 1-year study of long-acting risperidone injection
+T2  - Schizophr Res
+TI  - Remission in schizophrenia: Results from a 1-year study of long-acting risperidone injection
+VL  - 77
+ID  - 51215
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Asperger's disorder consists of negative symptoms similar to those seen in schizophrenia, autism, schizoid personality disorder, and schizotypal personality disorder. We investigated whether risperidone, which is effective in treating the negative symptoms of schizophrenia, would improve such symptoms observed in Asperger's disorder in a prospective, open-label trial. METHOD: Thirteen male patients aged 6 to 18 years who were diagnosed with Asperger's disorder by DSM-IV criteria were enrolled in a 12-week, prospective, open-label pilot study from March 13, 2002 to August 11, 2003. All subjects were started on risperidone 0.25 mg twice per day. Doses were increased based on clinical indication and tolerability. The primary efficacy variable was the Scale for the Assessment of Negative Symptoms (SANS). Each subject's baseline score served as his control. Secondary efficacy measures included the Positive and Negative Syndrome Scale, Brief Psychiatric Rating Scale, Montgomery-Asberg Depression Rating Scale, Global Assessment Scale, and a modified Asperger Syndrome Diagnostic Scale. RESULTS: We found a statistically significant improvement from baseline for last-observation-carried-forward (LOCF) analyses as well as for analyses of 12-week completers (N = 9) in our primary outcome measure, SANS scores (F = 13.41, p < .0001 for 12-week completers; F = 9.64, p < .0001 for LOCF). We also found statistically significant improvement in all secondary efficacy measurements (F values range, 8.41 to 15.73, p values range, < .0001 to < .005 for 12-week completers; F values range, 6.53 to 7.75, all p < .0001 for LOCF). CONCLUSIONS: Subjects' symptoms significantly improved after risperidone. The open-label nature of this small pilot study suggests caution in interpreting these data, but the results suggest that placebo-controlled trials should follow.
+AD  - Department of Psychiatry and Health Behavior, Medical College of Georgia, 1515 Pope Avenue, Augustam GA 30912, USA. jeffreyr@mail.mcg.edu
+AN  - 16401163
+AU  - Rausch, J. L.
+AU  - Sirota, E. L.
+AU  - Londino, D. L.
+AU  - Johnson, M. E.
+AU  - Carr, B. M.
+AU  - Bhatia, R.
+AU  - Miller, S.
+DA  - Dec
+DO  - 10.4088/jcp.v66n1216
+DP  - NLM
+IS  - 12
+KW  - Adolescent
+Antipsychotic Agents/adverse effects/*therapeutic use
+Asperger Syndrome/diagnosis/*drug therapy/psychology
+Basal Ganglia Diseases/chemically induced
+Child
+Diagnostic and Statistical Manual of Mental Disorders
+Drug Administration Schedule
+Humans
+Male
+Pilot Projects
+Prospective Studies
+Psychiatric Status Rating Scales/statistics & numerical data
+Risperidone/adverse effects/*therapeutic use
+Schizophrenic Psychology
+Sex Factors
+Treatment Outcome
+LA  - eng
+N1  - Rausch, Jeffrey L
+Sirota, Elizabeth L
+Londino, Donna L
+Johnson, Maria E
+Carr, Benjamin M
+Bhatia, Renu
+Miller, Stephen
+Clinical Trial
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2006/01/13
+J Clin Psychiatry. 2005 Dec;66(12):1592-7. doi: 10.4088/jcp.v66n1216.
+PY  - 2005
+SN  - 0160-6689 (Print)
+0160-6689
+SP  - 1592-7
+ST  - Open-label risperidone for Asperger's disorder: negative symptom spectrum response
+T2  - J Clin Psychiatry
+TI  - Open-label risperidone for Asperger's disorder: negative symptom spectrum response
+VL  - 66
+ID  - 51247
+ER  - 
+
+TY  - JOUR
+AB  - We investigated the efficacy and safety of rivastigmine alone and combined with memantine in Alzheimer's disease patients previously failing on donepezil or galantamine. This was a prospective, open-label, multicentre study. After stopping donepezil or galantamine, patients received rivastigmine 3-12 mg/day for 16 weeks. Non-responders to rivastigmine monotherapy at week 16 received memantine 5-20 mg/day plus rivastigmine for 12 weeks. The primary efficacy parameter was response (Mini-Mental State Examination equal or better than at week 16) to dual therapy at week 28. Secondary criteria were changes on cognitive and behavioural scales. Two hundred and two patients were included. Ninety-three (46.3%) patients responded to rivastigmine monotherapy. Of 86 patients receiving additional memantine for another 12 weeks, 67 (77.9%) responded. Combination therapy caused no apparent safety concerns. When patients fail on donepezil or galantamine, switching to rivastigmine may improve cognition and behaviour. Should they continue to deteriorate, the addition of memantine may be beneficial.
+AD  - Département de Gérontologie Clinique, CHU Limoges, France. thierry.dantoine@chu-limoges.fr
+AN  - 16409439
+AU  - Dantoine, T.
+AU  - Auriacombe, S.
+AU  - Sarazin, M.
+AU  - Becker, H.
+AU  - Pere, J. J.
+AU  - Bourdeix, I.
+DA  - Jan
+DO  - 10.1111/j.1368-5031.2005.00769.x
+DP  - NLM
+IS  - 1
+KW  - Aged
+Alzheimer Disease/*drug therapy
+Antiparasitic Agents/*therapeutic use
+Cholinesterase Inhibitors/*therapeutic use
+Drug Therapy, Combination
+Female
+Humans
+Male
+Memantine/*therapeutic use
+Neuroprotective Agents/*therapeutic use
+Phenylcarbamates/*therapeutic use
+Prospective Studies
+Rivastigmine
+Treatment Outcome
+LA  - eng
+N1  - Dantoine, T
+Auriacombe, S
+Sarazin, M
+Becker, H
+Pere, J-J
+Bourdeix, I
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+India
+2006/01/18
+Int J Clin Pract. 2006 Jan;60(1):110-8. doi: 10.1111/j.1368-5031.2005.00769.x.
+PY  - 2006
+SN  - 1368-5031 (Print)
+1368-5031
+SP  - 110-8
+ST  - Rivastigmine monotherapy and combination therapy with memantine in patients with moderately severe Alzheimer's disease who failed to benefit from previous cholinesterase inhibitor treatment
+T2  - Int J Clin Pract
+TI  - Rivastigmine monotherapy and combination therapy with memantine in patients with moderately severe Alzheimer's disease who failed to benefit from previous cholinesterase inhibitor treatment
+VL  - 60
+ID  - 51214
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: There is a debate about the deterioration of fine motor behavior during treatment with cholinesterase inhibitors. METHODS: We used an instrumental motor test, which demands a complex motion series. Thereby we assessed motor function in patients with Alzheimer's disease (AD), in patients with mild cognitive impairment (MCI), and in controls. We also performed this task and a complex reaction time paradigm (CRT) during a six-week open-label safety study using transdermal delivery of the cholinesterase inhibitor rivastigmine. OBJECTIVES: To investigate (1) the performance of complex movements during deterioration of cognitive function and (2) the impact of rivastigmine on fine motor behavior and CRT outcomes in AD patients. RESULTS: There were significant differences in the motor test outcomes, particularly when performed with the left non-dominant hand, between controls and patients with AD and MCI. Rivastigmine did not deteriorate assessed fine motor skills and CRT results. CONCLUSION: Our study shows an impaired carrying out of complex motion series during neurodegeneration associated with cognitive dysfunction. Rivastigmine selectively inhibits the predominant cortical and hippocampal G1 cholinesterase isoform; therefore, hypothetically no deterioration of fine motor behavior appeared during transdermal rivastigmine treatment. We assume that a putative drug-induced increase in speed and attention did not offset a deterioration of motion performance because we found no significant changes in the CRT results.
+AD  - Department of Neurology, St. Josef Hospital, Ruhr University Bochum, Bochum, Germany.
+AN  - 16453249
+AU  - Muhlack, S.
+AU  - Przuntek, H.
+AU  - Müller, T.
+DA  - Jan
+DO  - 10.1055/s-2006-931473
+DP  - NLM
+IS  - 1
+KW  - Administration, Cutaneous
+Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/psychology
+Attention/drug effects
+Cognition Disorders/drug therapy/psychology
+Female
+Humans
+Male
+Middle Aged
+Movement/*drug effects
+Neuroprotective Agents/administration & dosage/adverse effects/*therapeutic use
+Phenylcarbamates/administration & dosage/adverse effects/*therapeutic use
+Psychomotor Performance/drug effects
+Reaction Time/drug effects
+Rivastigmine
+LA  - eng
+N1  - Muhlack, S
+Przuntek, H
+Müller, T
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Germany
+2006/02/03
+Pharmacopsychiatry. 2006 Jan;39(1):16-9. doi: 10.1055/s-2006-931473.
+PY  - 2006
+SN  - 0176-3679 (Print)
+0176-3679
+SP  - 16-9
+ST  - Transdermal rivastigmine treatment does not worsen impaired performance of complex motions in patients with Alzheimer's disease
+T2  - Pharmacopsychiatry
+TI  - Transdermal rivastigmine treatment does not worsen impaired performance of complex motions in patients with Alzheimer's disease
+VL  - 39
+ID  - 51239
+ER  - 
+
+TY  - JOUR
+AB  - The objective is to evaluate the efficacy of galantamine when a slow titration regimen is employed in Thai Alzheimer's disease (AD) patients with or without cerebrovascular disease and vascular dementia (VaD). A 6-month, multicentre, open-label, uncontrolled trial was undertaken in 75 AD patients. Eligible patients received an initial galantamine dose of 8 mg/day and escalated over 5-8 weeks to maintenance doses of 16 or 24 mg/day. Primary efficacy measures were AD Assessment Scale-cognitive subscale (ADAS-cog) and the Clinician's Interview-Based Impression of Change-Plus version (CIBIC-plus). The Behavioural Pathology in AD Rating Scale (BEHAVE AD), the AD Cooperative Study Activities of Daily Living Inventory and Pittsburgh Sleep Quality Index were the secondary efficacy variables. Analyses were based on the intent-to-treat population. Treatment with galantamine showed significant improvement in cognition on the ADAS-cog and CIBIC-plus at month 6. Galantamine showed favourable effects on activities of daily living. Behavioural symptoms and sleep quality were also significantly improved (p < 0.05). Galantamine was well tolerated. The adverse events were mild-to-moderate intensity. The most frequent adverse events commonly reported were nausea (16.4%), dizziness (9.6%) and vomiting (6.8%). The results of this study may be consistent with galantamine being an effective and safe treatment for mild-to-moderate AD patients with or without cerebrovascular disease and VaD. Flexible dose escalation of galantamine was well tolerated. The daily maintenance dose of galantamine was 16 mg/day, followed by a back up dose of 24 mg/day.
+AD  - Department of Psychiatry, Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand. fmednta@med2.md.chula.ac.th
+AN  - 16700849
+AU  - Thavichachart, N.
+AU  - Phanthumchinda, K.
+AU  - Chankrachang, S.
+AU  - Praditsuwan, R.
+AU  - Nidhinandana, S.
+AU  - Senanarong, V.
+AU  - Poungvarin, N.
+C2  - PMC1473179
+DA  - May
+DO  - 10.1111/j.1368-5031.2006.00892.x
+DP  - NLM
+IS  - 5
+KW  - Aged
+Alzheimer Disease/complications/*drug therapy
+Cerebrovascular Disorders/complications/drug therapy
+Cholinesterase Inhibitors/administration & dosage
+Dementia, Vascular/complications/drug therapy
+Drug Administration Schedule
+Female
+Galantamine/*administration & dosage
+Humans
+Male
+Nootropic Agents/*administration & dosage
+Treatment Outcome
+LA  - eng
+N1  - 1742-1241
+Thavichachart, N
+Phanthumchinda, K
+Chankrachang, S
+Praditsuwan, R
+Nidhinandana, S
+Senanarong, V
+Poungvarin, N
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+India
+2006/05/17
+Int J Clin Pract. 2006 May;60(5):533-40. doi: 10.1111/j.1368-5031.2006.00892.x.
+PY  - 2006
+SN  - 1368-5031 (Print)
+1368-5031
+SP  - 533-40
+ST  - Efficacy study of galantamine in possible Alzheimer's disease with or without cerebrovascular disease and vascular dementia in Thai patients: a slow-titration regimen
+T2  - Int J Clin Pract
+TI  - Efficacy study of galantamine in possible Alzheimer's disease with or without cerebrovascular disease and vascular dementia in Thai patients: a slow-titration regimen
+VL  - 60
+ID  - 51249
+ER  - 
+
+TY  - JOUR
+AB  - We assessed the effects of induced hyperinsulinemia on plasma and cerebrospinal fluid (CSF) levels of norepinephrine (NE) and on cognition for patients with Alzheimer's disease (AD) and normal older adults. For normal adults, insulin increased plasma and CSF NE levels; also, recall for paraphrased details of a story improved as CSF NE levels increased. Mental control was positively correlated with CSF levels of NE for patients. These findings demonstrate that raising peripheral insulin levels can modulate CNS NE levels and suggest that insulin-stimulated increases in NE may modulate cognitive functions.
+AD  - Geriatric Research, Education, and Clinical Center (GRECC), Veterans Affairs Puget Sound Health Care System, and Department of Psychiatry and Behavioral Sciences, University of Washington School of Medicine, Seattle, WA 98108-1532, USA.
+AN  - 16298239
+AU  - Watson, G. S.
+AU  - Bernhardt, T.
+AU  - Reger, M. A.
+AU  - Cholerton, B. A.
+AU  - Baker, L. D.
+AU  - Peskind, E. R.
+AU  - Asthana, S.
+AU  - Plymate, S. R.
+AU  - Frölich, L.
+AU  - Craft, S.
+DA  - Jan
+DO  - 10.1016/j.neurobiolaging.2004.11.011
+DP  - NLM
+IS  - 1
+KW  - Aged
+Aging/cerebrospinal fluid
+Alzheimer Disease/*cerebrospinal fluid/*diagnosis/etiology
+Cognition/*drug effects
+Cognition Disorders/*cerebrospinal fluid/complications/*diagnosis
+Female
+Humans
+Injections, Intravenous
+Insulin/*administration & dosage
+Male
+Norepinephrine/*cerebrospinal fluid
+LA  - eng
+N1  - Watson, G Stennis
+Bernhardt, Tanja
+Reger, Mark A
+Cholerton, Brenna A
+Baker, Laura D
+Peskind, Elaine R
+Asthana, Sanjay
+Plymate, Stephen R
+Frölich, Lutz
+Craft, Suzanne
+R01 AG10880/AG/NIA NIH HHS/United States
+T32 AG000258/AG/NIA NIH HHS/United States
+Controlled Clinical Trial
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+2005/11/22
+Neurobiol Aging. 2006 Jan;27(1):38-41. doi: 10.1016/j.neurobiolaging.2004.11.011.
+PY  - 2006
+SN  - 0197-4580 (Print)
+0197-4580
+SP  - 38-41
+ST  - Insulin effects on CSF norepinephrine and cognition in Alzheimer's disease
+T2  - Neurobiol Aging
+TI  - Insulin effects on CSF norepinephrine and cognition in Alzheimer's disease
+VL  - 27
+ID  - 51219
+ER  - 
+
+TY  - JOUR
+AB  - The aim of the present study was to assess the behavioral and cognitive effects following treatment with topiramate in children and adolescents with epilepsy with mild to profound mental retardation. The study group comprised 29 children, 16 males and 13 females, aged 3 to 19 years, affected by partial (4) and generalized (25) crypto/symptomatic epilepsy and mental retardation (7 mild, 5 moderate, 15 severe, 2 profound), who were administered topiramate (TPM) as add-on therapy to their baseline antiepileptic treatment. At baseline, 3 months, 6 months, and 12 months, parents or caregivers of each patient were administered a questionnaire based on the Holmfrid Quality of Life Inventory. After a 3-month follow-up, the add-on topiramate caused overall mild to moderate cognitive/behavioral worsening in about 70% of children and adolescents with mental retardation and epilepsy. After 6 and 12 months of follow-up, global worsening persisted in 31 and 20.1% of cases, respectively. In conclusion, this trial confirms that TPM can have significant adverse cognitive and behavioral side effects, even in mentally disabled children and adolescents.
+AD  - Clinic of Child Neuropsychiatry, Second University of Naples, Naples, Italy. giangennaro.coppola@unina2.it
+AN  - 17962081
+AU  - Coppola, G.
+AU  - Verrotti, A.
+AU  - Resicato, G.
+AU  - Ferrarelli, S.
+AU  - Auricchio, G.
+AU  - Operto, F. F.
+AU  - Pascotto, A.
+DA  - Feb
+DO  - 10.1016/j.yebeh.2007.09.001
+DP  - NLM
+ET  - 20071024
+IS  - 2
+KW  - Adolescent
+Adult
+Anticonvulsants/*adverse effects/therapeutic use
+Behavior/drug effects
+Child
+Child, Preschool
+Cognition Disorders/*chemically induced
+Drug Therapy, Combination
+Epilepsy/complications/*drug therapy
+Female
+Fructose/adverse effects/*analogs & derivatives/therapeutic use
+Humans
+Intellectual Disability/*complications
+Male
+Mental Disorders/*chemically induced
+Prospective Studies
+Severity of Illness Index
+Statistics, Nonparametric
+Topiramate
+Treatment Outcome
+LA  - eng
+N1  - Coppola, Giangennaro
+Verrotti, Alberto
+Resicato, Gianluca
+Ferrarelli, Silvia
+Auricchio, Gianfranca
+Operto, Francesca Felicia
+Pascotto, Antonio
+Clinical Trial
+Journal Article
+United States
+2007/10/27
+Epilepsy Behav. 2008 Feb;12(2):253-6. doi: 10.1016/j.yebeh.2007.09.001. Epub 2007 Oct 24.
+PY  - 2008
+SN  - 1525-5050 (Print)
+1525-5050
+SP  - 253-6
+ST  - Topiramate in children and adolescents with epilepsy and mental retardation: a prospective study on behavior and cognitive effects
+T2  - Epilepsy Behav
+TI  - Topiramate in children and adolescents with epilepsy and mental retardation: a prospective study on behavior and cognitive effects
+VL  - 12
+ID  - 51202
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To examine the efficacy and tolerability of aripiprazole treatment for acute bipolar depression. METHODS: A six-week prospective, nonrandomized, open label study was conducted in depressed bipolar outpatients (types I, II, and NOS), as diagnosed by DSM-IV criteria. Previous treatments were continued unchanged, and new treatments not permitted, except lorazepam up to 2 mg daily. Aripiprazole was dosed flexibly up to a maximum of 30 mg daily, based on tolerability and efficacy. Montgomery-Asberg Depression Rating Scale (MADRS) and Mania Rating Scale (MRS) scores were used to assess changes in mood symptoms. Side effect outcomes were measured. Data was analyzed using last observation carried forward methodology and Analysis of Variance. RESULTS: Twenty patients (15 men, 5 women) with bipolar disorder (10 type I, 7 type II, 3 type NOS) enrolled in the study. Mean endpoint dose was 13.6 mg/d+/-10.0 mg/d. Thirteen (65%) patients completed 6 weeks of treatment. MADRS and MRS scores significantly improved during treatment. 44% of patients who completed at least one week of treatment were considered responders, based on > or =50% decrease in MADRS scores from baseline. Side effect measures were mostly unchanged during treatment. CONCLUSION: Depressive symptoms improved in bipolar patients treated with open-label aripiprazole.
+AD  - Psychopharmacology Research Program, Cambridge Health Alliance, Cambridge, MA, USA. rdunn@challiance.org
+AN  - 18272230
+AU  - Dunn, R. T.
+AU  - Stan, V. A.
+AU  - Chriki, L. S.
+AU  - Filkowski, M. M.
+AU  - Ghaemi, S. N.
+DA  - Sep
+DO  - 10.1016/j.jad.2008.01.004
+DP  - NLM
+ET  - 20080212
+IS  - 1-2
+KW  - Acute Disease
+Adolescent
+Adult
+Akathisia, Drug-Induced/etiology
+Ambulatory Care
+Antidepressive Agents/therapeutic use
+Antipsychotic Agents/adverse effects/*therapeutic use
+Aripiprazole
+Bipolar Disorder/diagnosis/*drug therapy/psychology
+Depressive Disorder, Major/diagnosis/drug therapy/psychology
+Diagnostic and Statistical Manual of Mental Disorders
+Drug Administration Schedule
+Drug Therapy, Combination
+Endpoint Determination
+Female
+Humans
+Lorazepam/therapeutic use
+Male
+Middle Aged
+Nausea/chemically induced
+Piperazines/adverse effects/*therapeutic use
+Prospective Studies
+Psychiatric Status Rating Scales/statistics & numerical data
+Quinolones/adverse effects/*therapeutic use
+Treatment Outcome
+LA  - eng
+N1  - Dunn, Robert T
+Stan, Vanessa A
+Chriki, Lyvia S
+Filkowski, Megan M
+Ghaemi, S Nassir
+Clinical Trial
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2008/02/15
+J Affect Disord. 2008 Sep;110(1-2):70-4. doi: 10.1016/j.jad.2008.01.004. Epub 2008 Feb 12.
+PY  - 2008
+SN  - 0165-0327 (Print)
+0165-0327
+SP  - 70-4
+ST  - A prospective, open-label study of Aripiprazole mono- and adjunctive treatment in acute bipolar depression
+T2  - J Affect Disord
+TI  - A prospective, open-label study of Aripiprazole mono- and adjunctive treatment in acute bipolar depression
+VL  - 110
+ID  - 51225
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: Prior to antiretroviral treatment, HIV-infected children frequently developed encephalopathy, resulting in debilitating morbidity and mortality. This is the first large study to evaluate the impact of HAART and central nervous system (CNS)-penetrating antiretroviral regimens on the incidence of HIV encephalopathy and survival after diagnosis of HIV encephalopathy among perinatally infected children. DESIGN: A total of 2398 perinatally HIV-infected children with at least one neurological examination were followed in a US-based prospective cohort study conducted from 1993 to 2007. METHODS: Trends in incidence rates over calendar time were described and Cox regression models were used to estimate the effects of time-varying HAART and CNS-penetrating antiretroviral regimens on HIV encephalopathy and on survival after diagnosis of HIV encephalopathy. RESULTS: During a median of 6.4 years of follow-up, 77 incident cases of HIV encephalopathy occurred [incidence rate 5.1 cases per 1000 person-years, 95% confidence interval (CI) 4.0-6.3]. A 10-fold decline in incidence was observed beginning in 1996, followed by a stable incidence rate after 2002. HAART regimens were associated with a 50% decrease (95% CI 14-71%) in the incidence of HIV encephalopathy compared with non-HAART regimens. High CNS-penetrating regimens were associated with a substantial survival benefit (74% reduction in the risk of death, 95% CI 39-89%) after HIV encephalopathy diagnosis compared with low CNS-penetrating regimens. CONCLUSION: A dramatic decrease in the incidence of HIV encephalopathy occurred after the introduction of HAART. The use of HAART was highly effective in reducing the incidence of HIV encephalopathy among perinatally infected children and adolescents. Effective CNS-penetrating antiretroviral regimens are important in affecting survival after diagnosis of HIV encephalopathy.
+AD  - Department of Epidemiology, Harvard School of Public Health, Boston, MA 02115, USA. kpatel@hsph.harvard.edu
+AN  - 19644348
+AU  - Patel, K.
+AU  - Ming, X.
+AU  - Williams, P. L.
+AU  - Robertson, K. R.
+AU  - Oleske, J. M.
+AU  - Seage, G. R., 3rd
+C2  - PMC2821205
+C6  - NIHMS169964
+DA  - Sep 10
+DO  - 10.1097/QAD.0b013e32832dc041
+DP  - NLM
+IS  - 14
+KW  - AIDS Dementia Complex/cerebrospinal fluid/drug therapy/epidemiology/*prevention &
+control
+Adolescent
+Anti-HIV Agents/*cerebrospinal fluid/therapeutic use
+Antiretroviral Therapy, Highly Active/methods
+Child
+Child, Preschool
+Epidemiologic Methods
+Female
+*hiv-1
+Humans
+Infant
+Infant, Newborn
+Infectious Disease Transmission, Vertical
+Male
+Pregnancy
+Prenatal Exposure Delayed Effects
+United States/epidemiology
+LA  - eng
+N1  - 1473-5571
+Patel, Kunjal
+Ming, Xue
+Williams, Paige L
+Robertson, Kevin R
+Oleske, James M
+Seage, George R 3rd
+International Maternal Pediatric Adolescent AIDS Clinical Trials 219/219C Study Team
+U01 AI068632-01/AI/NIAID NIH HHS/United States
+U01 AI068632/AI/NIAID NIH HHS/United States
+U01 AI068616-01/AI/NIAID NIH HHS/United States
+UM1 AI069415/AI/NIAID NIH HHS/United States
+UM1 AI069477/AI/NIAID NIH HHS/United States
+U01 AI068616/AI/NIAID NIH HHS/United States
+U01 AI041110/AI/NIAID NIH HHS/United States
+U01 AI041110-05/AI/NIAID NIH HHS/United States
+1 U01 AI068616/AI/NIAID NIH HHS/United States
+5 U01 AI41110/AI/NIAID NIH HHS/United States
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2009/08/01
+AIDS. 2009 Sep 10;23(14):1893-901. doi: 10.1097/QAD.0b013e32832dc041.
+PY  - 2009
+SN  - 0269-9370 (Print)
+0269-9370
+SP  - 1893-901
+ST  - Impact of HAART and CNS-penetrating antiretroviral regimens on HIV encephalopathy among perinatally infected children and adolescents
+T2  - Aids
+TI  - Impact of HAART and CNS-penetrating antiretroviral regimens on HIV encephalopathy among perinatally infected children and adolescents
+VL  - 23
+ID  - 51237
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The aim of this study is to determine whether B12 replacement would ameliorate cognitive and psychiatric symptoms in elderly subjects with dementia and low serum B12 levels. METHODS: A test group (n = 28) of nursing home residents with low serum B12 levels (<250 pg/mL) and a matched comparison group (n = 28) with normal serum B12 levels (>300 pg/mL) were evaluated by blinded raters while the test group received intramuscular (IM) B12 replacement therapy. All subjects were assessed at baseline, 8 weeks, and 16 weeks with the Dementia Rating Scale, Brief Psychiatric Rating Scale, and Geriatric Depression Scale. RESULTS: Although B12 replacement produced significant improvement in hematologic and metabolic parameters, it yielded no significant effect on cognitive or psychiatric variables. A few subjects evidenced notable individual treatment responses; however, these were not statistically more frequent than in the normal B12 group. CONCLUSIONS: These results suggest that B12 replacement is unlikely to benefit cognitive or psychiatric symptoms in the vast majority of elderly dementia patients with low serum B12 levels.
+AD  - Azheimer's Disease Research Unit, Department of Psychiatry, Yale University School of Medicine, New Haven, CT 06510, USA. christopher.vandyck@yale.edu
+AN  - 18925978
+AU  - van Dyck, C. H.
+AU  - Lyness, J. M.
+AU  - Rohrbaugh, R. M.
+AU  - Siegal, A. P.
+C2  - PMC3523212
+C6  - NIHMS343673
+DA  - Feb
+DO  - 10.1017/s1041610208007904
+DP  - NLM
+ET  - 20081017
+IS  - 1
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/diagnosis/*drug therapy/psychology
+Brief Psychiatric Rating Scale/statistics & numerical data
+Cognition Disorders/*drug therapy
+Dementia, Multi-Infarct/diagnosis/*drug therapy/psychology
+Female
+Follow-Up Studies
+Homes for the Aged
+Humans
+Injections, Intramuscular
+Male
+Mental Status Schedule/statistics & numerical data
+Nursing Homes
+Psychometrics
+Single-Blind Method
+Vitamin B 12/*administration & dosage
+Vitamin B 12 Deficiency/diagnosis/drug therapy/psychology
+LA  - eng
+N1  - 1741-203x
+van Dyck, Christopher H
+Lyness, Jeffrey M
+Rohrbaugh, Robert M
+Siegal, Alan P
+K24 MH071509/MH/NIMH NIH HHS/United States
+K24 MH071509-01A1/MH/NIMH NIH HHS/United States
+Controlled Clinical Trial
+Journal Article
+Research Support, N.I.H., Extramural
+England
+2008/10/18
+Int Psychogeriatr. 2009 Feb;21(1):138-47. doi: 10.1017/S1041610208007904. Epub 2008 Oct 17.
+PY  - 2009
+SN  - 1041-6102 (Print)
+1041-6102
+SP  - 138-47
+ST  - Cognitive and psychiatric effects of vitamin B12 replacement in dementia with low serum B12 levels: a nursing home study
+T2  - Int Psychogeriatr
+TI  - Cognitive and psychiatric effects of vitamin B12 replacement in dementia with low serum B12 levels: a nursing home study
+VL  - 21
+ID  - 51243
+ER  - 
+
+TY  - JOUR
+AB  - The aim of the present study was to determine the efficacy, side-effects and tolerability of blonanserin for treating refractory behavioural psychological symptoms of dementia (BPSD). The present study was a 12-week, prospective, structured clinical trial of blonanserin for the treatment of BPSD. The degree of cognitive function, activities of daily living score, and the degree of BPSD were determined using the Mini-Mental State Examination (MMSE), Disability Assessment for Dementia (DAD), Neuropsychiatric Inventory (NPI) and the Rating Scale for Aggressive Behaviour in the Elderly (RAGE). The severity of extrapyramidal symptoms was assessed using the Drug-Induced Extrapyramidal Symptoms scale (DIEEPS). Five patients were enrolled. These patients met the NINCDS-ADRDA criteria. The patients were prescribed more than two kinds of existing antipsychotic drugs and were considered refractory cases; the drugs were discontinued because they were ineffectual and side-effects appeared. Each drug was prescribed independently for at least 2 weeks. The mean changes (at baseline and at the last week, respectively) in the MMSE (12.25, 9.25), in the DAD (6.5, 6.75), in the RAGE (5.5, 5.3) and in the DIEEPS (0.5, 1.5) were minimal. The mean changes in the NPI were two or fewer points. Some side-effects (one gait abnormality and one pneumonia) were observed. The results of this preliminary study show that blonanserin does not have adequate efficacy for the treatment of refractory BPSD.
+AD  - Amekudai Hospital, Department of Psychiatry, Faculty of Medicine, University of the Ryukyus, Okinawa, Japan. ahamuro007@yahoo.co.jp
+AN  - 21159055
+AU  - Hamuro, A.
+AU  - Saito, S.
+DA  - Dec
+DO  - 10.1111/j.1479-8301.2010.00338.x
+DP  - NLM
+IS  - 4
+KW  - Aged
+Aged, 80 and over
+Aggression/drug effects
+Alzheimer Disease/diagnosis/*drug therapy/psychology
+Basal Ganglia Diseases/chemically induced/diagnosis
+*Dopamine D2 Receptor Antagonists
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Drug Resistance
+Female
+Humans
+Japan
+Male
+Mental Disorders/diagnosis/*drug therapy/psychology
+Mental Status Schedule/statistics & numerical data
+Neuropsychological Tests/statistics & numerical data
+Piperazines/adverse effects/*therapeutic use
+Piperidines/adverse effects/*therapeutic use
+Prospective Studies
+Psychometrics
+Receptor, Serotonin, 5-HT2A/*drug effects
+Treatment Outcome
+LA  - eng
+N1  - 1479-8301
+Hamuro, Atsushi
+Saito, Satona
+Case Reports
+Clinical Trial
+Journal Article
+England
+2010/12/17
+Psychogeriatrics. 2010 Dec;10(4):198-200. doi: 10.1111/j.1479-8301.2010.00338.x.
+PY  - 2010
+SN  - 1346-3500
+SP  - 198-200
+ST  - Five Alzheimer's disease cases with refractory behavioural psychological symptoms of dementia treated with blonanserin
+T2  - Psychogeriatrics
+TI  - Five Alzheimer's disease cases with refractory behavioural psychological symptoms of dementia treated with blonanserin
+VL  - 10
+ID  - 51238
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: An international, non-randomised study evaluated efficacy and safety of risperidone long-acting injectable (RLAI) compared to previous treatment. To investigate generizability of the European data set to the UK subset safety and switching data are reported here. METHODS: Patients with schizophrenia or other psychotic disorder, symptomatically stable on antipsychotic medication, received intramuscular injections of RLAI 25 mg (to a maximum of 50 mg) every 2 weeks for 6 months. RESULTS: Of 182 UK patients enrolled, 79% had schizophrenia, 21% other psychotic disorders. Insufficient efficacy (43%), side effects (45%), and non-compliance (25%) were the most common reasons for switching. Sixty-nine per cent of patients completed the trial; 8% discontinued due to adverse events (AEs). Most frequent treatment-emergent AEs were headache (8.2%), relapse (7.7%) and insomnia (7.1%); 8 (4.4%) patients reported injection-related AEs. There were significant improvements in extrapyramidal symptom rating scale total and subscale (particularly Parkinsonism) scores, regardless of previous medication (total cohort, p < or = 0.0001). There was a small but significant increase in body weight at endpoint (1.2 kg, p = 0.0023). One patient suffered a myocardial infarction and died (not treatment-related). There were no substantial differences between the full data set and the UK sub-population CONCLUSION: Switch to RLAI was well-tolerated in stable patients over 6 months. The European data set is generalizable to the UK patient population.
+AD  - Hertfordshire Partnership Foundation Trust, Queen Elizabeth Hospital, Howlands, Welwyn Garden City, Hertfordshire, UK. C.1.Hawley@herts.ac.uk
+AN  - 20041474
+AU  - Hawley, C.
+AU  - Turner, M.
+AU  - Latif, M. A.
+AU  - Curtis, V.
+AU  - Saleem, P. T.
+AU  - Wilton, K.
+DA  - Jan
+DO  - 10.1002/hup.1085
+DP  - NLM
+IS  - 1
+KW  - Administration, Oral
+Adult
+Antipsychotic Agents/*administration & dosage/adverse effects
+Delayed-Action Preparations/*therapeutic use
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Drug Delivery Systems
+Female
+Humans
+Injections, Intramuscular/methods
+Male
+Middle Aged
+Prospective Studies
+Psychiatric Status Rating Scales
+Psychotic Disorders/*drug therapy
+Risperidone/*administration & dosage/adverse effects
+Schizophrenia/*drug therapy
+Treatment Outcome
+LA  - eng
+N1  - 1099-1077
+Hawley, Chris
+Turner, Martin
+Latif, Muhammud A
+Curtis, Vivienne
+Saleem, Packeruther T
+Wilton, Kristina
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+England
+2009/12/31
+Hum Psychopharmacol. 2010 Jan;25(1):37-46. doi: 10.1002/hup.1085.
+PY  - 2010
+SN  - 0885-6222
+SP  - 37-46
+ST  - Switching stable patients with schizophrenia from depot and oral antipsychotics to long-acting injectable risperidone: reasons for switching and safety
+T2  - Hum Psychopharmacol
+TI  - Switching stable patients with schizophrenia from depot and oral antipsychotics to long-acting injectable risperidone: reasons for switching and safety
+VL  - 25
+ID  - 51232
+ER  - 
+
+TY  - JOUR
+AB  - Patients with Huntington's disease (HD) often suffer from psychiatric symptoms including affective disorder, psychosis, irritability, and apathy, which may be present in all stages of the disease. However--despite the obvious likelihood that these symptoms may be reduced by antidepressive treatments--to date, the effectiveness of such treatments in HD has only ever been examined in case studies. Twenty-six HD patients (17 men), with a diagnosis of major depression, were studied. The symptoms of HD and depression were systematically measured using the Beck Depression Inventory and the Hamilton Rating Scale for Depression both at baseline and after 4 weeks of treatment with venlafaxine XR. After 4 weeks of venlafaxine XR treatment, the symptoms of depression in HD patients decreased significantly relative to baseline. However, approximately one in five patients developed significant venlafaxine-related side effects (nausea and irritability). Venlafaxine XR is highly effective in the treatment of depression in HD, although it may produce unpleasant side effects. Further studies are required to establish the most suitable treatment for depression in HD.
+AD  - University Clinic of Psychiatry bUniversity Clinic of Neurosurgery, Graz Medical University, Auenbruggerplatz 31, Graz, Austria. anna.holl@klinikum-graz.at
+AN  - 19996754
+AU  - Holl, A. K.
+AU  - Wilkinson, L.
+AU  - Painold, A.
+AU  - Holl, E. M.
+AU  - Bonelli, R. M.
+DA  - Jan
+DO  - 10.1097/YIC.0b013e3283348018
+DP  - NLM
+IS  - 1
+KW  - Antidepressive Agents, Second-Generation/*administration & dosage/adverse effects
+Cyclohexanols/*administration & dosage/adverse effects
+Delayed-Action Preparations
+Depressive Disorder, Major/complications/*drug therapy
+Female
+Humans
+Huntington Disease/complications/*drug therapy
+Irritable Mood/drug effects
+Male
+Middle Aged
+Nausea/chemically induced
+Treatment Outcome
+Venlafaxine Hydrochloride
+LA  - eng
+N1  - 1473-5857
+Holl, Anna K
+Wilkinson, Leonora
+Painold, Annamaria
+Holl, Etienne M
+Bonelli, Raphael M
+F-0608/PUK_/Parkinson's UK/United Kingdom
+Clinical Trial
+Journal Article
+England
+2009/12/10
+Int Clin Psychopharmacol. 2010 Jan;25(1):46-50. doi: 10.1097/YIC.0b013e3283348018.
+PY  - 2010
+SN  - 0268-1315
+SP  - 46-50
+ST  - Combating depression in Huntington's disease: effective antidepressive treatment with venlafaxine XR
+T2  - Int Clin Psychopharmacol
+TI  - Combating depression in Huntington's disease: effective antidepressive treatment with venlafaxine XR
+VL  - 25
+ID  - 51250
+ER  - 
+
+TY  - JOUR
+AB  - Obsessive-compulsive symptoms (OCS) are clinically important phenomena in schizophrenia patients. Lamotrigine has a modulating effect on glutamatergic neurotransmission relevant to pathophysiology of both schizophrenia and OCD. Efficacy and tolerability of lamotrigine in schizophrenia and schizoaffective patients with comorbid OCS were evaluated. In an 8-week, open-label trial, lamotrigine (25 mg/day for 1 week, 50 mg for 2 weeks, 100 mg for 2 weeks, 200 mg for 3 weeks) was added to ongoing psychotropic drug regimens in schizophrenia (N = 5) and schizoaffective disorder (N = 6) patients with clinically significant OCS [Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) score > 16]. The Y-BOCS score for nine completers decreased significantly from baseline to week 8 (22.9 +/- 6.1 vs 17.4 +/- 3.6; t = 2.33, df = 1, P = 0.033). Five patients, all with schizoaffective disorder, were responders (>or=35% decrease in Y-BOCS score). No significant changes were detected in schizophrenia symptom severity. Depressive symptoms, assessed with the Calgary Depression Rating Scale, improved significantly (6.4 +/- 1.5 vs 4.0 +/- 2.5; t = 3.19, df = 1, P = 0.013); this change positively correlated with OCS improvement (r = 0.69, P = 0.04). Lamotrigine was safe and well tolerated. Explicit evaluation of therapeutic efficacy of adjunctive lamotrigine in schizoaffective disorder patients with comorbid OCS merits further investigation.
+AD  - Research Unit, Tirat Carmel Mental Health Center, Rappaport Faculty of Medicine, Israel Institute of Technology - Technion, Haifa, Israel. poyurovs@tx.technion.ac.il
+AN  - 19074541
+AU  - Poyurovsky, M.
+AU  - Glick, I.
+AU  - Koran, L. M.
+DA  - Jun
+DO  - 10.1177/0269881108099215
+DP  - NLM
+ET  - 20081212
+IS  - 6
+KW  - Adolescent
+Adult
+Antimanic Agents/therapeutic use
+Antipsychotic Agents/therapeutic use
+Compulsive Behavior/complications/diagnosis/*drug therapy
+Drug Administration Schedule
+Drug Therapy, Combination
+Female
+Humans
+Lamotrigine
+Male
+Obsessive Behavior/complications/diagnosis/*drug therapy
+Patient Selection
+Psychotic Disorders/complications/diagnosis/*drug therapy
+Schizophrenia/complications/diagnosis/*drug therapy
+Severity of Illness Index
+Time Factors
+Treatment Outcome
+Triazines/*therapeutic use
+LA  - eng
+N1  - 1461-7285
+Poyurovsky, M
+Glick, I
+Koran, L M
+Clinical Trial
+Journal Article
+United States
+2008/12/17
+J Psychopharmacol. 2010 Jun;24(6):861-6. doi: 10.1177/0269881108099215. Epub 2008 Dec 12.
+PY  - 2010
+SN  - 0269-8811
+SP  - 861-6
+ST  - Lamotrigine augmentation in schizophrenia and schizoaffective patients with obsessive-compulsive symptoms
+T2  - J Psychopharmacol
+TI  - Lamotrigine augmentation in schizophrenia and schizoaffective patients with obsessive-compulsive symptoms
+VL  - 24
+ID  - 51221
+ER  - 
+
+TY  - JOUR
+AB  - Selegiline is a monoamine-B specific inhibitor used to treat Parkinson's disease. A Zydis sublingual preparation has more efficient absorption and less first pass amphetamine metabolites. We conducted an open label oral to Zydis switch study to evaluate tolerability of rapid switch, and relative efficacy, in 48 subjects from 5 sites. Overall patients preferred the Zydis preparation. Per clinician global impressions, fluctuations improved and the "on" UPDRS part II scores improved. Total UPDRS and measures of fatigue and sleep were unchanged. Adverse events were mild. Patients generally preferred the Zydis selegiline preparation but the modest difference is of unclear clinical significance given the open label nature of the trial.
+AD  - Dept. of Neurology, Baylor college of Medicine, 6550 Fannin, Ste 1801, Houston, TX 77030, USA. wondo@bcm.tmc.edu
+AN  - 21084213
+AU  - Ondo, W. G.
+AU  - Hunter, C.
+AU  - Isaacson, S. H.
+AU  - Silver, D. E.
+AU  - Stewart, R. M.
+AU  - Tetrud, J. W.
+AU  - Davidson, A.
+DA  - Feb
+DO  - 10.1016/j.parkreldis.2010.10.001
+DP  - NLM
+ET  - 20101116
+IS  - 2
+KW  - Administration, Oral
+Administration, Sublingual
+Aged
+Chemistry, Pharmaceutical
+*Drug Substitution/methods
+Female
+Follow-Up Studies
+Humans
+Male
+Parkinson Disease/*drug therapy/metabolism
+Selegiline/*administration & dosage/*adverse effects
+Treatment Outcome
+LA  - eng
+N1  - 1873-5126
+Ondo, William G
+Hunter, Christine
+Isaacson, Stuart H
+Silver, Dee E
+Stewart, R Malcolm
+Tetrud, James W
+Davidson, Anthony
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+England
+2010/11/19
+Parkinsonism Relat Disord. 2011 Feb;17(2):117-8. doi: 10.1016/j.parkreldis.2010.10.001. Epub 2010 Nov 16.
+PY  - 2011
+SN  - 1353-8020
+SP  - 117-8
+ST  - Tolerability and efficacy of switching from oral selegiline to Zydis selegiline in patients with Parkinson's disease
+T2  - Parkinsonism Relat Disord
+TI  - Tolerability and efficacy of switching from oral selegiline to Zydis selegiline in patients with Parkinson's disease
+VL  - 17
+ID  - 51240
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To assess the clinical characteristics and course of patients with mild cognitive impairment (MCI) and mild Alzheimer disease (AD) treated with cholinesterase inhibitors (ChEIs) and memantine hydrochloride. DESIGN: Cohort study. SETTING: The 59 recruiting sites for the Alzheimer's Disease Neuroimaging Initiative (ADNI). PARTICIPANTS: Outpatients with MCI and AD in ADNI. MAIN OUTCOME MEASURES: The AD Assessment Scale-cognitive subscale (ADAS-cog), Mini-Mental State Examination (MMSE), Clinical Dementia Rating (CDR) scale, and Functional Activities Questionnaire (FAQ). RESULTS: A total of 177 (44.0%) of 402 MCI patients and 159 (84.6%) of 188 mild-AD patients were treated with ChEIs and 11.4% of MCI patients and 45.7% of AD patients with memantine at entry. Mild-cognitive-impairment patients who received ChEIs with or without memantine were more impaired, showed greater decline in scores, and progressed to dementia sooner than patients who did not receive ChEIs. Alzheimer-disease patients who received ChEIs and memantine took them longer, were more functionally impaired, and showed greater decline on the MMSE and CDR (but not on the ADAS-cog or FAQ) than those who received ChEIs only. CONCLUSIONS: Academic physicians frequently prescribe ChEIs and memantine earlier than indicated in the US Food and Drug Administration-approved labeling to patients who are relatively more severely impaired or who are rapidly progressing toward cognitive impairment. The use of these medications in ADNI is associated with clinical decline and may affect the interpretation of clinical trial outcomes. STUDY REGISTRATION: clinicalTrials.gov Identifier: NCT00106899.
+AD  - Department of Psychiatry and the Behavioral Sciences, University of Southern California Keck School of Medicine, Los Angeles, CA 90033, USA. lschneid@usc.edu
+AN  - 21220675
+AU  - Schneider, L. S.
+AU  - Insel, P. S.
+AU  - Weiner, M. W.
+C2  - PMC3259850
+C6  - NIHMS285043
+DA  - Jan
+DO  - 10.1001/archneurol.2010.343
+DP  - NLM
+IS  - 1
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*diagnosis/*drug therapy/psychology
+Cholinesterase Inhibitors/*administration & dosage
+Cohort Studies
+*Diagnostic Imaging/methods
+Drug Therapy, Combination
+Female
+Humans
+Male
+Memantine/*administration & dosage
+*Public-Private Sector Partnerships
+Treatment Outcome
+LA  - eng
+N1  - 1538-3687
+Schneider, Lon S
+Insel, Philip S
+Weiner, Michael W
+Alzheimer's Disease Neuroimaging Initiative
+P41 RR023953-04/RR/NCRR NIH HHS/United States
+P50 AG023501/AG/NIA NIH HHS/United States
+P01 AG019724-08/AG/NIA NIH HHS/United States
+U24 RR021992-05/RR/NCRR NIH HHS/United States
+R01 NS031966-15/NS/NINDS NIH HHS/United States
+R01 AG010897/AG/NIA NIH HHS/United States
+P50AG05142/AG/NIA NIH HHS/United States
+P01 AG019724/AG/NIA NIH HHS/United States
+P41 RR023953/RR/NCRR NIH HHS/United States
+P50 AG023501-08/AG/NIA NIH HHS/United States
+R01 AG010897-26/AG/NIA NIH HHS/United States
+U24 RR021992/RR/NCRR NIH HHS/United States
+U01 AG024904-07/AG/NIA NIH HHS/United States
+P50 AG005142/AG/NIA NIH HHS/United States
+R01 NS031966/NS/NINDS NIH HHS/United States
+U01 AG024904/AG/NIA NIH HHS/United States
+U19 AG010483/AG/NIA NIH HHS/United States
+P01 AG012435-15/AG/NIA NIH HHS/United States
+P01 AG012435/AG/NIA NIH HHS/United States
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2011/01/12
+Arch Neurol. 2011 Jan;68(1):58-66. doi: 10.1001/archneurol.2010.343.
+PY  - 2011
+SN  - 0003-9942 (Print)
+0003-9942
+SP  - 58-66
+ST  - Treatment with cholinesterase inhibitors and memantine of patients in the Alzheimer's Disease Neuroimaging Initiative
+T2  - Arch Neurol
+TI  - Treatment with cholinesterase inhibitors and memantine of patients in the Alzheimer's Disease Neuroimaging Initiative
+VL  - 68
+ID  - 51204
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Much controversy exists and many questions remain unanswered about the effects of hormone therapy (HT) on cognition in postmenopausal women. There is growing evidence suggesting that HT compounds containing conjugated equine estrogen (CEE) have negative effects on cognition whereas 17β-estradiol (17β-E) either has positive or neutral effects. The present study sought to further examine this issue in a sample of postmenopausal women with risk factors for Alzheimer's disease (AD). DESIGN: Cross-sectional neuropsychological evaluation. SETTING: Academic research clinic. PARTICIPANTS: 68 healthy postmenopausal women (aged 49-68) receiving either 17β-E or CEE for at least one year with increased risk for AD. MEASUREMENTS: Neuropsychological test battery of the cognitive domains of attention/working memory/processing speed, verbal memory, visual memory, and executive functioning. RESULTS: Multivariate analyses of variance (MANOVA) showed significantly better verbal memory performance in women receiving 17β-E compared to women receiving CEE regardless of age, IQ, years of education, risk factors for AD (including APOE-ε4 carriership), duration of endogenous and exogenous estrogen exposure, concurrent progesterone use, or natural versus surgical menopause status. CONCLUSIONS: Verbal memory performance was better in postmenopausal women receiving 17β-E compared to CEE in a sample population of women with risk factors for AD. Genetic risk for AD as well as other confounds did not affect this finding. The results suggest a differential effect of HT type on verbal memory, with 17β-E being a preferential compound. Further evaluation of HT types, regimens and duration of use on cognitive performance in postmenopausal women in a controlled longitudinal design is warranted.
+AD  - Stanford Center for Neuroscience in Women's Health, Department of Psychiatry and Behavioral Sciences, Stanford University School of Medicine, Stanford, CA 94303-5723, USA.
+AN  - 21873835
+AU  - Wroolie, T. E.
+AU  - Kenna, H. A.
+AU  - Williams, K. E.
+AU  - Powers, B. N.
+AU  - Holcomb, M.
+AU  - Khaylis, A.
+AU  - Rasgon, N. L.
+C2  - PMC3164805
+C6  - NIHMS237545
+DA  - Sep
+DO  - 10.1097/JGP.0b013e3181ff678a
+DP  - NLM
+IS  - 9
+KW  - Aged
+Alzheimer Disease/diagnosis/psychology
+Cross-Sectional Studies
+Estradiol/*adverse effects/therapeutic use
+Estrogen Replacement Therapy/*adverse effects/methods
+Estrogens, Conjugated (USP)/*adverse effects/therapeutic use
+Executive Function/drug effects
+Female
+Humans
+Memory/*drug effects
+Middle Aged
+Neuropsychological Tests/statistics & numerical data
+Postmenopause/*psychology
+Psychomotor Performance/drug effects
+Risk Factors
+Verbal Behavior/*drug effects
+LA  - eng
+N1  - 1545-7214
+Wroolie, Tonita E
+Kenna, Heather A
+Williams, Katherine E
+Powers, Bevin N
+Holcomb, Megan
+Khaylis, Anna
+Rasgon, Natalie L
+R01 AG022008-03/AG/NIA NIH HHS/United States
+R01 AG22008/AG/NIA NIH HHS/United States
+R01 AG022008-04/AG/NIA NIH HHS/United States
+R01 AG022008-05W1/AG/NIA NIH HHS/United States
+M01 RR000070-467979/RR/NCRR NIH HHS/United States
+R01 AG022008-01/AG/NIA NIH HHS/United States
+R01 AG022008-05/AG/NIA NIH HHS/United States
+R01 AG022008-05S1/AG/NIA NIH HHS/United States
+R01 AG022008-02/AG/NIA NIH HHS/United States
+M01 RR000070/RR/NCRR NIH HHS/United States
+M01 RR-00070/RR/NCRR NIH HHS/United States
+R01 AG022008/AG/NIA NIH HHS/United States
+Clinical Trial
+Comparative Study
+Journal Article
+Research Support, N.I.H., Extramural
+England
+2011/08/30
+Am J Geriatr Psychiatry. 2011 Sep;19(9):792-802. doi: 10.1097/JGP.0b013e3181ff678a.
+PY  - 2011
+SN  - 1064-7481 (Print)
+1064-7481
+SP  - 792-802
+ST  - Differences in verbal memory performance in postmenopausal women receiving hormone therapy: 17β-estradiol versus conjugated equine estrogens
+T2  - Am J Geriatr Psychiatry
+TI  - Differences in verbal memory performance in postmenopausal women receiving hormone therapy: 17β-estradiol versus conjugated equine estrogens
+VL  - 19
+ID  - 51251
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To evaluate the efficacy of rufinamide as an add-on treatment in children and adolescents with Lennox-Gastaut syndrome (LGS). METHODS: The study was an open-label, observational clinical trial of rufinamide as an add-on treatment in intractable LGS patients. This intent-to-treat trial included 4 weeks of scheduled titrated doses and a 12-week maintenance phase with a target dose of 20-40 mg/kg rufinamide, adjusted according to its effectiveness and tolerability after a baseline period of 4 weeks. The primary outcome was measured by the seizure-reduction rate according to individual seizure type over the 12-week maintenance period. RESULTS: One hundred and twenty-eight patients with LGS who were determined to be unresponsive to one or more antiepileptic drugs or dietary therapy were enrolled. Of the 128 patients enrolled, 112 (87.5%) completed the study. After add-on rufinamide treatment, 46 patients (35.9%) achieved a more than 50% reduction in seizure frequency and 10 (7.8%) patients became seizure-free. When we identified those who responded with an at least 50% reduction in seizure frequency, 39.4% of the responders reported reductions in convulsive seizures, 36.4% in drop attacks, 33.3% in myoclonic seizures, and 20.0% in epileptic spasms. Overall, 32.8% of patients reported adverse effects, which were mostly mild and transient in nature. The most common adverse effects were fatigue (15 patients, 11.7%) and poor appetite (9 patients, 7.0%). Twenty-one (16.4%) patients experienced an increased seizure frequency. CONCLUSIONS: Rufinamide appears to be a safe and effective adjuvant treatment for many cases of intractable LGS.
+AD  - Division of Pediatric Neurology, Pediatric Epilepsy Clinics, Severance Children's Hospital, Epilepsy Research Institute, Yonsei University College of Medicine, Seoul, Republic of Korea.
+AN  - 22421185
+AU  - Kim, S. H.
+AU  - Eun, S. H.
+AU  - Kang, H. C.
+AU  - Kwon, E. J.
+AU  - Byeon, J. H.
+AU  - Lee, Y. M.
+AU  - Lee, J. S.
+AU  - Eun, B. L.
+AU  - Kim, H. D.
+DA  - May
+DO  - 10.1016/j.seizure.2012.02.006
+DP  - NLM
+ET  - 20120314
+IS  - 4
+KW  - Adolescent
+Anticonvulsants/*administration & dosage
+Child
+Child, Preschool
+Drug Therapy, Combination
+Female
+Humans
+Infant
+Intellectual Disability/*drug therapy
+Lennox Gastaut Syndrome
+Male
+Spasms, Infantile/*drug therapy
+Triazoles/*administration & dosage
+LA  - eng
+N1  - 1532-2688
+Kim, Shin Hye
+Eun, So-Hee
+Kang, Hoon-Chul
+Kwon, Eun Ji
+Byeon, Jung Hye
+Lee, Young-Mock
+Lee, Joon Soo
+Eun, Baik-Lin
+Kim, Heung Dong
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2012/03/17
+Seizure. 2012 May;21(4):288-91. doi: 10.1016/j.seizure.2012.02.006. Epub 2012 Mar 14.
+PY  - 2012
+SN  - 1059-1311
+SP  - 288-91
+ST  - Rufinamide as an adjuvant treatment in children with Lennox-Gastaut syndrome
+T2  - Seizure
+TI  - Rufinamide as an adjuvant treatment in children with Lennox-Gastaut syndrome
+VL  - 21
+ID  - 51209
+ER  - 
+
+TY  - JOUR
+AB  - The effect of intravenous thrombolysis (IVT) according to etiology and stroke severity in young patients with ischemic stroke (IS) has not been described previously. To analyze the effect of IVT in young patients with IS according to etiological subtype and stroke severity. Observational study with inclusion of IS patients under 55 years of age (2007-2012). Two groups were compared according to IVT treatment. Favorable outcomes were defined as 3 months modified Rankin Scale ≤2. Multivariate analyses were performed to determine those factors independently associated with favorable outcomes, and subgroup analyses were conducted to assess the effect of IVT according to etiological stroke subtype and severity on admission, adjusted for other prognostic variables. We evaluated 262 patients. 63 (24%) received IVT. The mean age and the sex distribution were similar in the IVT treated and the non-treated groups. Multivariate analyses showed that IVT was associated with a higher probability of favorable outcome (OR, 95% CI: 4.652, 1.294-16.722) whereas artery dissection (OR, 95% CI: 0.191, 0.056-0.654) and NIHSS (OR, 95% CI: 0.727, 0.664-0.797) were associated with a lower probability of a favorable outcome. The subgroup analysis showed that the beneficial effect of IVT on outcomes was significant in moderate-severe strokes (NIHSS ≥8) (OR, 95% CI: 3.782, 1.095-13.069) and in cardioembolism (OR, 95% CI: 41.887, 1.001-1751.596). In IS patients under 55 years of age, those with moderate-severe strokes benefit more from IVT than those with mild strokes. Cardioembolic infarctions may benefit more from IV tPA than other etiologies.
+AD  - Department of Neurology and Stroke Center, Neurosciences Area of IdiPAZ Health Research Institute, La Paz University Hospital, Universidad Autónoma de Madrid, Paseo de la Castellana 261, 28046, Madrid, Spain.
+AN  - 23943341
+AU  - Prefasi, D.
+AU  - Fuentes, B.
+AU  - Martínez-Sánchez, P.
+AU  - Rodríguez-Sanz, A.
+AU  - Ruiz-Ares, G.
+AU  - Sanz-Cuesta, B.
+AU  - Lara, M. L.
+AU  - Díez-Tejedor, E.
+DA  - May
+DO  - 10.1007/s11239-013-0984-y
+DP  - NLM
+IS  - 4
+KW  - Adult
+Age Factors
+Disease-Free Survival
+Female
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+Retrospective Studies
+*Severity of Illness Index
+Stroke/*drug therapy/etiology/*mortality/pathology
+Survival Rate
+*Thrombolytic Therapy
+Time Factors
+LA  - eng
+N1  - 1573-742x
+Prefasi, Daniel
+Fuentes, Blanca
+Martínez-Sánchez, Patricia
+Rodríguez-Sanz, Ana
+Ruiz-Ares, Gerardo
+Sanz-Cuesta, Borja
+Lara, Manuel Lara
+Díez-Tejedor, Exuperio
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2013/08/15
+J Thromb Thrombolysis. 2014 May;37(4):557-64. doi: 10.1007/s11239-013-0984-y.
+PY  - 2014
+SN  - 0929-5305
+SP  - 557-64
+ST  - Intravenous thrombolysis in stroke patients under 55 years of age: is there a different effect according to etiology and severity?
+T2  - J Thromb Thrombolysis
+TI  - Intravenous thrombolysis in stroke patients under 55 years of age: is there a different effect according to etiology and severity?
+VL  - 37
+ID  - 51220
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: This study was to evaluate the effects on clinical symptoms and cognitive function of switching the treatment of elderly patients with schizophrenia from risperidone to paliperidone (PAL). METHODS: This study was a 12-weeks, preliminary open-label trial. The subjects were 17 inpatients. Their extrapyramidal symptoms (EPS) were assessed using the Drug-Induced Extrapyramidal Symptoms Scale (DIEPSS), Abnormal Involuntary Movement Scale (AIMS), and Barnes Akathisia Scale (BAS), and their cognitive function was assessed using the Brief Assessment Cognition in Schizophrenia: Japanese language version (BACS-J), and their clinical symptoms were assessed using the Positive and Negative Syndrome Scale (PANSS) and Clinical Global Impression-Severity of illness scale (CGI-S) at the 0 and 12 weeks. RESULTS: The DIEPSS and BAS significantly improved after switching from risperidone to PAL. Furthermore, improvement was found on AIMS. The mean change from baseline in z-score of the digit sequencing task was significantly increased. All items on the PANSS and CGI-S were not significant; however, changes in some cognitive function were correlated with changes in EPS. CONCLUSIONS: The results of this study suggest the possibility that switching elderly patients from risperidone to PAL may have improved pre-existing EPS, and may also have helped improve working memory.
+AD  - Department of Psychiatry, Suzuki Clinic [H.S.] , Tokyo , Japan.
+AN  - 24047427
+AU  - Suzuki, H.
+AU  - Gen, K.
+AU  - Inoue, Y.
+AU  - Hibino, H.
+AU  - Mikami, A.
+AU  - Matsumoto, H.
+AU  - Mikami, K.
+DA  - Jan
+DO  - 10.3109/13651501.2013.845218
+DP  - NLM
+ET  - 20131113
+IS  - 1
+KW  - Aged
+Akathisia, Drug-Induced/drug therapy
+Antipsychotic Agents/adverse effects/*therapeutic use
+Cognition Disorders/*drug therapy/etiology
+Drug Substitution
+Dyskinesia, Drug-Induced/drug therapy
+Female
+Humans
+Isoxazoles/administration & dosage/*therapeutic use
+Male
+Memory, Short-Term/drug effects
+Neuropsychological Tests/statistics & numerical data
+Paliperidone Palmitate
+Psychiatric Status Rating Scales
+Pyrimidines/administration & dosage/*therapeutic use
+Risperidone/adverse effects/*therapeutic use
+Schizophrenia/complications/*drug therapy
+Severity of Illness Index
+Treatment Outcome
+LA  - eng
+N1  - 1471-1788
+Suzuki, Hidenobu
+Gen, Keishi
+Inoue, Yuichi
+Hibino, Hiroyuki
+Mikami, Ayako
+Matsumoto, Hideo
+Mikami, Katsunaka
+Clinical Trial
+Journal Article
+Observational Study
+England
+2013/09/21
+Int J Psychiatry Clin Pract. 2014 Jan;18(1):58-62. doi: 10.3109/13651501.2013.845218. Epub 2013 Nov 13.
+PY  - 2014
+SN  - 1365-1501
+SP  - 58-62
+ST  - The influence of switching from risperidone to paliperidone on the extrapyramidal symptoms and cognitive function in elderly patients with schizophrenia: a preliminary open-label trial
+T2  - Int J Psychiatry Clin Pract
+TI  - The influence of switching from risperidone to paliperidone on the extrapyramidal symptoms and cognitive function in elderly patients with schizophrenia: a preliminary open-label trial
+VL  - 18
+ID  - 51241
+ER  - 
+
+TY  - JOUR
+AB  - RATIONALE: Buprenorphine is an effective and popular treatment for opioid dependence. It remains unclear, however, when or how to transition stable buprenorphine-maintained individuals to complete abstinence. This trial investigates the feasibility of using naltrexone to facilitate buprenorphine discontinuation in stable individuals who had tolerated a taper to 2mg or less but were unable to terminate entirely due to withdrawal-related distress. METHODS: The sample consisted of 6 buprenorphine-maintained individuals in sustained full remission, and who had tolerated a taper but were unable to discontinue altogether. A rapid induction procedure was performed, which included supervised buprenorphine discontinuation, oral naltrexone titration with a starting dose of 6.25mg, and administration of long-acting injectable naltrexone. Participants were followed weekly for 5weeks after the injection, with telephone follow-up occurring at 6months. RESULTS: The rapid induction procedure was well tolerated. There was no observed or reported clinical worsening over the course of study participation. Notably, no participants experienced an increase in Subjective Opioid Withdrawal Scale (SOWS) scores after the first oral dose of NTX as compared to day 1 (24hours after last dose of buprenorphine); instead, SOWS scores decreased between days 1 and 7 (p=0.043). All participants were able to discontinue buprenorphine and to remain opioid free during the trial and at follow-up. CONCLUSIONS: This preliminary trial represented for all participants the first successful attempt at buprenorphine discontinuation. Further research is needed to better understand if naltrexone is effective at facilitating buprenorphine discontinuation, as well as the feasibility of a sequential approach (buprenorphine stabilization to naltrexone) for opioid use disorders.
+AD  - New York State Psychiatric Institute/Columbia College of Physicians and Surgeons, New York, NY, USA. Electronic address: dakware@nyspi.columbia.edu.
+New York State Psychiatric Institute/Columbia College of Physicians and Surgeons, New York, NY, USA.
+AN  - 25819700
+AU  - Dakwar, E.
+AU  - Kleber, H. D.
+DA  - Jun
+DO  - 10.1016/j.jsat.2015.01.004
+DP  - NLM
+ET  - 20150115
+KW  - Administration, Oral
+Adult
+Buprenorphine/administration & dosage
+Drug Administration Schedule
+Feasibility Studies
+Female
+Humans
+Injections
+Male
+Naltrexone/*administration & dosage
+Narcotic Antagonists/*administration & dosage
+Opioid-Related Disorders/drug therapy/*rehabilitation
+Substance Withdrawal Syndrome/*prevention & control
+Treatment Outcome
+Buprenorphine
+Discontinuation
+Naltrexone
+Opioid dependence
+LA  - eng
+N1  - 1873-6483
+Dakwar, Elias
+Kleber, Herbert D
+DA009236/DA/NIDA NIH HHS/United States
+DA031771/DA/NIDA NIH HHS/United States
+Clinical Trial
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2015/03/31
+J Subst Abuse Treat. 2015 Jun;53:60-3. doi: 10.1016/j.jsat.2015.01.004. Epub 2015 Jan 15.
+PY  - 2015
+SN  - 0740-5472
+SP  - 60-3
+ST  - Naltrexone-facilitated buprenorphine discontinuation: a feasibility trial
+T2  - J Subst Abuse Treat
+TI  - Naltrexone-facilitated buprenorphine discontinuation: a feasibility trial
+VL  - 53
+ID  - 51207
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Combination therapy using acetylcholinesterase inhibitors (AChEIs) and cilostazol is of unknown efficacy for patients with Alzheimer's disease (AD). METHODS: We explored the therapeutic responses by using a case-control study, which was conducted in Taiwan. We enrolled 30 participants with stable AD who were receiving cilostazol (50 mg) twice per day as an add-on therapy combined with AChEIs, and 30 participants as controls who were not receiving cilostazol as an add-on therapy. The therapeutic responses were measured using neuropsychological assessments and analyzed in relation to cilostazol use, apolipoprotein E genotype, and demographic characteristics. Mini-mental state examination (MMSE) and clinical dementia rating sum of boxes (CDR-SB) were administered at the outset of the study and 12 months later. Multiple logistic regression analysis was used to estimate the association between the therapeutic response and cilostazol use. RESULTS: For the therapeutic indicator of cognition, Cilostazol use (adjusted odds ratio (aOR) = 0.17, 95% confidence interval (CI) = 0.03-0.80), initial CDR-SB score (aOR = 2.06, 95% CI = 1.31-3.72), and initial MMSE score (aOR = 1.41, 95% CI = 1.11-1.90), but not age, sex, education, or ApoE ε4 status, were significantly associated with poor therapeutic outcomes. For the therapeutic indicator of global status, no significant association was observed between the covariates and poor therapeutic outcomes. CONCLUSIONS: Cilostazol may reduce the decline of cognitive function in stable AD patients when applied as an add-on therapy.
+AD  - Department of Family Medicine, School of Medicine, College of Medicine, Kaohsiung Medical University, Kaohsiung City, Taiwan.
+Department of Family Medicine, Kaohsiung Medical University Hospital, Kaohsiung Medical University, Kaohsiung City, Taiwan.
+Department of Family Medicine, Kaohsiung Municipal Ta-Tung Hospital, Kaohsiung Medical University Hospital, Kaohsiung Medical University, Kaohsiung City, Taiwan.
+Research Center for Environmental Medicine, Kaohsiung Medical University, Kaohsiung City, Taiwan.
+Department of Neurology, Kaohsiung Municipal Hsiao-Kang Hospital, Kaohsiung Medical University, Kaohsiung City, Taiwan.
+Department of Neurology, Kaohsiung Medical University Hospital, Kaohsiung City, Taiwan.
+Department of Otorhinolaryngology, School of Medicine, College of Medicine, Kaohsiung Medical University, Kaohsiung City, Taiwan.
+Department of Otorhinolaryngology, Kaohsiung Medical University Hospital, Kaohsiung Medical University, Kaohsiung City, Taiwan.
+Department of Neurology, Kaohsiung Medical University Hospital, Kaohsiung City, Taiwan. endless@kmu.edu.tw.
+Department of Neurology, Kaohsiung Municipal Ta-Tung Hospital, Kaohsiung City, Taiwan. endless@kmu.edu.tw.
+Department of and Master's Program in Neurology, Faculty of Medicine, Kaohsiung Medical University, HospitalNo.100, Tzyou 1st Road, Kaohsiung 807, Taiwan. endless@kmu.edu.tw.
+AN  - 28231822
+AU  - Tai, S. Y.
+AU  - Chen, C. H.
+AU  - Chien, C. Y.
+AU  - Yang, Y. H.
+C2  - PMC5324327
+DA  - Feb 23
+DO  - 10.1186/s12883-017-0800-y
+DP  - NLM
+ET  - 20170223
+IS  - 1
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/genetics
+Apolipoproteins E/genetics
+Case-Control Studies
+Cholinesterase Inhibitors/*therapeutic use
+Cilostazol
+Cognition/drug effects
+*Drug Therapy, Combination
+Female
+Genotype
+Humans
+Male
+Neuroprotective Agents/therapeutic use
+Neuropsychological Tests
+Odds Ratio
+Taiwan
+Tetrazoles/*therapeutic use
+Treatment Outcome
+Alzheimer’s disease
+Cdr-sb
+Mmse
+LA  - eng
+N1  - 1471-2377
+Tai, Shu-Yu
+Chen, Chun-Hung
+Chien, Chen-Yu
+Yang, Yuan-Han
+Controlled Clinical Trial
+Journal Article
+England
+2017/02/25
+BMC Neurol. 2017 Feb 23;17(1):40. doi: 10.1186/s12883-017-0800-y.
+PY  - 2017
+SN  - 1471-2377
+SP  - 40
+ST  - Cilostazol as an add-on therapy for patients with Alzheimer's disease in Taiwan: a case control study
+T2  - BMC Neurol
+TI  - Cilostazol as an add-on therapy for patients with Alzheimer's disease in Taiwan: a case control study
+VL  - 17
+ID  - 51205
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: Both human and animal studies have suggested that oxytocin may have therapeutic potential in the treatment of schizophrenia. We evaluated the effects of intranasal oxytocin on cognition and its predictive factors in Japanese patients with schizophrenia. METHODS: Subjects were 16 chronic schizophrenia patients who underwent intranasal oxytocin treatment for 3 months and were assessed for changes in severity of clinical symptoms and cognitions. Fifteen of the 16 subjects underwent 3-Tesla magnetic resonance imaging. RESULTS: Oxytocin significantly reduced scores on the positive and negative syndrome scale, especially on the negative symptoms. As for cognition, there was an improvement of the verbal fluency. Furthermore, the change of the negative score in positive and negative syndrome scale showed a negative correlation with the gray matter volumes of the right insula and left cingulate cortex. CONCLUSIONS: Our results indicate that daily administration of intranasal oxytocin may be effective for ameliorating clinical symptoms and cognitive functions in chronic schizophrenia patients, and this improvement may be related to the gray matter volume of the right insula and left cingulate cortex.
+AD  - a Department of Mental Disorder Research , National Institute of Neuroscience, National Center of Neurology and Psychiatry , Kodaira , Japan.
+b Department of Psychiatry , National Center Hospital of Neurology and Psychiatry , Kodaira , Japan.
+c Department of Physiology, Division of Integrative Physiology , Jichi Medical University , Shimotsuke , Japan.
+AN  - 29105546
+AU  - Ota, M.
+AU  - Yoshida, S.
+AU  - Nakata, M.
+AU  - Yada, T.
+AU  - Kunugi, H.
+DA  - Jan
+DO  - 10.1080/00325481.2018.1398592
+DP  - NLM
+ET  - 20171106
+IS  - 1
+KW  - Administration, Intranasal
+Adult
+Appetite/drug effects
+Brain/diagnostic imaging/*drug effects
+Chemotherapy, Adjuvant
+Chronic Disease
+Cognition/*drug effects
+Female
+Humans
+Male
+Middle Aged
+Oxytocin/*therapeutic use
+Psychiatric Status Rating Scales
+Schizophrenia/diagnostic imaging/*drug therapy
+*Schizophrenic Psychology
+Antipsychotics
+cognition
+magnetic resonance imaging
+oxytocin
+schizophrenia
+LA  - eng
+N1  - 1941-9260
+Ota, Miho
+Yoshida, Sumiko
+Nakata, Masanori
+Yada, Toshihiko
+Kunugi, Hiroshi
+Clinical Trial
+Journal Article
+England
+2017/11/07
+Postgrad Med. 2018 Jan;130(1):122-128. doi: 10.1080/00325481.2018.1398592. Epub 2017 Nov 6.
+PY  - 2018
+SN  - 0032-5481
+SP  - 122-128
+ST  - The effects of adjunctive intranasal oxytocin in patients with schizophrenia
+T2  - Postgrad Med
+TI  - The effects of adjunctive intranasal oxytocin in patients with schizophrenia
+VL  - 130
+ID  - 51206
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To assess the effects of onabotulinumtoxinA treatment for chronic migraine (CM) on comorbid symptoms of depression, anxiety, fatigue and poor sleep quality. METHODS: The Chronic Migraine OnabotulinuMtoxinA Prolonged Efficacy open-Label (COMPEL) study is a multicentre, open-label, prospective study assessing the long-term safety and efficacy of onabotulinumtoxinA 155 U over nine treatments (108 weeks) in adults with CM. The Patient Health Questionnaire (PHQ-9) and Generalised Anxiety Disorder (GAD-7) scales were used to assess the effects of onabotulinumtoxinA on comorbid symptoms of depression and anxiety, respectively. A clinically meaningful improvement was assessed by the percentage of patients experiencing a ≥1 severity category reduction in PHQ-9 and GAD-7. The effects of onabotulinumtoxinA on associated sleep quality and fatigue were assessed using the Pittsburgh Sleep Quality Index and Fatigue Severity Scale, respectively. RESULTS: OnabotulinumtoxinA treatment was associated with sustained reduction in headache days and PHQ-9 and GAD-7 scores in the analysis population (n=715) over 108 weeks. PHQ-9 and GAD-7 scores were significantly reduced at all time points in patients with clinically significant symptoms of depression and/or anxiety at baseline. By week 108, 78.0% and 81.5% had clinically meaningful improvement in depression and anxiety symptoms, respectively. Sleep quality and symptoms of fatigue also improved; however, less is understood about clinically meaningful changes in these measures. No new safety concerns were identified. CONCLUSION: In addition to reducing headache frequency, onabotulinumtoxinA treatment for CM was associated with clinically meaningful reduction in symptoms of depression and anxiety, and improved associated symptoms of poor sleep quality and fatigue. TRIAL REGISTRATION NUMBER: NCT01516892.
+AD  - Headache Center of Southern California, The Neurology Center, Carlsbad, California, USA blumenfeld@neurocenter.com.
+Department of Neurology, Geisel School of Medicine at Dartmouth, Hanover, New Hampshire, USA.
+Robbins Headache Clinic, Riverwoods, Illinois, USA.
+Allergan, Irvine, California, USA.
+Department of Neurology, Albert Einstein College of Medicine, Bronx, New York, USA.
+Department of Neurology, Jefferson Headache Center, Philadelphia, Pennsylvania, USA.
+AN  - 30630956
+AU  - Blumenfeld, A. M.
+AU  - Tepper, S. J.
+AU  - Robbins, L. D.
+AU  - Manack Adams, A.
+AU  - Buse, D. C.
+AU  - Orejudos, A.
+AU  - S, D. Silberstein
+C1  - Competing interests: AMB has served on advisory boards for Allergan, Amgen, Alder, Teva, Supernus, Promius, Eaglet and Lilly, and has received funding for speaking from Allergan, Amgen, Pernix, Supernus, Depomed, Avanir and Promius. He holds patents for onabotulinumtoxinA in migraine assigned to Allergan. SJT is an employee of the Dartmouth-Hitchcock Medical Center and receives a salary from the American Headache Society (AHS). He also serves as a consultant for Acorda, Alder, Alexsa, Allergan, Amgen, ATI, BioVision, Cefaly, Charleston Laboratories, DeepBench, Dr Reddy’s, ElectroCore, Eli Lilly, eNeura, GLG, Guidepoint Global, Impax, Neurolief, Novartis, Scion Neurostim, Slingshot Insights, Supernus, Teva and Zosano, and has received royalties for books published by Springer. His employer receives research grants from Alder, Allergan, Amgen, ATI, Dr Reddy's, Scion Neurostim, Teva and Zosano. LDR has served as a speaker for Avanir, Pernix and Merck. AMA and AO are employees of Allergan, and AMA holds stock in the company. DCB has received grant support and honoraria from Allergan, Avanir, Amgen, Eli Lilly and Company, and Promius, and for work on the editorial board of Current Pain and Headache Reports. SDS has served as a consultant and/or advisory panel member and received honoraria from Alder BioPharmaceuticals, Allergan, Amgen, Avanir Pharmaceuticals, eNeura, ElectroCore Medical, Eli Lilly and Company, Medscape and Teva Pharmaceuticals, and grants from Amgen and Teva Pharmaceuticals. His employer has received research support from Allergan, Amgen, Cumberland Pharmaceuticals, ElectroCore Medical, Eli Lilly and Company, and Troy Healthcare.
+C2  - PMC6518474
+DA  - Mar
+DO  - 10.1136/jnnp-2018-319290
+DP  - NLM
+ET  - 20190110
+IS  - 3
+KW  - Adult
+Anxiety Disorders/diagnosis/*drug therapy/etiology
+Botulinum Toxins, Type A/*therapeutic use
+Chronic Disease
+Depressive Disorder/diagnosis/*drug therapy/etiology
+Drug Administration Schedule
+Fatigue/diagnosis/drug therapy/etiology
+Female
+Humans
+Male
+Migraine Disorders/*drug therapy/*psychology
+Neuromuscular Agents/*therapeutic use
+Prospective Studies
+Sleep Wake Disorders/diagnosis/drug therapy/etiology
+Treatment Outcome
+anxiety
+comorbidities
+depression
+fatigue
+onabotulinumtoxinA
+sleep
+LA  - eng
+N1  - 1468-330x
+Blumenfeld, Andrew M
+Tepper, Stewart J
+Robbins, Lawrence D
+Manack Adams, Aubrey
+Buse, Dawn C
+Orejudos, Amelia
+D Silberstein, Stephen
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+England
+2019/01/12
+J Neurol Neurosurg Psychiatry. 2019 Mar;90(3):353-360. doi: 10.1136/jnnp-2018-319290. Epub 2019 Jan 10.
+PY  - 2019
+SN  - 0022-3050 (Print)
+0022-3050
+SP  - 353-360
+ST  - Effects of onabotulinumtoxinA treatment for chronic migraine on common comorbidities including depression and anxiety
+T2  - J Neurol Neurosurg Psychiatry
+TI  - Effects of onabotulinumtoxinA treatment for chronic migraine on common comorbidities including depression and anxiety
+VL  - 90
+ID  - 51208
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND PURPOSE: Delirium in acute stroke is associated with poor clinical outcome. The purpose of this study was to examine the effect of sleep medications on sleep quality and delirium in acute stroke. METHODS: In this retrospective cohort study, sleep disturbances, and delirium were investigated in acute stroke patients treated in April 2013-March 2017 who were prescribed ramelteon plus either an alpha-aminobutyric acid receptor (GABAR) agonist or a selective dual orexin receptor antagonist (suvorexant). RESULTS: Of the patients included, 104 received a GABAR agonist and 128 received suvorexant in addition to ramelteon. Patient characteristics did not differ significantly between the groups, except for a higher proportion of cerebral infarction in suvorexant group (P = .033). Subjective sleep quality was significantly improved in suvorexant group compared to GABAR agonist group (difficulty staying asleep: 6.3% versus 34%, P < .001; daytime sleepiness: 33% versus 63%, P < .001). Delirium was significantly less frequent in suvorexant group than GABAR agonist group (7.0% versus 31%, P < .001). The length of hospital stay was significantly shorter in suvorexant group than in GABAR agonist group (in days, 21 [15-29] versus 25 [18-33]; P = .019). Multivariable logistic regression analysis revealed that the addition of suvorexant was significantly associated with a reduced occurrence of delirium (odds ratios .19, 95% confidence interval .085-.43, P < .001). CONCLUSIONS: Addition of suvorexant to ramelteon therapy, rather than a GABA receptor agonist, can improve subjective sleep quality without inducing delirium in acute stroke patients.
+AD  - Pharmaceutical Department, Kochi Health Sciences Center, Kochi, Japan.
+Department of Neurosurgery, Kochi Health Sciences Center, Kochi, Japan. Electronic address: tsuyoshi@ya2.so-net.ne.jp.
+Pharmaceutical Department, Kochi Medical Graduate School, Kochi, Japan.
+AN  - 30322756
+AU  - Kawada, K.
+AU  - Ohta, T.
+AU  - Tanaka, K.
+AU  - Miyamura, M.
+AU  - Tanaka, S.
+DA  - Jan
+DO  - 10.1016/j.jstrokecerebrovasdis.2018.09.024
+DP  - NLM
+ET  - 20181012
+IS  - 1
+KW  - Aged
+Aged, 80 and over
+Azepines/*therapeutic use
+Delirium/epidemiology/*prevention & control
+Drug Therapy, Combination
+Female
+GABA Agonists/therapeutic use
+Humans
+Indenes/*therapeutic use
+Male
+Orexin Receptor Antagonists/therapeutic use
+Receptors, Melatonin/agonists
+Retrospective Studies
+Risk Factors
+Sleep/*drug effects
+Sleep Aids, Pharmaceutical/*therapeutic use
+Sleep Initiation and Maintenance Disorders/epidemiology/prevention & control
+Stroke/*drug therapy/epidemiology
+Treatment Outcome
+Triazoles/*therapeutic use
+Delirium
+ramelteon
+sleep quality
+stroke
+suvorexant
+LA  - eng
+N1  - 1532-8511
+Kawada, Kei
+Ohta, Tsuyoshi
+Tanaka, Koudai
+Miyamura, Mitsuhiko
+Tanaka, Satoshi
+Clinical Trial
+Comparative Study
+Journal Article
+United States
+2018/10/17
+J Stroke Cerebrovasc Dis. 2019 Jan;28(1):142-148. doi: 10.1016/j.jstrokecerebrovasdis.2018.09.024. Epub 2018 Oct 12.
+PY  - 2019
+SN  - 1052-3057
+SP  - 142-148
+ST  - Addition of Suvorexant to Ramelteon Therapy for Improved Sleep Quality with Reduced Delirium Risk in Acute Stroke Patients
+T2  - J Stroke Cerebrovasc Dis
+TI  - Addition of Suvorexant to Ramelteon Therapy for Improved Sleep Quality with Reduced Delirium Risk in Acute Stroke Patients
+VL  - 28
+ID  - 51217
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Developmental and epileptic encephalopathies (DEEs) are the most severe group of drug-resistant epilepsies. Alternatives to oral therapies are urgently needed to reduce seizures and improve developmental outcomes and comorbidities in this medically complex population. OBJECTIVE: To assess the safety and tolerability of cannabidiol (CBD) transdermal gel in children with DEEs and to evaluate seizure frequency, sleep, and quality of life. DESIGN, SETTING, AND PARTICIPANTS: This nonrandomized controlled trial was conducted in 2 centers in Australia and New Zealand from April 2018 to July 2019. Children and adolescents aged 3 to 18 years with DEEs who were receiving a stable regimen of 1 to 4 antiseizure medications were eligible for this study. After 1-month baseline and titration periods, patients entered a 5.5-month flexible-dosing maintenance period for a total of 6.5 months of treatment. Data were analyzed throughout the 6.5-month treatment period. INTERVENTIONS: Twice-daily applications of CBD transdermal gel at doses of 125 to 500 mg for 6.5 months. MAIN OUTCOMES AND MEASURES: Safety and tolerability assessments included adverse events (AEs) and examination of skin. The outcome for seizures was the median percentage change from baseline in monthly (28-day) seizure frequency of focal impaired awareness seizures (FIAS) and tonic-clonic seizures (TCS) over 6.5 months. RESULTS: Of 48 patients (mean [SD] age, 10.5 [3.8] years; 26 [54%] boys), 29 (60%) had at least 1 treatment-related AE over 6.5 months; 44 of 46 treatment-related AEs (96%) were mild or moderate. Treatment-related AEs that occurred in at least 5% of patients were application-site dryness, application-site pain, and somnolence (each reported by 4 patients [8%]). The only treatment-related gastrointestinal AE was diarrhea, reported in a single patient. CBD treatment was associated with reductions in FIAS and TCS frequency. Analysis of the 33 patients with FIAS and TCS showed a median (interquartile range) monthly reduction in seizures of 58% (-5.3% to 81.8%) at 5 months and 43.5% (-23.8% to 57.5%) over the entire 6.5-month study period. Parents and caregivers noted improvements in social or interpersonal engagement and irritability (33 of 43 [77%] participants); alertness, energy, and sleep (23 of 43 [53%]); and cognition or concentration (20 of 43 [47%]). CONCLUSIONS AND RELEVANCE: In this study, CBD transdermal gel was safe, well tolerated, and was associated with reductions in FIAS and TCS frequency and disease burden. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: ACTRN12618000516280.
+AD  - University of Melbourne, Austin Health and Royal Children's Hospital, Florey Institute, Melbourne, Victoria, Australia.
+Murdoch Children's Research Institutes, Victoria, Australia.
+Consultant, Newtown, Pennsylvania.
+Consultant, Moncure, North Carolina.
+Department of Paediatrics and Child Health, University of Otago, Wellington, New Zealand.
+The Griesser Group, Conshohocken, Pennsylvania.
+Zynerba Pharmaceuticals Inc, Devon, Pennsylvania.
+AN  - 34477852
+AU  - Scheffer, I. E.
+AU  - Hulihan, J.
+AU  - Messenheimer, J.
+AU  - Ali, S.
+AU  - Keenan, N.
+AU  - Griesser, J.
+AU  - Gutterman, D. L.
+AU  - Sebree, T.
+AU  - Sadleir, L. G.
+C1  - Conflict of Interest Disclosures: Dr Scheffer reported service on the editorial boards of the Annals of Neurology, Neurology, and Epileptic Disorders; she reported patents held or pending for therapeutic compounds, testing methods, and molecular diagnostic targets for infantile epilepsy, some of which are licensed and have paid royalties. She reported service on scientific advisory boards for UCB Pharmaceuticals, Eisai Co Ltd, GlaxoSmithKline, BioMarin Pharmaceutical, Nutricia, Rogcon Inc, Chiesi, Encoded Therapeutics, Xenon Pharmaceuticals, Zynerba Pharmaceuticals, and Knopp Biosciences; she reported receiving speaker honoraria from GlaxoSmithKline, UCB Pharmaceuticals, BioMarin, Athena Diagnostics, Liva Nova, Biocodex, and Eisai; she reported receiving funding for travel from UCB Pharmaceuticals, Biocodex, GlaxoSmithKline, Biomarin Pharmaceutical, National Research Foundation Singapore, and Eisai Co Ltd; she reported service as an investigator for Zogenix, Zynerba Pharmaceuticals, Ultragenyx, GW Pharmaceuticals, UCB Pharmaceuticals, Eisai Co Ltd, Anavex Life Sciences, Ovid Therapeutics, Epigenyx, Encoded Therapeutics, and Marinus; and she reported consulting work for Zynerba Pharmaceuticals, Athena Diagnostics, Atheneum Partners, Ovid Therapeutics, Care Beyond Diagnosis, Epilepsy Consortium, and UCB Pharmaceuticals. She reported receiving research support from the National Health and Medical Research Council of Australia, the Australian Medical Research Future Fund, Health Research Council of New Zealand, Citizens United for Research in Epilepsy, Australian Epilepsy Research Fund, and the National Institute of Neurological Disorders and Stroke outside the submitted work. Dr Sadleir reported consulting work for Zynerba Pharmaceuticals Inc, and reported receiving honoraria from Eisai Co Ltd. Drs Hulihan and Messenheimer and Mr Griesser reported consulting work for Zynerba Pharmaceuticals Inc. Dr Gutterman and Ms Sebree reported employment with Zynerba Pharmaceuticals Inc and reported stock options from Zynerba Pharmaceuticals Inc; they reported holding patents for treatment methods using cannabidiol and CBD. Ms Sebree reported stock ownership of Zynerba Pharmaceuticals Inc. No other conflicts were reported.
+C2  - PMC8417764
+DA  - Sep 1
+DO  - 10.1001/jamanetworkopen.2021.23930
+DP  - NLM
+ET  - 20210901
+IS  - 9
+KW  - Administration, Cutaneous
+Adolescent
+Anticonvulsants/administration & dosage/*therapeutic use
+Australia
+Cannabidiol/administration & dosage/*therapeutic use
+Child
+Child, Preschool
+*Developmental Disabilities
+Drug Resistant Epilepsy/*drug therapy
+Female
+Gels
+Humans
+Male
+New Zealand
+Seizures/*drug therapy
+Treatment Outcome
+LA  - eng
+N1  - 2574-3805
+Scheffer, Ingrid E
+Hulihan, Joe
+Messenheimer, John
+Ali, Shayma
+Keenan, Ngaire
+Griesser, Jim
+Gutterman, Donna L
+Sebree, Terri
+Sadleir, Lynette G
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+United States
+2021/09/04
+JAMA Netw Open. 2021 Sep 1;4(9):e2123930. doi: 10.1001/jamanetworkopen.2021.23930.
+PY  - 2021
+SN  - 2574-3805
+SP  - e2123930
+ST  - Safety and Tolerability of Transdermal Cannabidiol Gel in Children With Developmental and Epileptic Encephalopathies: A Nonrandomized Controlled Trial
+T2  - JAMA Netw Open
+TI  - Safety and Tolerability of Transdermal Cannabidiol Gel in Children With Developmental and Epileptic Encephalopathies: A Nonrandomized Controlled Trial
+VL  - 4
+ID  - 51201
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: Evidence from several lines of research suggests the critical role of neuropeptide oxytocin in social cognition and social behavior. Though a few studies have examined the effect of oxytocin on clinical symptoms of schizophrenia, the underlying neurobiological changes are underexamined. Hence, in this study, we examined the effect of oxytocin on the brain's effective connectivity in schizophrenia. METHODS: 31 male patients with schizophrenia (SCZ) and 21 healthy male volunteers (HV) underwent resting functional magnetic resonance imaging scans with intra-nasal oxytocin (24 IU) and placebo administered in counterbalanced order. We conducted a whole-brain effective connectivity analysis using a multivariate vector autoregressive granger causality model. We performed a conjunction analysis to control for spurious changes and canonical correlation analysis between changes in connectivity and clinical and demographic variables. RESULTS: Three connections, sourced from the left caudate survived the FDR correction threshold with the conjunction analysis; connections to the left supplementary motor area, left precentral gyrus, and left frontal inferior triangular gyrus. At baseline, SCZ patients had significantly weaker connectivity from caudate to these three regions. Oxytocin, but not placebo, significantly increased the strength of connectivity in these connections. Better cognitive insight and lower negative symptoms were associated with a greater increase in connectivity with oxytocin. CONCLUSIONS: These findings provide a preliminary mechanistic understanding of the effect of oxytocin on brain connectivity in schizophrenia. The study findings provide the rationale to examine the potential utility of oxytocin for social cognitive deficits in schizophrenia.
+AD  - Department of Psychiatry, National Institute of Mental Health and Neurosciences, Bangalore, Karnataka, India.
+AU MRI Research Center, Department of Electrical and Computer Engineering, Auburn University, Auburn, AL, USA.
+Department of Psychological Sciences, Auburn University, Auburn, AL, USA.
+Center for Neuroscience, Auburn University, Auburn, AL, USA.
+AN  - 35759349
+AU  - Korann, V.
+AU  - Jacob, A.
+AU  - Lu, B.
+AU  - Devi, P.
+AU  - Thonse, U.
+AU  - Nagendra, B.
+AU  - Maria Chacko, D.
+AU  - Dey, A.
+AU  - Padmanabha, A.
+AU  - Shivakumar, V.
+AU  - Dawn Bharath, R.
+AU  - Kumar, V.
+AU  - Varambally, S.
+AU  - Venkatasubramanian, G.
+AU  - Deshpande, G.
+AU  - Rao, N. P.
+C2  - PMC9434443
+DA  - Sep 1
+DO  - 10.1093/schbul/sbac066
+DP  - NLM
+IS  - 5
+KW  - Administration, Intranasal
+Brain/pathology
+Brain Mapping
+Humans
+Magnetic Resonance Imaging
+Male
+Oxytocin/pharmacology
+*Schizophrenia/diagnostic imaging/drug therapy/pathology
+fMRI
+negative symptoms
+neuropeptide
+psychosis
+social cognition
+LA  - eng
+N1  - 1745-1701
+Korann, Vittal
+Jacob, Arpitha
+Lu, Bonian
+Devi, Priyanka
+Thonse, Umesh
+Nagendra, Bhargavi
+Maria Chacko, Dona
+Dey, Avyarthana
+Padmanabha, Anantha
+Shivakumar, Venkataram
+Dawn Bharath, Rose
+Kumar, Vijay
+Varambally, Shivarama
+Venkatasubramanian, Ganesan
+Deshpande, Gopikrishna
+Rao, Naren P
+Orcid: 0000-0001-9272-1873
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2022/06/28
+Schizophr Bull. 2022 Sep 1;48(5):1115-1124. doi: 10.1093/schbul/sbac066.
+PY  - 2022
+SN  - 0586-7614 (Print)
+0586-7614
+SP  - 1115-1124
+ST  - Effect of Intranasal Oxytocin on Resting-state Effective Connectivity in Schizophrenia
+T2  - Schizophr Bull
+TI  - Effect of Intranasal Oxytocin on Resting-state Effective Connectivity in Schizophrenia
+VL  - 48
+ID  - 51203
+ER  - 
+

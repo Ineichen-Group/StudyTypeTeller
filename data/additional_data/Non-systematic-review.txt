@@ -1,0 +1,2366 @@
+﻿TY  - JOUR
+AB  - The graying of America will be accompanied by an epidemic of major proportions--dementia or intellectual impairment--that will have an impact on all aspects of the helath care system, particularly on the institutional component of the long-term care system. Health professionals; federal, state, and local health planners; families; and others must recognize that many ameliorable or curable physical and emotional diseases in the elderly are associated with intellectual impairment that may be difficult to distinguish from irreversible brain disease of the Alzheimer type. We present information on the cause, physiopathologic mechanism, clinical presentation, appropriate laboratory studies, and anticipated outcomes in the various forms of intellectual impairment found in the elderly. Important new developments will occur in the next decade that will address the cause, pathogenesis, further refinement of laboratory investigation, and specific therapeutic intervention in dementia.
+AN  - 7049032
+AU  - Beck, J. C.
+AU  - Benson, D. F.
+AU  - Scheibel, A. B.
+AU  - Spar, J. E.
+AU  - Rubenstein, L. Z.
+DA  - Aug
+DO  - 10.7326/0003-4819-97-2-231
+DP  - NLM
+IS  - 2
+KW  - Aged
+Cerebral Cortex/pathology/physiopathology
+Dementia/*diagnosis/etiology/pathology/physiopathology/therapy
+Diagnosis, Differential
+Humans
+Mood Disorders/diagnosis
+Tomography, X-Ray Computed
+LA  - eng
+N1  - Beck, J C
+Benson, D F
+Scheibel, A B
+Spar, J E
+Rubenstein, L Z
+NS 13871-1-3/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, U.S. Gov't, P.H.S.
+Review
+United States
+1982/08/01
+Ann Intern Med. 1982 Aug;97(2):231-41. doi: 10.7326/0003-4819-97-2-231.
+PY  - 1982
+SN  - 0003-4819 (Print)
+0003-4819
+SP  - 231-41
+ST  - Dementia in the elderly: the silent epidemic
+T2  - Ann Intern Med
+TI  - Dementia in the elderly: the silent epidemic
+VL  - 97
+ID  - 51333
+ER  - 
+
+TY  - JOUR
+AB  - The necessity for and efficacy of the anticonvulsant regimens are undisputed. However, inasmuch as epileptic patients are prone to psychiatric disorders, neurologists, psychiatrists, and others working with epileptic patients need to be aware of the role that anticonvulsant regimens may play in causing or exacerbating psychiatric disorders. Additionally, some of the anticonvulsants are thought to have potent positive psychotropic effects. The current literature on this important biopsychosocial topic is reviewed with the purpose of suggesting helpful clinical and research approaches to patients treated by such methods.
+AN  - 7047581
+AU  - Rivinus, T. M.
+DA  - Jun
+DP  - NLM
+IS  - 3
+KW  - Aging
+Anticonvulsants/*adverse effects
+Behavior/drug effects
+Central Nervous System Diseases/complications
+Cognition Disorders/complications
+Drug Interactions
+Epilepsy/complications/genetics
+Epilepsy, Temporal Lobe/complications
+Humans
+Mental Disorders/*chemically induced/complications
+LA  - eng
+N1  - Rivinus, T M
+Journal Article
+Review
+United States
+1982/06/01
+J Clin Psychopharmacol. 1982 Jun;2(3):165-92.
+PY  - 1982
+SN  - 0271-0749 (Print)
+0271-0749
+SP  - 165-92
+ST  - Psychiatric effects of the anticonvulsant regimens
+T2  - J Clin Psychopharmacol
+TI  - Psychiatric effects of the anticonvulsant regimens
+VL  - 2
+ID  - 51342
+ER  - 
+
+TY  - JOUR
+AB  - Clinical experience with muscarinic agonists in the symptomatic treatment of Alzheimer's disease includes studies of the effects of pilocarpine, arecoline, bethanechol, oxotremorine and RS 86. Although the results are somewhat conflicting, there is evidence that a subgroup of patients may respond with an improvement of cognitive and/or behavioural function. The existing agents tend to induce adverse effects due to the stimulation of peripheral muscarinic receptors. Furthermore they reduce (at least in vitro) acetylcholine release by an action on presynaptic receptors. Strategies to overcome these problems include the development of potent agonists with high blood-brain barrier penetration, the search for agents selective for muscarinic receptor subtypes (using cloned receptors as tools) and the identification of agents acting as presynaptic receptor antagonists, to increase acetylcholine release.
+AN  - 2694530
+AU  - Gray, J. A.
+AU  - Enz, A.
+AU  - Spiegel, R.
+DA  - Dec
+DP  - NLM
+KW  - Alzheimer Disease/drug therapy/psychology
+Dementia/*drug therapy/psychology
+Humans
+Parasympathomimetics/*therapeutic use
+LA  - eng
+N1  - Gray, J A
+Enz, A
+Spiegel, R
+Journal Article
+Review
+England
+1989/12/01
+Trends Pharmacol Sci. 1989 Dec;Suppl:85-8.
+PY  - 1989
+SN  - 0165-6147 (Print)
+0165-6147
+SP  - 85-8
+ST  - Muscarinic agonists for senile dementia: past experience and future trends
+T2  - Trends Pharmacol Sci
+TI  - Muscarinic agonists for senile dementia: past experience and future trends
+VL  - Suppl
+ID  - 51341
+ER  - 
+
+TY  - JOUR
+AB  - Munchausen syndrome by proxy (MSP) is a recently described form of child abuse in which a caregiver fabricates or induces symptoms in a child in order to attract medical attention. The epidemiology, clinical features, diagnosis and the spectrum of MSP are reviewed. Central nervous system symptoms are a common presentation of MSP because they can be reported without confirmation. Three cases are reported to illustrate the most common neurological manifestations. It is important for neuroscience nurses to have an awareness that MSP can present as a neurologic problem, because appropriate management depends on early identification and treatment.
+AD  - Department of Pediatrics, Arizona Health Sciences Center, Tucson 85724.
+AN  - 8195645
+AU  - Baldwin, M. A.
+DA  - Feb
+DO  - 10.1097/01376517-199402000-00003
+DP  - NLM
+IS  - 1
+KW  - Central Nervous System Diseases/epidemiology/*etiology
+Chronic Disease
+Diagnosis, Differential
+Disabled Persons
+Female
+Humans
+Infant
+Male
+Munchausen Syndrome by Proxy/*complications/*diagnosis/epidemiology/nursing
+Referral and Consultation
+Risk Factors
+LA  - eng
+N1  - Baldwin, M A
+Case Reports
+Journal Article
+Review
+United States
+1994/02/01
+J Neurosci Nurs. 1994 Feb;26(1):18-23. doi: 10.1097/01376517-199402000-00003.
+PY  - 1994
+SN  - 0888-0395 (Print)
+0888-0395
+SP  - 18-23
+ST  - Munchausen syndrome by proxy: neurological manifestations
+T2  - J Neurosci Nurs
+TI  - Munchausen syndrome by proxy: neurological manifestations
+VL  - 26
+ID  - 51337
+ER  - 
+
+TY  - JOUR
+AB  - Depressive syndromes and dementia are the most frequent psychiatric disorders in the elderly. Reactive depressive syndromes can be associated with the restriction of social competence due to increasing multi-morbidity, loneliness, social isolation, the consequences of retirement, interpersonal conflicts, and the loss of partners or close relatives. Endogenous depressive syndromes in the elderly are frequently combined with diffuse and changing somatic complaints, psychomotor restlessness and agitation. Furthermore, depressive syndromes can be caused by somatic illness, degenerative disorders, other organic diseases or certain drugs. The presence of simultaneously occurring somatic illness, positive family history, certain personality traits, and severity of disease could exert an adverse influence on clinical outcome. Medical treatment should consider the special pharmacological features of old age, and should be combined with psychotherapy as well as a close involvement of the relatives.
+AD  - Department of Psychiatry, University of Munich, FRG.
+AN  - 8020765
+AU  - Müller-Spahn, F.
+AU  - Hock, C.
+DO  - 10.1159/000213615
+DP  - NLM
+KW  - Aged
+Dementia/*diagnosis/etiology/psychology
+Depressive Disorder/*diagnosis/etiology/psychology
+Diagnosis, Differential
+Humans
+Middle Aged
+Neurocognitive Disorders/*diagnosis/etiology/psychology
+Patient Care Team
+Risk Factors
+LA  - eng
+N1  - Müller-Spahn, F
+Hock, C
+Journal Article
+Review
+Switzerland
+1994/01/01
+Gerontology. 1994;40 Suppl 1:10-4. doi: 10.1159/000213615.
+PY  - 1994
+SN  - 0304-324X (Print)
+0304-324x
+SP  - 10-4
+ST  - Clinical presentation of depression in the elderly
+T2  - Gerontology
+TI  - Clinical presentation of depression in the elderly
+VL  - 40 Suppl 1
+ID  - 51331
+ER  - 
+
+TY  - JOUR
+AB  - Noncognitive behavioral symptoms are common in dementia and present challenges to caregivers, clinicians, and researchers. This article reviews these noncognitive symptoms from a behavioral point of view and suggests that both operant and associative conditioning principles might apply. A central feature underlying these approaches is a detailed, specific description of the behavior. Careful description combines the approach of the phenomenologist and the behaviorist but remains underappreciated and underdeveloped.
+AD  - Department of Psychiatry, Johns Hopkins University School of Medicine, Baltimore, Maryland.
+AN  - 7999347
+AU  - Rabins, P. V.
+DP  - NLM
+KW  - Aged
+Alzheimer Disease/*diagnosis/psychology/therapy
+Behavior Therapy/*methods
+Conditioning, Classical
+Conditioning, Operant
+Dementia/*diagnosis/psychology/therapy
+Humans
+Social Behavior Disorders/*diagnosis/psychology/therapy
+LA  - eng
+N1  - Rabins, P V
+Journal Article
+Review
+United States
+1994/01/01
+Alzheimer Dis Assoc Disord. 1994;8 Suppl 3:61-5.
+PY  - 1994
+SN  - 0893-0341 (Print)
+0893-0341
+SP  - 61-5
+ST  - The phenomenology of behavior: an overview of behavioral principles
+T2  - Alzheimer Dis Assoc Disord
+TI  - The phenomenology of behavior: an overview of behavioral principles
+VL  - 8 Suppl 3
+ID  - 51343
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Eye tics are among the most common manifested symptoms of tic disorders, including Gilles de la Tourette's syndrome (GTS). METHODS: A review of medical literature or ocular signs and symptoms of tic disorders was conducted. RESULTS: Tic disorders are characterized by repetitive and often disabling movements that primarily involve the eyes, face, neck, and voice apparatus. In addition, patients with tics may have eye problems related to medications used to control tics. Some eye signs are atypical in tic disorders and their presence may suggest alternate diagnoses. CONCLUSION: Eye tics can be disabling and a optometrist should be familiar with ocular manifestations of tics and ocular dysfunction related to tic treatment, and also be aware of other neurologic conditions confused with tics.
+AD  - Rush University/Rush Presbyterian St. Luke's Medical Center, Chicago, Illinois, USA.
+AN  - 9409103
+AU  - Goetz, C. G.
+DA  - Nov
+DP  - NLM
+IS  - 11
+KW  - Disability Evaluation
+Humans
+Incidence
+Ocular Motility Disorders/*diagnosis/physiopathology/therapy
+Prognosis
+Tic Disorders/*diagnosis/physiopathology/therapy
+Tourette Syndrome/*diagnosis/physiopathology/therapy
+LA  - eng
+N1  - Goetz, C G
+Journal Article
+Review
+United States
+1997/12/31
+J Am Optom Assoc. 1997 Nov;68(11):688-92.
+PY  - 1997
+SN  - 0003-0244 (Print)
+0003-0244
+SP  - 688-92
+ST  - Eye signs and tic disorders: Gilles de la Tourette's syndrome
+T2  - J Am Optom Assoc
+TI  - Eye signs and tic disorders: Gilles de la Tourette's syndrome
+VL  - 68
+ID  - 51339
+ER  - 
+
+TY  - JOUR
+AB  - Behavioral and psychologic factors in tension-type headache are reviewed with reference to pathophysiology, comorbid psychiatric disorders, headache triggers, and behavioral treatment, including the efficacy of behavioral treatments, brief minimal contact administration of behavioral treatment, therapeutic mechanisms underlying the effectiveness of behavioral treatments, and the integration of drug and behavioral treatments. Anxiety or depression may contribute to central sensitization that underlies frequent tension-type headaches. Excessive analgesic use, comorbid psychiatric disorders, or persistent unaddressed headache triggers may limit the effectiveness of headache treatment. Available drug and behavioral treatments are effective for episodic tension-type headache, but are only moderately effective for chronic tension-type headaches. The combination of behavioral and preventive drug therapies may improve outcomes for patients with chronic tension-type headache.
+AD  - Department of Psychology, Ohio University, 200 Porter Hall, Athens, OH 45701-2979, USA. holroyd@ohio.edu
+AN  - 12207853
+AU  - Holroyd, K. A.
+DA  - Oct
+DO  - 10.1007/s11916-002-0083-9
+DP  - NLM
+IS  - 5
+KW  - Humans
+Mental Disorders/*etiology/physiopathology/*psychology
+Tension-Type Headache/*complications/physiopathology/*psychology
+LA  - eng
+N1  - Holroyd, Kenneth A
+Journal Article
+Review
+United States
+2002/09/05
+Curr Pain Headache Rep. 2002 Oct;6(5):401-7. doi: 10.1007/s11916-002-0083-9.
+PY  - 2002
+SN  - 1531-3433 (Print)
+1534-3081
+SP  - 401-7
+ST  - Behavioral and psychologic aspects of the pathophysiology and management of tension-type headache
+T2  - Curr Pain Headache Rep
+TI  - Behavioral and psychologic aspects of the pathophysiology and management of tension-type headache
+VL  - 6
+ID  - 51328
+ER  - 
+
+TY  - JOUR
+AB  - Many patients with congestive heart failure develop neurologic dysfunction. This may take the form of a cardiac encephalopathy that shares clinical features with other metabolic encephalopathies. The causes are multiple. There is a particular, previously unreported, syndrome that occasionally develops in some patients with congestive heart failure that resembles the findings in patients with normal pressure hydrocephalus. This syndrome is characterized by apathy and abulia with preserved alertness; it is caused by fluid retention within the cranial cavity. The syndrome may also develop in patients with other conditions that cause anasarca, e.g., severe liver or kidney disease or hypoalbuminemia. Because patients with these conditions are often quite ill, it has been difficult to verify the pathophysiologic aspects of the syndrome so that its mechanism must remain a hypothesis that awaits more definitive study in a series of patients. I have not seen this syndrome discussed in any cardiology or neurology texts or reports, and it seems to be completely unknown to cardiologists and neurologists. I have recognized about one patient per year with this syndrome.
+AD  - Beth Israel Deaconess Medical Center, Boston, MA 02215, USA. lcaplan@bidmc.harvard.edu
+AN  - 16401854
+AU  - Caplan, L. R.
+DA  - Jan 10
+DO  - 10.1212/01.wnl.0000191327.62136.b1
+DP  - NLM
+IS  - 1
+KW  - Aged
+Brain/physiopathology
+Brain Diseases, Metabolic/*etiology/physiopathology
+Cerebrospinal Fluid Pressure/physiology
+Female
+Heart Failure/*complications/physiopathology
+Humans
+Hydrocephalus/complications/physiopathology
+Intracranial Hypertension/complications/physiopathology
+Mental Disorders/etiology/physiopathology
+Neurocognitive Disorders/etiology/physiopathology
+LA  - eng
+N1  - 1526-632x
+Caplan, Louis R
+Case Reports
+Journal Article
+Review
+United States
+2006/01/13
+Neurology. 2006 Jan 10;66(1):99-101. doi: 10.1212/01.wnl.0000191327.62136.b1.
+PY  - 2006
+SN  - 0028-3878
+SP  - 99-101
+ST  - Cardiac encephalopathy and congestive heart failure: a hypothesis about the relationship
+T2  - Neurology
+TI  - Cardiac encephalopathy and congestive heart failure: a hypothesis about the relationship
+VL  - 66
+ID  - 51338
+ER  - 
+
+TY  - JOUR
+AB  - Diagnosis and treatment of psychogenic movement disorders are challenging for both neurologists and psychiatrists. Symptoms can mimic the full range of organic abnormal involuntary movements, affect gait and speech, or present as unusual undifferentiated movements. Typical clinical characteristics of these disorders are acute onset, fast progression, movement patterns incongruent with organic movement disorders, distractibility, variability, and simultaneous occurrence of various abnormal movements and dysfunctions. Avoidance of iatrogenic damage by unnecessary invasive tests or inappropriate medication, as well as use of appropriate psychiatric treatments are pivotal steps in the management of these disorders. The few clinical trials specific to psychogenic movement disorders focus on antidepressants and psychotherapy. Presence of a comorbid psychiatric diagnosis of depression or an anxiety disorder is a positive prognostic factor, whereas long-standing symptoms, insidious onset of movements, and a psychiatric diagnosis of hypochondriasis, factitious disorder, or malingering are associated with poor outcome.
+AD  - Department of Neurosciences, Murray Center for Research on Parkinson's Disease and Related Disorders, Medical University of South Carolina, Charleston Memorial Hospital, Charleston, SC 29425, USA. hinsonvk@musc.edu
+AN  - 16857575
+AU  - Hinson, V. K.
+AU  - Haren, W. B.
+DA  - Aug
+DO  - 10.1016/s1474-4422(06)70523-3
+DP  - NLM
+IS  - 8
+KW  - Humans
+*Movement Disorders/diagnosis/epidemiology/etiology/therapy
+Psychophysiologic Disorders/complications/*diagnosis
+*Somatoform Disorders/diagnosis/epidemiology/therapy
+LA  - eng
+N1  - Hinson, Vanessa K
+Haren, W Blake
+Journal Article
+Review
+England
+2006/07/22
+Lancet Neurol. 2006 Aug;5(8):695-700. doi: 10.1016/S1474-4422(06)70523-3.
+PY  - 2006
+SN  - 1474-4422 (Print)
+1474-4422
+SP  - 695-700
+ST  - Psychogenic movement disorders
+T2  - Lancet Neurol
+TI  - Psychogenic movement disorders
+VL  - 5
+ID  - 51316
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: The relationship between epilepsy and psychiatric disorders, as well as their reciprocal influence, has been confirmed in several studies. The diagnosis of these psychiatric comorbidities becomes particularly complex, for clinical manifestations vary and patients may not fulfil the criteria of traditional diagnostic classifications. RESULTS: Mood disorders are the more frequent conditions associated with epilepsy, followed by anxiety, attention-deficit, psychotic and personality disorders. Patients with focal epilepsies, and mainly those with temporal and frontal lobe epilepsy, have a greater incidence of depression, anxiety or psychosis, compared with the general population. For a long time, patients and physicians tended to focus solely on the control of epileptic seizures, while disregarding the presence of comorbid psychiatric symptoms and disorders. Recognition of their negative impact in the life of patients with epilepsy in recent years has highlighted the need for their early identification with a careful psychiatric history or, at the least, to screen for the presence of psychiatric symptoms with objective scales. Furthermore, the identification of psychiatric symptoms plays an important role in the choice of antiepileptic drugs as some are known to have positive or negative psychotropic effects. CONCLUSION: An early diagnosis of comorbid psychiatric disorders and a multidisciplinary approach in the evaluation and management of these patients result in the selection of an optimal comprehensive treatment.
+AD  - Department of Neurology, San Carlos Clinical University Hospital, Madrid, Spain. ingmorales@hotmail.com
+AN  - 19225366
+AU  - García-Morales, I.
+AU  - de la Peña Mayor, P.
+AU  - Kanner, A. M.
+DA  - Nov
+DO  - 10.1097/01.nrl.0000340788.07672.51
+DP  - NLM
+IS  - 6 Suppl 1
+KW  - *Epilepsy/diagnosis/epidemiology/therapy
+Humans
+*Mental Disorders/diagnosis/epidemiology/therapy
+LA  - eng
+N1  - García-Morales, Irene
+de la Peña Mayor, Pilar
+Kanner, Andrés M
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+United States
+2009/03/14
+Neurologist. 2008 Nov;14(6 Suppl 1):S15-25. doi: 10.1097/01.nrl.0000340788.07672.51.
+PY  - 2008
+SN  - 1074-7931 (Print)
+1074-7931
+SP  - S15-25
+ST  - Psychiatric comorbidities in epilepsy: identification and treatment
+T2  - Neurologist
+TI  - Psychiatric comorbidities in epilepsy: identification and treatment
+VL  - 14
+ID  - 51321
+ER  - 
+
+TY  - JOUR
+AB  - Deep brain stimulation (DBS) represents a major advance in the treatment of various severe movement disorders or neuropsychiatric diseases. Our understanding of the mechanism of action of this surgical treatment has greatly benefited from functional imaging studies. Most of these studies have been conducted in patients with Parkinson's disease (PD) treated by bilateral subthalamic nucleus (STN) stimulation. These studies have notably underlined the fact that STN stimulation influences motor, limbic, or associative cortical-subcortical loops in various (sometimes contradictory) ways. We present an up-to-date review of the information provided by functional imaging studies in surgery for PD, dystonia, tremor, as well as in psychiatric disorders such as depression or obsessive-compulsive disorder. On the basis of this information, proposed mechanisms of action of DBS are discussed, as well as the need for additional approaches such as improved anatomical localization of the contact used for stimulation or a better understanding of the electrical distribution around the electrode.
+AD  - PET Imaging Centre, Center of Addiction Mental Health, University of Toronto, Ontario, Canada.
+AN  - 19654584
+AU  - Ballanger, B.
+AU  - Jahanshahi, M.
+AU  - Broussolle, E.
+AU  - Thobois, S.
+DA  - Nov
+DO  - 10.1038/jcbfm.2009.111
+DP  - NLM
+ET  - 20090805
+IS  - 11
+KW  - Brain/diagnostic imaging/*physiology
+*Deep Brain Stimulation
+Humans
+Mental Disorders/diagnostic imaging/physiopathology/*surgery
+Movement Disorders/diagnostic imaging/physiopathology/*surgery
+*Positron-Emission Tomography
+LA  - eng
+N1  - 1559-7016
+Ballanger, Benedicte
+Jahanshahi, Marjan
+Broussolle, Emmanuel
+Thobois, Stéphane
+Journal Article
+Review
+United States
+2009/08/06
+J Cereb Blood Flow Metab. 2009 Nov;29(11):1743-54. doi: 10.1038/jcbfm.2009.111. Epub 2009 Aug 5.
+PY  - 2009
+SN  - 0271-678x
+SP  - 1743-54
+ST  - PET functional imaging of deep brain stimulation in movement disorders and psychiatry
+T2  - J Cereb Blood Flow Metab
+TI  - PET functional imaging of deep brain stimulation in movement disorders and psychiatry
+VL  - 29
+ID  - 51326
+ER  - 
+
+TY  - JOUR
+AB  - A growing body of literature has implicated comorbid psychopathology as a potential risk factor for the chronification of migraine. Of the psychiatric disorders, depressive and anxiety disorders have been most consistently associated with the chronification of migraine. A shared dysfunction of the serotonergic system, medication overuse, and psychological factors have been proposed to mediate this relationship, although the responsible mechanisms are still largely unclear. This article overviews literature on psychiatric comorbidities and migraine chronification, considers mechanisms underlying this relationship, and notes directions for future clinical and empirical work.
+AD  - Department of Psychology, University of Mississippi, University, MS 38677, USA. tasmithe@olemiss.edu
+AN  - 19586598
+AU  - Smitherman, T. A.
+AU  - Rains, J. C.
+AU  - Penzien, D. B.
+DA  - Aug
+DO  - 10.1007/s11916-009-0052-7
+DP  - NLM
+IS  - 4
+KW  - Chronic Disease
+Comorbidity
+Humans
+Mental Disorders/diagnosis/*epidemiology/*psychology
+Migraine Disorders/diagnosis/*epidemiology/*psychology
+LA  - eng
+N1  - 1534-3081
+Smitherman, Todd A
+Rains, Jeanetta C
+Penzien, Donald B
+Journal Article
+Review
+United States
+2009/07/10
+Curr Pain Headache Rep. 2009 Aug;13(4):326-31. doi: 10.1007/s11916-009-0052-7.
+PY  - 2009
+SN  - 1534-3081
+SP  - 326-31
+ST  - Psychiatric comorbidities and migraine chronification
+T2  - Curr Pain Headache Rep
+TI  - Psychiatric comorbidities and migraine chronification
+VL  - 13
+ID  - 51324
+ER  - 
+
+TY  - JOUR
+AB  - Huntington disease (HD) is a rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia. Prevalence in the Caucasian population is estimated at 1/10,000-1/20,000. Mean age at onset of symptoms is 30-50 years. In some cases symptoms start before the age of 20 years with behavior disturbances and learning difficulties at school (Juvenile Huntington's disease; JHD). The classic sign is chorea that gradually spreads to all muscles. All psychomotor processes become severely retarded. Patients experience psychiatric symptoms and cognitive decline. HD is an autosomal dominant inherited disease caused by an elongated CAG repeat (36 repeats or more) on the short arm of chromosome 4p16.3 in the Huntingtine gene. The longer the CAG repeat, the earlier the onset of disease. In cases of JHD the repeat often exceeds 55. Diagnosis is based on clinical symptoms and signs in an individual with a parent with proven HD, and is confirmed by DNA determination. Pre-manifest diagnosis should only be performed by multidisciplinary teams in healthy at-risk adult individuals who want to know whether they carry the mutation or not. Differential diagnoses include other causes of chorea including general internal disorders or iatrogenic disorders. Phenocopies (clinically diagnosed cases of HD without the genetic mutation) are observed. Prenatal diagnosis is possible by chorionic villus sampling or amniocentesis. Preimplantation diagnosis with in vitro fertilization is offered in several countries. There is no cure. Management should be multidisciplinary and is based on treating symptoms with a view to improving quality of life. Chorea is treated with dopamine receptor blocking or depleting agents. Medication and non-medical care for depression and aggressive behavior may be required. The progression of the disease leads to a complete dependency in daily life, which results in patients requiring full-time care, and finally death. The most common cause of death is pneumonia, followed by suicide.
+AD  - Department of Neurology K5Q112, LUMC PO Box 9600, 2300RC Leiden The Netherlands. r.a.c.roos@lumc.nl
+AN  - 21171977
+AU  - Roos, R. A.
+C2  - PMC3022767
+DA  - Dec 20
+DO  - 10.1186/1750-1172-5-40
+DP  - NLM
+ET  - 20101220
+KW  - Adolescent
+Adult
+Age of Onset
+Aged
+Child
+Child, Preschool
+Chorea/diagnosis/genetics/physiopathology/therapy
+Cognition Disorders/diagnosis/genetics/physiopathology/therapy
+Humans
+*Huntington Disease/diagnosis/genetics/physiopathology/therapy
+Mental Disorders/diagnosis/genetics/physiopathology/therapy
+Middle Aged
+Young Adult
+LA  - eng
+N1  - 1750-1172
+Roos, Raymund A C
+Journal Article
+Review
+England
+2010/12/22
+Orphanet J Rare Dis. 2010 Dec 20;5:40. doi: 10.1186/1750-1172-5-40.
+PY  - 2010
+SN  - 1750-1172
+SP  - 40
+ST  - Huntington's disease: a clinical review
+T2  - Orphanet J Rare Dis
+TI  - Huntington's disease: a clinical review
+VL  - 5
+ID  - 51304
+ER  - 
+
+TY  - JOUR
+AB  - The neurobehavioral sequelae of TBI consist of a spectrum of somatic, neurologic, and psychiatric symptoms. The challenge for clinicians lies in understanding the interface of the various symptoms and how they interrelate with other entities. Specifically, the challenge is differentiating post-TBI-related symptoms from preexisting or de novo psychiatric, neurologic, and/or systemic disorders. A comprehensive evaluation and a multidisciplinary approach to evaluating patients are essential to be able to develop the differential diagnosis needed to design a management plan that maximizes recovery.
+AD  - Departments of Psychiatry and Neurology, Mount Sinai School of Medicine, One Gustave L Levy Place, Box 1230, New York, NY 10029, USA. silvana.riggio@mssm.edu
+AN  - 21172569
+AU  - Riggio, S.
+DA  - Feb
+DO  - 10.1016/j.ncl.2010.10.008
+DP  - NLM
+IS  - 1
+KW  - Behavioral Symptoms/diagnosis/*etiology
+Brain Injuries/*complications/diagnosis/*psychology/therapy
+Cognition Disorders/diagnosis/*etiology
+Humans
+Mental Disorders/diagnosis/*etiology
+Sleep Wake Disorders/diagnosis/*etiology
+LA  - eng
+N1  - 1557-9875
+Riggio, Silvana
+Journal Article
+Review
+United States
+2010/12/22
+Neurol Clin. 2011 Feb;29(1):35-47, vii. doi: 10.1016/j.ncl.2010.10.008.
+PY  - 2011
+SN  - 0733-8619
+SP  - 35-47, vii
+ST  - Traumatic brain injury and its neurobehavioral sequelae
+T2  - Neurol Clin
+TI  - Traumatic brain injury and its neurobehavioral sequelae
+VL  - 29
+ID  - 51327
+ER  - 
+
+TY  - JOUR
+AB  - Dysfunction of higher cortical function and neurobehavioral syndromes may be present in up to 87% of stroke patients. These symptoms may occur less often in patients with transient ischemic attacks (36%). Approximately 22% of stroke patients may present only with cognitive and neurobehavioral symptoms without elementary neurological deficits. In this chapter we concentrate on delusions, hallucinations, misidentification syndromes, anosognosia of hemiplegia, aggressive behavior and also extended self syndrome.
+AD  - Department of Neurology, Princess Royal University Hospital, Orpington, Kent, UK. bpiechowski@gazeta.pl
+AN  - 22377864
+AU  - Piechowski-Jozwiak, B.
+AU  - Bogousslavsky, J.
+DO  - 10.1159/000333410
+DP  - NLM
+ET  - 20120214
+KW  - Humans
+Mental Disorders/*etiology/*physiopathology
+Stroke/*complications/*physiopathology/*psychology
+LA  - eng
+N1  - 1662-2804
+Piechowski-Jozwiak, Bartlomiej
+Bogousslavsky, Julien
+Journal Article
+Review
+Switzerland
+2012/03/02
+Front Neurol Neurosci. 2012;30:57-60. doi: 10.1159/000333410. Epub 2012 Feb 14.
+PY  - 2012
+SN  - 0300-5186
+SP  - 57-60
+ST  - Neurobehavioral syndromes
+T2  - Front Neurol Neurosci
+TI  - Neurobehavioral syndromes
+VL  - 30
+ID  - 51315
+ER  - 
+
+TY  - JOUR
+AB  - Neuropsychiatric symptoms (NPS) in Alzheimer's disease (AD) are widespread and disabling. This has been known since Dr. Alois Alzheimer's first case, Frau Auguste D., presented with emotional distress and delusions of infidelity/excessive jealousy, followed by cognitive symptoms. Being cognizant of this, in 2010 the Alzheimer's Association convened a research roundtable on the topic of NPS in AD. A major outcome of the roundtable was the founding of a Professional Interest Area (PIA) within the International Society to Advance Alzheimer's Research and Treatment (ISTAART). The NPS-PIA has prepared a series of documents that are intended to summarize the literature and provide more detailed specific recommendations for NPS research. This overview paper is the first of these living documents that will be updated periodically as the science advances. The overview is followed by syndrome-specific synthetic reviews and recommendations prepared by NPS-PIA workgroups on depression, apathy, sleep, agitation, and psychosis.
+AD  - Departments of Psychiatry and Neurology, College of Medicine, Mayo Clinic, Scottsdale, AZ, USA.
+AN  - 23562430
+AU  - Geda, Y. E.
+AU  - Schneider, L. S.
+AU  - Gitlin, L. N.
+AU  - Miller, D. S.
+AU  - Smith, G. S.
+AU  - Bell, J.
+AU  - Evans, J.
+AU  - Lee, M.
+AU  - Porsteinsson, A.
+AU  - Lanctôt, K. L.
+AU  - Rosenberg, P. B.
+AU  - Sultzer, D. L.
+AU  - Francis, P. T.
+AU  - Brodaty, H.
+AU  - Padala, P. P.
+AU  - Onyike, C. U.
+AU  - Ortiz, L. A.
+AU  - Ancoli-Israel, S.
+AU  - Bliwise, D. L.
+AU  - Martin, J. L.
+AU  - Vitiello, M. V.
+AU  - Yaffe, K.
+AU  - Zee, P. C.
+AU  - Herrmann, N.
+AU  - Sweet, R. A.
+AU  - Ballard, C.
+AU  - Khin, N. A.
+AU  - Alfaro, C.
+AU  - Murray, P. S.
+AU  - Schultz, S.
+AU  - Lyketsos, C. G.
+C2  - PMC3766403
+C6  - NIHMS465719
+DA  - Sep
+DO  - 10.1016/j.jalz.2012.12.001
+DP  - NLM
+ET  - 20130403
+IS  - 5
+KW  - Alzheimer Disease/*diagnosis/*psychology
+Humans
+Mental Disorders/*diagnosis/*etiology
+Agitation/aggression
+Alzheimer's disease
+Apathy
+Behavioral and psychological symptoms of dementia
+Delusions
+Dementia
+Depression
+Hallucinations
+Mild behavioral impairment
+Mild cognitive impairment
+Neuropsychiatric symptoms
+Psychosis
+Sleep disorders
+LA  - eng
+N1  - 1552-5279
+Geda, Yonas E
+Schneider, Lon S
+Gitlin, Laura N
+Miller, David S
+Smith, Gwenn S
+Bell, Joanne
+Evans, Jovier
+Lee, Michael
+Porsteinsson, Anton
+Lanctôt, Krista L
+Rosenberg, Paul B
+Sultzer, David L
+Francis, Paul T
+Brodaty, Henry
+Padala, Prasad P
+Onyike, Chiadikaobi U
+Ortiz, Luis Agüera
+Ancoli-Israel, Sonia
+Bliwise, Donald L
+Martin, Jennifer L
+Vitiello, Michael V
+Yaffe, Kristine
+Zee, Phyllis C
+Herrmann, Nathan
+Sweet, Robert A
+Ballard, Clive
+Khin, Ni A
+Alfaro, Cara
+Murray, Patrick S
+Schultz, Susan
+Lyketsos, Constantine G
+Neuropsychiatric Syndromes Professional Interest Area of ISTAART
+R24 MH074779/MH/NIMH NIH HHS/United States
+R01 AG041633/AG/NIA NIH HHS/United States
+R01 AG038893/AG/NIA NIH HHS/United States
+K01-MH68351/MH/NIMH NIH HHS/United States
+R01 MH079814/MH/NIMH NIH HHS/United States
+U01-AG006786/AG/NIA NIH HHS/United States
+UL1 RR024150/RR/NCRR NIH HHS/United States
+RR024150/RR/NCRR NIH HHS/United States
+R24-MH074779/MH/NIMH NIH HHS/United States
+RC1-MH090770-01/MH/NIMH NIH HHS/United States
+K01 MH068351/MH/NIMH NIH HHS/United States
+R01 AG022254/AG/NIA NIH HHS/United States
+P50 AG005146/AG/NIA NIH HHS/United States
+R01 NR014200/NR/NINR NIH HHS/United States
+RC1 MH090770/MH/NIMH NIH HHS/United States
+U01 AG006786/AG/NIA NIH HHS/United States
+R01 AG041781/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Review
+United States
+2013/04/09
+Alzheimers Dement. 2013 Sep;9(5):602-8. doi: 10.1016/j.jalz.2012.12.001. Epub 2013 Apr 3.
+PY  - 2013
+SN  - 1552-5260 (Print)
+1552-5260
+SP  - 602-8
+ST  - Neuropsychiatric symptoms in Alzheimer's disease: past progress and anticipation of the future
+T2  - Alzheimers Dement
+TI  - Neuropsychiatric symptoms in Alzheimer's disease: past progress and anticipation of the future
+VL  - 9
+ID  - 51336
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) is the most common neurodegenerative cause of dementia and is responsible for significant individual morbidity and mortality, and economic impact on the health care system. Neurodegeneration (including neuronal atrophy and/or loss) are attributed to extraneuronal toxic amyloid oligomers and proteins, intraneuronal neurofibrillary tangles consisting of hyperphosphorylated tau, region-specific diminished cerebral glucose metabolism, synaptic dysfunction, and mitochondrial dysfunction. Several of these pathologic changes may occur decades before symptom onset, leaving ample time for implementing prevention strategies that target the earliest stages of the disease. In recent years, a myriad of modifiable and nonmodifiable risk factors have been elucidated. We describe the latest criteria for the diagnosis of AD, including earliest diagnostic stage of preclinical AD, which has the highest potential for research, including diagnosis and disease modification. We discuss both FDA-approved pharmacologic treatments, as well as nonpharmacologic strategies for AD therapeutics, including prevention via evidence-based, low-risk interventions. Genotype is an important consideration in managing patients on the AD continuum, as presence of the APOE ε4 allele may influence response to treatment. We present the most current evidence relating to pharmacogenomics, nutrigenomics, and distinctive nutritional requirements targeted toward AD.
+AD  - Department of Neurology, University of Miami Miller School of Medicine, Miami, Florida.
+AN  - 24234352
+AU  - Oboudiyat, C.
+AU  - Glazer, H.
+AU  - Seifan, A.
+AU  - Greer, C.
+AU  - Isaacson, R. S.
+DA  - Sep
+DO  - 10.1055/s-0033-1359319
+DP  - NLM
+ET  - 20131114
+IS  - 4
+KW  - *Alzheimer Disease/diagnosis/epidemiology/etiology/therapy
+Humans
+LA  - eng
+N1  - 1098-9021
+Oboudiyat, Carly
+Glazer, Hilary
+Seifan, Alon
+Greer, Christine
+Isaacson, Richard S
+Journal Article
+Review
+United States
+2013/11/16
+Semin Neurol. 2013 Sep;33(4):313-29. doi: 10.1055/s-0033-1359319. Epub 2013 Nov 14.
+PY  - 2013
+SN  - 0271-8235
+SP  - 313-29
+ST  - Alzheimer's disease
+T2  - Semin Neurol
+TI  - Alzheimer's disease
+VL  - 33
+ID  - 51305
+ER  - 
+
+TY  - JOUR
+AB  - Incidence rates of cognitive impairment and dementia are rising with the ageing population. Meanwhile, the limited success of current treatments has led to a search for early markers of dementia which could predict future progression or improve quality of life for those already suffering from the disease. One focus has been on the correlation between physical and cognitive measures with an increasing interest in the association between frailty and cognitive decline. Frailty is an age-related syndrome described as the decreased ability of an organism to respond to stressors. A number of epidemiological studies have reported that frailty increases the risk of future cognitive decline and that cognitive impairment increases the risk of frailty suggesting that cognition and frailty interact within a cycle of decline associated with ageing. This paper reviews the evidence for an association between frailty and cognitive impairment and outlines some of the mechanisms that potentially underpin this relationship from brain neuropathology and hormonal dysregulation to cardiovascular risk and psychological factors.
+AD  - The Irish Longitudinal Study on Ageing, Department of Medical Gerontology, Chemistry Extension Building, Trinity College, Dublin, Ireland. Electronic address: robertde@tcd.ie.
+AN  - 23831959
+AU  - Robertson, D. A.
+AU  - Savva, G. M.
+AU  - Kenny, R. A.
+DA  - Sep
+DO  - 10.1016/j.arr.2013.06.004
+DP  - NLM
+ET  - 20130704
+IS  - 4
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/diagnosis/epidemiology/psychology
+Cognition Disorders/*diagnosis/epidemiology/*psychology
+Cross-Sectional Studies
+Dementia/diagnosis/epidemiology/psychology
+Frail Elderly/*psychology
+Humans
+Longitudinal Studies
+Cognition
+Cognitive impairment
+Dementia
+Frailty
+LA  - eng
+N1  - 1872-9649
+Robertson, Deirdre A
+Savva, George M
+Kenny, Rose Anne
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+England
+2013/07/09
+Ageing Res Rev. 2013 Sep;12(4):840-51. doi: 10.1016/j.arr.2013.06.004. Epub 2013 Jul 4.
+PY  - 2013
+SN  - 1568-1637
+SP  - 840-51
+ST  - Frailty and cognitive impairment--a review of the evidence and causal mechanisms
+T2  - Ageing Res Rev
+TI  - Frailty and cognitive impairment--a review of the evidence and causal mechanisms
+VL  - 12
+ID  - 51335
+ER  - 
+
+TY  - JOUR
+AB  - There is intense interest in the development and application of animal models of CNS disorders to explore pathology and molecular mechanisms, identify potential biomarkers, and to assess the therapeutic utility, estimate safety margins and establish pharmacodynamic and pharmacokinetic parameters of new chemical entities (NCEs). This is a daunting undertaking, due to the complex and heterogeneous nature of these disorders, the subjective and sometimes contradictory nature of the clinical endpoints and the paucity of information regarding underlying molecular mechanisms. Historically, these models have been invaluable in the discovery of therapeutics for a range of disorders including anxiety, depression, schizophrenia, and Parkinson's disease. Recently, however, they have been increasingly criticized in the wake of numerous clinical trial failures of NCEs with promising preclinical profiles. These failures have resulted from a number of factors including inherent limitations of the models, over-interpretation of preclinical results and the complex nature of clinical trials for CNS disorders. This review discusses the rationale, strengths, weaknesses and predictive validity of the most commonly used models for psychiatric, neurodegenerative and neurological disorders as well as critical factors that affect the variability and reproducibility of these models. It also addresses how progress in molecular genetics and the development of transgenic animals has fundamentally changed the approach to neurodegenerative disorder research. To date, transgenic animal models\have not been the panacea for drug discovery that many had hoped for. However continual refinement of these models is leading to steady progress with the promise of eventual therapeutic breakthroughs.
+AD  - Department of Pharmacology and Physiology, Drexel University College of Medicine, 245 North 15th Street, Philadelphia, PA 19102-1192, USA. Electronic address: paul.mcgonigle@drexelmed.edu.
+AN  - 23811310
+AU  - McGonigle, P.
+DA  - Jan 1
+DO  - 10.1016/j.bcp.2013.06.016
+DP  - NLM
+ET  - 20130626
+IS  - 1
+KW  - Animals
+Central Nervous System Agents/*therapeutic use
+Central Nervous System Diseases/*drug therapy/pathology/psychology
+*Disease Models, Animal
+Humans
+Mental Disorders/drug therapy/pathology/psychology
+Nervous System Diseases/drug therapy/pathology/psychology
+Neurodegenerative Diseases/drug therapy/pathology/psychology
+Parkinson Disease/drug therapy/pathology/psychology
+Neurodegenerative
+Neuropsychiatric
+Pain
+Stroke
+Transgenic
+LA  - eng
+N1  - 1873-2968
+McGonigle, Paul
+Journal Article
+Review
+England
+2013/07/03
+Biochem Pharmacol. 2014 Jan 1;87(1):140-9. doi: 10.1016/j.bcp.2013.06.016. Epub 2013 Jun 26.
+PY  - 2014
+SN  - 0006-2952
+SP  - 140-9
+ST  - Animal models of CNS disorders
+T2  - Biochem Pharmacol
+TI  - Animal models of CNS disorders
+VL  - 87
+ID  - 51317
+ER  - 
+
+TY  - JOUR
+AB  - Epilepsy is a common group of neurological diseases. Acquired epilepsy can be caused by brain insults, such as trauma, infection or tumour, and followed by a latent period from several months to years before the emergence of recurrent spontaneous seizures. More than 50% of epilepsy cases will develop chronic neurodegenerative, neurocognitive and neuropsychiatric comorbidities. It is important to understand the mechanisms by which a brain insult results in acquired epilepsy and comorbidities in order to identify targets for novel therapeutic interventions that may mitigate these outcomes. Recent studies have implicated the hyperphosphorylated tubulin-associated protein (tau) in rodent models of epilepsy and Alzheimer's disease, and in experimental and clinical studies of traumatic brain injury. This potentially represents a novel target to mitigate epilepsy and associated neurocognitive and psychiatric disorders post-brain injury. This article reviews the potential role of tau-based mechanisms in the pathophysiology of acquired epilepsy and its neurocognitive and neuropsychiatric comorbidities, and the potential to target these for novel disease-modifying treatments.
+AD  - Department of Medicine, Royal Melbourne Hospital, University of Melbourne, 4th Floor, Clinical Science Building, Melbourne, Victoria, 3050, Australia, zhp@student.unimelb.edu.au.
+AN  - 24323428
+AU  - Zheng, P.
+AU  - Shultz, S. R.
+AU  - Hovens, C. M.
+AU  - Velakoulis, D.
+AU  - Jones, N. C.
+AU  - O'Brien, T. J.
+DA  - Jun
+DO  - 10.1007/s12035-013-8601-9
+DP  - NLM
+ET  - 20131210
+IS  - 3
+KW  - Animals
+Comorbidity
+Epilepsy/diagnosis/*epidemiology/*metabolism
+Humans
+Mental Disorders/diagnosis/*epidemiology/*metabolism
+Phosphorylation/physiology
+tau Proteins/*metabolism
+LA  - eng
+N1  - 1559-1182
+Zheng, Ping
+Shultz, Sandy R
+Hovens, Chris M
+Velakoulis, Dennis
+Jones, Nigel C
+O'Brien, Terence J
+Journal Article
+Review
+United States
+2013/12/11
+Mol Neurobiol. 2014 Jun;49(3):1532-9. doi: 10.1007/s12035-013-8601-9. Epub 2013 Dec 10.
+PY  - 2014
+SN  - 0893-7648
+SP  - 1532-9
+ST  - Hyperphosphorylated tau is implicated in acquired epilepsy and neuropsychiatric comorbidities
+T2  - Mol Neurobiol
+TI  - Hyperphosphorylated tau is implicated in acquired epilepsy and neuropsychiatric comorbidities
+VL  - 49
+ID  - 51334
+ER  - 
+
+TY  - JOUR
+AB  - Parkinsons Disease (PD) is a neurodegenerative disorder of the dopaminergic neurons in the substantia nigra. Much of the scientific literature on the Parkinson's disease has been focused on the evaluation and management of motor conditions in PD. Much less stress has been laid on evaluating and managing the cognitive disturbances found comorbidly in this condition. Studies have suggested that the cognitive dysfunction observed in PD can range anywhere from individual cognitive deficits to the clinical picture of minimal cognitive impairment to as much as a full-blown dementia like clinical picture. Perhaps because of this poor understanding, the treatments for this comorbidity have not been able to be adequately developed. Right now, only rivastigmine is the approved drug of choice for treatment of dementia associated with PD. In this review we aim at elaborating the individual cognitive deficits associated with PD instead of focusing on full-blown dementia. Our aim at focusing on individual symptoms is important because these symptoms should be evaluated even at the most beginning stages of PD rather than waiting for the patient to report for the symptoms. Therefore, we will aim at elaborating the prevalence, symptomatology and implications for treatment for these cognitive dysfunctions individually. Because covering all the domains of cognitive dysfunctions are not possible here, we will focus on three cognitive impairments which are most commonly observed in the PD patients. These are the (1) Executive function deficits (2) Memory deficits and (3) visuospatial deficits. We will, finally, have an overview of the condition of minimal cognitive deficits observed in PD.
+AD  - Department of Neurosurgery, Rizhao Hospital of TCM, Rizhao, Shandong, China. mlwws0633@163.com.
+AN  - 26166654
+AU  - Ding, W.
+AU  - Ding, L. J.
+AU  - Li, F. F.
+AU  - Han, Y.
+AU  - Mu, L.
+DA  - Jun
+DP  - NLM
+IS  - 12
+KW  - Cognition/physiology
+Cognition Disorders/diagnosis/*physiopathology/*psychology
+Dementia/diagnosis/physiopathology/psychology
+Humans
+Neurodegenerative Diseases/diagnosis/physiopathology/psychology
+Parkinson Disease/*diagnosis/physiopathology/*psychology
+LA  - eng
+N1  - 2284-0729
+Ding, W
+Ding, L-J
+Li, F-F
+Han, Y
+Mu, L
+Journal Article
+Review
+Italy
+2015/07/15
+Eur Rev Med Pharmacol Sci. 2015 Jun;19(12):2275-81.
+PY  - 2015
+SN  - 1128-3602
+SP  - 2275-81
+ST  - Neurodegeneration and cognition in Parkinson's disease: a review
+T2  - Eur Rev Med Pharmacol Sci
+TI  - Neurodegeneration and cognition in Parkinson's disease: a review
+VL  - 19
+ID  - 51312
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Early detection of schizophrenia risk is a critical goal in the field. Endophenotypes in children to relatives of affected individuals may contribute to this early detection. One of the lowest cost and longest theorized domains is motor development in children. METHODS: A meta-analysis was conducted comparing individuals ≤21 years old with affected first-degree relatives (FDR) with (1) individuals from unaffected families (controls), or (2) individuals with FDR having other psychiatric disorders. Studies were classified by motor outcome and separate meta-analyses were performed across six correlated domains, with available N varying by domain. RESULTS: Inclusion criteria were met by k = 23 independent studies with a total N = 18,582, and N across domains varying from 167 to 8619. The youth from affected families had delays in gross and fine motor development in infancy (k = 3, n = 167, Hedges'g = 0.644, confidence intervals (CI) = [0.328, 0.960], p < .001), walking milestones (k = 3, n = 608, g = 0.444, CI = [0.108, 0.780], p = .01), coordination (k = 8, n = 8619, g = 0.625, CI = [0.453, 0.797], p < .0001), and had more abnormal movements such as involuntary movements (k = 6, n = 8365, g = 0.291, CI = [0.041, 0.542], p = .02) compared with controls. However, not all effects survived correction for publication bias. Effects for neurological soft signs were small and not reliably different from zero (k = 4, n = 548, g = 0.238, CI = [-0.106, 0.583], p = .18). When comparing the FDR group to youth from families with other psychiatric disorders, the FDR group was distinguished by poorer gross and fine motor skills (k = 2, n = 275, g = 0.847, CI = [0.393, 1.300], p < .001). CONCLUSIONS: Motor deficits during development likely represent an endophenotype for schizophrenia, although its specificity is limited in relation to other serious mental disorders. It holds promise as a low cost domain for early risk detection, although it will have to be combined with other indicators to achieve clinically usable prediction accuracy. Impaired coordination was the most robust result with a moderate effect size and lack of heterogeneity and publication bias.
+AD  - Child and Adolescent Mental Health Centre, Mental Health Services Capital Region, Research Unit, Copenhagen University Hospital, Copenhagen, Denmark.
+The Lundbeck Foundation Initiative for Integrative Psychiatric Research (iPSYCH), Aarhus, Denmark.
+Department of Clinical Medicine, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.
+Mental Health Centre Copenhagen, Copenhagen University Hospital, Mental Health Services Capital Region, Copenhagen, Denmark.
+Centre for Neuropsychiatric Schizophrenia Research & Centre for Clinical Intervention and Neuropsychiatric Schizophrenia Research, Copenhagen University Hospital, Mental Health Services Capital Region, Copenhagen, Denmark.
+AN  - 26577292
+AU  - Burton, B. K.
+AU  - Hjorthøj, C.
+AU  - Jepsen, J. R.
+AU  - Thorup, A.
+AU  - Nordentoft, M.
+AU  - Plessen, K. J.
+DA  - Apr
+DO  - 10.1111/jcpp.12479
+DP  - NLM
+ET  - 20151118
+IS  - 4
+KW  - *Developmental Disabilities
+*Endophenotypes
+Humans
+*Motor Skills Disorders
+*Movement Disorders
+*Schizophrenia
+Motor function
+early detection
+endophenotype
+first-degree relatives
+schizophrenia
+LA  - eng
+N1  - 1469-7610
+Burton, Birgitte Klee
+Hjorthøj, Carsten
+Jepsen, Jens Richardt
+Thorup, Anne
+Nordentoft, Merete
+Plessen, Kerstin J
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+England
+2015/11/19
+J Child Psychol Psychiatry. 2016 Apr;57(4):446-56. doi: 10.1111/jcpp.12479. Epub 2015 Nov 18.
+PY  - 2016
+SN  - 0021-9630
+SP  - 446-56
+ST  - Research Review: Do motor deficits during development represent an endophenotype for schizophrenia? A meta-analysis
+T2  - J Child Psychol Psychiatry
+TI  - Research Review: Do motor deficits during development represent an endophenotype for schizophrenia? A meta-analysis
+VL  - 57
+ID  - 51352
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The motor features of essential tremor (ET) include its hallmark element, kinetic tremor, yet non-motor features are increasingly being recognized as an accompanying part of what was previously viewed as a solely motor disorder. Given the evolving state of the ET field with respect to these non-motor features, the purpose of this manuscript is to critically review the current data. METHODS: A PubMed search was conducted on July 1, 2015. The term "essential tremor" was crossed in sequential order with 13 additional search terms (e.g., "cognitive", "dementia", "depression"). The total number of unique hits was 322. RESULTS: Numerous studies seem to substantiate the presence of a range of non-motor features occurring in excess in ET cases compared to age-matched controls. These comprise cognitive features (including a full spectrum from mild cognitive difficulty through to frank dementia), psychiatric (including depression, apathy, anxiety, and personality characteristics), sensory (hearing and possibly olfactory abnormalities), and other non-motor features (e.g., sleep dysregulation). Emerging evidence suggests that some of these features could be primary disease features that pre-date motor features of ET. CONCLUSIONS: The presence of numerous non-motor features in ET is increasingly evident. The biological basis of these features deserves additional study.
+AD  - Department of Neurology, Yale School of Medicine, Yale University, New Haven, CT, USA; Department of Chronic Disease Epidemiology, Yale School of Public Health, Yale University, New Haven, CT, USA; Center for Neuroepidemiology and Clinical Neurological Research, Yale School of Medicine, Yale University, New Haven, CT, USA. Electronic address: elan.louis@yale.edu.
+AN  - 26343494
+AU  - Louis, E. D.
+C1  - Competing Interests Elan Louis has no conflicts of interest and no competing financial interests.
+C2  - PMC4764070
+C6  - NIHMS723900
+DA  - Jan
+DO  - 10.1016/j.parkreldis.2015.08.034
+DP  - NLM
+ET  - 20150829
+IS  - 0 1
+KW  - Animals
+Anxiety/diagnosis/epidemiology/psychology
+Apathy
+Cognition Disorders/*diagnosis/epidemiology/psychology
+Dementia/diagnosis/epidemiology/psychology
+Depression/diagnosis/epidemiology/psychology
+Essential Tremor/*diagnosis/epidemiology/psychology
+Humans
+Mental Disorders/*diagnosis/epidemiology/psychology
+Sensation Disorders/*diagnosis/epidemiology/psychology
+Statistics as Topic
+Cognition
+Dementia
+Essential tremor
+Non-motor
+Psychiatric
+LA  - eng
+N1  - 1873-5126
+Louis, Elan D
+R01 NS088257/NS/NINDS NIH HHS/United States
+R01 NS39422/NS/NINDS NIH HHS/United States
+R01 NS085136/NS/NINDS NIH HHS/United States
+R01 NS039422/NS/NINDS NIH HHS/United States
+R01 NS086736/NS/NINDS NIH HHS/United States
+R01 NS073872/NS/NINDS NIH HHS/United States
+R01 NS042859/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Review
+England
+2015/09/08
+Parkinsonism Relat Disord. 2016 Jan;22 Suppl 1(0 1):S115-8. doi: 10.1016/j.parkreldis.2015.08.034. Epub 2015 Aug 29.
+PY  - 2016
+SN  - 1353-8020 (Print)
+1353-8020
+SP  - S115-8
+ST  - Non-motor symptoms in essential tremor: A review of the current data and state of the field
+T2  - Parkinsonism Relat Disord
+TI  - Non-motor symptoms in essential tremor: A review of the current data and state of the field
+VL  - 22 Suppl 1
+ID  - 51332
+ER  - 
+
+TY  - JOUR
+AB  - Migraine is a highly prevalent and disabling neurological disorder associated with a wide range of psychiatric comorbidities. In this manuscript, we provide an overview of the link between migraine and several comorbid psychiatric disorders, including depression, anxiety and post-traumatic stress disorder. We present data on psychiatric risk factors for migraine chronification. We discuss the evidence, theories and methods, such as brain functional imaging, to explain the pathophysiological links between migraine and psychiatric disorders. Finally, we provide an overview of the treatment considerations for treating migraine with psychiatric comorbidities. In conclusion, a review of the literature demonstrates the wide variety of psychiatric comorbidities with migraine. However, more research is needed to elucidate the neurocircuitry underlying the association between migraine and the comorbid psychiatric conditions and to determine the most effective treatment for migraine with psychiatric comorbidity.
+AD  - Department of Neurology, NYU Langone Medical Center, New York, New York, USA.
+Department of Internal Medicine, NYU Langone Medical Center, New York, New York, USA.
+Division of Behavioral Medicine and Clinical Psychology, Cincinnati Children's Medical Center, Cincinnati, Ohio, USA.
+Cincinnati Children's Medical Center, Headache Center, Office for Clinical and Translational Research, Center for Child Behavior and Nutrition Research and Training, Pediatrics, Cincinnati, Ohio, USA.
+Department of Neurology, Mayo Clinic, Phoenix, USA.
+Department of Neurology, Albert Einstein College of Medicine, Bronx, New York, USA.
+Department of Psychiatry, Brigham and Women's Hospital, Boston, Massachusetts, USA.
+AN  - 26733600
+AU  - Minen, M. T.
+AU  - Begasse De Dhaem, O.
+AU  - Kroon Van Diest, A.
+AU  - Powers, S.
+AU  - Schwedt, T. J.
+AU  - Lipton, R.
+AU  - Silbersweig, D.
+DA  - Jul
+DO  - 10.1136/jnnp-2015-312233
+DP  - NLM
+ET  - 20160105
+IS  - 7
+KW  - Chronic Disease
+Comorbidity
+Humans
+Mental Disorders/*epidemiology/*psychology/therapy
+Migraine Disorders/*epidemiology/*psychology/therapy
+Risk Factors
+Migraine
+Neuroepidemiology
+Neuropsychiatry
+Neuroradiology
+Psychopharmacology
+LA  - eng
+N1  - 1468-330x
+Minen, Mia Tova
+Begasse De Dhaem, Olivia
+Kroon Van Diest, Ashley
+Powers, Scott
+Schwedt, Todd J
+Lipton, Richard
+Silbersweig, David
+Journal Article
+Review
+England
+2016/01/07
+J Neurol Neurosurg Psychiatry. 2016 Jul;87(7):741-9. doi: 10.1136/jnnp-2015-312233. Epub 2016 Jan 5.
+PY  - 2016
+SN  - 0022-3050
+SP  - 741-9
+ST  - Migraine and its psychiatric comorbidities
+T2  - J Neurol Neurosurg Psychiatry
+TI  - Migraine and its psychiatric comorbidities
+VL  - 87
+ID  - 51309
+ER  - 
+
+TY  - JOUR
+AB  - The prevalence, age of onset, and clinical symptoms of many neuropsychiatric diseases substantially differ between males and females. Factors influencing the relationships between brain development and function and sex or gender may help us understand the differences between males and females in terms of risk or resilience factors in brain diseases.
+AD  - University Hospital Cochin (Site Tarnier), Faculty of Medicine Paris Descartes), INSERM U 894, CNP, Paris, France.
+AN  - 28179806
+AU  - Thibaut, F.
+C2  - PMC5286720
+DA  - Dec
+DO  - 10.31887/DCNS.2016.18.4/fthibaut
+DP  - NLM
+IS  - 4
+KW  - Brain Diseases/*physiopathology/*psychology
+Female
+*Gender Identity
+Humans
+Male
+Mental Disorders/*physiopathology/*psychology
+Risk Factors
+Sex Characteristics
+Sex Factors
+brain
+neuropsychiatric disorder
+sex difference
+LA  - eng
+N1  - 1958-5969
+Thibaut, Florence
+Editorial
+Introductory Journal Article
+England
+2017/02/10
+Dialogues Clin Neurosci. 2016 Dec;18(4):351-352. doi: 10.31887/DCNS.2016.18.4/fthibaut.
+PY  - 2016
+SN  - 1294-8322 (Print)
+1294-8322
+SP  - 351-352
+ST  - The role of sex and gender in neuropsychiatric disorders
+T2  - Dialogues Clin Neurosci
+TI  - The role of sex and gender in neuropsychiatric disorders
+VL  - 18
+ID  - 51349
+ER  - 
+
+TY  - JOUR
+AB  - Dementia is a frequent problem encountered in advanced stages of Parkinson disease (PD). In recent years, research has focused on the pre-dementia stages of cognitive impairment in PD, including mild cognitive impairment (MCI). Several longitudinal studies have shown that MCI is a harbinger of dementia in PD, although the course is variable, and stabilization of cognition - or even reversal to normal cognition - is not uncommon. In addition to limbic and cortical spread of Lewy pathology, several other mechanisms are likely to contribute to cognitive decline in PD, and a variety of biomarker studies, some using novel structural and functional imaging techniques, have documented in vivo brain changes associated with cognitive impairment. The evidence consistently suggests that low cerebrospinal fluid levels of amyloid-β(42), a marker of comorbid Alzheimer disease (AD), predict future cognitive decline and dementia in PD. Emerging genetic evidence indicates that in addition to the APOE*ε4 allele (an established risk factor for AD), GBA mutations and SCNA mutations and triplications are associated with cognitive decline in PD, whereas the findings are mixed for MAPT polymorphisms. Cognitive enhancing medications have some effect in PD dementia, but no convincing evidence that progression from MCI to dementia can be delayed or prevented is available, although cognitive training has shown promising results.
+AD  - KCL-PARCOG group, Institute of Psychiatry, Psychology &Neuroscience, King's College London, De Crespigny Park, London SE5 8AF, UK.
+Department of Old Age Psychiatry, Institute of Psychiatry, Psychology &Neuroscience, King's College London, De Crespigny Park, London SE5 8AF, UK.
+University of Exeter Medical School, University of Exeter, Exeter EX1 2LU, UK.
+Neurodegeneration Imaging Group, Maurice Wohl Clinical Neuroscience Institute, Institute of Psychiatry, Psychology &Neuroscience, King's College London, 125 Coldharbour Lane, London SE5 9NU, UK.
+Department of Basic and Clinical Neuroscience, Maurice Wohl Clinical Neuroscience Institute, National Parkinson Foundation Centre of Excellence, King's College London/Kings College Hospital, 5 Cutcombe Road, London SE5 9RT, UK.
+Departments of Psychiatry and Neurology, Perelman School of Medicine at the University of Pennsylvania 3615 Chestnut Street, #330, Philadelphia, Pennsylvania 19104, USA.
+Parkinson's Disease and Mental Illness Research, Education and Clinical Centres (PADRECC and MIRECC), Philadelphia Veterans Affairs Medical Centre 3900 Woodland Avenue, Philadelphia, Pennsylvania 19104, USA.
+AN  - 28257128
+AU  - Aarsland, D.
+AU  - Creese, B.
+AU  - Politis, M.
+AU  - Chaudhuri, K. R.
+AU  - Ffytche, D. H.
+AU  - Weintraub, D.
+AU  - Ballard, C.
+C1  - Competing interests statement The other authors declare no competing interests.
+C2  - PMC5643027
+C6  - NIHMS879316
+DA  - Apr
+DO  - 10.1038/nrneurol.2017.27
+DP  - NLM
+ET  - 20170303
+IS  - 4
+KW  - *Cognitive Dysfunction/etiology/metabolism/pathology
+*Dementia/etiology/metabolism/pathology
+Humans
+*Parkinson Disease/complications/metabolism/pathology
+LA  - eng
+N1  - 1759-4766
+Aarsland, Dag
+Creese, Byron
+Politis, Marios
+Chaudhuri, K Ray
+Ffytche, Dominic H
+Weintraub, Daniel
+Ballard, Clive
+P50 NS053488/NS/NINDS NIH HHS/United States
+Journal Article
+Review
+England
+2017/03/04
+Nat Rev Neurol. 2017 Apr;13(4):217-231. doi: 10.1038/nrneurol.2017.27. Epub 2017 Mar 3.
+PY  - 2017
+SN  - 1759-4758 (Print)
+1759-4758
+SP  - 217-231
+ST  - Cognitive decline in Parkinson disease
+T2  - Nat Rev Neurol
+TI  - Cognitive decline in Parkinson disease
+VL  - 13
+ID  - 51308
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Traumatic spinal cord injuries (SCI) have devastating consequences for the physical, financial, and psychosocial well-being of patients and their caregivers. Expediently delivering interventions during the early postinjury period can have a tremendous impact on long-term functional recovery. PATHOPHYSIOLOGY: This is largely due to the unique pathophysiology of SCI where the initial traumatic insult (primary injury) is followed by a progressive secondary injury cascade characterized by ischemia, proapoptotic signaling, and peripheral inflammatory cell infiltration. Over the subsequent hours, release of proinflammatory cytokines and cytotoxic debris (DNA, ATP, reactive oxygen species) cyclically adds to the harsh postinjury microenvironment. As the lesions mature into the chronic phase, regeneration is severely impeded by the development of an astroglial-fibrous scar surrounding coalesced cystic cavities. Addressing these challenges forms the basis of current and upcoming treatments for SCI. MANAGEMENT: This paper discusses the evidence-based management of a patient with SCI while emphasizing the importance of early definitive care. Key neuroprotective therapies are summarized including surgical decompression, methylprednisolone, and blood pressure augmentation. We then review exciting neuroprotective interventions on the cusp of translation such as Riluzole, Minocycline, magnesium, therapeutic hypothermia, and CSF drainage. We also explore the most promising neuroregenerative strategies in trial today including Cethrin™, anti-NOGO antibody, cell-based approaches, and bioengineered biomaterials. Each section provides a working knowledge of the key preclinical and patient trials relevant to clinicians while highlighting the pathophysiologic rationale for the therapies. CONCLUSION: We conclude with our perspectives on the future of treatment and research in this rapidly evolving field.
+AD  - Division of Neurosurgery, Department of Surgery, University of Toronto, Toronto, Canada.
+Institute of Medical Science, University of Toronto, Toronto, Canada.
+Department of Surgery, University of Toronto, Toronto, Canada.
+Department of Genetics and Development, University of Toronto, Toronto, Canada.
+Spine Program, University of Toronto, Toronto, Canada.
+Vancouver Spine Institute, Vancouver General Hospital, Vancouver, Canada.
+Department of Surgery, University of British Columbia, Vancouver, Canada.
+Thomas Jefferson University Hospital, Philadelphia, Pennsylvania.
+National Hospital for Neurology and Neurosurgery, University College London, London, England.
+AN  - 28350947
+AU  - Ahuja, C. S.
+AU  - Nori, S.
+AU  - Tetreault, L.
+AU  - Wilson, J.
+AU  - Kwon, B.
+AU  - Harrop, J.
+AU  - Choi, D.
+AU  - Fehlings, M. G.
+DA  - Mar 1
+DO  - 10.1093/neuros/nyw080
+DP  - NLM
+IS  - 3s
+KW  - Decompression, Surgical
+Drainage
+Humans
+Hypothermia, Induced
+Neuroprotective Agents/therapeutic use
+Recovery of Function
+Spinal Cord Injuries/pathology/*physiopathology/*therapy
+Spinal Cord Regeneration
+Wound Healing
+*Clinical trial
+*Management
+*Neuroprotection
+*Regenerative medicine
+*Spinal cord injury
+*Stem cells
+*Trauma
+LA  - eng
+N1  - 1524-4040
+Ahuja, Christopher S
+Nori, Satoshi
+Tetreault, Lindsay
+Wilson, Jefferson
+Kwon, Brian
+Harrop, James
+Choi, David
+Fehlings, Michael G
+Journal Article
+Review
+United States
+2017/03/30
+Neurosurgery. 2017 Mar 1;80(3S):S9-S22. doi: 10.1093/neuros/nyw080.
+PY  - 2017
+SN  - 0148-396x
+SP  - S9-s22
+ST  - Traumatic Spinal Cord Injury-Repair and Regeneration
+T2  - Neurosurgery
+TI  - Traumatic Spinal Cord Injury-Repair and Regeneration
+VL  - 80
+ID  - 51348
+ER  - 
+
+TY  - JOUR
+AB  - Early-life epilepsies are a series of disorders frequently accompanied by a broad range of morbidities that include cognitive, behavioral, neuromuscular, and sleep disturbances; enteric and other forms of autonomic dysfunction; sensory processing difficulties; and other issues. Usually these morbidities cluster together in a single patient. Rather than these being separate conditions, all, including the seizures, are manifestations or coexpressions of developmental brain disorders. Instead of viewing epilepsy as the disease and the other features as comorbidities, approaching early-life epilepsies as part of the spectrum of developmental brain disorders could have implications for multidisciplinary care models, anticipatory guidance, and counseling of parents, as well as the design of randomized trials and targeting important outcomes. Ultimately, such an approach could improve understanding and help optimize outcomes in these difficult to treat disorders of early childhood.
+AD  - Department of Pediatrics, Ann & Robert H Lurie Children's Hospital of Chicago, Epilepsy Center and Northwestern Feinberg School of Medicine, Chicago, IL. Electronic address: atberg@luriechildrens.org.
+Center for Rare Neurological Diseases, Norcross, GA; Department of Biomedical Informatics, Emory University, Atlanta, GA.
+Department of Pediatrics, Children's Healthcare of Atlanta, Emory University, Atlanta, GA.
+AN  - 29249505
+AU  - Berg, A. T.
+AU  - Tarquinio, D.
+AU  - Koh, S.
+DA  - Nov
+DO  - 10.1016/j.spen.2017.10.008
+DP  - NLM
+ET  - 20171009
+IS  - 4
+KW  - Animals
+Comorbidity
+Developmental Disabilities/*complications/epidemiology/physiopathology
+Epilepsy/*complications/epidemiology/physiopathology
+Humans
+LA  - eng
+N1  - 1558-0776
+Berg, Anne T
+Tarquinio, Daniel
+Koh, Sookyong
+R01 NS073768/NS/NINDS NIH HHS/United States
+R21 NS094999/NS/NINDS NIH HHS/United States
+Journal Article
+Review
+United States
+2017/12/19
+Semin Pediatr Neurol. 2017 Nov;24(4):251-263. doi: 10.1016/j.spen.2017.10.008. Epub 2017 Oct 9.
+PY  - 2017
+SN  - 1071-9091
+SP  - 251-263
+ST  - Early Life Epilepsies are a Comorbidity of Developmental Brain Disorders
+T2  - Semin Pediatr Neurol
+TI  - Early Life Epilepsies are a Comorbidity of Developmental Brain Disorders
+VL  - 24
+ID  - 51351
+ER  - 
+
+TY  - JOUR
+AB  - Although dementia has been described in ancient texts over many centuries (e.g., "Be kind to your father, even if his mind fail him." - Old Testament: Sirach 3:12), our knowledge of its underlying causes is little more than a century old. Alzheimer published his now famous case study only 110 years ago, and our modern understanding of the disease that bears his name, and its neuropsychological consequences, really only began to accelerate in the 1980s. Since then we have witnessed an explosion of basic and translational research into the causes, characterizations, and possible treatments for Alzheimer's disease (AD) and other dementias. We review this lineage of work beginning with Alzheimer's own writings and drawings, then jump to the modern era beginning in the 1970s and early 1980s and provide a sampling of neuropsychological and other contextual work from each ensuing decade. During the 1980s our field began its foundational studies of profiling the neuropsychological deficits associated with AD and its differentiation from other dementias (e.g., cortical vs. subcortical dementias). The 1990s continued these efforts and began to identify the specific cognitive mechanisms affected by various neuropathologic substrates. The 2000s ushered in a focus on the study of prodromal stages of neurodegenerative disease before the full-blown dementia syndrome (i.e., mild cognitive impairment). The current decade has seen the rise of imaging and other biomarkers to characterize preclinical disease before the development of significant cognitive decline. Finally, we suggest future directions and predictions for dementia-related research and potential therapeutic interventions. (JINS, 2017, 23, 818-831).
+AD  - 1Department of Psychiatry,University of California San Diego,School of Medicine,La Jolla,California.
+3Department of Neurosciences,University of California San Diego,School of Medicine,La Jolla,California.
+AN  - 29198280
+AU  - Bondi, M. W.
+AU  - Edmonds, E. C.
+AU  - Salmon, D. P.
+C2  - PMC5830188
+C6  - NIHMS937916
+DA  - Oct
+DO  - 10.1017/s135561771700100x
+DP  - NLM
+IS  - 9-10
+KW  - *Alzheimer Disease/complications/epidemiology/history/psychology
+Cognitive Dysfunction/diagnosis/*etiology/history
+History, 20th Century
+History, 21st Century
+Humans
+Neuropsychological Tests
+Alzheimer’s disease
+Biomarkers
+Clinical trials
+Cognition
+Mild cognitive impairment
+Neuroimaging
+Neuropsychology
+Neuroscience
+LA  - eng
+N1  - 1469-7661
+Bondi, Mark W
+Edmonds, Emily C
+Salmon, David P
+IK2 CX001415/CX/CSRD VA/United States
+K24 AG026431/AG/NIA NIH HHS/United States
+P50 AG005131/AG/NIA NIH HHS/United States
+R01 AG049810/AG/NIA NIH HHS/United States
+Historical Article
+Journal Article
+Portrait
+Review
+England
+2017/12/05
+J Int Neuropsychol Soc. 2017 Oct;23(9-10):818-831. doi: 10.1017/S135561771700100X.
+PY  - 2017
+SN  - 1355-6177 (Print)
+1355-6177
+SP  - 818-831
+ST  - Alzheimer's Disease: Past, Present, and Future
+T2  - J Int Neuropsychol Soc
+TI  - Alzheimer's Disease: Past, Present, and Future
+VL  - 23
+ID  - 51303
+ER  - 
+
+TY  - JOUR
+AB  - Tremor, like dystonia, is a term used at the phenomenological, syndromic, and aetiopathological level. Parkinsonian, essential, and dystonic tremor are the three most common tremor diagnoses encountered in clinical practice. Investigation of nonmotor symptoms in essential tremor and dystonic tremor syndromes is significantly hampered by the lack of clear clinical diagnostic criteria for these groups at a syndromic level, and the absence of biomarkers which allow definitive diagnosis at an aetiopathological level. Much work is needed in clarifying the motor features of these disorders in order to allow delineation of the nonmotor features of the most common tremor syndromes. With this limitation in mind, this chapter reviews what is known about nonmotor symptoms in these two tremor types. The final sections deal with nonmotor symptoms observed in patients with lesional tremor, thankfully a much more clearly defined albeit less common group of patients.
+AD  - Movement Disorders Unit, Westmead Hospital, Sydney, NSW, Australia.
+Movement Disorders Unit, Westmead Hospital, Sydney, NSW, Australia; Sydney Medical School, University of Sydney, Sydney, NSW, Australia. Electronic address: vscfung@ozemail.com.au.
+AN  - 28805576
+AU  - Fois, A. F.
+AU  - Briceño, H. M.
+AU  - Fung, V. S. C.
+DO  - 10.1016/bs.irn.2017.05.010
+DP  - NLM
+ET  - 20170627
+KW  - Cognitive Dysfunction/diagnosis/epidemiology/physiopathology
+Essential Tremor/*diagnosis/epidemiology/*physiopathology
+Humans
+Mental Disorders/diagnosis/epidemiology/physiopathology
+Parkinson Disease/*diagnosis/epidemiology/*physiopathology
+Tremor/diagnosis/epidemiology/physiopathology
+Cerebellum
+Dystonia
+Dystonic tremor
+Essential tremor
+Holmes tremor
+Lesional tremor
+Nonmotor symptoms
+Tremor
+LA  - eng
+N1  - 2162-5514
+Fois, Alessandro F
+Briceño, Hugo M
+Fung, Victor S C
+Journal Article
+Review
+United States
+2017/08/15
+Int Rev Neurobiol. 2017;134:1373-1396. doi: 10.1016/bs.irn.2017.05.010. Epub 2017 Jun 27.
+PY  - 2017
+SN  - 0074-7742
+SP  - 1373-1396
+ST  - Nonmotor Symptoms in Essential Tremor and Other Tremor Disorders
+T2  - Int Rev Neurobiol
+TI  - Nonmotor Symptoms in Essential Tremor and Other Tremor Disorders
+VL  - 134
+ID  - 51325
+ER  - 
+
+TY  - JOUR
+AB  - Most of the current therapies, as well as many of the clinical trials, for multiple sclerosis (MS) target the inflammatory autoimmune processes, but less than 20% of all clinical trials investigate potential therapies for the chronic progressive disease stage of MS. The latter is responsible for the steadily increasing disability in many patients, and there is an urgent need for novel therapies that protect nervous system tissue and enhance axonal growth and/or remyelination. As outlined in this review, solid pre-clinical data suggest neutralization of the neurite outgrowth inhibitor Nogo-A as a potential new way to achieve both axonal and myelin repair. Several phase I clinical studies with anti-Nogo-A antibodies have been conducted in different disease paradigms including MS and spinal cord injury. Data from spinal cord injury and amyotrophic lateral sclerosis (ALS) trials accredit a good safety profile of high doses of anti-Nogo-A antibodies administered intravenously or intrathecally. An antibody against a Nogo receptor subunit, leucine rich repeat and immunoglobulin-like domain-containing protein 1 (LINGO-1), was recently shown to improve outcome in patients with acute optic neuritis in a phase II study. Nogo-A-suppressing antibodies could be novel drug candidates for the relapsing as well as the progressive MS disease stage. In this review, we summarize the available pre-clinical and clinical evidence on Nogo-A and elucidate the potential of Nogo-A-antibodies as a therapy for progressive MS.
+AD  - Brain Research Institute, University of Zurich, Zurich, Switzerland. ineichen@protonmail.ch.
+Department of Health Sciences and Technology, ETH Zurich, Zurich, 8057, Switzerland. ineichen@protonmail.ch.
+Brain Research Institute, University of Zurich, Zurich, Switzerland.
+Department of Health Sciences and Technology, ETH Zurich, Zurich, 8057, Switzerland.
+Department of Neurology, University Hospital Zurich, Zurich, Switzerland.
+HELIOS Klinik Hagen-Ambrock Department of Neurorehabilitation, Witten/Herdecke University, Faculty of Health, School of Medicine, Ambrockerweg 60, Hagen, 58091, Germany.
+Brain Research Institute, University of Zurich, Zurich, Switzerland. schwab@hifo.uzh.ch.
+Department of Health Sciences and Technology, ETH Zurich, Zurich, 8057, Switzerland. schwab@hifo.uzh.ch.
+AN  - 28105588
+AU  - Ineichen, B. V.
+AU  - Plattner, P. S.
+AU  - Good, N.
+AU  - Martin, R.
+AU  - Linnebank, M.
+AU  - Schwab, M. E.
+DA  - Mar
+DO  - 10.1007/s40263-017-0407-2
+DP  - NLM
+IS  - 3
+KW  - Animals
+Antibodies/pharmacology/*therapeutic use
+Humans
+Immunologic Factors/pharmacology/*therapeutic use
+Multiple Sclerosis/*drug therapy/metabolism
+Nogo Proteins/*immunology
+LA  - eng
+N1  - 1179-1934
+Ineichen, Benjamin V
+Plattner, Patricia S
+Good, Nicolas
+Martin, Roland
+Linnebank, Michael
+Schwab, Martin E
+Journal Article
+Review
+New Zealand
+2017/01/21
+CNS Drugs. 2017 Mar;31(3):187-198. doi: 10.1007/s40263-017-0407-2.
+PY  - 2017
+SN  - 1172-7047
+SP  - 187-198
+ST  - Nogo-A Antibodies for Progressive Multiple Sclerosis
+T2  - CNS Drugs
+TI  - Nogo-A Antibodies for Progressive Multiple Sclerosis
+VL  - 31
+ID  - 51346
+ER  - 
+
+TY  - JOUR
+AB  - Psychiatric symptoms are an increasingly recognised feature of movement disorders. Recent identification of causative genes and autoantibodies has allowed detailed analysis of aetiologically homogenous subgroups, thereby enabling determination of the spectrum of psychiatric symptoms in these disorders. This review evaluates the incidence and type of psychiatric symptoms encountered in patients with movement disorders. A broad spectrum of psychiatric symptoms was identified across all subtypes of movement disorder, with depression, generalised anxiety disorder and obsessive-compulsive disorder being most common. Psychosis, schizophrenia and attention deficit hyperactivity disorder were also identified, with the psychiatric symptoms often predating onset of the motor disorder. The high incidence of psychiatric symptoms across such a wide range of movement disorders suggests a degree of common or overlapping pathogenic mechanisms. Our review demonstrates the need for increased clinical awareness of such co-morbidities, which should facilitate early neuropsychiatric intervention and allied specialist treatment for patients.
+AD  - MRC Centre for Neuropsychiatric Genetics and Genomics, Hadyn Ellis Building, Heath Park, Cardiff, CF24 4HQ, UK. Electronic address: PeallKJ@cardiff.ac.uk.
+Movement Disorders Clinic, The Children's Hospital at Westmead, University of Sydney, Sydney, NSW, Australia.
+Department of Psychological Medicine, Great Ormond Street Hospital, London, UK; Developmental Neurosciences Programme, UCL-Institute of Child Health, London, UK.
+Department of Neurology, University of Groningen, Groningen, The Netherlands.
+MRC Centre for Neuropsychiatric Genetics and Genomics, Hadyn Ellis Building, Heath Park, Cardiff, CF24 4HQ, UK.
+Developmental Neurosciences Programme, UCL-Institute of Child Health, London, UK; Department of Neurology, Great Ormond Street Hospital, London, UK. Electronic address: manju.kurian@ucl.ac.uk.
+AN  - 28528196
+AU  - Peall, K. J.
+AU  - Lorentzos, M. S.
+AU  - Heyman, I.
+AU  - Tijssen, M. A. J.
+AU  - Owen, M. J.
+AU  - Dale, R. C.
+AU  - Kurian, M. A.
+DA  - Sep
+DO  - 10.1016/j.neubiorev.2017.05.014
+DP  - NLM
+ET  - 20170518
+KW  - Comorbidity
+Humans
+Mental Disorders/*epidemiology/genetics/immunology
+Movement Disorders/*epidemiology/genetics/immunology
+Genetics
+Immune mediated
+Movement disorders
+Psychiatric phenotype
+LA  - eng
+N1  - 1873-7528
+Peall, K J
+Lorentzos, M S
+Heyman, I
+Tijssen, M A J
+Owen, M J
+Dale, R C
+Kurian, M A
+MR/L010305/1/MRC_/Medical Research Council/United Kingdom
+MR/P008593/1/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Review
+United States
+2017/05/22
+Neurosci Biobehav Rev. 2017 Sep;80:23-35. doi: 10.1016/j.neubiorev.2017.05.014. Epub 2017 May 18.
+PY  - 2017
+SN  - 0149-7634
+SP  - 23-35
+ST  - A review of psychiatric co-morbidity described in genetic and immune mediated movement disorders
+T2  - Neurosci Biobehav Rev
+TI  - A review of psychiatric co-morbidity described in genetic and immune mediated movement disorders
+VL  - 80
+ID  - 51323
+ER  - 
+
+TY  - JOUR
+AB  - Primary motor abnormalities (PMA), as found in patients with schizophrenia, are quantitatively and qualitatively distinct markers of motor system abnormalities. PMA have been often referred to phenomena that are present across schizophrenia-spectrum disorders. A dysfunction of frontoparietal and subcortical networks has been proposed as core pathophysiological mechanism underlying the expression of PMA. However, it is unclear at present if such mechanisms are a common within schizophrenia and other psychotic disorders. To address this question, we review recent neuroimaging studies investigating the neural substrates of PMA in schizophrenia and so-called "nonschizophrenic nonaffective psychoses" (NSNAP) such as schizophreniform, schizoaffective, brief psychotic, and other unspecified psychotic disorders. Although the extant data in patients with schizophrenia suggests that further investigation is warranted, MRI findings in NSNAP are less persuasive. It is unclear so far which PMA, if any, are characteristic features of NSNAP or, possibly even specific for these disorders. Preliminary data suggest a relationship between relapsing-remitting PMA in hyper-/hypokinetic cycloid syndromes and neurodegenerative disorders of the basal ganglia, likely reflecting the transnosological relevance of subcortical abnormalities. Despite this evidence, neural substrates and mechanisms underlying PMA that are common in schizophrenia and NSNAP cannot be clearly delineated at this stage of research. PMA and their underlying brain circuits could be promising intermediate phenotype candidates for psychotic disorders, but future multimodal neuroimaging studies in schizophrenia and NSNAP patients and their unaffected first-degree relatives are needed to answer fundamental transnosologic questions.
+AD  - Department of Psychiatry and Psychotherapy, Central Institute of Mental Health, Medical Faculty Mannheim, Heidelberg University Mannheim, Germany. Electronic address: dusan.hirjak@zi-mannheim.de.
+Center for Psychosocial Medicine, Department of General Psychiatry, University of Heidelberg, Germany.
+Center for Psychosocial Medicine, Department of General Psychiatry, University of Heidelberg, Germany; Center for Mental Health, Odenwald District Healthcare Center, Erbach, Germany.
+AN  - 29074330
+AU  - Hirjak, D.
+AU  - Kubera, K. M.
+AU  - Thomann, P. A.
+AU  - Wolf, R. C.
+DA  - Oct
+DO  - 10.1016/j.schres.2017.10.007
+DP  - NLM
+ET  - 20171101
+KW  - Brain/diagnostic imaging/physiopathology
+Humans
+Movement Disorders/diagnostic imaging/*physiopathology
+Phenotype
+Psychotic Disorders/diagnostic imaging/*physiopathology
+Schizophrenia/diagnostic imaging/*physiopathology
+Intermediate phenotype
+Mri
+Nsnap
+Nonschizophrenic nonaffective psychoses
+Primary motor abnormalities
+Schizophrenia
+LA  - eng
+N1  - 1573-2509
+Hirjak, Dusan
+Kubera, Katharina M
+Thomann, Philipp A
+Wolf, Robert C
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Netherlands
+2017/10/28
+Schizophr Res. 2018 Oct;200:26-34. doi: 10.1016/j.schres.2017.10.007. Epub 2017 Nov 1.
+PY  - 2018
+SN  - 0920-9964
+SP  - 26-34
+ST  - Motor dysfunction as an intermediate phenotype across schizophrenia and other psychotic disorders: Progress and perspectives
+T2  - Schizophr Res
+TI  - Motor dysfunction as an intermediate phenotype across schizophrenia and other psychotic disorders: Progress and perspectives
+VL  - 200
+ID  - 51354
+ER  - 
+
+TY  - JOUR
+AB  - Pediatric movement disorders may present with psychiatric symptoms at many points during the course of the disease. For the relatively common pediatric movement disorder, Tourette syndrome, psychiatric comorbidities are well-described and treatment is well-studied. Managing these comorbidities may be more effective than improving the movements themselves. For more uncommon movement disorders, such as juvenile-onset Huntington disease, treatment of psychiatric comorbidities is not well-characterized, and best-practice recommendations are not available. For the least common movement disorders, such as childhood neurodegeneration with brain iron accumulation, psychiatric features may be nonspecific so that underlying diagnosis may be apparent only after recognition of other symptoms. However, psychiatric medication, psychotherapy, and psychosocial support for these disorders may prove helpful to many children and adolescents.
+AD  - Department of Psychiatry, Indiana University School of Medicine, Indianapolis, IN. Electronic address: kewalsh@iupui.edu.
+Department of Psychiatry, Indiana University School of Medicine, Indianapolis, IN.
+AN  - 29735110
+AU  - Walsh, K. H.
+AU  - Soe, K.
+AU  - Sarawgi, S.
+DA  - Apr
+DO  - 10.1016/j.spen.2017.12.002
+DP  - NLM
+ET  - 20171220
+KW  - Child
+Comorbidity
+Humans
+Mental Disorders/*complications/diagnosis/epidemiology/therapy
+Movement Disorders/*complications/diagnosis/psychology/therapy
+LA  - eng
+N1  - 1558-0776
+Walsh, Kelda Harris
+Soe, Katherine
+Sarawgi, Shivali
+Journal Article
+Review
+United States
+2018/05/08
+Semin Pediatr Neurol. 2018 Apr;25:123-135. doi: 10.1016/j.spen.2017.12.002. Epub 2017 Dec 20.
+PY  - 2018
+SN  - 1071-9091
+SP  - 123-135
+ST  - Psychiatric Treatment and Management of Psychiatric Comorbidities of Movement Disorders
+T2  - Semin Pediatr Neurol
+TI  - Psychiatric Treatment and Management of Psychiatric Comorbidities of Movement Disorders
+VL  - 25
+ID  - 51320
+ER  - 
+
+TY  - JOUR
+AB  - There is a substantial body of research on social cognition in adults with epilepsy, and in broad categories such as focal and generalized epilepsies, but much less has been written about social cognition in children with epilepsy (CWE), and in childhood-onset epilepsy syndromes specifically. In several of these syndromes, autism spectrum disorder (ASD) and attention-deficit hyperactivity disorder (ADHD), two disorders with social cognitive impairments, are reported. There is strong evidence for social cognitive deficits in juvenile myoclonic epilepsy (JME). There is also a considerable amount of evidence for such deficits in a number of syndromes that may be associated with ASD or ADHD, including West syndrome (WS), Dravet syndrome (DS), and the Landau-Kleffner syndrome (LKS). However, the evidence is of variable quality and incomplete across the range of childhood epilepsy syndromes. In some syndromes, childhood epilepsy substantially increases the risk of severe social cognitive impairment, which may persist after the seizures remit. This paper presents an overview of current research on social cognition in childhood epilepsy, with a particular focus on syndromes with a high prevalence of autistic and behavioral comorbidities. Social cognitive impairments represent a considerable additional challenge for patients and caregivers. Early diagnosis and intervention might significantly improve long-term social cognitive outcomes, highlighting the need for greater awareness among clinicians of this important topic. This article is part of the Special Issue "Epilepsy and social cognition across the lifespan".
+AD  - East London Foundation NHS Trust, 5-7 Rush Court, Bedford MK40 3JT, UK; University College, London, UK; King's College, London, UK. Electronic address: FBesag@aol.com.
+AN  - 31196824
+AU  - Besag, F. M. C.
+AU  - Vasey, M. J.
+DA  - Nov
+DO  - 10.1016/j.yebeh.2019.03.015
+DP  - NLM
+ET  - 20190610
+IS  - Pt B
+KW  - Adolescent
+Attention Deficit Disorder with Hyperactivity/complications/*psychology
+Autism Spectrum Disorder/complications/*psychology
+Child
+Cognition Disorders/complications/*psychology
+Cognitive Dysfunction/complications/*psychology
+Epileptic Syndromes/complications/*psychology
+Humans
+Social Behavior
+*Social Perception
+Attention-deficit/hyperactivity disorder
+Autism spectrum disorder
+Childhood epilepsy
+Dravet syndrome
+Social cognition
+West syndrome
+LA  - eng
+N1  - 1525-5069
+Besag, Frank M C
+Vasey, Michael J
+Journal Article
+Review
+United States
+2019/06/15
+Epilepsy Behav. 2019 Nov;100(Pt B):106210. doi: 10.1016/j.yebeh.2019.03.015. Epub 2019 Jun 10.
+PY  - 2019
+SN  - 1525-5050
+SP  - 106210
+ST  - Social cognition and psychopathology in childhood and adolescence
+T2  - Epilepsy Behav
+TI  - Social cognition and psychopathology in childhood and adolescence
+VL  - 100
+ID  - 51350
+ER  - 
+
+TY  - JOUR
+AB  - Survivors of traumatic brain injury (TBI) often develop chronic neurological, neurocognitive, psychological, and psychosocial deficits that can have a profound impact on an individual's wellbeing and quality of life. TBI is also a common cause of acquired epilepsy, which is itself associated with significant behavioral morbidity. This review considers the clinical and preclinical evidence that post-traumatic epilepsy (PTE) acts as a 'second-hit' insult to worsen chronic behavioral outcomes for brain-injured patients, across the domains of emotional, cognitive, and psychosocial functioning. Surprisingly, few well-designed studies have specifically examined the relationship between seizures and behavioral outcomes after TBI. The complex mechanisms underlying these comorbidities remain incompletely understood, although many of the biological processes that precipitate seizure occurrence and epileptogenesis may also contribute to the development of chronic behavioral deficits. Further, the relationship between PTE and behavioral dysfunction is increasingly recognized to be a bidirectional one, whereby premorbid conditions are a risk factor for PTE. Clinical studies in this arena are often challenged by the confounding effects of anti-seizure medications, while preclinical studies have rarely examined an adequately extended time course to fully capture the time course of epilepsy development after a TBI. To drive the field forward towards improved treatment strategies, it is imperative that both seizures and neurobehavioral outcomes are assessed in parallel after TBI, both in patient populations and preclinical models.
+AD  - Department of Neuroscience, Monash University, 99 Commercial Road, Melbourne, VIC, Australia; Department of Medicine (Royal Melbourne Hospital), The University of Melbourne, Royal Parade, Parkville, VIC, Australia. Electronic address: bridgette.semple@monash.edu.
+Department of Neuroscience, Monash University, 99 Commercial Road, Melbourne, VIC, Australia. Electronic address: akram.zamani@monash.edu.
+Florey Institute of Neuroscience and Mental Health, Melbourne Brain Centre (Austin Campus), Heidelberg, VIC, Australia; Melbourne School of Psychological Sciences, The University of Melbourne, Parkville, VIC, Australia; Comprehensive Epilepsy Program, Alfred Health, Australia. Electronic address: raynerg@unimelb.edu.au.
+Department of Neuroscience, Monash University, 99 Commercial Road, Melbourne, VIC, Australia; Department of Medicine (Royal Melbourne Hospital), The University of Melbourne, Royal Parade, Parkville, VIC, Australia. Electronic address: sandy.shultz@monash.edu.
+Department of Neuroscience, Monash University, 99 Commercial Road, Melbourne, VIC, Australia; Department of Medicine (Royal Melbourne Hospital), The University of Melbourne, Royal Parade, Parkville, VIC, Australia. Electronic address: nigel.jones@monash.edu.
+AN  - 30059725
+AU  - Semple, B. D.
+AU  - Zamani, A.
+AU  - Rayner, G.
+AU  - Shultz, S. R.
+AU  - Jones, N. C.
+C1  - Conflicts of interest None.
+C2  - PMC6348140
+C6  - NIHMS991445
+DA  - Mar
+DO  - 10.1016/j.nbd.2018.07.018
+DP  - NLM
+ET  - 20180727
+KW  - *Affect
+Animals
+Brain Injuries, Traumatic/complications/*psychology
+Epilepsy, Post-Traumatic/complications/*psychology
+Humans
+Mental Disorders/etiology/*psychology
+Neurocognitive Disorders/etiology/*psychology
+Risk Factors
+Social Behavior
+Anxiety
+Co-morbidity
+Cognition
+Depression
+Epilepsy
+Seizure
+Traumatic brain injury
+LA  - eng
+N1  - 1095-953x
+Semple, Bridgette D
+Zamani, Akram
+Rayner, Genevieve
+Shultz, Sandy R
+Jones, Nigel C
+U54 NS100064/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+United States
+2018/07/31
+Neurobiol Dis. 2019 Mar;123:27-41. doi: 10.1016/j.nbd.2018.07.018. Epub 2018 Jul 27.
+PY  - 2019
+SN  - 0969-9961 (Print)
+0969-9961
+SP  - 27-41
+ST  - Affective, neurocognitive and psychosocial disorders associated with traumatic brain injury and post-traumatic epilepsy
+T2  - Neurobiol Dis
+TI  - Affective, neurocognitive and psychosocial disorders associated with traumatic brain injury and post-traumatic epilepsy
+VL  - 123
+ID  - 51330
+ER  - 
+
+TY  - JOUR
+AB  - The traditional fields of pharmacology and toxicology are beginning to consider the substantial impact our gut microbiota has on host physiology. The microbiota-gut-brain axis is emerging as a particular area of interest and a potential new therapeutic target for effective treatment of central nervous system disorders, in addition to being a potential cause of drug side effects. Microbiota-gut-brain axis signaling can occur via several pathways, including via the immune system, recruitment of host neurochemical signaling, direct enteric nervous system routes and the vagus nerve, and the production of bacterial metabolites. Altered gut microbial profiles have been described in several psychiatric and neurological disorders. Psychobiotics, live biotherapeutics or substances whose beneficial effects on the brain are bacterially mediated, are currently being investigated as direct and/or adjunctive therapies for psychiatric and neurodevelopmental disorders and possibly for neurodegenerative disease, and they may emerge as new therapeutic options in the clinical management of brain disorders.
+AD  - APC Microbiome Ireland, University College Cork, Cork, Ireland; email: J.Cryan@ucc.ie.
+Department of Psychiatry & Neurobehavioral Science, University College Cork, Cork, Ireland.
+Teagasc Food Research Centre, Moorepark, Fermoy, Ireland.
+Department of Anatomy and Neuroscience, University College Cork, Cork, Ireland.
+AN  - 31506009
+AU  - Long-Smith, C.
+AU  - O'Riordan, K. J.
+AU  - Clarke, G.
+AU  - Stanton, C.
+AU  - Dinan, T. G.
+AU  - Cryan, J. F.
+DA  - Jan 6
+DO  - 10.1146/annurev-pharmtox-010919-023628
+DP  - NLM
+ET  - 20190910
+KW  - Animals
+Brain/microbiology/*physiopathology
+Central Nervous System Diseases/microbiology/*physiopathology/therapy
+Drug-Related Side Effects and Adverse Reactions/epidemiology/microbiology
+*Gastrointestinal Microbiome
+Humans
+Mental Disorders/microbiology/physiopathology/therapy
+Neurodegenerative Diseases/microbiology/physiopathology/therapy
+microbiota-gut-brain axis
+prebiotic
+probiotic
+psychobiotic
+LA  - eng
+N1  - 1545-4304
+Long-Smith, Caitríona
+O'Riordan, Kenneth J
+Clarke, Gerard
+Stanton, Catherine
+Dinan, Timothy G
+Cryan, John F
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+United States
+2019/09/12
+Annu Rev Pharmacol Toxicol. 2020 Jan 6;60:477-502. doi: 10.1146/annurev-pharmtox-010919-023628. Epub 2019 Sep 10.
+PY  - 2020
+SN  - 0362-1642
+SP  - 477-502
+ST  - Microbiota-Gut-Brain Axis: New Therapeutic Opportunities
+T2  - Annu Rev Pharmacol Toxicol
+TI  - Microbiota-Gut-Brain Axis: New Therapeutic Opportunities
+VL  - 60
+ID  - 51314
+ER  - 
+
+TY  - JOUR
+AB  - Dopamine receptor﻿-blocking antipsychotics, first introduced into clinical practice in 1952, were hailed as a panacea in the treatment of a number of psychiatric disorders. However, within 5 years, this notion was to be shattered by the recognition of both acute and chronic drug-induced movement disorders which can accompany their administration. Tardive syndromes, denoting the delayed onset of movement disorders following administration of dopamine receptor-blocking (and also other) drugs, have diverse manifestations ranging from the classic oro-bucco-lingual dyskinesia, through dystonic craniocervical and trunk posturing, to abnormal breathing patterns. Although tardive syndromes have been an important part of movement disorder clinical practice for over 60 years, their pathophysiologic basis remains poorly understood and the optimal treatment approach remains unclear. This review summarises the current knowledge relating to these syndromes and provides clinicians with pragmatic, clinically focused guidance to their management.
+AD  - Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK eoin.mulroy@nhs.net.
+Department of Clinical and Movement Neurosciences, UCL Queen Square Institute of Neurology, London, UK.
+Department of Neurology, University Hospital, Heidelberg, Germany.
+AN  - 32487722
+AU  - Mulroy, E.
+AU  - Balint, B.
+AU  - Bhatia, K. P.
+C1  - Competing interests: None declared.
+DA  - Oct
+DO  - 10.1136/practneurol-2020-002566
+DP  - NLM
+ET  - 20200602
+IS  - 5
+KW  - Antipsychotic Agents/*therapeutic use
+Dementia/diagnosis/drug therapy
+Disease Progression
+Humans
+*Mental Disorders/diagnosis/therapy
+*Movement Disorders/diagnosis/therapy
+Syndrome
+Dementia
+Movement disorders
+Pupils
+Supranuclear palsy
+Vision
+LA  - eng
+N1  - 1474-7766
+Mulroy, Eoin
+Balint, Bettina
+Bhatia, Kailash P
+Journal Article
+Review
+England
+2020/06/04
+Pract Neurol. 2020 Oct;20(5):368-376. doi: 10.1136/practneurol-2020-002566. Epub 2020 Jun 2.
+PY  - 2020
+SN  - 1474-7758
+SP  - 368-376
+ST  - Tardive syndromes
+T2  - Pract Neurol
+TI  - Tardive syndromes
+VL  - 20
+ID  - 51313
+ER  - 
+
+TY  - JOUR
+AB  - Autism Spectrum Disorder (ASD) and epilepsy are two neurodevelopmental disorders that have a high comorbidity rate, suggesting that a common neurodevelopmental mechanism exists. However, to date there is no conclusive way to predict whether a child will develop either syndrome or both and to what degree associated phenotypes will be affected. Failure to consistently identify predictive patterns of ASD and/or epilepsy diagnosis stems from the fact that they are etiologically heterogeneous conditions and research into their neuropathological mechanisms becomes challenging. Whole genome/exome sequencing has advanced our understanding of the genetic causes of ASD and epilepsy to an extent that currently about half of all ASD as well as epilepsy cases are known to have a genetic basis. In fact, a picture is emerging of both conditions as a collection of distinct genetically defined disorders, although the role of environmental factors has also been established. A plethora of animal models, most of them based on identified human genetic mutations and a few on known environmental causes, have been developed. Animal models provide a major experimental avenue for studying the underlying cellular and molecular mechanisms of human disorders. They also provide invaluable preclinical tools that can be used to test therapeutic approaches. In this review, we first summarize the methods for validating mouse models of ASD and epilepsy. Second, we present the current models validated for the comorbidity and finally, we recapitulate the common pathomechanisms identified in these models with special emphasis on synaptic plasticity.
+AD  - Department of Pharmacology, University of the Basque Country (UPV/EHU), Leioa 48940, Spain.
+Department of Neurosciences, University of the Basque Country (UPV/EHU), Leioa 48940, Spain; Achucarro Basque Center for Neuroscience, Leioa 48940, Spain.
+Department of Pharmacology, University of the Basque Country (UPV/EHU), Leioa 48940, Spain; Centro de Investigacion Biomédica en Red en Salud Mental (CIBERSAM), Spain. Electronic address: olga.penagarikano@ehu.eus.
+AN  - 32147509
+AU  - Sierra-Arregui, T.
+AU  - Llorente, J.
+AU  - Giménez Minguez, P.
+AU  - Tønnesen, J.
+AU  - Peñagarikano, O.
+DA  - Oct 1
+DO  - 10.1016/j.neuroscience.2020.02.043
+DP  - NLM
+ET  - 20200305
+KW  - Animals
+*Autism Spectrum Disorder/epidemiology/genetics
+Comorbidity
+*Epilepsy/epidemiology/genetics
+Neurobiology
+*Neurodevelopmental Disorders
+animal model
+autism
+epilepsy
+seizure
+social behavior
+LA  - eng
+N1  - 1873-7544
+Sierra-Arregui, Teresa
+Llorente, Javier
+Giménez Minguez, Paula
+Tønnesen, Jan
+Peñagarikano, Olga
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+United States
+2020/03/10
+Neuroscience. 2020 Oct 1;445:69-82. doi: 10.1016/j.neuroscience.2020.02.043. Epub 2020 Mar 5.
+PY  - 2020
+SN  - 0306-4522
+SP  - 69-82
+ST  - Neurobiological Mechanisms of Autism Spectrum Disorder and Epilepsy, Insights from Animal Models
+T2  - Neuroscience
+TI  - Neurobiological Mechanisms of Autism Spectrum Disorder and Epilepsy, Insights from Animal Models
+VL  - 445
+ID  - 51353
+ER  - 
+
+TY  - JOUR
+AB  - Lipids play an important role in neurodegeneration, neuroinflammation, and psychiatric disorders and an imbalance in sphingolipid levels is associated with disease. Although early diagnosis and intervention of these disorders would clearly have favorable long-term outcomes, no diagnostic tests currently exist that can accurately identify people at risk. Reliable prognostic biomarkers that are easily accessible would be beneficial to determine therapy and treatment response in clinical trials. Recent advances in lipidomic investigation methods have greatly progressed the knowledge of sphingolipids in neurodegenerative and psychiatric disorders over the past decades although more longitudinal studies are needed to understand its exact role in these disorders to be used as potential tools in the clinic. In this review, we give an overview of the current knowledge of sphingolipids in neurodegenerative and psychiatric disorders and explore recent advances in investigation methods. Finally, the potential of sphingolipid metabolism products and signaling molecules as potential biomarkers for diagnosis, prognostic, or surrogate markers of treatment response is discussed.
+AD  - Division of Neuroscience, School for Mental Health and Neuroscience, Faculty of Health, Medicine, and Life Sciences, Maastricht University, Maastricht, the Netherlands.
+LIMES Institute for Membrane Biology and Lipid Biochemistry, Kekulé-Institute, University of Bonn, Bonn, Germany.
+Department of Health Sciences Research and Department of Neurology, Mayo Clinic College of Medicine, Rochester, Minnesota, United States.
+The Maastricht Multimodal Molecular Imaging Institute (M4I), Division of Imaging Mass Spectrometry, Maastricht University, Maastricht, the Netherlands.
+Life and Health Sciences Research Institute (ICVS), ICVS/3B's, School of Medicine, University of Minho, Braga, Portugal.
+Division of Neuroscience, School for Mental Health and Neuroscience, Faculty of Health, Medicine, and Life Sciences, Maastricht University, Maastricht, the Netherlands. Electronic address: p.martinez@maastrichtuniversity.nl.
+AN  - 32360155
+AU  - van Kruining, D.
+AU  - Luo, Q.
+AU  - van Echten-Deckert, G.
+AU  - Mielke, M. M.
+AU  - Bowman, A.
+AU  - Ellis, S.
+AU  - Oliveira, T. G.
+AU  - Martinez-Martinez, P.
+C2  - PMC7665829
+C6  - NIHMS1644309
+DO  - 10.1016/j.addr.2020.04.009
+DP  - NLM
+ET  - 20200428
+KW  - Animals
+Biomarkers/metabolism
+Encephalitis/diagnosis/*metabolism/therapy
+Humans
+Lipidomics
+Mental Disorders/diagnosis/*metabolism/therapy
+Neurodegenerative Diseases/diagnosis/*metabolism/therapy
+Prognosis
+Sphingolipids/*metabolism
+Biomarkers
+Neurodegeneration
+Neuroinflammation
+Psychiatric diseases
+Sphingolipids
+Surrogate markers
+LA  - eng
+N1  - 1872-8294
+van Kruining, Daan
+Luo, Qian
+van Echten-Deckert, Gerhild
+Mielke, Michelle M
+Bowman, Andrew
+Ellis, Shane
+Oliveira, Tiago Gil
+Martinez-Martinez, Pilar
+R01 AG049704/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Review
+Netherlands
+2020/05/04
+Adv Drug Deliv Rev. 2020;159:232-244. doi: 10.1016/j.addr.2020.04.009. Epub 2020 Apr 28.
+PY  - 2020
+SN  - 0169-409X (Print)
+0169-409x
+SP  - 232-244
+ST  - Sphingolipids as prognostic biomarkers of neurodegeneration, neuroinflammation, and psychiatric diseases and their emerging role in lipidomic investigation methods
+T2  - Adv Drug Deliv Rev
+TI  - Sphingolipids as prognostic biomarkers of neurodegeneration, neuroinflammation, and psychiatric diseases and their emerging role in lipidomic investigation methods
+VL  - 159
+ID  - 51355
+ER  - 
+
+TY  - JOUR
+AB  - Oxytocin (OT) and vasopressin (AVP) are hypothalamic neuropeptides classically associated with their regulatory role in reproduction, water homeostasis, and social behaviors. Interestingly, this role has expanded in recent years and has positioned these neuropeptides as therapeutic targets for various neuropsychiatric diseases such as autism, addiction, schizophrenia, depression, and anxiety disorders. Due to the chemical-physical characteristics of these neuropeptides including short half-life, poor blood-brain barrier penetration, promiscuity for AVP and OT receptors (AVP-R, OT-R), novel ligands have been developed in recent decades. This review summarizes the role of OT and AVP in neuropsychiatric conditions, as well as the findings of different OT-R and AVP-R agonists and antagonists, used both at the preclinical and clinical level. Furthermore, we discuss their possible therapeutic potential for central nervous system (CNS) disorders.
+AD  - Centro de Investigación Biomédica y Aplicada (CIBAP), Escuela de Medicina, Facultad de Ciencias Médicas, Universidad de Santiago de Chile (USACH), Santiago 9170022, Chile.
+Facultad de Ciencias Sociales, Escuela de Psicología, Universidad Bernardo OHiggins, Santiago 8370993, Chile.
+Facultad de Ciencias de la Salud, Universidad Autónoma de Chile, Providencia 7500912, Chile.
+AN  - 34769501
+AU  - Cid-Jofré, V.
+AU  - Moreno, M.
+AU  - Reyes-Parada, M.
+AU  - Renard, G. M.
+C1  - The authors declare no conflict of interest.
+C2  - PMC8584779
+DA  - Nov 8
+DO  - 10.3390/ijms222112077
+DP  - NLM
+ET  - 20211108
+IS  - 21
+KW  - Animals
+Central Nervous System Diseases/*drug therapy/metabolism/pathology
+Drug Agonism
+Drug Antagonism
+Humans
+Mental Disorders/*drug therapy/metabolism/pathology
+Oxytocics/therapeutic use
+Oxytocin/*therapeutic use
+Vasoconstrictor Agents/therapeutic use
+Vasopressins/*therapeutic use
+agonists
+antagonists
+neuropeptides
+neuropsychiatry disorders
+oxytocin
+pharmacology
+vasopressin
+LA  - eng
+N1  - 1422-0067
+Cid-Jofré, Valeska
+Orcid: 0000-0003-2227-1023
+Moreno, Macarena
+Orcid: 0000-0001-5954-0675
+Reyes-Parada, Miguel
+Orcid: 0000-0002-2376-990x
+Renard, Georgina M
+Orcid: 0000-0002-5439-7547
+POSTDOC_DICYT, 022101RP/University of Santiago Chile/
+5392102RP- ACDicyt/University of Santiago Chile/
+DICYT, Código Proyecto N°022101RSSA/University of Santiago Chile/
+Journal Article
+Review
+Switzerland
+2021/11/14
+Int J Mol Sci. 2021 Nov 8;22(21):12077. doi: 10.3390/ijms222112077.
+PY  - 2021
+SN  - 1422-0067
+ST  - Role of Oxytocin and Vasopressin in Neuropsychiatric Disorders: Therapeutic Potential of Agonists and Antagonists
+T2  - Int J Mol Sci
+TI  - Role of Oxytocin and Vasopressin in Neuropsychiatric Disorders: Therapeutic Potential of Agonists and Antagonists
+VL  - 22
+ID  - 51318
+ER  - 
+
+TY  - JOUR
+AB  - Although many patients diagnosed with traumatic brain injury (TBI), particularly mild TBI, recover from their symptoms within a few weeks, a small but meaningful subset experience symptoms that persist for months or years after injury and significantly impact quality of life for the person and their family. Factors associated with an increased likelihood of negative TBI outcomes include not only characteristics of the injury and injury mechanism, but also the person's age, pre-injury status, comorbid conditions, environment, and propensity for resilience. In this article, as part of the Brain Trauma Blueprint: TBI State of the Science framework, we examine the epidemiology of long-term outcomes of TBI, including incidence, prevalence, and risk factors. We identify the need for increased longitudinal, global, standardized, and validated assessments on incidence, recovery, and treatments, as well as standardized assessments of the influence of genetics, race, ethnicity, sex, and environment on TBI outcomes. By identifying how epidemiological factors contribute to TBI outcomes in different groups of persons and potentially impact differential disease progression, we can guide investigators and clinicians toward more-precise patient diagnosis, along with tailored management, and improve clinical trial designs, data evaluation, and patient selection criteria.
+AD  - Division of Injury Prevention, National Center for Injury Prevention and Control, Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+Informatics, Decision-Enhancement and Analytic Sciences Center, VA Salt Lake City, Salt Lake City, Utah, USA.
+Department of Internal Medicine, Division of Epidemiology, University of Utah School of Medicine, Salt Lake City, Utah, USA.
+Cohen Veterans Bioscience, New York, New York, USA.
+Department of Neurology, University of California San Francisco, San Francisco, California, USA.
+San Francisco Veterans Affairs Medical Center, San Francisco, California, USA.
+Departments of Epidemiology/Biostatistics and Psychiatry, University of California San Francisco, San Francisco, California, USA.
+AN  - 33947273
+AU  - Haarbauer-Krupa, J.
+AU  - Pugh, M. J.
+AU  - Prager, E. M.
+AU  - Harmon, N.
+AU  - Wolfe, J.
+AU  - Yaffe, K.
+C1  - Author Disclosure Statement No competing financial interests exist.
+C2  - PMC9122127
+C6  - NIHMS1806978
+DA  - Dec
+DO  - 10.1089/neu.2021.0062
+DP  - NLM
+ET  - 20210817
+IS  - 23
+KW  - *Brain Injuries, Traumatic/complications/epidemiology
+*Clinical Trials as Topic
+*Cognitive Dysfunction/epidemiology/etiology
+*Dementia/epidemiology/etiology
+Humans
+*Mental Disorders/epidemiology/etiology
+*Research Design
+clinical trial designs
+epidemiology
+patient selection criteria
+traumatic brain injury
+LA  - eng
+N1  - 1557-9042
+Haarbauer-Krupa, Juliet
+Pugh, Mary Jo
+Prager, Eric M
+Harmon, Nicole
+Wolfe, Jessica
+Yaffe, Kristine
+CC999999/ImCDC/Intramural CDC HHS/United States
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+United States
+2021/05/06
+J Neurotrauma. 2021 Dec;38(23):3235-3247. doi: 10.1089/neu.2021.0062. Epub 2021 Aug 17.
+PY  - 2021
+SN  - 0897-7151 (Print)
+0897-7151
+SP  - 3235-3247
+ST  - Epidemiology of Chronic Effects of Traumatic Brain Injury
+T2  - J Neurotrauma
+TI  - Epidemiology of Chronic Effects of Traumatic Brain Injury
+VL  - 38
+ID  - 51311
+ER  - 
+
+TY  - JOUR
+AB  - There is growing interest in imaging multiple sclerosis (MS) through the ultra-high-field (UHF) lens, which currently means a static magnetic field strength of 7 T or higher. Because of higher signal-to-noise ratio and enhanced susceptibility effects, UHF magnetic resonance imaging improves conspicuity of MS pathological hallmarks, among them cortical demyelination and the central vein sign. This could, in turn, improve confidence in MS diagnosis and might also facilitate therapeutic monitoring of MS patients. Furthermore, UHF imaging offers unique insight into iron-related pathology, leptomeningeal inflammation, and spinal cord pathologies in neuroinflammation. Yet, limitations such as the longer scanning times to achieve improved resolution and incipient safety data on implanted medical devices need to be considered. In this review, we discuss applications of UHF imaging in MS, its advantages and limitations, and practical aspects of UHF in the clinical setting.
+AD  - From the Translational Neuroradiology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD.
+Department of Neuroradiology, Clinical Neuroscience Center, University Hospital Zurich, University of Zurich, Zurich, Switzerland.
+AN  - 34120128
+AU  - Ineichen, B. V.
+AU  - Beck, E. S.
+AU  - Piccirelli, M.
+AU  - Reich, D. S.
+C1  - Conflicts of interest and sources of funding: none declared.
+C2  - PMC8505164
+DA  - Nov 1
+DO  - 10.1097/rli.0000000000000804
+DP  - NLM
+IS  - 11
+KW  - Humans
+Magnetic Resonance Imaging
+*Multiple Sclerosis/diagnostic imaging
+Signal-To-Noise Ratio
+LA  - eng
+N1  - 1536-0210
+Ineichen, Benjamin V
+Beck, Erin S
+Piccirelli, Marco
+Reich, Daniel S
+Journal Article
+Research Support, N.I.H., Intramural
+Research Support, Non-U.S. Gov't
+Review
+United States
+2021/06/14
+Invest Radiol. 2021 Nov 1;56(11):773-784. doi: 10.1097/RLI.0000000000000804.
+PY  - 2021
+SN  - 0020-9996 (Print)
+0020-9996
+SP  - 773-784
+ST  - New Prospects for Ultra-High-Field Magnetic Resonance Imaging in Multiple Sclerosis
+T2  - Invest Radiol
+TI  - New Prospects for Ultra-High-Field Magnetic Resonance Imaging in Multiple Sclerosis
+VL  - 56
+ID  - 51347
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Coexisting mental health disorders in persons with epilepsy present as substantial burdens to patients and healthcare systems. STUDY DESIGN AND METHODS: In this retrospective study, we reviewed 160 patients presenting to a safety net hospital Emergency Department (ED) with seizures to investigate whether differences in clinical workup, follow-ups, and ED visit recurrence existed between epilepsy patients with epilepsy with and without a coexisting psychiatric disorder. RESULTS: Patients with epilepsy with a psychiatric comorbidity had more subsequent ED visits (45 % vs 26 %, p = 0.01) and fewer outpatient follow-up opportunities (74 % vs 87 %, p = 0.042) compared to patients with epilepsy without psychiatric comorbidities, highlighting a healthcare gap that needs to be addressed. INTERPRETATION: Our findings suggest a need for ED providers to shift their clinical practice in favor of offering more outpatient follow-up opportunities, to ensure long-term management of seizures in patients with epilepsy with comorbid psychiatric disorders.
+AD  - UT Southwestern Medical School, 5323 Harry Hines Blvd, Dallas, TX 75390, USA. Electronic address: ashleigh.chuah@utsouthwestern.edu.
+UT Southwestern Medical Center, Department of Neurology, 5323 Harry Hines Blvd, Dallas, TX 75390, USA. Electronic address: kan.ding@utsouthwestern.edu.
+UT Southwestern Medical School, 5323 Harry Hines Blvd, Dallas, TX 75390, USA. Electronic address: anika.morgado@vumc.org.
+UT Southwestern Medical Center, Department of Neurology, 5323 Harry Hines Blvd, Dallas, TX 75390, USA. Electronic address: morgan.mccreary@utsouthwestern.edu.
+UT Southwestern Medical School, 5323 Harry Hines Blvd, Dallas, TX 75390, USA. Electronic address: Fatima.zuberi@utsouthwestern.edu.
+UT Southwestern Medical Center, Department of Neurology, 5323 Harry Hines Blvd, Dallas, TX 75390, USA. Electronic address: mark.agostini@utsouthwestern.edu.
+UT Southwestern Medical Center, Department of Neurology, 5323 Harry Hines Blvd, Dallas, TX 75390, USA. Electronic address: alexander.doyle@utsouthwestern.edu.
+AN  - 36152383
+AU  - Chuah, A.
+AU  - Ding, K.
+AU  - Morgado, A.
+AU  - McCreary, M.
+AU  - Zuberi, F.
+AU  - Agostini, M.
+AU  - Doyle, A.
+C1  - Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+DA  - Nov
+DO  - 10.1016/j.yebeh.2022.108909
+DP  - NLM
+ET  - 20220921
+KW  - Humans
+Retrospective Studies
+Comorbidity
+*Epilepsy/complications/epidemiology/therapy
+Emergency Service, Hospital
+*Mental Disorders/complications/epidemiology/therapy
+Seizures/complications
+Clinical management
+Follow-up
+Seizure
+LA  - eng
+N1  - 1525-5069
+Chuah, Ashleigh
+Ding, Kan
+Morgado, Anika
+McCreary, Morgan
+Zuberi, Fatima
+Agostini, Mark
+Doyle, Alexander
+Journal Article
+Review
+United States
+2022/09/25
+Epilepsy Behav. 2022 Nov;136:108909. doi: 10.1016/j.yebeh.2022.108909. Epub 2022 Sep 21.
+PY  - 2022
+SN  - 1525-5050
+SP  - 108909
+ST  - Effects of psychiatric comorbidities in persons with epilepsy on recurrent emergency department visits
+T2  - Epilepsy Behav
+TI  - Effects of psychiatric comorbidities in persons with epilepsy on recurrent emergency department visits
+VL  - 136
+ID  - 51319
+ER  - 
+
+TY  - JOUR
+AB  - It is uncontested that perivascular spaces play critical roles in maintaining homeostasis and priming neuroinflammation. However, despite more than a century of intense research on perivascular spaces, many open questions remain about the anatomical compartment surrounding blood vessels within the CNS. The goal of this comprehensive review is to summarize the literature on perivascular spaces in human neuroinflammation and associated animal disease models. We describe the cell types taking part in the morphological and functional aspects of perivascular spaces and how those spaces can be visualized. Based on this, we propose a model of the cascade of events occurring during neuroinflammatory pathology. We also discuss current knowledge gaps and limitations of the available evidence. An improved understanding of perivascular spaces could advance our comprehension of the pathophysiology of neuroinflammation and open a new therapeutic window for neuroinflammatory diseases such as multiple sclerosis.
+AD  - Translational Neuroradiology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD 20892, USA; Department of Neuroradiology, Clinical Neuroscience Center, University Hospital Zurich, University of Zurich, Zurich, Switzerland; Center for Reproducible Science, University of Zurich, Zurich, Switzerland. Electronic address: benjaminvictor.ineichen@uzh.ch.
+Translational Neuroradiology Section, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, MD 20892, USA.
+Theodor Kocher Institute, University of Bern, Bern, Switzerland.
+Department of Neuroimmunology, Center for Brain Research, Medical University of Vienna, Spitalgasse 4, 1090 Vienna, Austria.
+AN  - 36327898
+AU  - Ineichen, B. V.
+AU  - Okar, S. V.
+AU  - Proulx, S. T.
+AU  - Engelhardt, B.
+AU  - Lassmann, H.
+AU  - Reich, D. S.
+C1  - Declaration of interests The authors declare no conflicts of interest related to the conduct of this study.
+C2  - PMC9905791
+C6  - NIHMS1845446
+DA  - Nov 2
+DO  - 10.1016/j.neuron.2022.10.024
+DP  - NLM
+IS  - 21
+KW  - Humans
+*Magnetic Resonance Imaging
+*Neuroinflammatory Diseases
+Virchow-Robin spaces
+multiple sclerosis
+neuroinflammation
+paravascular spaces
+perivascular spaces
+review
+LA  - eng
+N1  - 1097-4199
+Ineichen, Benjamin V
+Okar, Serhat V
+Proulx, Steven T
+Engelhardt, Britta
+Lassmann, Hans
+Reich, Daniel S
+Z99 NS999999/Intramural NIH HHS/United States
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+United States
+2022/11/04
+Neuron. 2022 Nov 2;110(21):3566-3581. doi: 10.1016/j.neuron.2022.10.024.
+PY  - 2022
+SN  - 0896-6273 (Print)
+0896-6273
+SP  - 3566-3581
+ST  - Perivascular spaces and their role in neuroinflammation
+T2  - Neuron
+TI  - Perivascular spaces and their role in neuroinflammation
+VL  - 110
+ID  - 51345
+ER  - 
+
+TY  - JOUR
+AB  - Cognitive impairment and dementia affect dozens of millions of people worldwide and cause significant distress to patients and caregivers and a financial burden to families and health care systems. Careful history-taking, cognitive and physical examination, and supplemental neuroimaging and fluid-based biomarkers can accurately diagnose neurocognitive disorders. Management includes non-pharmacological and pharmacological treatments tailored to the etiology and to the individual.
+AD  - Department of Psychiatry, Yale School of Medicine, 300 George Street, Suite 901, New Haven, CT 06511, USA. Electronic address: nicolas.perez-palmer@yale.edu.
+Department of Psychiatry, Yale School of Medicine, 300 George Street, Suite 901, New Haven, CT 06511, USA.
+Banner Alzheimer's Institute, 901 East Willeta Street, Phoenix, AZ 85006, USA; Department of Psychiatry, University of Arizona College of Medicine-Phoenix, 475 North 5th, Phoenix, AZ 85004, USA.
+AN  - 36396270
+AU  - Pérez Palmer, N.
+AU  - Trejo Ortega, B.
+AU  - Joshi, P.
+C1  - Disclosure No conflicts of interest.
+DA  - Dec
+DO  - 10.1016/j.psc.2022.07.010
+DP  - NLM
+ET  - 20221014
+IS  - 4
+KW  - Humans
+Aged
+*Dementia/diagnosis/epidemiology/therapy
+*Cognitive Dysfunction/diagnosis/epidemiology/therapy
+Caregivers/psychology
+Neurocognitive Disorders
+Neuroimaging
+Alzheimer’s disease
+Assessment
+Dementia
+Frontotemporal dementia
+Mild cognitive impairment (MCI)
+Neurocognitive disorder
+Treatment
+Vascular dementia
+LA  - eng
+N1  - 1558-3147
+Pérez Palmer, Nicolás
+Trejo Ortega, Barbara
+Joshi, Pallavi
+Journal Article
+Review
+United States
+2022/11/18
+Psychiatr Clin North Am. 2022 Dec;45(4):639-661. doi: 10.1016/j.psc.2022.07.010. Epub 2022 Oct 14.
+PY  - 2022
+SN  - 0193-953x
+SP  - 639-661
+ST  - Cognitive Impairment in Older Adults: Epidemiology, Diagnosis, and Treatment
+T2  - Psychiatr Clin North Am
+TI  - Cognitive Impairment in Older Adults: Epidemiology, Diagnosis, and Treatment
+VL  - 45
+ID  - 51307
+ER  - 
+
+TY  - JOUR
+AB  - Vascular cognitive impairment (VCI) is predominately caused by vascular risk factors and cerebrovascular disease. VCI includes a broad spectrum of cognitive disorders, from mild cognitive impairment to vascular dementia caused by ischemic or hemorrhagic stroke, and vascular factors alone or in a combination with neurodegeneration including Alzheimer's disease (AD) and AD-related dementia. VCI accounts for at least 20-40% of all dementia diagnosis. Growing evidence indicates that cerebrovascular pathology is the most important contributor to dementia, with additive or synergistic interactions with neurodegenerative pathology. The most common underlying mechanism of VCI is chronic age-related dysregulation of CBF, although other factors such as inflammation and cardiovascular dysfunction play a role. Vascular risk factors are prevalent in VCI and if measured in midlife they predict cognitive impairment and dementia in later life. Particularly, hypertension, high cholesterol, diabetes, and smoking at midlife are each associated with a 20 to 40% increased risk of dementia. Control of these risk factors including multimodality strategies with an inclusion of lifestyle modification is the most promising strategy for treatment and prevention of VCI. In this review, we present recent developments in age-related VCI, its mechanisms, diagnostic criteria, neuroimaging correlates, vascular risk determinants, and current intervention strategies for prevention and treatment of VCI. We have also summarized the most recent and relevant literature in the field of VCI.
+AD  - Department of Neurology and Evelyn F. McKnight Brain Institute, University of Miami Miller School of Medicine, Miami, FL, USA. trundek@med.mimai.edu.
+Department of Neurology and Evelyn F. McKnight Brain Institute, University of Miami Miller School of Medicine, Miami, FL, USA.
+AN  - 34939171
+AU  - Rundek, T.
+AU  - Tolea, M.
+AU  - Ariko, T.
+AU  - Fagerli, E. A.
+AU  - Camargo, C. J.
+C2  - PMC9130444
+DA  - Jan
+DO  - 10.1007/s13311-021-01170-y
+DP  - NLM
+ET  - 20211222
+IS  - 1
+KW  - *Alzheimer Disease/complications
+*Cerebrovascular Disorders/complications/therapy
+*Cognition Disorders/etiology
+*Cognitive Dysfunction/diagnosis/etiology/therapy
+*Dementia, Vascular/diagnosis/epidemiology/etiology
+Humans
+Biomarkers
+Cognition
+Neuroimaging
+Small vessel disease
+Vascular cognitive impairment
+Vascular risk factors
+LA  - eng
+N1  - 1878-7479
+Rundek, Tatjana
+Orcid: 0000-0002-7115-9815
+Tolea, Magdalena
+Ariko, Taylor
+Fagerli, Eric A
+Camargo, Christian J
+Journal Article
+Review
+United States
+2021/12/24
+Neurotherapeutics. 2022 Jan;19(1):68-88. doi: 10.1007/s13311-021-01170-y. Epub 2021 Dec 22.
+PY  - 2022
+SN  - 1933-7213 (Print)
+1878-7479
+SP  - 68-88
+ST  - Vascular Cognitive Impairment (VCI)
+T2  - Neurotherapeutics
+TI  - Vascular Cognitive Impairment (VCI)
+VL  - 19
+ID  - 51306
+ER  - 
+
+TY  - JOUR
+AB  - This review deals with an unwelcome reality about several forms of dementia, including Alzheimer's disease- that these dementias are caused, in part or whole, by the aging of the vasculature. Since the vasculature ages in us all, dementia is our fate, sealed by the realit!ies of the circulation; it is not a disease with a cure pending. Empirically, cognitive impairment before our 7th decade is uncommon and considered early, while a diagnosis in our 11th decade is late but common in that cohort (>40%). Projections from earlier ages suggest that the prevalence of dementia in people surviving into their 12th decade exceeds 80%. We address the question why so few of many interventions known to delay dementia are recognized as therapy; and we try to resolve this few-and-many paradox, identifying opportunities for better treatment, especially pre-diagnosis. The idea of dementia as a fate is resisted, we argue, because it negates the hope of a cure. But the price of that hope is lost opportunity. An approach more in line with the evidence, and more likely to limit suffering, is to understand the damage that accumulates with age in the cerebral vasculature and therefore in the brain, and which eventually gives rise to cognitive symptoms in late life, too often leading to dementia. We argue that hope should be redirected to delaying that damage and with it the onset of cognitive loss; and, for each individual, it should be redirected to a life-long defense of their brain.
+AD  - Faculty of Medicine and Health, University of Sydney, Camperdown, NSW, Australia.
+School of Medical Sciences and Faculty of Medicine and Health, University of Sydney, Camperdown, NSW, Australia.
+AN  - 37248910
+AU  - Andersson, M. J.
+AU  - Stone, J.
+DO  - 10.3233/jad-230429
+DP  - NLM
+IS  - 1
+KW  - Humans
+*Dementia/epidemiology/therapy/etiology
+Brain
+*Alzheimer Disease/diagnosis
+*Cognitive Dysfunction/complications
+Aging
+Alzheimer’s disease
+cerebral vasculature
+chronic traumatic encephalopathy
+dementia
+dementia pugilistica
+traumatic brain injury
+LA  - eng
+N1  - 1875-8908
+Andersson, Marcus J
+Stone, Jonathan
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Netherlands
+2023/05/30
+J Alzheimers Dis. 2023;94(1):51-66. doi: 10.3233/JAD-230429.
+PY  - 2023
+SN  - 1387-2877
+SP  - 51-66
+ST  - Best Medicine for Dementia: The Life-Long Defense of the Brain
+T2  - J Alzheimers Dis
+TI  - Best Medicine for Dementia: The Life-Long Defense of the Brain
+VL  - 94
+ID  - 51322
+ER  - 
+
+TY  - JOUR
+AB  - Lewy Body Dementia is the second most frequent neurodegenerative illness proven to cause dementia, after Alzheimer's disease (AD). It is believed to be vastly underdiagnosed, as there is a significant disparity between the number of cases diagnosed clinically and those diagnosed via neuropathology at the time of postmortem autopsy. Strikingly, many of the pharmacologic treatments used to treat behavioral and cognitive symptoms in other forms of dementia exacerbate the symptoms of DLB. Therefore, it is critical to accurately diagnose DLB as these patients require a specific treatment approach. This article focuses on its pathophysiology, risk factors, differentials, and its diverse treatment modalities. In this study, an English language literature search was conducted on Medline, Cochrane, Embase, and Google Scholar till April 2022. The following search strings and Medical Subject Headings (MeSH) terms were used: "Lewy Body Dementia," "Dementia with Lewy bodies," and "Parkinson's Disease Dementia." We explored the literature on Lewy Body Dementia for its epidemiology, pathophysiology, the role of various genes and how they bring about the disease, biomarkers, its differential diagnoses and treatment options.
+AD  - Faculty of Medicine, National Pirogov Memorial Medical University, 21018, Vinnytsya, Ukraine. Electronic address: sakshiprasad8@gmail.com.
+Gandhi Medical College, Hyderabad, Telangana, India.
+Kasturba Medical College, Manipal, Karnataka, India.
+Guangxi Medical University, Nanning, Guangxi, China.
+Sri Venkateshwara Medical College, Tirupati, India.
+Alfaisal University College of Medicine, Riyadh, Saudi Arabia.
+Government Medical College, Amritsar, India.
+Department of Psychiatry and Behavioral Sciences, University of Texas Health Sciences Center, Houston, Texas, United States of America.
+AN  - 35690493
+AU  - Prasad, S.
+AU  - Katta, M. R.
+AU  - Abhishek, S.
+AU  - Sridhar, R.
+AU  - Valisekka, S. S.
+AU  - Hameed, M.
+AU  - Kaur, J.
+AU  - Walia, N.
+DA  - May
+DO  - 10.1016/j.disamonth.2022.101441
+DP  - NLM
+ET  - 20220609
+IS  - 5
+KW  - Humans
+*Lewy Body Disease/diagnosis/therapy/complications
+*Dementia/diagnosis/etiology/therapy
+*Parkinson Disease/complications
+*Alzheimer Disease/diagnosis/etiology/therapy
+Diagnosis, Differential
+Dementia with Lewy bodies
+Lewy body dementia
+Parkinson disease dementia
+Synucleinopathies
+LA  - eng
+N1  - 1557-8194
+Prasad, Sakshi
+Katta, Maanya Rajasree
+Abhishek, Shuchi
+Sridhar, Rishala
+Valisekka, Sai Sudha
+Hameed, Maha
+Kaur, Jasneet
+Walia, Namrata
+Journal Article
+Review
+United States
+2022/06/12
+Dis Mon. 2023 May;69(5):101441. doi: 10.1016/j.disamonth.2022.101441. Epub 2022 Jun 9.
+PY  - 2023
+SN  - 0011-5029
+SP  - 101441
+ST  - Recent advances in Lewy body dementia: A comprehensive review
+T2  - Dis Mon
+TI  - Recent advances in Lewy body dementia: A comprehensive review
+VL  - 69
+ID  - 51310
+ER  - 
+

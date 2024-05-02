@@ -1,0 +1,2470 @@
+﻿TY  - JOUR
+AB  - The case of a young, unmarried boy, who had moderate mental retardation, epilepsy, and post-ictal psychosis, is described here. During the psychosis, he believed he was pregnant, and had related behavioural disturbances. The review of other such cases reveals that organic brain damage was evident in all cases. Brain damage seems to be the more likely causative factor than psychodynamic factors.
+AD  - National Institute of Mental Health and Neuro Sciences, Bangalore, India.
+AN  - 2513079
+AU  - Chaturvedi, S. K.
+DA  - May
+DO  - 10.1192/bjp.154.5.716
+DP  - NLM
+KW  - Adult
+Brain Damage, Chronic/psychology
+Delusions/*psychology
+Epilepsies, Partial/psychology
+Female
+Humans
+Intellectual Disability/psychology
+Middle Aged
+Neurocognitive Disorders/*psychology
+Pregnancy/*psychology
+LA  - eng
+N1  - Chaturvedi, S K
+Case Reports
+Journal Article
+Review
+England
+1989/05/01
+Br J Psychiatry. 1989 May;154:716-8. doi: 10.1192/bjp.154.5.716.
+PY  - 1989
+SN  - 0007-1250 (Print)
+0007-1250
+SP  - 716-8
+ST  - Delusions of pregnancy in men. Case report and review of the literature
+T2  - Br J Psychiatry
+TI  - Delusions of pregnancy in men. Case report and review of the literature
+VL  - 154
+ID  - 51192
+ER  - 
+
+TY  - JOUR
+AB  - Closed head injuries in adolescents are a common problem with potentially disastrous consequences to multiple areas of functioning. Through a case presentation and literature review, this paper considers treatment issues and research applications in an adolescent population with closed head injuries. Suggestions for understanding the symptom constellations are made and directions for future research and service delivery are given.
+AD  - University of Toronto, Ontario.
+AN  - 2282616
+AU  - Reiter, S.
+AU  - Kutcher, S. P.
+DA  - Nov
+DO  - 10.1177/070674379003500804
+DP  - NLM
+IS  - 8
+KW  - Adolescent
+Brain Concussion/diagnosis/*psychology
+Brain Damage, Chronic/diagnosis/*psychology
+Depressive Disorder/diagnosis/*psychology
+Humans
+Male
+Neuropsychological Tests
+Suicide, Attempted/psychology
+LA  - eng
+N1  - Reiter, S
+Kutcher, S P
+Case Reports
+Journal Article
+Review
+United States
+1990/11/01
+Can J Psychiatry. 1990 Nov;35(8):669-73. doi: 10.1177/070674379003500804.
+PY  - 1990
+SN  - 0706-7437 (Print)
+0706-7437
+SP  - 669-73
+ST  - The head injured adolescent: a case report and review of the issues
+T2  - Can J Psychiatry
+TI  - The head injured adolescent: a case report and review of the issues
+VL  - 35
+ID  - 51190
+ER  - 
+
+TY  - JOUR
+AB  - Efavirenz is a nonnucleoside reverse transcriptase inhibitor that can be given with other antiretroviral agents for the treatment of human immunodeficiency virus infection. A 47-year-old man with acquired immunodeficiency syndrome developed severe depression and suicidal ideation necessitating psychiatric hospitalization and antidepressant therapy. The symptoms occurred in temporal relation to the introduction of efavirenz into his highly active antiretroviral therapy regimen. Similar serious psychiatric adverse effects have been associated with this agent. Clinicians should monitor for central nervous system adverse effects in all patients taking efavirenz.
+AD  - Department of Psychiatry, San Francisco General Hospital, California 94110, USA.
+AN  - 12126226
+AU  - Puzantian, T.
+DA  - Jul
+DO  - 10.1592/phco.22.11.930.33624
+DP  - NLM
+IS  - 7
+KW  - *AIDS Dementia Complex/chemically induced/psychology
+Alkynes
+Antiretroviral Therapy, Highly Active/adverse effects
+Benzoxazines
+Cyclopropanes
+Humans
+Male
+*Mental Disorders/chemically induced/psychology
+Middle Aged
+Oxazines/*adverse effects
+LA  - eng
+N1  - Puzantian, Talia
+Case Reports
+Journal Article
+Review
+United States
+2002/07/20
+Pharmacotherapy. 2002 Jul;22(7):930-3. doi: 10.1592/phco.22.11.930.33624.
+PY  - 2002
+SN  - 0277-0008 (Print)
+0277-0008
+SP  - 930-3
+ST  - Central nervous system adverse effects with efavirenz: case report and review
+T2  - Pharmacotherapy
+TI  - Central nervous system adverse effects with efavirenz: case report and review
+VL  - 22
+ID  - 51146
+ER  - 
+
+TY  - JOUR
+AB  - Language disturbances are common features occurring in different neurodegenerative diseases, including Alzheimer's disease (AD) and the Frontotemporal Lobar Degeneration (FTLD) variants Primary Progressive Aphasia (PPA) and Semantic Dementia (SD). Despite AD and FTLD are supposed to have a different pathophysiology, PPA has been demonstrated to have in some cases an AD pathological component. The syndromic and etiological heterogeneity is crucial for the differential diagnosis and consequently for a therapeutical approach. Here, the case of a patient with progressive isolated language disturbances is presented, and further discussed on the basis of current diagnostic criteria and available guidelines for treatment.
+AD  - Dept. of Neurological Sciences, Dino Ferrari Center, University of Milan, IRCCS Ospedale Maggiore Policlinico, Via F. Sforza 35, 20122, Milan, Italy. elio.scarpini@unimi.it
+AN  - 16249006
+AU  - Scarpini, E.
+AU  - Galimberti, D.
+AU  - Guidi, I.
+AU  - Bresolin, N.
+AU  - Scheltens, P.
+DA  - Jan 15
+DO  - 10.1016/j.jns.2005.09.006
+DP  - NLM
+ET  - 20051024
+IS  - 1-2
+KW  - Aged
+Alzheimer Disease/complications/pathology
+Aphasia, Primary Progressive/diagnosis/*physiopathology
+Cerebral Cortex/pathology
+Dementia/*complications/pathology
+Diagnosis, Differential
+Humans
+Male
+Mental Status Schedule/statistics & numerical data
+Neuropsychological Tests/statistics & numerical data
+Positron-Emission Tomography/methods
+LA  - eng
+N1  - Scarpini, Elio
+Galimberti, Daniela
+Guidi, Ilaria
+Bresolin, Nereo
+Scheltens, Philip
+Case Reports
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Netherlands
+2005/10/27
+J Neurol Sci. 2006 Jan 15;240(1-2):45-51. doi: 10.1016/j.jns.2005.09.006. Epub 2005 Oct 24.
+PY  - 2006
+SN  - 0022-510X (Print)
+0022-510x
+SP  - 45-51
+ST  - Progressive, isolated language disturbance: its significance in a 65-year-old-man. A case report with implications for treatment and review of literature
+T2  - J Neurol Sci
+TI  - Progressive, isolated language disturbance: its significance in a 65-year-old-man. A case report with implications for treatment and review of literature
+VL  - 240
+ID  - 51189
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The apolipoprotein E (APOE) epsilon2 allele has been suggested as having a protective effect and delaying the age at onset of Alzheimer disease. OBJECTIVE: To describe a dissociation between neuropathologic findings with normal cognition in a woman with severe Alzheimer disease with the APOE epsilon2/epsilon2 genotype. DESIGN: Case report from a community-based prospective study of persons 90 years or older (The 90+ Study). PARTICIPANT: A 92-year-old woman without dementia with the APOE epsilon2/epsilon2 genotype who lived independently without significant cognitive or functional loss and was a participant in The 90+ Study. She died in December 2004, and postmortem examination of her brain was performed. INTERVENTION: Neurologic examination and a battery of neuropsychological tests were performed 6 months and 1 month before death. Neuropathologic examination included Braak and Braak staging for senile plaques and neurofibrillary tangles. RESULTS: Neuropathologic examination of the brain revealed advanced senile plaque and neurofibrillary tangle disease consistent with a high likelihood of Alzheimer disease. At clinical evaluation, the participant demonstrated no dementia and only mild cognitive deficits. CONCLUSIONS: The APOE genotype may have contributed to maintenance of cognition despite advanced neuropathologic findings of Alzheimer disease. This case suggests that the APOE epsilon2 isoform may have a protective effect against cognitive decline in Alzheimer disease that may be independent from senile plaques and neurofibrillary tangles.
+AD  - Institute of Brain Aging and Dementia, University of California, Irvine, 1515 Hewitt Hall, Irvine, CA 92697-1400, USA. danb@uci.edu
+AN  - 17698712
+AU  - Berlau, D. J.
+AU  - Kahle-Wrobleski, K.
+AU  - Head, E.
+AU  - Goodus, M.
+AU  - Kim, R.
+AU  - Kawas, C.
+C2  - PMC3378248
+C6  - NIHMS382727
+DA  - Aug
+DO  - 10.1001/archneur.64.8.1193
+DP  - NLM
+IS  - 8
+KW  - Aged, 80 and over
+Alzheimer Disease/diagnosis/*genetics/pathology/*psychology
+Apolipoprotein E2/*genetics
+Brain/*pathology
+*Cognition
+Female
+Genotype
+Humans
+Neurofibrillary Tangles/pathology
+Neurologic Examination
+Neuropsychological Tests
+Plaque, Amyloid/pathology
+LA  - eng
+N1  - 1538-3687
+Berlau, Daniel J
+Kahle-Wrobleski, Kristin
+Head, Elizabeth
+Goodus, Matthew
+Kim, Ronald
+Kawas, Claudia
+R01 AG021055/AG/NIA NIH HHS/United States
+R01-AG21055/AG/NIA NIH HHS/United States
+Case Reports
+Journal Article
+Research Support, N.I.H., Extramural
+United States
+2007/08/19
+Arch Neurol. 2007 Aug;64(8):1193-6. doi: 10.1001/archneur.64.8.1193.
+PY  - 2007
+SN  - 0003-9942 (Print)
+0003-9942
+SP  - 1193-6
+ST  - Dissociation of neuropathologic findings and cognition: case report of an apolipoprotein E epsilon2/epsilon2 genotype
+T2  - Arch Neurol
+TI  - Dissociation of neuropathologic findings and cognition: case report of an apolipoprotein E epsilon2/epsilon2 genotype
+VL  - 64
+ID  - 51184
+ER  - 
+
+TY  - JOUR
+AB  - Psychiatric disorders, notably mood and anxiety disorders, are frequently associated with migraine and chronic daily headaches. The obsessive-compulsive disorder (OCD) is included in the spectrum of anxiety disorders and may be a comorbid condition in headache patients. However, little information has been reported in the literature about this association. This is an important issue as OCD may contribute to the development or maintenance of treatment-resistant chronic headaches. In this paper, we describe a young female patient with refractory chronic migraine and OCD. Considerations on diagnosis, management and treatment of these comorbid conditions are presented.
+AD  - Headache Clinic, University Hospital, School of Medicine, Federal University of Minas Gerais (UFMG), Belo Horizonte, Brazil.
+AN  - 18802664
+AU  - Vasconcelos, L. P.
+AU  - Silva, M. C.
+AU  - Costa, E. A.
+AU  - da Silva Júnior, A. A.
+AU  - Gómez, R. S.
+AU  - Teixeira, A. L.
+C2  - PMC3452082
+DA  - Dec
+DO  - 10.1007/s10194-008-0069-z
+DP  - NLM
+ET  - 20080919
+IS  - 6
+KW  - Adolescent
+Female
+Flunarizine/therapeutic use
+Humans
+*Migraine Disorders/complications/diagnosis/therapy
+*Obsessive-Compulsive Disorder/complications/diagnosis/therapy
+Vasodilator Agents/therapeutic use
+LA  - eng
+N1  - 1129-2377
+Vasconcelos, Luiz Paulo Bastos
+Silva, Melissa Costa
+Costa, Esther Angélica Coelho
+da Silva Júnior, Ariovaldo Alberto
+Gómez, Rodrigo Santiago
+Teixeira, Antônio Lúcio
+Journal Article
+England
+2008/09/20
+J Headache Pain. 2008 Dec;9(6):397-400. doi: 10.1007/s10194-008-0069-z. Epub 2008 Sep 19.
+PY  - 2008
+SN  - 1129-2369 (Print)
+1129-2369
+SP  - 397-400
+ST  - Obsessive compulsive disorder and migraine: case report, diagnosis and therapeutic approach
+T2  - J Headache Pain
+TI  - Obsessive compulsive disorder and migraine: case report, diagnosis and therapeutic approach
+VL  - 9
+ID  - 51158
+ER  - 
+
+TY  - JOUR
+AB  - Creutzfeldt-Jakob disease (CJD) is the most common transmissible human spongiform encephalopathy. Seizures and status epilepticus (SE) are an uncommon finding in CJD. We report a 64-year-old woman with rapid cognitive decline who had electroencephalographic (EEG) changes suggestive of nonconvulsive status epilepticus (NCSE). She was later diagnosed with sporadic CJD (sCJD). We also reviewed the literature for published cases on this topic. MEDLINE was employed to identify all published reports of CJD and SE. We identified 8 references with a total of 12 cases with CJD and NCSE. sCJD should be considered in the differential diagnosis of any patient who presents with rapid cognitive decline and EEG changes consistent with status epilepticus.
+AD  - Department of Neurology, University of Kentucky College of Medicine, Lexington, KY 40536-0284, USA. ps.espinosa@cien-ecuador.org
+AN  - 20430517
+AU  - Espinosa, P. S.
+AU  - Bensalem-Owen, M. K.
+AU  - Fee, D. B.
+DA  - Jul
+DO  - 10.1016/j.clineuro.2010.03.025
+DP  - NLM
+ET  - 20100428
+IS  - 6
+KW  - Adult
+Aged
+Anxiety Disorders/etiology/psychology
+Creutzfeldt-Jakob Syndrome/*complications/psychology
+Electroencephalography
+Female
+Humans
+Hypertension/etiology
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Status Epilepticus/*etiology
+Urinary Tract Infections/complications
+LA  - eng
+N1  - 1872-6968
+Espinosa, Patricio S
+Bensalem-Owen, Meriem K
+Fee, Dominic B
+Case Reports
+Journal Article
+Review
+Netherlands
+2010/05/01
+Clin Neurol Neurosurg. 2010 Jul;112(6):537-40. doi: 10.1016/j.clineuro.2010.03.025. Epub 2010 Apr 28.
+PY  - 2010
+SN  - 0303-8467
+SP  - 537-40
+ST  - Sporadic Creutzfeldt-Jakob disease presenting as nonconvulsive status epilepticus case report and review of the literature
+T2  - Clin Neurol Neurosurg
+TI  - Sporadic Creutzfeldt-Jakob disease presenting as nonconvulsive status epilepticus case report and review of the literature
+VL  - 112
+ID  - 51194
+ER  - 
+
+TY  - JOUR
+AB  - The spectrum of the possible manifestations of Langerhans' cell histiocytosis in children is very wide, ranging from a simple rash to major multiorgan disease. There may be hypothalamic and pituitary dysfunction or more global neurological and neuropsychiatric manifestations when the central nervous system is affected. The cerebellum is preferentially affected for yet undetermined reasons. The clinical presentation includes motor dysfunction as well as cognitive, behavioral, and psychiatric expression of the ongoing neurodegeneration. We report a young patient with Langerhans' cell histiocytosis who underwent an unusual course of psychiatric deterioration.
+AD  - Pediatric Neurology and Developmental Unit, Loewenstein Rehabilitation Hospital, Raanana, Israel. aviva100@bezeqint.net
+AN  - 20595698
+AU  - Mimouni-Bloch, A.
+AU  - Schneider, C.
+AU  - Politi, K. E.
+AU  - Konen, O.
+AU  - Gothelf, D.
+AU  - Stark, B.
+AU  - Yaniv, I.
+AU  - Shuper, A.
+DA  - Jul
+DO  - 10.1177/0883073809351317
+DP  - NLM
+IS  - 7
+KW  - Brain/pathology
+Brain Diseases/*complications/pathology/therapy
+Histiocytosis, Langerhans-Cell/*complications/pathology/therapy
+Humans
+Magnetic Resonance Imaging
+Male
+Mental Disorders/*complications/pathology/therapy
+Young Adult
+LA  - eng
+N1  - 1708-8283
+Mimouni-Bloch, Aviva
+Schneider, Carolina
+Politi, Keren Elishkevitz
+Konen, Osnat
+Gothelf, Doron
+Stark, Batia
+Yaniv, Isaac
+Shuper, Avinoam
+Case Reports
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+United States
+2010/07/03
+J Child Neurol. 2010 Jul;25(7):884-7. doi: 10.1177/0883073809351317.
+PY  - 2010
+SN  - 0883-0738
+SP  - 884-7
+ST  - Neuropsychiatric manifestations in Langerhans' cell histiocytosis disease: a case report and review of the literature
+T2  - J Child Neurol
+TI  - Neuropsychiatric manifestations in Langerhans' cell histiocytosis disease: a case report and review of the literature
+VL  - 25
+ID  - 51165
+ER  - 
+
+TY  - JOUR
+AB  - Degeneration of cholinergic receptors causes memory disorders and irreversible impairment in cognitive functions, whose advancement can lead to clinically recognizable Alzheimer's disease (AD). Very often, the first symptoms of AD are mood swings and hence depression should be excluded by differential diagnosis since it can also cause memory disorders and cognitive deficits. Due to the characteristic clinical picture of AD, its diagnosis should not be a problem, except at the very beginning of the disease. Many AD patients are never diagnosed and therefore are not adequately treated in clinical practice. Agents used for general anaesthesia reduce cholinergic transmission, which is manifested by loss of consciousness, pain, voluntary movements and memory. In patients with compromised memory and cognitive functionality, general anaesthesia can postoperatively have an adverse effect on the prognosis of degenerative cerebral disease. A patient is described whose preoperative impaired memory and cognitive functioning deteriorated after general anaesthesia and whose clinical picture reached the extent of AD.
+AD  - Psychiatric Hospital Sveti Ivan, HR- 10090 Zagreb, Croatia. pbsvi@pbsvi.hr
+AN  - 20562790
+AU  - Presecki, P.
+AU  - Mihanović, M.
+AU  - Mimica, N.
+DA  - Jun
+DP  - NLM
+IS  - 2
+KW  - Alzheimer Disease/*chemically induced/diagnosis/psychology
+Anesthesia, General/*adverse effects
+Brain Diseases, Metabolic/*chemically induced/diagnosis/psychology
+Diagnosis, Differential
+Disease Progression
+Follow-Up Studies
+Humans
+Male
+Mental Status Schedule
+Middle Aged
+Neuropsychological Tests
+LA  - eng
+N1  - Presecki, Paola
+Mihanović, Mate
+Mimica, Ninoslav
+Case Reports
+Journal Article
+Croatia
+2010/06/22
+Psychiatr Danub. 2010 Jun;22(2):385-6.
+PY  - 2010
+SN  - 0353-5053 (Print)
+0353-5053
+SP  - 385-6
+ST  - Cognitive impairment and general anaesthesia - Case report
+T2  - Psychiatr Danub
+TI  - Cognitive impairment and general anaesthesia - Case report
+VL  - 22
+ID  - 51171
+ER  - 
+
+TY  - JOUR
+AB  - Major depressive disorder (MDD) with psychotic features is relatively frequent in patients with greater depressive symptom severity and is associated with a poorer course of illness and greater functional impairment than MDD without psychotic features. Multiple studies have found that patients with psychotic mood disorders demonstrate significantly poorer cognitive performance in a variety of areas than those with nonpsychotic mood disorders. The Mini Mental State Examination (MMSE) and the Dementia Rating Scale, Second Edition (DRS-2) are widely used to measure cognitive functions in research on MDD with psychotic features. Established total raw score cut-offs of 24 on the MMSE and 137 on the DRS-2 in published manuals suggest possible global cognitive impairment and dementia, respectively. Limited research is available on these suggested cut-offs for patients with MDD with psychotic features. We document the therapeutic benefit of electroconvulsive therapy (ECT), which is usually associated with short-term cognitive impairment, in a 68-year-old woman with psychotic depression whose MMSE and DRS-2 scores initially suggested possible global cognitive impairment and dementia. Over the course of four ECT treatments, the patient's MMSE scores progressively increased. After the second ECT treatment, the patient no longer met criteria for global cognitive impairment. With each treatment, depression severity, measured by the 24-item Hamilton Rating Scale for Depression, improved sequentially. Thus, the suggested cut-off scores for the MMSE and the DRS-2 in patients with MDD with psychotic features may in some cases produce false-positive indications of dementia.
+AD  - Wake Forest University Baptist Medical Center, Winston-Salem, NC, USA.
+AN  - 22108402
+AU  - Wagner, G. S.
+AU  - McClintock, S. M.
+AU  - Rosenquist, P. B.
+AU  - McCall, W. V.
+AU  - Kahn, D. A.
+C2  - PMC3572511
+C6  - NIHMS350803
+DA  - Nov
+DO  - 10.1097/01.pra.0000407968.57475.ab
+DP  - NLM
+IS  - 6
+KW  - Aged
+Cognition Disorders/complications/psychology/therapy
+Dementia/complications/*diagnosis/psychology
+Depressive Disorder, Major/*complications/therapy
+Diagnosis, Differential
+Diagnostic Errors/*prevention & control
+Electroconvulsive Therapy
+Female
+Humans
+Neuropsychological Tests
+Psychiatric Status Rating Scales
+Psychometrics
+Psychotic Disorders/*complications/psychology/therapy
+Severity of Illness Index
+LA  - eng
+N1  - 1538-1145
+Wagner, Gerhardt S
+McClintock, Shawn M
+Rosenquist, Peter B
+McCall, W Vaughn
+Kahn, David A
+K23 MH087739/MH/NIMH NIH HHS/United States
+U01 MH084241/MH/NIMH NIH HHS/United States
+1U01MH086127-01/MH/NIMH NIH HHS/United States
+Case Reports
+Journal Article
+Research Support, N.I.H., Extramural
+Review
+United States
+2011/11/24
+J Psychiatr Pract. 2011 Nov;17(6):432-8. doi: 10.1097/01.pra.0000407968.57475.ab.
+PY  - 2011
+SN  - 1527-4160 (Print)
+1527-4160
+SP  - 432-8
+ST  - Major depressive disorder with psychotic features may lead to misdiagnosis of dementia: a case report and review of the literature
+T2  - J Psychiatr Pract
+TI  - Major depressive disorder with psychotic features may lead to misdiagnosis of dementia: a case report and review of the literature
+VL  - 17
+ID  - 51174
+ER  - 
+
+TY  - JOUR
+AB  - Postictal psychoses are common comorbid conditions of temporal lobe epilepsy and are reported to be characterized by affective changes. However, postictal psychoses are rare among patients with idiopathic generalized epilepsy, and the causal relationship between postictal psychoses and idiopathic generalized epilepsy is unknown. Here, we report the case of a man who had idiopathic generalized epilepsy and experienced 4 episodes of schizophrenia-like interictal psychosis before the age of 41 years. At the age of 56 years, he experienced a generalized tonic-clonic seizure for the first time in 15 years and developed psychotic symptoms on the next day. Notably, in addition to the schizophrenia-like symptoms, the patient experienced mania-like symptoms such as elated mood, grandiose delusions, agitation, and pressured speech during the last psychotic episode in the postictal period. It was suspected that postictal neuronal processes and a predisposition to endogenous psychosis both contributed to the psychopathology of this episode.
+AD  - Department of Psychiatry, National Center of Neurology and Psychiatry, National Center Hospital, Kodaira, Tokyo, Japan. sakakibara-tky@umin.ac.jp
+AN  - 22652424
+AU  - Sakakibara, E.
+AU  - Nishida, T.
+AU  - Sugishita, K.
+AU  - Jinde, S.
+AU  - Inoue, Y.
+AU  - Kasai, K.
+DA  - Jul
+DO  - 10.1016/j.yebeh.2012.04.127
+DP  - NLM
+ET  - 20120529
+IS  - 3
+KW  - Brain/physiopathology
+Electroencephalography
+Epilepsy, Generalized/*complications/physiopathology
+Humans
+Male
+Middle Aged
+Psychotic Disorders/complications/*diagnosis/physiopathology
+Schizophrenia/complications/*diagnosis/physiopathology
+LA  - eng
+N1  - 1525-5069
+Sakakibara, Eisuke
+Nishida, Takuji
+Sugishita, Kazuyuki
+Jinde, Seiichiro
+Inoue, Yushi
+Kasai, Kiyoto
+Case Reports
+Journal Article
+Review
+United States
+2012/06/02
+Epilepsy Behav. 2012 Jul;24(3):373-6. doi: 10.1016/j.yebeh.2012.04.127. Epub 2012 May 29.
+PY  - 2012
+SN  - 1525-5050
+SP  - 373-6
+ST  - Acute psychosis during the postictal period in a patient with idiopathic generalized epilepsy: postictal psychosis or aggravation of schizophrenia? A case report and review of the literature
+T2  - Epilepsy Behav
+TI  - Acute psychosis during the postictal period in a patient with idiopathic generalized epilepsy: postictal psychosis or aggravation of schizophrenia? A case report and review of the literature
+VL  - 24
+ID  - 51176
+ER  - 
+
+TY  - JOUR
+AB  - Sporadic Creutzfeldt-Jakob disease is a rare neurodegenerative disorder of unknown etiology that causes rapidly progressive dementia. This disease is uniformly fatal and most patients die within 12 months. Clinical findings include myoclonus, visual disturbances, and cerebellar and pyramidal/extrapyramidal signs in addition to rapidly progressive cognitive and functional impairment. These findings are all non-specific and it is often difficult and challenging to diagnose premortem because of low awareness and clinical suspicion. We present a 66-year-old woman with a 5-month history of rapidly progressive dementia. After a series of extensive diagnostic examinations and continuous follow-up, she was diagnosed with probable sporadic Creutzfeldt-Jakob disease based on Centers for Disease Control and Prevention (CDC) criteria, with key findings of rapidly progressive dementia, blurry vision, extrapyramidal signs (cogwheel rigidity), and abnormal hyperintensity signals on diffusion-weighted MRI. Her symptoms progressively worsened and she died 7 months after the onset. The postmortem brain autopsy demonstrated the presence of abnormal protease-resistant prion protein by Western Blot analysis. A literature review was performed on differential diagnoses that present with rapidly progressive dementia and thereby mimic sporadic Creutzfeldt-Jakob disease. These include Alzheimer's disease, dementia with Lewy Bodies, frontotemporal dementia, meningoencephalitis, corticobasal degeneration, progressive supranuclear palsy, CADASIL, and paraneoplastic encephalomyelitis.
+AD  - The John A. Hartford Foundation Center of Excellence in Geriatrics, Department of Geriatric Medicine, John A. Burns School of Medicine, University of Hawai'i, Honolulu, HI 96817, USA.
+AN  - 23795314
+AU  - Kojima, G.
+AU  - Tatsuno, B. K.
+AU  - Inaba, M.
+AU  - Velligas, S.
+AU  - Masaki, K.
+AU  - Liow, K. K.
+C2  - PMC3689509
+DA  - Apr
+DP  - NLM
+IS  - 4
+KW  - Aged
+Brain/*pathology
+Creutzfeldt-Jakob Syndrome/*diagnosis/pathology/physiopathology
+Diagnosis, Differential
+Fatal Outcome
+Female
+Humans
+Prions/*pathogenicity
+prion disease
+rapidly progressing dementia
+sporadic Creutzfeldt-Jakob disease
+LA  - eng
+N1  - 2165-8242
+Kojima, Gotaro
+Tatsuno, Brent K
+Inaba, Michiko
+Velligas, Stephanie
+Masaki, Kamal
+Liow, Kore K
+Case Reports
+Journal Article
+Review
+United States
+2013/06/26
+Hawaii J Med Public Health. 2013 Apr;72(4):136-9.
+PY  - 2013
+SN  - 2165-8218 (Print)
+2165-8242
+SP  - 136-9
+ST  - Creutzfeldt-Jakob disease: a case report and differential diagnoses
+T2  - Hawaii J Med Public Health
+TI  - Creutzfeldt-Jakob disease: a case report and differential diagnoses
+VL  - 72
+ID  - 51151
+ER  - 
+
+TY  - JOUR
+AB  - We present the case of a patient with multiple system atrophy with predominant cerebellar ataxia (MSA-C) in the early stage of the disease, who was assessed using a comprehensive neuropsychological test battery. Many studies have found cognitive deficits in MSA patients assessed after 2-3 years, but not in the first stages of the disease. The aim of this paper is to stress the importance of a complete neuropsychological assessment, even at the initial stage of the disease, when instrumental examinations are not able to show cortical involvement and daily life activities have not been affected. The neuropsychological tests examined general cognition, verbal and visual memory, visuospatial and constructional ability, language, executive function, depression and functional autonomy. Results showed cognitive deficits in executive functions, above all in the control and inhibition of automatic response, planning and reasoning abilities, memory and visuoconstructional functions. However, these problems did not affect the patient's autonomy in everyday life. MRI scan showed the involvement of the cerebellum and the fibers of the pons and raphe, with normal cerebral ventricles and sulci. The cognitive deficits in our patient could be explained by a disruption in cerebrocerebellum connections between the frontal areas and the cerebellar structures. These results show that a more comprehensive cognitive evaluation is necessary to detect early the onset of neuropsychological deficits, also in order to begin in time adequate rehabilitation programs.
+AD  - a IRCCS S. Maugeri Foundation , Cassano Murge , Italy.
+AN  - 22978465
+AU  - Spaccavento, S.
+AU  - Del Prete, M.
+AU  - Loverre, A.
+AU  - Craca, A.
+AU  - Nardulli, R.
+DO  - 10.1080/13554794.2012.713494
+DP  - NLM
+ET  - 20120917
+IS  - 6
+KW  - Cerebellar Ataxia/complications/psychology
+Cognition/*physiology
+Cognition Disorders/*diagnosis/etiology/psychology
+Female
+Humans
+Memory/*physiology
+Middle Aged
+Multiple System Atrophy/complications/*psychology
+Neuropsychological Tests
+LA  - eng
+N1  - 1465-3656
+Spaccavento, Simona
+Del Prete, Marina
+Loverre, Anna
+Craca, Angela
+Nardulli, Roberto
+Case Reports
+Journal Article
+England
+2012/09/18
+Neurocase. 2013;19(6):613-22. doi: 10.1080/13554794.2012.713494. Epub 2012 Sep 17.
+PY  - 2013
+SN  - 1355-4794
+SP  - 613-22
+ST  - Multiple system atrophy with early cognitive deficits: a case report
+T2  - Neurocase
+TI  - Multiple system atrophy with early cognitive deficits: a case report
+VL  - 19
+ID  - 51161
+ER  - 
+
+TY  - JOUR
+AB  - The clinical differentiation between simple partial epileptic seizures of temporal lobe origin and panic attacks is often difficult on clinical grounds alone, because both conditions are characterized by common symptomatology which includes the feeling of fear, autonomic system dysfunction, disorientation and alternation of the level of consciousness when these conditions evolve clinically. The symptoms stem from common pathophysiologic and anatomic substrates of these two conditions, localized in the limbic system, especially the amygdala. We present the case of a young woman who had a febrile seizure in childhood and subsequent episodes of fear accompanied by tremor and possible alteration of consciousness followed by headache. These spells were diagnosed as panic attacks during her teenage years and she was given Clobazam in order to suppress them. The patient responded well for several years without attacks but her symptoms reappeared following discontinuation of her medication in order to conceive. At that time a detailed history was taken from her spouse and further clinical evaluation raised the suspicion of seizures especially due to the fact that her spells were characterized by alteration of consciousness; she was therefore referred for additional investigations which included admission to a monitoring unit for epilepsy. Long-term video-EEG recording revealed the presence of simple partial seizures with secondary generalization confirming the clinical impression. She was subsequently treated with antiepileptic medications; however the patient's condition worsened to the point where she became pharmacoresistant having failed several antiepileptic drug trials in monotherapy or combination. An MRI scan of the brain revealed the presence of right-sided mesial temporal sclerosis, a known consequence of febrile seizures. Her seizures were nocturnal tonic-clonic and gradually worsened to the point of occurring during most nights. She was therefore referred for a presurgical evaluation which confirmed that the epileptic focus was associated with the area of mesial temporal sclerosis. The epileptic focus was successfully removed from the right anterior temporal lobe and since then she remained free of seizures whereas, in addition, the presumed symptoms of panic attacks also resolved. This case indicates the occasional difficulty in diagnosing simple partial seizures and how it may be confused with psychiatric conditions. Therefore, the treating physician, especially the psychiatrist, should remain vigilant when treating cases of panic attacks, especially when they present with either atypical symptomatology, such as the case described, or when they do not respond to appropriately chosen treatment; such cases may warrant referral for further investigation.
+AD  - Clinical Sciences, The Cyprus Institute of Neurology & Genetics, Nicosia.
+Department of Psychology, University of Nicosia, Nicosia, Cyprus.
+AN  - 25367666
+AU  - Papacostas, S. S.
+AU  - Myrianthopoulou, P.
+AU  - Georgiades, S.
+AU  - Papathanasiou, E. S.
+DA  - Jul-Sep
+DP  - NLM
+IS  - 3
+KW  - Adolescent
+Diagnosis, Differential
+Diagnostic Errors
+Drug Resistant Epilepsy/*diagnosis/*therapy
+Electroencephalography
+Epilepsies, Partial/diagnosis
+Female
+Humans
+Magnetic Resonance Imaging
+Panic Disorder/*diagnosis/therapy
+LA  - eng
+N1  - Papacostas, S S
+Myrianthopoulou, P
+Georgiades, S
+Papathanasiou, E S
+Journal Article
+Greece
+2014/11/05
+Psychiatriki. 2014 Jul-Sep;25(3):217-21.
+PY  - 2014
+SN  - 1105-2333 (Print)
+1105-2333
+SP  - 217-21
+ST  - Pharmacoresistant partial-onset epilepsy misdiagnosed as panic disorder: a case report
+T2  - Psychiatriki
+TI  - Pharmacoresistant partial-onset epilepsy misdiagnosed as panic disorder: a case report
+VL  - 25
+ID  - 51163
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this case report is to underline the importance of possible legal consequences of the behavioral variant of frontotemporal dementia (bvFTD). This disease is associated with antisocial behavior, impulse control disorder and cognitive and personality impairment, which are often the earliest manifestations of the bvFTD. One of the antisocial behaviors possibly associated with this neurodegenerative disease is pathological stealing. This case report is about a 50-year-old Italian man who had a regular life until 2010. In 2010 and 2011, some critical events occurred: he lost his job, his father-in-law, to whom he was particularly close, died, and his wife had a serious illness. He began to show symptoms of depression, a significant weight loss, apathy, poor self-care, and lack of interest in the activities of his family. He became disengaged from his prior activities, emotionally detached from his family and developed compulsive hoarding. Moreover, he had uninhibited behaviors, a memory retrieval deficit, executive dysfunctions and impulsive behaviors. In January 2012, the subject began stealing objects, particularly components of computer, without premeditation or concern for resulting legal actions. He was then diagnosed affected by bvFTD. He was charged with theft and attempted theft and the Court asked for a psychiatric evaluation, in order to analyze the effect of the neurodegenerative disease on his behavior. To answer to the Court, the Authors analyzed his history of life and made a mental examination. The subject was considered mentally insane at the time of his crimes. This is an example of the practical application in judicial cases of the latest knowledge and evidence in the literature about the frontotemporal dementia, a disease associated with antisocial behaviors that could create tensions with the criminal law. The focus of the paper is to explain how the behavioral symptoms of bvFTD can have legal implications and how to deal with legal aspects of the behaviors induced by a neuro-psychiatric condition, such as bvFTD.
+AD  - Department of Biotechnologies and Life Sciences, University of Insubria, Varese-Como, Italy.
+Department of Biotechnologies and Life Sciences, University of Insubria, Varese-Como, Italy. Electronic address: l.re@uninsubria.it.
+AN  - 27143117
+AU  - Birkhoff, J. M.
+AU  - Garberi, C.
+AU  - Re, L.
+DA  - Jul-Aug
+DO  - 10.1016/j.ijlp.2016.04.001
+DP  - NLM
+ET  - 20160430
+KW  - Antisocial Personality Disorder/*diagnosis/*psychology
+Cognitive Dysfunction/*diagnosis/*psychology
+Disruptive, Impulse Control, and Conduct Disorders/*diagnosis/*psychology
+Expert Testimony/legislation & jurisprudence
+Frontotemporal Dementia/*diagnosis/*psychology
+Humans
+Insanity Defense
+Male
+Middle Aged
+Neuropsychological Tests
+Personality Disorders/*diagnosis/*psychology
+Theft/*legislation & jurisprudence/*psychology
+Antisocial behavior
+Frontotemporal dementia
+Pathological stealing
+LA  - eng
+N1  - 1873-6386
+Birkhoff, Jutta Maria
+Garberi, Cesare
+Re, Laura
+Case Reports
+Journal Article
+Review
+Netherlands
+2016/05/05
+Int J Law Psychiatry. 2016 Jul-Aug;47:157-63. doi: 10.1016/j.ijlp.2016.04.001. Epub 2016 Apr 30.
+PY  - 2016
+SN  - 0160-2527
+SP  - 157-63
+ST  - The behavioral variant of frontotemporal dementia: An analysis of the literature and a case report
+T2  - Int J Law Psychiatry
+TI  - The behavioral variant of frontotemporal dementia: An analysis of the literature and a case report
+VL  - 47
+ID  - 51147
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Reports of manic episodes associated with the use of cholinesterase inhibitors (including donepezil) are limited. Despite the previous notion of procholinergic drugs potentially inducing depression, the contemporary evidence for cholinesterase inhibitors appears to also indicate a trend for elevated mood (in patients with or without a history of depressive disorder). METHOD: Case report. RESULTS: The authors report a case of a manic episode with psychotic features associated with the up-titration of donepezil in a patient with Alzheimer's disease and a distant history of major depression but without a preexisting bipolar disorder. CONCLUSION: Pathophysiology of donepezil-induced mania appears to contradict the traditional cholinergic-adrenergic hypothesis. Donepezil-associated mania should be suspected after donepezil initiation/dose up-titration when correlated to new onset of mania. Donepezil should be used more cautiously in patients with current or previous mood episodes or in those who are otherwise at high risk for manic episodes (e.g., cerebrovascular disease). Although this requires further investigation in different patient populations, there may be subtypes of older patients with neurocognitive disorders who are particularly vulnerable to activation effects of cholinesterase inhibitors.
+AD  - Department of Psychiatry and Behavioural Neurosciences, Division of Geriatric Psychiatry, Michael G. DeGroote School of Medicine, Faculty of Health Sciences, McMaster University, Hamilton, ON, Canada. Electronic address: ahategan@stjosham.on.ca.
+Department of Psychiatry/Langley Porter Psychiatric Institute, Consultation/Liaison Service, University of California San Francisco Medical Center, San Francisco, CA, USA.
+AN  - 26598289
+AU  - Hategan, A.
+AU  - Bourgeois, J. A.
+DA  - Jan-Feb
+DO  - 10.1016/j.genhosppsych.2015.09.004
+DP  - NLM
+ET  - 20150925
+KW  - Affective Disorders, Psychotic/*chemically induced
+Aged
+Alzheimer Disease/*drug therapy/psychology
+Bipolar Disorder/*chemically induced
+Depressive Disorder, Major/psychology
+Donepezil
+Female
+Humans
+Indans/*adverse effects
+Nootropic Agents/*adverse effects
+Piperidines/*adverse effects
+Cholinesterase inhibitors
+Dementia
+Mania
+Neurocognitive disorders
+LA  - eng
+N1  - 1873-7714
+Hategan, Ana
+Bourgeois, James A
+Case Reports
+Journal Article
+Review
+United States
+2015/11/26
+Gen Hosp Psychiatry. 2016 Jan-Feb;38:115.e1-4. doi: 10.1016/j.genhosppsych.2015.09.004. Epub 2015 Sep 25.
+PY  - 2016
+SN  - 0163-8343
+SP  - 115.e1-4
+ST  - Donepezil-associated manic episode with psychotic features: a case report and review of the literature
+T2  - Gen Hosp Psychiatry
+TI  - Donepezil-associated manic episode with psychotic features: a case report and review of the literature
+VL  - 38
+ID  - 51160
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: Synucleinopathy, tauopathy and amyloidopathy were classified as distinct clinical and pathological entities in traditional classification systems, and their interactions have been studied on neuropathology and molecular genetics recently. CASE REPORT: In this report, we present a 69-year-old male patient who had been diagnosed with probable Alzheimer's disease (AD) dementia due to progressive forgetfulness in February 2013. His Mini- Mental State Examination score was 21/30, and his Cognitive Abilities Screening Instrument score was 78/100, resulted from profound deficits in recent memory and abstract thinking domains. Initial brain magnetic resonance imaging (MRI) showed bilateral medial temporal lobe atrophy but was otherwise unremarkable. He presented with new-onset progressive gait disturbance 18 months after the diagnosis of AD, and mild ataxic gait and linear hyperintensity within the midline of the pons on axial T2-weighted MRI were documented. Neither extrapyramidal nor autonomic signs were observed. Ten months later, profound cerebellar signs, urinary incontinence, and mild axial rigidity consistent with the hot cross bun (HCB) sign were noted. Probable multiple system atrophy-cerebellar (MSA-C) type was finally diagnosed by the clinical and neuroimaging features. Of note, his diagnoses of AD and HCB sign predated the diagnosis of MSA-C by 28 and 10 months, respectively. CONCLUSION: Given that the HCB sign rarely predates overt symptoms or a diagnosis of MSA, we hypothesized that the preexisting amyloidopathy and tauopathy exerted additional neurotoxicity on the synucleinopathy. Key Words: Multiple system atrophy, hot cross bun sign, Alzheimer's disease.
+AD  - Departments of Neurology, Taichung Tzu-Chi Hospital, Buddhist Tzu-Chi Medical Foundation, Taichung, Taiwan.
+Departments of Radiology, Taichung Tzu-Chi Hospital, Buddhist Tzu-Chi Medical Foundation, Taichung, Taiwan.
+AN  - 28382615
+AU  - Lin, C. W.
+AU  - Tseng, C. Y.
+AU  - Lo, C. P.
+AU  - Tu, M. C.
+DA  - Dec 15
+DP  - NLM
+KW  - Aged
+Alzheimer Disease/*complications/diagnostic imaging/*pathology
+Humans
+Male
+Multiple System Atrophy/*complications/diagnostic imaging/*pathology
+LA  - eng
+N1  - Lin, Chi-Wei
+Tseng, Chi-Yu
+Lo, Chung-Ping
+Tu, Min-Chien
+Case Reports
+Journal Article
+China (Republic : 1949- )
+2017/04/07
+Acta Neurol Taiwan. 2016 Dec 15;25(4):152-159.
+PY  - 2016
+SN  - 1028-768X (Print)
+1028-768x
+SP  - 152-159
+ST  - A Case of Multiple System Atrophy with Preexisting Alzheimer's Disease and Predating The Hot Cross Bun Sign
+T2  - Acta Neurol Taiwan
+TI  - A Case of Multiple System Atrophy with Preexisting Alzheimer's Disease and Predating The Hot Cross Bun Sign
+VL  - 25(4)
+ID  - 51172
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Creutzfeldt-Jacob disease (CJD) is a human prion disease generally characterized by subacute changes in behavior and intellectual function, often followed by ataxia, vision changes, and myoclonus. Ten percent of cases may present atypically, both symptomatically and in respect to initial investigations. METHODS: We report a case of CJD mimicking acute stroke and review all similar cases in the magnetic resonance imaging era reported in English, identified through a PubMed and SCOPUS search. RESULTS: A 68-year-old woman presented with an acute left parietal syndrome, initially referred as a left middle cerebral artery territory stroke. Structural imaging was unremarkable and focal electroencephalogram changes suggested nonconvulsive status epilepticus. Subsequent clinical progression, with the development of cortical high signal on diffusion-weighted imaging and positive 14-3-3 protein in the cerebrospinal fluid, confirmed a diagnosis of CJD. Review of the literature identified 14 further cases mimicking both anterior and posterior stroke syndromes. CONCLUSIONS: CJD develops primarily within a population in whom stroke risk factors are common and represents a rare but important stroke mimic. Negative vascular imaging in elderly patients with apparent acute stroke syndromes should prompt diagnostic review including consideration of prion diseases.
+AD  - *Mater Health Services North Queensland †Department of Neurology, The Townsville Hospital, Townsville, Qld, Australia.
+AN  - 28248914
+AU  - Sharma, D. K.
+AU  - Boggild, M.
+AU  - van Heuven, A. W.
+AU  - White, R. P.
+DA  - Mar
+DO  - 10.1097/nrl.0000000000000107
+DP  - NLM
+IS  - 2
+KW  - Aged
+Brain/diagnostic imaging
+Cognition Disorders/diagnostic imaging/*etiology
+Creutzfeldt-Jakob Syndrome/*complications/diagnostic imaging
+Disease Progression
+Electroencephalography
+Female
+Humans
+Magnetic Resonance Imaging
+Stroke/diagnostic imaging/*etiology
+LA  - eng
+N1  - 2331-2637
+Sharma, Divya K
+Boggild, Mike
+van Heuven, Annemarie W
+White, Richard P
+Case Reports
+Journal Article
+Review
+Systematic Review
+United States
+2017/03/02
+Neurologist. 2017 Mar;22(2):48-53. doi: 10.1097/NRL.0000000000000107.
+PY  - 2017
+SN  - 1074-7931
+SP  - 48-53
+ST  - Creutzfeldt-Jakob Disease Presenting as Stroke: A Case Report and Systematic Literature Review
+T2  - Neurologist
+TI  - Creutzfeldt-Jakob Disease Presenting as Stroke: A Case Report and Systematic Literature Review
+VL  - 22
+ID  - 51149
+ER  - 
+
+TY  - JOUR
+AB  - Neurosyphilis has various clinical manifestations depending upon the stage of illness. However, it is not readily considered a differential diagnosis in early onset dementia and behavioral disturbances. This case report describes a patient presenting with disorganized behavior and later diagnosed with dementia in which neurosyphilis was found causative. This is followed by a pragmatic review of the diagnosis and treatment options for neurosyphilis.
+AD  - Department of Psychiatry, Postgraduate Institute of Medical Education and Research, Chandigarh-160012, India; Department of Medical Microbiology, Postgraduate Institute of Medical Education and Research, Chandigarh-160012, India. Electronic address: shubhmohan@gmail.com.
+Department of Psychiatry, Postgraduate Institute of Medical Education and Research, Chandigarh-160012, India; Department of Medical Microbiology, Postgraduate Institute of Medical Education and Research, Chandigarh-160012, India. Electronic address: ravi82000@yahoo.com.
+Department of Psychiatry, Postgraduate Institute of Medical Education and Research, Chandigarh-160012, India; Department of Medical Microbiology, Postgraduate Institute of Medical Education and Research, Chandigarh-160012, India. Electronic address: nityabatra51@gmail.com.
+Department of Psychiatry, Postgraduate Institute of Medical Education and Research, Chandigarh-160012, India; Department of Medical Microbiology, Postgraduate Institute of Medical Education and Research, Chandigarh-160012, India. Electronic address: sunilsethi10@hotmail.com.
+AN  - 28738261
+AU  - Singh, S. M.
+AU  - Sharma, R.
+AU  - Batra, N.
+AU  - Sethi, S.
+DA  - Dec
+DO  - 10.1016/j.ajp.2017.07.015
+DP  - NLM
+ET  - 20170713
+KW  - Dementia/*diagnosis/etiology
+Humans
+Male
+Middle Aged
+Neurosyphilis/complications/*diagnosis
+Early onset dementia
+Infective etiology
+Neglected diagnosis
+Neurosyphilis
+Psychiatric manifestations
+LA  - eng
+N1  - 1876-2026
+Singh, Shubh Mohan
+Sharma, Ravi
+Batra, Nitya
+Sethi, Sunil
+Case Reports
+Letter
+Netherlands
+2017/07/25
+Asian J Psychiatr. 2017 Dec;30:47-48. doi: 10.1016/j.ajp.2017.07.015. Epub 2017 Jul 13.
+PY  - 2017
+SN  - 1876-2018
+SP  - 47-48
+ST  - Neurosyphilis: An underdiagnosed entity
+T2  - Asian J Psychiatr
+TI  - Neurosyphilis: An underdiagnosed entity
+VL  - 30
+ID  - 51169
+ER  - 
+
+TY  - JOUR
+AB  - A 54-year-old woman, retired due to progressive cognitive decline, was diagnosed with early-onset Alzheimer dementia. Conventional medication therapy for dementia had proven futile. Initial evaluation revealed a nonverbal female seated in a wheelchair, dependent on 2-person assist for all transfers and activities of daily living. She had been either nonresponsive or actively resistive for both activities of daily living and transfers in the 6 months before assessment. After a total of 17 1-hour therapy sessions over 19 weeks in a warm water therapy pool, she achieved the ability to tread water for 15 minutes, transfers improved to moderate-to-maximum assist from seated, and ambulation improved to 1000 feet with minimum-to-moderate assist of 2 persons. Communication increased to appropriate "yes," "no," and "okay" appropriate responses, and an occasional "thank you" and "very nice." The authors propose that her clinical progress may be related to her aquatic therapy intervention. LEVEL OF EVIDENCE: IV.
+AD  - University of Washington School of Medicine, 13125 S. Fairway Ridge Lane, Spokane, WA 99224.
+Goodyear, AZ.
+AN  - 28918118
+AU  - Becker, B. E.
+AU  - Lynch, S.
+DA  - Apr
+DO  - 10.1016/j.pmrj.2017.09.001
+DP  - NLM
+ET  - 20170914
+IS  - 4
+KW  - *Activities of Daily Living
+Cognition/physiology
+Dementia/diagnosis/physiopathology/*rehabilitation
+Female
+Humans
+Hydrotherapy/*methods
+Middle Aged
+Severity of Illness Index
+LA  - eng
+N1  - 1934-1563
+Becker, Bruce E
+Lynch, Stacy
+Case Reports
+Journal Article
+United States
+2017/09/18
+PM R. 2018 Apr;10(4):437-441. doi: 10.1016/j.pmrj.2017.09.001. Epub 2017 Sep 14.
+PY  - 2018
+SN  - 1934-1482
+SP  - 437-441
+ST  - Case Report: Aquatic Therapy and End-Stage Dementia
+T2  - Pm r
+TI  - Case Report: Aquatic Therapy and End-Stage Dementia
+VL  - 10
+ID  - 51153
+ER  - 
+
+TY  - JOUR
+AB  - Strokes have been shown to result in psychiatric phenomena that can range from mood disorders to psychosis. Ablative neurosurgeries have been performed with the goal of reducing the burden of psychiatric symptoms following such cerebrovascular accidents. In this report, we review poststroke psychiatric manifestations, and then present the case of a woman with schizophrenia whose thought disorder improved following a hemorrhagic stroke. Not only did she require less medication, but her remaining symptoms were significantly less impairing than they had previously been. We then compare and contrast the effects of this stroke with ablative neurosurgery.
+AD  - CENTORINO, CATALANO, and GRIMSICH: Mental Health and Behavioral Sciences Service, James A. Haley Veterans Hospital, and Department of Psychiatry and Behavioral Neurosciences, University of South Florida, Tampa, FL ANTOUN: Mental Health and Behavioral Sciences Service, James A. Haley Veterans Hospital, Tampa, FL.
+AN  - 30015789
+AU  - Centorino, M. B.
+AU  - Catalano, G.
+AU  - Grimsich, L. C.
+AU  - Antoun, R. M.
+DA  - May
+DO  - 10.1097/pra.0000000000000304
+DP  - NLM
+IS  - 3
+KW  - *Disease Progression
+Female
+Humans
+Intracranial Hemorrhages/*physiopathology
+Middle Aged
+Psychotic Disorders/*physiopathology
+Schizophrenia/*physiopathology
+Stroke/*physiopathology
+LA  - eng
+N1  - 1538-1145
+Centorino, Michael B
+Catalano, Glenn
+Grimsich, Laura C
+Antoun, Roula M
+Case Reports
+Journal Article
+United States
+2018/07/18
+J Psychiatr Pract. 2018 May;24(3):194-198. doi: 10.1097/PRA.0000000000000304.
+PY  - 2018
+SN  - 1527-4160
+SP  - 194-198
+ST  - Poststroke Psychosis Reduction: A Case Report
+T2  - J Psychiatr Pract
+TI  - Poststroke Psychosis Reduction: A Case Report
+VL  - 24
+ID  - 51179
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Creutzfeldt-Jakob disease (CJD) is a fatal neurodegenerative disease. Common first symptoms are dementia, cerebellar ataxia, visual disturbance, and psychiatric symptoms. Seizure as the first symptom of CJD is a very rare finding. CASE PRESENTATION: We experienced an elderly woman who presented initially with status epilepticus following repeated partial seizures in the course of Alzheimer disease (AD) dementia. Anti-convulsive therapy had no effect. Autopsy revealed definite CJD with AD pathology. COCLUSIONS: This is the first reported CJD case presenting with status epilepticus in the course of AD dementia.
+AD  - Department of Psychiatry, Okayama University Graduate School of Medicine, Dentistry, and Pharmaceutical Sciences, 2-5-1 Shikata-cho, Kita-ku, Okayama, 700-8558, Japan.
+Department of Psychiatry, Hayashi Hospital, Okayama, Japan.
+Department of Psychiatry, Zikei Hospital, Okayama, Japan.
+Department of Locomotive Rehabilitation Sciences, Nagasaki University Graduate School of Medicine, Nagasaki, Japan.
+Department of Neurological Science, Tohoku University Graduate School of Medicine, Sendai, Japan.
+Department of Psychiatry, Okayama University Graduate School of Medicine, Dentistry, and Pharmaceutical Sciences, 2-5-1 Shikata-cho, Kita-ku, Okayama, 700-8558, Japan. terada@okayama-u.ac.jp.
+AN  - 29699515
+AU  - Miyake, K.
+AU  - Hara, T.
+AU  - Oshima, E.
+AU  - Kawada, K.
+AU  - Ishizu, H.
+AU  - Yamauchi, Y.
+AU  - Satoh, K.
+AU  - Kitamoto, T.
+AU  - Takenoshita, S.
+AU  - Terada, S.
+AU  - Yamada, N.
+C1  - ETHICS APPROVAL AND CONSENT TO PARTICIPATE: This case report was approved by the Ethical Committee of the Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences and Zikei Institute of Psychiatry. Autopsy and gene analysis were carried out after written informed consent was obtained from the daughter of the patient. CONSENT FOR PUBLICATION: Written informed consent was obtained from the daughter of the patient for publication of this Case Report and any accompanying images. A copy of the written consent is available for review by the Editor of this journal. COMPETING INTERESTS: The authors declare that they have no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+C2  - PMC5921414
+DA  - Apr 25
+DO  - 10.1186/s12883-018-1055-y
+DP  - NLM
+ET  - 20180425
+IS  - 1
+KW  - Aged
+Alzheimer Disease/*complications/*pathology
+Autopsy
+Brain/pathology
+Creutzfeldt-Jakob Syndrome/*complications/*pathology
+Female
+Humans
+Status Epilepticus/*etiology
+Alzheimer disease
+Creutzfeldt-Jakob disease
+Epilepsy
+Seizure
+Status epilepticus
+LA  - eng
+N1  - 1471-2377
+Miyake, Keita
+Hara, Takashi
+Oshima, Etsuko
+Kawada, Kiyohiro
+Ishizu, Hideki
+Yamauchi, Yuko
+Satoh, Katsuya
+Kitamoto, Tetsuyuki
+Takenoshita, Shintaro
+Terada, Seishi
+Yamada, Norihito
+Case Reports
+Journal Article
+Review
+England
+2018/04/28
+BMC Neurol. 2018 Apr 25;18(1):54. doi: 10.1186/s12883-018-1055-y.
+PY  - 2018
+SN  - 1471-2377
+SP  - 54
+ST  - Creutzfeldt-Jakob disease with Alzheimer pathology, presenting with status epilepticus following repeated partial seizures: a case report and literature review
+T2  - BMC Neurol
+TI  - Creutzfeldt-Jakob disease with Alzheimer pathology, presenting with status epilepticus following repeated partial seizures: a case report and literature review
+VL  - 18
+ID  - 51191
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND Semantic dementia (SD) is a type of primary progressive aphasia with prominent language dysfunction, mostly within the spectrum of frontotemporal lobar degeneration (FTLD). Although there is an overlap in clinical manifestations of SD attributable to FTLD and neuropathologically proven Alzheimer disease (AD), clinical diagnostic clues are not readily available. We present a characteristic finding based on a single-photon emission computed tomography (SPECT)-based regional cerebral blood flow study and its statistical imaging analysis for a rare case of SD with AD-like pathology. CASE REPORT A 61-year-old male was referred to our hospital due to difficulties in self-management and impaired comprehension of word meaning suggestive of SD. Although his brain MRI revealed mild frontal lobe atrophy, his SPECT with three-dimensional stereotactic surface projections (3D-SSP) analysis showed left-sided hypo-perfusion that was more prominent in the inferior temporal gyrus and the inferior parietal lobule, with bilateral frontal lobe hypo-perfusion. The SPECT scan also showed involvement of the right inferior parietal area and, in medial aspects, the posterior cingulate cortex and adjacent precuneus; these finding were compatible with early hypo-perfused areas seen in AD. The lumbar cerebrospinal fluid biomarker findings seemed to fit SD in association with probable AD pathology. CONCLUSIONS This is the first reported case to use SPECT with 3D-SSP statistical analysis as a potential, useful imaging modality for the diagnosis of SD with probable AD pathology.
+AD  - Department of Nuclear Medicine and Radiology, Institute of Development, Aging and Cancer, Tohoku University, Sendai, Miyagi, Japan.
+Department of Geriatric Medicine and Neuroimaging, Tohoku University Hospital, Sendai, Miyagi, Japan.
+Department of Nuclear Medicine and Radiology, Institute of Development, Aging and Cancer, Tohoku Univerisity, Sendai, Miyagi, Japan.
+AN  - 29429985
+AU  - Takano, Y.
+AU  - Kunitoki, K.
+AU  - Tatewaki, Y.
+AU  - Mutoh, T.
+AU  - Totsune, T.
+AU  - Shimomura, H.
+AU  - Nakagawa, M.
+AU  - Arai, H.
+AU  - Taki, Y.
+C1  - Conflict of interest: None declared Conflicts of interest None.
+C2  - PMC5817968
+DA  - Feb 12
+DO  - 10.12659/ajcr.907799
+DP  - NLM
+ET  - 20180212
+KW  - Alzheimer Disease/diagnosis/*diagnostic imaging/pathology
+Diagnosis, Differential
+Frontotemporal Dementia/diagnosis/*diagnostic imaging/pathology
+Gyrus Cinguli/*diagnostic imaging/pathology
+Humans
+*Imaging, Three-Dimensional
+Magnetic Resonance Imaging/methods
+Male
+Middle Aged
+Neuropsychological Tests
+Tomography, Emission-Computed, Single-Photon/*methods
+LA  - eng
+N1  - 1941-5923
+Takano, Yumi
+Kunitoki, Keiko
+Tatewaki, Yasuko
+Mutoh, Tatsushi
+Totsune, Tomoko
+Shimomura, Hideo
+Nakagawa, Manabu
+Arai, Hiroyuki
+Taki, Yasuyuki
+Case Reports
+Journal Article
+Review
+United States
+2018/02/13
+Am J Case Rep. 2018 Feb 12;19:153-157. doi: 10.12659/ajcr.907799.
+PY  - 2018
+SN  - 1941-5923
+SP  - 153-157
+ST  - Posterior Associative and Cingulate Cortex Involvement of Brain Single-Photon Emission Computed Tomography (SPECT) Imaging in Semantic Dementia with Probable Alzheimer Disease Pathology: A Case Report
+T2  - Am J Case Rep
+TI  - Posterior Associative and Cingulate Cortex Involvement of Brain Single-Photon Emission Computed Tomography (SPECT) Imaging in Semantic Dementia with Probable Alzheimer Disease Pathology: A Case Report
+VL  - 19
+ID  - 51162
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Hypothalamic hamartomas (HHs) are nonneoplastic congenital malformations associated with refractory epilepsy and behavioral disorders. Improvement in behavioral functioning following resection of HHs has been reported. Stereotactic laser ablation (SLA), a minimally invasive technique, has been used for the treatment of HH-related epilepsy. We report the case of child with an HH, gelastic seizures, and severe psychiatric dysfunction who was successfully treated via SLA therapy. CASE DESCRIPTION: The patient was an 11-year-old female with a history of central hypothyroidism, precocious puberty, and localization-related epilepsy thought to be secondary to an HH. She had a significant psychiatric history including attention deficit hyperactivity disorder, depressed mood, impulsivity, threatening behavior, and suicidal ideation requiring management with dexmethylphenidate, bupropion, and aripiprazole. Seizure onset occurred at age 7, and her semiology included nighttime hypermotor seizures and uncontrollable laughing spells thought to be gelastic seizures. Her hypermotor seizures were successfully managed with oxcabazepine monotherapy, but she continued to have several weekly laughing spells and self-harming behavior. Her HH was successfully treated via SLA. Postoperatively, she remained neurologically intact and was discharged the next day. At her 6-month follow-up, she had a markedly improved affect and general mood. At 3 years postprocedure, she remains seizure free and has been weaned off her antiepileptic and antipsychotic medications. CONCLUSIONS: Severe behavioral dysfunction in the setting of an HH may constitute an indication for surgical intervention. The outcome of this case suggests there may be a role for SLA in the management of HH-related psychiatric dysfunction, even in patients with good seizure control.
+AD  - Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, Wisconsin, USA.
+Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, Wisconsin, USA; Department of Neurology (Neuropsychology), Medical College of Wisconsin, Wisconsin, USA.
+Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, Wisconsin, USA; Department of Neurosurgery, Children's Hospital of Wisconsin, Milwaukee, Wisconsin, USA. Electronic address: slew@mcw.edu.
+AN  - 30481631
+AU  - Arocho-Quinones, E. V.
+AU  - Koop, J.
+AU  - Lew, S. M.
+DA  - Feb
+DO  - 10.1016/j.wneu.2018.11.166
+DP  - NLM
+ET  - 20181124
+KW  - Child
+Female
+Hamartoma/complications/diagnostic imaging/*surgery
+Humans
+Hypothalamic Diseases/complications/diagnostic imaging/*surgery
+Laser Therapy/*methods/trends
+Mental Disorders/complications/diagnostic imaging/*surgery
+*Stereotaxic Techniques/trends
+Treatment Outcome
+Gelastic seizures
+Hypothalamic hamartoma
+Psychiatric disorder
+Psychosis
+Stereotactic laser ablation
+LA  - eng
+N1  - 1878-8769
+Arocho-Quinones, Elsa V
+Koop, Jennifer
+Lew, Sean M
+Case Reports
+Journal Article
+Review
+United States
+2018/11/28
+World Neurosurg. 2019 Feb;122:680-683. doi: 10.1016/j.wneu.2018.11.166. Epub 2018 Nov 24.
+PY  - 2019
+SN  - 1878-8750
+SP  - 680-683
+ST  - Improvement of Hypothalamic Hamartoma-Related Psychiatric Disorder After Stereotactic Laser Ablation: Case Report and Review of Literature
+T2  - World Neurosurg
+TI  - Improvement of Hypothalamic Hamartoma-Related Psychiatric Disorder After Stereotactic Laser Ablation: Case Report and Review of Literature
+VL  - 122
+ID  - 51152
+ER  - 
+
+TY  - JOUR
+AB  - RATIONALE: Brain atrophy coupled with impaired cognition may be a sign of dementia. However, growing evidence indicates that schizoaffective disorder (SAD) and type 2 diabetes mellitus (T2DM) play roles in the processes of frontotemporal atrophy and cognitive decline. Few cases of frontotemporal atrophy and impaired cognition have been reported in young adult patients with SAD and T2DM. PATIENT CONCERNS: A 34-year-old man was admitted for his 19th rehospitalization due to auditory verbal hallucinations (AVHs), delusions of persecution, mania, and fluctuating blood sugar levels. After admission, a brain computed tomography (CT) scan revealed that the patient's frontotemporal atrophy, which was first found in 2014, had gradually degenerated over time. The Mini-Mental State Examination (MMSE) and Montreal Cognitive Assessment (MoCA) revealed cognitive impairments. Based on the clinical assessment, his cognition and social function impairments were determined to mainly result from SAD and T2DM because the clinical characteristics and course of the disease did not coincide with the features of progressive aggravation of dementia. DIAGNOSES: Diagnoses include the following: SAD-mania and T2DM. INTERVENTIONS: Paliperidone and sodium valproate coupled with quetiapine add-on treatment were prescribed for the patient. OUTCOMES: The therapeutic strategy had a limited effect on the patient. LESSONS: Early onset of SAD and T2DM, as well as irregular treatment, resulting in brain atrophy coupled with cognitive impairments, may be the main causes of the patient's treatment resistance and poor outcome. The risks and benefits of treatment strategies should be individually assessed. Further neuroimaging, pertinent biomarkers, and genetic tests along with long-term follow-up are needed for precise evaluation of the patient's condition.
+AD  - Department of Affective Disorder, Shenzhen Kangning Hospital, Luohu District, Shenzhen, China.
+AN  - 31008977
+AU  - Bai, Y.
+AU  - Yin, M.
+AU  - Zeng, Z.
+AU  - Liang, J.
+AU  - Yang, H.
+C1  - The authors have no conflicts of interest to declare with respect to the manuscript, with no financial, consultant, political, personal, religious, ideological, academic, intellectual, or other relationships that could lead to a conflict of interest.
+C2  - PMC6494280
+DA  - Apr
+DO  - 10.1097/md.0000000000015292
+DP  - NLM
+IS  - 16
+KW  - Adult
+Cognition Disorders/*complications
+Cognitive Dysfunction/diagnostic imaging/*etiology
+Diabetes Mellitus, Type 2/*complications
+Frontotemporal Lobar Degeneration/diagnostic imaging/*etiology/pathology
+Humans
+Male
+Neuroimaging
+Psychotic Disorders/*complications
+Tomography, X-Ray Computed
+LA  - eng
+N1  - 1536-5964
+Bai, Yuanhan
+Yin, Mengdong
+Zeng, Zhiqiang
+Liang, Jie
+Yang, Haichen
+Case Reports
+Journal Article
+United States
+2019/04/23
+Medicine (Baltimore). 2019 Apr;98(16):e15292. doi: 10.1097/MD.0000000000015292.
+PY  - 2019
+SN  - 0025-7974 (Print)
+0025-7974
+SP  - e15292
+ST  - Schizoaffective disorder comorbid with type 2 diabetes mellitus accompanied by frontotemporal atrophy and impaired cognition: A CARE compliant case report
+T2  - Medicine (Baltimore)
+TI  - Schizoaffective disorder comorbid with type 2 diabetes mellitus accompanied by frontotemporal atrophy and impaired cognition: A CARE compliant case report
+VL  - 98
+ID  - 51199
+ER  - 
+
+TY  - JOUR
+AB  - Self-injurious behavior (SIB) has frequently been associated with psychiatric illness and neurological lesions as means of reducing tension or diverting from pain. However, these explanations did not capture the complexity of SIB in the case of Mr. X, a 62-year-old patient who ingested his fingers in his sleep where cognitive testing was valuable in informing diagnosis. Mr. X's SIB was severe enough that he had chewed beyond the middle phalanx for most of his fingers. Clinical symptoms included daytime sleepiness, hypnogogic hallucinations, and bradykinesia. His cognitive profile revealed declines in his intellectual functioning as well as visuospatial and executive deficits in the context of preserved attention, language, and memory. His cognitive and clinical presentation suggested that Mr. X had a neurodegenerative disorder, which may have contributed to his SIB. We believed that the most probable diagnosis may have been rapid eye movement behavioral sleep disorder in the context of Lewy bodies dementia.
+AD  - Department of Psychiatry and Behavioural Neurosciences, McMaster University, St Joseph's Healthcare Hamilton, Hamilton, Ontario, Canada.
+AN  - 30575702
+AU  - Gardizi, E.
+AU  - MacKillop, E.
+AU  - Gaind, G.
+DA  - Jan
+DO  - 10.1097/nmd.0000000000000924
+DP  - NLM
+IS  - 1
+KW  - Dementia/complications/*psychology
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+Self-Injurious Behavior/*etiology/psychology
+LA  - eng
+N1  - 1539-736x
+Gardizi, Elmar
+MacKillop, Emily
+Gaind, Gagan
+Case Reports
+Journal Article
+Review
+United States
+2018/12/24
+J Nerv Ment Dis. 2019 Jan;207(1):6-11. doi: 10.1097/NMD.0000000000000924.
+PY  - 2019
+SN  - 0022-3018
+SP  - 6-11
+ST  - Self-Injurious Behavior in a Patient With Dementia: A Case Report and Literature Review
+T2  - J Nerv Ment Dis
+TI  - Self-Injurious Behavior in a Patient With Dementia: A Case Report and Literature Review
+VL  - 207
+ID  - 51159
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: This study aimed to present findings on language, behavior, and neurodevelopment in a girl diagnosed with Angelman Syndrome, evaluated when she was three and eight years old. METHODS: The following evaluation instruments were used: Observation of Communication Behavior, Early Language Milestone (ELM) Scale, and Denver Developmental Screening Test, 2nd edition (DDST-II). RESULTS: In this case report, presence of AS phenotype signals such as wide mouth and wide-spaced teeth, tongue thrusting, strabismus, up slanting palpebral fissures, and sialorrhea are verified. Expressive and receptive deficits were verified in the language assessment, with the absence of orality and loss of comprehension with very similar performances in both evaluations. The ELM and DDST-II tests indicated severe impairment of all abilities evaluated at both three and eight years of age. Performance was quite similar in both evaluations in all areas of child development. Little progress was observed over time despite the great therapeutic and educational investment. CONCLUSION: The presence of a complex scenario such as AS demands high complexity clinical needs, a situation that is worsened due to scarcity of therapeutic resources that could minimize the harmful impacts of AS and culminate in increased quality of life for the AS population and their families.
+AD  - Programa de Pós-graduação em Fonoaudiologia, Faculdade de Odontologia de Bauru - FOB - Bauru (SP), Brasil.
+AN  - 31460569
+AU  - Teodoro, A. T. H.
+AU  - Chaves, D. Y.
+AU  - Crenitte, P. A. P.
+AU  - Hage, S. R. V.
+AU  - Lamônica, D. A. C.
+DA  - Aug 22
+DO  - 10.1590/2317-1782/20182018177
+DP  - NLM
+ET  - 20190822
+IS  - 4
+KW  - Angelman Syndrome/diagnosis/psychology/*rehabilitation
+Child
+Child Development
+Communication
+Female
+Humans
+Language Development
+Language Tests
+Neurodevelopmental Disorders/diagnosis/psychology/*rehabilitation
+Neuropsychological Tests
+Psychomotor Performance
+LA  - por
+eng
+N1  - 2317-1782
+Teodoro, Ana Teresa Hernandes
+Orcid: 0000-0002-0824-2333
+Chaves, Daphyne Yachel
+Orcid: 0000-0001-5463-0241
+Crenitte, Patrícia Abreu Pinheiro
+Orcid: 0000-0003-3117-4575
+Hage, Simone Rocha de Vasconcellos
+Orcid: 0000-0003-4790-6937
+Lamônica, Dionísia Aparecida Cusin
+Orcid: 0000-0002-9381-0680
+Case Reports
+Brazil
+2019/08/29
+Codas. 2019 Aug 22;31(4):e20180177. doi: 10.1590/2317-1782/20182018177.
+OP  - Linguagem, neurodesenvolvimento e comportamento na Síndrome de Angelman: relato de caso.
+PY  - 2019
+SN  - 2317-1782
+SP  - e20180177
+ST  - Language, neurodevelopment, and behavior in Angelman syndrome: a case report
+T2  - Codas
+TI  - Language, neurodevelopment, and behavior in Angelman syndrome: a case report
+VL  - 31
+ID  - 51155
+ER  - 
+
+TY  - JOUR
+AB  - Infectious diseases of immigrant populations have recently become important issues for the health of both Korean nationals and foreigners living in Korea. This case report of general paresis is intended to raise awareness about re-emerging neurosyphilis in Korea as a possible etiology of psychotic disorders. A 68-year-old male Chinese resident came to Korea in 2019 with disorientation, auditory hallucination, persecutory delusion, and aggressive behavior, and was admitted to a psychiatric ward for further evaluation and treatment via the emergency department. He was confirmed to have neurosyphilis by serum test, analysis of cerebrospinal fluid, and brain magnetic resonance imaging. After treatment with antibiotics, including intravenous penicillin, in combination with atypical antipsychotics for 6 weeks, his disorientation, auditory hallucination, delusion, and aggressive behavior had attenuated. Neurosyphilis should still be included as a possible etiology of psychotic disorders in Korea. At the initial evaluation, syphilis screening serum tests are recommended for psychotic patients, especially those with pleomorphic symptoms and cognitive dysfunction.
+AD  - Department of Neuropsychiatry, Jeju National University Hospital, Jeju, Korea.
+Department of Neuropsychiatry, Jeju National University School of Medicine, Jeju, Korea.
+Department of Neuropsychiatry, Jeju National University School of Medicine, Jeju, Korea. empath0125@gmail.com.
+AN  - 32830465
+AU  - Lee, S. H.
+AU  - Yang, H.
+AU  - Kang, N. R.
+AU  - Park, J. H.
+C1  - The authors have no potential conflicts of interest to disclose.
+C2  - PMC7445311
+DA  - Aug 24
+DO  - 10.3346/jkms.2020.35.e271
+DP  - NLM
+ET  - 20200824
+IS  - 33
+KW  - Aged
+Algorithms
+Brain/diagnostic imaging
+Cognitive Dysfunction/diagnosis/etiology
+Humans
+Magnetic Resonance Imaging
+Male
+Neurosyphilis/complications/*diagnosis
+Psychotic Disorders/*diagnosis/etiology
+Republic of Korea
+Tomography, X-Ray Computed
+General Paresis
+Neuropsychiatric Deficits
+Neurosyphilis
+LA  - eng
+N1  - 1598-6357
+Lee, Sang Hun
+Orcid: 0000-0003-4410-9270
+Yang, Hyunju
+Orcid: 0000-0003-0027-2834
+Kang, Na Ri
+Orcid: 0000-0002-2086-0927
+Park, Joon Hyuk
+Orcid: 0000-0002-0396-5284
+Case Reports
+Korea (South)
+2020/08/25
+J Korean Med Sci. 2020 Aug 24;35(33):e271. doi: 10.3346/jkms.2020.35.e271.
+PY  - 2020
+SN  - 1011-8934 (Print)
+1011-8934
+SP  - e271
+ST  - Re-emerging Neurosyphilis in Korea as a Possible Etiology of Psychotic Disorders with Pleomorphic Symptoms and Cognitive Dysfunction: a Case Report and Literature Review
+T2  - J Korean Med Sci
+TI  - Re-emerging Neurosyphilis in Korea as a Possible Etiology of Psychotic Disorders with Pleomorphic Symptoms and Cognitive Dysfunction: a Case Report and Literature Review
+VL  - 35
+ID  - 51187
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Alzheimer's disease (AD) is a neurodegenerative disorder featuring the behavioral and psychological symptoms of dementia. Patients with early-onset AD that exhibits first as psychotic symptoms usually lack obvious cognitive impairment, so they may be misdiagnosed with late-onset schizophrenia. CASE PRESENTATION: We report a patient who had prominent psychotic symptoms at the age of 60 and was initially diagnosed with very-late-onset-schizophrenia-like psychosis. Psychotic symptoms disappeared rapidly after treatment with olanzapine, and the patient later showed extrapyramidal symptoms and decline in cognitive function. Brain magnetic resonance imaging (MRI) showed frontotemporal atrophy, and positron emission tomography (PET) showed extensive areas of hypometabolism in the frontal cortex and head of the caudate nucleus. The patient's SORL1 gene was found to carry a heterozygrous mutation (c.296A > G). The patient was eventually diagnosed with early-onset AD. CONCLUSIONS: Our case suggests that clinicians should consider the possibility of early-onset AD in middle-aged or elderly patients whose first symptoms are the behavioral and psychological symptoms of dementia. To distinguish early-onset AD from late-onset schizophrenia, clinicians should evaluate cognitive function, perform MRI and PET, and search for SORL1 mutations.
+AD  - Mental Health Center and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, No. 28 Dian Xin Nan Road, Chengdu, 610041, Sichuan, China.
+School of Nursing, Chengdu Medical College, Chengdu, 610083, Sichuan, China.
+Zun Yi Psychiatric Hospital, Zunyi, 563000, Guizhou, China.
+The West China College of Medicine, Sichuan University, Chengdu, 610041, Sichuan, China.
+Mental Health Center and National Clinical Research Center for Geriatrics, West China Hospital, Sichuan University, No. 28 Dian Xin Nan Road, Chengdu, 610041, Sichuan, China. jay_li@163.com.
+AN  - 32183776
+AU  - Li, X.
+AU  - Xiong, Z.
+AU  - Liu, Y.
+AU  - Yuan, Y.
+AU  - Deng, J.
+AU  - Xiang, W.
+AU  - Li, Z.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC7079379
+DA  - Mar 17
+DO  - 10.1186/s12888-020-02537-9
+DP  - NLM
+ET  - 20200317
+IS  - 1
+KW  - Aged
+*Alzheimer Disease/complications/diagnostic imaging/genetics
+Humans
+LDL-Receptor Related Proteins/genetics
+Magnetic Resonance Imaging
+Membrane Transport Proteins/genetics
+Middle Aged
+Mutation
+Positron-Emission Tomography
+*Psychotic Disorders/diagnosis/etiology
+*Schizophrenia/diagnostic imaging/drug therapy
+Brain imaging
+Cognitive function
+Dementia
+Sorl1
+Schizophrenia
+LA  - eng
+N1  - 1471-244x
+Li, Xiao
+Xiong, Zhenzhen
+Liu, Yaya
+Yuan, Yiwen
+Deng, Junfeng
+Xiang, Weiyi
+Li, Zhe
+2017SZ0049/Science and Technology Department of Sichuan Province/International
+19PJ187/Health Commission of Sichuan Province/International
+CYAL-201907/The Project of Chengdu Medical College Curriculum Case Base Construction for Professional Dgree Postgraduate/International
+C-YX20190302-02/National Steering Committee for Medical Professional Degree Education/International
+Case Reports
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2020/03/19
+BMC Psychiatry. 2020 Mar 17;20(1):128. doi: 10.1186/s12888-020-02537-9.
+PY  - 2020
+SN  - 1471-244x
+SP  - 128
+ST  - Case report of first-episode psychotic symptoms in a patient with early-onset Alzheimer's disease
+T2  - BMC Psychiatry
+TI  - Case report of first-episode psychotic symptoms in a patient with early-onset Alzheimer's disease
+VL  - 20
+ID  - 51193
+ER  - 
+
+TY  - JOUR
+AB  - Over a 3-month period, a homeless person was admitted several times to emergency departments after displaying severe behavioral changes and paranoia. No psychiatric tests were performed but all other tests were repeatedly normal; antianxiety treatments or painkillers were the common outcome. It may seem that any diagnosis rested on the patient's immediately apparent social circumstances. Indeed, the patient was admitted to our internal medicine department after a diagnosis of acute delirium within a context of social disadvantage. This social predicament, namely, the patient's evident homelessness, proved to be a false but significant and overarching influence on several misdiagnoses until that moment. Subsequently, actual psychological observations, assessments and tests indicated and confirmed the presence of Creutzfeldt-Jakob disease. Creutzfeldt-Jakob disease is an uncommon and fatal disease; however, early diagnosis can enable the implementation of an important palliative care program. The starkly impoverished social circumstances of a patient should never distract a medical practitioner from a comprehensive diagnosis. Homelessness, for example, may invite certain physical and mental considerations, but it must not overdetermine our response and must not obscure or detract from a wider diagnosis. Homelessness is not a medical condition.
+AD  - Department of Medical Sciences, Azienda Ospedaliero Universitaria Città della Salute e della Scienza di Torino.
+Department of Neurology and Centre of Prion Disease, Maria Vittoria Hospital, Turin, Italy.
+AN  - 32282552
+AU  - Pieroni, J.
+AU  - Pecori, A.
+AU  - Imperiale, D.
+AU  - Maule, S.
+DA  - May
+DO  - 10.1097/nmd.0000000000001136
+DP  - NLM
+IS  - 5
+KW  - Brain/*pathology
+Creutzfeldt-Jakob Syndrome/cerebrospinal fluid/*diagnosis/pathology/psychology
+Diagnosis, Differential
+Electroencephalography
+Female
+Ill-Housed Persons/*psychology
+Humans
+Magnetic Resonance Imaging
+Middle Aged
+LA  - eng
+N1  - 1539-736x
+Pieroni, Jacopo
+Pecori, Alessio
+Imperiale, Daniele
+Maule, Simona
+Case Reports
+Journal Article
+United States
+2020/04/14
+J Nerv Ment Dis. 2020 May;208(5):435-438. doi: 10.1097/NMD.0000000000001136.
+PY  - 2020
+SN  - 0022-3018
+SP  - 435-438
+ST  - Not Just Homeless, Creutzfeldt-Jakob Disease: A Case Report
+T2  - J Nerv Ment Dis
+TI  - Not Just Homeless, Creutzfeldt-Jakob Disease: A Case Report
+VL  - 208
+ID  - 51180
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Although adult attention-deficit/hyperactivity disorder has recently gained increased attention, few reports on attention-deficit/hyperactivity disorder in the pre-elderly or elderly have been published. Here, we present the case of a patient with attention-deficit/hyperactivity disorder who gradually developed dementia-like symptoms as she aged, which initially made her condition difficult to distinguish from early onset Alzheimer's disease. This report illustrates that some types of attention-deficit/hyperactivity disorder may be misdiagnosed as dementia. CASE PRESENTATION: The patient was a 58-year-old woman. Although she presented with a tendency for inattentiveness and forgetfulness since childhood, she did not have a history of psychiatric disorders prior to consultation. Around the age of 52 years, her inattentiveness and forgetfulness gradually progressed, and at 57 years of age, she became inattentive and forgetful that it interfered with her work and daily life. For example, she forgot meetings with important clients and transferred money to the wrong bank account; these failures resulted in poor management of her company. At home, she experienced increasing difficulties with remembering prior commitments with her family and misplacing items, which her family members noticed. With the encouragement of her family and employees, who worried that she was suffering from dementia, she visited our memory clinic, whereby she was suspected of having early onset Alzheimer's disease. However, neuropsychological tests and brain imaging evaluations did not reveal any significant abnormalities. After dismissing various possible diagnoses, including dementia, other organic diseases, mood disorders, and delirium, we diagnosed her with attention-deficit/hyperactivity disorder. Treatment with 18 mg of methylphenidate was initiated, and significant improvements in her symptoms were observed within a few days; for example, she stopped losing her things, was able to concentrate for long durations, and could complete more tasks than she could before treatment. Since initiating treatment, she has returned to work and has been able to perform her daily activities without difficulty. CONCLUSIONS: This case supports that some patients with late-onset attention-deficit/hyperactivity disorder may gradually develop dementia-like symptoms during the pre-elderly and elderly stages of life. Therefore, clinicians should consider late-onset attention-deficit/hyperactivity disorder as a differential diagnosis of some types of dementias.
+AD  - Department of Neuropsychiatry, Faculty of Life Science, Kumamoto University, 1-1-1 Honjo, Chuo-ku, Kumamoto-shi, Kumamoto, 860-8556, Japan.
+Department of Neuropsychiatry, Faculty of Life Science, Kumamoto University, 1-1-1 Honjo, Chuo-ku, Kumamoto-shi, Kumamoto, 860-8556, Japan. mtakebayashi@kumamoto-u.ac.jp.
+Institute for Clinical Research, National Hospital Organization Kure Medical Center Chugoku Cancer Center, Hiroshima, Japan. mtakebayashi@kumamoto-u.ac.jp.
+AN  - 33228586
+AU  - Sasaki, H.
+AU  - Jono, T.
+AU  - Fukuhara, R.
+AU  - Yuki, S.
+AU  - Ishikawa, T.
+AU  - Boku, S.
+AU  - Takebayashi, M.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC7686687
+DA  - Nov 23
+DO  - 10.1186/s12888-020-02949-7
+DP  - NLM
+ET  - 20201123
+IS  - 1
+KW  - Adult
+Aged
+*Alzheimer Disease/complications/diagnosis
+*Attention Deficit Disorder with Hyperactivity/diagnosis
+Child
+Diagnosis, Differential
+Female
+Humans
+Memory Disorders
+Middle Aged
+Neuropsychological Tests
+Dementia
+Early onset Alzheimer’s disease
+Late-onset attention-deficit/hyperactivity disorder
+Pre-elderly
+LA  - eng
+N1  - 1471-244x
+Sasaki, Hiroyuki
+Jono, Tadashi
+Fukuhara, Ryuji
+Yuki, Seiji
+Ishikawa, Tomohisa
+Boku, Shuken
+Takebayashi, Minoru
+Orcid: 0000-0001-9962-8444
+20K07921/Grants-in-aid for Scientific Research/
+Case Reports
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2020/11/25
+BMC Psychiatry. 2020 Nov 23;20(1):550. doi: 10.1186/s12888-020-02949-7.
+PY  - 2020
+SN  - 1471-244x
+SP  - 550
+ST  - Late-onset attention-deficit/hyperactivity disorder as a differential diagnosis of dementia: a case report
+T2  - BMC Psychiatry
+TI  - Late-onset attention-deficit/hyperactivity disorder as a differential diagnosis of dementia: a case report
+VL  - 20
+ID  - 51181
+ER  - 
+
+TY  - JOUR
+AB  - The manifestations of CNS syphilis are unfamiliar to a differential of patients with dementia to many physicians today as of the relative rarity of this condition. This is a classical case report of a patient with syphilis and dementia in a 55-year-old female. General paresis of insane is a progressive disease of the brain leading to mental and physical worsening. It is important to consider tertiary syphilis in the differential diagnosis of dementia. Conventional presentations of neurosyphilis such as tabes dorsalis and general paresis of insane are read in textbooks only and rarely encountered in clinical practice in the 21(st) century.
+AD  - Department of Neurology, NEIGRIHMS, North Eastern Indira Gandhi Regional Institute of Medical Sciences Shillong, Meghalaya, India (An Autonomous Institute, Ministry of Health and Family Welfare, Government of India), India.
+AN  - 32415032
+AU  - Sharma, S. R.
+AU  - Hussain, M.
+AU  - Roy, D.
+DA  - Mar-Apr
+DO  - 10.4103/0028-3886.284383
+DP  - NLM
+IS  - 2
+KW  - Anti-Bacterial Agents/therapeutic use
+Antipsychotic Agents/therapeutic use
+Clonazepam/therapeutic use
+Dementia/*diagnosis/drug therapy/etiology/psychology
+Female
+GABA Modulators/therapeutic use
+Humans
+Middle Aged
+Neurosyphilis/complications/*diagnosis/drug therapy/psychology
+Penicillin G/therapeutic use
+Risperidone/therapeutic use
+Dementia
+general paresis
+neurosyphilis
+psychiatric manifestations
+LA  - eng
+N1  - 1998-4022
+Sharma, Shri Ram
+Hussain, Masaraf
+Roy, Debojit
+Case Reports
+India
+2020/05/18
+Neurol India. 2020 Mar-Apr;68(2):487-488. doi: 10.4103/0028-3886.284383.
+PY  - 2020
+SN  - 0028-3886
+SP  - 487-488
+ST  - General paresis of insane: A forgotten entity
+T2  - Neurol India
+TI  - General paresis of insane: A forgotten entity
+VL  - 68
+ID  - 51170
+ER  - 
+
+TY  - JOUR
+AB  - Frontotemporal dementia (FTD) is a common cause of early-onset dementia characterized by behavioral and personality changes, as well as, altered eating habits. FTD is associated with complex changes in neural networks of gustatory processing which may be responsible for eating abnormalities. Here, we present a 66-years-old lady suffered from behavioral variant of FTD with an interesting symptom of food aversion, typically sour foods.
+AD  - Neurology Department, Firoozgar Hospital, Iran University of Medical Science, Tehran, Iran.
+Neurology Department, Iran University of Medical Science, Tehran, Iran.
+School of Medicine, Mashhad, University of Medical Science, Mashhad, Iran.
+AN  - 33789074
+AU  - Almasi-Dooghaee, M.
+AU  - Vahedi, T.
+AU  - Vahedi, N.
+AU  - Zamani, B.
+DA  - Apr
+DO  - 10.1080/13554794.2021.1905854
+DP  - NLM
+ET  - 20210331
+IS  - 2
+KW  - Affect
+Aged
+*Feeding and Eating Disorders
+Female
+*Frontotemporal Dementia/diagnostic imaging
+Humans
+*Pick Disease of the Brain
+Frontotemporal dementia
+behavioral variant
+eating disorder
+food aversion
+sour taste
+LA  - eng
+N1  - 1465-3656
+Almasi-Dooghaee, Mostafa
+Vahedi, Taravat
+Vahedi, Nooshin
+Zamani, Babak
+Case Reports
+Journal Article
+England
+2021/04/01
+Neurocase. 2021 Apr;27(2):178-180. doi: 10.1080/13554794.2021.1905854. Epub 2021 Mar 31.
+PY  - 2021
+SN  - 1355-4794
+SP  - 178-180
+ST  - Sour aversion in frontotemporal dementia: a case report and review on physiologic-anatomic mechanisms
+T2  - Neurocase
+TI  - Sour aversion in frontotemporal dementia: a case report and review on physiologic-anatomic mechanisms
+VL  - 27
+ID  - 51185
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Plasmacytomas are rare tumors comprised of neoplastic monoclonal plasma cells and can be found anywhere in the body. Plasmacytomas that involve the nervous system can give rise to diffuse symptoms depending on their location. Patients with confusion or dementia might be difficult to neurologically assess in an acute setting and the subtle symptoms of neurological pathology caused by rare malignancies might go undiagnosed. CASE PRESENTATION: The patient is an 80 year old man presenting to the ER with walking difficulties, pain, and confusion. He underwent neurological evaluation for dementia and was eventually diagnosed with possible Alzheimer's disease and a malignant plasmacytoma causing spinal cord compression. His CSF sample showed normal amyloid rate and very low Aβ. Following rehabilitation and oncological treatment, his walking ability and confusion improved. CONCLUSION: This case is unique as we demonstrate that spinal cord compression by plasmacytoma can lead to abnormal CSF levels of several known pathology markers for Alzheimer's disease and neuronal damage. We suggest that highly divergent amyloid CSF levels could be indicative of spinal pathologies affecting CSF circulation. We also suggest closer assessment of elderly confusion patients in ER settings by consultants specialized in neurological disorders.
+AD  - Department of Neurobiology, Care Sciences and Society, Section of Neurogeriatrics, Center for Alzheimer Research, Karolinska Institute, Solna, Sweden. michael.axenhus.2@ki.se.
+Theme Inflammation and Aging, Karolinska University Hospital, Huddinge, Sweden. michael.axenhus.2@ki.se.
+Department of Neurobiology, Care Sciences and Society, Division of Clinical Geriatrics, Karolinska Institute, Solna, Sweden.
+Theme Inflammation and Aging, Karolinska University Hospital, Huddinge, Sweden.
+AN  - 34362322
+AU  - Axenhus, M.
+AU  - Bogdanovic, N.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC8342271
+DA  - Aug 6
+DO  - 10.1186/s12883-021-02332-3
+DP  - NLM
+ET  - 20210806
+IS  - 1
+KW  - Aged, 80 and over
+Alzheimer Disease
+Biomarkers
+*Cognitive Dysfunction
+Humans
+Male
+*Plasmacytoma/complications
+*Spinal Cord Compression/diagnostic imaging/etiology
+Case report
+Cognitive impairment
+Dementia
+Plasmacytoma
+LA  - eng
+N1  - 1471-2377
+Axenhus, Michael
+Orcid: 0000-0002-2476-4465
+Bogdanovic, Nenad
+Case Reports
+Journal Article
+England
+2021/08/08
+BMC Neurol. 2021 Aug 6;21(1):303. doi: 10.1186/s12883-021-02332-3.
+PY  - 2021
+SN  - 1471-2377
+SP  - 303
+ST  - Confusion, cognitive impairment, and spinal cord compression caused by plasmacytoma: a case report
+T2  - BMC Neurol
+TI  - Confusion, cognitive impairment, and spinal cord compression caused by plasmacytoma: a case report
+VL  - 21
+ID  - 51156
+ER  - 
+
+TY  - JOUR
+AB  - Amyotrophic lateral sclerosis (ALS) is classified as a motor neuron disease (MND) that can present with both upper and lower motor neuron signs. Concurrent ALS and frontotemporal dementia (FTD) is also a well-known phenomenon. Examples of other primary disorders mimicking ALS or ALS-FTD have been reported in the literature and recognition of these entities is important to ensure proper clinical management. We present here an unusual case of an 86-year-old male patient, clinically diagnosed with ALS and severe cognitive impairment thought to be due to FTD. Postmortem neuropathological examination of his brain and spinal cord did not reveal the typical findings of ALS or FTD. Rather, it revealed multiple non-ALS pathologies including argyrophilic grain disease (AGD), cerebrovascular disease, and Alzheimer's type pathology. This case raises the possibility that mixed pathologies could mimic motor neuron disease.
+AD  - Neuroscience and Mental Health Institute, University of Alberta, Canada.
+Division of Neurology, University of Alberta, Canada.
+Department of Laboratory Medicine and Pathology, University of Alberta, Canada.
+AN  - 35114781
+AU  - Dey, A.
+AU  - Assaedi, E.
+AU  - Johnston, W.
+AU  - Kalra, S.
+AU  - Das, S.
+DO  - 10.5114/fn.2021.111486
+DP  - NLM
+IS  - 4
+KW  - Aged, 80 and over
+*Amyotrophic Lateral Sclerosis/diagnosis
+*Cognitive Dysfunction
+*Frontotemporal Dementia/diagnosis
+Humans
+Male
+*Motor Neuron Disease/diagnosis
+Neuropathology
+Alzheimer's
+argyrophilic grain disease
+cerebrovascular
+overlap
+amyotrophic lateral sclerosis
+LA  - eng
+N1  - 1509-572x
+Dey, Avyarthana
+Assaedi, Ekhlas
+Johnston, Wendy
+Kalra, Sanjay
+Das, Sumit
+Case Reports
+Review
+Poland
+2022/02/05
+Folia Neuropathol. 2021;59(4):403-408. doi: 10.5114/fn.2021.111486.
+PY  - 2021
+SN  - 1509-572x
+SP  - 403-408
+ST  - Mixed pathologies mimicking motor neuron disease: a case report and review of the literature
+T2  - Folia Neuropathol
+TI  - Mixed pathologies mimicking motor neuron disease: a case report and review of the literature
+VL  - 59
+ID  - 51150
+ER  - 
+
+TY  - JOUR
+AB  - Lewy body dementia and Creutzfeldt-Jakob disease are recognized on the basis of certain diagnostic criteria. However, common symptoms such as: dementia, extrapyramidal syndrome, psychotic disorders may cause difficulty to make the correct diagnosis especially in the early stage of the disease. Each of these diseases may have atypical onset. The further course and the appearance of other symptoms indicate a proper diagnosis. Electroencephalogram and examination of 14-3-3 proteins in cerebrospinal fluid are helpful in the differential diagnosis. We present a case of a 66-year-old patient initially suspected of Lewy body dementia. On admission, psychomotor retardation, dysarthria, upper extremities dysmetria, extrapyramidal tension in the upper limbs, lower extremities ataxia, slow gait and unstable Romberg test were present. Mini-Mental State Examination (MMSE) score was 24/30. On neuropsychological assessment early stage of dementia was diagnosed. Anxiety-depressive symptoms were observed with periodic visual-auditory components. After less than 3 weeks there was a deterioration of neurological state. Dysarthria and lower limbs ataxia were increased, ataxia of the trunk appeared and psychomotor retardation got worse. There was significant progression of cognitive impairment, therefore complete neuropsychological examination was impossible to perform. MMSE score was 12/30 (12 points less than three months earlier). The course of the disease and additional tests results confirmed the diagnosis of sporadic Creutzfeldt-Jakob disease.
+AD  - Klinika Neurologii, Centralny Szpital Kliniczny Ministerstwa Spraw Wewnętrznych i Administracji, Warszawa.
+Zakład Radiologii, Centralny Szpital Kliniczny Ministerstwa Spraw Wewnętrznych i Administracji, Warszawa.
+I Klinika Neurologii, Instytut Psychiatrii i Neurologii, Warszawa.
+AN  - 34460886
+AU  - Nesteruk, M.
+AU  - Nesteruk, T.
+AU  - Ułamek-Kozioł, M.
+AU  - Holak-Puczyńska, A.
+AU  - Dorobek, M.
+DA  - Jun 30
+DO  - 10.12740/PP/OnlineFirst/110915
+DP  - NLM
+ET  - 20210630
+IS  - 3
+KW  - Aged
+*Creutzfeldt-Jakob Syndrome/diagnosis
+Diagnosis, Differential
+Electroencephalography
+Humans
+*Lewy Body Disease/diagnosis
+Neuropsychological Tests
+Creutzfeldt-Jakob disease
+Lewy body dementia
+progressive dementia
+LA  - eng
+pol
+N1  - 2391-5854
+Nesteruk, Marta
+Nesteruk, Tomasz
+Ułamek-Kozioł, Marzena
+Holak-Puczyńska, Anna
+Dorobek, Małgorzata
+Case Reports
+Poland
+2021/08/31
+Psychiatr Pol. 2021 Jun 30;55(3):621-627. doi: 10.12740/PP/OnlineFirst/110915. Epub 2021 Jun 30.
+OP  - Choroba Creutzfeldta-Jakoba o początkowym przebiegu naśladującym otępienie z ciałami Lewy’ego – opis przypadku.
+PY  - 2021
+SN  - 0033-2674
+SP  - 621-627
+ST  - Creutzfeldt-Jakob disease mimicking Lewy body dementia - a case report
+T2  - Psychiatr Pol
+TI  - Creutzfeldt-Jakob disease mimicking Lewy body dementia - a case report
+VL  - 55
+ID  - 51197
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Aluminium encephalopathy results from exposure to aluminium from occupational, recreational, and environmental sources. Movement disorders, cerebellar ataxia, pyramidal tract signs, dementia, microcytic anemia and bone disease are typical manifestations. CASE REPORT: A 55-year-old woman had clinical manifestations, persistent hyperaluminemia without magnetic resonance imaging (MRI) scan changes of toxic encephalopathy following a prolonged exposure to marine grade paints containing 30% aluminium. Chelation therapy with ethylenediaminetetraacetic acid (EDTA) demonstrated decreased levels of aluminemia and significant neurological improvement over time. DISCUSSION: This diagnosis should be entertained in patients with movement disorders, cerebellar ataxia, pyramidal signs, and dementia of unknown etiology. HIGHLIGHTS: Aluminium encephalopathy (AE) is a neurological syndrome caused by aluminium neurotoxicity. Manifestations include cognitive impairment, motor dysfunction, microcytic anemia and bone disease. This case illustrates AE with hyperaluminemia associated with chronic exposure to industrial paints and clinical and biochemical reversibility after chelation therapy with ethylenediaminetetraacetic acid. Movement disorders are highlighted.
+AD  - Neurology Unit; Department of Medicine, San Fernando Teaching Hospital, The University of the West Indies, TT.
+Department of Medicine, Surgi-Med Clinic, San Fernando, TT.
+Department of Medicine, San Fernando Teaching Hospital, The University of the West Indies, TT.
+Radiology Department, The University of the West Indies, St. Augustine, TT.
+AN  - 33598364
+AU  - Reyes, A. J.
+AU  - Ramcharan, K.
+AU  - Giddings, S. L.
+AU  - Ramesar, A.
+AU  - Arias, E. R.
+AU  - Rampersad, F.
+C1  - The authors have no competing interests to declare.
+C2  - PMC7863844
+DA  - Feb 1
+DO  - 10.5334/tohm.588
+DP  - NLM
+ET  - 20210201
+KW  - Aluminum/toxicity
+*Brain Diseases
+*Dementia/chemically induced/diagnostic imaging/drug therapy
+Female
+Humans
+Magnetic Resonance Imaging
+Middle Aged
+*Movement Disorders/diagnostic imaging/etiology
+Encephalopathy
+aluminium
+dementia
+movement disorders
+paints
+LA  - eng
+N1  - 2160-8288
+Reyes, Antonio Jose
+Orcid: 0000-0002-8000-4655
+Ramcharan, Kanterpersad
+Orcid: 0000-0003-2937-6362
+Giddings, Stanley Lawrence
+Orcid: 0000-0003-3709-6686
+Ramesar, Amrit
+Orcid: 0000-0001-9096-2200
+Arias, Edmundo Rivero
+Orcid: 0000-0001-9357-4422
+Rampersad, Fidel
+Orcid: 0000-0003-4354-9274
+Case Reports
+England
+2021/02/19
+Tremor Other Hyperkinet Mov (N Y). 2021 Feb 1;11:5. doi: 10.5334/tohm.588.
+PY  - 2021
+SN  - 2160-8288
+SP  - 5
+ST  - Movement Disorders and Dementia in a Woman With Chronic Aluminium Toxicity: Video-MRI Imaging
+T2  - Tremor Other Hyperkinet Mov (N Y)
+TI  - Movement Disorders and Dementia in a Woman With Chronic Aluminium Toxicity: Video-MRI Imaging
+VL  - 11
+ID  - 51183
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND Catatonia can occur in various neuropsychiatric disorders and is usually treated with benzodiazepines. So far, although 1 case of dementia with Lewy bodies (DLB) with catatonia has been reported, there have been no reports on patients with DLB whose initial symptom was a catatonia. Here, we present a patient who developed benzodiazepine-resistant catatonia and was subsequently diagnosed with DLB based on DLB biomarkers. CASE REPORT The patient was a 92-year-old woman who had not been diagnosed with dementia before. At the age of 91, she experienced catatonia and was initially treated with lorazepam, which did not improve her condition. Later, she transferred to our hospital and was treated with amantadine. Amantadine improved her catatonic symptoms; however, a decline in her cognitive function was observed. We therefore explored the cause of cognitive impairment through imaging studies. We found that the patient did not have the core clinical features of DLB (ie, visual hallucinations, parkinsonism, cognitive fluctuations, and rapid eye movement sleep behavior disorder) but had 2 indicative biomarkers on 123I-metaiodobenzylguanidine myocardial scintigraphy and dopamine transporter imaging. Possible DLB was diagnosed according to the diagnostic criteria. CONCLUSIONS Our case study suggests that catatonia can be an initial symptom of DLB. Moreover, considering the plausible pathophysiology of catatonia in DLB, amantadine treatment may be the most rational choice for the condition when benzodiazepine treatment is ineffective.
+AD  - Department of Psychiatry, Yamagata University School of Medicine, Iidanishi, Yamagata, Japan.
+Department of Psychiatry, Okitama Public General Hospital, Nishiotsuka, Yamagata, Japan.
+AN  - 34230446
+AU  - Saito, Y.
+AU  - Noto, K.
+AU  - Kobayashi, R.
+AU  - Suzuki, A.
+AU  - Morioka, D.
+AU  - Hayashi, H.
+AU  - Otani, K.
+C1  - Conflict of interest: None declared Conflict of Interest None.
+C2  - PMC8272938
+DA  - Jul 7
+DO  - 10.12659/ajcr.932018
+DP  - NLM
+ET  - 20210707
+KW  - Aged, 80 and over
+*Catatonia/diagnosis/drug therapy/etiology
+*Cognitive Dysfunction
+Female
+Humans
+Lewy Bodies
+*Lewy Body Disease/complications/diagnosis/drug therapy
+*Parkinsonian Disorders
+LA  - eng
+N1  - 1941-5923
+Saito, Yusuke
+Noto, Keisuke
+Kobayashi, Ryota
+Suzuki, Akihito
+Morioka, Daichi
+Hayashi, Hiroshi
+Otani, Koichi
+Case Reports
+Journal Article
+United States
+2021/07/08
+Am J Case Rep. 2021 Jul 7;22:e932018. doi: 10.12659/AJCR.932018.
+PY  - 2021
+SN  - 1941-5923
+SP  - e932018
+ST  - Catatonia as the Initial Manifestation of Dementia with Lewy Bodies
+T2  - Am J Case Rep
+TI  - Catatonia as the Initial Manifestation of Dementia with Lewy Bodies
+VL  - 22
+ID  - 51186
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Mental disorders are a common finding among patients with unruptured intracranial aneurysms. CASE: The current case concerns a young man with an anterior communicating artery aneurysm who was misdiagnosed with schizophrenia and bipolar disorder due to his significant psychosis and mood episodes. Having undergone surgery on the unruptured intracranial aneurysm, the patient's psychiatric symptoms disappeared, and he maintained a stable mood during the 3-year postoperative period. DISCUSSION: The case is indicative of the need to consider the possibility of organic brain lesions in patients with first episodes of psychiatric presentations.
+AD  - Division of Mood Disorder, Clinical Research Center, Shanghai Mental Health Center, Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+Department of Psychiatry and Neuropsychology, Shanghai Deji Hospital, Qingdao University, Shanghai, China.
+CAS Center for Excellence in Brain Science and Intelligence Technology, Shanghai, China.
+Shanghai Key Laboratory of Psychotic Disorders, Shanghai, China.
+AN  - 34291600
+AU  - Shi, Y.
+AU  - Tang, Y.
+AU  - Wu, Z.
+AU  - Chen, J.
+AU  - Huang, J.
+AU  - Fang, Y.
+C1  - The authors declare that there is no conflict of interest.
+C2  - PMC8413816
+DA  - Aug
+DO  - 10.1002/brb3.2245
+DP  - NLM
+ET  - 20210721
+IS  - 8
+KW  - *Bipolar Disorder
+Humans
+*Intracranial Aneurysm/diagnostic imaging/surgery
+Male
+*Schizophrenia
+*Subarachnoid Hemorrhage
+bipolar disorder
+intracranial aneurysm
+schizophrenia
+subarachnoid hemorrhage
+LA  - eng
+N1  - 2162-3279
+Shi, Yifan
+Tang, Yezhou
+Wu, Zhiguo
+Chen, Jun
+Huang, Jia
+Fang, Yiru
+Case Reports
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/07/23
+Brain Behav. 2021 Aug;11(8):e2245. doi: 10.1002/brb3.2245. Epub 2021 Jul 21.
+PY  - 2021
+SP  - e2245
+ST  - Schizophrenia, bipolar disorder, or intracranial aneurysm? A case report
+T2  - Brain Behav
+TI  - Schizophrenia, bipolar disorder, or intracranial aneurysm? A case report
+VL  - 11
+ID  - 51154
+ER  - 
+
+TY  - JOUR
+AB  - Tourette syndrome (TS), a relatively common disorder, has been gaining more attention during the past two decades because of an increased number of reports. Nevertheless, it is still not completely understood. Furthermore, a clinical entity called "pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections" (PANDAS) has been introduced, which describes a tic disorder, accompanied by psychiatric disorders such as obsessive compulsive disorder (OCD), after a streptococcal infection in childhood. We present a case report of a 19-year-old adolescent Ukrainian female, with a history of anxiety disorder and OCD, who, despite TS remission during childhood, presented with new-onset motor and phonic tics after 1 month of severe tonsillitis. Blood and cerebrospinal cultures showed Streptococcus pyogenes, with magnetic resonance imaging revealing hypo-intense changes in the caudate nucleus on both sides. Treatment with clonazepam and fluoxetine, along with behavioral therapy, have improved the severity of her condition. This report presents a case of TS reemergence against the background of immunological reaction or PANDAS with a late adolescent onset.
+AD  - Kharkiv National Medical University, Kharkiv, Ukraine.
+Neurology department №2, Kharkiv National Medical University, Kharkiv, Ukraine.
+Kharkiv National Medical University, Kharkiv, Ukraine. dddimed@gmail.com.
+AN  - 32955635
+AU  - Singh, R.
+AU  - Nekrasova, N.
+AU  - Butov, D.
+DA  - Sep
+DO  - 10.1007/s10354-020-00779-6
+DP  - NLM
+ET  - 20200921
+IS  - 11-12
+KW  - Adolescent
+Adult
+Child
+Female
+Humans
+*Obsessive-Compulsive Disorder/diagnosis
+*Streptococcal Infections/diagnosis/drug therapy
+Streptococcus pyogenes
+*Tic Disorders/diagnosis
+*Tourette Syndrome/diagnosis
+Young Adult
+Adolescent female
+Anti-neuronal antibodies
+New-onset tics
+Obsessive-compulsive disorder (OCD)
+Streptococcal infections
+LA  - eng
+N1  - 1563-258x
+Singh, Rhea
+Nekrasova, Nataliya
+Butov, Dmytro
+Case Reports
+Journal Article
+Austria
+2020/09/22
+Wien Med Wochenschr. 2021 Sep;171(11-12):289-292. doi: 10.1007/s10354-020-00779-6. Epub 2020 Sep 21.
+PY  - 2021
+SN  - 0043-5341
+SP  - 289-292
+ST  - Tourette syndrome or PANDAS-a case report
+T2  - Wien Med Wochenschr
+TI  - Tourette syndrome or PANDAS-a case report
+VL  - 171
+ID  - 51144
+ER  - 
+
+TY  - JOUR
+AB  - RATIONALE: Intravascular large B-cell lymphoma (IVLBCL) is a rare form of large B-cell non-Hodgkin lymphoma. The diagnosis is challenging and frequently made at biopsy. Here we reported a case of IVLBCL limited to the central nervous system (CNS) presenting with progressive dementia and acute stroke, who was diagnosed by brain biopsy. PATIENT CONCERNS: A 47-year-old woman was transferred to our hospital with a 6-month history of rapidly progressive dementia, and left limb weakness and numbness for 3 days. She was successively misdiagnosed with inflammatory demyelinating disease and stroke. Her condition deteriorated with elevated lactate dehydrogenase and multiple hyperintense lesions on the brain. DIAGNOSIS: She was diagnosed with IVLBCL limited to the CNS by brain biopsy. INTERVENTIONS: Bone marrow puncture and incisional random skin biopsy were not found neoplastic cells. Computed tomography scans were normal with no evidence of disease outside the CNS. OUTCOMES: The patient died due to rapid clinical aggravation. LESSONS: IVLBCL limited to the CNS is an aggressive disease with high mortality. Making a timely and correct diagnosis is crucial for early appropriate treatment in IVLBCL patients.
+AD  - Department of Neurology, Longgang District People's Hospital of Shenzhen, China.
+Department of Neurology, The Third Affiliated Hospital of Sun Yat-sen University, China.
+AN  - 35049207
+AU  - Wu, M.
+AU  - Lin, Y.
+AU  - Huang, X.
+AU  - Zhang, B.
+C1  - The authors have no funding and conflicts of interest to disclose.
+C2  - PMC9191555
+DA  - Dec 3
+DO  - 10.1097/md.0000000000027996
+DP  - NLM
+IS  - 48
+KW  - Biopsy
+Brain/*diagnostic imaging
+*Dementia/diagnosis/etiology
+Female
+Humans
+Lymphoma, Large B-Cell, Diffuse/*diagnosis
+Middle Aged
+*Stroke/diagnosis/etiology
+LA  - eng
+N1  - 1536-5964
+Wu, Ming
+Lin, Yinyao
+Huang, Xuehong
+Zhang, Bingjun
+Orcid: 0000-0002-9641-2485
+Case Reports
+Journal Article
+United States
+2022/01/21
+Medicine (Baltimore). 2021 Dec 3;100(48):e27996. doi: 10.1097/MD.0000000000027996.
+PY  - 2021
+SN  - 0025-7974 (Print)
+0025-7974
+SP  - e27996
+ST  - Intravascular large B-cell lymphoma presenting as rapidly progressive dementia and stroke: A case report
+T2  - Medicine (Baltimore)
+TI  - Intravascular large B-cell lymphoma presenting as rapidly progressive dementia and stroke: A case report
+VL  - 100
+ID  - 51167
+ER  - 
+
+TY  - JOUR
+AB  - Recent literature concerning attention-deficit/hyperactivity disorder (ADHD) underlines the persistence of this neurodevelopmental illness in older patients. Comorbidity with a neurodegenerative disease is thus possible. However, few studies have investigated this topic. To our knowledge, this is the first case report of such a possible association, which raises important questions about clinical presentation, symptoms, diagnosis, and treatment. A 72-year-old man, without any psychiatric history, presented with depression, subjective memory loss, and attention deficit and anxious symptoms, and was diagnosed with mild neurocognitive disorder due to Alzheimer's disease. However, the patient's attentional symptoms appeared to have been present since childhood. A formalized diagnostic interview assessing for ADHD did not allow for a clear diagnosis, possibly due to recall bias. The patient's anxiety symptoms also did not respond well to cognitive behavioral therapy coupled with different antidepressants. We hypothesized the presence of ADHD, with the symptoms balanced until now by the patient's high cognitive capacities, and we postulated that the onset of a neurogenerative process may have disrupted this balance. In this case report, we discuss symptom dimensionality, the interplay between neurodegenerative and neurodevelopmental diseases, and various treatment options. Attentional deficits and anxiety symptoms are frequent in mild neurocognitive disorders due to neurodegenerative illnesses. It is important to explore the time of onset of such symptoms since neurodegenerative processes can worsen neurodevelopmental conditions. Moreover, identification of a pre-existing neurodevelopmental condition can lead to alternative care and treatment options. In addition, the unexplained worsening of ADHD symptoms should prompt clinicians to assess for a neurodegenerative process.
+AN  - 35511103
+AU  - Carrillo, P.
+AU  - Rey, R.
+AU  - Padovan, C.
+AU  - Herrmann, M.
+AU  - Dorey, J. M.
+C1  - The authors declare no conflicts of interest.
+DA  - May 1
+DO  - 10.1097/pra.0000000000000627
+DP  - NLM
+ET  - 20220501
+IS  - 3
+KW  - Aged
+*Alzheimer Disease/complications
+*Attention Deficit Disorder with Hyperactivity/diagnosis
+Child
+*Cognitive Dysfunction/complications
+Comorbidity
+Humans
+Male
+*Neurodegenerative Diseases
+LA  - eng
+N1  - 1538-1145
+Carrillo, Pablo
+Rey, Romain
+Padovan, Catherine
+Herrmann, Mathieu
+Dorey, Jean-Michel
+Case Reports
+Journal Article
+United States
+2022/05/06
+J Psychiatr Pract. 2022 May 1;28(3):251-258. doi: 10.1097/PRA.0000000000000627.
+PY  - 2022
+SN  - 1527-4160
+SP  - 251-258
+ST  - Association Between Mild Neurocognitive Disorder Due to Alzheimer's Disease and Possible Attention-deficit/Hyperactivity Disorder: A Case Report
+T2  - J Psychiatr Pract
+TI  - Association Between Mild Neurocognitive Disorder Due to Alzheimer's Disease and Possible Attention-deficit/Hyperactivity Disorder: A Case Report
+VL  - 28
+ID  - 51157
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Kohlschutter-Tonz syndrome (KTS) is a rare, genetic condition, which typically manifests as a triad of symptoms: 1) amelogenesis imperfecta, 2) infantile onset epilepsy, and 3) intellectual disability. The condition poses dental treatment challenges given the manifestation of amelogenesis imperfecta. Additional considerations are needed to medically manage these patients who present with epilepsy and intellectual disability. CASE REPORT: Our patient presented with multiple restorative needs, was treated under general anesthesia, and maintained good oral outcomes with close follow-up. DISCUSSION: To the best of our knowledge, this is the first case report which documents comprehensive dental management of a pediatric patient with KTS.
+AD  - Department of Oral Medicine, University of Pennsylvania School of Dental Medicine, Philadelphia, Pennsylvania, USA.
+Cumberland Valley Pediatric Dentistry, Camp Hill, Pennsylvania, USA.
+Dentistry for Special People, Cherry Hill, New Jersey, USA.
+Division of Pediatric Dentistry, University of Pennsylvania School of Dental Medicine, Philadelphia, Pennsylvania, USA.
+AN  - 34766639
+AU  - Kulkarni, R.
+AU  - Caster, J. M.
+AU  - Robin, A.
+AU  - Hajishengallis, E.
+AU  - Stoopler, E. T.
+AU  - Tanaka, T. I.
+DA  - May
+DO  - 10.1111/scd.12674
+DP  - NLM
+ET  - 20211112
+IS  - 3
+KW  - *Amelogenesis Imperfecta/therapy
+Child
+Dementia
+Dental Care
+*Epilepsy
+Humans
+*Intellectual Disability
+Kohlschutter-Tonz
+amelogenesis imperfecta
+case report
+epilepsy
+LA  - eng
+N1  - 1754-4505
+Kulkarni, Roopali
+Orcid: 0000-0002-5033-7117
+Caster, Jacqueline M
+Robin, Alec
+Hajishengallis, Evlambia
+Stoopler, Eric T
+Tanaka, Takako I
+Case Reports
+United States
+2021/11/13
+Spec Care Dentist. 2022 May;42(3):308-311. doi: 10.1111/scd.12674. Epub 2021 Nov 12.
+PY  - 2022
+SN  - 0275-1879
+SP  - 308-311
+ST  - Dental management of a pediatric patient with Kohlschutter-Tonz syndrome: A case report
+T2  - Spec Care Dentist
+TI  - Dental management of a pediatric patient with Kohlschutter-Tonz syndrome: A case report
+VL  - 42
+ID  - 51200
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND Dementia with Lewy bodies (DLB) is a common cause of dementia. Given the similarities between the symptoms of DLB and non-DLB Alzheimer disease (AD) and related dementias, patients can sometimes be misdiagnosed with AD. To increase the sensitivity of current DLB guidelines, the DLB Consortium published its fourth revised report in 2017 with increased diagnostic weight given to dopamine transporter (DAT) uptake in the basal ganglia, demonstrated by single-photon emission computed tomography or positron emission tomography imaging. We aimed to describe the role of DAT scans in evaluating dopamine deficiency in patients with overlapping symptoms of AD and DLB. CASE REPORT We present case studies of 3 patients with memory impairment who had a diagnosis of probable AD and were being treated with cholinesterase inhibitors. During treatment, dopamine deficiency was suspected and DAT scans were performed. All 3 patients revealed severe DAT deficits in the bilateral corpus striatum. These results were consistent with probable DLB as per the current revised DLB Consortium report. All patients received treatment with carbidopa/levodopa and demonstrated improved overall function. CONCLUSIONS All 3 of our cases demonstrated the role of DAT scans in evaluating dopamine deficiency syndromes in patients with overlapping symptoms of neurocognitive disorders. Thus, a DAT scan is critical for establishing an earlier and more definitive diagnosis of DLB, which provides treatment options for dopamine replacement. It also assists providers with prognostication of dopamine deficiency syndromes and is therefore beneficial in counseling patients and caregivers.
+AD  - Department of Geriatrics, Donald W. Reynolds Institute on Aging, University of Arkansas for Medical Sciences, Little Rock, AR, USA.
+Department of Radiology, Jackson T. Stephens Spine & Neurosciences Institute, University of Arkansas for Medical Sciences, Little Rock, AR, USA.
+AN  - 37016564
+AU  - Alkharisi, B.
+AU  - Dostzada, K.
+AU  - Kaur, H.
+AU  - Kumar, M.
+AU  - Wei, J. Y.
+AU  - Azhar, G.
+C1  - Conflict of interest: None declared
+C2  - PMC10083052
+DA  - Apr 5
+DO  - 10.12659/ajcr.938344
+DP  - NLM
+ET  - 20230405
+KW  - Humans
+*Lewy Body Disease/diagnostic imaging/drug therapy
+Dopamine
+*Alzheimer Disease/diagnosis/drug therapy
+Tomography, Emission-Computed, Single-Photon/methods
+Positron-Emission Tomography
+LA  - eng
+N1  - 1941-5923
+Alkharisi, Bader
+Dostzada, Khaled
+Kaur, Harleen
+Kumar, Manoj
+Wei, Jeanne Y
+Azhar, Gohar
+Case Reports
+Journal Article
+United States
+2023/04/06
+Am J Case Rep. 2023 Apr 5;24:e938344. doi: 10.12659/AJCR.938344.
+PY  - 2023
+SN  - 1941-5923
+SP  - e938344
+ST  - The Importance of Dopamine Deficiency Evaluation in Non-Alzheimer Disease Dementias
+T2  - Am J Case Rep
+TI  - The Importance of Dopamine Deficiency Evaluation in Non-Alzheimer Disease Dementias
+VL  - 24
+ID  - 51148
+ER  - 
+
+TY  - JOUR
+AB  - The term "senile chorea" was previously used to describe cases of insidious onset chorea in elderly patients who lacked family history of chorea. However, many of these patients have an identifiable etiology for their chorea. In this article, we discuss a case of generalized, insidious onset chorea in an 89-year-old man and apply a systematic diagnostic approach to chorea in the elderly to arrive at a diagnosis of late-onset Huntington's disease. He is to our knowledge the second oldest case of late-onset Huntington's disease reported in the literature and his case lends support to the expanding phenotype of Huntington's disease.
+AD  - Parkinson's Disease and Movement Disorders, University of Virginia Health System, Charlottesville, VA, USA.
+Neurological Institute, University Hospitals Cleveland Medical Center, Cleveland, OH, USA.
+Case Western Reserve University, Cleveland, OH, USA.
+Center for Human Genetics, University Hospitals Cleveland Medical Center, Cleveland, OH, USA.
+AN  - 38073394
+AU  - Higinbotham, A. S.
+AU  - DeBrosse, S. D.
+AU  - Gunzler, S.
+DO  - 10.3233/jhd-230596
+DP  - NLM
+IS  - 4
+KW  - Male
+Aged, 80 and over
+Humans
+Aged
+*Huntington Disease/complications/diagnosis/genetics
+*Chorea/diagnosis/etiology
+Octogenarians
+Diagnosis, Differential
+Huntington’s disease
+chorea
+late-onset Huntington’s disease
+senile chorea
+LA  - eng
+N1  - 1879-6400
+Higinbotham, Alissa S
+DeBrosse, Suzanne D
+Gunzler, Steven
+Case Reports
+Journal Article
+Netherlands
+2023/12/11
+J Huntingtons Dis. 2023;12(4):377-380. doi: 10.3233/JHD-230596.
+PY  - 2023
+SN  - 1879-6397
+SP  - 377-380
+ST  - Chorea in the Elderly: A Differential Diagnosis and Case Report of Late-Onset Huntington's Disease in an Octogenarian
+T2  - J Huntingtons Dis
+TI  - Chorea in the Elderly: A Differential Diagnosis and Case Report of Late-Onset Huntington's Disease in an Octogenarian
+VL  - 12
+ID  - 51166
+ER  - 
+
+TY  - JOUR
+AB  - Anti-IgLON family member 5 (IgLON5) disease is a rare autoimmune encephalitis, characterized by sleep problems, cognitive decline, gait abnormalities, and bulbar dysfunction. Anti-leucine-rich glioma-inactivated 1 (LGI1) autoimmune encephalitis is characterized by cognitive dysfunction, mental disorders, faciobrachial dystonic seizures (FBDS), and hyponatremia. Various studies report that coronavirus disease 2019 (COVID-19) have an effect on the nervous system and induce a wide range of neurological symptoms. Autoimmune encephalitis is one of the neurological complications in severe acute respiratory syndrome coronavirus 2 infection. Until now, autoimmune encephalitis with both anti-IgLON5 and anti-LGI1 receptor antibodies following COVID-19 is rarely reported. The case report described a 40-year-old man who presented with sleep behavior disorder, daytime sleepiness, paramnesia, cognitive decline, FBDS, and anxiety following COVID-19. Anti-IgLON5 and anti-LGI1 receptor antibodies were positive in serum, and anti-LGI1 receptor antibodies were positive in cerebrospinal fluid. The patient presented with typical symptoms of anti-IgLON5 disease such as sleep behavior disorder, obstructive sleep apnea, and daytime sleepiness. Moreover, he presented with FBDS, which is common in anti-LGI1 encephalitis. Therefore, the patient was diagnosed with anti-IgLON5 disease and anti-LGI1 autoimmune encephalitis. The patient turned better after high-dose steroid and mycophenolate mofetil therapy. The case serves to increase the awareness of rare autoimmune encephalitis after COVID-19.
+AD  - Department of Neurology, The First Affiliated Hospital of Zhengzhou University, Zhengzhou, Henan, China.
+AN  - 37383232
+AU  - Li, Y.
+AU  - Jia, Y.
+C1  - The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+C2  - PMC10293611
+DO  - 10.3389/fimmu.2023.1195341
+DP  - NLM
+ET  - 20230613
+KW  - Male
+Humans
+Adult
+*COVID-19/complications
+*Encephalitis/diagnosis/drug therapy/etiology
+*Sleep Apnea, Obstructive
+*Glioma
+*Sleep Wake Disorders
+*Disorders of Excessive Somnolence
+*Autoimmune Diseases of the Nervous System
+Covid-19
+IgLON5
+Lgi1
+autoimmune encephalitis
+case report
+LA  - eng
+N1  - 1664-3224
+Li, Yanfei
+Jia, Yanjie
+Case Reports
+Switzerland
+2023/06/29
+Front Immunol. 2023 Jun 13;14:1195341. doi: 10.3389/fimmu.2023.1195341. eCollection 2023.
+PY  - 2023
+SN  - 1664-3224
+SP  - 1195341
+ST  - Case report: Anti-IgLON5 disease and anti-LGI1 encephalitis following COVID-19
+T2  - Front Immunol
+TI  - Case report: Anti-IgLON5 disease and anti-LGI1 encephalitis following COVID-19
+VL  - 14
+ID  - 51143
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Stroke is currently the second leading cause of death in the elderly population. Neuropsychiatric complications following stroke are common, can be overlooked, and are associated with low quality of life, increase in the burden of caregiving and impaired functional status. METHODS: We report a case of poststroke psychosis in a woman without prior psychiatric history. In addition, a brief, nonsystematic review of the pertinent literature was performed. RESULTS: Psychosis can present in almost 5% of stroke survivors. Many patients with poststroke psychosis have no previous psychiatric history and the most common lesion locations include the right frontal, temporal and parietal lobes, the white matter connecting those areas, as well as the right caudate nucleus. Compared to other stroke survivors, patients with poststroke psychosis are more likely to depend on assistance in their everyday lives, can have more difficulty coping with the sequelae of stroke, and have an increased 10-year mortality risk. Guidelines for diagnosing and managing poststroke psychosis are needed. CONCLUSION: Psychosis is a possible complication of stroke and is associated with impairment and increased mortality. Guidelines for diagnosing and managing poststroke psychosis are currently lacking. To assure evidence-based care, further research is needed.
+AD  - Department of Psychiatry and Mental Health, Hospital do Espírito Santo de Évora, Largo do Senhor da Pobreza, 7000-811, Évora, Portugal. rodrigo_fmfreitas@hotmail.com.
+Department of Psychiatry and Mental Health, Hospital do Espírito Santo de Évora, Largo do Senhor da Pobreza, 7000-811, Évora, Portugal.
+, Lisbon, Portugal.
+AN  - 36151446
+AU  - Mota Freitas, R.
+AU  - Reis Gomes, D.
+AU  - Antunes Pedro, J.
+AU  - Guerra, A.
+C1  - D. Reis Gomes received support from Alter, S.A. to attend a meeting. The funding source had no role in the design, practice or analysis of this work. R. Mota Freitas, J. Antunes Pedro, and A. Guerra declare that they have no competing interests.
+C2  - PMC9510268
+DA  - Jun
+DO  - 10.1007/s40211-022-00432-1
+DP  - NLM
+ET  - 20220923
+IS  - 2
+KW  - Female
+Humans
+Aged
+Quality of Life
+*Psychotic Disorders/etiology/complications
+*Stroke/complications/diagnosis
+Disease Progression
+Biological psychiatry
+Cerebrovascular diseases
+Geriatric psychiatry
+Neuropsychiatry
+Psychotic disorders
+LA  - eng
+N1  - 2194-1327
+Mota Freitas, Rodrigo
+Orcid: 0000-0001-6836-9988
+Reis Gomes, Diogo
+Antunes Pedro, João
+Guerra, Ana
+Case Reports
+Journal Article
+Review
+Germany
+2022/09/24
+Neuropsychiatr. 2023 Jun;37(2):101-104. doi: 10.1007/s40211-022-00432-1. Epub 2022 Sep 23.
+OP  - Psychose nach Schlaganfall: ein Fallbericht.
+PY  - 2023
+SN  - 0948-6259 (Print)
+0948-6259
+SP  - 101-104
+ST  - Poststroke psychosis: a case report
+T2  - Neuropsychiatr
+TI  - Poststroke psychosis: a case report
+VL  - 37
+ID  - 51145
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Huntington's disease is an autosomal dominant inherited disorder characterized by personality changes (such as irritability and restlessness) and psychotic symptoms (such as hallucinations and delusions). When the personality changes become noticeable, involuntary movements (chorea) also develop. The disease is caused by the CAG repeat expansion in the coding region of the HTT gene, and the diagnosis is based on the presence of this expansion. However, there is currently no effective treatment for the progression of Huntington's disease and its involuntary motor symptoms. Herein, we present a case in which memantine was effective in treating the chorea movements of Huntington's disease. CASE PRESENTATION: A 75-year-old Japanese woman presented to the hospital with involuntary movements of Huntington's disease that began when she was 73 years old. In a cerebral blood flow test (N-isopropyl-p-iodoamphetamine-single-photon emission computed tomography), decreased blood flow was observed in the precuneus (anterior wedge) and posterior cingulate gyrus. Usually, such areas of decreased blood flow are observed in patients with Alzheimer's-type dementia. So, we administered memantine for Alzheimer's-type dementia, and this treatment suppressed the involuntary movements of Huntington's disease, and the symptoms progressed slowly for 7 years after the onset of senility. In contrast, her brother died of complications of pneumonia during the course of Huntington's disease. CONCLUSIONS: We recorded changes in parameters such as the results of the N-isopropyl-p-iodoamphetamine-single-photon emission computed tomography and gait videos over 7 years. Treatment with memantine prevented the chorea movement and the progression of Huntington's disease. We believe this record will provide clinicians with valuable information in diagnosing and treating Huntington's disease.
+AD  - Department of Neurology, Faculty of Medicine, Kindai University, Osakasayama, Japan. saigohk@gmail.com.
+Department of Life Science, Faculty of Science, and Engineering, Kindai University, 377-2, Ohno-Higashi, Osakasayama, Osaka, 589-8511, Japan. saigohk@gmail.com.
+Department of Clinical Genetics, Kindai University Hospital, Osakasayama, Japan. saigohk@gmail.com.
+Department of Neurology, Faculty of Medicine, Kindai University, Osakasayama, Japan.
+Department of Clinical Genetics, Kindai University Hospital, Osakasayama, Japan.
+AN  - 37840138
+AU  - Saigoh, K.
+AU  - Hirano, M.
+AU  - Mitsui, Y.
+AU  - Oda, I.
+AU  - Ikegawa, A.
+AU  - Samukawa, M.
+AU  - Yoshikawa, K.
+AU  - Yamagishi, Y.
+AU  - Kusunoki, S.
+AU  - Nagai, Y.
+C1  - The authors have no competing interests to declare.
+C2  - PMC10578007
+DA  - Oct 16
+DO  - 10.1186/s13256-023-04161-z
+DP  - NLM
+ET  - 20231016
+IS  - 1
+KW  - Male
+Female
+Humans
+Aged
+*Huntington Disease/complications/drug therapy/diagnosis
+*Chorea/drug therapy/genetics
+Memantine/therapeutic use
+*Alzheimer Disease
+Iofetamine
+*Dyskinesias/etiology/complications
+Alzheimer’s disease
+Case report
+Huntington’s disease
+Memantine
+Spect
+LA  - eng
+N1  - 1752-1947
+Saigoh, Kazumasa
+Orcid: 0000-0002-0905-5935
+Hirano, Makito
+Mitsui, Yoshiyuki
+Oda, Itsuki
+Ikegawa, Atsuko
+Samukawa, Makoto
+Yoshikawa, Keisuke
+Yamagishi, Yuko
+Kusunoki, Susumu
+Nagai, Yoshitaka
+22K07547/Japan Society for the Promotion of Science (JSPS)/
+Case Reports
+Journal Article
+England
+2023/10/16
+J Med Case Rep. 2023 Oct 16;17(1):431. doi: 10.1186/s13256-023-04161-z.
+PY  - 2023
+SN  - 1752-1947
+SP  - 431
+ST  - Memantine administration prevented chorea movement in Huntington's disease: a case report
+T2  - J Med Case Rep
+TI  - Memantine administration prevented chorea movement in Huntington's disease: a case report
+VL  - 17
+ID  - 51164
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The comorbidities of either epilepsy or Tourette syndrome (TS) are heterogeneous. However, the co-occurrence of epilepsy and TS conditions is rarely encountered, let alone effective treatments that address both neurologic disorders at the same time. METHODS: We report a 24-year-old female patient who was diagnosed with TLE and TS. She presented for seizure control. After evaluation with stereo-electroencephalography and electrocorticography monitoring, the patient underwent a resective surgery treatment and was followed for 9 months. RESULTS: At the last follow-up, the patient remained seizure free and unexpectedly showed great improvement in TS symptoms and its psychiatric comorbidities. CONCLUSION: This anecdotal case highlights the close association between TLE and TS and we suggest that epilepsy and TS share some common pathophysiologic mechanisms.
+AD  - Beijing Institute of Functional Neurosurgery, Xuanwu Hospital, Capital Medical University, Xicheng District, Beijing, China.
+AN  - 34623200
+AU  - Sun, F.
+AU  - Zhang, G.
+AU  - Zhang, X.
+DA  - Jul
+DO  - 10.1080/00207454.2021.1990914
+DP  - NLM
+ET  - 20211018
+IS  - 7
+KW  - Humans
+Female
+*Tourette Syndrome/diagnosis/surgery
+*Epilepsy, Temporal Lobe/diagnosis/surgery
+Electroencephalography
+Electrocorticography
+Adult
+Treatment Outcome
+Tourette syndrome
+anxiety
+depression
+epilepsy
+obsessive-compulsive disorder
+LA  - eng
+N1  - 1563-5279
+Sun, Fengqiao
+Zhang, Guojun
+Zhang, Xiaohua
+Case Reports
+Journal Article
+England
+2021/10/09
+Int J Neurosci. 2023 Jul;133(7):806-811. doi: 10.1080/00207454.2021.1990914. Epub 2021 Oct 18.
+PY  - 2023
+SN  - 0020-7454
+SP  - 806-811
+ST  - Improvement of Tourette syndrome symptoms after intractable temporal lobe epileptic surgery: a case report
+T2  - Int J Neurosci
+TI  - Improvement of Tourette syndrome symptoms after intractable temporal lobe epileptic surgery: a case report
+VL  - 133
+ID  - 51196
+ER  - 
+
+TY  - JOUR
+AB  - Sleep-related rhythmic movement disorder is characterised by stereotyped and repetitive rhythmic movements involving large muscle groups during sleep with frequencies between 0.5 and 2 Hz. Most of the published studies on sleep-related rhythmic movement disorder have focussed on children. Therefore, we performed a systematic review on this topic focussing on the adult population. The review is followed by a case report. The review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines. A total of seven manuscripts (n = 32 individuals) were included in the review. The clinical manifestation of body or head rolling predominated in the majority of included cases (53.13% and 43.75%, respectively). In n = 11 (34.37%) cases, a combination of rhythmic movements was observed. The literature review also revealed a wide spectrum of co-morbidities: insomnia, restless leg syndrome, obstructive sleep apnea, ischaemic stroke, epilepsy, hypertension, alcohol and drug dependency, mild depression, and diabetes mellitus. The case report presented a 33-year-old female who was referred to the sleep laboratory due to a suspicion of sleep bruxism and obstructive sleep apnea. Although the patient was initially suspected of having obstructive sleep apnea and sleep bruxism, after conducting video-polysomnography she met the criteria for sleep-related rhythmic movement disorder as she presented body rolling, which were surprisingly most evident during the rapid eye movement sleep stage. In summary, the prevalence of sleep-related rhythmic movement disorder among adults has not been determined yet. The present review and case report is a good starting point for discussion regarding rhythmic movement disorder in adults and further research on this topic.
+AD  - Department of Internal Medicine, Occupational Diseases, Hypertension and Clinical Oncology, Wroclaw Medical University, Wroclaw, Poland.
+Department of Experimental Dentistry, Wroclaw Medical University, Wroclaw, Poland.
+Third Department of Psychiatry and Sleep Medicine Center, Institute of Psychiatry and Neurology, Warsaw, Poland.
+Clinic of Stomatology and Maxillofacial Surgery, Faculty of Medicine, University Pavol Josef Safarik and Akademia Kosice, Kosice, Slovakia.
+Student Research Club No K133, Faculty of Medicine, Wroclaw Medical University, Wroclaw, Poland.
+Department and Clinic of Psychiatry, Wroclaw Medical University, Wroclaw, Poland.
+Department of Neurology, Wroclaw Medical University, Wroclaw, Poland.
+AN  - 37414586
+AU  - Michalek-Zrabkowska, M.
+AU  - Wieckiewicz, M.
+AU  - Wichniak, A.
+AU  - Jenca, A., Jr.
+AU  - Jencova, J.
+AU  - Frosztega, W.
+AU  - Wieczorek, T.
+AU  - Chojdak-Lukasiewicz, J.
+AU  - Sluzewska-Niedzwiedz, M.
+AU  - Wojakowska, A.
+AU  - Poreba, R.
+AU  - Mazur, G.
+AU  - Martynowicz, H.
+DA  - Feb
+DO  - 10.1111/jsr.13985
+DP  - NLM
+ET  - 20230706
+IS  - 1
+KW  - Adult
+Child
+Female
+Humans
+*Sleep Bruxism
+*Brain Ischemia
+*Stroke
+Sleep/physiology
+*Parasomnias/complications
+*Sleep Apnea, Obstructive
+Movement
+*Movement Disorders
+body rolling
+polysomnography
+rhythmic movements
+LA  - eng
+N1  - 1365-2869
+Michalek-Zrabkowska, Monika
+Orcid: 0000-0002-9740-011x
+Wieckiewicz, Mieszko
+Orcid: 0000-0003-4953-7143
+Wichniak, Adam
+Orcid: 0000-0002-5352-601x
+Jenca, Andrej Jr
+Orcid: 0000-0003-4501-7407
+Jencova, Janka
+Frosztega, Weronika
+Orcid: 0000-0002-3924-5545
+Wieczorek, Tomasz
+Chojdak-Lukasiewicz, Justyna
+Orcid: 0000-0002-0777-4565
+Sluzewska-Niedzwiedz, Monika
+Orcid: 0000-0001-6953-3073
+Wojakowska, Anna
+Orcid: 0000-0002-8699-6448
+Poreba, Rafal
+Orcid: 0000-0002-7217-7070
+Mazur, Grzegorz
+Orcid: 0000-0001-6610-2008
+Martynowicz, Helena
+Orcid: 0000-0003-1283-8460
+Case Reports
+Journal Article
+Review
+Systematic Review
+England
+2023/07/07
+J Sleep Res. 2024 Feb;33(1):e13985. doi: 10.1111/jsr.13985. Epub 2023 Jul 6.
+PY  - 2024
+SN  - 0962-1105
+SP  - e13985
+ST  - Sleep-related rhythmic movement disorder in adults - A systematic review with a case report
+T2  - J Sleep Res
+TI  - Sleep-related rhythmic movement disorder in adults - A systematic review with a case report
+VL  - 33
+ID  - 51168
+ER  - 
+

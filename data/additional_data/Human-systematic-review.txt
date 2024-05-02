@@ -1,0 +1,2879 @@
+﻿TY  - JOUR
+AB  - BACKGROUND: People with Alzheimer's disease have been found to have a relative lack of the enzyme responsible for converting choline into acetylcholine within the brain. Lecithin is a major dietary source of choline, so extra consumption may assist in the production of acetylcholine and reduce some of the symptoms of dementia. OBJECTIVES: To determine the efficacy of lecithin in the treatment of dementia or cognitive impairment. SEARCH STRATEGY: The Cochrane Dementia and Cognitive Impairment Group Register of Clinical Trials has been searched, as have the electronic databases MEDLINE, EMBASE, Psychlit, ISI and Current Contents. Reference lists and relevant books have been examined. SELECTION CRITERIA: All unconfounded, randomised trials comparing lecithin with placebo in a treatment period longer than one day, in patients with dementia of the Alzheimer type, vascular dementia, mixed vascular and Alzheimer's disease, unclassified or other dementia or unclassified cognitive impairment not fulfilling the criteria for dementia are eligible for inclusion. DATA COLLECTION AND ANALYSIS: Data are extracted by two independent reviewers and cross checked. Meta-analyses are performed when more than one trial provide data on a comparable outcome on sufficiently similar patients. Random effects analyses are performed whenever heterogeneity between results appears to be present. Standardised mean difference are used due do the use of different scales and periods of treatment. Odds ratios for dichotomous data are pooled using the Mantel-Haenszel or DerSimonian and Laird methods. MAIN RESULTS: Eleven randomised trials have been identified involving patients with Alzheimer's disease (265 patients) and Parkinsonian dementia (21 patients). No trials reported any clear clinical benefit of lecithin. Few trials contributed data to meta-analyses. The only statistically significant result was in favour of placebo for adverse events, based on one trial, which appears likely to be a spurious result. REVIEWER'S CONCLUSIONS: Evidence from randomised trials does not support the use of lecithin in the treatment of patients with dementia or cognitive impairment. A moderate effect cannot be ruled out, but results from the small trials to date do not indicate priority for a large randomised trial.
+AD  - MRC Biostatistics Unit, Institute of Public Health, Robinson Way, Cambridge, Cambridgeshire, UK, CB2 2SR. julian.higgins@mrc-bsu.cam.ac.uk
+AN  - 10796586
+AU  - Higgins, J. P.
+AU  - Flicker, L.
+DO  - 10.1002/14651858.Cd001015
+DP  - NLM
+IS  - 2
+KW  - Alzheimer Disease/drug therapy
+Cognition Disorders/*drug therapy
+Dementia/*drug therapy
+Humans
+Phosphatidylcholines/*therapeutic use
+LA  - eng
+N1  - 1469-493x
+Higgins, J P
+Flicker, L
+Journal Article
+Review
+Systematic Review
+England
+2000/05/05
+Cochrane Database Syst Rev. 2000;(2):CD001015. doi: 10.1002/14651858.CD001015.
+PY  - 2000
+SN  - 1361-6137
+SP  - Cd001015
+ST  - Lecithin for dementia and cognitive impairment
+T2  - Cochrane Database Syst Rev
+TI  - Lecithin for dementia and cognitive impairment
+ID  - 50932
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Alzheimer's disease, vascular and mixed dementia are the three commonest forms of dementia affecting older people. There is evidence that the excitatory activity of L-glutamate plays a role in the pathogenesis of Alzheimer's disease and in the damage from an ischaemic stroke. A low affinity antagonist to N-Methyl-D-aspartate (NMDA) type receptors, such as memantine, may prevent excitatory amino acid neurotoxicity without interfering with the physiological actions of glutamate required for memory and learning. OBJECTIVES: To determine the clinical efficacy and safety of memantine for people with Alzheimer's disease, or vascular or mixed dementia. SEARCH STRATEGY: Trials were identified from a search of the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group on 15 April 2003 using the terms: memantin*, D-145, DMAA, DRG-0267. All major health care databases and trial databases within the scope of the group are searched regularly to keep this Register up to date. SELECTION CRITERIA: Double-blind, parallel group, placebo-controlled, randomized and unconfounded trials in which memantine was administered to people with dementia. DATA COLLECTION AND ANALYSIS: Data were extracted, pooled where possible, and weighted mean differences, standardized mean differences or odds ratios were estimated. Intention-to-treat (ITT) and observed cases (OC) analyses are reported, where data were available. MAIN RESULTS: Effect of memantine in patients with moderate to severe Alzheimer's disease: analysis of the change from baseline at 28 weeks gave statistically significant results in favour of memantine for 20 mg/day on cognition (MD: 6.1. 95% CI 2.99 to 9.21, P=0.0001) activities of daily living (MD 2.10, 95% CI 0.46 to 3.74, p=0.01) and in the global clinical impression of change measured by the CIBIC-Plus at 28 weeks (MD -0.30, 95% CI -0.58 to -0.02, p=0.04), in all cases the analysis was the ITT-LOCF population (Reisberg 2000). There were no significant differences between memantine and placebo for the number of drop-outs and total number of adverse effects, but a significant difference in favour of memantine for the number who suffer agitation. Effect of memantine in patients with mild to moderate vascular dementia: analysis of the change from baseline at 28 weeks gave statistically significant results in favour of memantine ( 20 mg/day ) for cognition (MD -2.19, 95% CI -3.16 to -1.21, P<0.0001) but there was no benefit for the clinical impression of change, or for global measures of dementia (MMM300, and MMM500). There were no significant differences between memantine and placebo for the number of drop-outs and total number of adverse effects, but a significant difference in favour of memantine for the number who suffer agitation. Effect of memantine in patients with Alzheimer's disease and vascular dementia at 12 weeks: there was no statistically significant difference between memantine (10 mg/day) and placebo in activities of daily living. There was a benefit in favour of memantine (10 mg/day) compared with placebo at 12 weeks, for the numbers improved in terms of clinical impression of change (60/82 compared with 38/84 - OR 3.30, 95% CI 1.72 to 6.33, P=0.0003) (Winblad 1999). Effect of memantine in patients with vascular dementia, Alzheimer's disease and dementia of non-specified type at 6 weeks: there were beneficial effects on cognition (Ditzler 1991), activities of daily living (Ditzler 1991, Pantev 1993), behaviour (Pantev 1993) and global scales (Gortelmeyer 1992; Pantev 1993; Ditzler 1991) and in global impression of change (Gortelmeyer 1992; Ditzler 1991). There were no significant differences between memantine and placebo for the number of drop-outs and total number of adverse effects, but a significant difference in favour of placebo for the number who suffer restlessness. REVIEWER'S CONCLUSIONS: There is a beneficial effect of memantine (20 mg/day) for patients with moderate to severe Alzheimer disease on cognition and functional decline but not in the clinical impression of change. Patifor patients with moderate to severe Alzheimer disease on cognition and functional decline but not in the clinical impression of change. Patients with mild to moderate vascular dementia receiving memantine 20 mg/day had less cognitive deterioration at 28 weeks but again this effect was not clinically discernible. There is a possible beneficial effect on cognition, function and global scales for memantine at 6 weeks in mixed populations. The drug is well tolerated and the incidence of adverse effects is low. More studies are needed.
+AN  - 12917950
+AU  - Areosa, S. A.
+AU  - Sherriff, F.
+DO  - 10.1002/14651858.Cd003154
+DP  - NLM
+IS  - 3
+KW  - Activities of Daily Living
+Aged
+Aged, 80 and over
+Alzheimer Disease/drug therapy
+Cognition Disorders/drug therapy
+Dementia/*drug therapy
+Dementia, Vascular/drug therapy
+Excitatory Amino Acid Antagonists/*therapeutic use
+Humans
+Memantine/*therapeutic use
+Randomized Controlled Trials as Topic
+LA  - eng
+N1  - 1469-493x
+Areosa, Sastre A
+Sherriff, F
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+England
+2003/08/15
+Cochrane Database Syst Rev. 2003;(3):CD003154. doi: 10.1002/14651858.CD003154.
+PY  - 2003
+SN  - 1361-6137
+SP  - Cd003154
+ST  - Memantine for dementia
+T2  - Cochrane Database Syst Rev
+TI  - Memantine for dementia
+ID  - 50936
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Preterm birth is a major contributor to perinatal mortality and morbidity worldwide. Tocolytic agents are drugs used to inhibit uterine contractions. The most widely used tocolytic agents are betamimetics especially in resource-poor countries. OBJECTIVES: To assess the effects of betamimetics given to women with preterm labour. SEARCH STRATEGY: We searched the Cochrane Pregnancy and Childbirth Group trials register (May 2003) without language restrictions. SELECTION CRITERIA: Randomised controlled trials of betamimetics, administered by any route or any dose, in the treatment of women in preterm labour where betamimetics are compared with other betamimetics, placebo or no treatment. DATA COLLECTION AND ANALYSIS: Two reviewers evaluated independently methodological quality and extracted the data. We sought additional information to enable assessment of methodology and conduct intention-to-treat analyses. We present the results using the relative risk for categorical data and the weighted mean difference for continuous data. MAIN RESULTS: Eleven randomised controlled trials, involving 1332 women, compared betamimetics with placebo. Betamimetics decreased the number of women in preterm labour giving birth within 48 hours (relative risk (RR) 0.63; 95% confidence interval (CI) 0.53 to 0.75) but there was no decrease in the number of births within seven days after carrying out a sensitivity analysis of studies with adequate allocation of concealment. No benefit was demonstrated for betamimetics on perinatal death (RR 0.84; 95% CI 0.46 to 1.55, 7 trials, n = 1332), or neonatal death (RR 1.00; 95% CI 0.48 to 2.09, 5 trials, n = 1174). No significant effect was demonstrated for respiratory distress syndrome (RR 0.87; 95% CI 0.71 to 1.08, 8 trials, n = 1239). A few trials reported the following outcomes, with no difference detected: cerebral palsy, infant death and necrotizing enterocolitis. Betamimetics were significantly associated with the following: withdrawal from treatment due to adverse effects; chest pain; dyspnoea; tachycardia; palpitation; tremor; headaches; hypokalemia; hyperglycemia; nausea/vomiting; and nasal stuffiness; and fetal tachycardia. Other betamimetics were compared with ritodrine in five trials (n = 948). Trials were small, varied and of insufficient quality to delineate any consistent patterns of effect. REVIEWERS' CONCLUSIONS: Betamimetics help to delay delivery for women transferred to tertiary care or completed a course of antenatal corticosteroids. However, multiple adverse effects must be considered. The data are too few to support the use of any particular betamimetics.
+AD  - Chonburi Hospital, Ampur Muang, Chonburi, Thailand, 20000. dr_suchada@hotmail.com
+AN  - 15495104
+AU  - Anotayanonth, S.
+AU  - Subhedar, N. V.
+AU  - Garner, P.
+AU  - Neilson, J. P.
+AU  - Harigopal, S.
+DA  - Oct 18
+DO  - 10.1002/14651858.CD004352.pub2
+DP  - NLM
+ET  - 20041018
+IS  - 4
+KW  - Adrenergic beta-Agonists/*therapeutic use
+Female
+Fenoterol/therapeutic use
+Hexoprenaline/therapeutic use
+Humans
+Obstetric Labor, Premature/*prevention & control
+Pregnancy
+Randomized Controlled Trials as Topic
+Ritodrine/therapeutic use
+Terbutaline/therapeutic use
+Tocolytic Agents/*therapeutic use
+LA  - eng
+N1  - 1469-493x
+Anotayanonth, S
+Subhedar, N V
+Garner, P
+Neilson, J P
+Harigopal, S
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+England
+2004/10/21
+Cochrane Database Syst Rev. 2004 Oct 18;(4):CD004352. doi: 10.1002/14651858.CD004352.pub2.
+PY  - 2004
+SN  - 1361-6137
+SP  - Cd004352
+ST  - Betamimetics for inhibiting preterm labour
+T2  - Cochrane Database Syst Rev
+TI  - Betamimetics for inhibiting preterm labour
+ID  - 9860
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT: In 2002, an estimated 877,000 lives were lost worldwide through suicide. Some developed nations have implemented national suicide prevention plans. Although these plans generally propose multiple interventions, their effectiveness is rarely evaluated. OBJECTIVES: To examine evidence for the effectiveness of specific suicide-preventive interventions and to make recommendations for future prevention programs and research. DATA SOURCES AND STUDY SELECTION: Relevant publications were identified via electronic searches of MEDLINE, the Cochrane Library, and PsychINFO databases using multiple search terms related to suicide prevention. Studies, published between 1966 and June 2005, included those that evaluated preventative interventions in major domains; education and awareness for the general public and for professionals; screening tools for at-risk individuals; treatment of psychiatric disorders; restricting access to lethal means; and responsible media reporting of suicide. DATA EXTRACTION: Data were extracted on primary outcomes of interest: suicidal behavior (completion, attempt, ideation), intermediary or secondary outcomes (treatment seeking, identification of at-risk individuals, antidepressant prescription/use rates, referrals), or both. Experts from 15 countries reviewed all studies. Included articles were those that reported on completed and attempted suicide and suicidal ideation; or, where applicable, intermediate outcomes, including help-seeking behavior, identification of at-risk individuals, entry into treatment, and antidepressant prescription rates. We included 3 major types of studies for which the research question was clearly defined: systematic reviews and meta-analyses (n = 10); quantitative studies, either randomized controlled trials (n = 18) or cohort studies (n = 24); and ecological, or population- based studies (n = 41). Heterogeneity of study populations and methodology did not permit formal meta-analysis; thus, a narrative synthesis is presented. DATA SYNTHESIS: Education of physicians and restricting access to lethal means were found to prevent suicide. Other methods including public education, screening programs, and media education need more testing. CONCLUSIONS: Physician education in depression recognition and treatment and restricting access to lethal methods reduce suicide rates. Other interventions need more evidence of efficacy. Ascertaining which components of suicide prevention programs are effective in reducing rates of suicide and suicide attempt is essential in order to optimize use of limited resources.
+AD  - New York State Psychiatric Institute, Division of Neuroscience, New York, NY 10032, USA. jjm@columbia.edu
+AN  - 16249421
+AU  - Mann, J. J.
+AU  - Apter, A.
+AU  - Bertolote, J.
+AU  - Beautrais, A.
+AU  - Currier, D.
+AU  - Haas, A.
+AU  - Hegerl, U.
+AU  - Lonnqvist, J.
+AU  - Malone, K.
+AU  - Marusic, A.
+AU  - Mehlum, L.
+AU  - Patton, G.
+AU  - Phillips, M.
+AU  - Rutz, W.
+AU  - Rihmer, Z.
+AU  - Schmidtke, A.
+AU  - Shaffer, D.
+AU  - Silverman, M.
+AU  - Takahashi, Y.
+AU  - Varnik, A.
+AU  - Wasserman, D.
+AU  - Yip, P.
+AU  - Hendin, H.
+DA  - Oct 26
+DO  - 10.1001/jama.294.16.2064
+DP  - NLM
+IS  - 16
+KW  - Antipsychotic Agents/therapeutic use
+Continuity of Patient Care
+Health Education
+Health Knowledge, Attitudes, Practice
+Humans
+Mass Media
+Mass Screening
+Mental Disorders/diagnosis/therapy
+Physician's Role
+Physicians, Family
+Psychotherapy
+Referral and Consultation
+Risk Reduction Behavior
+Suicide/psychology
+*Suicide Prevention
+LA  - eng
+N1  - 1538-3598
+Mann, J John
+Apter, Alan
+Bertolote, Jose
+Beautrais, Annette
+Currier, Dianne
+Haas, Ann
+Hegerl, Ulrich
+Lonnqvist, Jouko
+Malone, Kevin
+Marusic, Andrej
+Mehlum, Lars
+Patton, George
+Phillips, Michael
+Rutz, Wolfgang
+Rihmer, Zoltan
+Schmidtke, Armin
+Shaffer, David
+Silverman, Morton
+Takahashi, Yoshitomo
+Varnik, Airi
+Wasserman, Danuta
+Yip, Paul
+Hendin, Herbert
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+United States
+2005/10/27
+JAMA. 2005 Oct 26;294(16):2064-74. doi: 10.1001/jama.294.16.2064.
+PY  - 2005
+SN  - 0098-7484
+SP  - 2064-74
+ST  - Suicide prevention strategies: a systematic review
+T2  - Jama
+TI  - Suicide prevention strategies: a systematic review
+VL  - 294
+ID  - 50935
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare paroxetine with placebo and other antidepressants across multiple efficacy and tolerability outcomes. DATA SOURCES: Searches were conducted in MEDLINE (1966-2004), EMBASE (1980-2004), CINAHL (1982-2004), all Evidence-Based Medicine Reviews (1991-2004), HealthSTAR (1975-2004), BIOSIS (1980-2004), and PsycINFO (1840-2004). Medical Subject Headings (MeSH) included "paroxetine" OR "Paxil" exploded. The searches were not restricted by language, publication type, or study design. STUDY SELECTION: A study report was included if it described a randomized trial of paroxetine versus placebo or other antidepressants for patients with depressive disorders. Records were screened independently by 2 reviewers under the supervision of another reviewer. DATA EXTRACTION: Three investigators abstracted data, including study design, trial characteristics, and psychiatric assessment tools, using a prespecified form. Two investigators assessed quality of reporting using Jadad's scale. DATA SYNTHESIS: We included 62 unique randomized controlled trials. Paroxetine yielded consistently and significantly better remission (rate difference [RD]: 10% [95% CI = 6 to 14]), clinical response (RD: 17% [95% CI = 7 to 27]), and symptom reduction (effect size: 0.2 [95% CI = 0.1 to 0.3]) than placebo. Such consistency in the evidence base was not observed between paroxetine and other antidepressants. Pairwise comparisons of paroxetine and venlafaxine, mirtazapine, mianserin, or fluoxetine yielded inconsistent results across efficacy outcomes. Controlled-release paroxetine was the only antidepressant with significantly fewer dropouts due to adverse events than immediate-release paroxetine (RD: 5% [95% CI = 0.1 to 11]). CONCLUSIONS: There were no significant and valid differences between paroxetine and other antidepressants to suggest that multiple modes of action improve clinical outcomes.
+AD  - Faculty of Medicine, Department of Psychiatry, University of Toronto, Ontario, Canada. mkatzman@startclinic.ca
+AN  - 18162015
+AU  - Katzman, M. A.
+AU  - Tricco, A. C.
+AU  - McIntosh, D.
+AU  - Filteau, M. J.
+AU  - Bleau, P.
+AU  - Chokka, P. R.
+AU  - Kjernisted, K. D.
+AU  - Mok, H.
+AU  - Pham, B.
+DA  - Dec
+DO  - 10.4088/jcp.v68n1204
+DP  - NLM
+IS  - 12
+KW  - Adult
+Aged
+Aged, 80 and over
+Antidepressive Agents/*therapeutic use
+Depressive Disorder/*drug therapy
+Female
+Humans
+Male
+Middle Aged
+Paroxetine/*therapeutic use
+Placebos
+Randomized Controlled Trials as Topic
+Selective Serotonin Reuptake Inhibitors/*therapeutic use
+Treatment Outcome
+LA  - eng
+N1  - 1555-2101
+Katzman, Martin A
+Tricco, Andrea C
+McIntosh, Diane
+Filteau, Marie J
+Bleau, Pierre
+Chokka, Pratap R
+Kjernisted, Kevin D
+Mok, Hiram
+Pham, Ba'
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+United States
+2007/12/29
+J Clin Psychiatry. 2007 Dec;68(12):1845-59. doi: 10.4088/jcp.v68n1204.
+PY  - 2007
+SN  - 0160-6689
+SP  - 1845-59
+ST  - Paroxetine versus placebo and other agents for depressive disorders: a systematic review and meta-analysis
+T2  - J Clin Psychiatry
+TI  - Paroxetine versus placebo and other agents for depressive disorders: a systematic review and meta-analysis
+VL  - 68
+ID  - 50937
+ER  - 
+
+TY  - JOUR
+AB  - AIMS AND OBJECTIVES: To explore through literature review the appropriateness of three common tools for use by community nurses to screen war veteran and war widow(er) clients for depression, anxiety and post-traumatic stress disorder. BACKGROUND: War veterans and, to a lesser extent, war widow(er)s, are prone to mental health challenges, especially depression, anxiety and post-traumatic stress disorder. Community nurses do not accurately identify such people with depression and related disorders although they are well positioned to do so. The use of valid and reliable self-report tools is one method of improving nurses' identification of people with actual or potential mental health difficulties for referral to a general practitioner or mental health practitioner for diagnostic assessment and treatment. The Geriatric Depression Scale, Depression Anxiety Stress Scales and Post-traumatic Stress Disorder Checklist are frequently recommended for mental health screening but the appropriateness of using the tools for screening war veteran and war widow(er) community nursing clients who are often aged and have functional impairment, is unknown. DESIGN: Systematic review. CONCLUSIONS: Current literature informs that the Geriatric Depression Scale accurately predicts a diagnosis of depression in community nursing cohorts. The three Depression Anxiety Stress Scales subscales of depression, anxiety and stress are valid; however, no studies were identified that compared the performance of the Depression Anxiety Stress Scales in predicting diagnoses of depression or anxiety. The Post-traumatic Stress Disorder Checklist predicts post-traumatic stress disorder in community cohorts although no studies meeting the selection criteria included male participants. RELEVANCE TO CLINICAL PRACTICE: This review provides recommendations for the use of the Geriatric Depression Scale, Depression Anxiety Stress Scales and The Post-traumatic Stress Disorder Checklist based on examination of the published evidence for the application of these screening tools in samples approximated to community nursing cohorts. Findings and recommendations would guide community nurses, managers and health planners in the selection of mental health screening tools to promote holistic community nursing care.
+AD  - School of Nursing, Deakin University, Burwood, Victoria, Australia. jacqui.allen@deakin.edu.au
+AN  - 19284431
+AU  - Allen, J.
+AU  - Annells, M.
+DA  - Apr
+DO  - 10.1111/j.1365-2702.2008.02731.x
+DP  - NLM
+IS  - 7
+KW  - Anxiety/*diagnosis
+Community Health Nursing/*methods/standards
+Depressive Disorder/*diagnosis
+Factor Analysis, Statistical
+Humans
+Mass Screening/methods/standards
+Nursing Assessment/methods
+Nursing Evaluation Research
+Predictive Value of Tests
+Psychiatric Status Rating Scales/standards
+Psychometrics
+Reproducibility of Results
+Research Design
+Severity of Illness Index
+Stress Disorders, Post-Traumatic/*diagnosis
+*Veterans/statistics & numerical data
+Widowhood/statistics & numerical data
+LA  - eng
+N1  - 1365-2702
+Allen, Jacqui
+Annells, Merilyn
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+England
+2009/03/17
+J Clin Nurs. 2009 Apr;18(7):949-59. doi: 10.1111/j.1365-2702.2008.02731.x.
+PY  - 2009
+SN  - 0962-1067
+SP  - 949-59
+ST  - A literature review of the application of the Geriatric Depression Scale, Depression Anxiety Stress Scales and Post-traumatic Stress Disorder Checklist to community nursing cohorts
+T2  - J Clin Nurs
+TI  - A literature review of the application of the Geriatric Depression Scale, Depression Anxiety Stress Scales and Post-traumatic Stress Disorder Checklist to community nursing cohorts
+VL  - 18
+ID  - 6720
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Reliable data on the prevalence and predictors of post-stroke dementia are needed to inform patients and carers, plan services and clinical trials, ascertain the overall burden of stroke, and understand its causes. However, published data on the prevalence and risk factors for pre-stroke and post-stroke dementia are conflicting. We undertook this systematic review to assess the heterogeneity in the reported rates and to identify risk factors for pre-stroke and post-stroke dementia. METHODS: Studies published between 1950 and May 1, 2009, were identified from bibliographic databases, reference lists, and journal contents pages. Studies were included if they were on patients with symptomatic stroke, were published in English, reported on a series of consecutive eligible patients or volunteers in prospective cohort studies, included all stroke or all ischaemic stroke, measured dementia by standard criteria, and followed up patients for at least 3 months after stroke. Pooled rates of dementia were stratified by study setting, inclusion or exclusion of pre-stroke dementia, and by first, any, or recurrent stroke. Pooled odds ratios were calculated for factors associated with pre-stroke and post-stroke dementia. FINDINGS: We identified 22 hospital-based and eight population-based eligible cohorts (7511 patients) described in 73 papers. The pooled prevalence of pre-stroke dementia was higher (14.4%, 95% CI 12.0-16.8) in hospital-based studies than in population-based studies (9.1%, 6.9-11.3). Although post-stroke (<or=1 year) dementia rates were heterogeneous overall, 93% of the variance was explained by study methods and case mix; the rates ranged from 7.4% (4.8-10.0) in population-based studies of first-ever stroke in which pre-stroke dementia was excluded to 41.3% (29.6-53.1) in hospital-based studies of recurrent stroke in which pre-stroke dementia was included. The cumulative incidence of dementia after the first year was little greater (3.0%, 1.3-4.7) per year in hospital-based studies than expected on the basis of recurrent stroke alone. Medial temporal lobe atrophy, female sex, and a family history of dementia were strongly associated with pre-stroke dementia, whereas the characteristics and complications of the stroke and the presence of multiple lesions in time and place were more strongly associated with post-stroke dementia. INTERPRETATION: After study methods and case mix are taken into account, reported estimates of the prevalence of dementia are consistent: 10% of patients had dementia before first stroke, 10% developed new dementia soon after first stroke, and more than a third had dementia after recurrent stroke. The strong association of post-stroke dementia with multiple strokes and the prognostic value of other stroke characteristics highlight the central causal role of stroke itself as opposed to the underlying vascular risk factors and, thus, the likely effect of optimum acute stroke care and secondary prevention in reducing the burden of dementia. FUNDING: None.
+AD  - Stroke Prevention Research Unit, University Department of Clinical Neurology, John Radcliffe Hospital, Oxford, UK. sarah.pendlebury@clneuro.ox.ac.uk
+AN  - 19782001
+AU  - Pendlebury, S. T.
+AU  - Rothwell, P. M.
+DA  - Nov
+DO  - 10.1016/s1474-4422(09)70236-4
+DP  - NLM
+ET  - 20090924
+IS  - 11
+KW  - Aged
+Brain/pathology
+Dementia/*epidemiology/*etiology/psychology
+Depressive Disorder/etiology/psychology
+Female
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+Psychiatric Status Rating Scales
+Recurrence
+Risk Factors
+Stroke/*complications/*epidemiology/pathology/psychology
+Vascular Diseases/epidemiology
+LA  - eng
+N1  - 1474-4465
+Pendlebury, Sarah T
+Rothwell, Peter M
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+England
+2009/09/29
+Lancet Neurol. 2009 Nov;8(11):1006-18. doi: 10.1016/S1474-4422(09)70236-4. Epub 2009 Sep 24.
+PY  - 2009
+SN  - 1474-4422
+SP  - 1006-18
+ST  - Prevalence, incidence, and factors associated with pre-stroke and post-stroke dementia: a systematic review and meta-analysis
+T2  - Lancet Neurol
+TI  - Prevalence, incidence, and factors associated with pre-stroke and post-stroke dementia: a systematic review and meta-analysis
+VL  - 8
+ID  - 50895
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: An association between PPHN and antidepressant use in pregnancy has been reported. PURPOSE: We sought to examine this relationship. METHODS: A review of the literature was performed, to evaluate this association. RESULTS: Six published studies fulfilled our criteria for inclusion, with only three studies large enough to have the power to detect an association. There appears to be a small but significantly, increased risk of late pregnancy SSRI exposure associated with PPHN in one case-control study; OR 5.1 (95% CI, 1.9-13.3) and two large cohort studies; RR 2.56; (95% CI, 1.17-4.85) and OR 2.1 (95% CI, 1.5-3.0) The other three studies did not find an association. CONCLUSION: the absolute risk cannot be determined, but it is very small, probably less than 1%. If a pregnant woman requires pharmacological treatment, this information does not support discontinuation or lowering the dose of the antidepressant.
+AD  - The Motherisk Program, Division of Clinical Pharmacology, Hospital for Sick Children, Toronto, Canada.
+AN  - 22564982
+AU  - t Jong, G. W.
+AU  - Einarson, T.
+AU  - Koren, G.
+AU  - Einarson, A.
+DA  - Nov
+DO  - 10.1016/j.reprotox.2012.04.015
+DP  - NLM
+ET  - 20120505
+IS  - 3
+KW  - Antidepressive Agents/*adverse effects
+Female
+Humans
+Infant, Newborn
+Persistent Fetal Circulation Syndrome/*chemically induced
+Pregnancy
+Selective Serotonin Reuptake Inhibitors/*adverse effects
+LA  - eng
+N1  - 1873-1708
+'t Jong, Geert W
+Einarson, Thomas
+Koren, Gideon
+Einarson, Adrienne
+Journal Article
+Review
+Systematic Review
+United States
+2012/05/09
+Reprod Toxicol. 2012 Nov;34(3):293-7. doi: 10.1016/j.reprotox.2012.04.015. Epub 2012 May 5.
+PY  - 2012
+SN  - 0890-6238
+SP  - 293-7
+ST  - Antidepressant use in pregnancy and persistent pulmonary hypertension of the newborn (PPHN): a systematic review
+T2  - Reprod Toxicol
+TI  - Antidepressant use in pregnancy and persistent pulmonary hypertension of the newborn (PPHN): a systematic review
+VL  - 34
+ID  - 13
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Intraoperative neuromonitoring has been established as one of the methods by which modern neurosurgery can improve surgical results while reducing morbidity. Despite routine use of intraoperative facial nerve (FN) monitoring, FN injury still is a complication of major concern due to severe negative impact on patient's quality of life. METHODS: Through searches of PubMed, we provided a systematic review of the current literature up to February, 2011, emphasizing all respects of FN monitoring for cerebellopontine angle and skull base tumor surgery from description to current success on function prediction of standard and emerging monitoring techniques. RESULTS: Currently, standard monitoring techniques comprise direct electrical stimulation (DES), free-running electromyography (EMG), and facial motor evoked potential (FMEP). We included 62 studies on function prediction by investigating DES (43 studies), free-running EMG (13 studies), and FMEP (6 studies) criteria. DES mostly evaluated postoperative function by using absolute amplitude, stimulation threshold, and proximal-to-distal amplitude ratio, whereas free-running EMG used the train-time criterion. The prognostic significance of FMEP was assessed with the final-to-baseline amplitude ratio, as well as the event-to-baseline amplitude ratio and waveform complexity. CONCLUSIONS: Although there is a general agreement on the satisfactory functional prediction of different electrophysiological criteria, the lack of standardization in electrode montage and stimulation parameters precludes a definite conclusion regarding the best method. Moreover, studies emphasizing comparison between criteria or even multimodal monitoring and its impact on FN anatomical and functional preservation are still lacking in the literature.
+AD  - Department of Neurosurgery, University of Tübingen, Tübingen, Germany; Department of Neurology, University of São Paulo, São Paulo, Brazil. Electronic address: marcusacioly@yahoo.com.br.
+AN  - 22120256
+AU  - Acioly, M. A.
+AU  - Liebsch, M.
+AU  - de Aguiar, P. H.
+AU  - Tatagiba, M.
+DA  - Dec
+DO  - 10.1016/j.wneu.2011.09.026
+DP  - NLM
+ET  - 20111101
+IS  - 6
+KW  - Cerebellar Neoplasms/physiopathology/*surgery
+Cerebellopontine Angle/physiopathology/*surgery
+Electric Stimulation
+Electromyography
+Evoked Potentials, Motor/physiology
+Facial Nerve/*physiology
+Humans
+Monitoring, Intraoperative/*methods
+Quality of Life
+Recovery of Function
+Skull Base Neoplasms/physiopathology/*surgery
+Cmap
+Cn
+Cpa
+Cerebellopontine angle
+Cerebellopontine angle surgery
+Compound muscle action potentials
+Cranial nerves
+Des
+Direct electrical stimulation
+Emg
+Fmep
+Fn
+Facial motor evoked potential
+Facial nerve
+Iac
+Iofnm
+Internal auditory canal
+Intraoperative facial nerve monitoring
+Intraoperative monitoring
+Mep
+Motor evoked potential
+Rez
+Root exit zone
+Sep
+Skull base surgery
+Somatosensory evoked potential
+Tes
+Transcranial electrocortical stimulation
+Vs
+Vestibular schwannoma
+LA  - eng
+N1  - 1878-8769
+Acioly, Marcus André
+Liebsch, Marina
+de Aguiar, Paulo Henrique Pires
+Tatagiba, Marcos
+Journal Article
+Review
+Systematic Review
+United States
+2011/11/29
+World Neurosurg. 2013 Dec;80(6):e271-300. doi: 10.1016/j.wneu.2011.09.026. Epub 2011 Nov 1.
+PY  - 2013
+SN  - 1878-8750
+SP  - e271-300
+ST  - Facial nerve monitoring during cerebellopontine angle and skull base tumor surgery: a systematic review from description to current success on function prediction
+T2  - World Neurosurg
+TI  - Facial nerve monitoring during cerebellopontine angle and skull base tumor surgery: a systematic review from description to current success on function prediction
+VL  - 80
+ID  - 1685
+ER  - 
+
+TY  - JOUR
+AB  - Patients with liver cirrhosis were traditionally believed to be protected against development of blood clots. Lately, studies have shown that these patients may probably be at an increased risk of venous thrombotic complications. Although the hemostatic changes in the chronic liver disease patients and the factors that may predict bleeding vs thrombotic complications remains an area of active research, it is believed that the coagulation cascade is delicately balanced in these patients because of parallel reduced hepatic synthesis of pro and anticoagulant factors. Thrombotic state in cirrhotic patients is responsible for not only portal or non-portal thrombosis [deep vein thrombosis (DVT) and pulmonary embolism (PE)]; it has also been associated with progression of liver fibrosis. The use of anticoagulants in cirrhosis patients is a challenging, and often a scary situation. This review summarizes the current literature on the prevalence of venous thrombosis (DVT and PE), risk factors and safety of prophylactic and therapeutic anticoagulation in patients with chronic liver disease.
+AD  - Ashish Aggarwal, Kanika Puri, Division of Gastroenterology and Hepatology, Department of Medicine, Indiana University Medical Center, IN 46202, United States.
+AN  - 24914335
+AU  - Aggarwal, A.
+AU  - Puri, K.
+AU  - Liangpunsakul, S.
+C2  - PMC4024784
+DA  - May 21
+DO  - 10.3748/wjg.v20.i19.5737
+DP  - NLM
+IS  - 19
+KW  - Anticoagulants/adverse effects/therapeutic use
+Disease Progression
+Fibrosis/*complications
+Hemorrhage/prevention & control
+Humans
+Liver/pathology/physiopathology
+Portal Vein/physiopathology
+Prevalence
+Pulmonary Embolism/*complications
+Risk Factors
+Thrombin/chemistry
+Venous Thrombosis/*complications
+Anticoagulation
+Chronic liver disease
+Cirrhosis
+Deep venous thrombosis
+Pathogenesis
+Portal vein thrombosis
+Thrombosis
+LA  - eng
+N1  - 2219-2840
+Aggarwal, Ashish
+Puri, Kanika
+Liangpunsakul, Suthat
+Journal Article
+Review
+Systematic Review
+United States
+2014/06/11
+World J Gastroenterol. 2014 May 21;20(19):5737-45. doi: 10.3748/wjg.v20.i19.5737.
+PY  - 2014
+SN  - 1007-9327 (Print)
+1007-9327
+SP  - 5737-45
+ST  - Deep vein thrombosis and pulmonary embolism in cirrhotic patients: systematic review
+T2  - World J Gastroenterol
+TI  - Deep vein thrombosis and pulmonary embolism in cirrhotic patients: systematic review
+VL  - 20
+ID  - 2609
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Sub-Saharan African (SSA) countries are experiencing rapid transitions with increased life expectancy. As a result the burden of age-related conditions such as neurodegenerative diseases might be increasing. We conducted a systematic review of published studies on common neurodegenerative diseases, and HIV-related neurocognitive impairment in SSA, in order to identify research gaps and inform prevention and control solutions. METHODS: We searched MEDLINE via PubMed, 'Banque de Données de Santé Publique' and the database of the 'Institut d'Epidemiologie Neurologique et de Neurologie Tropicale' from inception to February 2013 for published original studies from SSA on neurodegenerative diseases and HIV-related neurocognitive impairment. Screening and data extraction were conducted by two investigators. Bibliographies and citations of eligible studies were investigated. RESULTS: In all 144 publications reporting on dementia (n = 49 publications, mainly Alzheimer disease), Parkinsonism (PD, n = 20), HIV-related neurocognitive impairment (n = 47), Huntington disease (HD, n = 19), amyotrophic lateral sclerosis (ALS, n = 15), cerebellar degeneration (n = 4) and Lewy body dementia (n = 1). Of these studies, largely based on prevalent cases from retrospective data on urban populations, half originated from Nigeria and South Africa. The prevalence of dementia (Alzheimer disease) varied between <1% and 10.1% (0.7% and 5.6%) in population-based studies and from <1% to 47.8% in hospital-based studies. Incidence of dementia (Alzheimer disease) ranged from 8.7 to 21.8/1000/year (9.5 to 11.1), and major risk factors were advanced age and female sex. HIV-related neurocognitive impairment's prevalence (all from hospital-based studies) ranged from <1% to 80%. Population-based prevalence of PD and ALS varied from 10 to 235/100,000, and from 5 to 15/100,000 respectively while that for Huntington disease was 3.5/100,000. Equivalent figures for hospital based studies were the following: PD (0.41 to 7.2%), ALS (0.2 to 8.0/1000), and HD (0.2/100,000 to 46.0/100,000). CONCLUSIONS: The body of literature on neurodegenerative disorders in SSA is large with regard to dementia and HIV-related neurocognitive disorders but limited for other neurodegenerative disorders. Shortcomings include few population-based studies, heterogeneous diagnostic criteria and uneven representation of countries on the continent. There are important knowledge gaps that need urgent action, in order to prepare the sub-continent for the anticipated local surge in neurodegenerative diseases.
+AD  - Department of Medicine, University of Cape Town, Cape Town, South Africa. andre.kengne@mrc.ac.za.
+AN  - 24969686
+AU  - Lekoubou, A.
+AU  - Echouffo-Tcheugui, J. B.
+AU  - Kengne, A. P.
+C2  - PMC4094534
+DA  - Jun 26
+DO  - 10.1186/1471-2458-14-653
+DP  - NLM
+ET  - 20140626
+KW  - Africa South of the Sahara/epidemiology
+Central Nervous System Diseases/*epidemiology
+Cognition Disorders/*epidemiology/etiology
+Dementia/*epidemiology
+Female
+HIV Infections/complications
+Humans
+Male
+Neurodegenerative Diseases/*epidemiology
+LA  - eng
+N1  - 1471-2458
+Lekoubou, Alain
+Echouffo-Tcheugui, Justin B
+Kengne, Andre P
+Journal Article
+Review
+Systematic Review
+England
+2014/06/28
+BMC Public Health. 2014 Jun 26;14:653. doi: 10.1186/1471-2458-14-653.
+PY  - 2014
+SN  - 1471-2458
+SP  - 653
+ST  - Epidemiology of neurodegenerative diseases in sub-Saharan Africa: a systematic review
+T2  - BMC Public Health
+TI  - Epidemiology of neurodegenerative diseases in sub-Saharan Africa: a systematic review
+VL  - 14
+ID  - 50896
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Dementia is a progressive global cognitive impairment syndrome. In 2010, more than 35 million people worldwide were estimated to be living with dementia. Some people with mild cognitive impairment (MCI) will progress to dementia but others remain stable or recover full function. There is great interest in finding good predictors of dementia in people with MCI. The Mini-Mental State Examination (MMSE) is the best-known and the most often used short screening tool for providing an overall measure of cognitive impairment in clinical, research and community settings. OBJECTIVES: To determine the diagnostic accuracy of the MMSE at various thresholds for detecting individuals with baseline MCI who would clinically convert to dementia in general, Alzheimer's disease dementia or other forms of dementia at follow-up. SEARCH METHODS: We searched ALOIS (Cochrane Dementia and Cognitive Improvement Specialized Register of diagnostic and intervention studies (inception to May 2014); MEDLINE (OvidSP) (1946 to May 2014); EMBASE (OvidSP) (1980 to May 2014); BIOSIS (Web of Science) (inception to May 2014); Web of Science Core Collection, including the Conference Proceedings Citation Index (ISI Web of Science) (inception to May 2014); PsycINFO (OvidSP) (inception to May 2014), and LILACS (BIREME) (1982 to May 2014). We also searched specialized sources of diagnostic test accuracy studies and reviews, most recently in May 2014: MEDION (Universities of Maastricht and Leuven, www.mediondatabase.nl), DARE (Database of Abstracts of Reviews of Effects, via the Cochrane Library), HTA Database (Health Technology Assessment Database, via the Cochrane Library), and ARIF (University of Birmingham, UK, www.arif.bham.ac.uk). No language or date restrictions were applied to the electronic searches and methodological filters were not used as a method to restrict the search overall so as to maximize sensitivity. We also checked reference lists of relevant studies and reviews, tracked citations in Scopus and Science Citation Index, used searches of known relevant studies in PubMed to track related articles, and contacted research groups conducting work on MMSE for dementia diagnosis to try to locate possibly relevant but unpublished data. SELECTION CRITERIA: We considered longitudinal studies in which results of the MMSE administered to MCI participants at baseline were obtained and the reference standard was obtained by follow-up over time. We included participants recruited and clinically classified as individuals with MCI under Petersen and revised Petersen criteria, Matthews criteria, or a Clinical Dementia Rating = 0.5. We used acceptable and commonly used reference standards for dementia in general, Alzheimer's dementia, Lewy body dementia, vascular dementia and frontotemporal dementia. DATA COLLECTION AND ANALYSIS: We screened all titles generated by the electronic database searches. Two review authors independently assessed the abstracts of all potentially relevant studies. We assessed the identified full papers for eligibility and extracted data to create two by two tables for dementia in general and other dementias. Two authors independently performed quality assessment using the QUADAS-2 tool. Due to high heterogeneity and scarcity of data, we derived estimates of sensitivity at fixed values of specificity from the model we fitted to produce the summary receiver operating characteristic curve. MAIN RESULTS: In this review, we included 11 heterogeneous studies with a total number of 1569 MCI patients followed for conversion to dementia. Four studies assessed the role of baseline scores of the MMSE in conversion from MCI to all-cause dementia and eight studies assessed this test in conversion from MCI to Alzheimer´s disease dementia. Only one study provided information about the MMSE and conversion from MCI to vascular dementia. For conversion from MCI to dementia in general, the accuracy of baseline MMSE scores ranged from sensitivities of 23% to 76% and specificities from 40% to 94%. In relationship to conversion from MCI to Alzheimer's disease dementia, the accuracy of baseline MMSE scores ranged from sensitivities of 27% to 89% and specificities from 32% to 90%. Only one study provided information about conversion from MCI to vascular dementia, presenting a sensitivity of 36% and a specificity of 80% with an incidence of vascular dementia of 6.2%. Although we had planned to explore possible sources of heterogeneity, this was not undertaken due to the scarcity of studies included in our analysis. AUTHORS' CONCLUSIONS: Our review did not find evidence supporting a substantial role of MMSE as a stand-alone single-administration test in the identification of MCI patients who could develop dementia. Clinicians could prefer to request additional and extensive tests to be sure about the management of these patients. An important aspect to assess in future updates is if conversion to dementia from MCI stages could be predicted better by MMSE changes over time instead of single measurements. It is also important to assess if a set of tests, rather than an isolated one, may be more successful in predicting conversion from MCI to dementia.
+AD  - Division of Research, Fundación Universitaria de Ciencias de la Salud - Hospital San Jose/ Hospital Infantil de San Jose, Carrera 19 Nº 8a - 32, Bogotá D.C., Bogota DC, Colombia, 11001.
+AN  - 25740785
+AU  - Arevalo-Rodriguez, I.
+AU  - Smailagic, N.
+AU  - Roqué, I. Figuls M.
+AU  - Ciapponi, A.
+AU  - Sanchez-Perez, E.
+AU  - Giannakou, A.
+AU  - Pedraza, O. L.
+AU  - Bonfill Cosp, X.
+AU  - Cullum, S.
+C1  - None known
+C2  - PMC6464748
+DA  - Mar 5
+DO  - 10.1002/14651858.CD010783.pub2
+DP  - NLM
+ET  - 20150305
+IS  - 3
+KW  - Alzheimer Disease/diagnosis
+Cognitive Dysfunction/*complications
+Dementia/*diagnosis
+Dementia, Vascular/diagnosis
+Disease Progression
+Frontotemporal Dementia/diagnosis
+Humans
+Lewy Body Disease/diagnosis
+*Mental Status Schedule
+Neuropsychological Tests
+Sensitivity and Specificity
+LA  - eng
+N1  - 1469-493x
+Arevalo-Rodriguez, Ingrid
+Smailagic, Nadja
+Roqué I Figuls, Marta
+Ciapponi, Agustín
+Sanchez-Perez, Erick
+Giannakou, Antri
+Pedraza, Olga L
+Bonfill Cosp, Xavier
+Cullum, Sarah
+10/4001/05/DH_/Department of Health/United Kingdom
+Journal Article
+Review
+Systematic Review
+England
+2015/03/06
+Cochrane Database Syst Rev. 2015 Mar 5;2015(3):CD010783. doi: 10.1002/14651858.CD010783.pub2.
+PY  - 2015
+SN  - 1361-6137
+SP  - Cd010783
+ST  - Mini-Mental State Examination (MMSE) for the detection of Alzheimer's disease and other dementias in people with mild cognitive impairment (MCI)
+T2  - Cochrane Database Syst Rev
+TI  - Mini-Mental State Examination (MMSE) for the detection of Alzheimer's disease and other dementias in people with mild cognitive impairment (MCI)
+VL  - 2015
+ID  - 50918
+ER  - 
+
+TY  - JOUR
+AB  - Breakfast is thought to be beneficial for cognitive and academic performance in school children. However, breakfast is the most frequently skipped meal, especially among adolescents. The aim of the current article was to systematically review the evidence from intervention studies for the effects of breakfast on cognitive performance in children and adolescents. The effects of breakfast were evaluated by cognitive domain and breakfast manipulation. A total of 45 studies reported in 43 articles were included in the review. Most studies considered the acute effect of a single breakfast (n = 34). The acute studies looked at breakfast compared with no breakfast (n = 24) and/or comparisons of breakfast type (n = 15). The effects of chronic school breakfast program interventions were evaluated in 11 studies. The findings suggest that breakfast consumption relative to fasting has a short-term (same morning) positive domain-specific effect on cognition. Tasks requiring attention, executive function, and memory were facilitated more reliably by breakfast consumption relative to fasting, with effects more apparent in undernourished children. Firm conclusions cannot be made about the acute effects of breakfast composition and the effects of chronic breakfast interventions because there are too few studies and these largely report inconsistent findings. This review also highlights methodologic limitations of the existing research. These include a lack of research on adolescents, few naturalistic breakfast manipulations or testing environments, small samples, and insensitive cognitive tests.
+AD  - Human Appetite Research Unit, School of Psychology, University of Leeds, Leeds, United Kingdom pskad@leeds.ac.uk.
+Human Appetite Research Unit, School of Psychology, University of Leeds, Leeds, United Kingdom.
+AN  - 27184287
+AU  - Adolphus, K.
+AU  - Lawton, C. L.
+AU  - Champ, C. L.
+AU  - Dye, L.
+C1  - Author disclosures: K Adolphus, CL Lawton, CL Champ, and L Dye were supported by a grant from Kellogg’s USA to prepare this review.
+C2  - PMC4863264
+DA  - May
+DO  - 10.3945/an.115.010256
+DP  - NLM
+ET  - 20160516
+IS  - 3
+KW  - Adolescent
+Attention
+*Breakfast
+Child
+*Cognition
+Diet
+Executive Function
+Humans
+Language
+Memory
+Psychomotor Performance
+Randomized Controlled Trials as Topic
+adolescents
+breakfast
+children
+cognitive performance
+systematic review
+LA  - eng
+N1  - 2156-5376
+Adolphus, Katie
+Orcid: 0000-0003-0655-1025
+Lawton, Clare L
+Orcid: 0000-0003-2341-0793
+Champ, Claire L
+Dye, Louise
+Orcid: 0000-0002-2331-4227
+Journal Article
+Review
+Systematic Review
+United States
+2016/05/18
+Adv Nutr. 2016 May 16;7(3):590S-612S. doi: 10.3945/an.115.010256. Print 2016 May.
+PY  - 2016
+SN  - 2161-8313 (Print)
+2161-8313
+SP  - 590s-612s
+ST  - The Effects of Breakfast and Breakfast Composition on Cognition in Children and Adolescents: A Systematic Review
+T2  - Adv Nutr
+TI  - The Effects of Breakfast and Breakfast Composition on Cognition in Children and Adolescents: A Systematic Review
+VL  - 7
+ID  - 2250
+ER  - 
+
+TY  - JOUR
+AB  - STUDY DESIGN: Systematic review and consensus expert opinion. OBJECTIVE: To provide surgeons and other health care professionals with guidelines for surgical reconstruction of metastatic spine disease based on evidence and expert opinion. SUMMARY OF BACKGROUND DATA: The surgical treatment of spinal metastases is controversial. Specifically two aspects of surgical reconstruction are addressed in this study: (i) choice of bone graft used during surgery for metastatic spine tumors and (ii) the design of reconstruction or construct to stabilize. METHODS: A systematic review of the available medical literature from 1980 to 2015 was conducted, and combined with consensus expert opinion from a recent survey of spine surgeons who treat metastatic spine tumors. RESULTS: There is very little evidence in the literature to provide guidance on the use of bone graft in metastatic tumor reconstruction. There is little evidence in the literature to support the preferential use of one graft type over the other. Approximately, 41% of respondents said they used bone graft or bone graft substitutes to accomplish fusion. There were 17 studies that described the use of a prefabricated prosthetic, 10 studies describing the use of polymethyl methacrylate (PMMA) bone cement, and only three studies describing the use of bone graft for anterior column reconstruction. The use of structural allograft was most popular among the experts for anterior reconstruction, followed by cage reconstruction, and PMMA bone cement. CONCLUSION: Achieving bony union may be of importance for the maintenance of spinal stability in the long term after reconstruction. Whether bony union is required for patients with shorter life expectancies is debatable. The literature supports the use of anterior reconstruction with either a prefabricated prosthetic or PMMA bone cement. It also supports the use of an anterior construct reinforced with bilateral posterior instrumentation when performing a three-column reconstruction. LEVEL OF EVIDENCE: N/A.
+AD  - Department of Orthopedics, Division of Spine, University of British Columbia and Vancouver General Hospital, Vancouver, British Columbia, Canada.
+Division of Surgery, McGill University and Montreal General Hospital, Montreal, Québec, Canada.
+Division of Neurosurgery, Department of Surgery, Université de Sherbrooke, Sherbrooke, Québec, Canada.
+Department of Degenerative and Oncological Spine Surgery, Rizzoli Institute Bologna, Italy.
+Department of Neurosurgery, University of California-San Francisco Medical Center, San Francisco, CA.
+Department of Orthopedics, Princess Alexandra Hospital, Brisbane, Queensland, Australia.
+Department of Orthopedic Surgery, University Medical Center Utrecht, Utrecht, The Netherlands.
+Department of Neurosurgery, Memorial Sloan Kettering Cancer Center, New York, NY.
+AN  - 27488293
+AU  - Altaf, F.
+AU  - Weber, M.
+AU  - Dea, N.
+AU  - Boriani, S.
+AU  - Ames, C.
+AU  - Williams, R.
+AU  - Verlaan, J. J.
+AU  - Laufer, I.
+AU  - Fisher, C. G.
+DA  - Oct 15
+DO  - 10.1097/brs.0000000000001819
+DP  - NLM
+KW  - Bone Transplantation/methods
+Evidence-Based Medicine
+Humans
+Plastic Surgery Procedures/*methods
+Spinal Neoplasms/secondary/*surgery
+Spine/pathology/*surgery
+LA  - eng
+N1  - 1528-1159
+Altaf, Farhaan
+Weber, Michael
+Dea, Nicolas
+Boriani, Stefano
+Ames, Christopher
+Williams, Richard
+Verlaan, Jorrit-Jan
+Laufer, Ilya
+Fisher, Charles G
+Journal Article
+Review
+Systematic Review
+United States
+2016/10/19
+Spine (Phila Pa 1976). 2016 Oct 15;41 Suppl 20:S254-S261. doi: 10.1097/BRS.0000000000001819.
+PY  - 2016
+SN  - 0362-2436
+SP  - S254-s261
+ST  - Evidence-Based Review and Survey of Expert Opinion of Reconstruction of Metastatic Spine Tumors
+T2  - Spine (Phila Pa 1976)
+TI  - Evidence-Based Review and Survey of Expert Opinion of Reconstruction of Metastatic Spine Tumors
+VL  - 41 Suppl 20
+ID  - 7622
+ER  - 
+
+TY  - JOUR
+AB  - The implementation of patient-centered care requires an individualized approach to hemodialysis vascular access, on the basis of each patient's unique balance of risks and benefits. This systematic review aimed to summarize current literature on fistula risks, including rates of complications, to assist with patient-centered decision making. We searched Medline from 2000 to 2014 for English-language studies with prospectively captured data on ≥100 fistulas. We assessed study quality and extracted data on study design, patient characteristics, and outcomes. After screening 2292 citations, 43 articles met our inclusion criteria (61 unique cohorts; n>11,374 fistulas). Median complication rates per 1000 patient days were as follows: 0.04 aneurysms (14 unique cohorts; n=1827 fistulas), 0.11 infections (16 cohorts; n>6439 fistulas), 0.05 steal events (15 cohorts; n>2543 fistulas), 0.24 thrombotic events (26 cohorts; n=4232 fistulas), and 0.03 venous hypertensive events (1 cohort; n=350 fistulas). Risk of bias was high in many studies and event rates were variable, thus we could not present pooled results. Studies generally did not report variables associated with fistula complications, patient comorbidities, vessel characteristics, surgeon experience, or nursing cannulation skill. Overall, we found marked variability in complication rates, partly due to poor quality studies, significant heterogeneity of study populations, and inconsistent definitions. There is an urgent need to standardize reporting of methods and definitions of vascular access complications in future clinical studies to better inform patient and provider decision making.
+AD  - The Lilibeth Caberto Kidney Clinical Research Unit, London Health Sciences Centre, London, Ontario, Canada.
+Department of Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, Ontario, Canada.
+Department of Medicine, Schulich School of Medicine and Dentistry, Western University, London, Ontario, Canada; and.
+Department of Medicine, Toronto General Hospital, Toronto, Ontario, Canada.
+The Lilibeth Caberto Kidney Clinical Research Unit, London Health Sciences Centre, London, Ontario, Canada; louise.moist@lhsc.on.ca.
+AN  - 28031406
+AU  - Al-Jaishi, A. A.
+AU  - Liu, A. R.
+AU  - Lok, C. E.
+AU  - Zhang, J. C.
+AU  - Moist, L. M.
+C2  - PMC5461784
+DA  - Jun
+DO  - 10.1681/asn.2016040412
+DP  - NLM
+ET  - 20161228
+IS  - 6
+KW  - Arteriovenous Shunt, Surgical/*adverse effects
+Humans
+Incidence
+Postoperative Complications/*epidemiology/*etiology
+arteriovenous fistula
+chronic hemodialysis
+epidemiology and outcomes
+LA  - eng
+N1  - 1533-3450
+Al-Jaishi, Ahmed A
+Liu, Aiden R
+Lok, Charmaine E
+Zhang, Joyce C
+Moist, Louise M
+Journal Article
+Review
+Systematic Review
+United States
+2016/12/30
+J Am Soc Nephrol. 2017 Jun;28(6):1839-1850. doi: 10.1681/ASN.2016040412. Epub 2016 Dec 28.
+PY  - 2017
+SN  - 1046-6673 (Print)
+1046-6673
+SP  - 1839-1850
+ST  - Complications of the Arteriovenous Fistula: A Systematic Review
+T2  - J Am Soc Nephrol
+TI  - Complications of the Arteriovenous Fistula: A Systematic Review
+VL  - 28
+ID  - 4573
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Huntington Disease-like 2 (HDL2) is a neurodegenerative disorder similar to Huntington Disease (HD) in its clinical phenotype, genetic characteristics, neuropathology and longitudinal progression. Proposed specific differences include an exclusive African ancestry, lack of eye movement abnormalities, increased Parkinsonism, and acanthocytes in HDL2. OBJECTIVE: The objective was to determine the similarities and differences between HD and HDL2 by establishing the clinical phenotype of HDL2 with the published cases. METHODS: A literature review of all clinically described cases of HDL2 until the end of 2016 was performed and a descriptive analysis was carried out. RESULTS: Sixty-nine new cases were described between 2001 and 2016. All cases had likely African ancestry, and most were found in South Africa and the USA. Many features were found to be similar to HD, including a strong negative correlation between repeat length and age of onset. Chorea was noted in 48/57 cases (84%). Dementia was reported in 74% patients, and Parkinsonism in 37%. Psychiatric features were reported in 44 out of 47 cases. Patients with chorea had lower expanded repeat lengths compared to patients without chorea. Eye movements were described in 19 cases, 8 were abnormal. Acanthocytes were detected in 4 of the 13 patients tested. Nineteen out of 20 MRIs were reported as abnormal with findings similar to HD. CONCLUSION: This review clarifies some aspects of the HDL2 phenotype and highlights others which require further investigation. Features that are unique to HDL2 have been documented in a minority of subjects and require prospective validation.
+AD  - The University of the Witwatersrand Donald Gordon Medical Centre, Neurology, Johannesburg, South Africa.
+Division of Human Genetics, National Health Laboratory Service & School of Pathology, The University of the Witwatersrand, Johannesburg, South Africa.
+Department of Neurology, James J. Peters Veterans Affairs Medical Center, Bronx, NY, USA.
+Department of Neurology, Mount Sinai School of Medicine, New York City, NY, USA.
+NHS Borders, United Kingdom; Centre for Clinical Brain Sciences, University of Edinburgh, UK.
+School of Public Health, University of the Witwatersrand, Johannesburg, South Africa.
+Department of Neurology, University of Stellenbosch, Cape Town, South Africa.
+Department of Psychiatry, Division of Neurobiology, Johns Hopkins University School of Medicine, Baltimore, MD, USA.
+AN  - 28339400
+AU  - Anderson, D. G.
+AU  - Walker, R. H.
+AU  - Connor, M.
+AU  - Carr, J.
+AU  - Margolis, R. L.
+AU  - Krause, A.
+DO  - 10.3233/jhd-160232
+DP  - NLM
+IS  - 1
+KW  - Chorea/diagnostic imaging/*genetics/*physiopathology
+Cognition Disorders/diagnostic imaging/*genetics/*physiopathology
+Dementia/diagnostic imaging/*genetics/*physiopathology
+Heredodegenerative Disorders, Nervous System/diagnostic
+imaging/*genetics/*physiopathology
+Humans
+Huntington Disease/diagnostic imaging/genetics/physiopathology
+Phenotype
+Acanthocytosis
+Hdl2
+Huntington disease-like 2
+Huntington’s disease
+chorea
+junctophilin-3
+LA  - eng
+N1  - 1879-6400
+Anderson, David G
+Walker, Ruth H
+Connor, Myles
+Carr, Jonathan
+Margolis, Russell L
+Krause, Amanda
+Journal Article
+Review
+Systematic Review
+Netherlands
+2017/03/25
+J Huntingtons Dis. 2017;6(1):37-46. doi: 10.3233/JHD-160232.
+PY  - 2017
+SN  - 1879-6397
+SP  - 37-46
+ST  - A Systematic Review of the Huntington Disease-Like 2 Phenotype
+T2  - J Huntingtons Dis
+TI  - A Systematic Review of the Huntington Disease-Like 2 Phenotype
+VL  - 6
+ID  - 50924
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Previous meta-analyses indicate that computerized cognitive training (CCT) is a safe and efficacious intervention for cognition in older adults. However, efficacy varies across populations and cognitive domains, and little is known about the efficacy of CCT in people with mild cognitive impairment or dementia. METHOD: The authors searched Medline, Embase, PsychINFO, CINAHL, and CENTRAL through July 1, 2016, for randomized controlled trials of CCT in older adults with mild cognitive impairment or dementia. Overall cognition, individual cognitive domains, psychosocial function, and activities of daily living were pooled separately for mild cognitive impairment and dementia trials. RESULTS: The overall effect on cognition in mild cognitive impairment across 17 trials was moderate (Hedges' g=0.35, 95% CI=0.20-0.51). There was no evidence of publication bias or difference between active- and passive-controlled trials. Small to moderate effects were found for global cognition, attention, working memory, learning, and memory, with the exception of nonverbal memory, and for psychosocial functioning, including depressive symptoms. In dementia, statistically significant effects were found on overall cognition (k=11, g=0.26, 95% CI=0.01-0.52) and visuospatial skills, but these were driven by three trials of virtual reality or Nintendo Wii. CONCLUSIONS: CCT is efficacious on global cognition, select cognitive domains, and psychosocial functioning in people with mild cognitive impairment. This intervention therefore warrants longer-term and larger-scale trials to examine effects on conversion to dementia. Conversely, evidence for efficacy in people with dementia is weak and limited to trials of immersive technologies.
+AD  - From Black Dog Institute, the University of New South Wales, New South Wales, Australia; the Regenerative Neuroscience Group and Healthy Brain Ageing Program, Brain and Mind Centre, University of Sydney, New South Wales, Australia; the School of Psychology, University of Sydney, New South Wales, Australia; and the School of Medical Sciences, University of Sydney, New South Wales, Australia.
+AN  - 27838936
+AU  - Hill, N. T.
+AU  - Mowszowski, L.
+AU  - Naismith, S. L.
+AU  - Chadwick, V. L.
+AU  - Valenzuela, M.
+AU  - Lampit, A.
+DA  - Apr 1
+DO  - 10.1176/appi.ajp.2016.16030360
+DP  - NLM
+ET  - 20161114
+IS  - 4
+KW  - Aged
+Alzheimer Disease/diagnosis/psychology/*therapy
+Cognitive Dysfunction/diagnosis/psychology/*therapy
+Computer-Assisted Instruction/*methods
+Humans
+Middle Aged
+Neuropsychological Tests
+Treatment Outcome
+Cognitive Therapy
+Dementia-Alzheimer-s Disease
+LA  - eng
+N1  - 1535-7228
+Hill, Nicole T M
+Mowszowski, Loren
+Naismith, Sharon L
+Chadwick, Verity L
+Valenzuela, Michael
+Lampit, Amit
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+United States
+2016/11/15
+Am J Psychiatry. 2017 Apr 1;174(4):329-340. doi: 10.1176/appi.ajp.2016.16030360. Epub 2016 Nov 14.
+PY  - 2017
+SN  - 0002-953x
+SP  - 329-340
+ST  - Computerized Cognitive Training in Older Adults With Mild Cognitive Impairment or Dementia: A Systematic Review and Meta-Analysis
+T2  - Am J Psychiatry
+TI  - Computerized Cognitive Training in Older Adults With Mild Cognitive Impairment or Dementia: A Systematic Review and Meta-Analysis
+VL  - 174
+ID  - 50911
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Dementia is among the top 15 conditions with the most substantial increase in burden of disease in the past decade, and along with epilepsy, among the top 25 causes of years lived with disability worldwide. The epidemiology of dementia in persons with epilepsy, and vice versa, is not well characterized. The purpose of this systematic review was to examine the prevalence, incidence, and reported risk factors for dementia in epilepsy and epilepsy in dementia. METHODS: Embase, PsycINFO, MEDLINE, and the Cochrane databases were searched from inception. Papers were included if they reported the incidence and/or prevalence of dementia and epilepsy. Two individuals independently performed duplicate abstract and full-text review, data extraction, and quality assessment. Random-effects models were used to generate pooled estimates when feasible. RESULTS: Of the 3,043 citations identified, 64 were reviewed in full text and 19 articles were included. The period prevalence of dementia ranged from 8.1 to 17.5 per 100 persons among persons with epilepsy (insufficient data to pool). The pooled period prevalence of epilepsy among persons with dementia was 5 per 100 persons (95% confidence interval [CI] 1-9) in population-based settings and 4 per 100 persons (95% CI 1-6) in clinic settings. There were insufficient data to report a pooled overall incidence rate and only limited data on risk factors. SIGNIFICANCE: There are significant gaps in knowledge regarding the epidemiology of epilepsy in dementia and vice versa. Accurate estimates are needed to inform public health policy and prevention, and to understand health resource needs for these populations.
+AD  - Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.
+Hotchkiss Brain Institute and O'Brien Institute for Public Health, University of Calgary, Calgary, Alberta, Canada.
+Department of Community Health Sciences, University of Calgary, Calgary, Alberta, Canada.
+Department of Clinical Neurosciences, University of Calgary, Calgary, Alberta, Canada.
+Department of Medicine, University of Calgary and Alberta Health Services, Calgary, Alberta, Canada.
+AN  - 28397967
+AU  - Subota, A.
+AU  - Pham, T.
+AU  - Jetté, N.
+AU  - Sauro, K.
+AU  - Lorenzetti, D.
+AU  - Holroyd-Leduc, J.
+DA  - Jun
+DO  - 10.1111/epi.13744
+DP  - NLM
+ET  - 20170411
+IS  - 6
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Alzheimer Disease/epidemiology/etiology
+Child
+Comorbidity
+Cross-Sectional Studies
+Dementia/*epidemiology/*etiology
+Epilepsy/*epidemiology/*etiology
+Humans
+Incidence
+Middle Aged
+Risk Factors
+Young Adult
+Cognitive impairment
+Epidemiology
+Prevalence
+Seizure disorder
+LA  - eng
+N1  - 1528-1167
+Subota, Ann
+Pham, Tram
+Jetté, Nathalie
+Sauro, Khara
+Lorenzetti, Diane
+Holroyd-Leduc, Jayna
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+United States
+2017/04/12
+Epilepsia. 2017 Jun;58(6):962-972. doi: 10.1111/epi.13744. Epub 2017 Apr 11.
+PY  - 2017
+SN  - 0013-9580
+SP  - 962-972
+ST  - The association between dementia and epilepsy: A systematic review and meta-analysis
+T2  - Epilepsia
+TI  - The association between dementia and epilepsy: A systematic review and meta-analysis
+VL  - 58
+ID  - 50926
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT: Impaired sexual function has a significant effect on quality of life. Various patient-reported outcome measures (PROMs) are available to evaluate sexual function. The quality of the PROMs to be used for neurologic patients remains unknown. OBJECTIVE: To systematically review which validated PROMs are available to evaluate sexual function in neurologic patients and to critically assess the quality of the validation studies and measurement properties for each identified PROM. EVIDENCE ACQUISITION: A systematic review was performed according to the Preferred Reporting Items for Systematic Review and Meta-analysis statement. The included publications were assessed according to the Consensus-Based Standards for the Selection of Health Measurement Instruments checklist. EVIDENCE SYNTHESIS: Twenty-one studies for PROMs regarding sexual function were identified for the following patient groups: spinal cord injury (11 studies), multiple sclerosis (MS; 6 studies), Parkinson's disease (2 studies), traumatic brain injury (1 study), and epilepsy (1 study). The evidence for the quality of PROMs was found to be variable, and overall evaluation of measurement properties was lacking in 71% of the studies. The measurement error and responsiveness were not studied in any of the publications. CONCLUSIONS: Several PROMs have been identified to evaluate sexual function in neurologic patients. Strong evidence was found only for the Multiple Sclerosis Intimacy and Sexuality Questionnaire-15 and Multiple Sclerosis Intimacy and Sexuality Questionnaire-19 for patients with MS, although evidence was lacking for certain measurement properties as well. Future research should focus on identifying relevant PROMs and establishing adequate quality for all measurement properties in studies with high methodological quality. PATIENT SUMMARY: A quality assessment of patient-reported outcome measures (PROMs) for sexual function in neurologic patients was made. The evidence found for good PROMs was limited. Studies with high methodological quality are needed to improve the quality of PROMs to evaluate sexual function in neurologic patients.
+AD  - Department of Urology, Erasmus Medical Center, Rotterdam, The Netherlands. Electronic address: l.thoen@erasmusmc.nl.
+Department of Urology, Erasmus Medical Center, Rotterdam, The Netherlands.
+Department of Urology, University Hospital of the Canary Islands, Tenerife, Spain.
+Department of Neuro-Urology, Careggi University Hospital, Florence, Italy.
+Department of Neuro-Urology, London Spinal Injuries Centre, Stanmore, England.
+Department of Urology, Aix Marseille University, Marseille, France.
+Department of Uro-Neurology, National Hospital for Neurology and Neurosurgery and UCL Institute of Neurology, London, England.
+Neuro-Urology, Spinal Cord Injury Center and Research, University of Zürich, Balgrist University Hospital, Zürich, Switzerland.
+Department of Urology, University of Bern, , Bern, Switzerland.
+Neuro-Urology, Swiss Paraplegic Center, Nottwil, Switzerland.
+AN  - 28753768
+AU  - t Hoen, L. A.
+AU  - Groen, J.
+AU  - Scheepe, J. R.
+AU  - Reuvers, S.
+AU  - Diaz, D. C.
+AU  - Fernández, B. P.
+AU  - Del Popolo, G.
+AU  - Musco, S.
+AU  - Hamid, R.
+AU  - Ecclestone, H.
+AU  - Karsenty, G.
+AU  - Phé, V.
+AU  - Boissier, R.
+AU  - Kessler, T. M.
+AU  - Gross, T.
+AU  - Schneider, M. P.
+AU  - Pannek, J.
+AU  - Blok, B. F. M.
+DA  - Oct
+DO  - 10.1016/j.euf.2016.06.009
+DP  - NLM
+ET  - 20160623
+IS  - 4-5
+KW  - Adolescent
+Adult
+Aged
+Consensus
+Female
+Humans
+Male
+Middle Aged
+Nervous System Diseases/*complications/*psychology
+*Patient Reported Outcome Measures
+Psychometrics/methods
+Quality Assurance, Health Care/*methods
+Quality of Life
+Sexual Dysfunctions, Psychological/*psychology
+Young Adult
+COSMIN checklist
+Neurological patients
+Patient-reported outcome measures
+Sexual function
+Systematic review
+LA  - eng
+N1  - 2405-4569
+'t Hoen, Lisette A
+Groen, Jan
+Scheepe, Jeroen R
+Reuvers, Sarah
+Diaz, David Castro
+Fernández, Bárbara Padilla
+Del Popolo, Giulio
+Musco, Stefania
+Hamid, Rizwan
+Ecclestone, Hazel
+Karsenty, Gilles
+Phé, Veronique
+Boissier, Romain
+Kessler, Thomas M
+Gross, Tobias
+Schneider, Marc P
+Pannek, Jürgen
+Blok, Bertil F M
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+Netherlands
+2017/07/30
+Eur Urol Focus. 2017 Oct;3(4-5):444-456. doi: 10.1016/j.euf.2016.06.009. Epub 2016 Jun 23.
+PY  - 2017
+SN  - 2405-4569
+SP  - 444-456
+ST  - A Quality Assessment of Patient-Reported Outcome Measures for Sexual Function in Neurologic Patients Using the Consensus-based Standards for the Selection of Health Measurement Instruments Checklist: A Systematic Review
+T2  - Eur Urol Focus
+TI  - A Quality Assessment of Patient-Reported Outcome Measures for Sexual Function in Neurologic Patients Using the Consensus-based Standards for the Selection of Health Measurement Instruments Checklist: A Systematic Review
+VL  - 3
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To synthesise results of population surveys assessing knowledge and attitudes about prevention and treatment of dementia. METHODS: MEDLINE, EMBASE, PsycINFO, and grey literature were searched for English language entries published between 2012 and May 2017. Survey questions were grouped using an inductive approach and responses were pooled. RESULTS: Thirty-four eligible studies and four grey literature items were identified. Surveys were conducted in Europe, the US, Eastern Asia, Israel, and Australia. Nearly half of respondents agreed that dementia is a normal and non-preventable part of ageing, but belief in the potential for prevention may be improving over time. The role of cardiovascular risk factors was poorly understood overall. Less than half of respondents reported belief in the availability of a cure for dementia. The value of seeking treatment was highly endorsed. CONCLUSIONS: Results suggest that knowledge about the potential for dementia prevention and treatment remains poor but may be improving over time. Knowledge among those living in low- and middle-income countries are largely unknown, presenting challenges for the development of National action plans consistent with World Health Organization directives.
+AD  - Department of Rehabilitation, Aged and Extended Care, Flinders University, Adelaide, South Australia, Australia.
+Cognitive Decline Partnership Centre, The University of Sydney, Sydney, New South Wales, Australia.
+AN  - 29672559
+AU  - Cations, M.
+AU  - Radisic, G.
+AU  - Crotty, M.
+AU  - Laver, K. E.
+C1  - Competing Interests: Monica Cations is currently employed to assist with data collection for Alzheimer's disease drug trials funded by Janssen, Paraxel, and Merck. Maria Crotty receives funding from Novartis for trials of hip fracture involving treatments for sarcopenia. This does not alter our adherence to PLOS ONE policies on sharing data and materials.
+C2  - PMC5908164
+DO  - 10.1371/journal.pone.0196085
+DP  - NLM
+ET  - 20180419
+IS  - 4
+KW  - Culture
+Dementia/*epidemiology/prevention & control/therapy
+*Health Knowledge, Attitudes, Practice
+Humans
+*Public Health Surveillance
+*Public Opinion
+LA  - eng
+N1  - 1932-6203
+Cations, Monica
+Orcid: 0000-0002-9262-0463
+Radisic, Gorjana
+Crotty, Maria
+Laver, Kate E
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+United States
+2018/04/20
+PLoS One. 2018 Apr 19;13(4):e0196085. doi: 10.1371/journal.pone.0196085. eCollection 2018.
+PY  - 2018
+SN  - 1932-6203
+SP  - e0196085
+ST  - What does the general public understand about prevention and treatment of dementia? A systematic review of population-based surveys
+T2  - PLoS One
+TI  - What does the general public understand about prevention and treatment of dementia? A systematic review of population-based surveys
+VL  - 13
+ID  - 50931
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Dementia is a clinical syndrome with a number of different causes which is characterised by deterioration in cognitive, behavioural, social and emotional functions. Pharmacological interventions are available but have limited effect to treat many of the syndrome's features. Less research has been directed towards non-pharmacological treatments. In this review, we examined the evidence for effects of music-based interventions. OBJECTIVES: To assess the effects of music-based therapeutic interventions for people with dementia on emotional well-being including quality of life, mood disturbance or negative affect, behavioural problems, social behaviour and cognition at the end of therapy and four or more weeks after the end of treatment. SEARCH METHODS: We searched ALOIS, the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (CDCIG) on 19 June 2017 using the terms: music therapy, music, singing, sing, auditory stimulation. Additional searches were carried out on 19 June 2017 in the major healthcare databases MEDLINE, Embase, PsycINFO, CINAHL and LILACS; and in trial registers and grey literature sources. SELECTION CRITERIA: We included randomised controlled trials of music-based therapeutic interventions (at least five sessions) for people with dementia that measured any of our outcomes of interest. Control groups either received usual care or other activities with or without music. DATA COLLECTION AND ANALYSIS: Two review authors worked independently to screen the retrieved studies against the inclusion criteria and then to extract data and assess methodological quality of the included studies. If necessary, we contacted trial authors to ask for additional data, including relevant subscales, or for other missing information. We pooled data using random-effects models. MAIN RESULTS: We included 22 studies with 1097 randomised participants. Twenty-one studies with 890 participants contributed data to meta-analyses. Participants in the studies had dementia of varying degrees of severity, and all were resident in institutions. Seven studies delivered an individual music intervention; the other studies delivered the intervention to groups of participants. Most interventions involved both active and receptive musical elements. The methodological quality of the studies varied. All were at high risk of performance bias and some were at high risk of detection or other bias.At the end of treatment, we found low-quality evidence that the interventions may improve emotional well-being and quality of life (standardised mean difference (SMD) 0.32, 95% confidence interval (CI) 0.02 to 0.62; 9 studies, 348 participants) and reduce anxiety (SMD -0.43, 95% CI -0.72 to -0.14; 13 studies, 478 participants). We found low-quality evidence that music-based therapeutic interventions may have little or no effect on cognition (SMD 0.15, 95% CI -0.06 to 0.36; 7 studies, 350 participants). There was moderate-quality evidence that the interventions reduce depressive symptoms (SMD -0.27, 95% CI -0.45 to -0.09; 11 studies, 503 participants) and overall behaviour problems (SMD -0.23, 95% CI -0.46 to -0.01; 10 studies, 442 participants), but do not decrease agitation or aggression (SMD -0.07, 95% CI -0.24 to 0.10; 14 studies, 626 participants). The quality of the evidence on social behaviour was very low, so effects were very uncertain.The evidence for long-term outcomes measured four or more weeks after the end of treatment was of very low quality for anxiety and social behaviour, and for the other outcomes, it was of low quality for little or no effect (with small SMDs, between 0.03 and 0.34). AUTHORS' CONCLUSIONS: Providing people with dementia who are in institutional care with at least five sessions of a music-based therapeutic intervention probably reduces depressive symptoms and improves overall behavioural problems at the end of treatment. It may also improve emotional well-being and quality of life and reduce anxiety, but may have little or no effect on agitation or aggression or on cognition. We are uncertain about effects on social behaviour and about long-term effects. Future studies should examine the duration of effects in relation to the overall duration of treatment and the number of sessions.
+AD  - Department of Public Health and Primary Care, Leiden University Medical Center, Hippocratespad 21, Gebouw 3, PO Box 9600, Leiden, Netherlands, 2300RC.
+AN  - 30033623
+AU  - van der Steen, J. T.
+AU  - Smaling, H. J.
+AU  - van der Wouden, J. C.
+AU  - Bruinsma, M. S.
+AU  - Scholten, R. J.
+AU  - Vink, A. C.
+C1  - AV and MB are involved in music therapy research and dementia. We included a study of AV, which was, however, evaluated by two other review authors. The lead author and the co‐authors, who are Cochrane experts, made the final decisions about analyses, presentation and interpretation of the data and they do not have a conflict of interest related to finding effects of music therapy.
+C2  - PMC6513122
+DA  - Jul 23
+DO  - 10.1002/14651858.CD003477.pub4
+DP  - NLM
+ET  - 20180723
+IS  - 7
+KW  - Aged
+Aggression
+Dementia/psychology/rehabilitation/*therapy
+Depression/therapy
+Humans
+Mental Disorders/therapy
+*Music Therapy
+Psychomotor Agitation/therapy
+Quality of Life
+Randomized Controlled Trials as Topic
+Treatment Outcome
+LA  - eng
+N1  - 1469-493x
+van der Steen, Jenny T
+Smaling, Hanneke Ja
+van der Wouden, Johannes C
+Bruinsma, Manon S
+Scholten, Rob Jpm
+Vink, Annemiek C
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+England
+2018/07/24
+Cochrane Database Syst Rev. 2018 Jul 23;7(7):CD003477. doi: 10.1002/14651858.CD003477.pub4.
+PY  - 2018
+SN  - 1361-6137
+SP  - Cd003477
+ST  - Music-based therapeutic interventions for people with dementia
+T2  - Cochrane Database Syst Rev
+TI  - Music-based therapeutic interventions for people with dementia
+VL  - 7
+ID  - 50890
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND AIMS: Tobacco smoking is prevalent among Arab smokers. Interventions to support smoking cessation may differ in effectiveness in this population from Western populations usually studied. This review assessed evidence of effectiveness of clinical smoking interventions in Arab smokers. METHODS: A systematic search for comparative trials evaluating tobacco cessation interventions in Arab populations was conducted in the MEDLINE, EMBASE, PyschINFO, CINHAL and Web of Science databases. Behavioural, pharmacological and combined interventions were included. Reference lists of included studies were hand searched. The outcome measure was self- reported tobacco abstinence at the final follow-up, with biochemical verification where available. Assessment of evidence for effectiveness was undertaken using Bayes Factors. RESULTS: A total of 659 titles and abstracts were identified. Five studies met the inclusion criteria. Four of these were randomized controlled trials and one was a non-randomized comparative trial. Differences between study features precluded meaningful aggregation for a meta-analysis. The four randomized trials all yielded Bayes Factors <1, suggesting no effect of the intervention compared with the control condition. The non-randomized trial, conducted in tuberculosis clinics in Sudan, yielded an extremely high Bayes Factor (>1000), supporting the hypothesis of effectiveness; however, the study was judged to have a high risk of bias. CONCLUSIONS: As yet, there is no convincing direct evidence that clinical smoking cessation interventions, which are found to be effective in Western populations, are also effective for Arab smokers. There is an urgent need for high quality randomized trials evaluating interventions in this population.
+AD  - Cancer Research UK Health Behaviour Research Centre, Department of Epidemiology and Public Health, University College London, London, UK.
+Cancer Research UK Health Behaviour Research Centre, Department of Epidemiology and Public Health, University College London, London, UK. Electronic address: robertwest100@gmail.com.
+Prince Sultan College for Emergency Medical Services, King Saud University, Saudi Arabia.
+AN  - 30205256
+AU  - Alzahrane, A.
+AU  - West, R.
+AU  - Ubhi, H. K.
+AU  - Brown, J.
+AU  - Abdulqader, N.
+AU  - Samarkandi, O.
+DA  - Jan
+DO  - 10.1016/j.addbeh.2018.08.017
+DP  - NLM
+ET  - 20180827
+KW  - *Arabs
+Bayes Theorem
+Behavior Therapy
+Humans
+Smoking Cessation/*methods
+Tobacco Use Cessation/*methods
+Arab
+Bayes factor
+Cessation
+Effectiveness
+Intervention
+Systematic review
+Tobacco
+LA  - eng
+N1  - 1873-6327
+Alzahrane, Abdallaziz
+West, Robert
+Ubhi, Harveen Kaur
+Brown, Jamie
+Abdulqader, Nabeel
+Samarkandi, Osama
+22962/CRUK_/Cancer Research UK/United Kingdom
+MR/K023195/1/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+Systematic Review
+England
+2018/09/12
+Addict Behav. 2019 Jan;88:169-174. doi: 10.1016/j.addbeh.2018.08.017. Epub 2018 Aug 27.
+PY  - 2019
+SN  - 0306-4603
+SP  - 169-174
+ST  - Evaluations of clinical tobacco cessation interventions in Arab populations: A systematic review
+T2  - Addict Behav
+TI  - Evaluations of clinical tobacco cessation interventions in Arab populations: A systematic review
+VL  - 88
+ID  - 8036
+ER  - 
+
+TY  - JOUR
+AB  - Anxiety is a major mental disorder in later life that impacts on activities of daily living and quality of life for adults living with dementia in nursing homes. The aim of this article was to systematically review nonpharmacological interventions for older adults living in nursing homes who experience comorbid anxiety and dementia. METHOD: A systematic literature search was conducted across key databases (Cinahl, ASSIA, Cochrane reviews and trials, psycARTICLES, psycINFO, and PubMed) to identify studies measuring anxiety as an outcome for an intervention for older adults living with dementia in nursing homes, up to December 31, 2017. RESULTS: The search yielded a total of 1,925 articles with 45 articles accessed for full article review. A total of 13 articles were included in this review following quality appraisal based on Cochrane methodology with six different anxiety measures used. The studies included were moderate to high-quality randomized control trials although heterogeneity precluded a combined meta-analysis. CLINICAL IMPLICATIONS: The most common interventions used to address anxiety in this population were music therapy and activity-based interventions although there was limited evidence for the efficacy of either intervention. Little is known about effective nonpharmacological treatment for anxiety for people living with dementia in nursing homes. Further research using consistent measurement tools and time points is required to identify effective interventions to improve the quality of life for people living with both dementia and anxiety in nursing homes.
+AD  - School of Nursing and Midwifery, Queens University Belfast, United Kingdom.
+School of Nursing, Midwifery and Social Work, The University of Queensland, St. Lucia, Australia.
+School of Psychology, The University of Queensland, St. Lucia, Australia.
+AN  - 31054222
+AU  - Brown Wilson, C.
+AU  - Arendt, L.
+AU  - Nguyen, M.
+AU  - Scott, T. L.
+AU  - Neville, C. C.
+AU  - Pachana, N. A.
+C2  - PMC6858831
+DA  - Nov 16
+DO  - 10.1093/geront/gnz020
+DP  - NLM
+IS  - 6
+KW  - Aged
+Anxiety/complications/*therapy
+Dementia/complications/psychology/*therapy
+Humans
+*Nursing Homes
+Anxiety
+Dementia
+Nonpharmacological treatment
+Nursing homes
+Systematic review
+LA  - eng
+N1  - 1758-5341
+Brown Wilson, Christine
+Arendt, Lars
+Nguyen, Mynhi
+Scott, Theresa L
+Neville, Christine C
+Pachana, Nancy A
+P50 AG005136/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Systematic Review
+United States
+2019/05/06
+Gerontologist. 2019 Nov 16;59(6):e731-e742. doi: 10.1093/geront/gnz020.
+PY  - 2019
+SN  - 0016-9013 (Print)
+0016-9013
+SP  - e731-e742
+ST  - Nonpharmacological Interventions for Anxiety and Dementia in Nursing Homes: A Systematic Review
+T2  - Gerontologist
+TI  - Nonpharmacological Interventions for Anxiety and Dementia in Nursing Homes: A Systematic Review
+VL  - 59
+ID  - 50917
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Dementia represents a mental and economic burden for both patients and their caregivers. Therefore, the aim of this study is to explore the effectiveness of animal assisted therapy (AAT) with special focus on canis therapy among people with dementia, specifically Alzheimer's disease. METHODS: The key method of this review study is a systematic review of the research studies detected in the Web of Science, Scopus and PubMed. The search was conducted for the studies dating from 2016 till 31 August 2018 because several review studies were published before. Eventually, only six studies were involved into the final analysis. RESULTS: The findings of this review, based on significant effect sizes, reveal that AAT may work as a beneficial and effective complementary treatment, especially in the area of behavioral and psychological symptoms, for patients with different degree of dementia severity if AAT is targeted at their specific needs and interests. CONCLUSIONS: More research in the area of methodology for the implementation of AAT is necessary, and more research should be conducted with respect to the use of AAT for the improvement of cognitive functions in people with dementia.
+AD  - Department of Applied Linguistics, Faculty of Informatics and Management, University of Hradec Kralove, Hradec Kralove, Czech Republic.
+Biomedical Research Centre, University Hospital Hradec Kralove, Hradec Kralove, Czech Republic. kamil.kuca@fnhk.cz.
+Centre for Basic and Applied Research, Faculty of Informatics and Management, University of Hradec Kralove, Sokolska 581, Hradec Kralove, Czech Republic. kamil.kuca@fnhk.cz.
+AN  - 31492131
+AU  - Klimova, B.
+AU  - Toman, J.
+AU  - Kuca, K.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC6731615
+DA  - Sep 6
+DO  - 10.1186/s12888-019-2245-x
+DP  - NLM
+ET  - 20190906
+IS  - 1
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/psychology/*therapy
+Animal Assisted Therapy/*methods
+Animals
+Caregivers/psychology
+Dementia/psychology/*therapy
+Dogs
+Female
+Humans
+Male
+Middle Aged
+Treatment Outcome
+Dementia
+Effectiveness
+Intervention
+Review
+Therapy
+LA  - eng
+N1  - 1471-244x
+Klimova, Blanka
+Toman, Josef
+Kuca, Kamil
+Orcid: 0000-0001-9664-1109
+Journal Article
+Research Support, Non-U.S. Gov't
+Systematic Review
+England
+2019/09/08
+BMC Psychiatry. 2019 Sep 6;19(1):276. doi: 10.1186/s12888-019-2245-x.
+PY  - 2019
+SN  - 1471-244x
+SP  - 276
+ST  - Effectiveness of the dog therapy for patients with dementia - a systematic review
+T2  - BMC Psychiatry
+TI  - Effectiveness of the dog therapy for patients with dementia - a systematic review
+VL  - 19
+ID  - 50916
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Among areas that have challenged the progress of dementia care has been the assessment of change in symptoms over time. Digital biomarkers are defined as objective, quantifiable, physiological, and behavioral data that are collected and measured by means of digital devices, such as embedded environmental sensors or wearables. Digital biomarkers provide an alternative assessment approach, as they allow objective, ecologically valid, and long-term follow-up with continuous assessment. Despite the promise of a multitude of sensors and devices that can be applied, there are no agreed-upon standards for digital biomarkers, nor are there comprehensive evidence-based results for which digital biomarkers may be demonstrated to be most effective. OBJECTIVE: In this review, we seek to answer the following questions: (1) What is the evidence for real-life, home-based use of technologies for early detection and follow-up of mild cognitive impairment (MCI) or dementia? And (2) What transformation might clinicians expect in their everyday practices? METHODS: A systematic search was conducted in PubMed, Cochrane, and Scopus databases for papers published from inception to July 2018. We searched for studies examining the implementation of digital biomarker technologies for mild cognitive impairment or mild Alzheimer disease follow-up and detection in nonclinic, home-based settings. All studies that included the following were examined: community-dwelling older adults (aged 65 years or older); cognitively healthy participants or those presenting with cognitive decline, from subjective cognitive complaints to early Alzheimer disease; a focus on home-based evaluation for noninterventional follow-up; and remote diagnosis of cognitive deterioration. RESULTS: An initial sample of 4811 English-language papers were retrieved. After screening and review, 26 studies were eligible for inclusion in the review. These studies ranged from 12 to 279 participants and lasted between 3 days to 3.6 years. Most common reasons for exclusion were as follows: inappropriate setting (eg, hospital setting), intervention (eg, drugs and rehabilitation), or population (eg, psychiatry and Parkinson disease). We summarized these studies into four groups, accounting for overlap and based on the proposed technological solutions, to extract relevant data: (1) data from dedicated embedded or passive sensors, (2) data from dedicated wearable sensors, (3) data from dedicated or purposive technological solutions (eg, games or surveys), and (4) data derived from use of nondedicated technological solutions (eg, computer mouse movements). CONCLUSIONS: Few publications dealt with home-based, real-life evaluations. Most technologies were far removed from everyday life experiences and were not mature enough for use under nonoptimal or uncontrolled conditions. Evidence available from embedded passive sensors represents the most relatively mature research area, suggesting that some of these solutions could be proposed to larger populations in the coming decade. The clinical and research communities would benefit from increasing attention to these technologies going forward.
+AD  - Gerontopole, University Hospital of Toulouse, Université Paul Sabatier, Toulouse, France.
+Oregon Center for Aging and Technology, Oregon Health and Science University, Portland, OR, United States.
+AN  - 31471958
+AU  - Piau, A.
+AU  - Wild, K.
+AU  - Mattek, N.
+AU  - Kaye, J.
+C1  - Conflicts of Interest: None declared.
+C2  - PMC6743264
+DA  - Aug 30
+DO  - 10.2196/12785
+DP  - NLM
+ET  - 20190830
+IS  - 8
+KW  - Accelerometry
+Aged
+Alzheimer Disease/diagnosis/*physiopathology/psychology
+Automobile Driving
+Biomarkers
+Cognition
+Cognitive Dysfunction/diagnosis/*physiopathology/psychology
+Disease Progression
+Early Diagnosis
+Geographic Information Systems
+Humans
+Independent Living
+Surveys and Questionnaires
+*Technology
+Telemedicine
+Wearable Electronic Devices
+Alzheimer disease
+cognition disorders
+dementia
+digital biomarkers
+digital health
+digital phenotyping
+older adults
+technology
+LA  - eng
+N1  - 1438-8871
+Piau, Antoine
+Orcid: 0000-0003-2849-3057
+Wild, Katherine
+Orcid: 0000-0002-6749-9729
+Mattek, Nora
+Orcid: 0000-0003-2623-1969
+Kaye, Jeffrey
+Orcid: 0000-0002-9971-3478
+P30 AG008017/AG/NIA NIH HHS/United States
+P30 AG024978/AG/NIA NIH HHS/United States
+R01 AG024059/AG/NIA NIH HHS/United States
+U2C AG054397/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, U.S. Gov't, Non-P.H.S.
+Systematic Review
+Canada
+2019/09/01
+J Med Internet Res. 2019 Aug 30;21(8):e12785. doi: 10.2196/12785.
+PY  - 2019
+SN  - 1439-4456 (Print)
+1438-8871
+SP  - e12785
+ST  - Current State of Digital Biomarker Technologies for Real-Life, Home-Based Monitoring of Cognitive Function for Mild Cognitive Impairment to Mild Alzheimer Disease and Implications for Clinical Care: Systematic Review
+T2  - J Med Internet Res
+TI  - Current State of Digital Biomarker Technologies for Real-Life, Home-Based Monitoring of Cognitive Function for Mild Cognitive Impairment to Mild Alzheimer Disease and Implications for Clinical Care: Systematic Review
+VL  - 21
+ID  - 50915
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To test the hypothesis that distinct subtypes of Alzheimer disease (AD) exist and underlie the heterogeneity within AD, we conducted a systematic review and meta-analysis on AD subtype studies based on postmortem and neuroimaging data. METHODS: EMBASE, PubMed, and Web of Science databases were consulted until July 2019. RESULTS: Neuropathology and neuroimaging studies have consistently identified 3 subtypes of AD based on the distribution of tau-related pathology and regional brain atrophy: typical, limbic-predominant, and hippocampal-sparing AD. A fourth subtype, minimal atrophy AD, has been identified in several neuroimaging studies. Typical AD displays tau-related pathology and atrophy both in hippocampus and association cortex and has a pooled frequency of 55%. Limbic-predominant, hippocampal-sparing, and minimal atrophy AD had a pooled frequency of 21%, 17%, and 15%, respectively. Between-subtype differences were found in age at onset, age at assessment, sex distribution, years of education, global cognitive status, disease duration, APOE ε4 genotype, and CSF biomarker levels. CONCLUSION: We identified 2 core dimensions of heterogeneity: typicality and severity. We propose that these 2 dimensions determine individuals' belonging to one of the AD subtypes based on the combination of protective factors, risk factors, and concomitant non-AD brain pathologies. This model is envisioned to aid with framing hypotheses, study design, interpretation of results, and understanding mechanisms in future subtype studies. Our model can be used along the A/T/N classification scheme for AD biomarkers. Unraveling the heterogeneity within AD is critical for implementing precision medicine approaches and for ultimately developing successful disease-modifying drugs for AD.
+AD  - From the Division of Clinical Geriatrics (D.F., A.N., E.W.), Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Huddinge, Sweden; Theme Aging (A.N.), Karolinska University Hospital, Huddinge, Sweden; and Department of Neuroimaging (E.W.), Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom. daniel.ferreira.padilla@ki.se.
+From the Division of Clinical Geriatrics (D.F., A.N., E.W.), Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Huddinge, Sweden; Theme Aging (A.N.), Karolinska University Hospital, Huddinge, Sweden; and Department of Neuroimaging (E.W.), Centre for Neuroimaging Sciences, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom.
+AN  - 32047067
+AU  - Ferreira, D.
+AU  - Nordberg, A.
+AU  - Westman, E.
+C2  - PMC7238917
+DA  - Mar 10
+DO  - 10.1212/wnl.0000000000009058
+DP  - NLM
+ET  - 20200211
+IS  - 10
+KW  - Alzheimer Disease/*classification/metabolism/*pathology
+Humans
+LA  - eng
+N1  - 1526-632x
+Ferreira, Daniel
+Orcid: 0000-0001-9522-4338
+Nordberg, Agneta
+Orcid: 0000-0001-7345-5151
+Westman, Eric
+Orcid: 0000-0002-3115-2977
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Systematic Review
+United States
+2020/02/13
+Neurology. 2020 Mar 10;94(10):436-448. doi: 10.1212/WNL.0000000000009058. Epub 2020 Feb 11.
+PY  - 2020
+SN  - 0028-3878 (Print)
+0028-3878
+SP  - 436-448
+ST  - Biological subtypes of Alzheimer disease: A systematic review and meta-analysis
+T2  - Neurology
+TI  - Biological subtypes of Alzheimer disease: A systematic review and meta-analysis
+VL  - 94
+ID  - 50914
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The burden of stroke is high in sub-Saharan Africa; however, few data are available on long-term mortality. OBJECTIVE: To estimate over one-month stroke case fatality in sub-Saharan Africa. METHODS: A systematic review and meta-analysis were performed according to meta-analysis of observational studies in epidemiology and Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines (PROSPERO protocol: CRD42020192439), on five electronic databases (PubMed, Science direct, AJOL, EMBASE, and Web of Sciences). We searched all studies on stroke case fatality over one month in sub-Saharan Africa published between 1st January 2000 and 31st December 2019. RESULTS: We included 91 studies with a total of 34,362 stroke cases. The one-month pooled stroke case-fatality rate was 24.1% [95% CI: 21.5-27.0] and 33.2% [95% CI: 23.6-44.5] at one year. At three and five years, the case-fatality rates were respectively 40.1% [95% CI: 20.8-63.0] and 39.4% [95% CI: 14.3-71.5] with high heterogeneity. Hemorrhagic stroke was associated with a higher risk of mortality at one month, but ischemic stroke increased the risk of mortality over six months. Diabetes was associated with poor prognosis at 6 and 12 months with odds ratios of 1.64 [95% CI: 1.22-2.20] and 1.85 [1.25-2.75], respectively. CONCLUSION: The stroke case fatality over one month was very high, compared to case fatalities reported in Western countries and can be explained by a weak healthcare systems and vascular risk factors.
+AD  - Department of Neurology, University of Parakou, Parakou, Benin.
+Clinic of Neurology, University Teaching Hospital of Parakou, Parakou, Benin.
+INSERM, Univ. Limoges, CHU Limoges, IRD, U1094 Tropical Neuroepidemiology, Institute of Epidemiology and Tropical Neurology, GEIST, Limoges, France.
+Department of Neurology, University of Abomey-Calavi, Cotonou, Benin.
+AN  - 33527885
+AU  - Adoukonou, T.
+AU  - Kossi, O.
+AU  - Fotso Mefo, P.
+AU  - Agbétou, M.
+AU  - Magne, J.
+AU  - Gbaguidi, G.
+AU  - Houinato, D.
+AU  - Preux, P. M.
+AU  - Lacroix, P.
+DA  - Oct
+DO  - 10.1177/1747493021990945
+DP  - NLM
+ET  - 20210202
+IS  - 8
+KW  - Africa South of the Sahara/epidemiology
+Databases, Factual
+Humans
+Risk Factors
+*Stroke/epidemiology
+Stroke
+case fatality
+one month
+sub-Saharan Africa
+systematic review
+LA  - eng
+N1  - 1747-4949
+Adoukonou, Thierry
+Orcid: 0000-0002-3236-3063
+Kossi, Oyéné
+Fotso Mefo, Pervenche
+Agbétou, Mendinatou
+Magne, Julien
+Gbaguidi, Glwadys
+Houinato, Dismand
+Preux, Pierre-Marie
+Lacroix, Philippe
+Journal Article
+Meta-Analysis
+Systematic Review
+United States
+2021/02/03
+Int J Stroke. 2021 Oct;16(8):902-916. doi: 10.1177/1747493021990945. Epub 2021 Feb 2.
+PY  - 2021
+SN  - 1747-4930
+SP  - 902-916
+ST  - Stroke case fatality in sub-Saharan Africa: Systematic review and meta-analysis
+T2  - Int J Stroke
+TI  - Stroke case fatality in sub-Saharan Africa: Systematic review and meta-analysis
+VL  - 16
+ID  - 2252
+ER  - 
+
+TY  - JOUR
+AB  - Suboptimal sleep causes cognitive decline and probably accelerates Alzheimer's Disease (AD) progression. Several sleep interventions have been tested in established AD dementia cases. However early intervention is needed in the course of AD at Mild Cognitive Impairment (MCI) or mild dementia stages to help prevent decline and maintain good quality of life. This systematic review aims to summarize evidence on sleep interventions in MCI and mild AD dementia. Seven databases were systematically searched for interventional studies where ≥ 75% of participants met diagnostic criteria for MCI/mild AD dementia, with a control group and validated sleep outcome measures. Studies with a majority of participants diagnosed with Moderate to Severe AD were excluded. After removal of duplicates, 22,133 references were returned in two separate searches (August 2019 and September 2020). 325 full papers were reviewed with 18 retained. Included papers reported 16 separate studies, total sample (n = 1,056), mean age 73.5 years. 13 interventions were represented: Cognitive Behavioural Therapy - Insomnia (CBT-I), A Multi-Component Group Based Therapy, A Structured Limbs Exercise Programme, Aromatherapy, Phase Locked Loop Acoustic Stimulation, Transcranial Stimulation, Suvorexant, Melatonin, Donepezil, Galantamine, Rivastigmine, Tetrahydroaminoacridine and Continuous Positive Airway Pressure (CPAP). Psychotherapeutic approaches utilising adapted CBT-I and a Structured Limbs Exercise Programme each achieved statistically significant improvements in the Pittsburgh Sleep Quality Index with one study reporting co-existent improved actigraphy variables. Suvorexant significantly increased Total Sleep Time and Sleep Efficiency whilst reducing Wake After Sleep Onset time. Transcranial Stimulation enhanced cortical slow oscillations and spindle power during daytime naps. Melatonin significantly reduced sleep latency in two small studies and sleep to wakefulness transitions in a small sample. CPAP demonstrated efficacy in participants with Obstructive Sleep Apnoea. Evidence to support other interventions was limited. Whilst new evidence is emerging, there remains a paucity of evidence for sleep interventions in MCI and mild AD highlighting a pressing need for high quality experimental studies exploring alternative sleep interventions.
+AD  - North Bristol NHS Trust, Bristol, UK.
+Bristol Medical School, University of Bristol, Bristol, UK.
+University of Bath, Bath, UK.
+Department of Psychiatry, University of California, San Francisco, CA, USA.
+AN  - 33289311
+AU  - Blackman, J.
+AU  - Swirski, M.
+AU  - Clynes, J.
+AU  - Harding, S.
+AU  - Leng, Y.
+AU  - Coulthard, E.
+C1  - None.
+C2  - PMC8365694
+DA  - Aug
+DO  - 10.1111/jsr.13229
+DP  - NLM
+ET  - 20201202
+IS  - 4
+KW  - Alzheimer Disease/*complications/drug therapy/*therapy
+Cognitive Dysfunction/*complications/drug therapy/*therapy
+Humans
+Quality of Life
+Sleep/*drug effects
+Ad
+Alzheimer's dementia
+Alzheimer's disease
+Mci
+mild cognitive impairment
+sleep
+LA  - eng
+N1  - 1365-2869
+Blackman, Jonathan
+Orcid: 0000-0001-9579-9860
+Swirski, Marta
+Clynes, James
+Harding, Sam
+Orcid: 0000-0002-5870-2094
+Leng, Yue
+Coulthard, Elizabeth
+Orcid: 0000-0002-0017-9595
+R00 AG056598/AG/NIA NIH HHS/United States
+Bristol Research into Alzheimer's Care of the Elderly (BRACE)/
+North Bristol NHS Trust Research Capability Funding/
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+England
+2020/12/09
+J Sleep Res. 2021 Aug;30(4):e13229. doi: 10.1111/jsr.13229. Epub 2020 Dec 2.
+PY  - 2021
+SN  - 0962-1105 (Print)
+0962-1105
+SP  - e13229
+ST  - Pharmacological and non-pharmacological interventions to enhance sleep in mild cognitive impairment and mild Alzheimer's disease: A systematic review
+T2  - J Sleep Res
+TI  - Pharmacological and non-pharmacological interventions to enhance sleep in mild cognitive impairment and mild Alzheimer's disease: A systematic review
+VL  - 30
+ID  - 50892
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: People with dementia die prematurely. Identifying differences in mortality rates between different types of dementia might aid in the development of preventive interventions for the most vulnerable populations. The aim of this study was to compare the difference in mortality rates between individuals without dementia and individuals with various types of dementia. METHODS: For this systematic review and meta-analysis, we did a systematic search of MEDLINE, PubMed, Embase, and Cochrane Library from inception to July 11, 2020, for cross-sectional or cohort studies that assessed mortality and survival-related outcomes among people with different types of dementia compared with people without dementia. Single-arm studies without comparison groups and autopsy studies or family studies that used a selected sample were excluded. The Newcastle-Ottawa Scale was used by two authors (D-JL and C-SC) independently to measure the methodological quality of included studies, and two authors (F-CY and P-TT) independently extracted data. We assessed differences in all-cause mortality rate and survival time from dementia diagnosis between individuals without dementia, individuals with Alzheimer's disease, and individuals with non-Alzheimer's disease dementias. The secondary outcomes were age at death and survival time from disease onset. Random-effects meta-analyses were done. Effect sizes included hazard ratios (HRs) and mean differences (MDs) with 95% CIs. Potential moderators, including age-associated moderators, were identified through meta-regression and subgroup analyses. This study is registered with PROSPERO, CRD42020198786. FINDINGS: Our database search identified 11 973 records, and we included 78 eligible studies in our analyses, encompassing 63 125 individuals with dementia and 152 353 controls. Individuals with any type of dementia had a higher mortality rate than individuals without dementia (HR 5·90, 95% CI 3·53 to 9·86), and the HR for all-cause mortality was highest for Lewy body dementia (17·88, 5·87 to 54·46). After diagnosis, the mean survival time for people with Alzheimer's disease was 5·8 years (SD 2·0). Compared with people with Alzheimer's disease, a diagnosis of any non-Alzheimer's disease dementia was associated with a higher risk of all-cause mortality (HR 1·33, 1·21 to 1·46), a shorter survival time from diagnosis (MD -1·12 years, 95% CI -1·52 to -0·72), and a younger age at death (-1·76 years, -2·66 to -0·85). Survival time from disease onset was also shorter in people with non-Alzheimer's dementia, across types, compared with people with Alzheimer's disease, but the subgroup analysis revealed that this difference was only significant for vascular dementia (MD -1·27 years, -1·90 to -0·65) and dementia with Lewy bodies (MD -1·06 years, -1·68 to -0·44). The interactions between age and several survival-related outcomes were significant. 39 (50%) of the 78 included studies were rated as good quality, and large heterogeneity (I(2)>75%) was observed for most of the study outcomes. INTERPRETATION: Alzheimer's disease is the most common type of dementia and one of the major causes of mortality worldwide. However, the findings from the current study suggest that non-Alzheimer's disease dementias were associated with higher morality rates and shorter life expectancy than Alzheimer's disease. Developing tailored treatment and rehabilitation programmes for different types of dementia is important for mental health providers, patients, and their families. FUNDING: None.
+AD  - Department of Psychiaty, Beitou Branch, Tri-Service General Hospital, School of Medicine, National Defense Medical Center, Taipei, Taiwan.
+Faculty of Nursing Department, Meiho University, Pingtung City, Taiwan; Department of Addiction Science, Kaohsiung Municipal Kai-Syuan Psychiatric Hospital, Kaohsiung City, Taiwan; Graduate Institute of Medicine, College of Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan.
+Department of Neurology, Tri-Service General Hospital, School of Medicine, National Defense Medical Center, Taipei, Taiwan.
+Prospect Clinic for Otorhinolaryngology & Neurology, Kaohsiung City, Taiwan; Department of Psychology, College of Medical and Health Science, Asia University, Taichung, Taiwan; Institute of Biomedical Sciences, National Sun Yat-sen University, Kaohsiung, Taiwan.
+Innovation in Mental and Physical Health and Clinical Treatment Strategic Research Centre, School of Medicine, Barwon Health, Deakin University, Geelong, VIC, Australia.
+Department of Psychological Medicine, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK; South London and Maudsley NHS Foundation Trust, London, UK.
+Centre for Chronic Illness and Ageing, University of Greenwich, London, UK.
+Department of Pediatrics, Yonsei University College of Medicine, Seoul, Korea.
+Department of Psychosis Studies, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, UK; Institut d'Investigacions Biomèdiques August Pi i Sunyer, Barcelona, Spain; Mental Health Research Networking Center, Barcelona, Spain; Centre for Psychiatric Research, Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden.
+Department of Psychiatry, University of Toronto, Toronto, Canada; Toronto Dementia Research Alliance, Faculty of Medicine, University of Toronto, Toronto, Canada; Adult Neurodevelopment and Geriatric Psychiatry Division, Centre for Addiction & Mental Health, Toronto, ON, Canada.
+Institute of Epidemiology & Preventive Medicine, College of Public Health, National Taiwan University, Taipei, Taiwan.
+Department of Psychiatry, Tri-Service General Hospital, School of Medicine, National Defense Medical Center, Taipei, Taiwan; Institute of Brain Science, National Yang Ming Chiao Tung University, Taipei, Taiwan.
+Department of Pharmacy, Chang-Gung Memorial Hospital, Linkou, Taiwan.
+Department of Psychiatry Kaohsiung Veterans General Hospital, Kaohsiung City, Taiwan.
+Department of Psychiatry Kaohsiung Veterans General Hospital, Kaohsiung City, Taiwan; Center for Geriatric and Gerontology Kaohsiung Veterans General Hospital, Kaohsiung City, Taiwan; Non-invasive Neuromodulation Consortium for Mental Disorders, Society of Psychophysiology, Taipei, Taiwan; Graduate Institute of Medicine, College of Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan. Electronic address: youngtzuchi@hotmail.com.
+AN  - 36097997
+AU  - Liang, C. S.
+AU  - Li, D. J.
+AU  - Yang, F. C.
+AU  - Tseng, P. T.
+AU  - Carvalho, A. F.
+AU  - Stubbs, B.
+AU  - Thompson, T.
+AU  - Mueller, C.
+AU  - Shin, J. I.
+AU  - Radua, J.
+AU  - Stewart, R.
+AU  - Rajji, T. K.
+AU  - Tu, Y. K.
+AU  - Chen, T. Y.
+AU  - Yeh, T. C.
+AU  - Tsai, C. K.
+AU  - Yu, C. L.
+AU  - Pan, C. C.
+AU  - Chu, C. S.
+C1  - Declaration of interests We declare no competing interests.
+DA  - Aug
+DO  - 10.1016/s2666-7568(21)00140-9
+DP  - NLM
+ET  - 20210721
+IS  - 8
+KW  - *Alzheimer Disease/complications
+Cross-Sectional Studies
+*Dementia/etiology
+*Dementia, Vascular/complications
+Humans
+*Lewy Body Disease/complications
+LA  - eng
+N1  - 2666-7568
+Liang, Chih-Sung
+Li, Dian-Jeng
+Yang, Fu-Chi
+Tseng, Ping-Tao
+Carvalho, Andre F
+Stubbs, Brendon
+Thompson, Trevor
+Mueller, Christoph
+Shin, Jae Il
+Radua, Joaquim
+Stewart, Robert
+Rajji, Tarek K
+Tu, Yu-Kang
+Chen, Tien-Yu
+Yeh, Ta-Chuan
+Tsai, Chia-Kuang
+Yu, Chia-Ling
+Pan, Chih-Chuan
+Chu, Che-Sheng
+MR/T045302/1/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Systematic Review
+England
+2022/09/14
+Lancet Healthy Longev. 2021 Aug;2(8):e479-e488. doi: 10.1016/S2666-7568(21)00140-9. Epub 2021 Jul 21.
+PY  - 2021
+SN  - 2666-7568
+SP  - e479-e488
+ST  - Mortality rates in Alzheimer's disease and non-Alzheimer's dementias: a systematic review and meta-analysis
+T2  - Lancet Healthy Longev
+TI  - Mortality rates in Alzheimer's disease and non-Alzheimer's dementias: a systematic review and meta-analysis
+VL  - 2
+ID  - 50930
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Population aging has resulted in an increase in age-related conditions. Sarcopenia, the progressive loss of muscle mass and strength, and frailty, vulnerability to poor resolution of homeostasis after a stressor, are common causes of functional decline in older individuals. There is a paucity of work on how they interrelate with dementia. The objective of this review was to examine the literature on sarcopenia and frailty in dementia. METHODS AND RESULTS: Studies of sarcopenia and frailty in dementia were searched for in EMBASE, PubMed and Web of Science, and via hand-searching. Citations were screened for independently by two reviewers, with disagreements resolved by a third reviewer. To be eligible for inclusion, the articles needed to fulfil: (1) English language; (2) human studies; and (3) full-text available. Dementia of any aetiology was included. 303 non-duplicate recorders were identified, of which 270 irrelevant papers were excluded. Of the remaining 33, 27 examined frailty and 13 sarcopenia, with six of these measuring both. An increased prevalence of frailty and sarcopenia was noted in dementia patients. However, nine papers did not specify dementia aetiologies. Of those that did (n = 21), 20 examined Alzheimer's disease, with three also including Lewy body dementia, three vascular dementia, and one Parkinson's disease dementia. CONCLUSION: Most papers examined frailty, rather than sarcopenia, in dementia. The studies were heterogeneous, using different protocols and non-validated definitions. However, dementia patients may have an increased prevalence of frailty and sarcopenia. This review highlights key gaps in accurate diagnosis of frailty/sarcopenia and in non-Alzheimer's dementia.
+AD  - NIHR Newcastle Biomedical Research Centre, Newcastle University Translational Clinical Research Institute, Campus for Ageing and Vitality, Newcastle upon Tyne, NE4 5PL, UK. Electronic address: s.j.waite2@newcastle.ac.uk.
+NIHR Newcastle Biomedical Research Centre, Newcastle University Translational Clinical Research Institute, Campus for Ageing and Vitality, Newcastle upon Tyne, NE4 5PL, UK.
+NIHR Newcastle Biomedical Research Centre, Newcastle University Translational Clinical Research Institute, Campus for Ageing and Vitality, Newcastle upon Tyne, NE4 5PL, UK; Gateshead Health NHS Foundation Trust, Newcastle, UK.
+NIHR Newcastle Biomedical Research Centre, Newcastle University Translational Clinical Research Institute, Campus for Ageing and Vitality, Newcastle upon Tyne, NE4 5PL, UK; Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle, UK.
+AN  - 33011431
+AU  - Waite, S. J.
+AU  - Maitland, S.
+AU  - Thomas, A.
+AU  - Yarnall, A. J.
+DA  - Jan-Feb
+DO  - 10.1016/j.archger.2020.104268
+DP  - NLM
+ET  - 20200928
+KW  - Aged
+*Alzheimer Disease
+*Dementia, Vascular
+*Frailty/epidemiology
+Humans
+*Lewy Body Disease
+*Sarcopenia/epidemiology
+Aging
+Alzheimer’s
+Dementia
+Frailty
+Lewy bodies
+Sarcopenia
+LA  - eng
+N1  - 1872-6976
+Waite, Samantha J
+Maitland, Stuart
+Thomas, Alan
+Yarnall, Alison J
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+Netherlands
+2020/10/05
+Arch Gerontol Geriatr. 2021 Jan-Feb;92:104268. doi: 10.1016/j.archger.2020.104268. Epub 2020 Sep 28.
+PY  - 2021
+SN  - 0167-4943
+SP  - 104268
+ST  - Sarcopenia and frailty in individuals with dementia: A systematic review
+T2  - Arch Gerontol Geriatr
+TI  - Sarcopenia and frailty in individuals with dementia: A systematic review
+VL  - 92
+ID  - 50897
+ER  - 
+
+TY  - JOUR
+AB  - Augmented reality (AR) is an adjuvant tool in neuronavigation to improve spatial and anatomic understanding. The present review aims to describe the current status of intraoperative AR for the treatment of cerebrovascular pathology. A systematic review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The following databases were searched: PubMed, Science Direct, Web of Science, and EMBASE up to December, 2020. The search strategy consisted of "augmented reality," "AR," "cerebrovascular," "navigation," "neurovascular," "neurosurgery," and "endovascular" in both AND and OR combinations. Studies included were original research articles with intraoperative application. The manuscripts were thoroughly examined for study design, outcomes, and results. Sixteen studies were identified describing the use of intraoperative AR in the treatment of cerebrovascular pathology. A total of 172 patients were treated for 190 cerebrovascular lesions using intraoperative AR. The most common treated pathology was intracranial aneurysms. Most studies were cases and there was only a case-control study. A head-up display system in the microscope was the most common AR display. AR was found to be useful for tailoring the craniotomy, dura opening, and proper identification of donor and recipient vessels in vascular bypass. Most AR systems were unable to account for tissue deformation. This systematic review suggests that intraoperative AR is becoming a promising and feasible adjunct in the treatment of cerebrovascular pathology. It has been found to be a useful tool in the preoperative planning and intraoperative guidance. However, its clinical benefits remain to be seen.
+AD  - Department of Neurosurgery, Banner University Medical Center, University of Arizona, Tucson, AZ, USA.
+Department of Medicine and Nutrition, University of Guanajuato, Leon, Mexico.
+Department of Neurosurgery, Banner University Medical Center, University of Arizona, 755 E. McDowell Rd, Phoenix, AZ, 85006, USA. Peter.Nakaji@bannerhealth.com.
+AN  - 35149900
+AU  - Aguilar-Salinas, P.
+AU  - Gutierrez-Aguirre, S. F.
+AU  - Avila, M. J.
+AU  - Nakaji, P.
+DA  - Jun
+DO  - 10.1007/s10143-022-01733-3
+DP  - NLM
+ET  - 20220211
+IS  - 3
+KW  - *Augmented Reality
+Case-Control Studies
+Humans
+Neuronavigation/methods
+Neurosurgical Procedures/methods
+Stereotaxic Techniques
+Augmented reality
+Cerebrovascular
+Navigation
+Neurosurgery
+LA  - eng
+N1  - 1437-2320
+Aguilar-Salinas, Pedro
+Orcid: 0000-0002-5268-6548
+Gutierrez-Aguirre, Salvador F
+Orcid: 0000-0003-3085-7411
+Avila, Mauricio J
+Orcid: 0000-0001-5855-2033
+Nakaji, Peter
+Orcid: 0000-0001-6677-2925
+Journal Article
+Review
+Systematic Review
+Germany
+2022/02/13
+Neurosurg Rev. 2022 Jun;45(3):1951-1964. doi: 10.1007/s10143-022-01733-3. Epub 2022 Feb 11.
+PY  - 2022
+SN  - 0344-5607
+SP  - 1951-1964
+ST  - Current status of augmented reality in cerebrovascular surgery: a systematic review
+T2  - Neurosurg Rev
+TI  - Current status of augmented reality in cerebrovascular surgery: a systematic review
+VL  - 45
+ID  - 2885
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Lithium has neuroprotective effects in animal models of stroke, but benefits in humans remain uncertain. This article aims to systematically review the available evidence of the neuroprotective and regenerative effects of lithium in animal models of stroke, as well as in observational and trial stroke studies in humans. METHODS: This systematic review and meta-analysis was conducted according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. We searched Medline, Embase, and PsycINFO for preclinical and clinical studies published between January 2000 and September 2021. A random-effects meta-analysis was conducted from observational studies. RESULTS: From 1625 retrieved studies, 42 were included in the systematic review. Of those, we identified 36 rodent models of stroke using preinsult or postinsult treatment with lithium, and 6 studies were conducted in human samples, of which 4 could be meta-analyzed. The review of animal models was stratified according to the type of stroke and outcomes. Human data were subdivided into observational and intervention studies. Treatment of rodents with lithium was associated with smaller stroke volumes, decreased apoptosis, and improved poststroke function. In humans, exposure to lithium was associated with a lower risk of stroke among adults with bipolar disorder in 2 of 4 studies. Two small trials showed equivocal clinical benefits of lithium poststroke. CONCLUSIONS: Animal models of stroke show consistent biological and functional evidence of benefits associated with lithium treatment, whereas human evidence remains sparse and inconclusive. The potential role of lithium in poststroke recovery is yet to be adequately tested in humans.
+AD  - Medical School, University of Western Australia, Perth, Australia (O.P.A., A.H.F., C.E.B., L.F., G.J.H.).
+Laboratory of Neuroscience LIM27, Department and Institute of Psychiatry HCFMUSP, Faculdade de Medicina da Universidade de São Paulo, Brazil (M.P.S., V.J.R.D.P., C.T.P., O.V.F.).
+The George Institute for Global Health, the University of New South Wales, Sydney, Australia (M.L.H.).
+AN  - 35968702
+AU  - Almeida, O. P.
+AU  - Singulani, M. P.
+AU  - Ford, A. H.
+AU  - Hackett, M. L.
+AU  - Etherton-Beer, C.
+AU  - Flicker, L.
+AU  - Hankey, G. J.
+AU  - De Paula, V. J. R.
+AU  - Penteado, C. T.
+AU  - Forlenza, O. V.
+DA  - Sep
+DO  - 10.1161/strokeaha.122.039203
+DP  - NLM
+ET  - 20220815
+IS  - 9
+KW  - Adult
+Animals
+Humans
+Lithium/pharmacology/therapeutic use
+*Neuroprotective Agents/pharmacology/therapeutic use
+Observational Studies as Topic
+Rodentia
+*Stroke/drug therapy
+bipolar disorder
+hemorrhagic stroke
+ischemic stroke
+lithium
+neuroprotection
+recovery of function
+LA  - eng
+N1  - 1524-4628
+Almeida, Osvaldo P
+Orcid: 0000-0002-8689-6199
+Singulani, Monique P
+Orcid: 0000-0001-7019-0485
+Ford, Andrew H
+Orcid: 0000-0001-6077-7880
+Hackett, Maree L
+Orcid: 0000-0003-1211-9087
+Etherton-Beer, Christopher
+Orcid: 0000-0001-5148-0188
+Flicker, Leon
+Orcid: 0000-0002-3650-0475
+Hankey, Graeme J
+Orcid: 0000-0002-6044-7328
+De Paula, Vanessa J R
+Penteado, Camila T
+Forlenza, Orestes V
+Orcid: 0000-0002-6962-5899
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Systematic Review
+United States
+2022/08/16
+Stroke. 2022 Sep;53(9):2935-2944. doi: 10.1161/STROKEAHA.122.039203. Epub 2022 Aug 15.
+PY  - 2022
+SN  - 0039-2499
+SP  - 2935-2944
+ST  - Lithium and Stroke Recovery: A Systematic Review and Meta-Analysis of Stroke Models in Rodents and Human Data
+T2  - Stroke
+TI  - Lithium and Stroke Recovery: A Systematic Review and Meta-Analysis of Stroke Models in Rodents and Human Data
+VL  - 53
+ID  - 6998
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Identifying whether acute stroke patients are at risk of cognitive decline could improve prognostic discussions and management. Structural computed tomography neuroimaging is routine in acute stroke, and may identify those at risk of post-stroke dementia or post-stroke cognitive impairment (PSCI). AIM: To systematically review the literature to identify which stroke or pre-stroke features on brain computed tomography scans, performed at the time of stroke, are associated with post-stroke dementia or PSCI. SUMMARY OF REVIEW: We searched electronic databases to December 2020. We included studies reporting acute stroke brain computed tomography, and later diagnosis of a cognitive syndrome. We created summary estimates of size of unadjusted association between computed tomography features and cognition. Of 9536 citations, 28 studies (41 papers) were eligible (N = 7078, mean age 59.8-78.6 years). Cognitive outcomes were post-stroke dementia (10 studies), PSCI (17 studies), and one study analyzed both. Fifteen studies (N = 2952) reported data suitable for meta-analyses. White matter lesions (WML) (six studies, N = 1054, OR = 2.46, 95% CI = 1.25-4.84), cerebral atrophy (four studies, N = 558, OR = 2.80, 95% CI = 1.21-6.51), and pre-existing stroke lesions (three studies, N = 352, OR = 2.38, 95% CI = 1.06-5.32) were associated with post-stroke dementia. WML (four studies, N = 473, OR = 3.46, 95% CI = 2.17-5.52) were associated with PSCI. Other computed tomography features were either not associated with cognitive outcome, or there were insufficient data. CONCLUSIONS: Cognitive impairment following stroke is of great concern to patients and carers. Features seen on visual assessment of acute stroke computed tomography brain scans are strongly associated with cognitive outcomes. Clinicians should consider when and how this information should be discussed with stroke survivors.
+AD  - Centre for Clinical Brain Sciences, University of Edinburgh, Edinburgh, UK.
+NHS Lothian, Edinburgh, UK.
+Geriatric Medicine, Usher Institute, University of Edinburgh, Edinburgh, UK.
+Division of Clinical Geriatrics, Karolinska Institutet, Stockholm, Sweden.
+Department of Neuroscience, Neurology, Uppsala University, Uppsala, Sweden.
+Centre for Clinical Brain Sciences, UK Dementia Research Institute, University of Edinburgh, Edinburgh, UK.
+Institute of Cardiovascular and Medical Sciences, University of Glasgow, Glasgow, UK.
+AN  - 34569865
+AU  - Ball, E. L.
+AU  - Sutherland, R.
+AU  - Squires, C.
+AU  - Mead, G. E.
+AU  - Religa, D.
+AU  - Lundström, E.
+AU  - Cheyne, J.
+AU  - Wardlaw, J. M.
+AU  - Quinn, T. J.
+AU  - Shenkin, S. D.
+C1  - Declaration of conflicting interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+C2  - PMC9260488
+DA  - Jul
+DO  - 10.1177/17474930211045836
+DP  - NLM
+ET  - 20210929
+IS  - 6
+KW  - Aged
+*Cognition Disorders/complications/etiology
+*Cognitive Dysfunction/complications/etiology
+*Dementia/diagnostic imaging/etiology
+Humans
+Middle Aged
+*Stroke/complications/diagnostic imaging
+Tomography, X-Ray Computed
+Stroke
+cognitive impairment
+computed tomography
+dementia
+neuroimaging
+LA  - eng
+N1  - 1747-4949
+Ball, Emily L
+Orcid: 0000-0002-7445-9581
+Sutherland, Rachel
+Squires, Charlotte
+Mead, Gillian E
+Orcid: 0000-0001-7494-2023
+Religa, Dorota
+Lundström, Erik
+Cheyne, Joshua
+Wardlaw, Joanna M
+Orcid: 0000-0002-9812-6642
+Quinn, Terence J
+Orcid: 0000-0003-1401-0181
+Shenkin, Susan D
+RE/18/5/34216/BHF_/British Heart Foundation/United Kingdom
+MR/N013166/1/BHF_/British Heart Foundation/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Systematic Review
+United States
+2021/09/28
+Int J Stroke. 2022 Jul;17(6):618-627. doi: 10.1177/17474930211045836. Epub 2021 Sep 29.
+PY  - 2022
+SN  - 1747-4930 (Print)
+1747-4930
+SP  - 618-627
+ST  - Predicting post-stroke cognitive impairment using acute CT neuroimaging: A systematic review and meta-analysis
+T2  - Int J Stroke
+TI  - Predicting post-stroke cognitive impairment using acute CT neuroimaging: A systematic review and meta-analysis
+VL  - 17
+ID  - 50934
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND OBJECTIVES: The concept of person-centered care has been utilized/adapted to various interventions to enhance health-related outcomes and ensure the quality of care delivered to persons living with dementia. A few systematic reviews have been conducted on the use of person-centered interventions in the context of dementia care, but to date, none have analyzed intervention effect by intervention type and target outcome. This study aimed to review person-centered interventions used in the context of dementia care and examine their effectiveness. RESEARCH DESIGN AND METHODS: A systematic review and meta-analysis were conducted. We searched through 5 databases for randomized controlled trials that utilized person-centered interventions in persons living with dementia from 1998 to 2019. Study quality was assessed using the National Institute for Health and Clinical Excellence checklist. The outcomes of interest for the meta-analysis were behavioral and psychological symptoms in dementia (BPSD) and cognitive function assessed immediately after the baseline measurement. RESULTS: In total, 36 studies were systematically reviewed. Intervention types were reminiscence, music, and cognitive therapies, and multisensory stimulation. Thirty studies were included in the meta-analysis. Results showed a moderate effect size for overall intervention, a small one for music therapy, and a moderate one for reminiscence therapy on BPSD and cognitive function. DISCUSSION AND IMPLICATIONS: Generally speaking, person-centered interventions showed immediate intervention effects on reducing BPSD and improving cognitive function, although the effect size and significance of each outcome differed by intervention type. Thus, health care providers should consider person-centered interventions as a vital element in dementia care.
+AD  - Yonsei University College of Nursing, Seoul, South Korea.
+Mo-Im Kim Nursing Research Institute, Seoul, South Korea.
+AN  - 33326573
+AU  - Lee, K. H.
+AU  - Lee, J. Y.
+AU  - Kim, B.
+C2  - PMC9019632
+DA  - Apr 20
+DO  - 10.1093/geront/gnaa207
+DP  - NLM
+IS  - 4
+KW  - *Cognitive Behavioral Therapy
+*Dementia/psychology/therapy
+Humans
+Patient-Centered Care
+Psychotherapy
+Self Care
+Behavioral and psychological symptoms in dementia
+Cognitive function
+Reminiscence therapy
+LA  - eng
+N1  - 1758-5341
+Lee, Kyung Hee
+Orcid: 0000-0003-2964-8356
+Lee, Ji Yeon
+Kim, Bora
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Systematic Review
+United States
+2020/12/17
+Gerontologist. 2022 Apr 20;62(4):e253-e264. doi: 10.1093/geront/gnaa207.
+PY  - 2022
+SN  - 0016-9013 (Print)
+0016-9013
+SP  - e253-e264
+ST  - Person-Centered Care in Persons Living With Dementia: A Systematic Review and Meta-analysis
+T2  - Gerontologist
+TI  - Person-Centered Care in Persons Living With Dementia: A Systematic Review and Meta-analysis
+VL  - 62
+ID  - 50912
+ER  - 
+
+TY  - JOUR
+AB  - AIMS: As the potential impact of statins on cognitive decline and dementia is still debated, we conducted a meta-analysis of observational studies to examine the effect of statin use on the risk of Alzheimer's disease (AD) and dementia. METHODS AND RESULTS: PubMed, Cochrane, and EMBASE were searched since inception to January 2021. Inclusion criteria were: (i) cohort or case-control studies; (ii) statin users compared to non-users; and (iii) AD and/or dementia risk as outcome. Estimates from original studies were pooled using restricted maximum-likelihood random-effect model. Measure of effects were reported as odds ratio (OR) and 95% confidence intervals (CIs). In the pooled analyses, statins were associated with a decreased risk of dementia [36 studies, OR 0.80 (CI 0.75-0.86)] and of AD [21 studies, OR 0.68 (CI 0.56-0.81)]. In the stratified analysis by sex, no difference was observed in the risk reduction of dementia between men [OR 0.86 (CI 0.81-0.92)] and women [OR 0.86 (CI 0.81-0.92)]. Similar risks were observed for lipophilic and hydrophilic statins for both dementia and AD, while high-potency statins showed a 20% reduction of dementia risk compared with a 16% risk reduction associated with low-potency statins, suggesting a greater efficacy of the former, although a borderline statistical significance (P = 0.05) for the heterogeneity between estimates. CONCLUSION: These results confirm the absence of a neurocognitive risk associated with statin treatment and suggest a potential favourable role of statins. Randomized clinical trials with an ad hoc design are needed to explore this potential neuroprotective effect.
+AD  - Department of Pharmacological and Biomolecular Sciences, Epidemiology and Preventive Pharmacology Service (SEFAP), University of Milan, Via Balzaretti 9, 20133 Milan, Italy.
+IRCCS MultiMedica, Via Milanese 300, 20099 Sesto S. Giovanni (MI), Italy.
+Department of Medicine-DIMED, University of Padua, Via Giustiniani 2, 35128 Padua, Italy.
+AN  - 34871380
+AU  - Olmastroni, E.
+AU  - Molari, G.
+AU  - De Beni, N.
+AU  - Colpani, O.
+AU  - Galimberti, F.
+AU  - Gazzotti, M.
+AU  - Zambon, A.
+AU  - Catapano, A. L.
+AU  - Casula, M.
+DA  - May 5
+DO  - 10.1093/eurjpc/zwab208
+DP  - NLM
+IS  - 5
+KW  - *Alzheimer Disease/diagnosis/epidemiology/prevention & control
+*Cognitive Dysfunction
+*Dementia/diagnosis/epidemiology/etiology
+Female
+Humans
+*Hydroxymethylglutaryl-CoA Reductase Inhibitors/adverse effects
+Male
+Odds Ratio
+Alzheimer’s disease
+Dementia
+Meta-analysis
+Observational studies
+Statins
+LA  - eng
+N1  - 2047-4881
+Olmastroni, Elena
+Molari, Giulia
+De Beni, Noemi
+Colpani, Ornella
+Galimberti, Federica
+Gazzotti, Marta
+Zambon, Alberto
+Catapano, Alberico L
+Casula, Manuela
+Orcid: 0000-0002-5124-5361
+Journal Article
+Meta-Analysis
+Systematic Review
+England
+2021/12/07
+Eur J Prev Cardiol. 2022 May 5;29(5):804-814. doi: 10.1093/eurjpc/zwab208.
+PY  - 2022
+SN  - 2047-4873
+SP  - 804-814
+ST  - Statin use and risk of dementia or Alzheimer's disease: a systematic review and meta-analysis of observational studies
+T2  - Eur J Prev Cardiol
+TI  - Statin use and risk of dementia or Alzheimer's disease: a systematic review and meta-analysis of observational studies
+VL  - 29
+ID  - 50891
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Experiencing anxiety and depression is very common in people living with dementia and mild cognitive impairment (MCI). There is uncertainty about the best treatment approach. Drug treatments may be ineffective and associated with adverse effects. Guidelines recommend psychological treatments. In this updated systematic review, we investigated the effectiveness of different psychological treatment approaches. OBJECTIVES: Primary objective To assess the clinical effectiveness of psychological interventions in reducing depression and anxiety in people with dementia or MCI. Secondary objectives To determine whether psychological interventions improve individuals' quality of life, cognition, activities of daily living (ADL), and reduce behavioural and psychological symptoms of dementia, and whether they improve caregiver quality of life or reduce caregiver burden. SEARCH METHODS: We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group's register, MEDLINE, Embase, four other databases, and three trials registers on 18 February 2021. SELECTION CRITERIA: We included randomised controlled trials (RCTs) that compared a psychological intervention for depression or anxiety with treatment as usual (TAU) or another control intervention in people with dementia or MCI. DATA COLLECTION AND ANALYSIS: A minimum of two authors worked independently to select trials, extract data, and assess studies for risk of bias. We classified the included psychological interventions as cognitive behavioural therapies (cognitive behavioural therapy (CBT), behavioural activation (BA), problem-solving therapy (PST)); 'third-wave' therapies (such as mindfulness-based cognitive therapy (MBCT)); supportive and counselling therapies; and interpersonal therapies. We compared each class of intervention with control. We expressed treatment effects as standardised mean differences or risk ratios. Where possible, we pooled data using a fixed-effects model. We used GRADE methods to assess the certainty of the evidence behind each result. MAIN RESULTS: We included 29 studies with 2599 participants. They were all published between 1997 and 2020. There were 15 trials of cognitive behavioural therapies (4 CBT, 8 BA, 3 PST), 11 trials of supportive and counselling therapies, three trials of MBCT, and one of interpersonal therapy. The comparison groups received either usual care, attention-control education, or enhanced usual care incorporating an active control condition that was not a specific psychological treatment. There were 24 trials of people with a diagnosis of dementia, and five trials of people with MCI. Most studies were conducted in community settings. We considered none of the studies to be at low risk of bias in all domains.  Cognitive behavioural therapies (CBT, BA, PST) Cognitive behavioural therapies are probably slightly better than treatment as usual or active control conditions for reducing depressive symptoms (standardised mean difference (SMD) -0.23, 95% CI -0.37 to -0.10; 13 trials, 893 participants; moderate-certainty evidence). They may also increase rates of depression remission at the end of treatment (risk ratio (RR) 1.84, 95% CI 1.18 to 2.88; 2 studies, with one study contributing 2 independent comparisons, 146 participants; low-certainty evidence). We were very uncertain about the effect of cognitive behavioural therapies on anxiety at the end of treatment (SMD -0.03, 95% CI -0.36 to 0.30; 3 trials, 143 participants; very low-certainty evidence). Cognitive behavioural therapies probably improve patient quality of life (SMD 0.31, 95% CI 0.13 to 0.50; 7 trials, 459 participants; moderate-certainty evidence) and activities of daily living at end of treatment compared to treatment as usual or active control (SMD -0.25, 95% CI -0.40 to -0.09; 7 trials, 680 participants; moderate-certainty evidence). Supportive and counselling interventions Meta-analysis showed that supportive and counselling interventions may have little or no effect on depressive symptoms in people with dementia compared to usual care at end of treatment (SMD -0.05, 95% CI -0.18 to 0.07; 9 trials, 994 participants; low-certainty evidence). We were very uncertain about the effects of these treatments on anxiety, which was assessed only in one small pilot study. Other interventions There were very few data and very low-certainty evidence on MBCT and interpersonal therapy, so we were unable to draw any conclusions about the effectiveness of these interventions. AUTHORS' CONCLUSIONS: CBT-based treatments added to usual care probably slightly reduce symptoms of depression for people with dementia and MCI and may increase rates of remission of depression. There may be important effect modifiers (degree of baseline depression, cognitive diagnosis, or content of the intervention). CBT-based treatments probably also have a small positive effect on quality of life and activities of daily living. Supportive and counselling interventions may not improve symptoms of depression in people with dementia. Effects of both types of treatment on anxiety symptoms are very uncertain. We are also uncertain about the effects of other types of psychological treatments, and about persistence of effects over time. To inform clinical guidelines, future studies should assess detailed components of these interventions and their implementation in different patient populations and in different settings.
+AD  - Division of Psychiatry, University College London, London, UK.
+Nursing, Universidad de Jaén, Jaén, Spain.
+Old Age Psychiatry, Kent and Medway NHS Partnership Trust, Maidstone, UK.
+Institute of Mental Health, University of Nottingham, Nottingham, UK.
+Research Department of Clinical, Educational and Health Psychology, University College London, London, UK.
+Clinical Neuropsychology, Salford Royal NHS Foundation Trust, Salford, UK.
+AN  - 35466396
+AU  - Orgeta, V.
+AU  - Leung, P.
+AU  - Del-Pino-Casado, R.
+AU  - Qazi, A.
+AU  - Orrell, M.
+AU  - Spector, A. E.
+AU  - Methley, A. M.
+C1  - VO and PL were principal investigators in one of the included studies, and were not involved in data extraction for this study. AS and MO were principal investigators in one of the included studies, and were not involved in data extraction for this study. There are no other known conflicts of interest.
+C2  - PMC9035877
+DA  - Apr 25
+DO  - 10.1002/14651858.CD009125.pub3
+DP  - NLM
+ET  - 20220425
+IS  - 4
+KW  - Anxiety/therapy
+Anxiety Disorders/therapy
+*Cognitive Dysfunction/therapy
+*Dementia/complications/therapy
+Depression/therapy
+Humans
+Quality of Life
+LA  - eng
+N1  - 1469-493x
+Orgeta, Vasiliki
+Leung, Phuong
+Del-Pino-Casado, Rafael
+Qazi, Afifa
+Orrell, Martin
+Spector, Aimee E
+Methley, Abigail M
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+England
+2022/04/26
+Cochrane Database Syst Rev. 2022 Apr 25;4(4):CD009125. doi: 10.1002/14651858.CD009125.pub3.
+PY  - 2022
+SN  - 1361-6137
+SP  - Cd009125
+ST  - Psychological treatments for depression and anxiety in dementia and mild cognitive impairment
+T2  - Cochrane Database Syst Rev
+TI  - Psychological treatments for depression and anxiety in dementia and mild cognitive impairment
+VL  - 4
+ID  - 50893
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND OBJECTIVES: Leisure activities are major components of modifiable and healthy lifestyles and are proposed to help prevent the development of dementia. This study aimed to assess the effects of different types of leisure activities, including cognitive, physical, and social activities, on the incidence of all-cause dementia (ACD), Alzheimer disease (AD), and vascular dementia (VD). METHODS: We performed a systematic review and meta-analysis of the Cochrane, PubMed, Embase, and Web of Science databases to identify longitudinal studies that examined associations between leisure activities and dementia. Relative risks (RRs) and 95% CIs were pooled using random-effects meta-analysis. Subgroup analyses were used to estimate potential effect modifiers. The study was registered with PROSPERO (CRD42019116857). RESULTS: A total of 38 longitudinal studies, with 2,154,818 participants at baseline, 74,700 ACD cases, 2,848 AD cases, and 1,423 VD cases during follow-up, were included in the meta-analysis. The subgroup analyses showed that physical (RR 0.83, 95% CI 0.78-0.88), cognitive (RR 0.77; 95% CI 0.68-0.87), and social (RR 0.93; 95% CI 0.87-0.99) activities were associated with a decreased incidence of ACD. In addition, physical (RR 0.87; 95% CI 0.78-0.96) and cognitive (RR 0.66; 95% CI 0.52-0.85) activities were related to a reduced risk of AD. Physical activity (RR 0.67; 95% CI 0.53-0.85) was associated with a lower incidence of VD. DISCUSSION: Our findings suggest that leisure activities are inversely associated with a risk of ACD, AD, and VD.
+AD  - From the Peking University Sixth Hospital (S.S., L.S., Y.S., X.H., A.Z., J.Q., X.S., J.D., L.L.), Peking University Institute of Mental Health, NHC Key Laboratory of Mental Health (Peking University), National Clinical Research Center for Mental Disorders (Peking University Sixth Hospital); Peking-Tsinghua Center for Life Sciences and PKU-IDG/McGovern Institute for Brain Research (Y.Z., L.L.), Peking University, Beijing; and National Institute on Drug Dependence and Beijing Key Laboratory of Drug Dependence (J.S., Y.B.), Peking University, China.
+From the Peking University Sixth Hospital (S.S., L.S., Y.S., X.H., A.Z., J.Q., X.S., J.D., L.L.), Peking University Institute of Mental Health, NHC Key Laboratory of Mental Health (Peking University), National Clinical Research Center for Mental Disorders (Peking University Sixth Hospital); Peking-Tsinghua Center for Life Sciences and PKU-IDG/McGovern Institute for Brain Research (Y.Z., L.L.), Peking University, Beijing; and National Institute on Drug Dependence and Beijing Key Laboratory of Drug Dependence (J.S., Y.B.), Peking University, China. linlu@bjmu.edu.cn.
+AN  - 35948447
+AU  - Su, S.
+AU  - Shi, L.
+AU  - Zheng, Y.
+AU  - Sun, Y.
+AU  - Huang, X.
+AU  - Zhang, A.
+AU  - Que, J.
+AU  - Sun, X.
+AU  - Shi, J.
+AU  - Bao, Y.
+AU  - Deng, J.
+AU  - Lu, L.
+C2  - PMC9559944
+DA  - Oct 10
+DO  - 10.1212/wnl.0000000000200929
+DP  - NLM
+ET  - 20221010
+IS  - 15
+KW  - Humans
+*Dementia/epidemiology/prevention & control/etiology
+Risk Factors
+*Alzheimer Disease/epidemiology
+*Dementia, Vascular/epidemiology
+Leisure Activities
+LA  - eng
+N1  - 1526-632x
+Su, Sizhen
+Shi, Le
+Zheng, Yongbo
+Sun, Yankun
+Huang, Xiaolin
+Zhang, Anyi
+Que, Jianyu
+Sun, Xinyu
+Shi, Jie
+Bao, Yanping
+Orcid: 0000-0002-1881-0939
+Deng, Jiahui
+Lu, Lin
+Journal Article
+Meta-Analysis
+Systematic Review
+United States
+2022/08/11
+Neurology. 2022 Oct 10;99(15):e1651-e1663. doi: 10.1212/WNL.0000000000200929.
+PY  - 2022
+SN  - 0028-3878 (Print)
+0028-3878
+SP  - e1651-e1663
+ST  - Leisure Activities and the Risk of Dementia: A Systematic Review and Meta-analysis
+T2  - Neurology
+TI  - Leisure Activities and the Risk of Dementia: A Systematic Review and Meta-analysis
+VL  - 99
+ID  - 50923
+ER  - 
+
+TY  - JOUR
+AB  - This study conducts a systematic literature review and meta-analysis regarding the potential influence of serum uric acid levels on cerebral small vessel diseases and the cognitive status in the prodromal stages of dementia. We identified four different cerebral small vessel diseases and three specific domains of cognitive performance to be considered in the literature search. The analysis contained 14 studies (13 cross-sectional design and one longitudinal design) with 11,502 participants measuring the relationship between uric acid and cerebral small vessel disease. In both continuous and categorical analyses, significant associations were found between hyperuricemia and cerebral small vessel diseases (continuous data: pooled OR: 1.00, 95%CI: 1.00-1.01 and categorical data: pooled OR: 1.42, 95%CI: 1.15-1.75). For the relationship between uric acid and cognitive performance, 19 studies with 49,901 participants were considered, including eight cohort studies, and 11 cross-sectional studies. The cross-sectional data showed that a marginal relationship existed between uric acid and global cognition (β: 0.00, 95%CI: -0.01-0.00). The pooled analysis of cohort studies indicated that higher uric acid had a deleterious effect on attention and executive function (continuous data: β: -0.02, 95%CI: -0.04-0.00 and categorical data: β: -0.03, 95%CI: -0.07-0.00). Conclusion: Our study indicated that a higher level of uric acid had an adverse effect on brain health. Furthermore, a high level of uric acid is related to cognitive decline in attention and executive function, which may exist a long time before the diagnosis of dementia.
+AD  - Beijing Tongren Hospital, Capital Medical University, Beijing, China.
+Department of Pharmacy, Beijing Tongren Hospital, Capital Medical University, Beijing, China.
+Department of Nutrition, School of Public Health, University of Sao Paulo, Sao Paulo, Brazil.
+Department of Endocrinology, Beijing Tongren Hospital, Capital Medical University, No1. Dongjiaomingxiang, Dongcheng District, Beijing, 100073, China. jbzhou@ccmu.edu.cn.
+Endocrinology and Nutrition Department, Hospital Universitari Vall d'Hebron. Diabetes and Metabolism Research Unit, Vall d'Hebron Institut de Recerca (VHIR). Universitat Autònoma de Barcelona, Passeig de La Vall d'Hebron, 119, 08035, Barcelona, Spain.
+Centro de Investigación Biomédica en Red de Diabetes Y Enfermedades Metabólicas Asociadas (CIBERDEM), Instituto de Salud Carlos III (ISCIII), Madrid, Spain.
+AN  - 35670991
+AU  - Tang, X.
+AU  - Song, Z. H.
+AU  - Cardoso, M. A.
+AU  - Zhou, J. B.
+AU  - Simó, R.
+DA  - Aug
+DO  - 10.1007/s11011-022-01016-2
+DP  - NLM
+ET  - 20220607
+IS  - 6
+KW  - Brain
+*Cerebral Small Vessel Diseases
+*Cognitive Dysfunction
+Cross-Sectional Studies
+*Dementia
+Humans
+Uric Acid
+Cerebral small vessel disease
+Cognitive impairment
+LA  - eng
+N1  - 1573-7365
+Tang, Xingyao
+Song, Zhi-Hui
+Cardoso, Marly Augusto
+Zhou, Jian-Bo
+Simó, Rafael
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Systematic Review
+United States
+2022/06/08
+Metab Brain Dis. 2022 Aug;37(6):1989-2003. doi: 10.1007/s11011-022-01016-2. Epub 2022 Jun 7.
+PY  - 2022
+SN  - 0885-7490
+SP  - 1989-2003
+ST  - The relationship between uric acid and brain health from observational studies
+T2  - Metab Brain Dis
+TI  - The relationship between uric acid and brain health from observational studies
+VL  - 37
+ID  - 50933
+ER  - 
+
+TY  - JOUR
+AB  - Vascular Cognitive Impairment (VCI) is the second most prevalent dementia after Alzheimer's Disease (AD), and cerebrovascular disease (CBVD) is a major comorbid contributor to the progression of most neurodegenerative diseases. Early differentiation of cognitive impairment is critical given both the high prevalence of CBVD, and that its risk factors are modifiable. The ability for electroencephalogram (EEG) and magnetoencephalogram (MEG) to detect changes in brain functioning for other dementias suggests that they may also be promising biomarkers for early VCI. The present systematic review aims to summarize the literature regarding electrophysiological patterns of mild and major VCI. Despite considerable heterogeneity in clinical definition and electrophysiological methodology, common patterns exist when comparing patients with VCI to healthy controls (HC) and patients with AD, though there is a low specificity when comparing between VCI subgroups. Similar to other dementias, slowed frequency patterns and disrupted inter- and intra-hemispheric connectivity are repeatedly reported for VCI patients, as well as longer latencies and smaller amplitudes in evoked responses. Further study is needed to fully establish MEG and EEG as clinically useful biomarkers, including a clear definition of VCI and standardized methodology, allowing for comparison across groups and consolidation of multicenter efforts.
+AD  - Center of Cognitive and Computational Neuroscience; Department of Experimental Psychology, Cognitive Processes and Speech Therapy, Universidad Complutense de Madrid, Madrid, Spain. Electronic address: lucia.torres@ucm.es.
+Center of Cognitive and Computational Neuroscience; Department of Experimental Psychology, Cognitive Processes and Speech Therapy, Universidad Complutense de Madrid, Madrid, Spain.
+Department of Neurology, the Johns Hopkins School of Medicine, Baltimore, MD USA.
+AN  - 35653914
+AU  - Torres-Simón, L.
+AU  - Doval, S.
+AU  - Nebreda, A.
+AU  - Llinas, S. J.
+AU  - Marsh, E. B.
+AU  - Maestú, F.
+C1  - The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+C2  - PMC9163840
+DO  - 10.1016/j.nicl.2022.103040
+DP  - NLM
+ET  - 20220510
+KW  - *Alzheimer Disease/complications
+Brain
+*Cerebrovascular Disorders
+*Cognition Disorders/etiology
+*Cognitive Dysfunction/complications/diagnosis
+*Dementia, Vascular/etiology
+Electroencephalography
+Humans
+Multicenter Studies as Topic
+Electroencephalogram
+Magnetoencephalogram
+Neurophysiology
+Vascular Cognitive Impairment (VCI)
+Vascular Dementia (VaD)
+LA  - eng
+N1  - 2213-1582
+Torres-Simón, Lucía
+Doval, Sandra
+Nebreda, Alberto
+Llinas, Sophia J
+Marsh, Elisabeth B
+Maestú, Fernando
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+Netherlands
+2022/06/03
+Neuroimage Clin. 2022;35:103040. doi: 10.1016/j.nicl.2022.103040. Epub 2022 May 10.
+PY  - 2022
+SN  - 2213-1582
+SP  - 103040
+ST  - Understanding brain function in vascular cognitive impairment and dementia with EEG and MEG: A systematic review
+T2  - Neuroimage Clin
+TI  - Understanding brain function in vascular cognitive impairment and dementia with EEG and MEG: A systematic review
+VL  - 35
+ID  - 50928
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Multicomponent physical exercise is the most recommended type of physical intervention in older adults. Experimental data suggest the relevance of the muscle-brain axis and the relationship between muscle contraction and release of brain-derived neurotrophic factor, however, the impact of this relationship on cognition remains unclear, especially in people with diagnosis of cognitive impairment. This study assesses the effect of multicomponent physical exercise on global cognition in people with mild cognitive impairment or dementia. METHODS: Randomized controlled trials published until January 2021 were searched across three electronic databases (PubMed, Scopus, and Cochrane Database). Data about exercises included in the multicomponent intervention (endurance, strength, balance, or flexibility), the inclusion of aerobic exercise, and the change in global cognition were extracted. The effect size was represented as a standardized mean difference. Risk of bias was assessed by the RoB2 tool. RESULTS: A total of 8 studies were included. The overall effect size suggested an effect of multicomponent exercise on global cognition. However, the subgroup analysis showed an effect only when aerobic exercise was included in the intervention. No effect when mild cognitive impairment and dementia were assessed separately was found. CONCLUSION: This study suggests that multicomponent physical exercise could have an effect on global cognition in people with mild cognitive impairment or dementia only when aerobic exercise is included in the intervention. Our results support the inclusion of structured physical exercise programs in the management of people with cognitive impairment.
+AD  - Universidad de Castilla-La Mancha, Health and Social Research Center, Cuenca, Spain.
+Instituto Rosarista para el Estudio del Envejecimiento y la Longevidad, Escuela de Medicina y Ciencias de la Salud, Universidad del Rosario, Bogotá, Colombia.
+Hospital Universitario Mayor, Méderi, Bogotá, Colombia.
+Universidad de Castilla-La Mancha, Health and Social Research Center, Cuenca, Spain. ivan.cavero@uclm.es.
+Rehabilitation in Health Research Center (CIRES), Universidad de Las Américas, Santiago, Chile. ivan.cavero@uclm.es.
+Facultad de Enfermería de Cuenca, C/ Santa Teresa Jornet, s/n. Cuenca, Spain. ivan.cavero@uclm.es.
+Facultad de Ciencias de la Salud, Universidad Autónoma de Chile, Santiago, Chile.
+Aging Institute, Medicine School, Pontificia Universidad Javeriana, Bogotá, Colombia.
+Department of Internal Medicine, Geriatric Unit, Hospital Universitario San Ignacio, Bogotá, Colombia.
+Universidad Politécnica Y Artística del Paraguay, Asunción, Paraguay.
+AN  - 35879665
+AU  - Venegas-Sanabria, L. C.
+AU  - Cavero-Redondo, I.
+AU  - Martínez-Vizcaino, V.
+AU  - Cano-Gutierrez, C. A.
+AU  - Álvarez-Bueno, C.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC9316334
+DA  - Jul 25
+DO  - 10.1186/s12877-022-03302-1
+DP  - NLM
+ET  - 20220725
+IS  - 1
+KW  - Aged
+Cognition
+*Cognitive Dysfunction/diagnosis/therapy
+*Dementia/diagnosis/therapy
+Exercise
+Exercise Therapy
+Humans
+Cognitive impairment
+Meta-analysis
+Non-pharmacological treatment
+Physical activity
+LA  - eng
+N1  - 1471-2318
+Venegas-Sanabria, Luis Carlos
+Cavero-Redondo, Iván
+Martínez-Vizcaino, Vicente
+Cano-Gutierrez, Carlos Alberto
+Álvarez-Bueno, Celia
+Journal Article
+Meta-Analysis
+Systematic Review
+England
+2022/07/26
+BMC Geriatr. 2022 Jul 25;22(1):617. doi: 10.1186/s12877-022-03302-1.
+PY  - 2022
+SN  - 1471-2318
+SP  - 617
+ST  - Effect of multicomponent exercise in cognitive impairment: a systematic review and meta-analysis
+T2  - BMC Geriatr
+TI  - Effect of multicomponent exercise in cognitive impairment: a systematic review and meta-analysis
+VL  - 22
+ID  - 50913
+ER  - 
+
+TY  - JOUR
+AB  - Background: Biological aging may be a robust biomarker of dementia or cognitive performance. This systematic review synthesized the evidence for an association between epigenetic aging and dementia, mild cognitive impairment and cognitive function. Methods: A systematic search was conducted according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Results: 30 eligible articles were included. There was no strong evidence that accelerated epigenetic aging was associated with dementia/mild cognitive impairment (n = 7). There was some evidence of an association with poorer cognition (n = 20), particularly with GrimAge acceleration, but this was inconsistent and varied across cognitive domains. A meta-analysis was not performed due to high study heterogeneity. Conclusion: There is insufficient evidence to indicate that current epigenetic aging clocks can be clinically useful biomarkers of dementia or cognitive aging.
+As individuals get older, changes in cognitive performance are common, including some degree of cognitive decline. Dementia is a symptom characterized by significant decline in cognitive function that affects daily living, and age is the biggest risk factor. Researchers have now identified ways to estimate a person's biological age from a blood sample (referred to as ‘epigenetic aging’), and this measure is thought to better estimate an individual's rate of aging than his or her chronological age. This study brought together all of the previous studies, 30 in total, that have investigated links between biological aging and cognitive performance, as well as dementia risk. Synthesizing all of this evidence, the authors found no strong evidence that the individuals with dementia had accelerated aging. However, there was some evidence, although inconsistent, indicating that accelerated aging was associated with worse cognitive performance.
+eng
+AD  - Division of Epidemiology, Jockey Club School of Public Health & Primary Care, Chinese University of Hong Kong, Hong Kong, China.
+Biological Neuropsychiatry & Dementia Unit, School of Public Health & Preventive Medicine, Monash University, Melbourne, Victoria, 3004, Australia.
+AN  - 36154448
+AU  - Zhou, A.
+AU  - Wu, Z.
+AU  - Zaw Phyo, A. Z.
+AU  - Torres, D.
+AU  - Vishwanath, S.
+AU  - Ryan, J.
+DA  - Sep
+DO  - 10.2217/epi-2022-0209
+DP  - NLM
+ET  - 20220926
+IS  - 18
+KW  - Aging/genetics
+Biomarkers
+*Cognitive Dysfunction/diagnosis/genetics
+*Dementia/diagnosis/genetics
+Epigenesis, Genetic
+Humans
+Alzheimer's disease
+DNA methylation
+biological age
+cognition
+dementia
+epigenetic clock
+LA  - eng
+N1  - 1750-192x
+Zhou, Aoshuang
+Wu, Zimu
+Zaw Phyo, Aung Zaw
+Torres, Daniel
+Vishwanath, Swarna
+Ryan, Joanne
+Orcid: 0000-0002-7039-6325
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+England
+2022/09/27
+Epigenomics. 2022 Sep;14(18):1125-1138. doi: 10.2217/epi-2022-0209. Epub 2022 Sep 26.
+PY  - 2022
+SN  - 1750-192x
+SP  - 1125-1138
+ST  - Epigenetic aging as a biomarker of dementia and related outcomes: a systematic review
+T2  - Epigenomics
+TI  - Epigenetic aging as a biomarker of dementia and related outcomes: a systematic review
+VL  - 14
+ID  - 50929
+ER  - 
+
+TY  - JOUR
+AB  - Disease from nicotine dependency continues to be a leading cause of preventable death worldwide, and therefore research that elucidates potential correlates of tobacco use may facilitate the advancement of research, clinical practice, and policy in this area to target this public health challenge. One potential tobacco use correlate is obsessive-compulsive disorder (OCD) phenomena. The growing research evidence on the association between tobacco use and OCD phenomena is mixed, making it difficult to synthesize extant findings into meaningful conclusions. Indeed, there has never been a systematic review or meta-analysis of this area of research. To this end, a systematic review was carried out with studies between 1988 and 2021, and from this review, 71 independent estimations (n = 10,475; Females = 51.95%; mean age = 37.29, SD = 13.78) were extracted for meta-analysis. We found that about three in ten participants with OCD are likely to use tobacco, which is higher than the general population. The prevalence was the same among OCD participants at all levels (those with symptomology but no confirmed diagnosis, those surpassing a clinical cutoff for OCD but no confirmed diagnosis, and those with a confirmed OCD diagnosis). The results also indicated considerable variability across study results and a wide confidence interval associated with the tobacco use prevalence rate among those with OCD phenomena. The findings provide support for continued study of this comorbidity, perhaps with longitudinal and experimental designs to test for reciprocal associations between tobacco use and OCD phenomena in the service of targeting nicotine dependence as a substantial global public health concern.
+AD  - Department of Clinical Psychology, Faculty of Psychology and Education, Kharazmi University, Tehran, Iran.
+Department of Psychology, Illinois Institute of Technology, Chicago, IL, USA.
+Department of Population and Public Health Sciences, Keck School of Medicine, University of Southern California, Los Angeles, CA, USA.
+USC Norris Cancer Center, University of Southern California, Los Angeles, CA, USA.
+Department of Psychology, University of Southern California, Los Angeles, CA, USA.
+AN  - 36173036
+AU  - Akbari, M.
+AU  - Seydavi, M.
+AU  - Chasson, G. S.
+AU  - Leventhal, A. M.
+AU  - Lockwood, M. I.
+C1  - Disclosure statement No potential conflict of interest was reported by the author(s).
+C2  - PMC10495108
+C6  - NIHMS1924960
+DA  - Sep
+DO  - 10.1080/17437199.2022.2125037
+DP  - NLM
+ET  - 20221006
+IS  - 3
+KW  - Female
+Humans
+Adult
+Prevalence
+*Obsessive-Compulsive Disorder/epidemiology/complications/diagnosis
+Smoking/epidemiology
+Tobacco Smoking
+Comorbidity
+*Tobacco Use Disorder/epidemiology/complications
+Ocd
+Smoking
+meta-analysis
+nicotine
+obsessive-compulsive disorder
+tobacco
+LA  - eng
+N1  - 1743-7202
+Akbari, Mehdi
+Orcid: 0000-0003-1576-5711
+Seydavi, Mohammad
+Orcid: 0000-0001-5919-4303
+Chasson, Gregory S
+Leventhal, Adam M
+Orcid: 0000-0002-1217-525x
+Lockwood, Maria Izabel
+K24 DA048160/DA/NIDA NIH HHS/United States
+Journal Article
+Meta-Analysis
+Systematic Review
+England
+2022/09/30
+Health Psychol Rev. 2023 Sep;17(3):505-519. doi: 10.1080/17437199.2022.2125037. Epub 2022 Oct 6.
+PY  - 2023
+SN  - 1743-7199 (Print)
+1743-7199
+SP  - 505-519
+ST  - Global prevalence of smoking among individuals with obsessive-compulsive disorder and symptoms: a systematic review and meta-analysis
+T2  - Health Psychol Rev
+TI  - Global prevalence of smoking among individuals with obsessive-compulsive disorder and symptoms: a systematic review and meta-analysis
+VL  - 17
+ID  - 3842
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Operationalized research criteria for mild cognitive impairment with Lewy bodies (MCI-LB) were published in 2020. The aim of this systematic review and meta-analysis was to review the evidence for the diagnostic clinical features and biomarkers in MCI-LB set out in the criteria. METHODS: MEDLINE, PubMed, and Embase were searched on 9/28/22 for relevant articles. Articles were included if they presented original data reporting the rates of diagnostic features in MCI-LB. RESULTS: Fifty-seven articles were included. The meta-analysis supported the inclusion of the current clinical features in the diagnostic criteria. Evidence for striatal dopaminergic imaging and meta-iodobenzylguanidine cardiac scintigraphy, though limited, supports their inclusion. Quantitative electroencephalogram (EEG) and fluorodeoxyglucose positron emission tomography (PET) show promise as diagnostic biomarkers. DISCUSSION: The available evidence largely supports the current diagnostic criteria for MCI-LB. Further evidence will help refine the diagnostic criteria and understand how best to apply them in clinical practice and research. HIGHLIGHTS: A meta-analysis of the diagnostic features of MCI-LB was carried out. The four core clinical features were more common in MCI-LB than MCI-AD/stable MCI. Neuropsychiatric and autonomic features were also more common in MCI-LB. More evidence is needed for the proposed biomarkers. FDG-PET and quantitative EEG show promise as diagnostic biomarkers in MCI-LB.
+AD  - Translational and Clinical Research Institute, Newcastle University, Newcastle upon Tyne, UK.
+Department of Neuroscience, Catholic University of Sacred Heart, Rome, Italy.
+IRCCS San Raffaele Pisana, Rome, Italy.
+Division of Clinical Geriatrics, Center for Alzheimer Research, Department of Neurobiology, Care Sciences and Society, Karolinska Institutet, Stockholm, Sweden.
+Department of Radiology, Mayo Clinic, Rochester, Minnesota, USA.
+University Hospital of Psychiatry and Psychotherapy, University of Bern, Bern, Switzerland.
+Department of Old Age Psychiatry, Institute of Psychiatry, Psychology & Neuroscience, King's College London, London, UK.
+Centre for Age-Related Diseases, Stavanger University Hospital, Stavanger, Norway.
+Department of Physiology and Pharmacology "Vittorio Erspamer", Sapienza University of Rome, Rome, Italy.
+Hospital San Raffaele of Cassino, Cassino, Italy.
+Parkinson and Other Movement Disorders Center, Department of Neurosciences, University of California San Diego, California, USA.
+Centre for Public Health, Queen's University Belfast, Belfast, UK.
+Brain and Mind Centre, School of Medical Sciences, University of Sydney, Sydney, Australia.
+Department of Clinical and Experimental Sciences, Neurology Unit, University of Brescia, Brescia, Italy.
+Department of Medicine and Aging Sciences, University G. d'Annunzio of Chieti-Pescara, Chieti, Italy.
+AN  - 37096339
+AU  - Donaghy, P. C.
+AU  - Carrarini, C.
+AU  - Ferreira, D.
+AU  - Habich, A.
+AU  - Aarsland, D.
+AU  - Babiloni, C.
+AU  - Bayram, E.
+AU  - Kane, J. P.
+AU  - Lewis, S. J.
+AU  - Pilotto, A.
+AU  - Thomas, A. J.
+AU  - Bonanni, L.
+C1  - CONFLICT OF INTEREST STATEMENT Paul C Donaghy has received grant funding from the Medical Research Council, Alzheimer’s Society, Alzheimer’s Research UK and the Lewy Body Society. He has received honoraria (paid to institution) for educational presentations for the Neurology Academy. Claudia Carrarini has no competing interests. Daniel Ferreira has no competing interests. Dag Aarsland has received research support and/or honoraria from Astra-Zeneca, H. Lundbeck, Novartis Pharmaceuticals, Evonik, Daily Color, Roche Diagnostics, and GE Health, and served as paid consultant for H. Lundbeck, Eisai, Heptares, Mentis Cura, Eli Lilly, Cognetivity, Enterin, Acadia, EIP Pharma, and Biogen. Claudio Babiloni is Immediate Past Chair (2021–2023) of the ISTAART Electrophysiology Professional Interest Area. Ece Bayram receives research support from the National Institutes of Health (K99AG073453, U01NS119562). Joseph PM Kane has received honoraria for educational presentations for the Neurology Academy. He has received grant funding from the Lewy Body Society and Alzheimer’s Research UK. He is a director of Lewy Body Ireland CLG, a non-profit organisation in the process of applying for charity status, for which he receives no remuneration. Simon JG Lewis has no competing interests. Annegret Habich has no competing interests. Andrea Pilotto has no competing interests. Alan J Thomas has received support from GE Healthcare for investigator-led research including the provision of (123)I-FP-CIT. He has also received research grant funding from dementia charities for work on MCI. Laura Bonanni has received research grant support by the Italian ministry of health and is a national board member of a project promoted by PIAM on MCI diagnosis among the dementia centres. She also received research grant support for the application of a diagnostic algorithm for MCI diagnosis. Author disclosures are available in the supporting information.
+C2  - PMC10695683
+C6  - NIHMS1944285
+DA  - Jul
+DO  - 10.1002/alz.13105
+DP  - NLM
+ET  - 20230424
+IS  - 7
+KW  - Humans
+*Alzheimer Disease/diagnosis
+Lewy Bodies
+Sensitivity and Specificity
+*Cognitive Dysfunction/diagnostic imaging/psychology
+Biomarkers
+*Lewy Body Disease/diagnostic imaging
+Lewy body disease
+dementia with Lewy bodies
+diagnosis
+diagnostic criteria
+electroencephalography
+imaging
+mild cognitive impairment
+symptoms
+LA  - eng
+N1  - 1552-5279
+Donaghy, Paul C
+Orcid: 0000-0001-7195-4846
+Carrarini, Claudia
+Ferreira, Daniel
+Habich, Annegret
+Aarsland, Dag
+Babiloni, Claudio
+Bayram, Ece
+Kane, Joseph Pm
+Lewis, Simon Jg
+Pilotto, Andrea
+Thomas, Alan J
+Bonanni, Laura
+Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment Lewy Body Dementias Prodromal Working Group
+K99 AG073453/AG/NIA NIH HHS/United States
+U01 NS119562/NS/NINDS NIH HHS/United States
+MR/W000229/1/MRC_/Medical Research Council/United Kingdom
+DH_/Department of Health/United Kingdom
+Journal Article
+Meta-Analysis
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+United States
+2023/04/25
+Alzheimers Dement. 2023 Jul;19(7):3186-3202. doi: 10.1002/alz.13105. Epub 2023 Apr 24.
+PY  - 2023
+SN  - 1552-5260 (Print)
+1552-5260
+SP  - 3186-3202
+ST  - Research diagnostic criteria for mild cognitive impairment with Lewy bodies: A systematic review and meta-analysis
+T2  - Alzheimers Dement
+TI  - Research diagnostic criteria for mild cognitive impairment with Lewy bodies: A systematic review and meta-analysis
+VL  - 19
+ID  - 50920
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the effects of light therapy on the alleviation of sleep disturbances, agitation and depression in people with dementia. METHODS: A search was performed in PubMed, Medline, SCOPUS, Web of Science, EMBASE, CINAHL, Cochrane Library, for studies published between 2000 and 2021. RESULTS: A total of 4315 articles were screened. Sixteen articles were eligible for this review and 11 randomized controlled studies were included in the meta-analysis. Light therapy had a significant effect on reducing the number of awakenings in sleep (n = 4; 95% CI = -.56, -.05; I(2) = 0%; SMD = -.31) but was not significant in reducing the wake after sleep onset (n = 3; 95% CI = -.14, .59; I(2) = 0%; SMD = .23), agitation (n = 4; 95% CI = -1.02, .45; I(2) = 87%; SMD = -.28) and depression (n = 6; 95% CI = -.80, .40, I(2) = 85%; SMD = -.20). CONCLUSION: Light therapy appeared to be more effective in terms of alleviating sleep disturbances, rather than reducing agitation and depression, but its long-term effects remain unclear.
+AD  - Department of Rehabilitation Sciences, 26680The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR.
+University Research Facility in Behavioral and Systems Neuroscience, 26680The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR.
+Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR.
+AN  - 36924042
+AU  - Fong, K. N.
+AU  - Ge, X.
+AU  - Ting, K. H.
+AU  - Wei, M.
+AU  - Cheung, H.
+C1  - The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+C2  - PMC10578524
+DA  - Jan-Dec
+DO  - 10.1177/15333175231160682
+DP  - NLM
+KW  - Humans
+Depression/therapy
+Randomized Controlled Trials as Topic
+Phototherapy
+*Sleep Wake Disorders/etiology/therapy
+Sleep
+*Dementia/complications/therapy
+behavioral and psychological symptoms
+dementia
+light therapy
+LA  - eng
+N1  - 1938-2731
+Fong, Kenneth Nk
+Orcid: 0000-0001-5909-4847
+Ge, Xiangyang
+Ting, K H
+Wei, Minchen
+Cheung, Hilda
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+United States
+2023/03/17
+Am J Alzheimers Dis Other Demen. 2023 Jan-Dec;38:15333175231160682. doi: 10.1177/15333175231160682.
+PY  - 2023
+SN  - 1533-3175 (Print)
+1533-3175
+SP  - 15333175231160682
+ST  - The Effects of Light Therapy on Sleep, Agitation and Depression in People With Dementia: A Systematic Review and Meta-analysis of Randomized Controlled Trials
+T2  - Am J Alzheimers Dis Other Demen
+TI  - The Effects of Light Therapy on Sleep, Agitation and Depression in People With Dementia: A Systematic Review and Meta-analysis of Randomized Controlled Trials
+VL  - 38
+ID  - 50922
+ER  - 
+
+TY  - JOUR
+AB  - Blood biomarkers have been considered tools for the diagnosis, prognosis, and monitoring of Alzheimer's disease (AD). Although amyloid-β peptide (Aβ) and tau are primarily blood biomarkers, recent studies have identified other reliable candidates that can serve as measurable indicators of pathological conditions. One such candidate is the glial fibrillary acidic protein (GFAP), an astrocytic cytoskeletal protein that can be detected in blood samples. Increasing evidence suggests that blood GFAP levels can be used to detect early-stage AD. In this systematic review and meta-analysis, we aimed to evaluate GFAP in peripheral blood as a biomarker for AD and provide an overview of the evidence regarding its utility. Our analysis revealed that the GFAP level in the blood was higher in the Aβ-positive group than in the negative groups, and in individuals with AD or mild cognitive impairment (MCI) compared to the healthy controls. Therefore, we believe that the clinical use of blood GFAP measurements has the potential to accelerate the diagnosis and improve the prognosis of AD.
+AD  - Department of Nursing, College of Nursing, Gachon University, Incheon 21936, Republic of Korea.
+Neuroscience Research Institute, Gachon University, Incheon 21565, Republic of Korea.
+Bio-MAX Institute, Seoul National University, Seoul 08826, Republic of Korea.
+Department of Pharmacology, College of Medicine, Gachon University, Incheon 21936, Republic of Korea.
+Bio-Medical Sciences, Gachon Advanced Institute for Health Sciences and Technology, Gachon University, Incheon 21936, Republic of Korea.
+AN  - 37174709
+AU  - Kim, K. Y.
+AU  - Shin, K. Y.
+AU  - Chang, K. A.
+C1  - The authors declare no conflict of interest.
+C2  - PMC10177296
+DA  - May 4
+DO  - 10.3390/cells12091309
+DP  - NLM
+ET  - 20230504
+IS  - 9
+KW  - Humans
+*Alzheimer Disease/diagnosis/metabolism
+Amyloid beta-Peptides
+Biomarkers
+*Cognitive Dysfunction/diagnosis/psychology
+Glial Fibrillary Acidic Protein
+Alzheimer’s disease
+Gfap
+blood biomarker
+cognitive impairment
+LA  - eng
+N1  - 2073-4409
+Kim, Ka Young
+Orcid: 0000-0003-3705-6449
+Shin, Ki Young
+Chang, Keun-A
+Orcid: 0000-0002-6157-6340
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+Switzerland
+2023/05/13
+Cells. 2023 May 4;12(9):1309. doi: 10.3390/cells12091309.
+PY  - 2023
+SN  - 2073-4409
+ST  - GFAP as a Potential Biomarker for Alzheimer's Disease: A Systematic Review and Meta-Analysis
+T2  - Cells
+TI  - GFAP as a Potential Biomarker for Alzheimer's Disease: A Systematic Review and Meta-Analysis
+VL  - 12
+ID  - 50894
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Migraine is a common primary headache disorder, which affects mainly young females, usually those with some specific personality traits including neuroticism and obsessive-compulsive disorder. Among many factors that may trigger headache are to be found those associated with eating patterns and behaviours. Eating disorders are psychiatric disorders of abnormal eating or weight-control behaviours. According to the most up-to-date classification, six main types are identified, including anorexia nervosa, bulimia nervosa, and binge eating disorder. Similar to migraine, eating disorders are mainly diagnosed in young adults and, moreover, personality pattern, in at least some of the eating disorders, is also suggested to be consistent. MATERIAL AND METHODS: This systematic review aimed to summarise the available literature related to this topic. We performed an electronic article search through the Embase, PubMed, and Cochrane databases and included 16 articles into analysis in accordance with PRISMA 2020 guidelines. RESULTS: Most of the studies revealed the presence of a putative correlation between migraine and eating disorders, and these encourage further investigations. Moreover, apart from the clinical aspect, also the pathogenesis underlying both disorders is suggested to be similar. More frequent co-occurrence of other psychiatric disorders in migraineurs, such as depression and anxiety, was reported and should be considered in future research. Furthermore, adverse interactions between pharmacotherapy and symptoms of comorbid conditions underline the importance of this problem. CONCLUSIONS: A correlation between migraine and eating disorders appears highly probable. However, further investigations are required focusing on diverse aspects such as clinical, psychological, and pathogenic.
+AD  - Department of Preventive Nursing, Faculty of Health Sciences, Nicolaus Copernicus University in Torun, Bydgoszcz, Poland.
+Department of Neurology, Faculty of Medicine and Dentistry, Medical University of Warsaw, Warsaw, Poland. olga.grodzka.124@gmail.com.
+Department of Neurology, Faculty of Medicine and Dentistry, Medical University of Warsaw, Warsaw, Poland.
+AN  - 38037683
+AU  - Łangowska-Grodzka, B.
+AU  - Grodzka, O.
+AU  - Czarnecki, D.
+AU  - Domitrz, I.
+DO  - 10.5603/pjnns.97307
+DP  - NLM
+ET  - 20231201
+IS  - 6
+KW  - Female
+Young Adult
+Humans
+*Feeding and Eating Disorders/complications
+*Anorexia Nervosa/complications/diagnosis/psychology
+Personality Disorders/complications/diagnosis/psychology
+*Migraine Disorders/etiology/complications
+anorexia nervosa
+bulimia nervosa
+eating disorders
+migraine
+primary headache disorders
+LA  - eng
+N1  - Łangowska-Grodzka, Beata
+Orcid: 0000-0002-2274-2043
+Grodzka, Olga
+Orcid: 0000-0002-4398-675x
+Czarnecki, Damian
+Orcid: 0000-0003-3474-5927
+Domitrz, Izabela
+Orcid: 0000-0003-3130-1036
+Journal Article
+Systematic Review
+Poland
+2023/12/01
+Neurol Neurochir Pol. 2023;57(6):457-464. doi: 10.5603/pjnns.97307. Epub 2023 Dec 1.
+PY  - 2023
+SN  - 0028-3843 (Print)
+0028-3843
+SP  - 457-464
+ST  - Is there a correlation between migraine and eating disorders? A systematic literature review
+T2  - Neurol Neurochir Pol
+TI  - Is there a correlation between migraine and eating disorders? A systematic literature review
+VL  - 57
+ID  - 50927
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The currently available evidence is unclear in regard to psychiatric outcomes of temporal lobe epilepsy (TLE) in patients with comorbid psychiatric disorders (PD). AIM: To identify and synthesize psychiatric outcomes in patients with TLE and comorbid psychiatric illnesses before and after TLE surgery. METHODS: Studies were included if participants were adults and/or children with temporal epilepsy and comorbid psychiatric illness. Surgical interventions included focal resection (e.g., lobectomy, selective amygdalohippocampectomy) or stereotactic laser ablation. Included studies reported on pre- and post- surgery data of comorbid psychiatric illness (e.g., mood and anxiety disorders, depression, psychosis, adjustment disorders, non-epileptic seizures, and personality disorders). RESULTS: Ten studies were included in the review. The proportion of patients achieving PD resolution or improvements after surgery varied widely between studies, ranging from 15 % to 57 % at the reported follow-up time. Three studies reported on PD symptom worsening after surgery, with considerable variations of patient proportions across studies. Meta-analysis suggests that 43 % of patients demonstrated improvement and 33 % of patients showed a worsening in psychiatric scores across all studies. Preliminary data from three studies suggest that seizure control may be associated with favourable psychiatric outcomes. CONCLUSION: A considerable proportion of reported TLE patients with comorbid psychiatric illnesses have improvement in their psychiatric symptoms after temporal lobe epilepsy surgery. There is scarcity of detailed outcome reporting including symptom scores, and to date, predictive factors for favourable vs unfavourable outcomes in this patient population are not clear. Further research on the topic is warranted.
+AD  - Department of Psychiatry & Neuroscience, UC Riverside School of Medicine, 900 University Ave. Riverside, CA 92521, USA; University of British Columbia, Division of Forensic Psychiatry, Department of Psychiatry, Faculty of Medicine, Detwiller Pavilion, 2255 Wesbrook Mall, Vancouver BC V6T 2A1, Canada. Electronic address: mp2683@caa.columbia.edu.
+Department of Psychiatry, University of California San Diego, 9500 Gillman Drive, La Jolla, CA 92093, USA.
+Department of Neurological Surgery, University of California San Diego, 9300 Campus Point Drive, La Jolla, CA 92037, USA.
+AN  - 36473277
+AU  - Ploesser, M.
+AU  - McDonald, C.
+AU  - Hirshman, B.
+AU  - Ben-Haim, S.
+C1  - Conflict of interest The authors have no conflicts of interest to declare.
+DA  - Jan
+DO  - 10.1016/j.eplepsyres.2022.107054
+DP  - NLM
+ET  - 20221125
+KW  - Adult
+Child
+Humans
+*Epilepsy, Temporal Lobe/epidemiology/surgery/complications
+Treatment Outcome
+*Mental Disorders/epidemiology/surgery/diagnosis
+Seizures/surgery
+Temporal Lobe
+Temporal lobe epilepsy, systematic review, psychiatric disorders
+Temporal lobe surgery
+LA  - eng
+N1  - 1872-6844
+Ploesser, Markus
+McDonald, Carrie
+Hirshman, Brian
+Ben-Haim, Sharona
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+Netherlands
+2022/12/07
+Epilepsy Res. 2023 Jan;189:107054. doi: 10.1016/j.eplepsyres.2022.107054. Epub 2022 Nov 25.
+PY  - 2023
+SN  - 0920-1211
+SP  - 107054
+ST  - Psychiatric outcomes after temporal lobe surgery in patients with temporal lobe epilepsy and comorbid psychiatric illness: A systematic review and meta-analysis
+T2  - Epilepsy Res
+TI  - Psychiatric outcomes after temporal lobe surgery in patients with temporal lobe epilepsy and comorbid psychiatric illness: A systematic review and meta-analysis
+VL  - 189
+ID  - 50921
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Accurately diagnosing neurodegenerative dementia is often challenging due to overlapping clinical features. Disease specific biomarkers could enhance diagnostic accuracy. However, CSF analysis procedures and advanced imaging modalities are either invasive or high-priced, and routinely unavailable. Easily accessible disease biomarkers would be of utmost value for accurate differential diagnosis of dementia subtypes. OBJECTIVE: To assess the diagnostic accuracy of blood-based biomarkers for the differential diagnosis of AD from Frontotemporal Lobar Degeneration (FTLD), or AD from Dementia with Lewy Bodies (DLB). METHODS: Systematic review. Three databases (PubMed, Scopus, and Web of Science) were searched. Studies assessing blood-based biomarkers levels in AD versus FTLD, or AD versus DLB, and its diagnostic accuracy, were selected. When the same biomarker was assessed in three or more studies, a meta-analysis was performed. QUADAS-2 criteria were used for quality assessment. RESULTS: Twenty studies were included in this analysis. Collectively, 905 AD patients were compared to 1262 FTLD patients, and 209 AD patients were compared to 246 DLB patients. Regarding biomarkers for AD versus FTLD, excellent discriminative accuracy (AUC >0.9) was found for p-tau181, p-tau217, synaptophysin, synaptopodin, GAP43 and calmodulin. Other biomarkers also demonstrated good accuracy (AUC = 0.8-0.9). For AD versus DLB distinction, only miR-21-5p and miR-451a achieved excellent accuracy (AUC >0.9). CONCLUSION: Encouraging results were found for several biomarkers, alone or in combination. Prospective longitudinal designs and consensual protocols, comprising larger cohorts and homogeneous testing modalities across centres, are essential to validate the clinical value of blood biomarkers for the precise etiological diagnosis of dementia.
+AD  - Department of Clinical Neurosciences and Mental Health, Faculty of Medicine University of Porto, Porto, Portugal.
+Department of Neurology, Centro Hospitalar Universitário de São João, Porto, Portugal.
+iLoF - Intelligent Lab on Fiber, Oxford, UK.
+Department of Biochemistry, Faculty of Medicine University of Porto, Porto, Portugal.
+AN  - 36423207
+AU  - Santos, F.
+AU  - Cabreira, V.
+AU  - Rocha, S.
+AU  - Massano, J.
+DA  - Jul
+DO  - 10.1177/08919887221141651
+DP  - NLM
+ET  - 20221124
+IS  - 4
+KW  - Humans
+*Alzheimer Disease/diagnosis
+tau Proteins
+Amyloid beta-Peptides
+Prospective Studies
+*Frontotemporal Lobar Degeneration/diagnosis
+*Frontotemporal Dementia/diagnosis
+Diagnosis, Differential
+Biomarkers
+*MicroRNAs
+*Lewy Body Disease/diagnosis
+Alzheimer’s disease
+blood biomarkers
+dementia with Lewy bodies
+diagnosis
+frontotemporal dementia
+frontotemporal lobar degeneration
+LA  - eng
+N1  - Santos, Filipa
+Cabreira, Verónica
+Rocha, Sara
+Massano, João
+Orcid: 0000-0002-5791-7149
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+United States
+2022/11/25
+J Geriatr Psychiatry Neurol. 2023 Jul;36(4):267-281. doi: 10.1177/08919887221141651. Epub 2022 Nov 24.
+PY  - 2023
+SN  - 0891-9887 (Print)
+0891-9887
+SP  - 267-281
+ST  - Blood Biomarkers for the Diagnosis of Neurodegenerative Dementia: A Systematic Review
+T2  - J Geriatr Psychiatry Neurol
+TI  - Blood Biomarkers for the Diagnosis of Neurodegenerative Dementia: A Systematic Review
+VL  - 36
+ID  - 50919
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Arabs with intellectual disabilities and/or autism may exhibit challenging behaviour that affects them and their caregivers. Early, appropriate intervention may reduce these effects. This review synthesised and critically appraised challenging behaviour intervention research for this population. METHODS: All published empirical research on challenging behaviour interventions for Arabs with intellectual disabilities and/or autism was included. In September 2022, 15 English and Arabic databases yielded 5282 search records. Studies were appraised using the MMAT. Review findings were narratively synthesised. RESULTS: The 79 included studies (n = 1243 participants) varied in design, intervention, and evaluation method. Only 12.6% of interventions were well-designed and reported. Arab interventions primarily targeted children, were applied collectively on small samples, lacked individualised assessment, and were based on an inconsistent understanding of challenging behaviour. CONCLUSION: The evidence base on interventions for Arabs with intellectual disabilities and/or autism and challenging behaviour needs strengthening. Attention should be given to culturally relevant adaptations.
+AD  - Centre for Research in Intellectual and Developmental Disabilities (CIDD), University of Warwick, Coventry, UK.
+Special Education Department, College of Education, Imam Mohammad Ibn Saud Islamic University, Riyadh, Kingdom of Saudi Arabia.
+AN  - 38343329
+AU  - Alarifi, S.
+AU  - Denne, L.
+AU  - Alatifi, N.
+AU  - Hastings, R. P.
+DA  - Mar
+DO  - 10.1111/jar.13205
+DP  - NLM
+IS  - 2
+KW  - Child
+Adult
+Humans
+*Intellectual Disability
+Arabs
+*Autistic Disorder/therapy
+Behavior Therapy
+Caregivers
+Arab population
+autism
+challenging behaviour
+intellectual disability
+systematic review
+LA  - eng
+N1  - 1468-3148
+Alarifi, Shahad
+Orcid: 0000-0002-6477-6612
+Denne, Louise
+Orcid: 0000-0002-8591-2898
+Alatifi, Nouf
+Hastings, Richard P
+Orcid: 0000-0002-0495-8270
+Imam Mohammed Ibn Saud Islamic University/
+Shaqra University/
+Journal Article
+Review
+Systematic Review
+England
+2024/02/12
+J Appl Res Intellect Disabil. 2024 Mar;37(2):e13205. doi: 10.1111/jar.13205.
+PY  - 2024
+SN  - 1360-2322
+SP  - e13205
+ST  - Interventions addressing challenging behaviours in Arab children and adults with intellectual disabilities and/or autism: A systematic review
+T2  - J Appl Res Intellect Disabil
+TI  - Interventions addressing challenging behaviours in Arab children and adults with intellectual disabilities and/or autism: A systematic review
+VL  - 37
+ID  - 5100
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Subjective cognitive complaints (SCCs) in Parkinson's disease (PD) are reported frequently, but their prevalence and association with changes on objective testing are not fully known. OBJECTIVE: We aimed to determine the prevalence, clinical correlates, and predictive value of SCCs in PD. METHODS: We conducted a systematic review and meta-analysis. From 204 abstracts, we selected 31 studies (n = 3441 patients), and from these, identified the prevalence, clinical features, associations with neuropsychiatric symptoms, and predictive values of SCCs in PD. RESULTS: The meta-analysis showed an SCC prevalence of 36%. This prevalence, however, was significantly moderated by study heterogeneity regarding female sex, disease severity, levodopa equivalent daily dosage, exclusion from the overall sample of patients with objective cognitive impairment, and measurement instrument. SCC prevalence did not differ between de novo and treated PD patients. SCCs were weakly and negligibly associated with cognitive changes on objective testing in cross-sectional studies. However, in cognitively healthy patients, SCCs had a risk ratio of 2.71 for later cognitive decline over a mean follow-up of 3.16 years. Moreover, SCCs were moderately related to co-occurring symptoms of depression, anxiety, or apathy and were more strongly related to these neuropsychiatric symptoms than objective cognitive functioning. CONCLUSION: Our analyses suggest that SCCs in patients with and without objective cognitive impairment are frequent, occurring in more than one third of PD patients. Establishing uniform measurement instruments for identifying PD-related SCCs is critical to understand their implications. Even in cases lacking evidence of objective cognitive impairment and where SCCs might reflect underlying neuropsychiatric symptoms, the possibility of later cognitive deterioration should not be excluded. Therefore, SCCs in PD patients warrant close monitoring for opportunities for targeted and effective interventions. © 2024 The Authors. Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.
+AD  - Department of Advanced Medical and Surgical Sciences-MRI Research Center Vanvitelli-FISM, University of Campania "Luigi Vanvitelli", Naples, Italy.
+Department of Psychology, University of Campania "Luigi Vanvitelli", Caserta, Italy.
+Neurosciences Research Centre, Molecular and Clinical Sciences Research Institute, St George's University of London, London, United Kingdom.
+JPG Enterprises LLC, Medical Division, Chicago, Illinois, USA.
+AN  - 38173220
+AU  - Siciliano, M.
+AU  - Tessitore, A.
+AU  - Morgante, F.
+AU  - Goldman, J. G.
+AU  - Ricciardi, L.
+DA  - Jan
+DO  - 10.1002/mds.29649
+DP  - NLM
+ET  - 20240103
+IS  - 1
+KW  - Humans
+Female
+*Parkinson Disease/complications/epidemiology/psychology
+Cross-Sectional Studies
+*Cognition Disorders/etiology/epidemiology
+*Cognitive Dysfunction/etiology/complications
+Cognition
+Parkinson's disease
+cognitive
+mild cognitive impairment
+nonmotor symptoms
+subjective cognitive complaints
+LA  - eng
+N1  - 1531-8257
+Siciliano, Mattia
+Orcid: 0000-0001-5246-2109
+Tessitore, Alessandro
+Morgante, Francesca
+Orcid: 0000-0002-9834-3639
+Goldman, Jennifer G
+Orcid: 0000-0001-5014-7535
+Ricciardi, Lucia
+Journal Article
+Meta-Analysis
+Review
+Systematic Review
+United States
+2024/01/04
+Mov Disord. 2024 Jan;39(1):17-28. doi: 10.1002/mds.29649. Epub 2024 Jan 3.
+PY  - 2024
+SN  - 0885-3185
+SP  - 17-28
+ST  - Subjective Cognitive Complaints in Parkinson's Disease: A Systematic Review and Meta-Analysis
+T2  - Mov Disord
+TI  - Subjective Cognitive Complaints in Parkinson's Disease: A Systematic Review and Meta-Analysis
+VL  - 39
+ID  - 50925
+ER  - 
+

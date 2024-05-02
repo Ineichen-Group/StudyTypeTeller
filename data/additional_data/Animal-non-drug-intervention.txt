@@ -1,0 +1,3139 @@
+﻿TY  - JOUR
+AB  - The effects of methadone and morphine maintenance on morphine self-administration were studied in the dog. Methadone was given passively for 2 weeks by continuous i.v. infusion. The amount of methadone administered daily was the same in mg/kg as the mean daily mg/kg of morphine the dogs had self-administered during the premaintenance control week. Morphine self-administration was markedly reduced initially but returned to normal levels within 2 weeks of methadone administration. Following the methadone maintenance period, morphine self-administration was increased over the premaintenance period for 2 weeks. A result similar to that with methadone was obtained in a second experiment when morphine was used as the maintenance drug in an amount that was three times the amount the dogs had been self-administering during the premaintenance control week.
+AN  - 412203
+AU  - Jones, B. E.
+AU  - Prada, J. A.
+DA  - Oct 20
+DO  - 10.1007/bf00426764
+DP  - NLM
+IS  - 2
+KW  - Animals
+Behavior, Animal/*drug effects
+Dogs
+Haplorhini
+Humans
+Methadone/administration & dosage/*pharmacology
+Morphine/*administration & dosage/pharmacology
+Papio
+Rats
+*Self Administration
+Substance Withdrawal Syndrome
+LA  - eng
+N1  - Jones, B E
+Prada, J A
+Journal Article
+Germany
+1977/10/20
+Psychopharmacology (Berl). 1977 Oct 20;54(2):109-12. doi: 10.1007/BF00426764.
+PY  - 1977
+SN  - 0033-3158 (Print)
+0033-3158
+SP  - 109-12
+ST  - Effects of methadone and morphine maintenance on drug-seeking behavior in the dog
+T2  - Psychopharmacology (Berl)
+TI  - Effects of methadone and morphine maintenance on drug-seeking behavior in the dog
+VL  - 54
+ID  - 50958
+ER  - 
+
+TY  - JOUR
+AB  - Experimental allergic encephalomyelitis (EAE) was induced in Buffalo rats by immunization with syngeneic spinal cord homogenate in complete adjuvant. EAE, an autoimmune disease of the central nervous system (CNS), is regarded as a model for multiple sclerosis. When severe paresis had developed, rats were treated with high-dose total body irradiation (TBI) and transplanted with syngeneic BM from healthy donors. Nine Gy TBI followed by syngeneic BMT greatly accelerated recovery of paresis compared with untreated controls. In 6-33% of the treated animals a relapse of EAE was observed shortly after treatment. Reimmunization 20 days after treatment, resulted in a relapse in 12-44% of the rats. Employing the maximally tolerated dose of TBI (10 Gy) did not significantly alter the incidence of spontaneous or induced relapses. Furthermore, it was shown that irradiation of the CNS only was not sufficient for the induction of complete regression of paresis. The origin of the cells responsible for these relapses is discussed, as is the importance of reimmunization in evaluating the effect of treatment of experimental autoimmune disease.
+AD  - Department of Immunopathology, Institute of Applied Radiobiology and Immunology-TNO, Rijswijk, The Netherlands.
+AN  - 8467289
+AU  - van Gelder, M.
+AU  - Kinwel-Bohré, E. P.
+AU  - van Bekkum, D. W.
+DA  - Mar
+DP  - NLM
+IS  - 3
+KW  - Animals
+*Bone Marrow Transplantation
+Combined Modality Therapy
+Disease Models, Animal
+Encephalomyelitis, Autoimmune, Experimental/etiology/*radiotherapy/*surgery
+Female
+Male
+Multiple Sclerosis/therapy
+Radiotherapy Dosage
+Rats
+Rats, Inbred BUF
+Transplantation, Isogeneic
+Whole-Body Irradiation
+LA  - eng
+N1  - van Gelder, M
+Kinwel-Bohré, E P
+van Bekkum, D W
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+1993/03/01
+Bone Marrow Transplant. 1993 Mar;11(3):233-41.
+PY  - 1993
+SN  - 0268-3369 (Print)
+0268-3369
+SP  - 233-41
+ST  - Treatment of experimental allergic encephalomyelitis in rats with total body irradiation and syngeneic BMT
+T2  - Bone Marrow Transplant
+TI  - Treatment of experimental allergic encephalomyelitis in rats with total body irradiation and syngeneic BMT
+VL  - 11
+ID  - 50948
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The goal of this study was to elucidate the effect of neurospheres (NS) on dementia in the mouse model of nucleus basalis of Meynert (NBM) lesion. METHODS: Mouse embryonic stem cell (ES) derived neurospheres were transplanted into the frontal association cortex and barrel field of S1 cortex of C57BL/6 mice 4 weeks after including a lesion of NBM by ibotenic acid, while other healthy mice that received ES cells served as control. Behavioral tests by 8-arm radial maze were conducted 8 weeks after transplantation, and double staining of choline acetyltransferase (ChAT), serotonin, amyloid-beta protein (AP) and green fluorescent protein (GFP) 12 weeks after transplantation. We found that the neurospheres transplanted into the mouse cortex survived and produced many ChAT-positive neurons and a few serotonin-positive neurons in and around the grafts. The working memory error decreased significantly in the mice grafted with neurospheres. In contrast, the ES cells developed into teratomas in all of the control mice and expressed no neurons, and the working memory deteriorated remarkably. CONCLUSIONS: Transplantation of neurospheres, but not ES cells, into the prefrontal and parietal cortices, dramatically alleviated the cholinergic deficits and recent memory disruption in the NBM lesioned mice.
+AD  - Department of Neurological Surgery, Faculty of Medicine, Kagawa University, Kita-gun, Japan.
+AN  - 16537997
+AU  - Wang, Q.
+AU  - Matsumoto, Y.
+AU  - Shindo, T.
+AU  - Miyake, K.
+AU  - Shindo, A.
+AU  - Kawanishi, M.
+AU  - Kawai, N.
+AU  - Tamiya, T.
+AU  - Nagao, S.
+DA  - Feb
+DO  - 10.2152/jmi.53.61
+DP  - NLM
+IS  - 1-2
+KW  - Alzheimer Disease/pathology/physiopathology/*therapy
+Animals
+Cerebral Cortex/pathology
+Disease Models, Animal
+Humans
+Male
+Maze Learning
+Memory
+Mice
+Mice, Inbred C57BL
+Neurons/*transplantation
+*Stem Cell Transplantation
+LA  - eng
+N1  - Wang, Qinghua
+Matsumoto, Yoshihito
+Shindo, Tokuhisa
+Miyake, Keisuke
+Shindo, Atsushi
+Kawanishi, Masahiko
+Kawai, Nobuyuki
+Tamiya, Takashi
+Nagao, Seigo
+Journal Article
+Research Support, Non-U.S. Gov't
+Japan
+2006/03/16
+J Med Invest. 2006 Feb;53(1-2):61-9. doi: 10.2152/jmi.53.61.
+PY  - 2006
+SN  - 1343-1420 (Print)
+1343-1420
+SP  - 61-9
+ST  - Neural stem cells transplantation in cortex in a mouse model of Alzheimer's disease
+T2  - J Med Invest
+TI  - Neural stem cells transplantation in cortex in a mouse model of Alzheimer's disease
+VL  - 53
+ID  - 50964
+ER  - 
+
+TY  - JOUR
+AB  - We studied the influence of Withania somnifera (Ws) root extract (100 mg/kg body weight) on parkinsonism induced by 1-methyl 4-phenyl 1,2,3,6-tetrahydropyridine (MPTP; i.p, 20 mg/kg body weight for 4 days), via the analysis of behavioral features and the oxidant-antioxidant imbalance in the midbrain of mice. A significant alteration in behavior, increased levels of thiobarbituric acid reactive substance (TBARS), and increased activities of superoxide dismutase (SOD) and catalase (CAT) were noticed in this region of brain in MPTP-treated mice. Oral treatment with the root extract resulted in a significant improvement in the mice's behavior and antioxidant status, along with a significant reduction in the level of lipid peroxidation. The results indicated that at least part of the chronic stress-induced pathology may be due to oxidative stress, which is mitigated by Ws. Further studies are needed to assess the precise mechanism to support the clinical use of the plant as an antiparkinsonic drug.
+AD  - Department of Anatomy, Faculty of Medicine, Annamalai University Annamalainagar, 608 002, India. anatomysrs@yahoo.com
+AN  - 17415533
+AU  - Sankar, S. R.
+AU  - Manivasagam, T.
+AU  - Krishnamurti, A.
+AU  - Ramanathan, M.
+C2  - PMC6275882
+DO  - 10.2478/s11658-007-0015-0
+DP  - NLM
+ET  - 20070406
+IS  - 4
+KW  - 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+Animals
+Male
+Medicine, Ayurvedic
+Mesencephalon/enzymology
+Mice
+Mice, Inbred Strains
+Motor Skills/drug effects
+Neuroprotective Agents/*therapeutic use
+Parkinson Disease, Secondary/chemically induced/*drug therapy
+Plant Extracts/*therapeutic use
+Plant Roots/chemistry
+Rotarod Performance Test
+Withania/*chemistry
+LA  - eng
+N1  - 1689-1392
+Sankar, Srinivasagam Raja
+Manivasagam, Thamilarasan
+Krishnamurti, Arumugam
+Ramanathan, Manickam
+Journal Article
+England
+2007/04/07
+Cell Mol Biol Lett. 2007;12(4):473-81. doi: 10.2478/s11658-007-0015-0. Epub 2007 Apr 6.
+PY  - 2007
+SN  - 1425-8153 (Print)
+1425-8153
+SP  - 473-81
+ST  - The neuroprotective effect of Withania somnifera root extract in MPTP-intoxicated mice: an analysis of behavioral and biochemical variables
+T2  - Cell Mol Biol Lett
+TI  - The neuroprotective effect of Withania somnifera root extract in MPTP-intoxicated mice: an analysis of behavioral and biochemical variables
+VL  - 12
+ID  - 50985
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The optimal management of spinal column metastatic disease is controversial. Furthermore, the literature lacks an accurate animal model to study the efficacy of surgical treatment options for spinal column metastases. We compared the efficacy of surgery, radiotherapy, or surgery plus adjuvant radiotherapy in a rat model of metastatic epidural spinal cord compression. METHODS: Thirty-two Fischer 344 rats underwent a transabdominal approach for implantation of a CRL-1666 breast adenocarcinoma cell line within the vertebral body of L6. Animals were randomly assigned to receive one of four treatments (n = 8 per group) 7 days after tumor implantation: 1) control: no treatment; 2) external beam radiation therapy (XRT) (total 20 Gy in 400-cGy daily fractions); 3) surgery: L6 vertebral corpectomy, tumor resection, and polymethyl methacrylate reconstruction; and 4) surgery + XRT: corpectomy and tumor resection followed by XRT (total 20 Gy in 400-cGy daily fractions) 72 hours after surgery. Hind-limb function was tested daily after treatment using the Basso-Beattie-Bresnahan (BBB) scale (range, 1-21). RESULTS: All animals (n = 32) demonstrated normal hind-limb function (BBB score, 21) on posttreatment Day 1. The XRT, surgery, and surgery + XRT groups all experienced a delay in onset of paresis versus the control group. Compared to the XRT group, the surgery group demonstrated greater median BBB scores on Days 3 (21 versus 20, P = 0.02) through 9 (12 versus 8, P = 0.002) after treatment. Compared with the surgery group, the surgery + XRT group demonstrated even greater median BBB scores on Days 6 (21 versus 19, P = 0.0008) through 11 (16 versus 8, P = 0.0001) after treatment. Median time to loss of ambulation (BBB <or= 7) was greatest in the surgery + XRT group (15 d) when compared with the surgery (12 d, P = 0.001), XRT (9 d, P = 0.001), or control groups (7 d, P = 0.0005). CONCLUSION: In a rat model of metastatic epidural spinal cord compression, decompressive surgery followed by radiotherapy yielded the greatest efficacy in the prevention of neurological decline when compared with surgery or radiotherapy alone. Radiotherapy alone attenuated neurological decline but was the least efficacious treatment in this model. These results support this animal model as an effective platform to investigate novel interventions for metastatic spine tumors.
+AD  - Department of Neurosurgery, The Johns Hopkins University, Baltimore, Maryland, USA.
+AN  - 18797365
+AU  - Gok, B.
+AU  - McGirt, M.
+AU  - Sciubba, D. M.
+AU  - Ayhan, S.
+AU  - Bydon, A.
+AU  - Witham, T. F.
+AU  - Wolinsky, J. P.
+AU  - Gokaslan, Z. L.
+DA  - Aug
+DO  - 10.1227/01.Neu.0000320424.50804.C8
+DP  - NLM
+IS  - 2
+KW  - Animals
+Cell Line, Tumor
+Combined Modality Therapy
+*Disease Models, Animal
+Female
+Nervous System Diseases/etiology/*prevention & control
+Radiotherapy, Adjuvant
+Rats
+Rats, Inbred F344
+Spinal Cord Neoplasms/complications/*radiotherapy/secondary/*surgery
+LA  - eng
+N1  - 1524-4040
+Gok, Beril
+McGirt, Matthew
+Sciubba, Daniel M
+Ayhan, Selim
+Bydon, Ali
+Witham, Timothy F
+Wolinsky, Jean-Paul
+Gokaslan, Ziya L
+Comparative Study
+Journal Article
+United States
+2008/09/18
+Neurosurgery. 2008 Aug;63(2):346-51; discussion 351. doi: 10.1227/01.NEU.0000320424.50804.C8.
+PY  - 2008
+SN  - 0148-396x
+SP  - 346-51; discussion 351
+ST  - Surgical resection plus adjuvant radiotherapy is superior to surgery or radiotherapy alone in the prevention of neurological decline in a rat metastatic spinal tumor model
+T2  - Neurosurgery
+TI  - Surgical resection plus adjuvant radiotherapy is superior to surgery or radiotherapy alone in the prevention of neurological decline in a rat metastatic spinal tumor model
+VL  - 63
+ID  - 50982
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Therapeutic hypothermia, a safe and effective treatment for neonatal encephalopathy in an intensive care setting, is not available in low-resource settings. Aims/ METHODS: To assess two low-tech, low-cost cooling devices for use in low-resource settings: (i) commercially available water bottles filled with tepid water (25 degrees C); (ii) a mattress made of phase changing material (PCM) with a melting point of 32 degrees C (PCM works as a heat buffer at this temperature). Eleven anaesthetised newborn piglets were studied following transient hypoxia-ischaemia. The cooling device was applied 2-26 h after hypoxia-ischaemia with a target rectal temperature (T(rectal)) of 33-34 degrees C. T(rectal) undershoot was adjusted using cotton blankets; the cooling device was renewed when T(rectal) rose above 35 degrees C. T(rectal) data during cooling were dichotomised (within or without target) to assess: (a) the total period within the target T(rectal) range; (b) the stability and fluctuation of T(rectal) during cooling. RESULTS: Therapeutic hypothermia was achieved with both water bottles (n = 5) and the PCM mattress (n = 6). The mean (SD) time to reach target T(rectal) was 1.8 (0.5) h with water bottles and 1.9 (0.3) h with PCM. PCM cooling led to a longer period within the target T(rectal) range (p<0.01) and more stable cooling (p<0.05). Water bottle cooling required device renewal (in four out of five piglets). CONCLUSION: Simple, low-tech cooling devices can induce and maintain therapeutic hypothermia effectively in a porcine model of neonatal encephalopathy, although frequent fine tuning by adjusting the number of blankets insulating the piglet was required to maintain a stable temperature. PCM may induce more stable cooling compared with water bottles.
+AD  - Academic Neonatology, EGA UCL Institute for Women's Health, University College London, London, UK.
+AN  - 19155230
+AU  - Iwata, S.
+AU  - Iwata, O.
+AU  - Olson, L.
+AU  - Kapetanakis, A.
+AU  - Kato, T.
+AU  - Evans, S.
+AU  - Araki, Y.
+AU  - Kakuma, T.
+AU  - Matsuishi, T.
+AU  - Setterwall, F.
+AU  - Lagercrantz, H.
+AU  - Robertson, N. J.
+DA  - May
+DO  - 10.1136/adc.2008.143602
+DP  - NLM
+ET  - 20090120
+IS  - 5
+KW  - Animals
+Animals, Newborn
+Body Temperature/*physiology
+Brain Diseases/therapy
+Equipment Design
+Hypothermia, Induced/*instrumentation
+Hypoxia-Ischemia, Brain/*therapy
+Male
+Models, Animal
+Random Allocation
+Swine
+Temperature
+LA  - eng
+N1  - 1468-2044
+Iwata, S
+Iwata, O
+Olson, L
+Kapetanakis, A
+Kato, T
+Evans, S
+Araki, Y
+Kakuma, T
+Matsuishi, T
+Setterwall, F
+Lagercrantz, H
+Robertson, N J
+Department of Health/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2009/01/22
+Arch Dis Child. 2009 May;94(5):387-91. doi: 10.1136/adc.2008.143602. Epub 2009 Jan 20.
+PY  - 2009
+SN  - 0003-9888
+SP  - 387-91
+ST  - Therapeutic hypothermia can be induced and maintained using either commercial water bottles or a "phase changing material" mattress in a newborn piglet model
+T2  - Arch Dis Child
+TI  - Therapeutic hypothermia can be induced and maintained using either commercial water bottles or a "phase changing material" mattress in a newborn piglet model
+VL  - 94
+ID  - 50950
+ER  - 
+
+TY  - JOUR
+AB  - ETHNOPHARMACOLOGICAL RELEVANCE: Withania somnifera root extract (Ws)/Ashwagandha/Indian ginseng is a traditional herbal medicine, used over 4000 years in India, shown to have effect on neural growth and locomotor function. Although catecholamines and oxidative stress resulting in neurodegeneration and locomotor disorder are the main events in Parkinson's disease (PD), efficacy of the drug on these molecules and physiological abnormality are not clear. AIM OF THE STUDY: The objective of the study was to examine effect of Ws on catecholamines and physiological abnormalities seen in PD using PD model mouse. MATERIALS AND METHODS: Mouse were treated with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) for 4 days to show biochemical and physiological abnormalities similar to patients with PD. PD mice were treated with Ws 100mg/kg body weight for 7 or 28 days. Catecholamines: dopamine (DA), 3,4-dihydroxy-phenylacetic acid (DOPAC) and homovanillic acid (HVA); antioxidants: glutathione (GSH) and glutathione peroxidase (GPx); and lipid peroxidation marker (TBARS) were analyzed in the Ws treated and untreated PD mouse striatum. RESULTS: Mouse treated with MPTP showed reduced levels of DA, DOPAC, HVA, GSH and GPx and induced thiobarbituric acid reactive substance (TBARS) level compared to the control. Physiological abnormalities were seen in the mouse as determined by hang test and rotarod test. Oral treatment of PD mouse Ws root extract (100mg/kg body weight) for 7 days or 28 days increased DA, DOPAC and HVA levels and normalized TBARS levels in the corpus striatum of the PD mouse. The 7 days Ws treated mice showed improved motor function as determined by hang test and rotarod test. Treatment with Ws for 28 days increased GSH and GPx levels in the striatum compared to the Ws untreated PD mouse striatum. CONCLUSION: These data suggest that Ws is a potential drug in treating catecholamines, oxidative damage and physiological abnormalities seen in the PD mouse.
+AD  - Department of Anatomy, Annamalai University, Tamilnadu, India.
+AN  - 19666100
+AU  - RajaSankar, S.
+AU  - Manivasagam, T.
+AU  - Sankar, V.
+AU  - Prakash, S.
+AU  - Muthusamy, R.
+AU  - Krishnamurti, A.
+AU  - Surendran, S.
+DA  - Sep 25
+DO  - 10.1016/j.jep.2009.08.003
+DP  - NLM
+ET  - 20090808
+IS  - 3
+KW  - 3,4-Dihydroxyphenylacetic Acid/analysis
+Animals
+*Disease Models, Animal
+Dopamine/analysis
+Glutathione/analysis
+Glutathione Peroxidase/analysis
+Homovanillic Acid/analysis
+Male
+Medicine, Ayurvedic
+Mice
+Mice, Inbred Strains
+Parkinsonian Disorders/*drug therapy
+Phytotherapy/*methods
+Plant Extracts/*therapeutic use
+Plant Roots/chemistry
+Rotarod Performance Test
+Thiobarbituric Acid Reactive Substances/analysis
+Withania/*chemistry
+Glutathione Peroxidase GPX1
+LA  - eng
+N1  - 1872-7573
+RajaSankar, Srinivasagam
+Manivasagam, Thamilarasan
+Sankar, Venkatachalam
+Prakash, Seppan
+Muthusamy, Rathinasamy
+Krishnamurti, Arumugam
+Surendran, Sankar
+Journal Article
+Ireland
+2009/08/12
+J Ethnopharmacol. 2009 Sep 25;125(3):369-73. doi: 10.1016/j.jep.2009.08.003. Epub 2009 Aug 8.
+PY  - 2009
+SN  - 0378-8741
+SP  - 369-73
+ST  - Withania somnifera root extract improves catecholamines and physiological abnormalities seen in a Parkinson's disease model mouse
+T2  - J Ethnopharmacol
+TI  - Withania somnifera root extract improves catecholamines and physiological abnormalities seen in a Parkinson's disease model mouse
+VL  - 125
+ID  - 50940
+ER  - 
+
+TY  - JOUR
+AB  - To investigate whether whole body hypothermia after neonatal cerebral hypoxia-ischemia (HI) could broaden the therapeutic window of intranasal treatment of IGF-1 (iN-IGF-1), postnatal day 7 rat pups were subjected to right common carotid artery ligation, followed by 8% oxygen inhalation for 2h. After HI, one group of pups were returned to their dams and kept at room temperature (24.5±0.2°C). A second group of pups were subjected to whole body hypothermia in a cool environment (21.5±0.3°C) for 2 or 4h before being returned to their dams. Two doses of 50 μg recombinant human IGF-1 were administered intranasally at a 1h interval starting at 0, 2 or 4h after hypothermia. Hypothermia decreased the rectal temperature of pups by 4.5°C as compared to those kept at room temperature. While hypothermia or iN-IGF-1 administered 2h after HI alone did not provide neuroprotection, the combined treatment of hypothermia with iN-IGF-1 significantly protected the neonatal rat brain from HI injury. Hypothermia treatment extended the therapeutic window of IGF-1 to 6h after HI. The extended IGF-1 therapeutic window by hypothermia was associated with decreases in infiltration of polymorphonuclear leukocytes and activation of microglia/macrophages and with attenuation of NF-κB activation in the ipsilateral hemisphere following HI.
+AD  - Department of Pediatrics, Division of Newborn Medicine, University of Mississippi Medical Center, Jackson, MS 39216, USA.
+AN  - 21316352
+AU  - Lin, S.
+AU  - Rhodes, P. G.
+AU  - Cai, Z.
+C2  - PMC3065539
+C6  - NIHMS273315
+DA  - Apr 18
+DO  - 10.1016/j.brainres.2011.02.013
+DP  - NLM
+ET  - 20110305
+KW  - Administration, Intranasal
+Animals
+Animals, Newborn
+*Disease Models, Animal
+Humans
+Hypothermia, Induced/*methods
+Hypoxia-Ischemia, Brain/*drug therapy/physiopathology
+Insulin-Like Growth Factor I/*administration & dosage
+Random Allocation
+Rats
+Rats, Sprague-Dawley
+Time Factors
+LA  - eng
+N1  - 1872-6240
+Lin, Shuying
+Rhodes, Philip G
+Cai, Zhengwei
+R01 HD035496/HD/NICHD NIH HHS/United States
+R01 HD035496-10/HD/NICHD NIH HHS/United States
+R01 HD 035496/HD/NICHD NIH HHS/United States
+Comparative Study
+Journal Article
+Research Support, N.I.H., Extramural
+Netherlands
+2011/02/15
+Brain Res. 2011 Apr 18;1385:246-56. doi: 10.1016/j.brainres.2011.02.013. Epub 2011 Mar 5.
+PY  - 2011
+SN  - 0006-8993 (Print)
+0006-8993
+SP  - 246-56
+ST  - Whole body hypothermia broadens the therapeutic window of intranasally administered IGF-1 in a neonatal rat model of cerebral hypoxia-ischemia
+T2  - Brain Res
+TI  - Whole body hypothermia broadens the therapeutic window of intranasally administered IGF-1 in a neonatal rat model of cerebral hypoxia-ischemia
+VL  - 1385
+ID  - 50955
+ER  - 
+
+TY  - JOUR
+AB  - AIM: Constraint-induced movement therapy (CIMT) has emerged as a promising therapeutic strategy for improving affected upper limb function in children with hemiplegic cerebral palsy (CP). However, little is known about the changes in the brain that are induced by CIMT. This study was designed to investigate these changes and behavioural performance after CIMT intervention in mice with neonatal hypoxic-ischemic brain injury. METHOD: We utilized the neonatal hypoxic-ischemic brain injury model established in mice pups. Three weeks after the injury, the mice were randomly assigned to the following three groups: the control group (n = 15), the enriched-environment group (n = 17), and the CIMT with an enriched-environment group (CIMT-EE, n = 15). 5-bromo-2-deoxyuridine (BrdU) was injected daily to label proliferating cells during the 2 weeks of intervention. RESULTS: The CIMT-EE group showed better fall rate in the horizontal ladder rung walking test (mean 5.4%, SD 3.6%) than either the control (mean 14.3%, SD 7.3%; p = 0.001) or enriched-environment (mean 12.4%, SD 7.7%; p = 0.010) groups 2 weeks after the end of intervention. The CIMT-EE group also showed more neurogenesis (mean 7069 cells/mm³, SD 4017 cells/mm³) than either the control group (mean 1555 cells/mm³, SD 1422 cells/mm³; p < 0.001) or enriched-environment group (mean 2994 cells/mm³, SD 3498 cells/mm³; p = 0.001) in the subventricular zone. In the striatum, neurogenesis in the CIMT-EE group (mean 534 cells/mm³, SD 441 cells/mm³) was greater than in the control group (mean 95 cells/mm³, SD 133 cells/mm³; p = 0.001). INTERPRETATION: There was CIMT-EE enhanced neurogenesis in the brain along with functional benefits in mice after early hypoxic-ischemic brain injury. This is the first study to demonstrate the effects of CIMT on neurogenesis and functional recovery after experimental injury to an immature brain.
+AD  - Department and Research Institute of Rehabilitation Medicine, Yonsei University College of Medicine, Seoul, Korea.
+AN  - 21232055
+AU  - Rha, D. W.
+AU  - Kang, S. W.
+AU  - Park, Y. G.
+AU  - Cho, S. R.
+AU  - Lee, W. T.
+AU  - Lee, J. E.
+AU  - Nam, C. M.
+AU  - Han, K. H.
+AU  - Park, E. S.
+DA  - Apr
+DO  - 10.1111/j.1469-8749.2010.03877.x
+DP  - NLM
+ET  - 20110114
+IS  - 4
+KW  - Adult Stem Cells/physiology
+Analysis of Variance
+Animals
+Animals, Newborn
+Bromodeoxyuridine/metabolism
+Cell Proliferation
+Disease Models, Animal
+Female
+Functional Laterality
+Hand Strength/physiology
+Hypoxia-Ischemia, Brain/*physiopathology/*rehabilitation
+Locomotion/physiology
+Male
+Mice
+Mice, Inbred ICR
+Neurogenesis/*physiology
+Neurologic Examination/methods
+Recovery of Function/*physiology
+Restraint, Physical/*methods
+Rotarod Performance Test
+Time Factors
+Tubulin/metabolism
+LA  - eng
+N1  - 1469-8749
+Rha, Dong-Wook
+Kang, Seong-Woong
+Park, Yoon-Ghil
+Cho, Sung-Rae
+Lee, Won Taek
+Lee, Jong Eun
+Nam, Chung Mo
+Han, Kyung Hwa
+Park, Eun Sook
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2011/01/15
+Dev Med Child Neurol. 2011 Apr;53(4):327-33. doi: 10.1111/j.1469-8749.2010.03877.x. Epub 2011 Jan 14.
+PY  - 2011
+SN  - 0012-1622
+SP  - 327-33
+ST  - Effects of constraint-induced movement therapy on neurogenesis and functional recovery after early hypoxic-ischemic injury in mice
+T2  - Dev Med Child Neurol
+TI  - Effects of constraint-induced movement therapy on neurogenesis and functional recovery after early hypoxic-ischemic injury in mice
+VL  - 53
+ID  - 50973
+ER  - 
+
+TY  - JOUR
+AB  - One of a family of devastating lysosomal storage disorders, Krabbe disease is characterized by demyelination, psychosine accumulation, and inflammation. Affected infants rarely survive longer than 2 years. Using the twitcher mouse model of the disease, this study evaluated the potential of intrastriatal injection of adipose or bone marrow-derived mesenchymal stromal cells (MSCs) as a treatment option. Neonatal pups were injected with MSCs at 3-4 days of age and subjected to a battery of behavioral tests beginning at 15 days. While MSC injection failed to increase lifespan of twitchers, improvements in rotarod performance and twitching severity were observed at 27-38 days of age using MSCs derived from bone marrow. This study tested several different tasks developed in adult mice for evaluation of disease progression in immature twitchers. Rotarod was both reliable and extremely sensitive. Automated gait analysis using the Treadscan program was also useful for early evaluation of differences prior to overt gait dysfunction. Finally, this study represents the first use of the Stone T-maze in immature mice. Validation of rotarod and automated gait analysis for detection of subtle differences in disease progression is important for early stage efforts to develop treatments for juvenile disorders.
+AD  - Nutritional Neuroscience and Aging, Pennington Biomedical Research Center, 6400 Perkins Rd., Baton Rouge, LA 70808, USA. shawna.wicks@pbrc.edu
+AN  - 21840342
+AU  - Wicks, S. E.
+AU  - Londot, H.
+AU  - Zhang, B.
+AU  - Dowden, J.
+AU  - Klopf-Eiermann, J.
+AU  - Fisher-Perkins, J. M.
+AU  - Trygg, C. B.
+AU  - Scruggs, B. A.
+AU  - Zhang, X.
+AU  - Gimble, J. M.
+AU  - Bunnell, B. A.
+AU  - Pistell, P. J.
+C2  - PMC3179783
+C6  - NIHMS320719
+DA  - Dec 1
+DO  - 10.1016/j.bbr.2011.07.051
+DP  - NLM
+ET  - 20110805
+IS  - 2
+KW  - Animals
+Animals, Newborn
+Cell Tracking/methods/statistics & numerical data
+Corpus Striatum/*surgery
+*Disease Models, Animal
+Disease Progression
+Gait
+Genotype
+Humans
+Leukodystrophy, Globoid Cell/diagnosis/*therapy
+Maze Learning
+*Mesenchymal Stem Cell Transplantation
+Mice
+Mice, Neurologic Mutants
+Mice, Transgenic
+Rotarod Performance Test/statistics & numerical data
+LA  - eng
+N1  - 1872-7549
+Wicks, Shawna E
+Londot, Heaven
+Zhang, Bo
+Dowden, Jennifer
+Klopf-Eiermann, Jessica
+Fisher-Perkins, Jeanne M
+Trygg, Cynthia B
+Scruggs, Brittni A
+Zhang, Xiujuan
+Gimble, Jeffrey M
+Bunnell, Bruce A
+Pistell, Paul J
+R21 NS059665-02/NS/NINDS NIH HHS/United States
+R21 NS059665/NS/NINDS NIH HHS/United States
+P30 DK072476/DK/NIDDK NIH HHS/United States
+1P30 DK072476/DK/NIDDK NIH HHS/United States
+P30 DK072476-01/DK/NIDDK NIH HHS/United States
+1 R21 NS059665/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Netherlands
+2011/08/16
+Behav Brain Res. 2011 Dec 1;225(2):415-25. doi: 10.1016/j.bbr.2011.07.051. Epub 2011 Aug 5.
+PY  - 2011
+SN  - 0166-4328 (Print)
+0166-4328
+SP  - 415-25
+ST  - Effect of intrastriatal mesenchymal stromal cell injection on progression of a murine model of Krabbe disease
+T2  - Behav Brain Res
+TI  - Effect of intrastriatal mesenchymal stromal cell injection on progression of a murine model of Krabbe disease
+VL  - 225
+ID  - 50953
+ER  - 
+
+TY  - JOUR
+AB  - Low-level laser light therapy (LLLT) exerts beneficial effects on motor and histopathological outcomes after experimental traumatic brain injury (TBI), and coherent near-infrared light has been reported to improve cognitive function in patients with chronic TBI. However, the effects of LLLT on cognitive recovery in experimental TBI are unknown. We hypothesized that LLLT administered after controlled cortical impact (CCI) would improve post-injury Morris water maze (MWM) performance. Low-level laser light (800 nm) was applied directly to the contused parenchyma or transcranially in mice beginning 60-80 min after CCI. Injured mice treated with 60 J/cm² (500 mW/cm²×2 min) either transcranially or via an open craniotomy had modestly improved latency to the hidden platform (p<0.05 for group), and probe trial performance (p<0.01) compared to non-treated controls. The beneficial effects of LLLT in open craniotomy mice were associated with reduced microgliosis at 48 h (21.8±2.3 versus 39.2±4.2 IbA-1+ cells/200×field, p<0.05). Little or no effect of LLLT on post-injury cognitive function was observed using the other doses, a 4-h administration time point and 7-day administration of 60 J/cm². No effect of LLLT (60 J/cm² open craniotomy) was observed on post-injury motor function (days 1-7), brain edema (24 h), nitrosative stress (24 h), or lesion volume (14 days). Although further dose optimization and mechanism studies are needed, the data suggest that LLLT might be a therapeutic option to improve cognitive recovery and limit inflammation after TBI.
+AD  - Neuroscience Center, Massachusetts General Hospital, Harvard Medical School, Charlestown, Massachusetts, USA.
+AN  - 21851183
+AU  - Khuman, J.
+AU  - Zhang, J.
+AU  - Park, J.
+AU  - Carroll, J. D.
+AU  - Donahue, C.
+AU  - Whalen, M. J.
+C2  - PMC3261787
+DA  - Jan 20
+DO  - 10.1089/neu.2010.1745
+DP  - NLM
+ET  - 20110921
+IS  - 2
+KW  - Animals
+Brain Injuries/physiopathology/surgery/*therapy
+Cognition Disorders/physiopathology/*therapy
+*Disease Models, Animal
+Low-Level Light Therapy/*methods
+Male
+Maze Learning/physiology/radiation effects
+Mice
+Mice, Inbred C57BL
+Microglia/physiology/*radiation effects
+Recovery of Function/physiology/radiation effects
+LA  - eng
+N1  - 1557-9042
+Khuman, Jugta
+Zhang, Jimmy
+Park, Juyeon
+Carroll, James D
+Donahue, Chad
+Whalen, Michael J
+R01NS047447/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2011/08/20
+J Neurotrauma. 2012 Jan 20;29(2):408-17. doi: 10.1089/neu.2010.1745. Epub 2011 Sep 21.
+PY  - 2012
+SN  - 0897-7151 (Print)
+0897-7151
+SP  - 408-17
+ST  - Low-level laser light therapy improves cognitive deficits and inhibits microglial activation after controlled cortical impact in mice
+T2  - J Neurotrauma
+TI  - Low-level laser light therapy improves cognitive deficits and inhibits microglial activation after controlled cortical impact in mice
+VL  - 29
+ID  - 50980
+ER  - 
+
+TY  - JOUR
+AB  - Hypoxic-ischemic (HI) brain injury occurring during the perinatal period is still a major cause of mortality and morbidity. We assessed the impact of maternal hypertension, the most common medical disorder of pregnancy, on the anatomical and functional consequences of HI insult in the immature brain. Rat pups from spontaneously hypertensive (SHR) and normotensive (Wistar Kyoto - WKY) dams were subjected to HI brain damage at post-natal day 7 (P7). Brain lesion and functional deficits were analyzed from 10 min to 35 days after HI, using magnetic resonance imaging (MRI), sensorimotor and cognitive tests. MRI data revealed that SHR pups displayed less brain damage than WKY, attested by an initial smaller lesion followed by a reduced tissue loss at chronic stage (57.1±21.6 and 31.1±27% ipsilateral hemisphere atrophy in WKY and SHR, respectively). Behavioral analyses showed less HI-induced behavioral deficits in motor coordination (rotarod test) and spatial learning (Morris water maze test) in pups from hypertensive dams compared to those from normotensive ones. The data suggest that maternal hypertension causes prenatal stress that may render the immature brain more resistant to subsequent hypoxia-ischemia, related to a preconditioning phenomenon.
+AD  - CERVOxy Team Hypoxia and Cerebrovascular Pathophysiology, UMR CI-NAPS 6232, CNRS, CEA, Université de Caen Basse-Normandie, Centre CYCERON, Bd Henri Becquerel, BP5229, 14074 CAEN cedex, France. anneliseletourneur@gmail.com
+AN  - 22051176
+AU  - Letourneur, A.
+AU  - Freret, T.
+AU  - Roussel, S.
+AU  - Boulouard, M.
+AU  - Divoux, D.
+AU  - Toutain, J.
+AU  - Bernaudin, M.
+AU  - Schumann-Bard, P.
+AU  - Bouet, V.
+AU  - Touzani, O.
+DA  - Jan
+DO  - 10.1016/j.expneurol.2011.10.014
+DP  - NLM
+ET  - 20111025
+IS  - 1
+KW  - Age Factors
+Analysis of Variance
+Animals
+Animals, Newborn
+Behavior, Animal/*physiology
+Blood Pressure
+Cognition Disorders/etiology
+Disease Models, Animal
+Female
+Hand Strength/physiology
+Hypertension/diagnosis/*physiopathology
+Hypoxia-Ischemia, Brain/*complications/*diagnosis
+*Ischemic Preconditioning
+Magnetic Resonance Imaging
+Male
+Maternal-Fetal Exchange/*physiology
+Maze Learning
+Motor Activity
+Pregnancy
+Psychomotor Performance/physiology
+Rats
+Rats, Inbred SHR
+Rats, Inbred WKY
+Rotarod Performance Test
+Spatial Behavior
+LA  - eng
+N1  - 1090-2430
+Letourneur, Annelise
+Freret, Thomas
+Roussel, Simon
+Boulouard, Michel
+Divoux, Didier
+Toutain, Jérôme
+Bernaudin, Myriam
+Schumann-Bard, Pascale
+Bouet, Valentine
+Touzani, Omar
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2011/11/05
+Exp Neurol. 2012 Jan;233(1):264-72. doi: 10.1016/j.expneurol.2011.10.014. Epub 2011 Oct 25.
+PY  - 2012
+SN  - 0014-4886
+SP  - 264-72
+ST  - Maternal hypertension during pregnancy modifies the response of the immature brain to hypoxia-ischemia: sequential MRI and behavioral investigations
+T2  - Exp Neurol
+TI  - Maternal hypertension during pregnancy modifies the response of the immature brain to hypoxia-ischemia: sequential MRI and behavioral investigations
+VL  - 233
+ID  - 50957
+ER  - 
+
+TY  - JOUR
+AB  - Studies have demonstrated that embryonic cell therapy is a potential approach for the treatment of Huntington's disease (HD). However, because of the limited resource of embryos, greater attention is needed in developing more efficient surgical techniques that not only enhance the therapy outcome but also avoid inefficient therapeutics of transplantation. In this study, we explored the curative effects of two different transplantation methods using a rat model of HD. Whole ganglionic eminence (WGE) cells or phosphate-buffered saline were transplanted into unilateral striatum of quinolinic acid (QA)-lesioned rats using microtransplantation instruments (with an outer diameter of 50 μm) or traditional transplantation instruments (with an outer diameter of 470 μm). Apomorphine-induced rotation test and adjusting step test were assessed after QA-induced lesion and 2, 4, 6, 8, 10, and 12 weeks after transplantation. The expression of neuronal nuclei (NeuN), dopamine, cAMP-regulated phosphoprotein of molecular weight 32 kDa (DARPP-32), and glial fibrillary acidic protein (GFAP) was analyzed at 12 weeks after transplantation. We observed that microtransplanted rats performed better in the stepping test and had higher numbers of DARPP-32-positive cells compared with traditionally transplanted rats. Moreover, microtransplantation group showed lower GFAP expression surrounding the grafts in unilateral striatum and a higher survival rate posttransplantation compared with the traditional transplantation group. We conclude that microtransplantation is capable of enhancing therapeutic efficacy in the rat model of HD. This finding establishes the basis of an alternative transplantation strategy for treatment of HD.
+AD  - Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
+AN  - 24105649
+AU  - Zhu, M.
+AU  - Shu, K.
+AU  - Wang, H.
+AU  - Li, X.
+AU  - Xiao, Q.
+AU  - Chan, W.
+AU  - Emmanuel, B.
+AU  - Jiang, W.
+AU  - Lei, T.
+DA  - Dec
+DO  - 10.1002/jnr.23282
+DP  - NLM
+ET  - 20130916
+IS  - 12
+KW  - Animals
+Brain Tissue Transplantation/*methods
+Disease Models, Animal
+Embryonic Stem Cells/*transplantation
+Female
+Huntington Disease/*surgery
+Rats
+Rats, Sprague-Dawley
+Stem Cell Transplantation/*methods
+Huntington's disease
+microtransplantation
+whole ganglionic eminence (WGE)
+LA  - eng
+N1  - 1097-4547
+Zhu, Mingxin
+Shu, Kai
+Wang, Heping
+Li, Xiaopeng
+Xiao, Qungen
+Chan, Waipan
+Emmanuel, Bosomah
+Jiang, Wei
+Lei, Ting
+Journal Article
+United States
+2013/10/10
+J Neurosci Res. 2013 Dec;91(12):1563-71. doi: 10.1002/jnr.23282. Epub 2013 Sep 16.
+PY  - 2013
+SN  - 0360-4012
+SP  - 1563-71
+ST  - Microtransplantation of whole ganglionic eminence cells ameliorates motor deficit, enlarges the volume of grafts, and prolongs survival in a rat model of Huntington's disease
+T2  - J Neurosci Res
+TI  - Microtransplantation of whole ganglionic eminence cells ameliorates motor deficit, enlarges the volume of grafts, and prolongs survival in a rat model of Huntington's disease
+VL  - 91
+ID  - 50946
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Acupuncture may effectively treat certain symptoms of Alzheimer's disease (AD). Although several studies have used functional brain imaging to investigate the mechanisms of acupuncture treatment on AD, these mechanisms are still poorly understood. We therefore further explored the mechanism by which needling at ST36 may have a therapeutic effect in a rat AD model. METHODS: A total of 80 healthy Wistar rats were divided into healthy control (n = 15) and pre-model (n = 65) groups. After inducing AD-like disease, a total of 45 AD model rats were randomly divided into three groups: the model group (n = 15), the sham-point group (n = 15), and the ST36 group (n = 15). The above three groups underwent PET scanning. PET images were processed with SPM2. RESULTS: The brain areas that were activated in the sham-point group relative to the model group were primarily centred on the bilateral limbic system, the right frontal lobe, and the striatum, whereas the activated areas in the ST36 group were primarily centred on the bilateral limbic system (pyriform cortex), the bilateral temporal lobe (olfactory cortex), the right amygdala and the right hippocampus. Compared with the sham-point group, the ST36 group showed greater activation in the bilateral amygdalae and the left temporal lobe. CONCLUSION: We concluded that needling at a sham point or ST36 can increase blood perfusion and glycol metabolism in certain brain areas, and thus may have a positive influence on the cognition of AD patients.
+AD  - School of Traditional Chinese Medicine, Southern Medical University, Guangzhou 510515, China. nanfanglihuang@163.com.
+AN  - 24886495
+AU  - Lu, Y.
+AU  - Huang, Y.
+AU  - Tang, C.
+AU  - Shan, B.
+AU  - Cui, S.
+AU  - Yang, J.
+AU  - Chen, J.
+AU  - Lin, R.
+AU  - Xiao, H.
+AU  - Qu, S.
+AU  - Lai, X.
+C2  - PMC4107978
+DA  - May 31
+DO  - 10.1186/1472-6882-14-178
+DP  - NLM
+ET  - 20140531
+KW  - Acupuncture Points
+Acupuncture Therapy/*methods
+Alzheimer Disease/*physiopathology/*therapy
+Animals
+Brain/physiology/*physiopathology
+Disease Models, Animal
+Female
+Male
+Positron-Emission Tomography
+Rats
+Rats, Wistar
+LA  - eng
+N1  - 1472-6882
+Lu, Yangjia
+Huang, Yong
+Tang, Chunzhi
+Shan, Baoci
+Cui, Shaoyang
+Yang, Junjun
+Chen, Junqi
+Lin, Renyong
+Xiao, Huiling
+Qu, Shanshan
+Lai, Xinsheng
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2014/06/03
+BMC Complement Altern Med. 2014 May 31;14:178. doi: 10.1186/1472-6882-14-178.
+PY  - 2014
+SN  - 1472-6882
+SP  - 178
+ST  - Brain areas involved in the acupuncture treatment of AD model rats: a PET study
+T2  - BMC Complement Altern Med
+TI  - Brain areas involved in the acupuncture treatment of AD model rats: a PET study
+VL  - 14
+ID  - 50963
+ER  - 
+
+TY  - JOUR
+AB  - Stem cells have gained significant interest as a potential treatment of neurodegenerative diseases, including Huntington's disease (HD). One source of these cells is adult neural stem cells (aNSCs), which differentiate easily into neuronal lineages. However, these cells are vulnerable to immune responses following transplantation. Another source is bone-marrow-derived mesenchymal stem cells (MSCs), which release neurotrophic factors and anti-inflammatory cytokines following transplantation, and are less vulnerable to rejection. The goal of this study was to compare the efficacy of transplants of MSCs, aNSCs, or cotransplants of MSCs and aNSCs for reducing deficits in a transgenic rat model of HD. HD rats received intrastriatal transplantations of 400,000 MSCs, aNSCs, or a combination of MSCs/aNSCs, while wild-type and HD controls were given vehicle. Rats were tested on the rotarod over the course of 20 weeks. The results indicated that transplants of: (a) aNSCs produced a strong immune response and conferred short-term behavioral benefits; (b) MSCs elicited a relatively weak immune response, and provided a longer term behavioral benefit; and (c) combined MSCs and aNSCs conferred long-term behavioral benefits and increased survival of the transplanted aNSCs. The finding that cotransplanting MSCs with aNSCs can prolong aNSC survival and provide greater behavioral sparing than when the transplants contains only aNSCs suggests that MSCs are capable of creating a more suitable microenvironment for aNSC survival. This cotransplantation strategy may be useful as a future therapeutic option for treating HD, especially if long-term survival of differentiated cells proves to be critically important for preserving lasting functional outcomes.
+AD  - Department of Psychology, Central Michigan University, Mount Pleasant, Michigan, USA; Program in Neuroscience, Central Michigan University, Mount Pleasant, Michigan, USA; College of Medicine, Central Michigan University, Mount Pleasant, Michigan, USA; Field Neurosciences Institute, Saginaw, Michigan, USA.
+AN  - 23939879
+AU  - Rossignol, J.
+AU  - Fink, K.
+AU  - Davis, K.
+AU  - Clerc, S.
+AU  - Crane, A.
+AU  - Matchynski, J.
+AU  - Lowrance, S.
+AU  - Bombard, M.
+AU  - Dekorver, N.
+AU  - Lescaudron, L.
+AU  - Dunbar, G. L.
+DA  - Feb
+DO  - 10.1002/stem.1508
+DP  - NLM
+IS  - 2
+KW  - Animals
+Bone Marrow Cells/cytology
+Cell Differentiation
+*Cell- and Tissue-Based Therapy
+Disease Models, Animal
+Humans
+Huntington Disease/genetics/pathology/*therapy
+*Mesenchymal Stem Cell Transplantation
+Mesenchymal Stem Cells/cytology/metabolism
+Neural Stem Cells/*transplantation
+Rats
+Rats, Transgenic
+Mesenchymal stem cells
+Neural stem cells
+Rat model
+Stem cell microenvironment interactions
+Stem cell transplantation
+LA  - eng
+N1  - 1549-4918
+Rossignol, Julien
+Fink, Kyle
+Davis, Kendra
+Clerc, Steven
+Crane, Andrew
+Matchynski, Jessica
+Lowrance, Steven
+Bombard, Matthew
+Dekorver, Nicholas
+Lescaudron, Laurent
+Dunbar, Gary L
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2013/08/14
+Stem Cells. 2014 Feb;32(2):500-9. doi: 10.1002/stem.1508.
+PY  - 2014
+SN  - 1066-5099
+SP  - 500-9
+ST  - Transplants of adult mesenchymal and neural stem cells provide neuroprotection and behavioral sparing in a transgenic rat model of Huntington's disease
+T2  - Stem Cells
+TI  - Transplants of adult mesenchymal and neural stem cells provide neuroprotection and behavioral sparing in a transgenic rat model of Huntington's disease
+VL  - 32
+ID  - 50989
+ER  - 
+
+TY  - JOUR
+AB  - Although deep brain electrical stimulation can alleviate the motor symptoms of Parkinson disease (PD), just a small fraction of patients with PD can take advantage of this procedure due to its invasive nature. A significantly less invasive method--epidural spinal cord stimulation (SCS)--has been suggested as an alternative approach for symptomatic treatment of PD. However, the mechanisms underlying motor improvements through SCS are unknown. Here, we show that SCS reproducibly alleviates motor deficits in a primate model of PD. Simultaneous neuronal recordings from multiple structures of the cortico-basal ganglia-thalamic loop in parkinsonian monkeys revealed abnormal highly synchronized neuronal activity within each of these structures and excessive functional coupling among them. SCS disrupted this pathological circuit behavior in a manner that mimics the effects caused by pharmacological dopamine replacement therapy or deep brain stimulation. These results suggest that SCS should be considered as an additional treatment option for patients with PD.
+AD  - Edmond and Lily Safra Institute of Neuroscience of Natal, 590660 Natal, Brazil.
+Psychobiology, Federal Univ. of Rio Grande do Norte, Natal, Brazil.
+Integrative Neurophysiology and Neurotechnology, Neuronano Research Center, Department of Experimental Medical Sciences, Lund University, BMC F10, S-221 84 Lund, Sweden.
+State Univ. of Rio Grande do Norte, Natal, Brazil.
+Biomedical Engineering, Duke Univ., Durham, NC 27708, U.S.A.
+Ctr. for Neuroengineering, Duke Univ., Durham, NC 27708, U.S.A.
+Dept. of Neurobiology, Duke Univ., Durham, NC 27708, U.S.A.
+Dept. of Psychology and Neuroscience, Duke Univ., Durham, NC 27708, U.S.A.
+AN  - 25447740
+AU  - Santana, M. B.
+AU  - Halje, P.
+AU  - Simplício, H.
+AU  - Richter, U.
+AU  - Freire, M. A. M.
+AU  - Petersson, P.
+AU  - Fuentes, R.
+AU  - Nicolelis, M. A. L.
+C2  - PMC4428767
+C6  - NIHMS663470
+DA  - Nov 19
+DO  - 10.1016/j.neuron.2014.08.061
+DP  - NLM
+ET  - 20141030
+IS  - 4
+KW  - Animals
+Callithrix
+Disease Models, Animal
+Male
+Motor Activity/*physiology
+Neurons/*physiology
+Parkinson Disease/physiopathology/*therapy
+Spinal Cord/*physiopathology
+*Spinal Cord Stimulation
+Treatment Outcome
+LA  - eng
+N1  - 1097-4199
+Santana, Maxwell B
+Halje, Pär
+Simplício, Hougelle
+Richter, Ulrike
+Freire, Marco Aurelio M
+Petersson, Per
+Fuentes, Romulo
+Nicolelis, Miguel A L
+R01 NS073125/NS/NINDS NIH HHS/United States
+R01-NS073125-03/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2014/12/03
+Neuron. 2014 Nov 19;84(4):716-722. doi: 10.1016/j.neuron.2014.08.061. Epub 2014 Oct 30.
+PY  - 2014
+SN  - 0896-6273 (Print)
+0896-6273
+SP  - 716-722
+ST  - Spinal cord stimulation alleviates motor deficits in a primate model of Parkinson disease
+T2  - Neuron
+TI  - Spinal cord stimulation alleviates motor deficits in a primate model of Parkinson disease
+VL  - 84
+ID  - 50952
+ER  - 
+
+TY  - JOUR
+AB  - Neonatal stroke occurs in approximately 1/4000 live births and results in life-long neurological impairments: e.g., cerebral palsy. Currently, there is no evidence-based specific treatment for neonates with stroke. Several studies have reported the benefits of umbilical cord blood (UCB) cell treatment in rodent models of neonatal brain injury. However, all of the studies examined the effects of administering either the UCB mononuclear cell fraction or UCB-derived mesenchymal stem cells in neonatal rat models. The objective of this study was to examine the effects of human UCB CD34(+) cells (hematopoietic stem cell/endothelial progenitor cells) in a mouse model of neonatal stroke, which we recently developed. On postnatal day 12, immunocompromized (SCID) mice underwent permanent occlusion of the left middle cerebral artery (MCAO). Forty-eight hours after MCAO, human UCB CD34(+) cells (1×10(5)cells) were injected intravenously into the mice. The area in which cerebral blood flow (CBF) was maintained was temporarily larger in the cell-treated group than in the phosphate-buffered saline (PBS)-treated group at 24h after treatment. With cell treatment, the percent loss of ipsilateral hemispheric volume was significantly ameliorated (21.5±1.9%) compared with the PBS group (25.6±5.1%) when assessed at 7weeks after MCAO. The cell-treated group did not exhibit significant differences from the PBS group in either rotarod (238±46s in the sham-surgery group, 175±49s in the PBS group, 203±54s in the cell-treated group) or open-field tests. The intravenous administration of human UCB CD34(+) cells modestly reduced histological ischemic brain damage after neonatal stroke in mice, with a transient augmentation of CBF in the peri-infarct area.
+AD  - Department of Regenerative Medicine and Tissue Engineering, National Cerebral and Cardiovascular Center Research Institute, 5-7-1, Fujishiro-dai, Suita, Osaka 565-8565, Japan. Electronic address: tsuji.masahiro.ri@ncvc.go.jp.
+Department of Regenerative Medicine and Tissue Engineering, National Cerebral and Cardiovascular Center Research Institute, 5-7-1, Fujishiro-dai, Suita, Osaka 565-8565, Japan; Department of Regenerative Medicine Research, Institute of Biomedical Research and Innovation, 2-2, Minami-machi, Minatojima, Chuo-ku, Kobe 650-0047, Japan. Electronic address: taguchi@fbri.org.
+Department of Regenerative Medicine and Tissue Engineering, National Cerebral and Cardiovascular Center Research Institute, 5-7-1, Fujishiro-dai, Suita, Osaka 565-8565, Japan. Electronic address: oshima.makiko.ri@ncvc.go.jp.
+Department of Regenerative Medicine Research, Institute of Biomedical Research and Innovation, 2-2, Minami-machi, Minatojima, Chuo-ku, Kobe 650-0047, Japan.
+Division of Neonatology, Center for Maternal-Neonatal Care, Nagoya University Hospital, 65 Tsurumai-cho, Showa-ku, Nagoya 466-8560, Japan.
+Department of Regenerative Medicine and Tissue Engineering, National Cerebral and Cardiovascular Center Research Institute, 5-7-1, Fujishiro-dai, Suita, Osaka 565-8565, Japan.
+Department of Regenerative Medicine and Tissue Engineering, National Cerebral and Cardiovascular Center Research Institute, 5-7-1, Fujishiro-dai, Suita, Osaka 565-8565, Japan; Department of Neurology, National Cerebral and Cardiovascular Center Research Institute, 5-7-1, Fujishiro-dai, Suita, Osaka 565-8565, Japan.
+Department of Obstetrics and Gynecology, Mie University School of Medicine, 2-174, Edobashi, Tsu, Mie 514-8507, Japan. Electronic address: t-ikeda@clin.medic.mie-u.ac.jp.
+Laboratory of Neurogenesis and CNS Repair, Institute for Advanced Medical Science, Hyogo College of Medicine, 1-1, Mukogawacho, Nishinomiya, Hyogo 663-8501, Japan. Electronic address: tomohiro@hyo-med.ac.jp.
+AN  - 24444827
+AU  - Tsuji, M.
+AU  - Taguchi, A.
+AU  - Ohshima, M.
+AU  - Kasahara, Y.
+AU  - Sato, Y.
+AU  - Tsuda, H.
+AU  - Otani, K.
+AU  - Yamahara, K.
+AU  - Ihara, M.
+AU  - Harada-Shiba, M.
+AU  - Ikeda, T.
+AU  - Matsuyama, T.
+DA  - Mar 28
+DO  - 10.1016/j.neuroscience.2014.01.018
+DP  - NLM
+ET  - 20140118
+KW  - Administration, Intravenous
+Animals
+Animals, Newborn
+Antigens, CD34/*metabolism
+Cerebral Cortex/blood supply/pathology
+*Cord Blood Stem Cell Transplantation
+Disease Models, Animal
+Female
+Humans
+Male
+Mice
+Rotarod Performance Test
+Stroke/*therapy
+CD34(+) cell
+brain injury
+cell-based therapy
+neonatal encephalopathy
+neonatal stroke
+umbilical cord blood
+LA  - eng
+N1  - 1873-7544
+Tsuji, M
+Taguchi, A
+Ohshima, M
+Kasahara, Y
+Sato, Y
+Tsuda, H
+Otani, K
+Yamahara, K
+Ihara, M
+Harada-Shiba, M
+Ikeda, T
+Matsuyama, T
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2014/01/22
+Neuroscience. 2014 Mar 28;263:148-58. doi: 10.1016/j.neuroscience.2014.01.018. Epub 2014 Jan 18.
+PY  - 2014
+SN  - 0306-4522
+SP  - 148-58
+ST  - Effects of intravenous administration of umbilical cord blood CD34(+) cells in a mouse model of neonatal stroke
+T2  - Neuroscience
+TI  - Effects of intravenous administration of umbilical cord blood CD34(+) cells in a mouse model of neonatal stroke
+VL  - 263
+ID  - 50954
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND PURPOSE: To investigate if cranial X-irradiation reduces amyloid-β (Aβ) plaques and influences cognitive function in a transgenic mouse model of AD. METHODS AND MATERIALS: B6.Cg-Tg (APPswePSEN1dE9)85Dbo/J AD-prone mice were given cranial X-irradiation. The number of Aβ plaques, along with expression of AD specific genes (84 genes: Mouse Alzheimer's Disease RT(2) Profiler), radiation-associated cytokines (Milliplex MAP Mouse Cytokine Chemokine Immunoassay) and immunohistochemistry (IL10, IL-1β, Iba1 CD45) was assessed. Behavioral testing was performed to relate changes in Aβ burden to cognitive function using a Morris water-maze task. RESULTS: Single X-ray doses reduced the number (p=0.002) and size (p=0.01) of Aβ plaques. Low-dose fractionation produced greater 50.6% (1 Gy × 10), 72% (2 Gy × 5) and 78% (2 Gy × 10) reductions. Irradiation was associated with gene (Pkp4, 1.5-fold, p=0.004) and proteomic (MIP-2, 8-fold, p=0.0024) changes at 24-48 h. Microglia increased at 4 weeks post-irradiation (p=0.001). The reduction in Aβ burden (2 Gy × 5) was associated with cognitive improvement (p=0.012). CONCLUSION: This is the first report that a clinically relevant course of external beam irradiation (2 Gy × 5) produces a significant reduction in AD-associated amyloid-β plaques with a subsequent improvement in cognitive function. However, longer-term studies are needed to define the precise underlying mechanism and longevity of this response.
+AD  - Department of Radiation Oncology, William Beaumont Hospital, Royal Oak, USA. Electronic address: BRIAN.MARPLES@BEAUMONT.EDU.
+Department of Radiation Oncology, William Beaumont Hospital, Royal Oak, USA.
+Department of Psychology, Wayne State University, Detroit, USA.
+Beaumont BioBank and Erb Family Core Molecular Laboratories, William Beaumont Hospital, Royal Oak, USA.
+Beaumont Neurosurgery, William Beaumont Hospital and Michigan Head and Spine Institute, Royal Oak, USA.
+Division of Geriatric Medicine, William Beaumont Hospital and Department of Internal Medicine, Oakland University-William Beaumont School of Medicine, Royal Oak, USA.
+AN  - 26615717
+AU  - Marples, B.
+AU  - McGee, M.
+AU  - Callan, S.
+AU  - Bowen, S. E.
+AU  - Thibodeau, B. J.
+AU  - Michael, D. B.
+AU  - Wilson, G. D.
+AU  - Maddens, M. E.
+AU  - Fontanesi, J.
+AU  - Martinez, A. A.
+DA  - Jan
+DO  - 10.1016/j.radonc.2015.10.019
+DP  - NLM
+ET  - 20151123
+IS  - 1
+KW  - Alzheimer Disease/*radiotherapy
+Animals
+Behavior, Animal/*radiation effects
+Brain/*radiation effects
+Cognition/*radiation effects
+Cranial Irradiation/*methods
+Disease Models, Animal
+Male
+Mice
+Mice, Transgenic
+Plaque, Amyloid/*radiotherapy
+Amyloid-β
+Murine model
+Plaque clearance
+Radiation
+LA  - eng
+N1  - 1879-0887
+Marples, Brian
+McGee, Mackenzie
+Callan, Sean
+Bowen, Scott E
+Thibodeau, Bryan J
+Michael, Daniel B
+Wilson, George D
+Maddens, Michael E
+Fontanesi, James
+Martinez, Alvaro A
+Journal Article
+Research Support, Non-U.S. Gov't
+Ireland
+2015/12/01
+Radiother Oncol. 2016 Jan;118(1):43-51. doi: 10.1016/j.radonc.2015.10.019. Epub 2015 Nov 23.
+PY  - 2016
+SN  - 0167-8140
+SP  - 43-51
+ST  - Cranial irradiation significantly reduces beta amyloid plaques in the brain and improves cognition in a murine model of Alzheimer's Disease (AD)
+T2  - Radiother Oncol
+TI  - Cranial irradiation significantly reduces beta amyloid plaques in the brain and improves cognition in a murine model of Alzheimer's Disease (AD)
+VL  - 118
+ID  - 50981
+ER  - 
+
+TY  - JOUR
+AB  - We have reported previously that intracranial application of near-infrared light (NIr) - when delivered at the lower doses of 25J and 35J - reduces clinical signs and offers neuroprotection in a subacute MPTP (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine) monkey model of Parkinson's disease. In this study, we explored whether a higher NIr dose (125J) generated beneficial effects in the same MPTP monkey model (n=15). We implanted an NIr (670nm) optical fibre device within a midline region of the midbrain in macaque monkeys, close to the substantia nigra of both sides. MPTP injections (1.8-2.1mg/kg) were made over a five day period, during which time the NIr device was turned on and left on continuously throughout the ensuing three week survival period. Monkeys were evaluated clinically and their brains processed for immunohistochemistry and stereology. Our results showed that the higher NIr dose did not have any toxic impact on cells at the midbrain implant site. Further, this NIr dose resulted in a higher number of nigral tyrosine hydroxylase immunoreactive cells when compared to the MPTP group. However, the higher NIr dose monkeys showed little evidence for an increase in mean clinical score, number of nigral Nissl-stained cells and density of striatal tyrosine hydroxylase terminations. In summary, the higher NIr dose of 125J was not as beneficial to MPTP-treated monkeys as compared to the lower doses of 25J and 35J, boding well for strategies of NIr dose delivery and device energy consumption in a future clinical trial.
+AD  - CLINATEC, EJ Safra Centre, CEA, LETI, University of Grenoble, Alpes F38000, France. Electronic address: cecile.moro@cea.fr.
+Dept of Anatomy F13, University of Sydney, 2006, Australia. Electronic address: nabil.elmassri@sydney.edu.au.
+CLINATEC, EJ Safra Centre, CEA, LETI, University of Grenoble, Alpes F38000, France. Electronic address: fannie.darlot@cea.fr.
+CLINATEC, EJ Safra Centre, CEA, LETI, University of Grenoble, Alpes F38000, France. Electronic address: napoleon.torres@cea.fr.
+CLINATEC, EJ Safra Centre, CEA, LETI, University of Grenoble, Alpes F38000, France. Electronic address: cl.chabrol@cea.fr.
+CLINATEC, EJ Safra Centre, CEA, LETI, University of Grenoble, Alpes F38000, France. Electronic address: diane.agay@cea.fr.
+CLINATEC, EJ Safra Centre, CEA, LETI, University of Grenoble, Alpes F38000, France. Electronic address: vincent.auboiroux@cea.fr.
+Dept of Physiology F13, University of Sydney, 2006, Australia. Electronic address: daniel.johnstone@sydney.edu.au.
+Dept of Physiology F13, University of Sydney, 2006, Australia. Electronic address: jonathan.stone@sydney.edu.au.
+Dept of Anatomy F13, University of Sydney, 2006, Australia. Electronic address: john.mitrofanis@sydney.edu.au.
+CLINATEC, EJ Safra Centre, CEA, LETI, University of Grenoble, Alpes F38000, France. Electronic address: alimlouis@sfr.fr.
+AN  - 27396907
+AU  - Moro, C.
+AU  - El Massri, N.
+AU  - Darlot, F.
+AU  - Torres, N.
+AU  - Chabrol, C.
+AU  - Agay, D.
+AU  - Auboiroux, V.
+AU  - Johnstone, D. M.
+AU  - Stone, J.
+AU  - Mitrofanis, J.
+AU  - Benabid, A. L.
+DA  - Oct 1
+DO  - 10.1016/j.brainres.2016.07.005
+DP  - NLM
+ET  - 20160707
+IS  - Pt A
+KW  - 1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine/pharmacology
+Animals
+Disease Models, Animal
+Dopamine/pharmacology
+Dopaminergic Neurons/drug effects
+Dose-Response Relationship, Radiation
+Haplorhini
+Infrared Rays/*therapeutic use
+Low-Level Light Therapy
+MPTP Poisoning
+Macaca
+Mesencephalon/drug effects
+Neostriatum/metabolism
+Neuroprotection/physiology
+Parkinson Disease/prevention & control/*therapy
+Parkinsonian Disorders
+Phototherapy/*methods
+Substantia Nigra/drug effects
+670nm
+Behaviour
+Mptp
+Macaque monkeys
+Substantia nigra
+Tyrosine hydroxylase
+LA  - eng
+N1  - 1872-6240
+Moro, Cécile
+El Massri, Nabil
+Darlot, Fannie
+Torres, Napoleon
+Chabrol, Claude
+Agay, Diane
+Auboiroux, Vincent
+Johnstone, Daniel M
+Stone, Jonathan
+Mitrofanis, John
+Benabid, Alim-Louis
+Journal Article
+Netherlands
+2016/07/12
+Brain Res. 2016 Oct 1;1648(Pt A):19-26. doi: 10.1016/j.brainres.2016.07.005. Epub 2016 Jul 7.
+PY  - 2016
+SN  - 0006-8993
+SP  - 19-26
+ST  - Effects of a higher dose of near-infrared light on clinical signs and neuroprotection in a monkey model of Parkinson's disease
+T2  - Brain Res
+TI  - Effects of a higher dose of near-infrared light on clinical signs and neuroprotection in a monkey model of Parkinson's disease
+VL  - 1648
+ID  - 50971
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To clarify the effects of 3-h hypothermia on learning ability and motor function after growth, employing neonatal rat models with hyperthermic hypoxic-ischemic encephalopathy (HIE). METHODS: We divided all rats into three groups: N (adult rats after neonatal hyperthermic HIE without subsequent 3-h hypothermia), H (adult rats after neonatal hyperthermic HIE with subsequent 3-h hypothermia) and Sham (S) groups. We evaluated their malfunctions with the rota-rod test and the step-down passive avoidance test. We also analyzed the cerebrum width and the hippocampal CA1 area of the insulted hemisphere. RESULTS: In the rota-rod test, the result of the N group was significantly worse than that of the S group. In the step-down passive avoidance test, the result of the N group was significantly worse than those of the S and H groups. The longest cerebrum width and the hippocampal CA1 area of the insulted hemisphere of the N group were significantly smaller than those of the S and H groups. CONCLUSION: Neonatal hyperthermic hypoxic-ischemic insult restricts motor function and learning ability after growth, and such neuronal malfunctions can be relieved by hypothermia for 3 h soon after neonatal HIE.
+AD  - a Department of Biomedical Engineering , Graduate School of Osaka Electro-Communication University , Osaka , Japan.
+AN  - 26465711
+AU  - Nishimura, Y.
+AU  - Hosono, T.
+DA  - Sep
+DO  - 10.3109/14767058.2015.1103223
+DP  - NLM
+ET  - 20151123
+IS  - 17
+KW  - Animals
+Animals, Newborn
+Avoidance Learning
+CA1 Region, Hippocampal/pathology
+Disease Models, Animal
+Growth
+*Hypothermia, Induced
+Hypoxia-Ischemia, Brain/pathology/psychology/*therapy
+Learning
+Motor Activity
+Rats, Wistar
+Rotarod Performance Test
+Hyperthermia
+hypothermia
+neonatal hypoxic-ischemic encephalopathy
+rota-rod test
+step-down passive avoidance test
+LA  - eng
+N1  - 1476-4954
+Nishimura, Yukako
+Hosono, Takayoshi
+Journal Article
+England
+2015/10/16
+J Matern Fetal Neonatal Med. 2016 Sep;29(17):2762-6. doi: 10.3109/14767058.2015.1103223. Epub 2015 Nov 23.
+PY  - 2016
+SN  - 1476-4954
+SP  - 2762-6
+ST  - Effects of 3-h hypothermia after neonatal hyperthermic hypoxic-ischemic encephalopathy in rat models on behavioral prognosis and anatomical and histological features after growth
+T2  - J Matern Fetal Neonatal Med
+TI  - Effects of 3-h hypothermia after neonatal hyperthermic hypoxic-ischemic encephalopathy in rat models on behavioral prognosis and anatomical and histological features after growth
+VL  - 29
+ID  - 50947
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Cortical stimulation (CS) combined with rehabilitative training (RT) has proven effective for enhancing poststroke functional recovery in rats, but human clinical trials have had mixed outcomes. OBJECTIVE: To assess the efficacy of CS/RT versus RT in a nonhuman primate model of cortical ischemic stroke. METHODS: Squirrel monkeys learned a pellet retrieval task, then received an infarct to the distal forelimb (DFL) representation of primary motor cortex. A subdural monopolar electrode was implanted over the spared DFL representation in dorsal premotor cortex (PMD). Seven weeks postinfarct, monkeys underwent 4 to 6 weeks of RT (n = 8) or CS/RT (n = 7; 100 Hz, cathodal current) therapy. Behavioral performance was assessed before and after infarct, prior to therapy, and 1 and 12 weeks posttherapy (follow-up). The primary outcome measure was motor performance at 1 week posttherapy. Secondary outcomes included follow-up performance at 12 weeks and treatment-related changes in neurophysiological maps of spared DFL representations. RESULTS: While postinfarct performance deficits were found in all monkeys, both groups demonstrated similar recovery profiles, with no difference in motor recovery between the RT and CS/RT groups. Posttherapy, PMD DFL area was significantly expanded in the RT group but not the CS/RT group. A significant relationship was found between motor recovery and DFL expansion in premotor cortex. CONCLUSIONS: Results suggest that the specific parameters utilized here were not optimal for promoting behavioral recovery in nonhuman primates. Though CS/RT has consistently shown efficacy in rat stroke models, the present finding has cautionary implications for translation of CS/RT therapy to clinical populations.
+AD  - University of Texas Southwestern Medical Center, Dallas, TX, USA erik.plautz@utsouthwestern.edu.
+University of Kansas Medical Center, Kansas City, KS, USA.
+Massasoit Community College, Brockton, MA, USA.
+University of Texas Southwestern Medical Center, Dallas, TX, USA.
+University of Montreal, Montreal, Quebec, Canada.
+AN  - 26704255
+AU  - Plautz, E. J.
+AU  - Barbay, S.
+AU  - Frost, S. B.
+AU  - Zoubina, E. V.
+AU  - Stowe, A. M.
+AU  - Dancause, N.
+AU  - Eisner-Janowicz, I.
+AU  - Bury, S. D.
+AU  - Taylor, M. D.
+AU  - Nudo, R. J.
+C2  - PMC4732886
+C6  - NIHMS736382
+DA  - Feb
+DO  - 10.1177/1545968315619701
+DP  - NLM
+ET  - 20151223
+IS  - 2
+KW  - Animals
+Behavior, Animal
+Brain Ischemia/rehabilitation/*therapy
+Disease Models, Animal
+Electric Stimulation Therapy/*methods/standards
+Female
+Male
+Motor Cortex/*physiopathology
+Neuronal Plasticity/physiology
+Recovery of Function/*physiology
+Saimiri
+Stroke/*therapy
+Stroke Rehabilitation
+implanted stimulation electrodes
+neuronal plasticity
+premotor cortex
+primary motor cortex
+primate
+LA  - eng
+N1  - 1552-6844
+Plautz, Erik J
+Barbay, Scott
+Frost, Shawn B
+Zoubina, Elena V
+Stowe, Ann M
+Dancause, Numa
+Eisner-Janowicz, Ines
+Bury, Scott D
+Taylor, Michael D
+Nudo, Randolph J
+HD02528/HD/NICHD NIH HHS/United States
+NS48126/NS/NINDS NIH HHS/United States
+NS30853/NS/NINDS NIH HHS/United States
+R01 NS030853/NS/NINDS NIH HHS/United States
+U54 NS048126/NS/NINDS NIH HHS/United States
+R37 NS030853/NS/NINDS NIH HHS/United States
+P30 HD002528/HD/NICHD NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2015/12/26
+Neurorehabil Neural Repair. 2016 Feb;30(2):159-72. doi: 10.1177/1545968315619701. Epub 2015 Dec 23.
+PY  - 2016
+SN  - 1545-9683 (Print)
+1545-9683
+SP  - 159-72
+ST  - Effects of Subdural Monopolar Cortical Stimulation Paired With Rehabilitative Training on Behavioral and Neurophysiological Recovery After Cortical Ischemic Stroke in Adult Squirrel Monkeys
+T2  - Neurorehabil Neural Repair
+TI  - Effects of Subdural Monopolar Cortical Stimulation Paired With Rehabilitative Training on Behavioral and Neurophysiological Recovery After Cortical Ischemic Stroke in Adult Squirrel Monkeys
+VL  - 30
+ID  - 50977
+ER  - 
+
+TY  - JOUR
+AB  - Most studies targeting chronic spinal cord injury (SCI) have concluded that neural stem/progenitor cell (NS/PC) transplantation exerts only a subclinical recovery; this in contrast to its remarkable effect on acute and subacute SCI. To determine whether the addition of rehabilitative intervention enhances the effect of NS/PC transplantation for chronic SCI, we used thoracic SCI mouse models to compare manifestations secondary to both transplantation and treadmill training, and the two therapies combined, with a control group. Significant locomotor recovery in comparison with the control group was only achieved in the combined therapy group. Further investigation revealed that NS/PC transplantation improved spinal conductivity and central pattern generator activity, and that treadmill training promoted the appropriate inhibitory motor control. The combined therapy enhanced these independent effects of each single therapy, and facilitated neuronal differentiation of transplanted cells and maturation of central pattern generator activity synergistically. Our data suggest that rehabilitative treatment represents a therapeutic option for locomotor recovery after NS/PC transplantation, even in chronic SCI.
+AD  - Department of Rehabilitation Medicine, Keio University School of Medicine, Tokyo, Japan.
+Department of Orthopaedic Surgery, Keio University School of Medicine, Tokyo, Japan.
+Department of Physiology, Keio University School of Medicine, Tokyo, Japan.
+Department of Neuroscience, City College of the City University of New York, NY, USA.
+AN  - 27485458
+AU  - Tashiro, S.
+AU  - Nishimura, S.
+AU  - Iwai, H.
+AU  - Sugai, K.
+AU  - Zhang, L.
+AU  - Shinozaki, M.
+AU  - Iwanami, A.
+AU  - Toyama, Y.
+AU  - Liu, M.
+AU  - Okano, H.
+AU  - Nakamura, M.
+C1  - The authors declare the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: H. Okano is a scientific consultant for SanBio Co., Ltd (Japan), Eisai Co., Ltd (Japan), and Daiichi Sankyo Co., Ltd (Japan). The remaining authors report no conflicts of interest.
+C2  - PMC4971501
+DA  - Aug 3
+DO  - 10.1038/srep30898
+DP  - NLM
+ET  - 20160803
+KW  - Animals
+Cell Differentiation
+Cells, Cultured
+Combined Modality Therapy
+*Disease Models, Animal
+Female
+Mice
+Mice, Inbred C57BL
+Neural Stem Cells/*cytology
+Physical Conditioning, Animal/*methods
+Recovery of Function/*physiology
+Spinal Cord Injuries/rehabilitation/*therapy
+*Stem Cell Transplantation
+LA  - eng
+N1  - 2045-2322
+Tashiro, Syoichi
+Nishimura, Soraya
+Iwai, Hiroki
+Sugai, Keiko
+Zhang, Liang
+Shinozaki, Munehisa
+Iwanami, Akio
+Toyama, Yoshiaki
+Liu, Meigen
+Okano, Hideyuki
+Nakamura, Masaya
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2016/08/04
+Sci Rep. 2016 Aug 3;6:30898. doi: 10.1038/srep30898.
+PY  - 2016
+SN  - 2045-2322
+SP  - 30898
+ST  - Functional Recovery from Neural Stem/Progenitor Cell Transplantation Combined with Treadmill Training in Mice with Chronic Spinal Cord Injury
+T2  - Sci Rep
+TI  - Functional Recovery from Neural Stem/Progenitor Cell Transplantation Combined with Treadmill Training in Mice with Chronic Spinal Cord Injury
+VL  - 6
+ID  - 50951
+ER  - 
+
+TY  - JOUR
+AB  - The impact of human adult ischemia-tolerant mesenchymal stem cells (hMSCs) and factors (stem cell factors) on cerebral amyloid beta (Aβ) pathology was investigated in a mouse model of Alzheimer's disease (AD). To this end, hMSCs were administered intravenously to APPPS1 transgenic mice that normally develop cerebral Aβ. Quantitative reverse transcriptase polymerase chain reaction biodistribution revealed that intravenously delivered hMSCs were readily detected in APPPS1 brains 1 hour following administration, and dropped to negligible levels after 1 week. Notably, intravenously injected hMSCs that migrated to the brain region were localized in the cerebrovasculature, but they also could be observed in the brain parenchyma particularly in the hippocampus, as revealed by immunohistochemistry. A single hMSC injection markedly reduced soluble cerebral Aβ levels in APPPS1 mice after 1 week, although increasing several Aβ-degrading enzymes and modulating a panel of cerebral cytokines, suggesting an amyloid-degrading and anti-inflammatory impact of hMSCs. Furthermore, 10 weeks of hMSC treatment significantly reduced cerebral Aβ plaques and neuroinflammation in APPPS1 mice, without increasing cerebral amyloid angiopathy or microhemorrhages. Notably, a repeated intranasal delivery of soluble factors secreted by hMSCs in culture, in the absence of intravenous hMSC injection, was also sufficient to diminish cerebral amyloidosis in the mice. In conclusion, this preclinical study strongly underlines that cerebral amyloidosis is amenable to therapeutic intervention based on peripheral applications of hMSC or hMSC factors, paving the way for a novel therapy for Aβ amyloidosis and associated pathologies observed in AD.
+AD  - Laboratoire d'optique Biomédicale, School of Engineering, Ecole Polytechnique fédérale de Lausanne, Lausanne, Switzerland.
+Stemedica International, Lausanne, Switzerland.
+Laboratoire d'optique Biomédicale, School of Engineering, Ecole Polytechnique fédérale de Lausanne, Lausanne, Switzerland; Stemedica International, Lausanne, Switzerland.
+Laboratoire d'optique Biomédicale, School of Engineering, Ecole Polytechnique fédérale de Lausanne, Lausanne, Switzerland; Stemedica International, Lausanne, Switzerland. Electronic address: tristan.bolmont@epfl.ch.
+AN  - 28056358
+AU  - Harach, T.
+AU  - Jammes, F.
+AU  - Muller, C.
+AU  - Duthilleul, N.
+AU  - Cheatham, V.
+AU  - Zufferey, V.
+AU  - Cheatham, D.
+AU  - Lukasheva, Y. A.
+AU  - Lasser, T.
+AU  - Bolmont, T.
+DA  - Mar
+DO  - 10.1016/j.neurobiolaging.2016.11.009
+DP  - NLM
+ET  - 20161124
+KW  - Alzheimer Disease/*etiology/*therapy
+Amyloid beta-Peptides/*metabolism
+Animals
+Brain/*metabolism
+Cell Movement
+Cells, Cultured
+Cytokines/metabolism
+Disease Models, Animal
+Hippocampus/metabolism
+Humans
+Inflammation Mediators/metabolism
+Injections, Intravenous
+Mesenchymal Stem Cell Transplantation/*methods
+Mice, Transgenic
+*Molecular Targeted Therapy
+Alzheimer's disease
+Cerebral Abeta amyloidosis
+Human adult ischemia-tolerant mesenchymal stem cells
+Intranasal application
+Intravenous delivery
+Stem cell factors
+Transgenic mice
+LA  - eng
+N1  - 1558-1497
+Harach, Taoufiq
+Jammes, Fabien
+Muller, Charles
+Duthilleul, Nicolas
+Cheatham, Victoria
+Zufferey, Valentin
+Cheatham, David
+Lukasheva, Yelizaveta A
+Lasser, Theo
+Bolmont, Tristan
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2017/01/06
+Neurobiol Aging. 2017 Mar;51:83-96. doi: 10.1016/j.neurobiolaging.2016.11.009. Epub 2016 Nov 24.
+PY  - 2017
+SN  - 0197-4580
+SP  - 83-96
+ST  - Administrations of human adult ischemia-tolerant mesenchymal stem cells and factors reduce amyloid beta pathology in a mouse model of Alzheimer's disease
+T2  - Neurobiol Aging
+TI  - Administrations of human adult ischemia-tolerant mesenchymal stem cells and factors reduce amyloid beta pathology in a mouse model of Alzheimer's disease
+VL  - 51
+ID  - 50974
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Despite clinical reports of poor outcomes, the degree to which resuscitative endovascular balloon occlusion of the aorta (REBOA) exacerbates traumatic brain injury (TBI) is not known. We hypothesized that combined effects of increased proximal mean arterial pressure (pMAP), carotid blood flow (Qcarotid), and intracranial pressure (ICP) from REBOA would lead to TBI progression compared with partial aortic occlusion (PAO) or no intervention. METHODS: Twenty-one swine underwent a standardized TBI via computer Controlled cortical impact followed by 25% total blood volume rapid hemorrhage. After 30 minutes of hypotension, animals were randomized to 60 minutes of continued hypotension (Control), REBOA, or PAO. REBOA and PAO animals were then weaned from occlusion. All animals were resuscitated with shed blood via a rapid blood infuser. Physiologic parameters were recorded continuously and brain computed tomography obtained at specified intervals. RESULTS: There were no differences in baseline physiology or during the initial 30 minutes of hypotension. During the 60-minute intervention period, REBOA resulted in higher maximal pMAP (REBOA, 105.3 ± 8.8; PAO, 92.7 ± 9.2; Control, 48.9 ± 7.7; p = 0.02) and higher Qcarotid (REBOA, 673.1 ± 57.9; PAO, 464.2 ± 53.0; Control, 170.3 ± 29.4; p < 0.01). Increases in ICP were greatest during blood resuscitation, with Control animals demonstrating the largest peak ICP (Control, 12.8 ± 1.2; REBOA, 5.1 ± 0.6; PAO, 9.4 ± 1.1; p < 0.01). There were no differences in the percentage of animals with hemorrhage progression on CT (Control, 14.3%; 95% confidence interval [CI], 3.6-57.9; REBOA, 28.6%; 95% CI, 3.7-71.0; and PAO, 28.6%; 95% CI, 3.7-71.0). CONCLUSION: In an animal model of TBI and shock, REBOA increased Qcarotid and pMAP, but did not exacerbate TBI progression. PAO resulted in physiology closer to baseline with smaller increases in ICP and pMAP. Rapid blood resuscitation, not REBOA, resulted in the largest increase in ICP after intervention, which occurred in Control animals. Continued studies of the cerebral hemodynamics of aortic occlusion and blood transfusion are required to determine optimal resuscitation strategies for multi-injured patients.
+AD  - From the Department of Emergency Medicine, UC Davis Medical Center, Sacramento, California (M.A.J.); Clinical Investigation Facility, David Grant Medical Center, Travis Air Force Base, California (M.A.J., T.K.W., S.-A.E.F., A.J.D., R.M.R., J.K.G., L.P.N.), Heart, Lung and Vascular Center, David Grant Medical Center, Travis Air Force Base, California (T.K.W.); Department of Surgery, UC Davis Medical Center, Sacramento, California (S.-A.E.F., A.J.D., R.M.R., J.M.G.); Department of Surgery, Wright State University Boonshoft School of Medicine, Miami Valley Hospital, Dayton, Ohio (S.-A.E.F.); Department of Radiology, David Grant Medical Center, Travis Air Force Base, California (W.T.O.S.); and Division of Pediatric Surgery, Department of Surgery, Emory University School of Medicine, Atlanta, Georgia (L.P.N.).
+AN  - 28632582
+AU  - Johnson, M. A.
+AU  - Williams, T. K.
+AU  - Ferencz, S. E.
+AU  - Davidson, A. J.
+AU  - Russo, R. M.
+AU  - O'Brien, W. T., Sr.
+AU  - Galante, J. M.
+AU  - Grayson, J. K.
+AU  - Neff, L. P.
+C1  - Conflicts of Interest: There are no personal conflicts of interest.
+C2  - PMC5505178
+C6  - NIHMS867781
+DA  - Jul
+DO  - 10.1097/ta.0000000000001518
+DP  - NLM
+IS  - 1
+KW  - Animals
+Aorta, Thoracic
+Balloon Occlusion/*methods
+*Blood Transfusion
+Brain Injuries, Traumatic/*complications
+Disease Models, Animal
+Disease Progression
+Hemodynamics
+Hemorrhage/*complications/*therapy
+Random Allocation
+Resuscitation/*methods
+Swine
+Tomography, X-Ray Computed
+LA  - eng
+N1  - 2163-0763
+Johnson, M Austin
+Williams, Timothy K
+Ferencz, Sarah-Ashley E
+Davidson, Anders J
+Russo, Rachel M
+O'Brien, William T Sr
+Galante, Joseph M
+Grayson, J Kevin
+Neff, Lucas P
+K12 HL108964/HL/NHLBI NIH HHS/United States
+TL1 TR000133/TR/NCATS NIH HHS/United States
+UL1 TR000002/TR/NCATS NIH HHS/United States
+UL1 TR001860/TR/NCATS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+2017/06/21
+J Trauma Acute Care Surg. 2017 Jul;83(1):61-70. doi: 10.1097/TA.0000000000001518.
+PY  - 2017
+SN  - 2163-0755 (Print)
+2163-0755
+SP  - 61-70
+ST  - The effect of resuscitative endovascular balloon occlusion of the aorta, partial aortic occlusion and aggressive blood transfusion on traumatic brain injury in a swine multiple injuries model
+T2  - J Trauma Acute Care Surg
+TI  - The effect of resuscitative endovascular balloon occlusion of the aorta, partial aortic occlusion and aggressive blood transfusion on traumatic brain injury in a swine multiple injuries model
+VL  - 83
+ID  - 50942
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Hemorrhagic stroke accounts for approximately 15% of all stroke cases, and is associated with high morbidity and mortality. Limited human studies suggested that scalp acupuncture could facilitate functional recovery after cerebral hemorrhage. In the current study, we used an animal model of cerebral hemorrhage to examine the potential effects of scalp acupuncture. METHODS: Adult male Sprague-Dawley rats received autologous blood (50μL) into the right caudate nucleus on the right side under pentobarbital anesthesia, and then received scalp acupuncture (DU20 through GB7 on the lesion side) or sham acupuncture (1cm to the right side of the acupoints) (n=10 per group). A group of rats receiving autologous blood into the caudate nucleus but no other intervention, as well as a group of rats receiving anesthesia but no blood injection to the brain (n=10 per group) were included as additional controls. Composite neuroscore, corner turn test, forelimb placing test, wire hang task and beam walking were used to evaluate the behavior of rats. Hematoxylin and Eosin (HE) staining was used to observe the histopathological changes. Western blot was used to detect the content of tumor necrosis factor alpha (TNF-α) and nuclear factor-KappaB (NFκB) protein expression. RESULTS: Scalp acupuncture attenuated neurological deficits (p<0.01 or <0.05 vs. sham acupuncture using a variety of behavioral tests) at 1-7days after the treatment. The brain content of TNF-α and NFκB was decreased (p<0.01 for both). CONCLUSIONS: Scalp acupuncture could improve neurological deficits in a rat model of hemorrhagic stroke.
+AD  - Heilongjiang University of Chinese Medicine, Harbin, Heilongjiang Province, China.
+First Affiliated Hospital, Heilongjiang University of Chinese Medicine, Harbin, Heilongjiang Province, China.
+First Affiliated Hospital, Heilongjiang University of Chinese Medicine, Harbin, Heilongjiang Province, China. Electronic address: weizou1965@aliyun.com.
+AN  - 28619309
+AU  - Liu, H.
+AU  - Sun, X.
+AU  - Zou, W.
+AU  - Leng, M.
+AU  - Zhang, B.
+AU  - Kang, X.
+AU  - He, T.
+AU  - Wang, H.
+DA  - Jun
+DO  - 10.1016/j.ctim.2017.03.014
+DP  - NLM
+ET  - 20170419
+KW  - *Acupuncture Therapy
+Animals
+Behavior, Animal/physiology
+Cerebral Hemorrhage/*complications
+Cognitive Dysfunction/etiology/*therapy
+Disease Models, Animal
+Male
+Rats
+Rats, Sprague-Dawley
+Scalp/*physiology
+Stroke/*complications
+Hemorrhagic stroke
+Neurological deficit
+Scalp acupuncture
+LA  - eng
+N1  - 1873-6963
+Liu, Hao
+Sun, Xiaowei
+Zou, Wei
+Leng, Mengtong
+Zhang, Beng
+Kang, Xiaoyu
+He, Tao
+Wang, Hui
+Journal Article
+Scotland
+2017/06/18
+Complement Ther Med. 2017 Jun;32:85-90. doi: 10.1016/j.ctim.2017.03.014. Epub 2017 Apr 19.
+PY  - 2017
+SN  - 0965-2299
+SP  - 85-90
+ST  - Scalp acupuncture attenuates neurological deficits in a rat model of hemorrhagic stroke
+T2  - Complement Ther Med
+TI  - Scalp acupuncture attenuates neurological deficits in a rat model of hemorrhagic stroke
+VL  - 32
+ID  - 50966
+ER  - 
+
+TY  - JOUR
+AB  - Traumatic brain injury (TBI) is to date one of the major critical conditions causing death and disability worldwide. Exogenous neural stem/precursor cells (NSCs/NPCs) hold great promise for improving neurological dysfunction, but their functional properties in vivo remain unknown. Human neural precursor cells (hNPCs) carrying one fluorescent reporter gene (DsRed) can be observed directly in vivo using two-photon laser-scanning microscope. Therefore, we evaluated the neural integration and potential therapeutic effect of hNPCs on mice with TBI. Behavioral tests were performed by rotarod task and Morris Water Maze task. Neural integration was detected by fluorometric Ca2+ imaging and nerve tracing. We found that motor and cognition functions were significantly improved in mice with hNPCs injection compared to mice with vehicle treatment, and hNPCs integrated into the host circuit and differentiated toward neuronal lineage. Our study provided reliable evidence for further hNPCs transplantation in clinical practice.
+AD  - Department of Neurology, Zhujiang Hospital, Southern Medical University, Guangzhou, China; The Cadre Ward in Department of Neurology, the People's Hospital of Guangxi Zhuang Autonomous Region, Nanning, Guangxi, China.
+Department of Neurology, The First Affiliated Hospital, SunYat-sen University, Guangzhou, China.
+Department of Neurology, Zhujiang Hospital, Southern Medical University, Guangzhou, China.
+Key Laboratory of Regenerative Biology, South China Institute for Stem Cell Biology and Regenerative Medicine, Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, China.
+Department of Neurology, The First Affiliated Hospital, SunYat-sen University, Guangzhou, China. Electronic address: peizhong@mail.sysu.edu.cn.
+Department of Neurology, Zhujiang Hospital, Southern Medical University, Guangzhou, China. Electronic address: tansheng18@126.com.
+AN  - 29501684
+AU  - Lin, G. Q.
+AU  - He, X. F.
+AU  - Liang, F. Y.
+AU  - Guo, Y.
+AU  - Sunnassee, G.
+AU  - Chen, J.
+AU  - Cao, X. M.
+AU  - Chen, Y. Y.
+AU  - Pan, G. J.
+AU  - Pei, Z.
+AU  - Tan, S.
+DA  - May 1
+DO  - 10.1016/j.neulet.2018.02.064
+DP  - NLM
+ET  - 20180301
+KW  - Animals
+Behavior, Animal
+Brain Injuries, Traumatic/psychology/*surgery
+Cell Differentiation
+Cell Survival
+Disease Models, Animal
+Embryonic Stem Cells/physiology/*transplantation
+Humans
+Maze Learning
+Mice, Inbred C57BL
+Neurons/*physiology
+Rotarod Performance Test
+Calcium imaging
+Cell therapy
+Human neural progenitor cell transplantation
+Integration
+Traumatic brain injury
+LA  - eng
+N1  - 1872-7972
+Lin, Gui-Qing
+He, Xiao-Fei
+Liang, Feng-Yin
+Guo, Yang
+Sunnassee, Gavin
+Chen, Jian
+Cao, Xiao-Min
+Chen, Yi-Yi
+Pan, Guang-Jin
+Pei, Zhong
+Tan, Sheng
+Journal Article
+Research Support, Non-U.S. Gov't
+Ireland
+2018/03/05
+Neurosci Lett. 2018 May 1;674:11-17. doi: 10.1016/j.neulet.2018.02.064. Epub 2018 Mar 1.
+PY  - 2018
+SN  - 0304-3940
+SP  - 11-17
+ST  - Transplanted human neural precursor cells integrate into the host neural circuit and ameliorate neurological deficits in a mouse model of traumatic brain injury
+T2  - Neurosci Lett
+TI  - Transplanted human neural precursor cells integrate into the host neural circuit and ameliorate neurological deficits in a mouse model of traumatic brain injury
+VL  - 674
+ID  - 50972
+ER  - 
+
+TY  - JOUR
+AB  - Previous studies have demonstrated that temporarily increasing the permeability of the blood-brain barrier using focused ultrasound can reduce β-amyloid plaque load and improve cognitive function in animal models of Alzheimer's disease. However, the underlying mechanism and duration for which the effects of one treatment persists for are unknown. Here, we used in vivo two-photon fluorescence microscopy to track changes in β-amyloid plaque sizes in the TgCRND8 mouse model of Alzheimer's disease after one focused ultrasound treatment. We found that one treatment reduced plaques to 62 ± 16% (p ≤ 0.001) of their original volume two days post-sonication; this decrease in size persisted for two weeks. We then sought to evaluate the effectiveness of biweekly focused ultrasound treatments using magnetic resonance imaging-guided focused ultrasound treatments. Three to five biweekly treatments resulted in a 27 ± 7% (p ≤ 0.01) decrease in plaque number and 40 ± 10% (p ≤ 0.01) decrease in plaque surface area compared to untreated littermates. This study demonstrates that one focused ultrasound treatment reduces the size of existing β-amyloid plaques for two weeks, and that repeated biweekly focused ultrasound treatments is an effective method of reducing β-amyloid pathology in moderate-to-late stages of Alzheimer's disease.
+AD  - Physical Sciences Platform, Sunnybrook Research Institute, Toronto, Ontario, Canada. charissa.poon@mail.utoronto.ca.
+Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, Ontario, Canada. charissa.poon@mail.utoronto.ca.
+Physical Sciences Platform, Sunnybrook Research Institute, Toronto, Ontario, Canada.
+Biological Sciences Platform, Sunnybrook Research Institute, Toronto, Ontario, Canada.
+Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Ontario, Canada.
+Department of Medical Biophysics, University of Toronto, Toronto, Ontario, Canada.
+Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, Ontario, Canada.
+AN  - 30232364
+AU  - Poon, C. T.
+AU  - Shah, K.
+AU  - Lin, C.
+AU  - Tse, R.
+AU  - Kim, K. K.
+AU  - Mooney, S.
+AU  - Aubert, I.
+AU  - Stefanovic, B.
+AU  - Hynynen, K.
+C1  - K.H. is the founder of FUS Instruments, from which he receives non-research related support. C.T.P., K.S., C.L., R.T., K.K.K., S.M., I.A., and B.S. declare no competing financial interests. All authors declare no competing non-financial interests.
+C2  - PMC6145880
+DA  - Sep 19
+DO  - 10.1038/s41598-018-32250-3
+DP  - NLM
+ET  - 20180919
+IS  - 1
+KW  - Alzheimer Disease/diagnostic imaging/genetics/*therapy
+Amyloid beta-Protein Precursor/*genetics
+Animals
+Blood-Brain Barrier/diagnostic imaging/pathology
+Disease Models, Animal
+Female
+Magnetic Resonance Imaging
+Male
+Mice
+Mice, Transgenic
+Microscopy, Fluorescence, Multiphoton
+Plaque, Amyloid/diagnostic imaging/genetics/*therapy
+Treatment Outcome
+Ultrasonic Therapy/*methods
+LA  - eng
+N1  - 2045-2322
+Poon, Charissa T
+Orcid: 0000-0002-4147-8559
+Shah, Kairavi
+Lin, Chiungting
+Tse, Ryan
+Kim, Kate K
+Mooney, Skyler
+Aubert, Isabelle
+Stefanovic, Bojana
+Hynynen, Kullervo
+R01 EB003268/EB/NIBIB NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2018/09/21
+Sci Rep. 2018 Sep 19;8(1):14061. doi: 10.1038/s41598-018-32250-3.
+PY  - 2018
+SN  - 2045-2322
+SP  - 14061
+ST  - Time course of focused ultrasound effects on β-amyloid plaque pathology in the TgCRND8 mouse model of Alzheimer's disease
+T2  - Sci Rep
+TI  - Time course of focused ultrasound effects on β-amyloid plaque pathology in the TgCRND8 mouse model of Alzheimer's disease
+VL  - 8
+ID  - 50970
+ER  - 
+
+TY  - JOUR
+AB  - Neonatal hypoxic-ischaemic encephalopathy (HIE) is major cause of neonatal mortality and morbidity. Therapeutic hypothermia is standard clinical care for moderate hypoxic-ischaemic (HI) brain injury, however it reduces the risk of death and disability only by 11% and 40% of the treated infants still develop disabilities. Thus it is necessary to develop supplementary therapies to complement therapeutic hypothermia in the treatment of neonatal HIE. The modified Rice-Vannucci model of HI in the neonatal mouse is well developed and widely applied with different periods of hypothermia used as neuroprotective strategy in combination with other agents. However, different studies use different periods, time of initiation and duration of hypothermia following HI, with subsequent varying degrees of neuroprotection. So far most rodent data is obtained using exposure to 5-6h of therapeutic hypothermia. Our aim was to compare the effect of exposure to three different short periods of hypothermia (1h, 1.5h and 2h) following HI insult in the postnatal day 7 C57/Bl6 mouse, and to determine the shortest period providing neuroprotection. Our data suggests that 1h and 1.5h of hypothermia delayed by 20min following a 60min exposure to 8%O2 do not prove neuroprotective. However, 2h of hypothermia significantly reduced tissue loss, TUNEL+ cell death and microglia and astroglia activation. We also observed improved functional outcome 7 days after HI. We suggest that the minimal period of cooling necessary to provide moderate short term neuroprotection and appropriate for the development and testing of combined treatment is 2h.
+AD  - UCL Institute for Women's Health, Maternal & Fetal Medicine, Perinatal Brain Repair Group, London, United Kingdom.
+AN  - 29969470
+AU  - Rocha-Ferreira, E.
+AU  - Vincent, A.
+AU  - Bright, S.
+AU  - Peebles, D. M.
+AU  - Hristova, M.
+C1  - The authors have declared that no competing interests exist.
+C2  - PMC6029790
+DO  - 10.1371/journal.pone.0199890
+DP  - NLM
+ET  - 20180703
+IS  - 7
+KW  - Animals
+Animals, Newborn
+Behavior, Animal
+*Disease Models, Animal
+Female
+*Hypothermia, Induced
+Hypoxia-Ischemia, Brain/*therapy
+Male
+Mice
+Mice, Inbred C57BL
+*Neuroprotection
+*Neuroprotective Agents
+Time Factors
+LA  - eng
+N1  - 1932-6203
+Rocha-Ferreira, Eridan
+Vincent, Amy
+Bright, Sarah
+Peebles, Donald M
+Hristova, Mariya
+Orcid: 0000-0002-5017-5744
+WT_/Wellcome Trust/United Kingdom
+WT089624MA/WT_/Wellcome Trust/United Kingdom
+WT088646MA/WT_/Wellcome Trust/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2018/07/04
+PLoS One. 2018 Jul 3;13(7):e0199890. doi: 10.1371/journal.pone.0199890. eCollection 2018.
+PY  - 2018
+SN  - 1932-6203
+SP  - e0199890
+ST  - The duration of hypothermia affects short-term neuroprotection in a mouse model of neonatal hypoxic ischaemic injury
+T2  - PLoS One
+TI  - The duration of hypothermia affects short-term neuroprotection in a mouse model of neonatal hypoxic ischaemic injury
+VL  - 13
+ID  - 50979
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Alzheimer's disease (AD) is the most common type of dementia and mainly treated by drugs, while the therapeutic outcomes are very limited. This study aimed to determine the optimized parameters of deep brain stimulation (DBS) which was applied to the treatment of AD and propose the involved mechanisms. METHODS: Amyloid-β precursor protein/Presenilin1 (APP/PS1) transgenic mice were used and received DBS at nucleus basalis of Meynert (NBM). The optimized parameters of DBS were determined by using different stimulation frequencies, durations and ages of mice under Morris water maze test. The involved mechanisms and the possible signal pathways were also investigated. RESULTS: The optimized parameters for DBS were high frequency (100 Hz) for 21 days starting from early age (4 months old). Under the above parameters, the soluble Aβ40 and Aβ42 in the hippocampus and cortex were down-regulated significantly. DBS increased survival neurons and reduced apoptotic cells in the hippocampus and cortex. Meanwhile, the apoptosis-related proteins caspase-3, caspase-8 and Bid were down-regulated. Moreover, DBS caused a significant increase of superoxide dismutase, glutathione peroxidase and choline acetyltransferase activity as well as a decrease of methane dicarboxylic aldehyde content and acetylcholine esterase activity. Phosphorylation of Akt (p-Akt)/total Akt (t-Akt) was up-regulated while p-extracellular signal-regulated kinase 1/2 (ERK1/2)/t-ERK1/2 was down-regulated. The neuroprotective effect of DBS was attenuated by their inhibitors. CONCLUSIONS: NBM-DBS starting from 4 months of age for 21 days at a high frequency (100 Hz) has therapeutic effects on AD through activating phosphatidylinositol 3'-kinase (PI3K)/Akt pathway and inhibiting ERK1/2 pathway.
+AD  - Department of Neurology, Shanghai East Hospital, Tongji University School of Medicine, No. 150 Jimo Road, Shanghai 200120, China.
+Department of Neurology, Huashan Hospital, Fudan University, No.12 Mid. Wulumuqi Road, Shanghai 200040, China.
+Department of Neurosurgery, Tsinghua University Yuquan Hospital, No. 5 Shijingshan Road, Shijingshan District, Beijing 100049, China.
+Center for Statistical Science of Tsinghua University, Beijing 100084, China.
+Department of Otolaryngology, Head and Neck Surgery, Beijing Tsinghua Changgung Hospital, School of Clinical Medicine, Tsinghua University, Beijing 102218, China.
+Department of Orthopedics, Jiangsu Province Hospital, The First Affiliated Hospital of Nanjing Medical University, Nanjing 210029, China.
+Department of Mathematical Sciences, Tsinghua University, Beijing 100084, China.
+Department of Tissue Engineering, China Medical University, No. 77 Puhe Road, Shenyang Liaoning, 110122, China. Electronic address: aoqiang@tsinghua.edu.cn.
+Department of Neurology, Shanghai East Hospital, Tongji University School of Medicine, No. 150 Jimo Road, Shanghai 200120, China. Electronic address: dongyahuang77@hotmail.com.
+AN  - 30181106
+AU  - Huang, C.
+AU  - Chu, H.
+AU  - Ma, Y.
+AU  - Zhou, Z.
+AU  - Dai, C.
+AU  - Huang, X.
+AU  - Fang, L.
+AU  - Ao, Q.
+AU  - Huang, D.
+DA  - Jan-Feb
+DO  - 10.1016/j.brs.2018.08.015
+DP  - NLM
+ET  - 20180827
+IS  - 1
+KW  - Alzheimer Disease/*genetics/metabolism/*therapy
+Animals
+Basal Nucleus of Meynert/*physiology
+Deep Brain Stimulation/*methods
+Disease Models, Animal
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Neuroprotection/*physiology
+APP/PS1 transgenic mice
+Alzheimer's disease
+Deep brain stimulation
+Morris water maze
+Nucleus basalis of Meynert
+LA  - eng
+N1  - 1876-4754
+Huang, Chuyi
+Chu, Heling
+Ma, Yu
+Zhou, Zaiying
+Dai, Chuanfu
+Huang, Xiaowen
+Fang, Liang
+Ao, Qiang
+Huang, Dongya
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2018/09/06
+Brain Stimul. 2019 Jan-Feb;12(1):161-174. doi: 10.1016/j.brs.2018.08.015. Epub 2018 Aug 27.
+PY  - 2019
+SN  - 1876-4754
+SP  - 161-174
+ST  - The neuroprotective effect of deep brain stimulation at nucleus basalis of Meynert in transgenic mice with Alzheimer's disease
+T2  - Brain Stimul
+TI  - The neuroprotective effect of deep brain stimulation at nucleus basalis of Meynert in transgenic mice with Alzheimer's disease
+VL  - 12
+ID  - 50965
+ER  - 
+
+TY  - JOUR
+AB  - Cerebral small vessel disease (CSVD) is not only a cause of vascular dementia (VD) but also a contributing factor to Alzheimer's disease (AD). The essential pathological feature of CSVD is the disruption of blood-brain barrier (BBB). Dysfunction of BBB due to degeneration of both endothelial cells and pericytes in capillaries leads to neuronal damage and progressive brain atrophy. Moreover, deterioration of amyloid-β (Aβ) clearance due to the failure of the transvascular BBB transport system results in accumulation of Aβ in the brain. Intravenous infusion of mesenchymal stem cells (MSCs) elicits functional recovery in experimental models including stroke and spinal cord injury. One effect of MSCs is to restore disrupted BBB through remodeling of microvasculature. Using spontaneously hypertensive rats (stroke-prone) with impaired cognitive function as a CSVD model, we have shown that infused MSCs has a therapeutic effect for cognitive function. Restoration of BBB function via remodeling of microvasculature and inhibition of Aβ accumulation could inhibit progressive brain atrophy and lead to restore cognitive dysfunction. Gene expression analysis indicated that infused MSCs activates both transforming growth factor-β and angiopoietin 1 signaling pathways and promotes the remodeling of microvasculature. Thus, infused MSCs may represent a novel therapy for both VD and AD.
+AD  - Department of Neural Regenerative Medicine, Research Institute for Frontier Medicine, Sapporo Medical University School of Medicine, Sapporo, 060-8556, Japan; Department of Neurology, Yale University School of Medicine, New Haven, CT, 06510, USA; Center for Neuroscience and Regeneration Research, VA Connecticut Healthcare System, West Haven, CT, 06516, USA.
+Department of Neural Regenerative Medicine, Research Institute for Frontier Medicine, Sapporo Medical University School of Medicine, Sapporo, 060-8556, Japan; Department of Neurology, Yale University School of Medicine, New Haven, CT, 06510, USA; Center for Neuroscience and Regeneration Research, VA Connecticut Healthcare System, West Haven, CT, 06516, USA. Electronic address: msasaki@sapmed.ac.jp.
+Department of Neural Regenerative Medicine, Research Institute for Frontier Medicine, Sapporo Medical University School of Medicine, Sapporo, 060-8556, Japan.
+Department of Neurology, Yale University School of Medicine, New Haven, CT, 06510, USA; Center for Neuroscience and Regeneration Research, VA Connecticut Healthcare System, West Haven, CT, 06516, USA.
+AN  - 30999031
+AU  - Nakazaki, M.
+AU  - Sasaki, M.
+AU  - Kataoka-Sasaki, Y.
+AU  - Oka, S.
+AU  - Suzuki, J.
+AU  - Sasaki, Y.
+AU  - Nagahama, H.
+AU  - Hashi, K.
+AU  - Kocsis, J. D.
+AU  - Honmou, O.
+DA  - Jun 1
+DO  - 10.1016/j.neuroscience.2019.04.018
+DP  - NLM
+ET  - 20190416
+KW  - Animals
+Behavior, Animal/physiology
+Blood-Brain Barrier/pathology
+Cerebral Small Vessel Diseases/*complications/pathology
+Cognition/*physiology
+Cognitive Dysfunction/etiology/pathology/*therapy
+Disease Models, Animal
+Infusions, Intravenous
+*Mesenchymal Stem Cell Transplantation
+Mesenchymal Stem Cells
+Rats
+Rats, Inbred SHR
+Recognition, Psychology/*physiology
+blood–brain barrier
+cellular therapy
+cerebral small vessel disease
+dementia
+mesenchymal stem cell
+LA  - eng
+N1  - 1873-7544
+Nakazaki, Masahito
+Sasaki, Masanori
+Kataoka-Sasaki, Yuko
+Oka, Shinichi
+Suzuki, Junpei
+Sasaki, Yuichi
+Nagahama, Hiroshi
+Hashi, Kazuo
+Kocsis, Jeffery D
+Honmou, Osamu
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2019/04/19
+Neuroscience. 2019 Jun 1;408:361-377. doi: 10.1016/j.neuroscience.2019.04.018. Epub 2019 Apr 16.
+PY  - 2019
+SN  - 0306-4522
+SP  - 361-377
+ST  - Intravenous infusion of mesenchymal stem cells improves impaired cognitive function in a cerebral small vessel disease model
+T2  - Neuroscience
+TI  - Intravenous infusion of mesenchymal stem cells improves impaired cognitive function in a cerebral small vessel disease model
+VL  - 408
+ID  - 50983
+ER  - 
+
+TY  - JOUR
+AB  - Background and Purpose- Inflammation is a critical determinant of aneurysmal wall destabilization, growth, and rupture risk. Targeting inflammation may suppress aneurysm rupture. Vagus nerve stimulation (VNS) has been shown to suppress inflammation both systemically and in the central nervous system. Therefore, we tested the effect of a novel noninvasive transcutaneous VNS approach on aneurysm rupture and outcome in a mouse model of intracranial aneurysm formation with wall inflammation. Methods- Aneurysms were induced by a single stereotaxic injection of elastase into the cerebrospinal fluid at the skull base, combined with systemic deoxycorticosterone-salt hypertension, without or with high-salt diet, for mild or severe outcomes, respectively. Cervical VNS (two 2-minute stimulations 5 minutes apart) was delivered once a day starting from the day after elastase injection for the duration of follow-up. Transcutaneous stimulation of the femoral nerve (FNS) served as control. Multiple aneurysms developed in the circle of Willis and its major branches, resulting in spontaneous ruptures and subarachnoid hemorrhage, neurological deficits, and mortality. Results- In the milder model, VNS significantly reduced aneurysm rupture rate compared with FNS (29% versus 80%, respectively). Subarachnoid hemorrhage grades were also lower in the VNS group. In the more severe model, both VNS and FNS arms developed very high rupture rates (77% and 85%, respectively). However, VNS significantly improved the survival rate compared with FNS after rupture (median survival 13 versus 6 days, respectively), without diminishing the subarachnoid hemorrhage grades. Chronic daily VNS reduced MMP-9 (matrix metalloproteinase-9) expression compared with FNS, providing a potential mechanism of action. As an important control, chronic daily VNS did not alter systemic arterial blood pressure compared with FNS. Conclusions- VNS can reduce aneurysm rupture rates and improve the outcome from ruptured aneurysms.
+AD  - From the Neurovascular Research Laboratory, Department of Radiology, Massachusetts General Hospital, Harvard Medical School, Charlestown (T.S., T.T., T.Q., C.A.).
+Department of Neurosurgery, Jikei University School of Medicine, Tokyo, Japan (T.S., Y.M.).
+Department of Neurosurgery, Brain Research Institute, Niigata University, Japan (T.S., Y.F.).
+Departments of Anesthesia and Perioperative Care, University of California, San Francisco (Y.K.).
+Department of Neurosurgery and Neurobiology, Barrow Neurological Institute, Phoenix, AZ (T.H.).
+Department of Neurosurgery, Massachusetts General Hospital and Harvard Medical School, Boston (A.B.P.).
+Stroke Service, Department of Neurology, Massachusetts General Hospital, Boston (C.A.).
+AN  - 30943885
+AU  - Suzuki, T.
+AU  - Takizawa, T.
+AU  - Kamio, Y.
+AU  - Qin, T.
+AU  - Hashimoto, T.
+AU  - Fujii, Y.
+AU  - Murayama, Y.
+AU  - Patel, A. B.
+AU  - Ayata, C.
+C2  - PMC6476688
+C6  - NIHMS1523953
+DA  - May
+DO  - 10.1161/strokeaha.118.023928
+DP  - NLM
+IS  - 5
+KW  - Aneurysm, Ruptured/etiology/pathology/*prevention & control
+Animals
+*Disease Models, Animal
+Intracranial Aneurysm/etiology/pathology/*therapy
+Male
+Mice
+Mice, Inbred C57BL
+Pancreatic Elastase/toxicity
+Random Allocation
+Sodium Chloride, Dietary/toxicity
+Swine
+Treatment Outcome
+Vagus Nerve Stimulation/*methods
+elastase
+hypertension
+inflammation
+intracranial aneurysm
+subarachnoid hemorrhage
+LA  - eng
+N1  - 1524-4628
+Suzuki, Tomoaki
+Takizawa, Tsubasa
+Kamio, Yoshinobu
+Qin, Tao
+Hashimoto, Tomoki
+Fujii, Yukihiko
+Murayama, Yuichi
+Patel, Aman B
+Ayata, Cenk
+P01 NS055104/NS/NINDS NIH HHS/United States
+R01 NS061505/NS/NINDS NIH HHS/United States
+R01 NS082280/NS/NINDS NIH HHS/United States
+R01 NS102969/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2019/04/05
+Stroke. 2019 May;50(5):1216-1223. doi: 10.1161/STROKEAHA.118.023928.
+PY  - 2019
+SN  - 0039-2499 (Print)
+0039-2499
+SP  - 1216-1223
+ST  - Noninvasive Vagus Nerve Stimulation Prevents Ruptures and Improves Outcomes in a Model of Intracranial Aneurysm in Mice
+T2  - Stroke
+TI  - Noninvasive Vagus Nerve Stimulation Prevents Ruptures and Improves Outcomes in a Model of Intracranial Aneurysm in Mice
+VL  - 50
+ID  - 50961
+ER  - 
+
+TY  - JOUR
+AB  - Autism spectrum disorder (ASD) is a brain-based neurodevelopmental disorder characterized by behavioral abnormalities. Accumulating studies show that the gut microbiota plays a vital role in the pathogenesis of ASD, and gut microbiota transplantation (GMT) is a promising technique for the treatment of ASD. In clinical applications of GMT, it is challenging to obtain effective transplants because of the high costs of donor selection and heterogeneity of donors' gut microbiota, which can cause different clinical responses. In vitro batch culture is a fast, easy-to-operate, and repeatable method to culture gut microbiota. Thus, the present study investigates the feasibility of treating ASD with in vitro cultured gut microbiota as transplants. We cultured gut microbiota via the in vitro batch culture method and performed GMT in the maternal immune activation (MIA)-induced ASD mouse model with original donor microbiota and in vitro cultured microbiota. Open field, three-chamber social, marble burying, and self-grooming tests were used for behavioral improvement assessment. Serum levels of chemokines were detected. Microbial total DNA was extracted from mouse fecal samples, and 16S rDNA was sequenced using Illumina. Our results showed that GMT treatment with original and cultured donor gut microbiota significantly ameliorated anxiety-like and repetitive behaviors and improved serum levels of chemokines including GRO-α (CXCL1), MIP-1α (CCL3), MCP-3 (CCL7), RANTES (CCL5), and Eotaxin (CCL11) in ASD mice. Meanwhile, the gut microbial communities of the two groups that received GMT treatment were changed compared with the ASD mice groups. In the group treated with in vitro cultured donor gut microbiota, there was a significant decrease in the relative abundance of key differential taxa, including S24-7, Clostridiaceae, Prevotella_other, and Candidatus Arthromitus. The relative abundance of these taxa reached close to the level of healthy mice. Prevotella_other also decreased in the group treated with original donor gut microbiota, with a significant increase in Ruminococcaceae and Oscillospira. The present study demonstrated that GMT with in vitro cultured microbiota also improved behavioral abnormalities and chemokine disorders in an ASD mouse model compared with GMT with original donor gut microbiota. In addition, it significantly modified several key differential taxa in gut microbial composition.
+AD  - Department of Chemical and Biochemical Engineering, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, 361005, China.
+Zhongshan Hospital Department of Gastroenterology, Xiamen University, Xiamen, Fujian, China.
+Department of Gastroenterology, Sir Run Run Shaw Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.
+Zhongshan Hospital Department of Gastroenterology, Xiamen University, Xiamen, Fujian, China. renjianl@xmu.edu.cn.
+Department of Chemical and Biochemical Engineering, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, 361005, China. fbs@xmu.edu.cn.
+AN  - 32100127
+AU  - Chen, K.
+AU  - Fu, Y.
+AU  - Wang, Y.
+AU  - Liao, L.
+AU  - Xu, H.
+AU  - Zhang, A.
+AU  - Zhang, J.
+AU  - Fan, L.
+AU  - Ren, J.
+AU  - Fang, B.
+DA  - Aug
+DO  - 10.1007/s00248-020-01494-w
+DP  - NLM
+ET  - 20200226
+IS  - 2
+KW  - Animals
+Autism Spectrum Disorder/*therapy
+Bacteria/*metabolism
+Disease Models, Animal
+Fecal Microbiota Transplantation
+Female
+*Gastrointestinal Microbiome
+Humans
+Male
+Mice
+Mice, Inbred C57BL
+Autism spectrum disorder
+Gut microbiota transplantation
+In vitro batch culture
+Mouse model
+LA  - eng
+N1  - 1432-184x
+Chen, Kainan
+Fu, Yousi
+Wang, Yali
+Liao, Langxing
+Xu, Hongzhi
+Zhang, Aihui
+Zhang, Junnan
+Fan, Lina
+Ren, Jianlin
+Fang, Baishan
+81770558/National Natural Science Foundation of China/
+3502Z20149031/Xiamen Joint Projects for Major Diseases/
+Journal Article
+United States
+2020/02/27
+Microb Ecol. 2020 Aug;80(2):475-486. doi: 10.1007/s00248-020-01494-w. Epub 2020 Feb 26.
+PY  - 2020
+SN  - 0095-3628
+SP  - 475-486
+ST  - Therapeutic Effects of the In Vitro Cultured Human Gut Microbiota as Transplants on Altering Gut Microbiota and Improving Symptoms Associated with Autism Spectrum Disorder
+T2  - Microb Ecol
+TI  - Therapeutic Effects of the In Vitro Cultured Human Gut Microbiota as Transplants on Altering Gut Microbiota and Improving Symptoms Associated with Autism Spectrum Disorder
+VL  - 80
+ID  - 50984
+ER  - 
+
+TY  - JOUR
+AB  - Early reperfusion is increasingly prioritized in ischemic stroke care, but outcomes remain suboptimal. Therefore, there is an urgent need to find neuroprotective approaches that can be combined with reperfusion to maximize efficacy. Here, the neuroprotective mechanisms behind therapeutic hypothermia were evaluated in a monkey model of ischemic stroke. Focal ischemia was induced in adult rhesus monkeys by placing autologous clots in the middle cerebral artery. Monkeys were treated with tissue plasminogen activator (t-PA) alone or t-PA plus selective intra-arterial cooling (SI-AC). Serial MRI scans and functional deficit were evaluated after ischemia. Histopathology and immunohistochemistry analysis were performed after the final MRI scan. t-PA plus SI-AC treatment led to a higher rate of MRI tissue rescue, and significantly improved neurologic deficits and daily activity scores compared with t-PA alone. In peri-infarct areas, higher fractional anisotropy values and greater fiber numbers were observed in models receiving t-PA plus SI-AC. Histological findings indicated that myelin damage, spheroids, and spongiosis were significantly ameliorated in models receiving SI-AC treatment. White matter integrity was also improved by SI-AC based on immunochemical staining. Our study demonstrates that SI-AC can be effectively combined with t-PA to improve both structural and functional recovery in a monkey model of focal ischemia. These findings provide proof-of-concept that it may be feasible to add neuroprotective agents as adjunctive treatments to reperfusion therapy for stroke.
+AD  - Department of neurology and China-America Institute of Neuroscience, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China.
+Beijing Key Laboratory of Hypoxia Conditioning Translational Medicine, Beijing, China.
+Center of Stroke, Beijing Institute for Brain Disorders, Beijing, China.
+Department of Pathology, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China.
+Department of Neurosurgery, Wayne State University School of Medicine, Detroit, MI, USA.
+Department of Neurosurgery, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China.
+Department of Radiology, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China.
+National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China.
+Interdisciplinary Innovation Institute of Medicine and Engineering, Beijing Advanced Innovation Center for Big Data-Based Precision Medicine, School of Biological Science and Medical Engineering, Beihang University, Beijing, China.
+Department of Laboratory Animal Science, Capital Medical University, Beijing, China.
+Department of neurology and China-America Institute of Neuroscience, Xuanwu Hospital, Capital Medical University, Beijing, 100053, China. jixm@ccmu.edu.cn.
+Beijing Key Laboratory of Hypoxia Conditioning Translational Medicine, Beijing, China. jixm@ccmu.edu.cn.
+Center of Stroke, Beijing Institute for Brain Disorders, Beijing, China. jixm@ccmu.edu.cn.
+AN  - 32710291
+AU  - Wu, D.
+AU  - Fu, Y.
+AU  - Wu, L.
+AU  - Huber, M.
+AU  - Chen, J.
+AU  - Yao, T.
+AU  - Zhang, M.
+AU  - Wu, C.
+AU  - Song, M.
+AU  - He, X.
+AU  - Li, S.
+AU  - Zhang, Y.
+AU  - Li, S.
+AU  - Ding, Y.
+AU  - Ji, X.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC7851312
+DA  - Oct
+DO  - 10.1007/s13311-020-00895-6
+DP  - NLM
+IS  - 4
+KW  - Animals
+Cerebral Arteries/diagnostic imaging
+*Disease Models, Animal
+Hypothermia, Induced/*methods
+Macaca mulatta
+Magnetic Resonance Imaging/methods
+Male
+Primates
+Recovery of Function/*physiology
+Reperfusion/*methods
+Stroke/*diagnostic imaging/*therapy
+Stroke
+diffusion tensor imaging
+hypothermia
+recovery
+rhesus monkey
+white matter
+LA  - eng
+N1  - 1878-7479
+Wu, Di
+Fu, Yongjuan
+Wu, Longfei
+Huber, Mitchell
+Chen, Jian
+Yao, Tianqi
+Zhang, Mo
+Wu, Chuanjie
+Song, Ming
+He, Xiaoduo
+Li, Sijie
+Zhang, Yongbiao
+Li, Shengli
+Ding, Yuchuan
+Ji, Xunming
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2020/07/28
+Neurotherapeutics. 2020 Oct;17(4):1931-1939. doi: 10.1007/s13311-020-00895-6.
+PY  - 2020
+SN  - 1933-7213 (Print)
+1878-7479
+SP  - 1931-1939
+ST  - Reperfusion plus Selective Intra-arterial Cooling (SI-AC) Improve Recovery in a Nonhuman Primate Model of Stroke
+T2  - Neurotherapeutics
+TI  - Reperfusion plus Selective Intra-arterial Cooling (SI-AC) Improve Recovery in a Nonhuman Primate Model of Stroke
+VL  - 17
+ID  - 50976
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Companion animals are prone to spinal cord injuries commonly associated with severe locomotor and sensory complications, which can escalate to a state of irreversible paralysis. Stem cell therapies propose a hope for treating spinal cord injuries via differentiation into neurons and associated glial cells, halting the immune attacks, inhibiting apoptosis and necrosis, and secretion of neurotrophic factors that stimulate the regeneration process. AIM: The study aims to evaluate the use of autologous bone marrow derived stromal cells in platelet-rich plasma carrier for selected clinical cases having chronic spinal cord injuries in dogs and cats via a one-time combined intrathecal/intravenous injection. METHODS: Cells were injected in five dogs and three cats suffering from disc protrusion leading to spinal cord injury and in thosewho did not respond to conventional treatment during a clinical trial. RESULTS: Results indicated that the transplanted cells led to the restoration of the weight bearing locomotor function and spinal reflexes in a period less than 90 days with physical rehabilitation. The treatment showed minor changes in the magnetic resonance images of extruded discs. CONCLUSION: This study concluded that the combined intrathecal/intravenous injection of bone marrow stromal cells is a safe and promising procedure for treating chronic spinal cord injuries in companion animals.
+AD  - Pathology department, Animal Health Research Institute, Giza, Egypt.
+Surgery, Anesthesiology and Radiology Department, Faculty of Veterinary Medicine, Cairo University, Giza, Egypt.
+AN  - 34307083
+AU  - Abdallah, A. N.
+AU  - Shamaa, A. A.
+AU  - El-Tookhy, O. S.
+AU  - Bahr, M. M.
+C1  - The authors declare that there is no conflict of interest.
+C2  - PMC8288736
+DA  - Apr-Jun
+DO  - 10.5455/OVJ.2021.v11.i2.10
+DP  - NLM
+ET  - 20210604
+IS  - 2
+KW  - Animals
+Bone Marrow
+*Cat Diseases
+Cats
+*Dog Diseases
+Dogs
+Injections, Intravenous
+*Mesenchymal Stem Cells
+Pets
+*Platelet-Rich Plasma
+*Spinal Cord Injuries/therapy/veterinary
+Stromal Cells
+Bone marrow stromal cells
+Platelet-rich plasma
+Spinal cord injury
+Stem cell therapy
+LA  - eng
+N1  - 2218-6050
+Abdallah, Ahmed N
+Shamaa, Ashraf A
+El-Tookhy, Omar S
+Bahr, Mohamed M
+Clinical Trial, Veterinary
+Journal Article
+Libya
+2021/07/27
+Open Vet J. 2021 Apr-Jun;11(2):270-276. doi: 10.5455/OVJ.2021.v11.i2.10. Epub 2021 Jun 4.
+PY  - 2021
+SN  - 2226-4485 (Print)
+2218-6050
+SP  - 270-276
+ST  - Effect of combined intrathecal/intravenous injection of bone marrow derived stromal cells in platelet-rich plasma on spinal cord injury in companion animals
+T2  - Open Vet J
+TI  - Effect of combined intrathecal/intravenous injection of bone marrow derived stromal cells in platelet-rich plasma on spinal cord injury in companion animals
+VL  - 11
+ID  - 50968
+ER  - 
+
+TY  - JOUR
+AB  - Cellular transplant therapy is one of the most common therapeutic strategies used to mitigate symptoms of neurodegenerative diseases such as Huntington's disease (HD). Briefly, the main goal of the present study was to investigate HD's motor deficits through the olfactory ecto-mesenchymals stem cells (OE-MSC) secretome. OE-MSCs were characterized immunophenotypically by the positive expression of CD73, CD90 and CD105. Also, three specific markers of OE-MSCs were obtained from the nasal cavity of human volunteers. The main features of OE-MSCs are their high proliferation, ease of harvesting and growth factor secretion. All animals were randomly assigned to three groups: control, 3-NP + vehicle treated and 3-NP + Cell groups. In both experimental groups, the subjects received intraperitoneal 3-NP (30 mg/kg) injections once a day for five consecutive days, followed by the bilateral intra-striatal implantation of OE-MSCs in the 3-NP + Cell group. Muscular function was assessed by electromyography and rotarod test, and the locomotor function was evaluated using the open field test. According to our findings, striatal transplants of OE-MSCs reduced microglial inflammatory factor, the tumor necrosis factor (TNFα) in the 3-NP + Cell group, with a significant reduction in RIP3, the markers of necroptosis in striatum. In addition to the remarkable recovery of the striatal volume after engraftment, the motor activities were enhanced in the 3-NP + cell group compared to the 3-NP + vehicle group. Taken together, our results demonstrated the in vivo advantages of OE-MSCs treatment in an HD rat model with numerous positive paracrine effects including behavioral and anatomical recovery.
+AD  - Department of Neuroscience, Saveh University of Medical Sciences, Saveh, Iran. Electronic address: ah.bayat@yahoo.com.
+Neuroscience Lab, Anatomy and Cell Biology Department, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: sara.saeedikhoo@gmail.com.
+Department of Anatomy and Cell Biology, School of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran. Electronic address: ebrahimi.v67@gmail.com.
+Neuroscience Lab, Anatomy and Cell Biology Department, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: somaye.mesgar70@gmail.com.
+Neuroscience Lab, Anatomy and Cell Biology Department, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: mohammadjavadjoneidi@sbmu.ac.ir.
+Neuroscience Lab, Anatomy and Cell Biology Department, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: rezasoltanikazemii@gmail.com.
+Neuroscience Lab, Anatomy and Cell Biology Department, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: farshid.anesthesia@gmail.com.
+Neuroscience Lab, Anatomy and Cell Biology Department, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: ibrahim.mdz7777@gmail.com.
+Neuroscience Lab, Anatomy and Cell Biology Department, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: torabi.a1999@gmail.com.
+Neuroscience Lab, Anatomy and Cell Biology Department, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: m_amin58@yahoo.com.
+ENT and Head and Neck Research Center and Department, Hazrat Rasoul Akram Hospital, The Five Senses Health Institute, Iran University of Medical Sciences, Tehran, Iran. Electronic address: baharebagher@gmail.com.
+ENT and Head and Neck Research Center and Department, Hazrat Rasoul Akram Hospital, The Five Senses Health Institute, Iran University of Medical Sciences, Tehran, Iran. Electronic address: nafiseh.alizadeh@gmail.com.
+Neuroscience Lab, Anatomy and Cell Biology Department, School of Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: aghaei60@gmail.com.
+AN  - 33278568
+AU  - Bayat, A. H.
+AU  - Saeidikhoo, S.
+AU  - Ebrahimi, V.
+AU  - Mesgar, S.
+AU  - Joneidi, M.
+AU  - Soltani, R.
+AU  - Aghajanpour, F.
+AU  - Mohammadzadeh, I.
+AU  - Torabi, A.
+AU  - Abdollahifar, M. A.
+AU  - Bagher, Z.
+AU  - Alizadeh, R.
+AU  - Aliaghaei, A.
+DA  - Mar
+DO  - 10.1016/j.jchemneu.2020.101903
+DP  - NLM
+ET  - 20201202
+KW  - Animals
+Behavior, Animal/physiology
+Corpus Striatum/pathology/*surgery
+Disease Models, Animal
+Humans
+Huntington Disease/pathology/physiopathology/*therapy
+Mesenchymal Stem Cell Transplantation/*methods
+Motor Activity/*physiology
+Necroptosis/*physiology
+Rats
+Rotarod Performance Test
+Treatment Outcome
+3-Nitropropionic acid
+Huntington's disease
+Mesenchymal stem cells
+Neuroprotection
+Stem cell transplantation
+LA  - eng
+N1  - 1873-6300
+Bayat, Amir-Hossein
+Saeidikhoo, Sara
+Ebrahimi, Vahid
+Mesgar, Somaye
+Joneidi, Mohammadjavad
+Soltani, Reza
+Aghajanpour, Fakhroddin
+Mohammadzadeh, Ibrahim
+Torabi, Abolfazl
+Abdollahifar, Mohammad-Amin
+Bagher, Zohreh
+Alizadeh, Rafieh
+Aliaghaei, Abbas
+Journal Article
+Netherlands
+2020/12/06
+J Chem Neuroanat. 2021 Mar;112:101903. doi: 10.1016/j.jchemneu.2020.101903. Epub 2020 Dec 2.
+PY  - 2021
+SN  - 0891-0618
+SP  - 101903
+ST  - Bilateral striatal transplantation of human olfactory stem cells ameliorates motor function, prevents necroptosis-induced cell death and improves striatal volume in the rat model of Huntington's disease
+T2  - J Chem Neuroanat
+TI  - Bilateral striatal transplantation of human olfactory stem cells ameliorates motor function, prevents necroptosis-induced cell death and improves striatal volume in the rat model of Huntington's disease
+VL  - 112
+ID  - 50969
+ER  - 
+
+TY  - JOUR
+AB  - Central poststroke pain (CPSP) develops after a stroke around the somatosensory pathway. CPSP is hypothesized to be caused by maladaptive reorganization between various brain regions. The treatment for CPSP has not been established; however, repetitive transcranial magnetic stimulation (rTMS) to the primary motor cortex has a clinical effect. To verify the functional reorganization hypothesis for CPSP development and rTMS therapeutic mechanism, we longitudinally pursued the structural and functional changes of the brain by using two male CPSP model monkeys (Macaca fuscata) developed by unilateral hemorrhage in the ventral posterolateral nucleus of the thalamus. Application of rTMS to the ipsilesional primary motor cortex relieved the induced pain of the model monkeys. A tractography analysis revealed a decrease in the structural connectivity in the ipsilesional thalamocortical tract, and rTMS had no effect on the structural connectivity. A region of interest analysis using resting-state functional magnetic resonance imaging revealed inappropriately strengthened functional connectivity between the ipsilesional mediodorsal nucleus of the thalamus and the amygdala, which are regions associated with emotion and memory, suggesting that this may be the cause of CPSP development. Moreover, rTMS normalizes this strengthened connectivity, which may be a possible therapeutic mechanism of rTMS for CPSP.
+AD  - Department of Neurosurgery, Graduate School of Medicine, Osaka University, Suita, Japan.
+Laboratories for Neuroscience, Visual Neuroscience Group, Graduate School of Frontier Biosciences, Osaka University, Suita, Japan.
+Laboratories for Neuroscience, Visual Neuroscience Group, Graduate School of Frontier Biosciences, Osaka University, Suita, Japan. ken-ichi@med.hokudai.ac.jp.
+Center for Information and Neural Networks (CiNet), National Institute of Information and Communications Technology, and Osaka University, Suita, Japan. ken-ichi@med.hokudai.ac.jp.
+Department of Physiology, Hokkaido University School of Medicine, Sapporo, 060-8638, Japan. ken-ichi@med.hokudai.ac.jp.
+Department of Neuromodulation and Neurosurgery, Graduate School of Medicine, Osaka University, Suita, Japan.
+Center for Information and Neural Networks (CiNet), National Institute of Information and Communications Technology, and Osaka University, Suita, Japan.
+AN  - 33731766
+AU  - Kadono, Y.
+AU  - Koguchi, K.
+AU  - Okada, K. I.
+AU  - Hosomi, K.
+AU  - Hiraishi, M.
+AU  - Ueguchi, T.
+AU  - Kida, I.
+AU  - Shah, A.
+AU  - Liu, G.
+AU  - Saitoh, Y.
+C1  - K.H. and Y.S. belong to the Department of Neuromodulation and Neurosurgery, Osaka University Graduate School of Medicine, which is a joint research department established with sponsorship by Teijin Pharma Limited.
+C2  - PMC7969937
+DA  - Mar 17
+DO  - 10.1038/s41598-021-85409-w
+DP  - NLM
+ET  - 20210317
+IS  - 1
+KW  - Animals
+*Disease Models, Animal
+Macaca fuscata
+Neuralgia/*therapy
+Pain Management/*methods
+Stroke/*therapy
+Transcranial Magnetic Stimulation/*methods
+Treatment Outcome
+LA  - eng
+N1  - 2045-2322
+Kadono, Yoshinori
+Koguchi, Keigo
+Okada, Ken-Ichi
+Hosomi, Koichi
+Hiraishi, Motoki
+Ueguchi, Takashi
+Kida, Ikuhiro
+Shah, Adnan
+Liu, Guoxiang
+Saitoh, Youichi
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2021/03/19
+Sci Rep. 2021 Mar 17;11(1):6126. doi: 10.1038/s41598-021-85409-w.
+PY  - 2021
+SN  - 2045-2322
+SP  - 6126
+ST  - Repetitive transcranial magnetic stimulation restores altered functional connectivity of central poststroke pain model monkeys
+T2  - Sci Rep
+TI  - Repetitive transcranial magnetic stimulation restores altered functional connectivity of central poststroke pain model monkeys
+VL  - 11
+ID  - 50945
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Memory loss and cognitive impairment characterize the neurodegenerative disorder, Alzheimer's disease (AD). Amyloid-β (Aβ) is the key factor that triggers the course of AD, and reducing the deposition of Aβ in the brain has been considered as a potential target for the treatment of AD. In clinical and animal studies, electroacupuncture (EA) has been shown to be an effective treatment for AD. In recent years, substantial evidence has accumulated suggesting the important role of the glymphatic system in Aβ clearance. OBJECTIVE: The purpose of this study was to explore whether EA modifies the accumulation of Aβ through the glymphatic system and may thus be applied to alleviate cognitive impairments. METHODS: Seven-month-old SAMP8 mice were randomized into a control group (Pc) and an electroacupuncture group (Pe). Age-matched SAMR1 mice were used as normal controls (Rc). Mice in the Pe group were stimulated on Baihui (GV20) and Yintang (GV29) for 10 min and then pricked at Shuigou (GV26) for ten times. EA treatment lasted for 8 weeks. In each week, EA would be applied once a day for the first five consecutive days and ceased at the remaining two days. After EA treatment, Morris water maze (MWM) test was used to evaluate the cognitive function; HE and Nissl staining was performed to observe the brain histomorphology; ELISA, contrast-enhanced MRI, and immunofluorescence were applied to explore the mechanisms underlying EA effects from Aβ accumulation, glymphatic system function, reactivity of astrocytes, and AQP4 polarization, respectively. RESULTS: This EA regime could improve cognition and alleviate neuropathological damage to brain tissue. And EA treatment might reduce Aβ accumulation, enhance paravascular influx in the glymphatic system, inhibit the reactivity of astrocytes, and improve AQP4 polarity. CONCLUSION: EA treatment might reduce Aβ accumulation from the brain via improving clearance performance of the glymphatic system and thereby alleviating cognitive impairment.
+AD  - First Teaching Hospital of Tianjin University of Traditional Chinese Medicine, Tianjin, China.
+National Clinical Research Center for Chinese Medicine Acupuncture and Moxibustion, Tianjin, China.
+Academy for Advanced Interdisciplinary Studies Peking University, Beijing, China.
+Tianjin Key Laboratory of Acupuncture and Moxibustion, Tianjin, China.
+Tianjin Academy of Traditional Chinese Medicine Affiliated Hospital, Tianjin, China.
+Key Laboratory of Cerebropathy Acupuncture Therapy of State Administration of Traditional Chinese Medicine, Tianjin, China.
+AN  - 34484327
+AU  - Liang, P. Z.
+AU  - Li, L.
+AU  - Zhang, Y. N.
+AU  - Shen, Y.
+AU  - Zhang, L. L.
+AU  - Zhou, J.
+AU  - Wang, Z. J.
+AU  - Wang, S.
+AU  - Yang, S.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC8416373
+DO  - 10.1155/2021/9960304
+DP  - NLM
+ET  - 20210826
+KW  - Alzheimer Disease/genetics/*metabolism/*therapy
+Amyloid beta-Peptides/*metabolism
+Animals
+Brain/metabolism
+Disease Models, Animal
+Electroacupuncture/*methods
+Glymphatic System/*metabolism
+Male
+Maze Learning/physiology
+Mice
+Mice, Transgenic
+Peptide Fragments/*metabolism
+LA  - eng
+N1  - 1687-5443
+Liang, Pei-Zhe
+Orcid: 0000-0002-2538-2207
+Li, Li
+Orcid: 0000-0001-8256-6849
+Zhang, Ya-Nan
+Orcid: 0000-0002-8613-0193
+Shen, Yan
+Orcid: 0000-0002-2590-8985
+Zhang, Li-Li
+Orcid: 0000-0003-0935-4991
+Zhou, Jie
+Orcid: 0000-0001-7576-2817
+Wang, Zhi-Jie
+Orcid: 0000-0001-5664-329x
+Wang, Shu
+Orcid: 0000-0002-3598-6055
+Yang, Sha
+Orcid: 0000-0002-6722-2957
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/09/07
+Neural Plast. 2021 Aug 26;2021:9960304. doi: 10.1155/2021/9960304. eCollection 2021.
+PY  - 2021
+SN  - 2090-5904 (Print)
+1687-5443
+SP  - 9960304
+ST  - Electroacupuncture Improves Clearance of Amyloid-β through the Glymphatic System in the SAMP8 Mouse Model of Alzheimer's Disease
+T2  - Neural Plast
+TI  - Electroacupuncture Improves Clearance of Amyloid-β through the Glymphatic System in the SAMP8 Mouse Model of Alzheimer's Disease
+VL  - 2021
+ID  - 50988
+ER  - 
+
+TY  - JOUR
+AB  - Repetitive transcranial magnetic stimulation (rTMS) targeting the primary motor cortex (MI) is expected to provide a therapeutic impact on spinal cord injury (SCI). On the other hand, treatment with antibody against repulsive guidance molecule-a (RGMa) has been shown to ameliorate motor deficits after SCI in rodents and primates. Facilitating activity of the corticospinal tract (CST) by rTMS following rewiring of CST fibers by anti-RGMa antibody treatment may exert an enhanced effect on motor recovery in a primate model of SCI. To address this issue, we examined whether such a combined therapeutic strategy could contribute to accelerating functional restoration from SCI. In our SCI model, unilateral lesions were made between the C6 and the C7 level. Two macaque monkeys were used for each of the combined therapy and antibody treatment alone, while one monkey was for rTMS alone. The antibody treatment was continuously carried out for four weeks immediately after SCI, and rTMS trials applying a thermoplastic mask and a laser distance meter lasted ten weeks. Behavioral assessment was performed over 14 weeks after SCI to investigate the extent to which motor functions were restored with the antibody treatment and/or rTMS. While rTMS without the preceding antibody treatment produced no discernible sign for functional recovery, a combination of the antibody and rTMS exhibited a greater effect, especially at an early stage of rTMS trials, on restoration of dexterous hand movements. The present results indicate that rTMS combined with anti-RGMa antibody treatment may exert a synergistic effect on motor recovery from SCI.
+AD  - Systems Neuroscience Section, Department of Neuroscience, Primate Research Institute, Kyoto University, Inuyama, Aichi, Japan.
+Department of Molecular Neuroscience, Graduate School of Medicine, Osaka University, Suita, Osaka, Japan.
+AN  - 34077429
+AU  - Yamanaka, H.
+AU  - Takata, Y.
+AU  - Nakagawa, H.
+AU  - Isosaka-Yamanaka, T.
+AU  - Yamashita, T.
+AU  - Takada, M.
+C1  - The authors have read the journal’s policy and have the following competing interests: Mitsubishi Tanabe Pharma Corporation provided financial support for the study in the form of funding for the expendables and a stipend awarded to HY and MT, as well as material support in the form of the anti-RGMa antibody used in the study. This does not alter our adherence to PLOS ONE policies on sharing data and materials. There are no other patents, products in development or marketed products associated with this research to declare.
+C2  - PMC8172028
+DO  - 10.1371/journal.pone.0252023
+DP  - NLM
+ET  - 20210602
+IS  - 6
+KW  - Animals
+Antibodies, Monoclonal/*pharmacology
+Combined Modality Therapy
+*Disease Models, Animal
+GPI-Linked Proteins/*immunology
+Male
+Nerve Tissue Proteins/*immunology
+Primates
+Spinal Cord Injuries/immunology/pathology/*therapy
+Transcranial Magnetic Stimulation/*methods
+LA  - eng
+N1  - 1932-6203
+Yamanaka, Hajime
+Orcid: 0000-0001-6748-9179
+Takata, Yu
+Nakagawa, Hiroshi
+Orcid: 0000-0002-0269-8962
+Isosaka-Yamanaka, Tomoko
+Yamashita, Toshihide
+Takada, Masahiko
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/06/03
+PLoS One. 2021 Jun 2;16(6):e0252023. doi: 10.1371/journal.pone.0252023. eCollection 2021.
+PY  - 2021
+SN  - 1932-6203
+SP  - e0252023
+ST  - An enhanced therapeutic effect of repetitive transcranial magnetic stimulation combined with antibody treatment in a primate model of spinal cord injury
+T2  - PLoS One
+TI  - An enhanced therapeutic effect of repetitive transcranial magnetic stimulation combined with antibody treatment in a primate model of spinal cord injury
+VL  - 16
+ID  - 50962
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To explore the effect of bone marrow mesenchymal stem cells (BM-MSCs) transplantation on the changes of oligodendrocyte lineage in brain of experimental autoimmune encephalomyelitis (EAE) rats. METHODS: The animals were divided into normal control group, EAE model group (EAE group), cell culture medium injection treatment group (placebo treatment group), and MSCs treatment group (treatment group). The changes of A2B5-, O4-, and CNPase-positive cells in oligodendrocyte lineage in rat brain were observed after 1, 3, 7, 14, 21, and 28 days. RESULTS: The number of A2B5-positive cells in rat brain of the treatment group at each time point was significantly more than that of the EAE and placebo treatment groups, and most obvious at 14 days. The O4-positive cells number at each time point in the treatment group was significantly increased compared with the EAE and placebo treatment groups, and most obvious at 14 days. The CNPase-positive cells number at each time point in the treatment group was significantly increased compared with the EAE and placebo treatment groups, and most obvious at 14 days. CONCLUSIONS: MSCs treatment can increase cells expression in oligodendrocyte lineage, which laying a solid foundation for myelin regeneration.
+AD  - Department of Pediatrics, Shengjing Hospital of China Medical University, Shenyang, China.
+AN  - 33319488
+AU  - Zhang, J. M.
+AU  - Wang, H.
+AU  - Fan, Y. Y.
+AU  - Yang, F. H.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC7882188
+DA  - Feb
+DO  - 10.1002/brb3.1999
+DP  - NLM
+ET  - 20201214
+IS  - 2
+KW  - Animals
+Brain
+Cell Lineage
+*Encephalomyelitis, Autoimmune, Experimental/therapy
+*Mesenchymal Stem Cell Transplantation
+*Mesenchymal Stem Cells
+Mice
+Mice, Inbred C57BL
+Rats
+bone marrow mesenchymal stem cells
+experimental autoimmune encephalomyelitis
+oligodendrocyte lineage
+transplantation
+LA  - eng
+N1  - 2162-3279
+Zhang, Jun-Mei
+Wang, Hua
+Orcid: 0000-0001-7239-5855
+Fan, Yu-Ying
+Yang, Feng-Hua
+Journal Article
+United States
+2020/12/16
+Brain Behav. 2021 Feb;11(2):e01999. doi: 10.1002/brb3.1999. Epub 2020 Dec 14.
+PY  - 2021
+SP  - e01999
+ST  - Effect of mesenchymal stem cells transplantation on the changes of oligodendrocyte lineage in rat brain with experimental autoimmune encephalomyelitis
+T2  - Brain Behav
+TI  - Effect of mesenchymal stem cells transplantation on the changes of oligodendrocyte lineage in rat brain with experimental autoimmune encephalomyelitis
+VL  - 11
+ID  - 50978
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Alzheimer's disease (AD) is the most common neurodegenerative disorder that causes dementia and affects millions of people worldwide. Although it has devastating outcomes for patients and tremendous economic costs to society, there is currently no effective treatment available. AIMS: The high-fat, low-carbohydrate ketogenic diet (KD) is an established treatment for refractory epilepsy with a proven efficacy. Although the considerable interest has emerged in recent years for applying KD in AD patients, only few interventional studies in animals and humans have addressed the effects of KD on cognitive impairments, and the results were inconclusive. The aim of this study was to explore the impact of KD on cognitive functions and AD pathology in 5XFAD mice-a validated animal model of AD. RESULTS: Four months of a ketogenic diet improved spatial learning, spatial memory and working memory in 5XFAD mice. The improvement in cognitive functions was associated with a restored number of neurons and synapses in both the hippocampus and the cortex. Ketogenic diet treatment also reduced amyloid plaque deposition and microglial activation, resulting in reduced neuroinflammation. The positive effect of ketogenic diet on cognitive functions depended on the starting time and the duration of the diet. A shorter period (2 months) of ketogenic diet treatment had a weaker effect. Ketogenic diet initiated at late stage of AD (9 months of age) displayed no effect on cognitive improvement. CONCLUSIONS: These findings indicate positive effects of ketogenic diet on both cognitive function and histopathology in Alzheimer's disease, which could be due to reduced microglial activation and neuroinflammation. Our findings provide new insights and therapeutic interventions for the treatment of Alzheimer's disease.
+AD  - Shenzhen Key Laboratory of Drug Addiction, Shenzhen Neher Neural Plasticity Laboratory, the Brain Cognition and Brain Disease Institute (BCBDI), Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS), Shenzhen-Hong Kong Institute of Brain Science-Shenzhen Fundamental Research Institutions, Shenzhen, China.
+University of Chinese Academy of Sciences, Beijing, China.
+The First Affiliated Hospital, Sun Yat-sen University, Guangzhou, China.
+Medical College of Acupuncture-Moxibustion and Rehabilitation, Guangzhou University of Chinese Medicine, Guangzhou, China.
+State Key Laboratory of Medical Neurobiology, MOE Frontiers Center for Brain Science, Institute for Translational Brain Research, Fudan University, Shanghai, China.
+Faculty of Life and Health Sciences, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China.
+CAS Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai, China.
+CAS Key Laboratory of Brain Connectome and Manipulation, The Brain Cognition and Brain Disease Institute (BCBDI), Shenzhen Institute of Advanced Technology (SIAT), Chinese Academy of Sciences (CAS), Shenzhen, China.
+AN  - 34889516
+AU  - Xu, Y.
+AU  - Jiang, C.
+AU  - Wu, J.
+AU  - Liu, P.
+AU  - Deng, X.
+AU  - Zhang, Y.
+AU  - Peng, B.
+AU  - Zhu, Y.
+C1  - None.
+C2  - PMC8928920
+DA  - Apr
+DO  - 10.1111/cns.13779
+DP  - NLM
+ET  - 20211210
+IS  - 4
+KW  - *Alzheimer Disease/pathology
+Animals
+*Cognitive Dysfunction/etiology
+*Diet, Ketogenic
+Disease Models, Animal
+Humans
+Mice
+Mice, Transgenic
+Neuroinflammatory Diseases
+Plaque, Amyloid
+Alzheimer's disease
+cognitive impairment
+ketogenic diet
+microglial activation
+neuroinflammation
+LA  - eng
+N1  - 1755-5949
+Xu, Yunlong
+Jiang, Chenyu
+Wu, Junyan
+Liu, Peidong
+Deng, Xiaofei
+Zhang, Yadong
+Peng, Bo
+Zhu, Yingjie
+Orcid: 0000-0002-0783-0897
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2021/12/11
+CNS Neurosci Ther. 2022 Apr;28(4):580-592. doi: 10.1111/cns.13779. Epub 2021 Dec 10.
+PY  - 2022
+SN  - 1755-5930 (Print)
+1755-5930
+SP  - 580-592
+ST  - Ketogenic diet ameliorates cognitive impairment and neuroinflammation in a mouse model of Alzheimer's disease
+T2  - CNS Neurosci Ther
+TI  - Ketogenic diet ameliorates cognitive impairment and neuroinflammation in a mouse model of Alzheimer's disease
+VL  - 28
+ID  - 50938
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) is the most common form of dementia. Despite enormous efforts around the world, there remains no effective cure for AD. This study was performed to investigate the effects of long-term exercise pretreatment on the typical pathology of AD in a novel transgenic AD rat model. Male 2-month-old animals were divided into the following groups: wild-type (WT) rats, AD rats, and AD rats with treadmill exercise pretreatment (AD-Exe). After exercise pretreatment, the Barnes maze task, passive avoidance task, and cued fear conditioning test were performed to test learning and memory function. The elevated plus maze, open field test, sucrose preference test, and forced swim test were conducted to measure anxious-depressive-like behavior. Immunofluorescence staining, Golgi staining, transmission electron microscopy, Western blot analysis, F-Jade C staining, TUNEL staining, and related assay kits were conducted to measure Aβ plaques, tau hyperphosphorylation, neuronal damage, neuronal degeneration, dendritic spine density, synapses, synaptic vesicles, mitochondrial morphology, mitochondrial dynamic, oxidative stress, and neuroinflammation. Behavioral tests revealed that long-term exercise pretreatment significantly alleviated learning and memory dysfunction and anxious-depressive-like behaviors in AD animals. In addition, exercise pretreatment attenuated amyloid-β deposition and tau hyperphosphorylation and preserved spine density, synapses, and presynaptic vesicles. Exercise also inhibited neuronal damage, neuronal apoptosis, and neuronal degeneration. Additional studies revealed the imbalance of mitochondrial dynamics was significantly inhibited by exercise pretreatment accompanied by a remarkable suppression of oxidative stress and neuroinflammation. Our findings suggest that long-term exercise pretreatment alleviated behavioral deficits and typical pathologies of the AD rat model, supporting long-term exercise pretreatment as a potential approach to delay the progression of AD.
+AD  - Department of Neurology, Louisiana State University Health Sciences Center, 1501 Kings Highway, Shreveport, LA, 71103, USA.
+Department of Neuroscience and Regenerative Medicine, Medical College of Georgia, Augusta University, 1120 15th Street, Augusta, GA, 30912, USA.
+Department of Neurology, Louisiana State University Health Sciences Center, 1501 Kings Highway, Shreveport, LA, 71103, USA. qzh001@lsuhs.edu.
+AN  - 35229257
+AU  - Yang, L.
+AU  - Wu, C.
+AU  - Li, Y.
+AU  - Dong, Y.
+AU  - Wu, C. Y.
+AU  - Lee, R. H.
+AU  - Brann, D. W.
+AU  - Lin, H. W.
+AU  - Zhang, Q.
+C1  - The authors declare no competing interests.
+C2  - PMC9213627
+DA  - Jun
+DO  - 10.1007/s11357-022-00534-2
+DP  - NLM
+ET  - 20220228
+IS  - 3
+KW  - *Alzheimer Disease/complications/therapy
+Amyloid beta-Peptides
+Animals
+Disease Models, Animal
+Male
+*Physical Conditioning, Animal
+Plaque, Amyloid
+Rats
+Rats, Transgenic
+Alzheimer’s disease
+Amyloid-β deposition
+Memory
+Mitochondrial dynamics
+TgF344-AD rats
+Treadmill exercise
+LA  - eng
+N1  - 2509-2723
+Yang, Luodan
+Wu, Chongyun
+Li, Yong
+Dong, Yan
+Wu, Celeste Yin-Chieh
+Lee, Reggie Hui-Chao
+Brann, Darrell W
+Lin, Hung Wen
+Zhang, Quanguang
+RF1 AG058603/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Switzerland
+2022/03/02
+Geroscience. 2022 Jun;44(3):1457-1477. doi: 10.1007/s11357-022-00534-2. Epub 2022 Feb 28.
+PY  - 2022
+SN  - 2509-2715 (Print)
+2509-2723
+SP  - 1457-1477
+ST  - Long-term exercise pre-training attenuates Alzheimer's disease-related pathology in a transgenic rat model of Alzheimer's disease
+T2  - Geroscience
+TI  - Long-term exercise pre-training attenuates Alzheimer's disease-related pathology in a transgenic rat model of Alzheimer's disease
+VL  - 44
+ID  - 50990
+ER  - 
+
+TY  - JOUR
+AB  - Behavioral flexibility (or set-shifting), which is regulated by the prefrontal cortex (PFC), is often impaired in patients with attention-deficit/hyperactivity disorder (ADHD), which is characterized by poor inhibitory control and reinforcement learning. Transcranial direct current stimulation (tDCS) has been proposed as a means of noninvasive brain stimulation and a potential therapeutic tool for modulating behavioral flexibility. Animal studies can pave the way to know if tDCS application can potentially benefit rule- and goal-based activities in ADHD. Spontaneously hypertensive rats (SHRs) and inbred Wistar-Kyoto (WKY) rats were used as an animal model of ADHD and controls, respectively, and their strategy set-shifting abilities, including initial discrimination, set-shifting, and reversal learning tasks under 0-s or 15-s reinforcer delivery delay conditions, were evaluated. The tDCS treatment had a limited effect on the performance of the SHRs and WKY rats in initial discrimination task under 0-s delay condition. Under the 15-s delay condition, the SHRs had longer lever-press reaction times and/or more trial omissions than the WKY rats did when completing set-shifting and reversal-learning tasks. Among the SHRs, tDCS treatment improved the rats' reaction times and/or reduced their trial omissions in the set-shifting and reversal-learning tasks. Although tDCS may improve delayed reinforcement learning set-shifting performance in SHRs, further studies are required to clarify the responsible mechanism.
+AD  - Department of Occupational Therapy & Graduate Institute of Behavioral Sciences, College of Medicine, Chang Gung University, Taoyuan, Taiwan; Department of Neurology and Dementia Center, Chang Gung Memorial Hospital at Taoyuan, Taoyuan, Taiwan.
+Department of Biomedical Engineering, Ming-Chuan University, Taoyuan, Taiwan.
+School of Physical Therapy and Graduate Institute of Rehabilitation Science, College of Medicine, Chang Gung University, Taoyuan, Taiwan; Neuroscience Research Center, Chang Gung Memorial Hospital, Linkou, Taoyuan, Taiwan; Healthy Aging Research Center, Chang Gung University, Taoyuan 33302, Taiwan.
+Department of Biomedical Engineering, Taipei Medical University, Taipei, Taiwan.
+School of Physical Therapy and Graduate Institute of Rehabilitation Science, College of Medicine, Chang Gung University, Taoyuan, Taiwan; Department of Physical Medicine and Rehabilitation, Chang Gung Memorial Hospital at Linkou, Taoyuan, Taiwan.
+School and Graduate Institute of Traditional Chinese Medicine, College of Medicine, Chang Gung University, Taoyuan, Taiwan; Division of Chinese Internal Medicine, Center for Traditional Chinese Medicine, Chang Gung Memorial Hospital, Taoyuan, Taiwan.
+Department of Neurology and Dementia Center, Chang Gung Memorial Hospital at Taoyuan, Taoyuan, Taiwan.
+Department of Physical Therapy, College of Medicine, I-Shou University, Kaohsiung, Taiwan. Electronic address: hmlee@isu.edu.tw.
+Section of Department of Child and Adolescent Psychiatry, Department of Psychiatry, Chang Gung Memorial Hospital at Taoyuan and Chang Gung University College of Medicine, Taoyuan, Taiwan. Electronic address: sophie.lhy@gmail.com.
+AN  - 36206819
+AU  - Chen, H. Y.
+AU  - Yang, C. Y.
+AU  - Hsieh, T. H.
+AU  - Peng, C. W.
+AU  - Chuang, L. L.
+AU  - Chang, Y. L.
+AU  - Chi, H. J.
+AU  - Lee, H. M.
+AU  - Liang, S. H.
+C1  - Declaration of Competing Interest The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+DA  - Feb 2
+DO  - 10.1016/j.bbr.2022.114145
+DP  - NLM
+ET  - 20221004
+KW  - Animals
+Rats
+*Attention Deficit Disorder with Hyperactivity
+Rats, Inbred WKY
+*Transcranial Direct Current Stimulation
+Attention/physiology
+Rats, Inbred SHR
+Disease Models, Animal
+Attention-deficit/hyperactivity disorder (ADHD)
+Reinforcement learning
+Set-shifting
+Transcranial direct current stimulation (tDCS)
+LA  - eng
+N1  - 1872-7549
+Chen, Hsin-Yung
+Yang, Chia-Yen
+Hsieh, Tsung-Hsun
+Peng, Chih-Wei
+Chuang, Li-Ling
+Chang, Ying-Ling
+Chi, Huang-Ju
+Lee, Hsin-Min
+Liang, Sophie Hsin-Yi
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2022/10/08
+Behav Brain Res. 2023 Feb 2;437:114145. doi: 10.1016/j.bbr.2022.114145. Epub 2022 Oct 4.
+PY  - 2023
+SN  - 0166-4328
+SP  - 114145
+ST  - Effects of transcranial direct current stimulation on improving performance of delayed- reinforcement attentional set-shifting tasks in attention-deficit/hyperactivity disorder rat model
+T2  - Behav Brain Res
+TI  - Effects of transcranial direct current stimulation on improving performance of delayed- reinforcement attentional set-shifting tasks in attention-deficit/hyperactivity disorder rat model
+VL  - 437
+ID  - 50943
+ER  - 
+
+TY  - JOUR
+AB  - AIMS: Cerebrovascular impairment contributes to the pathogenesis of Alzheimer's disease (AD). However, it still lacks effective intervention in clinical practice. Here, we investigated the efficacy of electroacupuncture (EA) in cerebrovascular repair in 3xTg-AD mice and its mechanism. METHODS: 3xTg-AD mice were employed to evaluate the protective effect of EA at ST36 acupoint (EAST36). Behavioral tests were performed to assess neurological disorders. Laser speckle contrast imaging, immunostaining, and Western blot were applied to determine EAST36-boosted cerebrovascular repair. The mechanism was explored in 3xTg mice and endothelial cell cultures by melatonin signaling modulation. RESULTS: EAST36 at 20/100 Hz effectively alleviated the olfactory impairment and anxiety behavior and boosted cerebrovascular repair in AD mice. EAST36 attenuated cerebral microvascular degeneration in AD mice by modulating endothelial cell viability and injury. Consequently, the Aβ deposits and neural damage in AD mice were reversed after EAST36. Mechanistically, we revealed that EAST36 restored melatonin levels in AD mice. Melatonin supplement mimicked the EAST36 effect on cerebrovascular protection in AD mice and endothelial cell cultures. Importantly, blockage of melatonin signaling by antagonist blunted EAST36-induced cerebrovascular recovery and subsequent neurological improvement. CONCLUSIONS: These findings provided strong evidence to support EAST36 as a potential nonpharmacological therapy against cerebrovascular impairment in AD. Further study is necessary to better understand how EAST36 treatment drives melatonin signaling.
+AD  - South China Research Center for Acupuncture and Moxibustion, Guangzhou University of Chinese Medicine, Guangzhou, China.
+College of Life Science and Technology, Dalian University, Dalian, China.
+Department of Neurology and Neurological Sciences, Stanford University School of Medicine, Stanford, California, USA.
+Key Laboratory of Cardiovascular and Cerebrovascular Medicine, School of Pharmacy, Nanjing Medical University, Nanjing, China.
+AN  - 36382345
+AU  - Jiang, Y.
+AU  - Lin, Y.
+AU  - Tan, Y.
+AU  - Shen, X.
+AU  - Liao, M.
+AU  - Wang, H.
+AU  - Lu, N.
+AU  - Han, F.
+AU  - Xu, N.
+AU  - Tang, C.
+AU  - Song, J.
+AU  - Tao, R.
+C1  - All authors have declared no competing interests.
+C2  - PMC9928543
+DA  - Mar
+DO  - 10.1111/cns.14027
+DP  - NLM
+ET  - 20221115
+IS  - 3
+KW  - Mice
+Animals
+*Alzheimer Disease/therapy/drug therapy
+*Melatonin/therapeutic use
+*Electroacupuncture/methods
+Disease Models, Animal
+Mice, Transgenic
+Alzheimer's disease
+cerebrovascular impairment
+electroacupuncture at ST36 acupoint
+endothelial cell
+melatonin signaling
+LA  - eng
+N1  - 1755-5949
+Jiang, Yimin
+Lin, Yunshi
+Tan, Yuhang
+Shen, Xinkai
+Liao, Meihua
+Wang, Huan
+Lu, Nannan
+Han, Feng
+Orcid: 0000-0002-4868-3491
+Xu, Nenggui
+Tang, Chunzhi
+Song, Juxian
+Tao, Rongrong
+Orcid: 0000-0003-2790-9815
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2022/11/17
+CNS Neurosci Ther. 2023 Mar;29(3):917-931. doi: 10.1111/cns.14027. Epub 2022 Nov 15.
+PY  - 2023
+SN  - 1755-5930 (Print)
+1755-5930
+SP  - 917-931
+ST  - Electroacupuncture ameliorates cerebrovascular impairment in Alzheimer's disease mice via melatonin signaling
+T2  - CNS Neurosci Ther
+TI  - Electroacupuncture ameliorates cerebrovascular impairment in Alzheimer's disease mice via melatonin signaling
+VL  - 29
+ID  - 50939
+ER  - 
+
+TY  - JOUR
+AB  - Physical exercise has been recommended as a non-pharmacologic treatment for delaying the onset or slowing the progression of Alzheimer's disease (AD). The therapeutic potential of exercise training-induced changes in symbiotic gut microbiota against AD neuropathology is not well understood, yet. This study investigated the effects of a 20-week forced treadmill exercise program on the makeup of the gut microbiota, the integrity of the blood-brain barrier (BBB), and the development of AD-like cognitive deficits and neuropathology in triple transgenic AD mice. Our findings show that forced treadmill running causes symbiotic changes in the gut microbiota, such as increased Akkermansia muciniphila and decreased Bacteroides species, as well as increased BBB-related protein expression and reduced AD-like cognitive impairments and neuropathology progression. The current findings of this animal study suggest that the interaction between the gut microbiota and the brain, possibly via the BBB, is responsible for exercise training-induced cognitive benefits and alleviation of AD pathology.
+AD  - College of Sport Science, Sungkyunkwan University, Suwon, Republic of Korea.
+College of Sport Science, Sungkyunkwan University, Suwon, Republic of Korea. Electronic address: hkang@skku.edu.
+AN  - 36889489
+AU  - Jin, Y.
+AU  - Kim, T.
+AU  - Kang, H.
+C1  - Declaration of Competing Interest We have no conflicts of interest.
+DA  - May 15
+DO  - 10.1016/j.physbeh.2023.114145
+DP  - NLM
+ET  - 20230306
+KW  - Mice
+Animals
+*Alzheimer Disease/complications/therapy/metabolism
+*Gastrointestinal Microbiome
+*Cognitive Dysfunction/etiology/therapy
+Mice, Transgenic
+*Running
+Disease Models, Animal
+Blood-brain barrier
+Cognitive function
+Gut microbiome
+Neuropathology
+Physical exercise
+LA  - eng
+N1  - 1873-507x
+Jin, Youngyun
+Kim, Taewan
+Kang, Hyunsik
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2023/03/09
+Physiol Behav. 2023 May 15;264:114145. doi: 10.1016/j.physbeh.2023.114145. Epub 2023 Mar 6.
+PY  - 2023
+SN  - 0031-9384
+SP  - 114145
+ST  - Forced treadmill running modifies gut microbiota with alleviations of cognitive impairment and Alzheimer's disease pathology in 3xTg-AD mice
+T2  - Physiol Behav
+TI  - Forced treadmill running modifies gut microbiota with alleviations of cognitive impairment and Alzheimer's disease pathology in 3xTg-AD mice
+VL  - 264
+ID  - 50986
+ER  - 
+
+TY  - JOUR
+AB  - The induced pluripotent stem cells (iPSCs) are able to differentiate into dopaminergic neurons and execute the therapeutic effects for Parkinson's disease (PD). Here, we established a animal model of PD in Lanyu pigs by injecting 5 mg/kg of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine hydrochloride (MPTP). Next, the porcine iPSC-like cells (piPSC-like cells) were differentiated into D18 neuronal progenitors (D18 NPs) that were transplanted into the striatum to evaluate their therapeutic effects of PD. We showed that after 8 weeks of cell transplantation, the behavior score was significantly ameliorated and fully recovered at the 14th week of cell transplantation. The number of dopaminergic neurons was also significantly improved at the end of the experiment although the number was still about 50% lower than that in the control group. Our findings suggest that piPSC-like cell-derived D18 NPs exhibit a potential for the treatment of PD in the Lanyu pig model.
+AD  - Division of Physiology, Livestock Research Institute, Council of Agriculture, Tainan, Taiwan.
+Department of Medical Research, Buddhist Tzu Chi General Hospital, Hualien, Taiwan.
+Holistic Education Center, Tzu Chi University of Science and Technology, Hualien, Taiwan.
+Department of Biotechnology and Bioindustry Sciences, National Cheng Kung University, Tainan, Taiwan.
+Kaohsiung Animal Propagation Station, Livestock Research Institute, Council of Agriculture, Neipu, Pingtung, Taiwan.
+AN  - 35152856
+AU  - Liao, Y. J.
+AU  - Liao, C. H.
+AU  - Chen, L. R.
+AU  - Yang, J. R.
+DA  - Nov
+DO  - 10.1080/10495398.2021.2020130
+DP  - NLM
+ET  - 20220213
+IS  - 4
+KW  - Swine
+Animals
+Mice
+*Parkinson Disease/therapy
+*Induced Pluripotent Stem Cells
+Dopaminergic Neurons/transplantation
+Cell Differentiation/physiology
+Models, Animal
+Disease Models, Animal
+Mice, Inbred C57BL
+*Swine Diseases
+Lanyu pigs
+Parkinson disease
+dopaminergic neurons
+porcine induced pluripotent stem cells
+LA  - eng
+N1  - 1532-2378
+Liao, Yu-Jing
+Orcid: 0000-0003-0421-3268
+Liao, Chia-Hsin
+Chen, Lih-Ren
+Yang, Jenn-Rong
+Journal Article
+England
+2022/02/15
+Anim Biotechnol. 2023 Nov;34(4):1283-1294. doi: 10.1080/10495398.2021.2020130. Epub 2022 Feb 13.
+PY  - 2023
+SN  - 1049-5398
+SP  - 1283-1294
+ST  - Dopaminergic neurons derived from porcine induced pluripotent stem cell like cells function in the Lanyu pig model of Parkinson's disease
+T2  - Anim Biotechnol
+TI  - Dopaminergic neurons derived from porcine induced pluripotent stem cell like cells function in the Lanyu pig model of Parkinson's disease
+VL  - 34
+ID  - 50967
+ER  - 
+
+TY  - JOUR
+AB  - No curative or fully effective treatments are currently available for Alzheimer's disease (AD), the most common form of dementia. Electrical stimulation of deep brain areas has been proposed as a novel neuromodulatory therapeutic approach. Previous research from our lab demonstrates that intracranial self-stimulation (ICSS) targeting medial forebrain bundle (MFB) facilitates explicit and implicit learning and memory in rats with age or lesion-related memory impairment. At a molecular level, MFB-ICSS modulates the expression of plasticity and neuroprotection-related genes in memory-related brain areas. On this basis, we suggest that MFB could be a promising stimulation target for AD treatment. In this study, we aimed to assess the effects of MFB-ICSS on both explicit memory as well as the levels of neuropathological markers ptau and drebrin (DBN) in memory-related areas, in an AD rat model obtained by Aβ icv-injection. A total of 36 male rats were trained in the Morris water maze on days 26-30 after Aβ injection and tested on day 33. Results demonstrate that this Aβ model displayed spatial memory impairment in the retention test, accompanied by changes in the levels of DBN and ptau in lateral entorhinal cortex and hippocampus, resembling pathological alterations in early AD. Administration of MFB-ICSS treatment consisting of 5 post-training sessions to AD rats managed to reverse the memory deficits as well as the alteration in ptau and DBN levels. Thus, this paper reports both cognitive and molecular effects of a post-training reinforcing deep brain stimulation procedure in a sporadic AD model for the first time.
+AD  - Universitat de Girona, Departament de Biologia, 17003 Girona, Spain.
+Universitat Autònoma de Barcelona, Unitat Psicobiologia, Institut de Neurociències, 08193 Bellaterra, Barcelona, Spain.
+Universitat Autònoma de Barcelona, Unitat Psicobiologia, Institut de Neurociències, 08193 Bellaterra, Barcelona, Spain. Electronic address: pilar.segura@uab.es.
+Universitat de Girona, Departament de Biologia, 17003 Girona, Spain. Electronic address: elisabet.kadar@udg.edu.
+AN  - 36646411
+AU  - Puig-Parnau, I.
+AU  - Garcia-Brito, S.
+AU  - Vila-Soles, L.
+AU  - Riberas, A.
+AU  - Aldavert-Vera, L.
+AU  - Segura-Torres, P.
+AU  - Kádár, E.
+AU  - Huguet, G.
+DA  - Feb 21
+DO  - 10.1016/j.neuroscience.2023.01.005
+DP  - NLM
+ET  - 20230114
+KW  - Animals
+Male
+Rats
+*Alzheimer Disease/therapy
+Amyloid beta-Peptides
+Disease Models, Animal
+*Medial Forebrain Bundle/physiology
+*Memory Disorders/therapy
+Rats, Wistar
+Spatial Memory/physiology
+*Electric Stimulation Therapy/methods
+Alzheimer’s disease
+amyloid-β
+deep brain stimulation
+intracranial self-stimulation
+medial forebrain bundle
+LA  - eng
+N1  - 1873-7544
+Puig-Parnau, Irene
+Garcia-Brito, Soleil
+Vila-Soles, Laia
+Riberas, Andrea
+Aldavert-Vera, Laura
+Segura-Torres, Pilar
+Kádár, Elisabet
+Huguet, Gemma
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2023/01/17
+Neuroscience. 2023 Feb 21;512:16-31. doi: 10.1016/j.neuroscience.2023.01.005. Epub 2023 Jan 14.
+PY  - 2023
+SN  - 0306-4522
+SP  - 16-31
+ST  - Intracranial Self-stimulation of the Medial Forebrain Bundle Ameliorates Memory Disturbances and Pathological Hallmarks in an Alzheimer's Disease Model by Intracerebral Administration of Amyloid-β in Rats
+T2  - Neuroscience
+TI  - Intracranial Self-stimulation of the Medial Forebrain Bundle Ameliorates Memory Disturbances and Pathological Hallmarks in an Alzheimer's Disease Model by Intracerebral Administration of Amyloid-β in Rats
+VL  - 512
+ID  - 50987
+ER  - 
+
+TY  - JOUR
+AB  - In Huntington disease (HD), the mutant huntingtin (mtHTT) protein is the principal cause of pathological changes that initiate primarily along the cortico-striatal axis. mtHTT is ubiquitously expressed and there is, accordingly, growing recognition that HD is a systemic disorder with functional interplay between the brain and the periphery. We have developed a monoclonal antibody, C6-17, targeting an exposed region of HTT near the aa586 Caspase 6 cleavage site. As recently published, mAB C6-17 can block cell-to-cell propagation of mtHTT in vitro. In order to reduce the burden of the mutant protein in vivo, we queried whether extracellular mtHTT could be therapeutically targeted in YAC128 HD mice. In a series of proof of concept experiments, we found that systemic mAB C6-17 treatment resulted in the distribution of the mAB C6-17 to peripheral and CNS tissues and led to the reduction of HTT protein levels. Compared to CTRL mAB or vehicle treated mice, the mAB C6-17 treated YAC128 animals showed improved body weight and motor behaviors, a delayed progression in motor deficits and reduced striatal EM48 immunoreactivity. These results provide the first proof of concept for the feasibility and therapeutic efficacy of an antibody-based anti-HTT passive immunization approach and suggest this modality as a potential new HD treatment strategy.
+AD  - HD Immune, Vienna, Austria. Electronic address: S.bartl@HDImmune.com.
+University of Central Florida, Burnett School of Biomedical Sciences, Orlando, FL, United States of America; University of British Columbia, Centre for Molecular Medicine and Therapeutics, Vancouver, Canada.
+University of Central Florida, Burnett School of Biomedical Sciences, Orlando, FL, United States of America.
+University of British Columbia, Centre for Molecular Medicine and Therapeutics, Vancouver, Canada.
+AFFiRiS AG, Vienna, Austria.
+Centre de recherche du CHU - Université Laval, Québec, Canada.
+University of Central Florida, Burnett School of Biomedical Sciences, Orlando, FL, United States of America. Electronic address: amber.southwell@ucf.edu.
+AN  - 38092268
+AU  - Bartl, S.
+AU  - Xie, Y.
+AU  - Potluri, N.
+AU  - Kesineni, R.
+AU  - Hencak, K.
+AU  - Cengio, L. D.
+AU  - Balazs, K.
+AU  - Oueslati, A.
+AU  - Parth, M.
+AU  - Salhat, N.
+AU  - Siddu, A.
+AU  - Smrzka, O.
+AU  - Cicchetti, F.
+AU  - Straffler, G.
+AU  - Hayden, M. R.
+AU  - Southwell, A. L.
+C1  - Declaration of Competing Interest SB is an co-founder of HD Immune, GS is a consultant for AC Immune. MRH currently serves on the public boards of Ionis Pharmaceuticals, Xenon Pharmaceuticals, Aurinia Pharmaceuticals and 89bio. KB is currently an employee of Evotec, NS is currently working at Octapharma. All other authors declare no competing interests.
+DA  - Jan
+DO  - 10.1016/j.nbd.2023.106376
+DP  - NLM
+ET  - 20231212
+KW  - Mice
+Animals
+*Huntington Disease/metabolism
+Mice, Transgenic
+Nerve Tissue Proteins/metabolism
+Nuclear Proteins/metabolism
+Huntingtin Protein/genetics
+Immunotherapy
+Disease Models, Animal
+Antibodies, Monoclonal/pharmacology/therapeutic use
+Disease Progression
+Extracellular huntingtin
+Huntingtin lowering therapy
+Huntington disease
+Passive immunization
+Preclinical trial
+Transgenic mice
+LA  - eng
+N1  - 1095-953x
+Bartl, Stefan
+Xie, Yuanyun
+Potluri, Nalini
+Kesineni, Ratnesh
+Hencak, Katlin
+Cengio, Louisa Dal
+Balazs, Katja
+Oueslati, Abid
+Parth, Michela
+Salhat, Nina
+Siddu, Alberto
+Smrzka, Oskar
+Cicchetti, Francesca
+Straffler, Günther
+Hayden, Michael R
+Southwell, Amber L
+Journal Article
+United States
+2023/12/14
+Neurobiol Dis. 2024 Jan;190:106376. doi: 10.1016/j.nbd.2023.106376. Epub 2023 Dec 12.
+PY  - 2024
+SN  - 0969-9961
+SP  - 106376
+ST  - Reducing huntingtin by immunotherapy delays disease progression in a mouse model of Huntington disease
+T2  - Neurobiol Dis
+TI  - Reducing huntingtin by immunotherapy delays disease progression in a mouse model of Huntington disease
+VL  - 190
+ID  - 50960
+ER  - 
+
+TY  - JOUR
+AB  - Frontotemporal dementia (FTD) is a neurodegenerative disorder that affects the frontal and temporal lobes of the brain, primarily in individuals under 65 years of age, and is the second most common form of dementia worldwide. There is no cure for FTD and current treatments offer limited symptomatic relief. Regular physical activity exhibits cognitive and neuroprotective benefits in healthy individuals and in various neurodegenerative diseases, such as Alzheimer's disease, but few studies have examined its efficacy in FTD. Accordingly, we investigated the impact of voluntary exercise training (VET) on the metabolic and behavioral characteristics of the rTg4510 transgenic mouse model of familial FTD. We show that regardless of genotype, VET increased energy expenditure, decreased sleep duration, and improved long-term memory in rTg4510 mice and WT littermates. Moreover, VET appeared to improve hyperactivity, a common feature of FTD, in rTg4510 mice. Although further work is required, these findings provide important insights into the potential benefits of physical activity in FTD.
+AD  - Monash Institute of Pharmaceutical Sciences, Monash University, Melbourne, Australia.
+Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, Australia.
+Monash Institute of Pharmaceutical Sciences, Monash University, Melbourne, Australia. Electronic address: mark.febbraio@monash.edu.
+AN  - 38122903
+AU  - Fuller, O. K.
+AU  - McLennan, E. D.
+AU  - Egan, C. L.
+AU  - Burrows, E. L.
+AU  - Febbraio, M. A.
+C1  - Declaration of Competing Interest M.A.F. is a shareholder and scientific advisor for N-Gene Pharmaceuticals. M.A.F. is the founder and shareholder of Celesta Therapeutics.
+DA  - Mar 5
+DO  - 10.1016/j.bbr.2023.114810
+DP  - NLM
+ET  - 20231219
+KW  - Mice
+Animals
+*Frontotemporal Dementia/genetics/therapy
+Mice, Transgenic
+*Alzheimer Disease/genetics/therapy
+Temporal Lobe
+Disease Models, Animal
+Exercise
+Cognitive impairment
+Exercise metabolism
+Frontotemporal dementia
+LA  - eng
+N1  - 1872-7549
+Fuller, Oliver K
+McLennan, Emma D
+Egan, Casey L
+Burrows, Emma L
+Febbraio, Mark A
+Journal Article
+Netherlands
+2023/12/21
+Behav Brain Res. 2024 Mar 5;460:114810. doi: 10.1016/j.bbr.2023.114810. Epub 2023 Dec 19.
+PY  - 2024
+SN  - 0166-4328
+SP  - 114810
+ST  - Impact of voluntary exercise training on the metabolic and behavioral characteristics of the rTg4510 transgenic mouse model of frontotemporal dementia
+T2  - Behav Brain Res
+TI  - Impact of voluntary exercise training on the metabolic and behavioral characteristics of the rTg4510 transgenic mouse model of frontotemporal dementia
+VL  - 460
+ID  - 50956
+ER  - 
+
+TY  - JOUR
+AB  - Studies suggest that ketogenic diets (KD) may improve memory in mouse models of aging and Alzheimer's disease (AD). This study determined whether a continuous or intermittent KD (IKD) enhanced cognitive behavior in the TgF344-AD rat model of AD. At 6 months-old, TgF344-AD and wild-type (WT) littermates were placed on a control (CD), KD, or IKD (morning CD and afternoon KD) provided as two meals per day for 2 or 6 months. Cognitive and motor behavior and circulating β-hydroxybutyrate (BHB), AD biomarkers and blood lipids were assessed. Animals on a KD diet had elevated circulating BHB, with IKD levels intermediate to CD and KD. TgF344-AD rats displayed impaired spatial learning memory in the Barnes maze at 8 and 12 months of age and impaired motor coordination at 12 months of age. Neither KD nor IKD improved performance compared to CD. At 12 months of age, TgF344-AD animals had elevated blood lipids. IKD reduced lipids to WT levels with KD further reducing cholesterol below WT levels. This study shows that at 8 or 12 months of age, KD or IKD intervention did not improve measures of cognitive or motor behavior in TgF344-AD rats; however, both IKD and KD positively impacted circulating lipids.
+AD  - Department of Molecular Biosciences, School of Veterinary Medicine, University of California, Davis, CA 95616, USA.
+Department of Physiology, School of Medicine, Istinye University, Istanbul 34396, Turkey.
+Department of Public Health Sciences, School of Medicine, University of California, Davis, CA 95616, USA.
+The MIND Institute, School of Medicine, University of California, Davis, CA 95817, USA.
+Center for Neuroscience, University of California, Davis, CA 95616, USA.
+AN  - 38613791
+AU  - Rutkowsky, J. M.
+AU  - Roland, Z.
+AU  - Valenzuela, A.
+AU  - Nguyen, A. B.
+AU  - Park, H. H.
+AU  - Six, N.
+AU  - Dursun, I.
+AU  - Kim, K.
+AU  - Lein, P. J.
+AU  - Ramsey, J. J.
+C1  - CONFLICTS OF INTEREST: The authors declare no conflicts of interest related to this study.
+C2  - PMC11042947
+DA  - Apr 12
+DO  - 10.18632/aging.205741
+DP  - NLM
+ET  - 20240412
+IS  - 7
+KW  - Animals
+*Diet, Ketogenic
+Rats
+*Cognition/physiology
+Male
+*Alzheimer Disease/diet therapy/blood
+*Lipids/blood
+Rats, Inbred F344
+Disease Models, Animal
+3-Hydroxybutyric Acid/blood
+Maze Learning
+Motor Activity
+Rats, Transgenic
+Behavior, Animal
+Alzheimer’s disease
+cognitive behavior
+ketogenic diet
+lipids
+motor function
+LA  - eng
+N1  - 1945-4589
+Rutkowsky, Jennifer M
+Roland, Zabrisky
+Valenzuela, Anthony
+Nguyen, An B
+Park, Heui Hye
+Six, Natalie
+Dursun, Ilknur
+Kim, Kyoungmi
+Lein, Pamela J
+Ramsey, Jon J
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2024/04/13 20:44
+Aging (Albany NY). 2024 Apr 12;16(7):5811-5828. doi: 10.18632/aging.205741. Epub 2024 Apr 12.
+PY  - 2024
+SN  - 1945-4589
+SP  - 5811-5828
+ST  - The impact of continuous and intermittent ketogenic diets on cognitive behavior, motor function, and blood lipids in TgF344-AD rats
+T2  - Aging (Albany NY)
+TI  - The impact of continuous and intermittent ketogenic diets on cognitive behavior, motor function, and blood lipids in TgF344-AD rats
+VL  - 16
+ID  - 50975
+ER  - 
+
+TY  - JOUR
+AB  - Although photobiomodulation (PBM) and gamma visual stimulatqion (GVS) have been overwhelmingly explored in the recent time as a possible light stimulation (LS) means of Alzheimer's disease (AD) therapy, their effects have not been assessed at once. In our research, the AD mouse model was stimulated using light with various parameters [continuous wave (PBM) or 40 Hz pulsed visible LED (GVS) or 40 Hz pulsed 808 nm LED (PBM and GVS treatment)]]. The brain slices collected from the LS treated AD model mice were evaluated using (i) fluorescence microscopy to image thioflavine-S labeled amy-loid-β (Aβ) plaques (the main hallmark of AD), or (ii) two-photon excited fluorescence (TPEF) imaging of unlabeled Aβ plaques, showing that the amount of Aβ plaques was reduced after LS treatment. The imaging results correlated well with the results of Morris water maze (MWM) test, which demonstrated that the spatial learning and memory abilities of LS treated mice were noticeably higher than those of untreated mice. The LS effect was also assessed by in vivo nonlinear optical imaging, revealing that the cerebral amyloid angiopathy decreased spe-cifically as a result of 40 Hz pulsed 808 nm irradiation, on the contrary, the angiopathy reversed after visible 40 Hz pulsed light treatment. The obtained results provide useful reference for further optimization of the LS (PBM or GVS) parameters to achieve efficient phototherapy of AD.
+AD  - Key Laboratory of Optoelectronics Devices and Systems of Ministry of Education and Guangdong Province, College of Physics and Optoelectronic Engineering, Shenzhen University, Shenzhen 518060, Guangdong Province, P.R. China.
+HOLOKOOK Co. LtD, Shenzhen 518060, Guangdong Province, P.R. China.
+Key Laboratory of Optoelectronics Devices and Systems of Ministry of Education and Guangdong Province, College of Physics and Optoelectronic Engineering, Shenzhen University, Shenzhen 518060, Guangdong Province, P.R. China. Electronic address: tyo@szu.edu.cn.
+Key Laboratory of Optoelectronics Devices and Systems of Ministry of Education and Guangdong Province, College of Physics and Optoelectronic Engineering, Shenzhen University, Shenzhen 518060, Guangdong Province, P.R. China; Engineering Research Center of Optical Instrument and System, Ministry of Education, Shanghai Key Lab of Modern Optical System, School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology, Shanghai 200093, P.R. China. Electronic address: jlqu@szu.edu.cn.
+AN  - 38029664
+AU  - Xu, H.
+AU  - Luo, Z.
+AU  - Zhang, R.
+AU  - Golovynska, I.
+AU  - Huang, Y.
+AU  - Samanta, S.
+AU  - Zhou, T.
+AU  - Li, S.
+AU  - Guo, B.
+AU  - Liu, L.
+AU  - Weng, X.
+AU  - He, J.
+AU  - Liao, C.
+AU  - Wang, Y.
+AU  - Ohulchanskyy, T. Y.
+AU  - Qu, J.
+C1  - Declaration of Competing Interest None of the authors has a conflict of interest. All the data are available on request to authors.
+DA  - Jan
+DO  - 10.1016/j.jphotobiol.2023.112816
+DP  - NLM
+ET  - 20231123
+KW  - Mice
+Animals
+*Alzheimer Disease
+Photic Stimulation
+*Low-Level Light Therapy/methods
+Brain/metabolism
+Plaque, Amyloid
+Amyloid beta-Peptides
+Disease Models, Animal
+Mice, Transgenic
+Alzheimer's disease
+Amyloid-β
+Cerebral amyloid angiopathy
+Gamma visual stimulation
+Nonlinear optical imaging
+Photobiomodulation
+LA  - eng
+N1  - 1873-2682
+Xu, Hao
+Luo, Ziyi
+Zhang, Renlong
+Golovynska, Iuliia
+Huang, Yanxia
+Samanta, Soham
+Zhou, Ting
+Li, Shaowei
+Guo, Bingang
+Liu, Liwei
+Weng, Xiaoyu
+He, Jun
+Liao, Changrui
+Wang, Yiping
+Ohulchanskyy, Tymish Y
+Qu, Junle
+Journal Article
+Switzerland
+2023/11/30
+J Photochem Photobiol B. 2024 Jan;250:112816. doi: 10.1016/j.jphotobiol.2023.112816. Epub 2023 Nov 23.
+PY  - 2024
+SN  - 1011-1344
+SP  - 112816
+ST  - Exploring the effect of photobiomodulation and gamma visual stimulation induced by 808 nm and visible LED in Alzheimer's disease mouse model
+T2  - J Photochem Photobiol B
+TI  - Exploring the effect of photobiomodulation and gamma visual stimulation induced by 808 nm and visible LED in Alzheimer's disease mouse model
+VL  - 250
+ID  - 50944
+ER  - 
+

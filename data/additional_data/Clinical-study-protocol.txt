@@ -1,0 +1,1852 @@
+﻿TY  - JOUR
+AB  - BACKGROUND: Experiencing autonomy is recognised to promote health and well-being for all age groups. Perceived lack of control has been found to be detrimental to physical and mental health. There is a lack of evidence-based knowledge elucidating how frail older people in nursing home settings themselves perceive autonomy in daily life. Further, there are no studies on the extent to which this perception can be influenced positively by participating in an individually tailored programme based on residents' own wishes for daily activities. METHODS AND DESIGN: A total of 9 nursing homes and 55 participants aged 65 years or older were included in the study. All the participants were restricted in performing at least one P-ADL activity unassisted and had a Mini Mental State Examination-score above 16. Perceived autonomy was measured at baseline, after 12 weeks and after 24 weeks by The Autonomy Sub-dimension in the Measure of Actualisation of Potential test. Programmes were based on participants' individual assessment of their most important daily activities. Staff at all nursing homes who usually organize physical training, social or creative activities carried out individually tailored programmes using their usual methods and equipment. Participants in each nursing home were divided by lot into either a control group or an intervention group. The control groups received their usual care and treatment. DISCUSSION: This study is designed to assess the status of perceived autonomy at baseline and to provide information about the effectiveness of individually tailored programmes according to perceptions of autonomy registered in institutionalised physically frail older people. This will add knowledge to assist response to present and future challenges in relation to health promotion initiatives for this group.
+AN  - rayyan-1270387238
+AU  - Andresen, M.
+AU  - Puggaard, L.
+C1  - 1471-2318 Andresen, Mette Puggaard, Lis Journal Article Multicenter Study Research Support, Non-U.S. Gov't England 2008/12/02 BMC Geriatr. 2008 Dec 1;8:32. doi: 10.1186/1471-2318-8-32. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2008-12-1
+DO  - doi:10.1186/1471-2318-8-32
+KW  - Activities of Daily Living
+Aged, 80 and over
+Dependency, Psychological
+Female
+Frail Elderly/*psychology
+Humans
+Male
+*Nursing Homes
+*Personal Autonomy
+LA  - eng
+PY  - 2008
+SN  - 1471-2318
+SP  - 32
+ST  - Autonomy among physically frail older people in nursing home settings: a study protocol for an intervention study
+T2  - BMC Geriatr
+TI  - Autonomy among physically frail older people in nursing home settings: a study protocol for an intervention study
+VL  - 8
+ID  - 30515
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Late effects after radiotherapy in childhood and adolescence have mainly been characterized retrospectively with small patient numbers. However, these analyses are limited due to little information regarding organ dose levels in many cases. To overcome this limitation, the German Group of Paediatric Radiation Oncology (APRO) established the "Registry for the evaluation of late side effects after radiation in childhood and adolescence" (RiSK). The study protocol and the documentation forms are given in this publication. METHODS/DESIGN: Radiation parameters including detailed organ doses as well as toxicity evaluations are collected prospectively from centres all over Germany. Standardized documentation forms are used. These forms are given in an English and German version as additional files to this publication. Documentation is planned for all children who receive radiotherapy in one of the therapy trials of the "German Society of Paediatric Oncology and Haematology (GPOH)". The study started in a pilot phase in June 2001 in few centres. Since 2004 documentation has been performed all over Germany and is still on-going. DISCUSSION: To our knowledge, "RiSK" is the only multi-centre study that evaluates radiation associated side effects prospectively with detailed information about organ dose levels. With ongoing recruitment and prolongation of follow-up powerful data will be obtained in a few years. A broad use and international cooperation are welcome.
+AN  - rayyan-1270387247
+AU  - Bolling, T.
+AU  - Schuck, A.
+AU  - Pape, H.
+AU  - Rube, C.
+AU  - Pollinger, B.
+AU  - Timmermann, B.
+AU  - Kortmann, R. D.
+AU  - Dieckmann, K.
+AU  - Willich, N.
+C1  - 1748-717x Bolling, Tobias Schuck, Andreas Pape, Hildegard Rube, Christian Pollinger, Barbara Timmermann, Beate Kortmann, Rolf D Dieckmann, Karin Willich, Normann Journal Article Research Support, Non-U.S. Gov't England 2008/04/23 Radiat Oncol. 2008 Apr 21;3:10. doi: 10.1186/1748-717X-3-10. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2008-4-21
+DO  - doi:10.1186/1748-717x-3-10
+KW  - Adolescent
+Child
+Follow-Up Studies
+Germany
+Humans
+Neoplasms/*radiotherapy
+Radiotherapy/*adverse effects
+Radiotherapy Dosage
+Registries
+Societies, Medical
+LA  - eng
+PY  - 2008
+SN  - 1748-717x
+SP  - 10
+ST  - Study protocol of the German "Registry for the detection of late sequelae after radiotherapy in childhood and adolescence" (RiSK)
+T2  - Radiat Oncol
+TI  - Study protocol of the German "Registry for the detection of late sequelae after radiotherapy in childhood and adolescence" (RiSK)
+VL  - 3
+ID  - 30516
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Evidence generated from reliable research is not frequently implemented into clinical practice. Evidence-based clinical practice guidelines are a potential vehicle to achieve this. A recent systematic review of implementation strategies of guideline dissemination concluded that there was a lack of evidence regarding effective strategies to promote the uptake of guidelines. Recommendations from this review, and other studies, have suggested the use of interventions that are theoretically based because these may be more effective than those that are not. An evidence-based clinical practice guideline for the management of acute low back pain was recently developed in Australia. This provides an opportunity to develop and test a theory-based implementation intervention for a condition which is common, has a high burden, and for which there is an evidence-practice gap in the primary care setting. AIM: This study aims to test the effectiveness of a theory-based intervention for implementing a clinical practice guideline for acute low back pain in general practice in Victoria, Australia. Specifically, our primary objectives are to establish if the intervention is effective in reducing the percentage of patients who are referred for a plain x-ray, and improving mean level of disability for patients three months post-consultation. METHODS/DESIGN: This study protocol describes the details of a cluster randomised controlled trial. Ninety-two general practices (clusters), which include at least one consenting general practitioner, will be randomised to an intervention or control arm using restricted randomisation. Patients aged 18 years or older who visit a participating practitioner for acute non-specific low back pain of less than three months duration will be eligible for inclusion. An average of twenty-five patients per general practice will be recruited, providing a total of 2,300 patient participants. General practitioners in the control arm will receive access to the guideline using the existing dissemination strategy. Practitioners in the intervention arm will be invited to participate in facilitated face-to-face workshops that have been underpinned by behavioural theory. Investigators (not involved in the delivery of the intervention), patients, outcome assessors and the study statistician will be blinded to group allocation.
+AN  - rayyan-1270387303
+AU  - McKenzie, J. E.
+AU  - French, S. D.
+AU  - O'Connor, D. A.
+AU  - Grimshaw, J. M.
+AU  - Mortimer, D.
+AU  - Michie, S.
+AU  - Francis, J.
+AU  - Spike, N.
+AU  - Schattner, P.
+AU  - Kent, P. M.
+AU  - Buchbinder, R.
+AU  - Green, S. E.
+C1  - 1748-5908 McKenzie, Joanne E French, Simon D O'Connor, Denise A Grimshaw, Jeremy M Mortimer, Duncan Michie, Susan Francis, Jill Spike, Neil Schattner, Peter Kent, Peter M Buchbinder, Rachelle Green, Sally E HSRU2/CSO_/Chief Scientist Office/United Kingdom Journal Article England 2008/02/26 Implement Sci. 2008 Feb 22;3:11. doi: 10.1186/1748-5908-3-11. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2008-2-22
+DO  - doi:10.1186/1748-5908-3-11
+LA  - eng
+PY  - 2008
+SN  - 1748-5908
+SP  - 11
+ST  - IMPLEmenting a clinical practice guideline for acute low back pain evidence-based manageMENT in general practice (IMPLEMENT): cluster randomised controlled trial study protocol
+T2  - Implement Sci
+TI  - IMPLEmenting a clinical practice guideline for acute low back pain evidence-based manageMENT in general practice (IMPLEMENT): cluster randomised controlled trial study protocol
+VL  - 3
+ID  - 30522
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Gait and balance impairments may increase the risk of falls, the leading cause of accidental death in the elderly population. Fall-related injuries constitute a serious public health problem associated with high costs for society as well as human suffering. A rapid step is the most important protective postural strategy, acting to recover equilibrium and prevent a fall from initiating. It can arise from large perturbations, but also frequently as a consequence of volitional movements. We propose to use a novel water-based training program which includes specific perturbation exercises that will target the stepping responses that could potentially have a profound effect in reducing risk of falling. We describe the water-based balance training program and a study protocol to evaluate its efficacy (Trial registration number #NCT00708136). METHODS/DESIGN: The proposed water-based training program involves use of unpredictable, multi-directional perturbations in a group setting to evoke compensatory and volitional stepping responses. Perturbations are made by pushing slightly the subjects and by water turbulence, in 24 training sessions conducted over 12 weeks. Concurrent cognitive tasks during movement tasks are included. Principles of physical training and exercise including awareness, continuity, motivation, overload, periodicity, progression and specificity were used in the development of this novel program. Specific goals are to increase the speed of stepping responses and improve the postural control mechanism and physical functioning. A prospective, randomized, cross-over trial with concealed allocation, assessor blinding and intention-to-treat analysis will be performed to evaluate the efficacy of the water-based training program. A total of 36 community-dwelling adults (age 65-88) with no recent history of instability or falling will be assigned to either the perturbation-based training or a control group (no training). Voluntary step reaction times and postural stability using stabiliogram diffusion analysis will be tested before and after the 12 weeks of training. DISCUSSION: This study will determine whether a water-based balance training program that includes perturbation exercises, in a group setting, can improve speed of voluntary stepping responses and improve balance control. Results will help guide the development of more cost-effective interventions that can prevent the occurrence of falls in the elderly.
+AN  - rayyan-1270387305
+AU  - Melzer, I.
+AU  - Elbar, O.
+AU  - Tsedek, I.
+AU  - Oddsson, LIe
+C1  - 1471-2318 Melzer, Itshak Elbar, Ori Tsedek, Irit Oddsson, Lars Ie Journal Article Randomized Controlled Trial England 2008/08/19 BMC Geriatr. 2008 Aug 17;8:19. doi: 10.1186/1471-2318-8-19. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2008-8-17
+DO  - doi:10.1186/1471-2318-8-19
+KW  - Accidental Falls/prevention & control
+Aged
+Aged, 80 and over
+Cross-Over Studies
+Exercise/*physiology
+Female
+Follow-Up Studies
+Gait/*physiology
+Geriatric Assessment
+Humans
+*Immersion
+Male
+Middle Aged
+Physical Education and Training/*methods
+Physical Endurance
+Physical Fitness/*physiology
+Postural Balance/physiology
+Probability
+Prospective Studies
+Reference Values
+Risk Factors
+Statistics, Nonparametric
+Treatment Outcome
+LA  - eng
+PY  - 2008
+SN  - 1471-2318
+SP  - 19
+ST  - A water-based training program that include perturbation exercises to improve stepping responses in older adults: study protocol for a randomized controlled cross-over trial
+T2  - BMC Geriatr
+TI  - A water-based training program that include perturbation exercises to improve stepping responses in older adults: study protocol for a randomized controlled cross-over trial
+VL  - 8
+ID  - 30523
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Bone microarchitecture is a significant determinant of bone strength. So far, the assessment of bone microarchitecture has required bone biopsies, limiting its utilization in clinical practice to one single skeletal site. With the advance of high-resolution imaging techniques, non-invasive in vivo measurement of bone microarchitecture has recently become possible. This provides an opportunity to efficiently assess the effects of anti-osteoporotic therapies on bone microarchitecture. We therefore designed a protocol to investigate the effects of nasal salmon calcitonin, an inhibitor of osteoclast activity, on bone microarchitecture in postmenopausal women, comparing weight bearing and non-weight bearing skeletal sites. METHODS: One hundred postmenopausal women will be included in a randomized, placebo-controlled, double-blind trial comparing the effect of nasal salmon calcitonin (200 UI/day) to placebo over two years. Bone microarchitecture at the distal radius and distal tibia will be determined yearly by high-resolution peripheral quantitative computerized tomography (p-QCT) with a voxel size of 82 mum and an irradiation of less than 5 muSv. Serum markers of bone resorption and bone formation will be measured every 6 months. Safety and compliance will be assessed. Primary endpoint is the change in bone microarchitecture; secondary endpoint is the change in markers of bone turnover. HYPOTHESIS: The present study should provide new information on the mode of action of nasal calcitonin. We hypothezise that - compared to placebo - calcitonin impacts on microstructural parameters, with a possible difference between weight bearing and non-weight bearing bones. TRIAL REGISTRATION: ClinicalTrials.gov NCT00372099.
+AN  - rayyan-1270387327
+AU  - Richert, L.
+AU  - Uebelhart, B.
+AU  - Engelhardt, M.
+AU  - Azria, M.
+AU  - Rizzoli, R.
+C1  - 1745-6215 Richert, Laura Uebelhart, Brigitte Engelhardt, Marc Azria, Moise Rizzoli, René Journal Article England 2008/04/15 Trials. 2008 Apr 13;9:19. doi: 10.1186/1745-6215-9-19. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2008-4-13
+DO  - doi:10.1186/1745-6215-9-19
+LA  - eng
+PY  - 2008
+SN  - 1745-6215
+SP  - 19
+ST  - A randomized double-blind placebo-controlled trial to investigate the effects of nasal calcitonin on bone microarchitecture measured by high-resolution peripheral quantitative computerized tomography in postmenopausal women - study protocol
+T2  - Trials
+TI  - A randomized double-blind placebo-controlled trial to investigate the effects of nasal calcitonin on bone microarchitecture measured by high-resolution peripheral quantitative computerized tomography in postmenopausal women - study protocol
+VL  - 9
+ID  - 30528
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Non cephalic presentation in childbirth involves various risks to both the mother and the foetus. The incidence in Spain is 3.8% of all full-term pregnancies. The most common technique used to end the gestation in cases of non cephalic presentation is that of caesarian section, and although it provokes a lower rate of morbi-mortality than does vaginal delivery in such situations, there remains the possibility of traumatic injury to the foetal head and neck, while maternal morbidity is also increased. The application of heat (moxibustion) to an acupuncture point, in order to correct non cephalic presentation, has been practised in China since ancient times, but as yet there is insufficient evidence of its real effectiveness. METHODS/DESIGN: The experimental design consists of a multi-centre randomised controlled trial with three parallel arms, used to compare real moxibustion, sham moxibustion and the natural course of events, among pregnant women with a non cephalic presentation and a gestational duration of 33-35 weeks (estimated by echography). The participants in the trial will be blinded to both interventions. The results obtained will be analyzed by professionals, blinded with respect to the allocation to the different types of intervention. In addition, we intend to carry out a economic analysis. DISCUSSION: This trial will contribute to the development of evidence concerning moxibustion in the correction of non cephalic presentations. The primary outcome variable is the proportion of cephalic presentations at term. As secondary outcomes, we will evaluate the proportion of cephalic presentations at week 38 of gestation, determined by echography, together with the safety of the technique, the specificity of moxibustion and the control of the blinding process. This study has been funded by the Health Ministry of the Andalusian Regional Government. TRIAL REGISTRATION: Current Controlled Trials ISRCTN10634508.
+AN  - rayyan-1270387355
+AU  - Vas, J.
+AU  - Aranda, J. M.
+AU  - Barón, M.
+AU  - Perea-Milla, E.
+AU  - Méndez, C.
+AU  - Ramírez, C.
+AU  - Aguilar, I.
+AU  - Modesto, M.
+AU  - Lara, A. M.
+AU  - Martos, F.
+AU  - García-Ruiz, A. J.
+C1  - 1472-6882 Vas, Jorge Aranda, José Manuel Barón, Mercedes Perea-Milla, Emilio Méndez, Camila Ramírez, Carmen Aguilar, Inmaculada Modesto, Manuela Lara, Ana María Martos, Francisco García-Ruiz, Antonio J Journal Article Multicenter Study Randomized Controlled Trial England 2008/05/23 BMC Complement Altern Med. 2008 May 21;8:22. doi: 10.1186/1472-6882-8-22. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2008-5-21
+DO  - doi:10.1186/1472-6882-8-22
+KW  - Adult
+Breech Presentation/*therapy
+*Clinical Protocols
+Female
+Humans
+Moxibustion/*methods
+Pregnancy
+Pregnancy Outcome
+Randomized Controlled Trials as Topic/*methods
+Research Design
+Spain
+Version, Fetal/*methods
+LA  - eng
+PY  - 2008
+SN  - 1472-6882
+SP  - 22
+ST  - Correcting non cephalic presentation with moxibustion: study protocol for a multi-centre randomised controlled trial in general practice
+T2  - BMC Complement Altern Med
+TI  - Correcting non cephalic presentation with moxibustion: study protocol for a multi-centre randomised controlled trial in general practice
+VL  - 8
+ID  - 30530
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In the so far published trials on qigong and exercise therapies, the methods and especially the interventions applied are rarely described in detail. Therefore, we report on the development of the interventions, the study design and protocols of a randomised controlled multi-centre trial. OBJECTIVE: The aim of the study was to develop a qigong intervention and an exercise therapy for elderly patients and to evaluate whether qigong is more effective than (1) no treatment or (2) the exercise therapy. DEVELOPMENT OF THE INTERVENTIONS: In a consensus process with qigong experts and physiotherapists special interventions for elderly patients were developed allowing most exercises to be performed in a sitting position. Both interventions will be held by qualified therapists for a period of 3 months twice per week for 45 min. In addition, patients will be encouraged to exercise on their own. STUDY PROTOCOL: In a randomised controlled multi-centre study with 3 groups and a total follow-up time of 6 months, 120 patients from 4 residences for elderly people in Berlin (age >or= 55 years) with chronic neck pain should be included. MAIN OUTCOME MEASURE: Average pain intensity of the past 7 days measured by a visual analogue scale (VAS). Secondary parameters are neck pain and disability (Neck Pain and Disability Scale, NPAD), depression (General Depression Scale, ADS) and health-related quality of life (SF-36). IMPLICATIONS: The results of this study may help clarify, if qigong is a feasible, safe and effective intervention for elderly people with neck pain.
+AN  - rayyan-1270387357
+AU  - Wiedemann, A. M.
+AU  - von Trott, P.
+AU  - Lüdtke, R.
+AU  - Reisszlihauer, A.
+AU  - Willich, S. N.
+AU  - Witt, C. M.
+C1  - 1661-4127 Wiedemann, Anna Maria von Trott, Philipp Lüdtke, Rainer Reisszlihauer, Anett Willich, Stefan N Witt, Claudia M Journal Article Research Support, Non-U.S. Gov't Switzerland 2008/09/13 Forsch Komplementmed. 2008 Aug;15(4):195-202. doi: 10.1159/000148211. Epub 2008 Aug 15. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2008-8
+DO  - doi:10.1159/000148211
+IS  - 4
+KW  - *Breathing Exercises
+Chronic Disease/therapy
+Exercise Therapy/*methods
+Humans
+Middle Aged
+Neck Pain/*therapy
+Randomized Controlled Trials as Topic/*methods
+LA  - eng
+PY  - 2008
+SN  - 1661-4119
+SP  - 195-202
+ST  - Developing a qigong intervention and an exercise therapy for elderly patients with chronic neck pain and the study protocol
+T2  - Forsch Komplementmed
+TI  - Developing a qigong intervention and an exercise therapy for elderly patients with chronic neck pain and the study protocol
+VL  - 15
+ID  - 30531
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Problem drinking causes great harm to the person and to society. Most problem drinkers will never seek treatment. The current trial will test the efficacy of two Internet interventions for problem drinking - one minimal and the other extended - as an alternate means of providing help to those in need. METHODS/DESIGN: A double blinded, four-wave panel design with random assignment to two experimental conditions will be used in this study. Participants will be recruited through a comprehensive recruitment strategy consisting of online and print advertisements asking for people who are 'interested in helping us develop and evaluate Internet-based interventions for problem drinkers.' Potential participants will be screened to select problem drinkers who have home access to the Internet. Participants will be sent to a password-protected Internet site and, upon signing in, will be randomized to be provided access to the minimal or extended Internet-based intervention. Six-month, twelve-month, and two-year drinking outcomes will be compared between experimental conditions. The primary hypothesis is that participants in the extended Internet intervention condition will display significantly improved drinking outcomes at twelve months compared to participants in the minimal intervention. DISCUSSION: The findings of this trial will contribute to the growing literature on Internet interventions for problem drinkers. In addition, findings from this trial will contribute to the scarce literature available evaluating the long-term efficacy of brief interventions for alcohol problems. TRIAL REGISTRATION: Clinical Trials.gov # NCT01874509; First submitted June 17, 2013.
+AN  - rayyan-1270388803
+AU  - Cunningham, J. A.
+AU  - Hendershot, C. S.
+AU  - Rehm, J.
+C1  - 1471-2458 Cunningham, John A Hendershot, Christian S Rehm, Jürgen Canadian Institutes of Health Research/Canada Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2015/01/22 BMC Public Health. 2015 Jan 21;15:21. doi: 10.1186/s12889-015-1347-8. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-1-21
+DO  - doi:10.1186/s12889-015-1347-8
+KW  - Adult
+Aged
+Alcoholism/*therapy
+Canada
+*Distance Counseling
+Double-Blind Method
+Humans
+*Internet
+Male
+Middle Aged
+Program Evaluation
+LA  - eng
+PY  - 2015
+SN  - 1471-2458
+SP  - 21
+ST  - Randomized controlled trial of a minimal versus extended Internet-based intervention for problem drinkers: study protocol
+T2  - BMC Public Health
+TI  - Randomized controlled trial of a minimal versus extended Internet-based intervention for problem drinkers: study protocol
+VL  - 15
+ID  - 30532
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Diabetes mellitus and depression are highly prevalent conditions throughout the world and have significant impact on health outcomes. It has been estimated that diabetes mellitus type 2 affects about 246 million people in the world; nevertheless, incidence varies among countries. There is evidence that depression is associated with a poor metabolic control in patients with type 2 diabetes mellitus that present other health problems (such as hypertension and obesity). The aim of this study protocol is to determine if obesity increases the risk for depression in patient with diabetes type 2. METHODS: The analysis will be reported following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA).The studies suitable for inclusion will be assessed by the Newcastle-Ottawa Scale (NOS) to determine their methodological quality. To identify the studies of interest, we will search on PubMed and EBSCO databases. We will use the following keyword combinations: "Diabetes Mellitus type 2 AND obesity AND depression", "depression AND Diabetes Mellitus type 2", "Diabetes Mellitus type 2 AND body mass index cross sectional study", "depression AND obesity cross-sectional study". Causes for exclusion will be publications that studied patients diagnosed with diabetes mellitus type 1; articles that focused on the treatment and complications of diabetes mellitus type 2; publications that have studied other clinical or psychiatric conditions (for instance, seizure disorder or history of schizophrenia, bipolar disorder, psychotic symptoms or dementia). CONCLUSION: The results of this study will form the basis for a better understanding of the association between obesity and depression in patients with diabetes mellitus type 2, and will allow development of prediction tools and better interventions. It is evident that several modifiable and non-modifiable risk factors play an important role in the pathogenesis of diabetes among population. Currently, evidence for the deleterious effects of diabetes mellitus type 2 are based on cross-sectional or other observational designs. Therefore, this study will have important implications for future research and public health guidance.
+AN  - rayyan-1270388811
+AU  - De la Cruz-Cano, E.
+AU  - Tovilla-Zarate, C. A.
+AU  - Reyes-Ramos, E.
+AU  - Gonzalez-Castro, T. B.
+AU  - Juarez-Castro, I.
+AU  - López-Narváez, M. L.
+AU  - Fresan, A.
+C1  - 2046-1402 De la Cruz-Cano, Eduardo Tovilla-Zarate, Carlos Alfonso Reyes-Ramos, Emilio Gonzalez-Castro, Thelma Beatriz Juarez-Castro, Isela López-Narváez, Maria Lilia Fresan, Ana Journal Article England 2015/03/20 F1000Res. 2015 Jan 9;4:7. doi: 10.12688/f1000research.5995.1. eCollection 2015. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015
+DO  - doi:10.12688/f1000research.5995.1
+KW  - Diabetes Mellitus type 2
+obesity
+body mass index
+depression.
+LA  - eng
+PY  - 2015
+SN  - 2046-1402 (Print) 2046-1402
+SP  - 7
+ST  - Association between obesity and depression in patients with diabetes mellitus type 2; a study protocol
+T2  - F1000Res
+TI  - Association between obesity and depression in patients with diabetes mellitus type 2; a study protocol
+VL  - 4
+ID  - 30533
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The number of colonoscopies tremendously increased in recent years and will further rise in the near future. Because of patients' growing expectation on comfort during medical procedures, it is not surprising that the demand for sedation also expands. Propofol in combination with alfentanil is known to provide excellent analgosedation, however, its use is associated with respiratory and cardiovascular depression. Acupuncture could be a technique to reduce drug requirement while providing the same level of sedation and analgesia. METHODS/DESIGN: The study will be performed as a single centre, randomised, placebo controlled trial. 153 patients scheduled for propofol/alfentanil sedation during colonoscopy will be randomly assigned to receive electroacupuncture (P6, ST36, LI4), sham acupuncture, or placebo acupuncture. Following endoscopy patients and gastroenterologists have to fill in questionnaires about their sedation experiences. Additionally, patients have to accomplish the Trieger test before and after the procedure. Patient monitoring includes time adapted HR, SpO2, ECG, NIBP, exCO2, OAA/S, and the Aldrete score. The primary outcome parameter is the dosage of propofol necessary for an adequate level of sedation to tolerate the procedure (OAA/S < 4). Effectiveness of sedation, classified by satisfaction levels measured by questionnaires is the secondary outcome parameter. DISCUSSION: Moderate to deep sedation using propofol is increasingly applied during colonoscopies with a high satisfaction level among patients despite well-known hemodynamic and respiratory side effects of this hypnotic agent. Acupuncture is known to attenuate gastrointestinal discomfort and pain. We hypothesize that the combination of conventional sedation techniques with acupuncture may result in equally satisfied patients with a lower risk of respiratory and hemodynamic events during colonoscopies. TRIAL REGISTRATION: This trial is registered in the Nederland's Trial Register NTR 4325 . The first patient was randomized on 13 February 2014.
+AN  - rayyan-1270388816
+AU  - Eberl, S.
+AU  - Monteiro de Olivera, N.
+AU  - Preckel, B.
+AU  - Streitberger, K.
+AU  - Fockens, P.
+AU  - Hollmann, M. W.
+C1  - 1472-6882 Eberl, Susanne Monteiro de Olivera, Nelson Preckel, Benedikt Streitberger, Konrad Fockens, Paul Hollmann, Markus W Journal Article Randomized Controlled Trial England 2015/11/18 BMC Complement Altern Med. 2015 Nov 16;15:406. doi: 10.1186/s12906-015-0936-5. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-11-16
+DO  - doi:10.1186/s12906-015-0936-5
+KW  - *Acupuncture Therapy
+Adult
+Alfentanil/administration & dosage
+*Colonoscopy
+Conscious Sedation/*methods
+Dose-Response Relationship, Drug
+Humans
+Hypnotics and Sedatives/*administration & dosage
+Pain/drug therapy
+Patient Satisfaction
+Propofol/administration & dosage
+Surveys and Questionnaires
+LA  - eng
+PY  - 2015
+SN  - 1472-6882
+SP  - 406
+ST  - A randomised controlled trial: can acupuncture reduce drug requirement during analgosedation with propofol and alfentanil for colonoscopy? A study protocol
+T2  - BMC Complement Altern Med
+TI  - A randomised controlled trial: can acupuncture reduce drug requirement during analgosedation with propofol and alfentanil for colonoscopy? A study protocol
+VL  - 15
+ID  - 30535
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Coronary artery bypass graft (CABG) surgery is a well-established, commonly performed treatment for coronary artery disease--a disease that affects over 10% of US adults and is a major cause of morbidity and mortality. In 2005, the mean cost for a CABG procedure among Medicare beneficiaries in the USA was $32, 201 ± $23,059. The same operation reportedly costs less than $2000 to produce in India. The goals of the proposed study are to (1) identify the difference in the costs incurred to perform CABG surgery by three Joint Commission accredited hospitals with reputations for high quality and efficiency and (2) characterise the opportunity to reduce the cost of performing CABG surgery. METHODS AND ANALYSIS: We use time-driven activity-based costing (TDABC) to quantify the hospitals' costs of producing elective, multivessel CABG. TDABC estimates the costs of a given clinical service by combining information about the process of patient care delivery (specifically, the time and quantity of labour and non-labour resources utilised to perform each activity) with the unit cost of each resource used to provide the care. Resource utilisation was estimated by constructing CABG process maps for each site based on observation of care and staff interviews. Unit costs were calculated as a capacity cost rate, measured as a $/min, for each resource consumed in CABG production. Multiplying together the unit costs and resource quantities and summing across all resources used will produce the average cost of CABG production at each site. We will conclude by conducting a variance analysis of labour costs to reveal opportunities to bend the cost curve for CABG production in the USA. ETHICS AND DISSEMINATION: All our methods were exempted from review by the Stanford Institutional Review Board. Results will be published in peer-reviewed journals and presented at scientific meetings.
+AN  - rayyan-1270388818
+AU  - Erhun, F.
+AU  - Mistry, B.
+AU  - Platchek, T.
+AU  - Milstein, A.
+AU  - Narayanan, V. G.
+AU  - Kaplan, R. S.
+C1  - 2044-6055 Erhun, F Mistry, B Platchek, T Milstein, A Narayanan, V G Kaplan, R S Journal Article Multicenter Study Research Support, Non-U.S. Gov't England 2015/08/27 BMJ Open. 2015 Aug 25;5(8):e008765. doi: 10.1136/bmjopen-2015-008765. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-8-25
+DO  - doi:10.1136/bmjopen-2015-008765
+IS  - 8
+KW  - Clinical Protocols
+Coronary Artery Bypass/*economics
+Coronary Artery Disease/*surgery
+Costs and Cost Analysis/*methods
+*Hospital Costs
+Humans
+India
+United States
+Health economics
+LA  - eng
+PY  - 2015
+SN  - 2044-6055
+SP  - e008765
+ST  - Time-driven activity-based costing of multivessel coronary artery bypass grafting across national boundaries to identify improvement opportunities: study protocol
+T2  - BMJ Open
+TI  - Time-driven activity-based costing of multivessel coronary artery bypass grafting across national boundaries to identify improvement opportunities: study protocol
+VL  - 5
+ID  - 30536
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Increasing numbers of people in the UK are living with recurrent or metastatic cancer, many of whom experience reduced quality of life resulting from the physical and psychosocial consequences of cancer and its treatment. While drug treatments are important at alleviating some symptoms, there is increasing evidence of the benefits of exercise in enhancing quality of life and health outcomes. Walking is an inexpensive and accessible form of exercise. To our knowledge, no studies have investigated whether a walking intervention is sufficient to enhance quality of life and alleviate symptoms in people with recurrent or metastatic cancer across a range of tumor types. This paper describes the CanWalk study protocol, which aims to assess the feasibility and acceptability of undertaking a randomized controlled trial of a community-based walking program to enhance quality of life and well-being in people with recurrent or metastatic cancer. METHODS: A mixed methods feasibility study includes an exploratory two-center randomized controlled trial and qualitative interviews. A minimum of 60 participants will be recruited from two London NHS Trusts and randomized 1:1 between the walking intervention and standard care using minimization. The walking intervention consists of the initial provision of written/online information followed by a short motivational interview. Participants are instructed to walk for 30 min on alternate days and attend an organized volunteer-led walk once a week. Half of all participants will be asked to use a pedometer. Postal questionnaires will be completed at baseline (pre-randomization) and at 6, 12 and 24 weeks. A subsample of participants and stakeholders will be interviewed at the end of the study. RESULTS: Primary outcomes will be the acceptability and feasibility of the intervention and trial. A range of secondary outcome assessments needed to design a main study, including estimates of recruitment, adherence and variability in quality of life, will be evaluated. CONCLUSIONS: Data from this study will be used to refine the walking intervention, investigate the acceptability of the intervention and study design, and determine the most appropriate outcome measures thereby providing estimates of the factors needed to design the main study. TRIAL REGISTRATION: ISRCTN42072606.
+AN  - rayyan-1270388840
+AU  - Harris, J.
+AU  - Tsianakas, V.
+AU  - Ream, E.
+AU  - Van Hemelrijck, M.
+AU  - Purushotham, A.
+AU  - Mucci, L.
+AU  - Green, J. S.
+AU  - Robb, K.
+AU  - Fewster, J.
+AU  - Armes, J.
+C1  - 2055-5784 Harris, Jenny Tsianakas, Vicki Ream, Emma Van Hemelrijck, Mieke Purushotham, Arnie Mucci, Lorelei Green, James Sa Robb, Karen Fewster, Jacquetta Armes, Jo Journal Article England 2015/03/12 Pilot Feasibility Stud. 2015 Mar 12;1:7. doi: 10.1186/s40814-015-0003-5. eCollection 2015. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015
+DO  - doi:10.1186/s40814-015-0003-5
+KW  - Feasibility studies
+Metastatic cancer
+Qualitative evaluation
+Randomized controlled trial
+Recurrent cancer
+Secondary cancer
+Walking
+LA  - eng
+PY  - 2015
+SN  - 2055-5784 (Print) 2055-5784
+SP  - 7
+ST  - CanWalk: study protocol for a randomized feasibility trial of a walking intervention for people with recurrent or metastatic cancer
+T2  - Pilot Feasibility Stud
+TI  - CanWalk: study protocol for a randomized feasibility trial of a walking intervention for people with recurrent or metastatic cancer
+VL  - 1
+ID  - 30541
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Pain is a prevalent and distressing symptom in patients with cancer, having an enormous impact on functioning and quality of life. Fragmentation of care, inadequate pain communication, and reluctance towards pain medication contribute to difficulties in optimizing outcomes. Integration of patient self-management and professional care by means of healthcare technology provides new opportunities in the outpatient setting. METHODS/DESIGN: This study protocol outlines a two-armed multicenter randomized controlled trial that compares a technology based multicomponent self-management support intervention with care as usual and includes an effect, economic and process evaluation. Patients will be recruited consecutively via the outpatient oncology clinics and inpatient oncology wards of one academic hospital and one regional hospital in the south of the Netherlands. Irrespective of the stage of disease, patients are eligible when they are diagnosed with cancer and have uncontrolled moderate to severe cancer (treatment) related pain defined as NRS≥4 for more than two weeks. Randomization (1:1) will assign patients to either the intervention or control group; patients in the intervention group receive self-management support and patients in the control group receive care as usual. The intervention will be delivered by registered nurses specialized in pain and palliative care. Important components include monitoring of pain, adverse effects and medication as well as graphical feedback, education, and nurse support. Effect measurements for both groups will be carried out with questionnaires at baseline (T0), after 4 weeks (T1) and after 12 weeks (T2). Pain intensity and quality of life are the primary outcomes. Secondary outcomes include self-efficacy, knowledge, anxiety, depression and pain medication use. The final questionnaire contains also questions for the economic evaluation that includes both cost-effectiveness and cost-utility analysis. Data for the process evaluation will be gathered continuously over the study period and focus on recruitment, reach, dose delivered and dose received. DISCUSSION: The proposed study will provide insight into the effectiveness of the self-management support intervention delivered by nurses to outpatients with uncontrolled cancer pain. Study findings will be used to empower patients and health professionals to improve cancer pain control. TRIAL REGISTRATION: NCT02333968 December 29, 2014.
+AN  - rayyan-1270388847
+AU  - Hochstenbach, L. M.
+AU  - Courtens, A. M.
+AU  - Zwakhalen, S. M.
+AU  - van Kleef, M.
+AU  - de Witte, L. P.
+C1  - 1471-2407 Hochstenbach, Laura M J Courtens, Annemie M Zwakhalen, Sandra M G van Kleef, Maarten de Witte, Luc P Comparative Study Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2015/05/20 BMC Cancer. 2015 May 19;15:416. doi: 10.1186/s12885-015-1428-1. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-5-19
+DO  - doi:10.1186/s12885-015-1428-1
+KW  - Ambulatory Care/economics/*methods
+Computers, Handheld
+Humans
+*Mobile Applications
+Neoplasms/*complications
+Pain/etiology/*nursing
+Pain Management/economics/instrumentation/*methods
+Pain Measurement
+Patient Education as Topic
+Quality of Life
+Research Design
+Self Care/economics/instrumentation/*methods
+LA  - eng
+PY  - 2015
+SN  - 1471-2407
+SP  - 416
+ST  - Self-management support intervention to control cancer pain in the outpatient setting: a randomized controlled trial study protocol
+T2  - BMC Cancer
+TI  - Self-management support intervention to control cancer pain in the outpatient setting: a randomized controlled trial study protocol
+VL  - 15
+ID  - 30543
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Drowning is the third leading cause of death for children aged 0-4 years in many Asian countries, and is a serious but neglected health problem in low and middle-income countries like Bangladesh. The aim of the study is to outline the study protocol of a trial to test the efficacy of a mobile coach based intervention for the prevention of childhood drowning. METHOD/DESIGN: A two-arm cluster randomized community trial will be conducted to test the efficacy of the mobile coach intervention for childhood drowning on parents with children below five years of age and compared to an assessment only control group. A total of 1680 parents in the villages with children aged below five years of age will participate. The village will be used as a randomized unit, randomly assigned to an intervention group (N = 840) receiving the mobile coach based intervention or an assessment only control group (N = 840). An individualized mobile coach intervention based on the demographic data and the individual will be developed, and SMSs, audio messages, videos and images about childhood drowning will be sent to the participants of the intervention group over a period of six months. The participants will receive per week one text message (SMS) and image and one video and audio text per month. The primary outcome measure will be increased knowledge and safety awareness, and behaviour practice about childhood drowning assessed at the six-month follow-up, and the secondary outcome measure will be the reduced incidence of childhood drowning in Bangladesh. The study assistants conducting the baseline and the follow-up assessments will be blinded regarding the group assignment. DISCUSSION: This is the first study testing a fully mobile coach intervention for childhood drowning prevention in Bangladesh. It is hoped that the programme will offer an effective and inexpensive way to prevent childhood drowning among children aged below five years and also increase the awareness of parents concerning the risks to their children from drowning. TRIAL REGISTRATION: ISRCTN13774693, 08/03/2015.
+AN  - rayyan-1270388850
+AU  - Hossain, M.
+AU  - Mani, K. K.
+AU  - Sidik, S. M.
+AU  - Hayati, K. S.
+AU  - Rahman, A. K.
+C1  - 1471-2458 Hossain, Mosharaf Mani, Kulanthayan K C Sidik, Sherina Mohd Hayati, K S Rahman, A K M Fazlur Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2015/05/11 BMC Public Health. 2015 May 11;15:484. doi: 10.1186/s12889-015-1823-1. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-5-11
+DO  - doi:10.1186/s12889-015-1823-1
+KW  - Bangladesh/epidemiology
+Child
+Child, Preschool
+*Clinical Protocols/standards
+Drowning/*prevention & control
+Female
+Health Education/organization & administration
+Health Promotion/*organization & administration
+Humans
+Parent-Child Relations
+Parents/*education/psychology
+Text Messaging/*standards
+LA  - eng
+PY  - 2015
+SN  - 1471-2458
+SP  - 484
+ST  - Randomized controlled trial on drowning prevention for parents with children aged below five years in Bangladesh: a study protocol
+T2  - BMC Public Health
+TI  - Randomized controlled trial on drowning prevention for parents with children aged below five years in Bangladesh: a study protocol
+VL  - 15
+ID  - 30544
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Chiari malformation type I (CM-I) is a congenital hindbrain anomaly that requires surgical decompression in symptomatic patients. Posterior fossa decompression with duraplasty (PFDD) has been widely practiced in Chiari decompression, but dural opening carries a high risk of surgical complications. A minimally invasive technique, dural splitting decompression (DSD), preserves the inner layer of the dura without dural opening and duraplasty, potentially reducing surgical complications, length of operative time and hospital stay, and cost. If DSD is non-inferior to PFDD in terms of clinical improvement, DSD could be an alternative treatment modality for CM-I. So far, no randomised study of surgical treatment of CM-I has been reported. This study aims to evaluate if DSD is an effective, safe and cost-saving treatment modality for adult CM-I patients, and may provide evidence for using the minimally invasive procedure extensively. METHODS AND ANALYSIS: DECMI is a randomised controlled, single-masked, non-inferiority, single centre clinical trial. Participants meeting the criteria will be randomised to the DSD group and the PFDD group in a 1:1 ratio. The primary outcome is the rate of clinical improvement, which is defined as the complete resolution or partial improvement of the presenting symptoms/signs. The secondary outcomes consist of the incidence of syrinx reduction, postoperative morbidity rates, reoperation rate, quality of life (QoL) and healthcare resource utilisation. A total of 160 patients will be included and followed up at 3 and 12 months postoperatively. ETHICS AND DISSEMINATION: The study protocol was approved by the Biological and Medical Ethics Committee of West China Hospital. The findings of this trial will be published in a peer-reviewed scientific journal and presented at scientific conferences. TRIAL REGISTRATION NUMBER: ChiCTR-TRC-14004099.
+AN  - rayyan-1270388851
+AU  - Hu, Y.
+AU  - Liu, J.
+AU  - Chen, H.
+AU  - Jiang, S.
+AU  - Li, Q.
+AU  - Fang, Y.
+AU  - Gong, S.
+AU  - Wang, Y.
+AU  - Huang, S.
+C1  - 2044-6055 Hu, Yu Liu, Jiagang Chen, Haifeng Jiang, Shu Li, Qiang Fang, Yuan Gong, Shuhui Wang, Yuelong Huang, Siqing Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2015/05/01 BMJ Open. 2015 Apr 29;5(4):e007869. doi: 10.1136/bmjopen-2015-007869. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-4-29
+DO  - doi:10.1136/bmjopen-2015-007869
+IS  - 4
+KW  - Adolescent
+Adult
+Arnold-Chiari Malformation/economics/*surgery
+China
+Clinical Protocols
+Decompression, Surgical/economics/*methods
+Dura Mater/*surgery
+Female
+Follow-Up Studies
+Humans
+Intention to Treat Analysis
+Logistic Models
+Male
+Middle Aged
+Minimally Invasive Surgical Procedures/economics/*methods
+Neurosurgical Procedures/economics/*methods
+Single-Blind Method
+Treatment Outcome
+Young Adult
+LA  - eng
+PY  - 2015
+SN  - 2044-6055
+SP  - e007869
+ST  - A minimally invasive technique for decompression of Chiari malformation type I (DECMI study): study protocol for a randomised controlled trial
+T2  - BMJ Open
+TI  - A minimally invasive technique for decompression of Chiari malformation type I (DECMI study): study protocol for a randomised controlled trial
+VL  - 5
+ID  - 30545
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In response to high burden of opioid abuse in Iran, Ministry of Health has launched a large-scale opioid maintenance treatment program, delivered through a network of certified drug treatment centers. To promote opioid pharmacotherapies, there is an urgent need to develop and introduce evidence-based psychosocial interventions into the network. PATIENTS AND METHODS: This is a randomized clinical trial (RCT) to investigate feasibility and effectiveness of adding mindfulness-based group therapy to opioid pharmacotherapies as compared to opioid pharmacotherapies alone. The primary outcomes were treatment retention and percentage of weekly morphine, methamphetamine, and benzodiazepine negative tests. DISCUSSION: This is the first RCT that explores the effectiveness of mindfulness-based relapse prevention group therapy among opioid dependent clients in Iran. The feasibility of group therapy and comparison of outcomes in intervention and control groups should be discussed in the outcome article.
+AN  - rayyan-1270388856
+AU  - Imani, S.
+AU  - Atef Vahid, M. K.
+AU  - Gharraee, B.
+AU  - Habibi, M.
+AU  - Bowen, S.
+AU  - Noroozi, A.
+C1  - 1735-9287 Imani, Saeed Atef Vahid, Mohammad Kazem Gharraee, Banafsheh Habibi, Mojtaba Bowen, Sarah Noroozi, Alireza Journal Article Netherlands 2015/08/08 Iran J Psychiatry Behav Sci. 2015 Mar;9(1):e216. doi: 10.17795/ijpbs216. Epub 2015 Mar 7. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-3
+DO  - doi:10.17795/ijpbs216
+IS  - 1
+KW  - Mindfulness
+Pharmacotherapies
+Therapy
+LA  - eng
+PY  - 2015
+SN  - 1735-8639 (Print) 1735-8639
+SP  - e216
+ST  - Comparing Mindfulness-Based Group Therapy With Treatment as Usual for Opioid Dependents: A Pilot Randomized Clinical Trial Study Protocol
+T2  - Iran J Psychiatry Behav Sci
+TI  - Comparing Mindfulness-Based Group Therapy With Treatment as Usual for Opioid Dependents: A Pilot Randomized Clinical Trial Study Protocol
+VL  - 9
+ID  - 30548
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: The Cochrane Schizophrenia Group (CSzG) has produced and maintained systematic reviews of effects of interventions for schizophrenia and related illness. Each review has a Plain Language Summary (PLS), for those without specialised knowledge, and an abstract, which are freely available from The Cochrane Library (https://summaries.cochrane.org). Increasingly, evidence is being distributed using social media such as Twitter and Weibo (in China) alongside traditional publications. METHODS AND ANALYSIS: In a prospective two-arm, parallel, open randomised controlled trial with a 1:1 allocation ratio, we will allocate 170 published systematic reviews into the intervention group (tweeting arm/Weibo arm) versus the control group (non-tweeting arm). Reviews will be stratified by baseline access activity, defined as high (≥19 views per week, n=14), medium (4.3 to 18.99 views per week, n=72) or low (<4.3 views per week, n=84), based on Google Analytics, which will also be used for evaluating outcomes. The intervention group will have three tweets daily using Hootsuite with a slightly different accompanying text (written by CEA and AB) and a shortened Uniform Resource Locator (URL) to the PLS: a) The review title as it appears in summaries.cochrane.org, b) A pertinent extract from results or discussion sections of the abstract and c) An intriguing question or pithy statement related to the evidence in the abstract. The primary outcome will be: total number of visits to a PLS in 7 days following the tweet. Secondary outcomes will include % new visits, bounce rate, pages per visit, visit duration, page views, unique page views, time on page, entrances, exiting behaviour and country distribution. ETHICS AND DISSEMINATION: This study does not involve living participants, and uses information available in the public domain. Participants are published systematic reviews, hence, no ethical approval is required. Dissemination will be via Twitter, Weibo and traditional academic means. TRIAL REGISTRATION NUMBER: ISRCTN84658943.
+AN  - rayyan-1270388859
+AU  - Jayaram, M.
+AU  - Bodart, A. Y.
+AU  - Sampson, S.
+AU  - Zhao, S.
+AU  - Montgomery, A. A.
+AU  - Adams, C. E.
+C1  - 2044-6055 Jayaram, Mahesh Orcid: 0000-0002-5352-1075 Bodart, Angelique Y M Sampson, Stephanie Zhao, Sai Montgomery, Alan A Adams, Clive E Journal Article Randomized Controlled Trial England 2015/07/15 BMJ Open. 2015 Jul 9;5(7):e007695. doi: 10.1136/bmjopen-2015-007695. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-7-9
+DO  - doi:10.1136/bmjopen-2015-007695
+IS  - 7
+KW  - Blogging/*statistics & numerical data
+Data Collection
+Humans
+Prospective Studies
+*Review Literature as Topic
+*Schizophrenia
+Psychiatry
+LA  - eng
+PY  - 2015
+SN  - 2044-6055
+SP  - e007695
+ST  - To tweet or not to tweet about schizophrenia systematic reviews (TweetSz): study protocol for a randomised controlled trial
+T2  - BMJ Open
+TI  - To tweet or not to tweet about schizophrenia systematic reviews (TweetSz): study protocol for a randomised controlled trial
+VL  - 5
+ID  - 30549
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Millions of children worldwide suffer from posttraumatic stress disorder (PTSD) symptoms and other mental health problems due to repeated exposure to war or organized violence. Forms of cognitive-behavioral therapy (CBT) are the most commonly used treatment for PTSD and appear to be effective for children as well, but little is known about the mechanisms of change through which they achieve their effectiveness. Here we present the study protocol of a randomized controlled trial (RCT) studying the effectiveness and mechanisms of change of Narrative Exposure Therapy (NET), a CBT-based, manualized, short-term intervention for PTSD symptoms resulting from repeated traumatization, in immigrant children traumatized by war. METHODS/DESIGN: We are conducting a multicentre, pragmatic RCT in a usual care setting. Up to 80 9-17-year-old immigrant children who have experienced war and suffer from PTSD symptoms will be randomized into intervention (NET) and control (treatment as usual, TAU) groups of equal sizes. The effectiveness of NET treatment will be compared to both a waiting list and the parallel TAU positive control group, on the primary outcomes of PTSD and depressive symptoms, psychological distress, resilience, and level of cognitive performance. The effects of the intervention on traumatic memories and posttraumatic cognitions will be studied as potential mechanisms of change mediating overall treatment effectiveness. The possible moderating effects of peritraumatic dissociation, level of cognitive performance, and gender on treatment effectiveness will also be considered. We hypothesize that NET will be more effective than a waitlist condition or TAU in reducing PTSD and other symptoms and improving resilience, and that these effects will be mediated by changes in traumatic memories and posttraumatic cognitions. DISCUSSION: The results of this trial will provide evidence for the effectiveness of NET in treating trauma-related symptoms in immigrant children affected by war. The trial will also generate insights into the complex relationships between PTSD, memory functions, posttraumatic cognitions and cognitive performance in children, and help guide the future development and implementation of therapeutic interventions for PTSD in children. TRIAL REGISTRATION: ClinicalTrials.gov NCT02425280 . Registered 15 April 2015.
+AN  - rayyan-1270388864
+AU  - Kangaslampi, S.
+AU  - Garoff, F.
+AU  - Peltonen, K.
+C1  - 1471-244x Kangaslampi, Samuli Garoff, Ferdinand Peltonen, Kirsi Journal Article Multicenter Study Pragmatic Clinical Trial Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2015/06/18 BMC Psychiatry. 2015 Jun 17;15:127. doi: 10.1186/s12888-015-0520-z. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-6-17
+DO  - doi:10.1186/s12888-015-0520-z
+KW  - Adolescent
+Child
+*Clinical Protocols
+Cognition
+Depression/complications/psychology/therapy
+Emigrants and Immigrants/*psychology
+Female
+Humans
+*Implosive Therapy
+Male
+*Narrative Therapy
+Stress Disorders, Post-Traumatic/complications/psychology/*therapy
+Treatment Outcome
+*Warfare
+LA  - eng
+PY  - 2015
+SN  - 1471-244x
+SP  - 127
+ST  - Narrative exposure therapy for immigrant children traumatized by war: study protocol for a randomized controlled trial of effectiveness and mechanisms of change
+T2  - BMC Psychiatry
+TI  - Narrative exposure therapy for immigrant children traumatized by war: study protocol for a randomized controlled trial of effectiveness and mechanisms of change
+VL  - 15
+ID  - 30550
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Excessive alcohol consumption has significant adverse economic, social, and health outcomes. Recent estimates suggest that the annual economic costs of alcohol in Australia are up to AUD $36 billion. Policies influencing price have been demonstrated to be very effective in reducing alcohol consumption and alcohol-related harms. Interest in minimum pricing has gained traction in recent years. However, there has been little research investigating the level of support for the public interest case of minimum pricing in Australia. OBJECTIVE: This article describes protocol for a study exploring Western Australian (WA) public knowledge, understanding, and reaction to a proposed minimum price policy per standard drink. METHODS: The study will employ a qualitative methodological design. Participants will be recruited from a wide variety of backgrounds, including ethnic minorities, blue and white collar workers, unemployed, students, and elderly/retired populations to participate in focus groups. Focus group participants will be asked about their knowledge of, and initial reactions to, the proposed policy and encouraged to discuss how such a proposal may affect their own alcohol use and alcohol consumption at the population level. Participants will also be asked to discuss potential avenues for increasing acceptability of the policy. The focus groups will adopt a semi-structured, open-ended approach guided by a question schedule. The schedule will be based on feedback from pilot samples, previous research, and a steering group comprising experts in alcohol policy and pricing. RESULTS: The study is expected to take approximately 14 months to complete. CONCLUSIONS: The findings will be of considerable interest and relevance to government officials, policy makers, researchers, advocacy groups, alcohol retail and licensed establishments and organizations, city and town planners, police, and other stakeholder organizations.
+AN  - rayyan-1270388868
+AU  - Keatley, D. A.
+AU  - Carragher, N.
+AU  - Chikritzhs, T.
+AU  - Daube, M.
+AU  - Hardcastle, S. J.
+AU  - Hagger, M. S.
+C1  - 1929-0748 Keatley, David A Orcid: 0000-0002-6601-1939 Carragher, Natacha Orcid: 0000-0002-7607-639x Chikritzhs, Tanya Orcid: 0000-0001-8871-3205 Daube, Mike Orcid: 0000-0002-3479-2785 Hardcastle, Sarah J Orcid: 0000-0001-8378-3781 Hagger, Martin S Orcid: 0000-0002-2685-1546 Journal Article Canada 2015/11/20 JMIR Res Protoc. 2015 Nov 18;4(4):e127. doi: 10.2196/resprot.4815. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2015-11-18
+DO  - doi:10.2196/resprot.4815
+IS  - 4
+KW  - addiction
+alcohol
+minimum pricing
+policy
+LA  - eng
+PY  - 2015
+SN  - 1929-0748 (Print) 1929-0748
+SP  - e127
+ST  - Western Australian Public Opinions of a Minimum Pricing Policy for Alcohol: Study Protocol
+T2  - JMIR Res Protoc
+TI  - Western Australian Public Opinions of a Minimum Pricing Policy for Alcohol: Study Protocol
+VL  - 4
+ID  - 30551
+ER  - 
+
+TY  - JOUR
+AB  - This is a study protocol for a pilot three-armed randomized controlled trial on nonsurgical integrative Korean medicinal treatment for symptomatic lumbar spinal stenosis (LSS). Thirty-six participants who have been diagnosed with (LSS) and recommended for spinal surgery by neurosurgeons or orthopedics and have had spinal symptoms such as severe low back pain and neurological claudication regardless of at least three months of conservative treatments will be recruited. Participants will be randomly assigned to be one of the three intervention groups, including the Mokhuri treatment program group 1 or 2 or usual care group. All treatments will be administered in inpatient units over a period of 4 weeks. The primary outcomes are 0 to 100 Visual Analogue Scales for low back pain and leg pain and the secondary outcomes are Oswestry Disability Index; EQ-5D; Roland-Morris Disability Questionnaire; Oxford Claudication Score; physical function test, including treadmill test, walking duration, and distance assessment for free leg pain; radiologic testing; and adverse events which will be assessed during the 4-week treatment period as well as after 3 and 6 months of follow-up. Then, we will assess the feasibility of the clinical trial design as well as a nonsurgical integrative treatment program. This trial is registered with CRIS registration number: KCT0001218.
+AN  - rayyan-1270389268
+AU  - Kim, K.
+AU  - Shin, K. M.
+AU  - Lee, J. H.
+AU  - Seo, B. N.
+AU  - Jung, S. Y.
+AU  - Youn, Y.
+AU  - Lee, S. H.
+AU  - Kim, J.
+AU  - Qu, W.
+AU  - Kim, T. H.
+C1  - 1741-4288 Kim, Kiok Shin, Kyung-Min Lee, Jun-Hwan Seo, Bok-Nam Jung, So-Young Youn, Yousuk Lee, Sang Ho Kim, Jaehong Qu, Wenchun Kim, Tae-Hun Orcid: 0000-0002-8448-3219 Journal Article United States 2016/03/05 Evid Based Complement Alternat Med. 2016;2016:2913248. doi: 10.1155/2016/2913248. Epub 2016 Jan 28. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016
+DO  - doi:10.1155/2016/2913248
+LA  - eng
+PY  - 2016
+SN  - 1741-427X (Print) 1741-427x
+SP  - 2913248
+ST  - Nonsurgical Korean Integrative Treatments for Symptomatic Lumbar Spinal Stenosis: A Three-Armed Randomized Controlled Pilot Trial Protocol
+T2  - Evid Based Complement Alternat Med
+TI  - Nonsurgical Korean Integrative Treatments for Symptomatic Lumbar Spinal Stenosis: A Three-Armed Randomized Controlled Pilot Trial Protocol
+VL  - 2016
+ID  - 30556
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Denture adhesives, characterized as medical products in 1935 by the American Dental Association, have been considered useful adjuncts for improving denture retention and stability. However, many dentists in Japan are hesitant to acknowledge denture adhesives in daily practice because of the stereotype that dentures should be inherently stable, without the aid of adhesives. The aim of this study is to verify the efficacy of denture adhesives to establish guidelines for Japanese users. The null hypothesis is that the application of denture adhesives, including the cream and powder types, or a control (isotonic sodium chloride solution) would not produce different outcomes nor would they differentially improve the set outcomes between baseline and day 4 post-application. METHODS: This ten-center, randomized controlled trial with parallel groups is ongoing. Three hundred edentulous patients with complete dentures will be allocated to three groups (cream-type adhesive, powder-type adhesive, and control groups). The participants will wear their dentures with the denture adhesive for 4 days, including during eight meals (three breakfasts, two lunches, and three dinners). The baseline measurements and final measurements for the denture adhesives will be performed on the first day and after breakfast on the fourth day. The primary outcome is a general satisfaction rating for the denture. The secondary outcomes are denture satisfaction ratings for various denture functions, occlusal bite force, resistance to dislodgement, masticatory performance, perceived chewing ability, and oral health-related quality of life. Between-subjects comparisons among the three groups and within-subjects comparisons of the pre- and post-intervention measurements will be performed. Furthermore, a multiple regression analysis will be performed. The main analyses will be based on the intention-to-treat principle. A sample size of 100 subjects per group, including an assumed dropout rate of 10 %, will be required to achieve 80 % power with a 5 % alpha level. DISCUSSION: This randomized clinical trial will provide information about denture adhesives to complete denture wearers, prosthodontic educators, and dentists in Japan. We believe this new evidence on denture adhesive use from Japan will aid dentists in their daily practice even in other countries. TRIAL REGISTRATION: ClinicalTrials.gov NCT01712802 . Registered on 17 October 2012.
+AN  - rayyan-1270389269
+AU  - Kimoto, S.
+AU  - Kawai, Y.
+AU  - Gunji, A.
+AU  - Kondo, H.
+AU  - Nomura, T.
+AU  - Murakami, T.
+AU  - Tsuboi, A.
+AU  - Hong, G.
+AU  - Minakuchi, S.
+AU  - Sato, Y.
+AU  - Ohwada, G.
+AU  - Suzuki, T.
+AU  - Kimoto, K.
+AU  - Hoshi, N.
+AU  - Saita, M.
+AU  - Yoneyama, Y.
+AU  - Sato, Y.
+AU  - Morokuma, M.
+AU  - Okazaki, J.
+AU  - Maeda, T.
+AU  - Nakai, K.
+AU  - Ichikawa, T.
+AU  - Nagao, K.
+AU  - Fujimoto, K.
+AU  - Murata, H.
+AU  - Kurogi, T.
+AU  - Yoshida, K.
+AU  - Nishimura, M.
+AU  - Nishi, Y.
+AU  - Murakami, M.
+AU  - Hosoi, T.
+AU  - Hamada, T.
+C1  - 1745-6215 Kimoto, Suguru Orcid: 0000-0001-5050-5742 Kawai, Yasuhiko Gunji, Atsuko Kondo, Hisatomo Nomura, Taro Murakami, Tomohiko Tsuboi, Akito Hong, Guang Minakuchi, Shunsuke Sato, Yusuke Ohwada, Gaku Suzuki, Tetsuya Kimoto, Katsuhiko Hoshi, Noriyuki Saita, Makiko Yoneyama, Yoshikazu Sato, Yohei Morokuma, Masakazu Okazaki, Joji Maeda, Takeshi Nakai, Kenichiro Ichikawa, Tetsuo Nagao, Kan Fujimoto, Keiko Murata, Hiroshi Kurogi, Tadafumi Yoshida, Kazuhiro Nishimura, Masahiro Nishi, Yasuhiro Murakami, Mamoru Hosoi, Toshio Hamada, Taizo Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2016/10/21 Trials. 2016 Oct 18;17(1):506. doi: 10.1186/s13063-016-1612-x. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016-10-18
+DO  - doi:10.1186/s13063-016-1612-x
+IS  - 1
+KW  - *Adhesives
+*Clinical Protocols
+*Denture, Complete
+Humans
+*Practice Guidelines as Topic
+Complete denture
+Denture adhesive
+Edentulism
+Masticatory performance
+Occlusal bite force
+Oral health-related quality of life
+Retentive force
+LA  - eng
+PY  - 2016
+SN  - 1745-6215
+SP  - 506
+ST  - Study protocol for a multi-center, randomized controlled trial to develop Japanese denture adhesive guidelines for patients with complete dentures: the Denture Adhesive Guideline trial: study protocol for a randomized controlled trial
+T2  - Trials
+TI  - Study protocol for a multi-center, randomized controlled trial to develop Japanese denture adhesive guidelines for patients with complete dentures: the Denture Adhesive Guideline trial: study protocol for a randomized controlled trial
+VL  - 17
+ID  - 30557
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Clinical management of primary ciliary dyskinesia (PCD) respiratory disease is currently based on improving mucociliary clearance and controlling respiratory infections, through the administration of antibiotics. Treatment practices in PCD are largely extrapolated from more common chronic respiratory disorders, particularly cystic fibrosis, but no randomized controlled trials (RCT) have ever evaluated efficacy and safety of any pharmacotherapeutics used in the treatment of PCD. Maintenance therapy, with the macrolide antibiotic azithromycin, is currently widely used in chronic respiratory diseases including PCD. In addition to its antibacterial properties, azithromycin is considered to have beneficial anti-inflammatory and anti-quorum-sensing properties. The aim of this study is to determine the efficacy of azithromycin maintenance therapy for 6 months on respiratory exacerbations in PCD. The secondary objectives are to evaluate the efficacy of azithromycin on lung function, ventilation inhomogeneity, hearing impairment, and symptoms (respiratory, sinus, ears and hearing) measured on a PCD-specific health-related quality of life instrument, and to assess the safety of azithromycin maintenance therapy in PCD. METHODS: The BESTCILIA trial is a European multi-centre, double-blind, randomized, placebo-controlled, parallel group study. The intervention is tablets of azithromycin 250/500 mg according to body weight or placebo administered three times a week for 6 months. Subjects with a confirmed diagnosis of PCD, age 7-50 years, are eligible for inclusion. Chronic pulmonary infections with Gram-negative bacteria or any recent occurrence of non-tuberculous mycobacteria are exclusion criteria. The planned number of subjects to be included is 125. The trial has been approved by the Research Ethics Committees of the participating institutions. DISCUSSION: We present a study protocol of an ongoing RCT, evaluating for the first time, the efficacy and safety of a pharmacotherapeutic treatment for patients with PCD. The RCT evaluates azithromycin maintenance therapy, a drug already commonly prescribed in other chronic respiratory disorders. Furthermore, the trial will utilize the Lung clearance index and new, PCD-specific quality of life instruments as outcome measures for PCD. Recruitment is hampered by frequent occurrence of Pseudomonas aeruginosa infection, exacerbations at enrolment, and the patients' perception of disease severity and necessity of additional management and treatment during trial participation. TRIAL REGISTRATION: EudraCT 2013-004664-58 (date of registration: 2014-04-08).
+AN  - rayyan-1270389275
+AU  - Kobbernagel, H. E.
+AU  - Buchvald, F. F.
+AU  - Haarman, E. G.
+AU  - Casaulta, C.
+AU  - Collins, S. A.
+AU  - Hogg, C.
+AU  - Kuehni, C. E.
+AU  - Lucas, J. S.
+AU  - Omran, H.
+AU  - Quittner, A. L.
+AU  - Werner, C.
+AU  - Nielsen, K. G.
+C1  - 1471-2466 Kobbernagel, Helene E Buchvald, Frederik F Haarman, Eric G Casaulta, Carmen Collins, Samuel A Hogg, Claire Kuehni, Claudia E Lucas, Jane S Omran, Heymut Quittner, Alexandra L Werner, Claudius Nielsen, Kim G Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2016/07/28 BMC Pulm Med. 2016 Jul 22;16(1):104. doi: 10.1186/s12890-016-0261-x. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016-7-22
+DO  - doi:10.1186/s12890-016-0261-x
+IS  - 1
+KW  - Adolescent
+Adult
+Anti-Bacterial Agents/*administration & dosage/adverse effects
+Azithromycin/*administration & dosage/adverse effects
+Child
+Disease Progression
+Double-Blind Method
+Europe
+Female
+Humans
+Kartagener Syndrome/complications/*drug therapy
+Male
+Middle Aged
+Quality of Life
+Regression Analysis
+*Research Design
+Respiratory Tract Infections/*drug therapy
+Spirometry
+Treatment Outcome
+Vital Capacity
+Young Adult
+Azithromycin
+Exacerbation
+Health-related quality of life
+Lung clearance index
+Multiple breath washout
+Primary ciliary dyskinesia
+Qol-pcd
+LA  - eng
+PY  - 2016
+SN  - 1471-2466
+SP  - 104
+ST  - Study protocol, rationale and recruitment in a European multi-centre randomized controlled trial to determine the efficacy and safety of azithromycin maintenance therapy for 6 months in primary ciliary dyskinesia
+T2  - BMC Pulm Med
+TI  - Study protocol, rationale and recruitment in a European multi-centre randomized controlled trial to determine the efficacy and safety of azithromycin maintenance therapy for 6 months in primary ciliary dyskinesia
+VL  - 16
+ID  - 30558
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Critical illness myopathy (CIM) and polyneuropathy (CIP) are a common complication of critical illness. Both cause intensive-care-unit-acquired (ICU-acquired) muscle weakness (ICUAW) which increases morbidity and delays rehabilitation and recovery of activities of daily living such as walking ability. Focused physical rehabilitation of people with ICUAW is, therefore, of great importance at both an individual and a societal level. A recent systematic Cochrane review found no randomised controlled trials (RCT), and thus no supporting evidence, for physical rehabilitation interventions for people with defined CIP and CIM to improve activities of daily living. Therefore, the aim of our study is to compare the effects of an additional physiotherapy programme with systematically augmented levels of mobilisation with additional in-bed cycling (as the parallel group) on walking and other activities of daily living. METHODS/DESIGN: We will conduct a prospective, rater-masked RCT of people with ICUAW with a defined diagnosis of CIM and/or CIP in our post-acute hospital. We will randomly assign patients to one of two parallel groups in a 1:1 ratio and will use a concealed allocation. One intervention group will receive, in addition to standard ICU treatment, physiotherapy with systematically augmented levels of mobilisation (five times per week, over 2 weeks; 20 min each session; with a total of 10 additional sessions). The other intervention group will receive, in addition to standard ICU treatment, in-bed cycle sessions (same number, frequency and treatment time as the intervention group). Standard ICU treatment includes sitting balance exercise, stretching, positioning, and sit-to-stand training, and transfer training to get out of bed, strengthening exercise (in and out of bed), and stepping and assistive standing exercises. Primary efficacy endpoints will be walking ability (defined as a Functional Ambulation Category (FAC) level of ≥3) and the sum score of the Functional Status Score for the Intensive Care Unit (FSS-ICU) (range 0-22 points) assessed by a blinded tester immediately after 2 weeks of additional therapy. Secondary outcomes will include assessment of sit-to-stand recovery, overall limb strength (Medical Research Council, MRC) and grip strength, the Physical Function for the Intensive Care Unit Test-Scored (PFIT-S), the EuroQol 5 Dimensions (EQ-5D) questionnaire and the Reintegration to Normal Living Index (RNL-Index) assessed by a blinded tester. We will measure primary and secondary outcomes with blinded assessors at baseline, immediately after 2 weeks of additional therapy, and at 3 weeks and 6 months and 12 months after the end of the additional therapy intervention. Based on our sample size calculation 108 patients will be recruited from our post-acute ICU in the next 3 to 4 years. DISCUSSION: This will be the first RCT comparing the effects of two physical rehabilitation interventions for people with ICUAW due to defined CIP and/or CIM to improve walking and other activities of daily living. The results of this trial will provide robust evidence for physical rehabilitation of people with CIP and/or CIP who often require long-term care. TRIAL REGISTRATION: We registered the study on 6 April 2016 before enrolling the first patient in the trial at the German Clinical Trials Register ( www.germanctr.de ) with the identifier DRKS00010269 . This is the first version of the protocol (FITonICU study protocol).
+AN  - rayyan-1270389329
+AU  - Mehrholz, J.
+AU  - Thomas, S.
+AU  - Burridge, J. H.
+AU  - Schmidt, A.
+AU  - Scheffler, B.
+AU  - Schellin, R.
+AU  - Rückriem, S.
+AU  - Meißner, D.
+AU  - Mehrholz, K.
+AU  - Sauter, W.
+AU  - Bodechtel, U.
+AU  - Elsner, B.
+C1  - 1745-6215 Mehrholz, Jan Thomas, Simone Burridge, Jane H Schmidt, André Scheffler, Bettina Schellin, Ralph Rückriem, Stefan Meißner, Daniel Mehrholz, Katja Sauter, Wolfgang Bodechtel, Ulf Elsner, Bernhard Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2016/11/25 Trials. 2016 Nov 24;17(1):559. doi: 10.1186/s13063-016-1687-4. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016-11-24
+DO  - doi:10.1186/s13063-016-1687-4
+IS  - 1
+KW  - Activities of Daily Living
+Bicycling
+Clinical Protocols
+Dependent Ambulation
+Exercise Test
+Exercise Therapy/*methods
+Exercise Tolerance
+Germany
+Health Status
+Humans
+*Intensive Care Units
+Mobility Limitation
+*Muscle Strength
+Muscle Weakness/diagnosis/etiology/physiopathology/*therapy
+Muscle, Skeletal/*physiopathology
+*Physical Fitness
+Prospective Studies
+Recovery of Function
+Research Design
+Surveys and Questionnaires
+Time Factors
+Treatment Outcome
+Walking
+ICU-acquired muscle weakness
+Physical rehabilitation
+LA  - eng
+PY  - 2016
+SN  - 1745-6215
+SP  - 559
+ST  - Fitness and mobility training in patients with Intensive Care Unit-acquired muscle weakness (FITonICU): study protocol for a randomised controlled trial
+T2  - Trials
+TI  - Fitness and mobility training in patients with Intensive Care Unit-acquired muscle weakness (FITonICU): study protocol for a randomised controlled trial
+VL  - 17
+ID  - 30567
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Transition-age youth have elevated rates of mental disorders, and they often do not receive services. This is a serious public health concern, as mental health conditions persist into adulthood. Continuing to engage this population has been a pervasive challenge for the mental health care system worldwide. Few mental health interventions have been developed for transition-age youth, and even fewer have been found to be effective over the transition to adulthood. Cornerstone, a theoretically guided intervention has shown promise for addressing the mental health and psychosocial needs of this population as they emerge into adulthood. Cornerstone provides case management, trauma-focused cognitive behavioral therapy, mentoring/peer support, community-based in vivo practice, and groups to address stigma, mistrust, and practical skill development to improve the transition to independence among transition-age youth with serious mental health conditions. METHODS/DESIGN: This study utilizes a hybrid research design and focuses on examining feasibility, acceptability and preliminary impact, along with factors that influence implementation, to maximize new knowledge. The study combines qualitative methods and a randomized controlled trial, using data to inform and refine protocols and manuals, while testing the preliminary impact of the intervention, compared to best available services (treatment as usual, TAU) at a partnering outpatient mental health clinic (n = 60). Contributors to the intervention development research (n = 20) are national experts on mental health services, clinic administrators and staff and young adults with direct experience. The intervention involves intensive staff training and 18 months of ongoing service provision, monitoring and supervision. Quantitative survey data will be collected at baseline, 3 months, 6 months, and 9 months measuring mental health and practical life outcomes via self-report measures. Medical records will be used to triangulate self-report data (i.e., primary diagnosis, treatment planning and attendance). Qualitative data focuses on the intervention development process and implementation research and will use constant comparison coding techniques. In this intention-to-treat analysis, we will conduct basic omnibus analyses to examine whether Cornerstone leads to improved outcomes relative to TAU utilizing t tests across treatment conditions for each outcome measure specified. We will likewise examine whether changes in the proposed mediating variables differ across groups. DISCUSSION: The aim of this study is to refine Cornerstone through an intensive preliminary trial, learning through collaboration with clinic staff, project team members, and leaders in New York State and nationwide on how to best serve transition-age youth with serious mental health conditions. Cornerstone has the potential to fill a large gap in the service system for transition-age youth with serious mental health conditions, and may enhance the menu of care options for those who have been recently diagnosed with a serious mental health condition, and yet, have a long life to live. The program is recovery-oriented, builds on the best evidence to date, and is in line with both local and national health care reform efforts. TRIAL REGISTRATION: This trial was registered with ClinicalTrials.gov (Identifier: NCT02696109 ) on 22 April 16 as Protocol Record R34-MH102525-01A1MRM, as New York University, Cornerstone program for transition-age youth with serious mental illness: study protocol for a randomized controlled trial.
+AN  - rayyan-1270389354
+AU  - Munson, M. R.
+AU  - Cole, A.
+AU  - Stanhope, V.
+AU  - Marcus, S. C.
+AU  - McKay, M.
+AU  - Jaccard, J.
+AU  - Ben-David, S.
+C1  - 1745-6215 Munson, Michelle R Cole, Andrea Stanhope, Victoria Marcus, Steven C McKay, Mary Jaccard, James Ben-David, Shelly R34 MH102525/MH/NIMH NIH HHS/United States Journal Article Randomized Controlled Trial England 2016/11/09 Trials. 2016 Nov 8;17(1):537. doi: 10.1186/s13063-016-1654-0. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016-11-8
+DO  - doi:10.1186/s13063-016-1654-0
+IS  - 1
+KW  - Adolescent
+Adult
+Case Management
+*Clinical Protocols
+Cognitive Behavioral Therapy
+Humans
+Mental Disorders/*therapy
+Self Report
+Young Adult
+Peer mentoring
+Psychosocial intervention
+Serious mental health conditions
+Transition-age youth and young adults
+LA  - eng
+PY  - 2016
+SN  - 1745-6215
+SP  - 537
+ST  - Cornerstone program for transition-age youth with serious mental illness: study protocol for a randomized controlled trial
+T2  - Trials
+TI  - Cornerstone program for transition-age youth with serious mental illness: study protocol for a randomized controlled trial
+VL  - 17
+ID  - 30572
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Perinatal depression, the most common pregnancy complication, is associated with negative maternal-offspring outcomes. Despite existence of effective treatments, it is under-recognized and under-treated. Professional organizations recommend universal screening, yet multi-level barriers exist to ensuring effective diagnosis, treatment, and follow-up. Integrating mental health and obstetric care holds significant promise for addressing perinatal depression. The overall study goal is to compare the effectiveness of two active interventions: (1) the Massachusetts Child Psychiatry Access Program (MCPAP) for Moms, a state-wide, population-based program, and (2) the PRogram In Support of Moms (PRISM) which includes MCPAP for Moms plus a proactive, multifaceted, practice-level intervention with intensive implementation support. METHODS: This study is conducted in two phases: (1) a run-in phase which has been completed and involved practice and patient participant recruitment to demonstrate feasibility for the second phase, and (2) a cluster randomized controlled trial (RCT), which is ongoing, and will compare two active interventions 1:1 with ten Ob/Gyn practices as the unit of randomization. In phase 1, rates of depressive symptoms and other demographic and clinical features among patients were examined to inform practice randomization. Patient participants to be recruited in phase 2 will be followed longitudinally until 13 months postpartum; they will have 3-5 total study visits depending on whether their initial recruitment and interview was at 4-24 or 32-40 weeks gestation, or 1-3 months postpartum. Sampling throughout pregnancy and postpartum will ensure participants with different depressive symptom onset times. Differences in depression symptomatology and treatment participation will be compared between patient participants by intervention arm. DISCUSSION: This manuscript describes the full two-phase study protocol. The study design is innovative because it combines effectiveness with implementation research designs and integrates critical components of participatory action research. Our approach assesses the feasibility, acceptance, efficacy, and sustainability of integrating a stepped-care approach to perinatal depression care into ambulatory obstetric settings; an approach that is flexible and can be tailored and adapted to fit unique workflows of real-world practices. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02760004, registered prospectively on May 3, 2016.
+AN  - rayyan-1270391109
+AU  - Moore Simas, T. A.
+AU  - Brenckle, L.
+AU  - Sankaran, P.
+AU  - Masters, G. A.
+AU  - Person, S.
+AU  - Weinreb, L.
+AU  - Ko, J. Y.
+AU  - Robbins, C. L.
+AU  - Allison, J.
+AU  - Byatt, N.
+C1  - 1471-2393 Moore Simas, Tiffany A Orcid: 0000-0002-8356-6418 Brenckle, Linda Sankaran, Padma Masters, Grace A Person, Sharina Weinreb, Linda Ko, Jean Y Robbins, Cheryl L Allison, Jeroan Byatt, Nancy KL2TR000160/RR/NCRR NIH HHS/United States UL1TR000161/TR/NCATS NIH HHS/United States 1U01 DP006093/CC/CDC HHS/United States UL1TR001453/TR/NCATS NIH HHS/United States U01 DP006093/DP/NCCDPHP CDC HHS/United States TL1 TR001454/TR/NCATS NIH HHS/United States Clinical Trial Protocol Journal Article England 2019/07/25 BMC Pregnancy Childbirth. 2019 Jul 22;19(1):256. doi: 10.1186/s12884-019-2387-3. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019-7-22
+DO  - doi:10.1186/s12884-019-2387-3
+IS  - 1
+KW  - Adult
+Cluster Analysis
+*Depression/diagnosis/etiology/therapy
+*Depression, Postpartum/diagnosis/therapy
+Female
+Humans
+Mental Health
+Outcome Assessment, Health Care
+Patient Participation
+Perinatal Care/*methods
+Pregnancy
+*Pregnancy Complications/diagnosis/psychology/therapy
+*Psychological Techniques
+*Psychosocial Support Systems
+Research Design
+Depression
+Implementation randomized controlled trial
+Integrated care
+Intervention
+Methods
+Perinatal
+Postpartum
+Protocol
+LA  - eng
+PY  - 2019
+SN  - 1471-2393
+SP  - 256
+ST  - The PRogram In Support of Moms (PRISM): study protocol for a cluster randomized controlled trial of two active interventions addressing perinatal depression in obstetric settings
+T2  - BMC Pregnancy Childbirth
+TI  - The PRogram In Support of Moms (PRISM): study protocol for a cluster randomized controlled trial of two active interventions addressing perinatal depression in obstetric settings
+VL  - 19
+ID  - 30574
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Binge-eating disorder (BED) is characterized by recurrent episodes of loss of control over eating and is related to a higher prevalence of other mental disorders and somatic consequences associated with overweight and obesity. In community-based samples, 2-4% of women and 1-3% men are diagnosed with BED. Psychotherapeutic interventions focusing on maintenance factors of disturbed eating behavior have proven to be effective. However, treatment access is limited for a considerable number of patients with BED. A lack of specialized institutions and treatment resources, but also long distances to treatment facilities for people living in remote or rural areas are often causes of insufficient care. Internet-based guided self-help (GSH) programs have the potential to fill this gap. METHODS: This project aims to develop and evaluate an Internet-based treatment for BED derived from an evidence-based manualized cognitive behavioral therapy (CBT). The primary goal is to test feasibility and suitability of the Internet-based program and to evaluate the treatment outcome in comparison to a pure and a placebo-inspired waitlist control group (i.e. reduction of binge-eating episodes and eating disorder pathology as primary outcome variables). In total, 60 women and men aged 18-70 years with a BED diagnosis will be recruited. The Internet-based GSH treatment comprises eight sessions followed by three booster sessions. The placebo-inspired waitlist control group receives weekly messages containing information increasing positive expectations regarding the treatment effects during the four-week waiting period. The pure waitlist control group receives weekly messages simply asking patients to fill in a short questionnaire. DISCUSSION: The access to evidence-based treatments for BED might be made easier using an Internet-based GSH approach. The present study protocol presents a randomized controlled trial. As well as evaluating the suitability and efficacy of the Internet-based GSH treatment, there will also be a prelimarily investigation on the influence of positive expectations (placebo) for a therapeutic intervention on core symptoms. TRIAL REGISTRATION: German Clinical Trials Register, DRKS00012355 . Registered on 14 September 2017.
+AN  - rayyan-1270391114
+AU  - Munsch, S.
+AU  - Wyssen, A.
+AU  - Vanhulst, P.
+AU  - Lalanne, D.
+AU  - Steinemann, S. T.
+AU  - Tuch, A.
+C1  - 1745-6215 Munsch, Simone Wyssen, Andrea Vanhulst, Pierre Lalanne, Denis Steinemann, Sharon T Tuch, Alexandre 52-15/Swiss Anorexia Nervosa Foundation/ Clinical Trial Protocol Journal Article England 2019/02/15 Trials. 2019 Feb 13;20(1):128. doi: 10.1186/s13063-019-3192-z. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019-2-13
+DO  - doi:10.1186/s13063-019-3192-z
+IS  - 1
+KW  - Adult
+Aged
+Binge-Eating Disorder/*therapy
+*Cognitive Behavioral Therapy
+Control Groups
+Feasibility Studies
+Humans
+*Internet
+Middle Aged
+Placebos
+*Randomized Controlled Trials as Topic
+Treatment Outcome
+Waiting Lists
+Binge-eating disorder
+Cognitive behavioral therapy
+Guided self-help
+Internet-based treatment
+Placebo
+LA  - eng
+PY  - 2019
+SN  - 1745-6215
+SP  - 128
+ST  - Binge-eating disorder treatment goes online - feasibility, usability, and treatment outcome of an Internet-based treatment for binge-eating disorder: study protocol for a three-arm randomized controlled trial including an immediate treatment, a waitlist, and a placebo control group
+T2  - Trials
+TI  - Binge-eating disorder treatment goes online - feasibility, usability, and treatment outcome of an Internet-based treatment for binge-eating disorder: study protocol for a three-arm randomized controlled trial including an immediate treatment, a waitlist, and a placebo control group
+VL  - 20
+ID  - 30579
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Access to and utilization of adolescent sexual and reproductive health (ASRH) services remains poor. ASRH services in Kenya are primarily offered in health facilities and include counselling, information, and services on family planning, sexually transmitted infections, and HIV and basic life skills. The Ministry of Education also provides age-appropriate sexual and reproductive health information in schools. This paper presents a study protocol that will evaluate the effectiveness of a combined approach toward improving utilization of ASRH services. METHODS: This will be a quasi-experimental study utilizing qualitative and quantitative methods. During the formative phase, data will be collected through focus group discussions, in-depth interviews, and key informant interviews to explore the barriers and facilitators of provision and utilization of ASRH services. A quantitative design will be used to obtain baseline and endline data through household surveys and client exit interviews. Following the formative and baseline household and client exit assessments, an intervention focusing on provision of ASRH service package targeting boys and girls will be implemented for 18 months. The package will include contextualized ASRH services, including counselling and age-appropriate, comprehensive sexual education for behavior change with an aim to increase utilization of ASRH services. An analysis of the primary outcome (utilization of ASRH services) will be undertaken to establish the difference in difference between the control and intervention arm, before the intervention (using the baseline survey data) and after the intervention (using the endline survey data). DISCUSSION: Adolescents have now been included in the World Health Organization's Global strategy for women's, children's and adolescents' health (2016-2030), acknowledging the unique health challenges facing young people and their pivotal role as drivers of change in the post-2015 era. This study will generate evidence on whether a combined school, facility, and community approach works toward improving utilization of ASRH services. The information generated from the study will be beneficial for programming as it will identify underlying reasons for low utilization of ASRH services. Results will help to shape ASRH programs and reduce teenage pregnancy within Kenya and other similar low middle-income countries. TRIAL REGISTRATION: The study is registered at http://www.pactr.org/ , registration number PACTR201906738029948.
+AN  - rayyan-1270391115
+AU  - Mutea, L.
+AU  - Ontiri, S.
+AU  - Macharia, S.
+AU  - Tzobotaro, M.
+AU  - Ajema, C.
+AU  - Odiara, V.
+AU  - Kadiri, F.
+AU  - Orero, S.
+AU  - Kabue, M.
+AU  - Michielsen, K.
+AU  - Gichangi, P.
+C1  - 1742-4755 Mutea, Lilian Ontiri, Susan Orcid: 0000-0001-7622-5714 Macharia, Sheila Tzobotaro, Meital Ajema, Carolyne Odiara, Vincent Kadiri, Francis Orero, Solomon Kabue, Mark Michielsen, Kristien Gichangi, Peter Aid-615-a-17-00004/usaid/ Evaluation Study Journal Article England 2019/10/31 Reprod Health. 2019 Oct 29;16(1):153. doi: 10.1186/s12978-019-0825-3. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019-10-29
+DO  - doi:10.1186/s12978-019-0825-3
+IS  - 1
+KW  - Adolescent
+Adolescent Health Services/*statistics & numerical data
+Adult
+Female
+Health Promotion/*methods
+Humans
+Male
+Non-Randomized Controlled Trials as Topic
+Pregnancy
+Pregnancy in Adolescence/*psychology
+Program Evaluation
+Reproductive Health Services/*statistics & numerical data
+*Research Design
+Sexual Behavior/*psychology
+Young Adult
+Approach
+Contraception
+Family planning
+Sexual and reproductive health
+LA  - eng
+PY  - 2019
+SN  - 1742-4755
+SP  - 153
+ST  - Evaluating the effectiveness of a combined approach to improve utilization of adolescent sexual reproductive health services in Kenya: a quasi-experimental design study protocol
+T2  - Reprod Health
+TI  - Evaluating the effectiveness of a combined approach to improve utilization of adolescent sexual reproductive health services in Kenya: a quasi-experimental design study protocol
+VL  - 16
+ID  - 30580
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Although there is extensive evidence for the efficacy of online eating disorder (ED) prevention programs in clinical trials, these programs have rarely been adopted beyond the trial phase and offered to a wider audience. As risk factors for eating disorders are partly associated with overweight and overweight in turn is correlated to disordered eating, this study will offer a combined eating disorder prevention program which also promotes a balanced lifestyle to normal weight and overweight individuals alike. The efficacy of the program has been proven in previous trials. The study aims to evaluate the dissemination of a combined eating disorder prevention and health promotion program (everyBody) to women of all age groups and varying levels of ED risk status in the general population. METHODS: A dissemination trial will be conducted in German-speaking countries, including 4160 women from the general population. Participants will be screened to exclude participants who are likely to have an ED. Eligible participants will be allocated to one of five program arms based on their BMI and respective ED symptoms. The guided program consists of 4 to 12 weeks of weekly sessions offering CBT-based exercises, psychoeducational material, self-monitoring, and group discussions. Outcomes will be assessed according to the RE-AIM model, including measures of effectiveness, reach, adoption, implementation, and maintenance of the program. DISCUSSION/CONCLUSIONS: This trial aims to disseminate a combined ED prevention and health promotion program in the general population, offering universal, selective and indicated prevention in one program. To our knowledge, it is the first trial to systematically evaluate dissemination efforts based on the RE-AIM model. This trial will be conducted as part of the EU-funded ICare (Integrating Technology into Mental Health Care Delivery in Europe) project.
+AN  - rayyan-1270391116
+AU  - Nacke, B.
+AU  - Beintner, I.
+AU  - Görlich, D.
+AU  - Vollert, B.
+AU  - Schmidt-Hantke, J.
+AU  - Hütter, K.
+AU  - Taylor, C. B.
+AU  - Jacobi, C.
+C1  - 2214-7829 Nacke, Barbara Beintner, Ina Görlich, Dennis Vollert, Bianka Schmidt-Hantke, Juliane Hütter, Kristian Taylor, C Barr Jacobi, Corinna Journal Article Netherlands 2019/02/19 Internet Interv. 2018 Feb 26;16:20-25. doi: 10.1016/j.invent.2018.02.008. eCollection 2019 Apr. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019-4
+DO  - doi:10.1016/j.invent.2018.02.008
+KW  - Disseminationi
+Eating disorders
+Internet-based intervention
+Prevention
+LA  - eng
+PY  - 2019
+SN  - 2214-7829
+SP  - 20-25
+ST  - everyBody-Tailored online health promotion and eating disorder prevention for women: Study protocol of a dissemination trial
+T2  - Internet Interv
+TI  - everyBody-Tailored online health promotion and eating disorder prevention for women: Study protocol of a dissemination trial
+VL  - 16
+ID  - 30581
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Falls are a major health care concern for our aging population. Previous research has identified impaired sustained attention as a risk factor for falls. Recently, meditation has been shown to improve different types of attention in various populations. However, there are no studies to date examining whether meditation training can improve sustained attention and mobility in older adults. METHODS: We are conducting a 4-week proof-of-concept meditation intervention. We will recruit community-dwelling older adults. Participants will be randomized into one of two groups: (1) meditation training or (2) music listening (control). All participants will complete three 20-min group sessions per week and will be encouraged to continue their practice independently on the remaining days each week. Our primary outcome measure is behavioral performance on the Sustained Attention to Response Task (SART). Our secondary and tertiary outcomes include electroencephalograms (EEG) to assess attention and cognitive processing, mobility, and executive function. DISCUSSION: Our proof-of-concept intervention aims to examine whether meditation training can improve sustained attention in older adults, who are known to be susceptible to falls. Importantly, our research has the potential to inform future clinical trials aimed at improving mobility and reducing falls risk in our aging population. TRIAL REGISTRATION: Clinicaltrials.gov ID NCT03417635.
+AN  - rayyan-1270391117
+AU  - Nagamatsu, L. S.
+AU  - Ford, S. D.
+C1  - 2055-5784 Nagamatsu, Lindsay S Ford, Sabrina D Journal Article England 2019/02/23 Pilot Feasibility Stud. 2019 Feb 11;5:22. doi: 10.1186/s40814-019-0413-x. eCollection 2019. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019
+DO  - doi:10.1186/s40814-019-0413-x
+KW  - Attention
+Eeg
+Falls risk
+Intervention
+Meditation
+Mobility
+LA  - eng
+PY  - 2019
+SN  - 2055-5784 (Print) 2055-5784
+SP  - 22
+ST  - Can meditation improve attention in older adults? Study protocol for a 4-week proof-of-concept intervention
+T2  - Pilot Feasibility Stud
+TI  - Can meditation improve attention in older adults? Study protocol for a 4-week proof-of-concept intervention
+VL  - 5
+ID  - 30582
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Chronic anal fissure (CAF) is a common cause of severe anorectal pain with a high incidence rate. Currently, a wide range of treatment options are available with recurrence rates varying between 7 and 42%. Pelvic floor physical therapy (PFPT) is a treatment option for increased pelvic floor muscle tone and dyssynergia which often accompanies CAF. However, literature on this subject is scarce. The Pelvic Floor Anal Fissure (PAF)-study aims to determine the efficacy and effectiveness of PFPT on improvement on pelvic floor muscle tone and function, pain, healing of the fissure, quality of life and complaint reduction in patients with CAF. METHODS: The PAF-study is a single-centre, two armed, randomized controlled trial. Patients with CAF and pelvic floor dysfunction are eligible for inclusion. Exclusion criteria include abscess, fistula, Crohn's disease, ulcerative colitis, anorectal malignancy, prior rectal radiation, and pregnancy. A total of 140 patients will be randomized for either PFPT or postponed treatment of PFPT.The primary outcome is tone at rest during electromyographic registration of the pelvic floor before and after therapy. Secondary outcomes consist of healing of the fissure, pain ratings, improvement of pelvic floor function, complaint reduction and quality of life. Primary and secondary endpoints are measured at 8 and 20 weeks and at 1-year follow-up. DISCUSSION: Currently, there is a gap in treatment modalities between conservative management and surgery. This manuscript prescribes the rationale, design, and methodology of a randomized controlled trial investigating PFPT as a treatment option for patients with CAF.
+AN  - rayyan-1270393228
+AU  - van Reijn-Baggen, D. A.
+AU  - Elzevier, H. W.
+AU  - Pelger, R. C. M.
+AU  - Han-Geurts, I. J. M.
+C1  - 2451-8654 van Reijn-Baggen, Daniëlle A Elzevier, Henk W Pelger, Rob C M Han-Geurts, Ingrid J M Journal Article Netherlands 2021/11/30 Contemp Clin Trials Commun. 2021 Nov 16;24:100874. doi: 10.1016/j.conctc.2021.100874. eCollection 2021 Dec. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-12
+DO  - doi:10.1016/j.conctc.2021.100874
+KW  - Anal pain
+Biofeedback
+Chronic anal fissure
+Pelvic floor physical therapy
+LA  - eng
+PY  - 2021
+SN  - 2451-8654
+SP  - 100874
+ST  - Pelvic floor physical therapy in the treatment of chronic anal fissure (PAF-study): Study protocol for a randomized controlled trial
+T2  - Contemp Clin Trials Commun
+TI  - Pelvic floor physical therapy in the treatment of chronic anal fissure (PAF-study): Study protocol for a randomized controlled trial
+VL  - 24
+ID  - 30589
+ER  - 
+
+TY  - JOUR
+AB  - Introduction: Quantitative sensory testing is frequently used in research to assess endogenous pain modulation mechanisms, such as Temporal Summation (TS) and Conditioned Pain Modulation (CPM), reflecting excitatory and inhibitory mechanisms, respectively. Numerous studies found that a dysregulation of these mechanisms is associated with chronic pain conditions. In turn, such a patient's "profile" (increased TS and/or weakened CPM) could be used to recommend different pharmacological treatments. However, the procedure to evaluate these mechanisms is time-consuming and requires expensive equipment that is not available in the clinical setting. In this study, we aim to identify psychological, physiological and socio-demographic markers that could serve as proxies to allow healthcare professionals to identify these pain phenotypes in clinic, and consequently optimize pharmacological treatments. Method: We aim to recruit a healthy participant cohort (n = 360) and a chronic pain patient cohort (n = 108). Independent variables will include psychological questionnaires, pain measurements, physiological measures and sociodemographic characteristics. Dependent variables will include TS and CPM, which will be measured using quantitative sensory testing in a single session. We will evaluate one prediction model and two validation models (for healthy and chronic pain participants) using multiple regression analysis between TS/CPM and our independent variables. The significance thresholds will be set at p = 0.05, respectively. Perspectives: This study will allow us to develop a predictive model to compute the pain modulation profile of individual patients based on their biopsychosocial characteristics. The development of the predictive model is the first step toward the overarching goal of providing clinicians with a set of quick and cheap tests, easily applicable in clinical practice to orient pharmacological treatments.
+AN  - rayyan-1270393233
+AU  - Vincenot, M.
+AU  - Coulombe-Lévêque, A.
+AU  - Sean, M.
+AU  - Camirand Lemyre, F.
+AU  - Gendron, L.
+AU  - Marchand, S.
+AU  - Léonard, G.
+C1  - 2673-561x Vincenot, Matthieu Coulombe-Lévêque, Alexia Sean, Monica Camirand Lemyre, Félix Gendron, Louis Marchand, Serge Léonard, Guillaume Journal Article Switzerland 2022/03/18 Front Pain Res (Lausanne). 2021 Feb 15;2:606422. doi: 10.3389/fpain.2021.606422. eCollection 2021. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021
+DO  - doi:10.3389/fpain.2021.606422
+KW  - catecholamines
+chronic pain
+clinical feasibility
+conditional pain modulation
+pain modulation profile
+temporal summation
+LA  - eng
+PY  - 2021
+SN  - 2673-561X (Print) 2673-561x
+SP  - 606422
+ST  - Development and Validation of a Predictive Model of Pain Modulation Profile to Guide Chronic Pain Treatment: A Study Protocol
+T2  - Front Pain Res (Lausanne)
+TI  - Development and Validation of a Predictive Model of Pain Modulation Profile to Guide Chronic Pain Treatment: A Study Protocol
+VL  - 2
+ID  - 30592
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Bipolar disorder is one of the most severe mental disorders. Its chronic course is associated with high rates of morbidity and mortality, a high risk of suicide and poor social and occupational outcomes. Despite the great advances over the last decades in understanding mental disorders, the mechanisms underlying bipolar disorder at the neural network level still remain elusive. This has severe consequences for clinical practice, for instance by inadequate diagnoses or delayed treatments. The German research consortium BipoLife aims to shed light on the mechanisms underlying bipolar disorders. It was established in 2015 and incorporates ten university hospitals across Germany. Its research projects focus in particular on individuals at high risk of bipolar disorder, young patients in the early stages of the disease and patients with an unstable highly relapsing course and/or with acute suicidal ideation. METHODS: Functional and structural magnetic resonance imaging (MRI) data was acquired across nine sites within three different studies. Obtaining neuroimaging data in a multicenter setting requires among others the harmonization of the acquisition protocol, the standardization of paradigms and the implementation of regular quality control procedures. The present article outlines the MRI imaging protocols, the acquisition parameters, the imaging paradigms, the neuroimaging quality assessment procedures and the number of recruited subjects. DISCUSSION: The careful implementation of a MRI study protocol as well as the adherence to well-defined quality assessment procedures is one key benchmark in the evaluation of the overall quality of large-scale multicenter imaging studies. This article contributes to the BipoLife project by outlining the rationale and the design of the MRI study protocol. It helps to set the necessary standards for follow-up analyses and provides the technical details for an in-depth understanding of follow-up publications.
+AN  - rayyan-1270393234
+AU  - Vogelbacher, C.
+AU  - Sommer, J.
+AU  - Schuster, V.
+AU  - Bopp, M. H. A.
+AU  - Falkenberg, I.
+AU  - Ritter, P. S.
+AU  - Bermpohl, F.
+AU  - Hindi Attar, C.
+AU  - Rauer, L.
+AU  - Einenkel, K. E.
+AU  - Treutlein, J.
+AU  - Gruber, O.
+AU  - Juckel, G.
+AU  - Flasbeck, V.
+AU  - Mulert, C.
+AU  - Hautzinger, M.
+AU  - Pfennig, A.
+AU  - Matura, S.
+AU  - Reif, A.
+AU  - Grotegerd, D.
+AU  - Dannlowski, U.
+AU  - Kircher, T.
+AU  - Bauer, M.
+AU  - Jansen, A.
+C1  - 2194-7511 Vogelbacher, Christoph Orcid: 0000-0002-3191-1400 Sommer, Jens Schuster, Verena Bopp, Miriam H A Falkenberg, Irina Ritter, Philipp S Bermpohl, Felix Hindi Attar, Catherine Rauer, Lisa Einenkel, Karolin E Treutlein, Jens Gruber, Oliver Juckel, Georg Flasbeck, Vera Mulert, Christoph Hautzinger, Martin Pfennig, Andrea Matura, Silke Reif, Andreas Grotegerd, Dominik Dannlowski, Udo Kircher, Tilo Bauer, Michael Jansen, Andreas 01EE1404A-H/Bundesministerium für Bildung und Forschung/ 01EE1404E/Bundesministerium für Bildung und Forschung/ Journal Article Germany 2021/11/18 Int J Bipolar Disord. 2021 Nov 17;9(1):37. doi: 10.1186/s40345-021-00240-6. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-11-17
+DO  - doi:10.1186/s40345-021-00240-6
+IS  - 1
+KW  - BipoLife
+Bipolar disorder
+Early intervention
+Early recognition
+MRI quality assurance
+Major depression
+Multicenter study
+fMRI
+LA  - eng
+PY  - 2021
+SN  - 2194-7511 (Print) 2194-7511
+SP  - 37
+ST  - The German research consortium for the study of bipolar disorder (BipoLife): a magnetic resonance imaging study protocol
+T2  - Int J Bipolar Disord
+TI  - The German research consortium for the study of bipolar disorder (BipoLife): a magnetic resonance imaging study protocol
+VL  - 9
+ID  - 30593
+ER  - 
+
+TY  - JOUR
+AB  - Background: Since the outbreak of COVID-19 pandemic, psychological distress is increased. Transdiagnostic mechanisms, including trauma, personality functioning, mentalizing and emotion regulation are considered relevant to the development and maintenance of mental health problems and therefore may play a role in individuals' reactions to the pandemic. Aim: To identify moderating and mediating factors associated with pandemic-related distress and mental health problems in adults and families, we aim to investigate the interactions of interpersonal trauma (childhood trauma and domestic violence), psychological capacities (personality functioning, mentalizing and emotion regulation) and pandemic-related adversity on psychological distress during the COVID-19 pandemic. Furthermore, we aim to investigate behavioral and cognitive consequences of the pandemic (e.g., media consumption, vaccination status, conspiracy beliefs). Methods: Using an online-based cross-sectional and longitudinal design, we will investigate a sample of adult participants recruited via online platforms in German-speaking countries over the course of 1 year with four measurements points via self-report instruments (personality functioning: PID5BF +; mentalizing: MentS, PRFQ; emotion regulation: DERS-SF; mental health problems: PHQ-9, GAD-7; a composite pandemic-related stress score). Structural equation and multi-level modeling will be performed for data analyses. Implications: This study will provide data on the moderating and mediating effects of trauma, personality functioning and mentalizing during the pandemic in a large community sample, particularly on vulnerable groups like families. Identifying transdiagnostic mechanisms of psychopathology in the course of a pandemic crisis may provide valuable insight for the development of pre- and intervention measures for potential psychological distress during and post the pandemic.
+AN  - rayyan-1270393235
+AU  - Volkert, J.
+AU  - Taubner, S.
+AU  - Berning, A.
+AU  - Kling, L.
+AU  - Wießner, H.
+AU  - Georg, A. K.
+AU  - Holl, J.
+C1  - 1664-1078 Volkert, Jana Taubner, Svenja Berning, Anna Kling, Laura Wießner, Hannah Georg, Anna K Holl, Julia Journal Article Switzerland 2022/01/11 Front Psychol. 2021 Dec 22;12:720104. doi: 10.3389/fpsyg.2021.720104. eCollection 2021. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021
+DO  - doi:10.3389/fpsyg.2021.720104
+KW  - crisis
+emotion regulation
+family
+mentalizing
+pandemic (COVID-19)
+personality functioning
+reflective functioning
+trauma
+LA  - eng
+PY  - 2021
+SN  - 1664-1078 (Print) 1664-1078
+SP  - 720104
+ST  - Transdiagnostic Mechanisms of Mental Health During the COVID-19 Pandemic on Adults and Families in Germany: Study Protocol of a Cross-Sectional and 1-Year Longitudinal Study
+T2  - Front Psychol
+TI  - Transdiagnostic Mechanisms of Mental Health During the COVID-19 Pandemic on Adults and Families in Germany: Study Protocol of a Cross-Sectional and 1-Year Longitudinal Study
+VL  - 12
+ID  - 30594
+ER  - 
+
+TY  - JOUR
+AB  - STUDY DESIGN: This study is a single-blind, parallel, three-group, and randomized controlled trial. PURPOSE: This study aimed to investigate the effectiveness of electrical stimulation-augmented virtual reality training in improving balance in individuals with incomplete spinal cord injury (iSCI). OVERVIEW OF LITERATURE: Individuals with iSCI often face significant balance and mobility impairments affecting their quality of life. Scientific studies focusing on standing balance training in the iSCI population are limited. Virtual reality-based balance training has shown positive results in several neurological populations. Electrical stimulation has also proved to be effective in improving voluntary muscle strength in partially paralyzed muscles after iSCI as well as promoting neuroplasticity. METHODS: Forty-eight iSCI participants will be recruited based on the inclusion criteria. The participants will be randomly assigned to any of the three groups: virtual reality-based balance training along with the electrical stimulation group, virtual reality-based balance training along with sham stimulation group, or virtual reality-based balance training group. The intervention will be delivered as 60-minute sessions, thrice a week for 4 weeks. RESULTS: The performance of the participants will be assessed using the lower extremity motor score, static and dynamic balance assessment using TechnoBody ProKin tilting platform and Berg Balance Scale, Walking Index for Spinal Cord Injury, and World Health Organization Quality of Life-BREF at pre-intervention, after 4 weeks post-intervention, and at 1-month follow-up. CONCLUSIONS: The trial will provide new knowledge about the effectiveness of electrical stimulation-augmented virtual reality training in improving balance in individuals with iSCI. The study results will contribute to the design of better rehabilitation programs for individuals with iSCI.
+AN  - rayyan-1270393241
+AU  - Walia, S.
+AU  - Kumar, P.
+AU  - Kataria, C.
+C1  - 1976-7846 Walia, Shefali Kumar, Pragya Kataria, Chitra Journal Article Korea (South) 2020/12/30 Asian Spine J. 2021 Dec;15(6):865-873. doi: 10.31616/asj.2020.0047. Epub 2020 Dec 30. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-12
+DO  - doi:10.31616/asj.2020.0047
+IS  - 6
+KW  - Balance rehabilitation
+Electrical stimulation
+Spinal cord injury
+Virtual reality
+LA  - eng
+PY  - 2021
+SN  - 1976-1902 (Print) 1976-1902
+SP  - 865-873
+ST  - Efficacy of Electrical Stimulation-Augmented Virtual Reality Training in Improving Balance in Individuals with Incomplete Spinal Cord Injury: Study Protocol of a Randomized Controlled Trial
+T2  - Asian Spine J
+TI  - Efficacy of Electrical Stimulation-Augmented Virtual Reality Training in Improving Balance in Individuals with Incomplete Spinal Cord Injury: Study Protocol of a Randomized Controlled Trial
+VL  - 15
+ID  - 30596
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Postoperative malnutrition is a major issue in patients with gastric cancer. The European Society for Clinical Nutrition and Metabolism recommends oral nutritional supplements (ONS) as a first-line nutritional therapy to prevent malnutrition in patients with cancer. However, adherence to ONS is unsatisfactory. The overall aim of this study was to evaluate the adherence of patients with gastric cancer to ONS and to explore the promoting and hindering factors. METHODS AND ANALYSIS: In this study, we will use mixed methods with an explanatory sequential approach for data collection and analysis. In the first phase, a 12-week longitudinal study will be performed to identify changes in trends of oral nutritional supplementation adherence in 135 patients with gastric cancer, the impact of adherence on nutritional indicators and clinical outcomes and ONS adherence-related factors. The primary endpoints include patient adherence to ONS, weight, body mass index and grip strength followed by 30-day readmission rate, complications and adverse reactions. In the second stage, qualitative research will be implemented to provide in-depth insight into the quantitative results. Finally, quantitative and qualitative results will be combined for analysis and discussion to put forward suggestions for improving patients' ONS adherence. ETHICS AND DISSEMINATION: This research protocol has been approved by the Ethics Committee of the School of Nursing, Jilin University, China (No. 2019101601). Results will be disseminated in peer-reviewed journals and conferences, and sent to participating practices. TRIAL REGISTRATION NUMBER: ChiTR2000032425.
+AN  - rayyan-1270393242
+AU  - Wan, G. Y.
+AU  - Xue, H.
+AU  - Yuan, H.
+AU  - Wang, X.
+AU  - Li, H. Q.
+AU  - Zhang, X.
+C1  - 2044-6055 Wan, Guang-Ying Xue, Hui Yuan, Hua Wang, Xin Li, Hui-Qin Zhang, Xiuying Orcid: 0000-0001-6006-2914 Journal Article Research Support, Non-U.S. Gov't England 2021/03/13 BMJ Open. 2021 Mar 11;11(3):e044308. doi: 10.1136/bmjopen-2020-044308. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-3-11
+DO  - doi:10.1136/bmjopen-2020-044308
+IS  - 3
+KW  - China
+Dietary Supplements
+Humans
+Longitudinal Studies
+*Malnutrition
+Nutritional Status
+*Stomach Neoplasms/surgery
+gastrointestinal tumours
+nutrition & dietetics
+nutritional support
+LA  - eng
+PY  - 2021
+SN  - 2044-6055
+SP  - e044308
+ST  - Assessment of adherence to oral nutritional supplementation and exploration of barriers and facilitators in patients after gastric cancer surgery: a mixed methods study protocol
+T2  - BMJ Open
+TI  - Assessment of adherence to oral nutritional supplementation and exploration of barriers and facilitators in patients after gastric cancer surgery: a mixed methods study protocol
+VL  - 11
+ID  - 30597
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Mental health problems are the leading cause of disability among adolescents worldwide, yet access to treatment is limited. Brief digital interventions have been shown to improve youth mental health, but little is known about which digital interventions are most effective. AIMS: To evaluate the effectiveness of two digital single-session interventions (Shamiri-Digital and Digital-CBT (cognitive-behavioural therapy)) among Kenyan adolescents. METHODS: We will perform a school-based comparative effectiveness randomised controlled trial. Approximately 926 Kenyan adolescents will be randomly assigned to one of three conditions: Shamiri-Digital (focused on gratitude, growth mindsets and values), Digital-CBT (focused on behavioural activation, cognitive restructuring and problem solving) or a study-skills control condition (focused on note-taking and essay writing skills). The primary outcomes include depressive symptoms (measured by the Patient Health Questionnaire-8), anxiety symptoms (Generalized Anxiety Disorder Screener-7) and subjective well-being (Short Warwick-Edinburgh Mental Well-being Scale). The secondary outcomes include acceptability, appropriateness, primary control and secondary control. Acceptability and appropriateness will be measured immediately post-intervention; other outcomes will be measured 2 weeks, 4 weeks and 12 weeks post-intervention. RESULTS: We hypothesise that adolescents assigned to Shamiri-Digital and adolescents assigned to Digital-CBT will experience greater improvements (assessed via hierarchical linear models) than those assigned to the control group. We will also compare Shamiri-Digital with Digital-CBT, although we do not have a preplanned hypothesis. CONCLUSIONS: Our findings will help us evaluate two digital single-session interventions with different theoretical foundations. If effective, such interventions could be disseminated to reduce the public health burden of common mental health problems. TRIAL REGISTRATION NUMBER: PACTR202011691886690.
+AN  - rayyan-1270393256
+AU  - Wasil, A. R.
+AU  - Osborn, T. L.
+AU  - Weisz, J. R.
+AU  - DeRubeis, R. J.
+C1  - 2517-729x Wasil, Akash R Orcid: 0000-0002-0326-0364 Osborn, Tom Lee Orcid: 0000-0002-9092-1035 Weisz, John R DeRubeis, Robert J Journal Article England 2021/07/06 Gen Psychiatr. 2021 Jun 21;34(3):e100446. doi: 10.1136/gpsych-2020-100446. eCollection 2021. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021
+DO  - doi:10.1136/gpsych-2020-100446
+IS  - 3
+KW  - adolescent psychiatry
+anxiety
+brief
+cognitive behavioural therapy
+depression
+psychotherapy
+LA  - eng
+PY  - 2021
+SN  - 2517-729X (Print) 2517-729x
+SP  - e100446
+ST  - Online single-session interventions for Kenyan adolescents: study protocol for a comparative effectiveness randomised controlled trial
+T2  - Gen Psychiatr
+TI  - Online single-session interventions for Kenyan adolescents: study protocol for a comparative effectiveness randomised controlled trial
+VL  - 34
+ID  - 30605
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Leiomyoma recurrence is a major concern for long-term myomectomy management, especially for multiple leiomyomas. Gonadotropin-releasing hormone agonist (GnRHa) is one of the most effective medications to reduce the volume of fibroids and the uterus. However, its role in preventing recurrence after conservative surgery remains unclear. At present, there is no randomised clinical trial determining the efficacy of GnRHa treatment for preventing multiple leiomyomas recurrence after myomectomy. METHODS AND ANALYSIS: We are conducting a phase IV randomised controlled trial in women aged 18-45 undergoing myomectomy for multiple leiomyomas. After surgery, women whose pathological result confirms multiple leiomyomas are randomised in a 1:1 ratio into an observation or GnRHa group. The primary outcome is the recurrence of either clinical symptoms or fibroids on imaging. Patients will be assessed for adverse events during the follow-up. ETHICS AND DISSEMINATION: The study was approved by the Medical Ethics Committee of the Tongji Hospital Affiliated with the Tongji Medical College of Huazhong University of Science and Technology (TJ-IRB20180311) according to the submitted study protocol (V.1.0, 10 November 2017) and informed consent (V.1.0, 10 November 2017). The results will be presented at domestic and international conferences and published in peer-reviewed journals. TRIAL REGISTRATION NUMBER: ChiCTR-IPR-17012992.
+AN  - rayyan-1270393260
+AU  - Wei, J.
+AU  - Ma, X.
+AU  - Wang, W.
+AU  - Zhang, M.
+AU  - Yu, Z.
+AU  - Zhang, W.
+AU  - Hong, L.
+AU  - Li, Z.
+AU  - Li, L.
+AU  - Du, X.
+AU  - Feng, Y.
+AU  - Guo, R.
+AU  - Zhang, C.
+AU  - Yue, Q.
+AU  - Wang, W.
+AU  - Wang, S.
+C1  - 2044-6055 Wei, Jia Orcid: 0000-0003-3767-452x Ma, Xiangyi Wang, Wenwen Zhang, Minli Yu, Zhiying Zhang, Wei Hong, Li Li, Zhiying Li, Lin Du, Xin Feng, Yun Guo, Ruixia Zhang, Chunlian Yue, Qingfen Wang, Wuliang Wang, Shixuan Clinical Trial Protocol Journal Article England 2021/10/20 BMJ Open. 2021 Oct 18;11(10):e044347. doi: 10.1136/bmjopen-2020-044347. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-10-18
+DO  - doi:10.1136/bmjopen-2020-044347
+IS  - 10
+KW  - Female
+Gonadotropin-Releasing Hormone
+Humans
+*Leiomyoma/drug therapy/surgery
+Multicenter Studies as Topic
+Neoplasm Recurrence, Local/prevention & control
+Prospective Studies
+Randomized Controlled Trials as Topic
+*Uterine Myomectomy
+*Uterine Neoplasms/drug therapy/surgery
+Watchful Waiting
+clinical trials
+gynaecology
+protocols & guidelines
+LA  - eng
+PY  - 2021
+SN  - 2044-6055
+SP  - e044347
+ST  - Gonadotropin-releasing hormone agonist versus expectant management for treating multiple leiomyomas after myomectomy: the study protocol for a multicentre, prospective, randomised controlled clinical trial
+T2  - BMJ Open
+TI  - Gonadotropin-releasing hormone agonist versus expectant management for treating multiple leiomyomas after myomectomy: the study protocol for a multicentre, prospective, randomised controlled clinical trial
+VL  - 11
+ID  - 30606
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Process evaluations accompanying complex interventions examine the implementation process of the underlying intervention, identify mechanisms of impact and assess contextual factors. This paper presents the protocol for a process evaluation conducted alongside the randomised controlled trial POWER@MS2. The trial comprises the evaluation of a web-based complex intervention on relapse management in 188 people with multiple sclerosis conducted in 20 centres. The web-based intervention programme focuses on relapse treatment decision making and includes a decision aid, a nurse-led webinar and an online chat. With the process evaluation presented here, we aim to assess participants' responses to and interactions with the intervention to understand how and why the intervention produces change. METHODS AND ANALYSIS: A mixed methods design is used to explore the acceptance of the intervention as well as its use and impact on participants. Participants are people with multiple sclerosis, neurologists, nurses and stakeholders. Quantitative semistandardised evaluation forms will be collected throughout the study. Qualitative semistructured telephone interviews will be conducted at the end of the study with selected participants, especially people with multiple sclerosis and neurologists. Quantitative data will be collected and analysed descriptively. Based on the results, the qualitative interviews will be conducted and analysed thematically, and the results will be merged in a joint display table. ETHICS AND DISSEMINATION: The process evaluation has received ethical approval from the Ethical Committee of the University of Lübeck (reference 19-024). Findings will be disseminated in peer-reviewed journals, at conferences, meetings and on relevant patient websites. TRIAL REGISTRATION NUMBER: NCT04233970.
+AN  - rayyan-1270393263
+AU  - Wenzel, L.
+AU  - Heesen, C.
+AU  - Scheiderbauer, J.
+AU  - van de Loo, M.
+AU  - Köpke, S.
+AU  - Rahn, A. C.
+C1  - 2044-6055 Wenzel, Lisa Orcid: 0000-0002-4862-6008 Heesen, Christoph Scheiderbauer, Jutta van de Loo, Markus Köpke, Sascha Rahn, Anne Christin Clinical Trial Protocol Journal Article Research Support, Non-U.S. Gov't England 2021/10/03 BMJ Open. 2021 Oct 1;11(10):e046874. doi: 10.1136/bmjopen-2020-046874. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-10-1
+DO  - doi:10.1136/bmjopen-2020-046874
+IS  - 10
+KW  - Chronic Disease
+Humans
+*Internet-Based Intervention
+*Multiple Sclerosis/therapy
+Process Assessment, Health Care
+Randomized Controlled Trials as Topic
+Recurrence
+medical education & training
+multiple sclerosis
+world wide web technology
+LA  - eng
+PY  - 2021
+SN  - 2044-6055
+SP  - e046874
+ST  - Evaluation of an interactive web-based programme on relapse management for people with multiple sclerosis (POWER@MS2): study protocol for a process evaluation accompanying a randomised controlled trial
+T2  - BMJ Open
+TI  - Evaluation of an interactive web-based programme on relapse management for people with multiple sclerosis (POWER@MS2): study protocol for a process evaluation accompanying a randomised controlled trial
+VL  - 11
+ID  - 30608
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The control of the dynamic functional leg alignment (dFLA) and biomechanical load are important joint-related aspects regarding the development of osteoarthritis (OA). Research on level walking with feedback on load-related parameters has provided innovative treatment possibilities. With regard to walking on sloped surfaces, fundamental biomechanical knowledge exists. However, comprehensive data on the agreement of kinematics and kinetics of self-paced ramp versus sloped treadmill walking is lacking. Further, deeper insights into the control of the dFLA during decline walking and the usefulness of real-time feedback are missing. METHODS/DESIGN: Thirty healthy participants aged between 18 and 35 years will be included. They will complete a three-dimensional gait analysis walking self-paced up and down on a 5-m ramp with a 10° inclination. Subsequently, speed-matched to ramp-up walking and self-paced 10° incline split-belt treadmill walking will be assessed. Afterwards, the participants will be observed under four different conditions of 10° declined walking on the same treadmill (a) self-paced walking, (b) self-paced walking with an internal focus of attention, (c) self-paced walking with real-time feedback, and (d) condition c speed-matched walking. The primary outcome parameter will be the frontal knee range of motion (fKROM). Secondary outcomes include the ground reaction force loading rate, spatial-temporal parameters, as well as sagittal, frontal and transversal kinematics, and kinetics for the lower extremities. DISCUSSION: The findings aim at improving the understanding of the effects of real-time feedback on the control of the dFLA and lower limb loading. Following clinical practicable methods for effective feedback devices can be developed and evaluated. Additionally, the first dataset comparing kinematic and kinetic parameters for decline and incline ramp walking versus walking on an instrumented treadmill will be available for appropriate intervention planning. TRIAL REGISTRATION: ClinicalTrials.gov NCT04763850 . Prospectively registered on 21 February 2021.
+AN  - rayyan-1270393264
+AU  - Widhalm, K.
+AU  - Durstberger, S.
+AU  - Putz, P.
+C1  - 1745-6215 Widhalm, Klaus Orcid: 0000-0001-7076-4100 Durstberger, Sebastian Putz, Peter Clinical Trial Protocol Journal Article England 2021/07/24 Trials. 2021 Jul 22;22(1):477. doi: 10.1186/s13063-021-05422-2. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-7-22
+DO  - doi:10.1186/s13063-021-05422-2
+IS  - 1
+KW  - Adolescent
+Adult
+Biomechanical Phenomena
+Exercise Test
+Feedback
+*Gait
+Humans
+Kinetics
+Randomized Controlled Trials as Topic
+*Walking
+Young Adult
+Decline walking
+Kinematic
+Kinetic
+Leg alignment
+Real-time feedback
+Treadmill
+LA  - eng
+PY  - 2021
+SN  - 1745-6215
+SP  - 477
+ST  - Effects of real-time feedback during decline walking on kinematic and kinetic gait parameters in a healthy population: study protocol for a randomized trial - up and down
+T2  - Trials
+TI  - Effects of real-time feedback during decline walking on kinematic and kinetic gait parameters in a healthy population: study protocol for a randomized trial - up and down
+VL  - 22
+ID  - 30609
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The treatment of anorexia nervosa (AN) is often challenging due to medical complications as well as high relapse and mortality rates. Studies about effective treatment options for people with AN are particularly scarce in the adolescent population. This paper is a study protocol for a multi-center cohort study assessing the feasibility, acceptability and efficacy of a new, manualized treatment program, the "Maudsley Model of Anorexia Nervosa Treatment for Adolescents and Young Adults" (MANTRa) compared to psychotherapeutic treatment as usual (TAU). METHODS/DESIGN: One hundred patients between 13 and 21 years who meet the inclusion criteria will receive 24 to 34 individual weekly MANTRa therapy sessions or weekly TAU sessions. Primary outcome variables will be BMI and eating disorder psychopathology 12 months after baseline. Further changes in central coherence, cognitive flexibility, emotion recognition, comorbid psychopathology (e.g. depression, obsessive-compulsive and anxiety disorders, non-suicidal self-injury), personality factors and therapeutic alliance will be assessed. DISCUSSION: This multi-center study will examine the utility of the treatment program MANTRa for adolescents with AN and, therefore enhances the current knowledge about potential treatments for this patient group. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03535714 . Registered: 24/05/2018 (retrospectively registered, still recruiting).
+AN  - rayyan-1270393270
+AU  - Wittek, T.
+AU  - Truttmann, S.
+AU  - Zeiler, M.
+AU  - Philipp, J.
+AU  - Auer-Welsbach, E.
+AU  - Koubek, D.
+AU  - Ohmann, S.
+AU  - Werneck-Rohrer, S.
+AU  - Sackl-Pammer, P.
+AU  - Schöfbeck, G.
+AU  - Mairhofer, D.
+AU  - Kahlenberg, L.
+AU  - Schmidt, U.
+AU  - Karwautz, A. F. K.
+AU  - Wagner, G.
+C1  - 2050-2974 Wittek, Tanja Truttmann, Stefanie Zeiler, Michael Philipp, Julia Auer-Welsbach, Ellen Koubek, Doris Ohmann, Susanne Werneck-Rohrer, Sonja Sackl-Pammer, Petra Schöfbeck, Gabriele Mairhofer, Dunja Kahlenberg, Leonie Schmidt, Ulrike Karwautz, Andreas F K Wagner, Gudrun Orcid: 0000-0002-4845-9684 99901006800/Gemeinsame Gesundheitsziele aus dem Rahmen-Pharmavertrag/Pharma Master Agreement (AT)/ Journal Article England 2021/03/10 J Eat Disord. 2021 Mar 8;9(1):33. doi: 10.1186/s40337-021-00387-8. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-3-8
+DO  - doi:10.1186/s40337-021-00387-8
+IS  - 1
+KW  - Adolescents
+Anorexia nervosa
+MANTRa
+Maudsley model
+Psychotherapy
+Study protocol
+Treatment
+Young adults
+LA  - eng
+PY  - 2021
+SN  - 2050-2974 (Print) 2050-2974
+SP  - 33
+ST  - The Maudsley model of anorexia nervosa treatment for adolescents and young adults (MANTRa): a study protocol for a multi-center cohort study
+T2  - J Eat Disord
+TI  - The Maudsley model of anorexia nervosa treatment for adolescents and young adults (MANTRa): a study protocol for a multi-center cohort study
+VL  - 9
+ID  - 30610
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Increasing rates of antibiotic resistance in Gram-negative organisms due to the presence of extended-spectrum beta-lactamases (ESBL), hyperproduction of AmpC enzymes, carbapenemases and other mechanisms of resistance are identified in common hospital- and healthcare-associated pathogens including Enterobacteriaceae, Pseudomonas aeruginosa and Acinetobacter baumannii. Cefiderocol is a novel siderophore cephalosporin antibiotic with a catechol moiety on the 3-position side chain. Cefiderocol has been shown to be potent in vitro against a broad range of Gram-negative organisms, including carbapenem-resistant Enterobacteriaceae (CRE) and multi-drug-resistant (MDR) P. aeruginosa and A. baumannii. Recent clinical data has shown cefiderocol to be effective in the setting of complicated urinary tract infections and nosocomial pneumonia, but it has not yet been studied as treatment of bloodstream infection. METHODS: This study will use a multicentre, open-label non-inferiority trial design comparing cefiderocol and standard of care antibiotics. Eligible participants will be adult inpatients who are diagnosed with a bloodstream infection with a Gram-negative organism on the basis of a positive blood culture result where the acquisition meets the definition for healthcare-associated or hospital-acquired. It will compare cefiderocol with the current standard of care (SOC) antibiotic regimen according to the patient's treating clinician. Eligible participants will be randomised 1:1 to cefiderocol or SOC and receive 5-14 days of antibiotic therapy. Trial recruitment will occur in at least 20 sites in ten countries (Australia, Malaysia, Singapore, Thailand, Turkey and Greece). The sample size has been derived from an estimated 14 day, all-cause mortality rate of 10% in the control group, and a non-inferiority margin of 10% difference in the two groups. A minimum of 284 patients are required in total to achieve 80% power with a two-sided alpha level of 0.05. Data describing demographic information, risk factors, concomitant antibiotics, illness scores, microbiology, multidrug-resistant organism screening, discharge and mortality will be collected. DISCUSSION: With increasing antimicrobial resistance, there is a need for the development of new antibiotics with broad activity against Gram-negative pathogens such as cefiderocol. By selecting a population at risk for multi-drug-resistant pathogens and commencing study treatment early in the clinical illness (within 48 h of index blood culture) the trial hopes to provide guidance to clinicians of the efficacy of this novel agent. TRIAL REGISTRATION: The GAME CHANGER trial is registered under the US National Institute of Health ClinicalTrials.gov register, reference number NCT03869437 . Registered on March 11, 2019.
+AN  - rayyan-1270393274
+AU  - Wright, H.
+AU  - Harris, P. N. A.
+AU  - Chatfield, M. D.
+AU  - Lye, D.
+AU  - Henderson, A.
+AU  - Harris-Brown, T.
+AU  - Donaldson, A.
+AU  - Paterson, D. L.
+C1  - 1745-6215 Wright, Hugh Harris, Patrick N A Chatfield, Mark D Lye, David Henderson, Andrew Harris-Brown, Tiffany Donaldson, Anna Paterson, David L Clinical Trial Protocol Journal Article England 2021/12/09 Trials. 2021 Dec 7;22(1):889. doi: 10.1186/s13063-021-05870-w. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-12-7
+DO  - doi:10.1186/s13063-021-05870-w
+IS  - 1
+KW  - Adult
+Anti-Bacterial Agents/therapeutic use
+Cephalosporins
+Delivery of Health Care
+*Gram-Negative Bacterial Infections/diagnosis/drug therapy
+Hospitals
+Humans
+Microbial Sensitivity Tests
+Multicenter Studies as Topic
+Randomized Controlled Trials as Topic
+*Sepsis/drug therapy
+Standard of Care
+Cefiderocol
+Carbapenem
+Clinical trial
+Extended-spectrum beta-lactamase
+Multi-drug resistance
+LA  - eng
+PY  - 2021
+SN  - 1745-6215
+SP  - 889
+ST  - Investigator-Driven Randomised Controlled Trial of Cefiderocol versus Standard Therapy for Healthcare-Associated and Hospital-Acquired Gram-negative Bloodstream Infection: Study protocol (the GAME CHANGER trial): study protocol for an open-label, randomised controlled trial
+T2  - Trials
+TI  - Investigator-Driven Randomised Controlled Trial of Cefiderocol versus Standard Therapy for Healthcare-Associated and Hospital-Acquired Gram-negative Bloodstream Infection: Study protocol (the GAME CHANGER trial): study protocol for an open-label, randomised controlled trial
+VL  - 22
+ID  - 30611
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Abnormal coagulation function aggravates the prognosis of patients with traumatic brain injury (TBI). It was reported that the antifibrinolytic drug tranexamic acid (TXA) could reduce intracranial haemorrhage and mortality in non-operative patients with TBI. However, there is a lack of evaluation of TXA in patients with TBI undergoing craniotomy. METHODS AND ANALYSIS: This is a single-centre randomised controlled, double-blind, parallel study aiming to investigate the effectiveness and safety of TXA in patients with TBI during the perioperative period. Blood loss and transfusion, neurological function, adverse events, mortality and serum immune-inflammatory cytokines will be collected and analysed. ETHICS AND DISSEMINATION: Ethical approval has been granted by the Medical Ethics Committee of Beijing Tian Tan Hospital, Capital Medical University (reference number KY 2020-136-03). The results of this study will be disseminated through presentations at scientific conferences and publication in peer-reviewed journals. TRIAL REGISTRATION NUMBER: ChiCTR2100041911.
+AN  - rayyan-1270393275
+AU  - Wu, B.
+AU  - Lu, Y.
+AU  - Yu, Y.
+AU  - Yue, H.
+AU  - Wang, J.
+AU  - Chong, Y.
+AU  - Cui, W.
+C1  - 2044-6055 Wu, Bei Lu, Yu Orcid: 0000-0002-7564-1692 Yu, Yun Yue, Hongli Wang, Jie Chong, Yingzi Cui, Weihua Orcid: 0000-0003-0893-3991 Clinical Trial Protocol Journal Article Research Support, Non-U.S. Gov't England 2021/11/27 BMJ Open. 2021 Nov 25;11(11):e049839. doi: 10.1136/bmjopen-2021-049839. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-11-25
+DO  - doi:10.1136/bmjopen-2021-049839
+IS  - 11
+KW  - *Antifibrinolytic Agents/therapeutic use
+*Brain Injuries, Traumatic/drug therapy
+Craniotomy
+Humans
+Prognosis
+Randomized Controlled Trials as Topic
+*Tranexamic Acid/therapeutic use
+anaesthesia in neurology
+bleeding disorders & coagulopathies
+neurological injury
+neurosurgery
+LA  - eng
+PY  - 2021
+SN  - 2044-6055
+SP  - e049839
+ST  - Effect of tranexamic acid on the prognosis of patients with traumatic brain injury undergoing craniotomy: study protocol for a randomised controlled trial
+T2  - BMJ Open
+TI  - Effect of tranexamic acid on the prognosis of patients with traumatic brain injury undergoing craniotomy: study protocol for a randomised controlled trial
+VL  - 11
+ID  - 30612
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Patients with obstructive sleep apnoea (OSA) are more sensitive to postanaesthesia respiratory depression. Whether different anaesthetic regimens (intravenous-based or inhalational-based general anaesthesia) affect the postanaesthesia respiratory depression is controversial. Although desflurane has been reported that presents favourable rapid recovery profile in special patients including whom with OSA, the strong clinical evidence of the benefit on postanaesthesia respiratory depression is far from being revealed. This study aims to fill this knowledge gap by investigating the postanaesthesia respiratory depression in postanaesthesia care unit (PACU) in patients with OSA after major abdominal surgery, followed by desflurane-based anaesthesia compared with propofol-based anaesthesia. METHODS AND ANALYSIS: Eight hundred and fifty-four patients with OSA scheduled for elective major abdominal surgery will be randomly 1:1 assigned to desflurane-based (n=427) or propofol-based anaesthesia (n=427) using a computer-generated randomisation scheme with permuted block size maintained by a centralised randomisation centre. Patients will be assessed before and a consecutive 3 days after their surgery according to the standardised tasks. Demographic data as well as surgical and anaesthesia information will be collected for the duration of the procedure. Incidence of postanaesthesia respiratory depression in PACU as well as anaesthesia recovery, emergence delirium, postoperative nausea and vomiting, rescue analgesia, duration of PACU and hospital stay, and any other adverse events will be assessed at the given study time point. Investigators performing postoperative follow-up are not involved in both anaesthesia implementation and postoperative care. ETHICS AND DISSEMINATION: This study protocol has been approved by the ethics board at Xiang'an Hospital of Xiamen University (XAHLL2019003). The results of this study will be published in a peer-review journal and presented at national conferences as poster or oral presentations. Participants wishing to know the results of this study will be contacted directly on data publication. TRIAL REGISTRATION NUMBER: ChiCTR2000031087.
+AN  - rayyan-1270393276
+AU  - Wu, H.
+AU  - Yang, F.
+AU  - Zhang, R.
+AU  - Xue, H.
+AU  - Yang, Y.
+AU  - Liao, R.
+AU  - Li, M.
+AU  - Wu, X.
+AU  - Chen, D.
+AU  - Chen, G.
+AU  - Gong, Y.
+AU  - Hou, L.
+C1  - 2044-6055 Wu, Huanghui Orcid: 0000-0003-0128-9929 Yang, Fei Zhang, Ran Xue, Haiyan Yang, Yongyong Liao, Ruizhe Li, Min Wu, Xiaozhi Chen, Dongsheng Chen, Guozhong Gong, Yi Hou, Lichao Clinical Trial Protocol Journal Article Research Support, Non-U.S. Gov't England 2021/10/21 BMJ Open. 2021 Oct 19;11(10):e051892. doi: 10.1136/bmjopen-2021-051892. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-10-19
+DO  - doi:10.1136/bmjopen-2021-051892
+IS  - 10
+KW  - Anesthesia, General
+*Anesthetics, Inhalation
+Anesthetics, Intravenous
+Desflurane
+Humans
+*Propofol
+Randomized Controlled Trials as Topic
+*Respiratory Insufficiency/chemically induced
+*Sleep Apnea, Obstructive
+adult anaesthesia
+adverse events
+clinical pharmacology
+clinical trials
+LA  - eng
+PY  - 2021
+SN  - 2044-6055
+SP  - e051892
+ST  - Study protocol for a randomised controlled clinical trial comparing desflurane-based versus propofol-based anaesthesia on postanaesthesia respiratory depression in patients with obstructive sleep apnoea after major abdominal surgery
+T2  - BMJ Open
+TI  - Study protocol for a randomised controlled clinical trial comparing desflurane-based versus propofol-based anaesthesia on postanaesthesia respiratory depression in patients with obstructive sleep apnoea after major abdominal surgery
+VL  - 11
+ID  - 30613
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: High level of perceived stress may result in negative effects both psychologically and physically on individuals and may predispose onset of mental disorders such as depression, anxiety, and posttraumatic stress disorder. However, there is no suitable intervention for it. Repetitive transcranial magnetic stimulation (rTMS) studies have shown its therapeutic efficacy in treatment resistant patients with stress-related disorders. Here we describe an exploratory study protocol to investigate the effect of the intervention for the individuals with high level of stress. METHOD: This is a single blinded, randomized sham-controlled trial, targeting at young healthy adults aging from 18 to 24 years old. Forty eligible volunteers will be recruited and randomly divided into active and sham rTMS group. All subjects will take a set of neuropsychological and biological assessments and MRI scanning before and right after the intervention. During the interventional period, 12-session stimulations will be performed in 4 weeks with three sessions per week. The primary outcome will detect the difference of Chinese 14-item perceived stress scales between active and sham rTMS groups after intervention. Secondary outcomes will examine the differences of other affective measurements, level of cortisol, and MRI-derived neural functional measures between the two groups after intervention. DISCUSSION: This trial aims to examine the effect of the 12-session rTMS intervention on individuals with high level of perceived stress. Positive or negative findings from any of the outcome measures would further our understanding of the efficacy of the stimulation and its neural impact. If effective, it would provide an evidence for a new treatment for high perceived stress. TRIAL REGISTRATION: Chinese Clinical Trial Registry ( ChiCTR1900027662 ). Registered on 23 November 2019. And all items of the WHO Trial Registry Data set can be found within the protocol.
+AN  - rayyan-1270393277
+AU  - Wu, J.
+AU  - Han, M.
+AU  - He, Y.
+AU  - Xie, X.
+AU  - Song, J.
+AU  - Geng, X.
+C1  - 1745-6215 Wu, Jingsong Han, Mengyu He, Youze Xie, Xiaoting Song, Jian Geng, Xiujuan 31701002/Youth Program of National Natural Science Foundation of China/ 81804164/Youth Program of National Natural Science Foundation of China/ Clinical Trial Protocol Journal Article England 2021/05/27 Trials. 2021 May 25;22(1):365. doi: 10.1186/s13063-021-05308-3. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-5-25
+DO  - doi:10.1186/s13063-021-05308-3
+IS  - 1
+KW  - Adolescent
+Adult
+Double-Blind Method
+Humans
+*Outcome Assessment, Health Care
+Prefrontal Cortex
+Randomized Controlled Trials as Topic
+Stress, Psychological/diagnosis/therapy
+*Transcranial Magnetic Stimulation
+Treatment Outcome
+Young Adult
+Magnetic resonance imaging
+Perceived stress
+Repetitive transcranial magnetic stimulation
+Theta burst stimulation
+LA  - eng
+PY  - 2021
+SN  - 1745-6215
+SP  - 365
+ST  - The efficacy of repetitive transcranial magnetic stimulation (rTMS) for young individuals with high-level perceived stress: study protocol for a randomized sham-controlled trial
+T2  - Trials
+TI  - The efficacy of repetitive transcranial magnetic stimulation (rTMS) for young individuals with high-level perceived stress: study protocol for a randomized sham-controlled trial
+VL  - 22
+ID  - 30614
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Subthreshold depression refers to a state of mental sub-health that has depressive symptoms but does not meet the diagnostic criteria for major depressive disorder. It is a strong risk factor for depression and is related to an increase in suicide and mortality. Studies suggest that acupuncture may be effective in the treatment of subthreshold depression, but no evidence has proven that the efficacy of acupuncture for subthreshold depression is a specific therapeutic effect or a placebo effect. METHODS: This will be a prospective, randomized, controlled, and double-blind study of 64 patients with subthreshold depression. They will be randomly assigned as verum or minimal acupuncture group members. Patients in the verum acupuncture group will receive acupuncture at the acupoints, and those in the minimal acupuncture group will receive minimal acupuncture at non-acupoints. The interventions will be delivered over an 8-week period. The primary outcome measure will be the Hamilton Depression Scale-17 (HAMD-17). The secondary outcome measures will be the 9-item Patient Health Questionnaire (PHQ-9), 7-item Generalized Anxiety Disorder (GAD-7), and SF-12v2 Health Survey. The assessments will occur at baseline, 4 weeks, 8 weeks, and during a follow-up period. DISCUSSION: The protocol uses a randomized controlled trial to examine the effectiveness of acupuncture for subthreshold depression and to further study the mechanisms of its effect.
+AN  - rayyan-1270393279
+AU  - Xian, J.
+AU  - Wang, L.
+AU  - Sun, M.
+AU  - Wang, X.
+AU  - Zang, X. M.
+AU  - Yu, H. J.
+AU  - Zhang, X.
+AU  - Cheng, B.
+AU  - Tan, Q. W.
+C1  - 1664-0640 Xian, Jin Wang, Ling Sun, Mi Wang, Xue Zang, Xiao-Ming Yu, Hui-Juan Zhang, Xin Cheng, Bin Tan, Qi-Wen Journal Article Switzerland 2022/02/15 Front Psychiatry. 2022 Jan 27;12:772360. doi: 10.3389/fpsyt.2021.772360. eCollection 2021. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021
+DO  - doi:10.3389/fpsyt.2021.772360
+KW  - acupuncture
+protocol
+randomized controlled trial
+sham acupuncture
+subthreshold depression
+LA  - eng
+PY  - 2021
+SN  - 1664-0640 (Print) 1664-0640
+SP  - 772360
+ST  - Acupuncture for Subthreshold Depression: Study Protocol for a Randomized Controlled Trial
+T2  - Front Psychiatry
+TI  - Acupuncture for Subthreshold Depression: Study Protocol for a Randomized Controlled Trial
+VL  - 12
+ID  - 30615
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: There is anecdotal evidence for beneficial effects of music therapy in patients with Alzheimer's Disease (AD). However, there is a lack of rigorous research investigating this issue. The aim of this study is to evaluate the effects of music therapy and physical activity on brain plasticity, mood, and cognition in a population with AD and at risk for AD. METHODS: One-hundred and thirty-five participants with memory complaints will be recruited for a parallel, three-arm Randomized Controlled Trial (RCT). Inclusion criteria are a diagnosis of mild (early) AD or mild cognitive impairment (MCI), or memory complaints without other neuropsychiatric pathology. Participants are randomised into either a music therapy intervention (singing lessons), an active control group (physical activity) or a passive control group (no intervention) for 12 months. The primary outcomes are the brain age gap, measured via magnetic resonance imaging (MRI), and depressive symptoms. Secondary outcomes include cognitive performance, activities of daily living, brain structure (voxel-based morphometry and diffusion tensor imaging), and brain function (resting-state functional MRI). TRIAL STATUS: Screening of participants began in April 2018. A total of 84 participants have been recruited and started intervention, out of which 48 participants have completed 12 months of intervention and post-intervention assessment. DISCUSSION: Addressing the need for rigorous longitudinal data for the effectiveness of music therapy in people with and at risk for developing AD, this trial aims to enhance knowledge regarding cost-effective interventions with potentially high clinical applicability. TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT03444181, registered on February 23, 2018.
+AD  - Department of Biological and Medical Psychology, University of Bergen, Bergen, Norway.
+Department of Health and Function, Western Norway University of Applied Sciences, Bergen, Norway.
+NORCE Norwegian Research Centre AS, Bergen, Norway.
+Grieg Academy Department of Music, University of Bergen, Bergen, Norway.
+Department of Clinical and Health Psychology, University of Vienna, Vienna, Austria.
+AN  - 35771851
+AU  - Flo, B. K.
+AU  - Matziorinis, A. M.
+AU  - Skouras, S.
+AU  - Sudmann, T. T.
+AU  - Gold, C.
+AU  - Koelsch, S.
+C1  - The authors have declared that no competing interests exist.
+C2  - PMC9246122
+DO  - 10.1371/journal.pone.0270682
+DP  - NLM
+ET  - 20220630
+IS  - 6
+KW  - *Alzheimer Disease/drug therapy
+Cognition
+*Cognitive Dysfunction
+Depression/therapy
+Exercise
+Humans
+*Music Therapy
+Neuronal Plasticity
+Randomized Controlled Trials as Topic
+LA  - eng
+N1  - 1932-6203
+Flo, Birthe K
+Orcid: 0000-0003-4270-7509
+Matziorinis, Anna Maria
+Orcid: 0000-0003-2325-9261
+Skouras, Stavros
+Sudmann, Tobba Therkildsen
+Orcid: 0000-0002-7482-9984
+Gold, Christian
+Koelsch, Stefan
+Clinical Trial Protocol
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2022/07/01
+PLoS One. 2022 Jun 30;17(6):e0270682. doi: 10.1371/journal.pone.0270682. eCollection 2022.
+PY  - 2022
+SN  - 1932-6203
+SP  - e0270682
+ST  - Study protocol for the Alzheimer and music therapy study: An RCT to compare the efficacy of music therapy and physical activity on brain plasticity, depressive symptoms, and cognitive decline, in a population with and at risk for Alzheimer's disease
+T2  - PLoS One
+TI  - Study protocol for the Alzheimer and music therapy study: An RCT to compare the efficacy of music therapy and physical activity on brain plasticity, depressive symptoms, and cognitive decline, in a population with and at risk for Alzheimer's disease
+VL  - 17
+ID  - 51357
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Post-stroke complex regional pain syndrome (CRPS) is a devastating disease that causes severe physical and emotional consequences. Conventional therapies are limited due to the insufficient benefits and side effects, and fire needling therapy is considered an alternative for post-stroke CRPS of the upper limb. METHODS AND ANALYSIS: This is a study protocol for a pilot randomised, two-arm, single-centre, clinical trial at Beijing Hospital of Traditional Chinese Medicine Affiliated to Capital Medical University. The trial started in March 2023 and is expected to end in December 2024. A total of 60 patients (aged 40-75 years, male or female) with post-stroke CRPS of the upper limb will be randomly assigned to treatment group (fire needling therapy, 5 sessions per week for 2 weeks) or control group (manual acupuncture, 5 sessions per week for 2 weeks) in a 1:1 ratio using block randomisation and opaque envelopes. Fire needling therapy or manual acupuncture will be performed in ten acupoints. Participants will complete the trial by visiting the research centre at Week 14 for a follow-up assessment. The primary outcome is the response rate. Secondary outcomes include FMA, Barthel Scale/Index (BI), pain threshold (PPT), and muscle elasticity modulus (using shear wave elastography [SWE]). A chi-squared test will be used for response rate. A mixed-effects linear model and a mixed-effects model will be used for FMA, BI, PPT, and SWE, respectively. DISCUSSION: This is the first standardised protocol to compare the effectiveness of fire needling therapy and manual acupuncture. We will use a rigorous methodology to minimise bias and set up supervising committees to ensure the quality of our study, thus providing trustworthy evidence for better understanding of fire needling therapy in treating post-stroke CRPS of the upper limb.
+AN  - rayyan-1270395495
+AU  - Wang, M.
+AU  - Yuan, F.
+AU  - Xu, X.
+AU  - Zhang, T.
+AU  - Guo, J.
+AU  - Wang, G.
+AU  - Wang, L.
+AU  - Sun, J.
+AU  - Zhang, F.
+AU  - Li, B.
+C1  - 1178-7090 Wang, Mina Orcid: 0000-0002-4029-5806 Yuan, Fang Xu, Xiaobai Zhang, Tao Guo, Jing Wang, Guiling Wang, Linpeng Sun, Jingqing Zhang, Fan Li, Bin Journal Article New Zealand 2023/07/17 J Pain Res. 2023 Jul 11;16:2347-2356. doi: 10.2147/JPR.S416893. eCollection 2023. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2023
+DO  - doi:10.2147/jpr.S416893
+KW  - fire needling therapy
+manual acupuncture
+post-stroke complex regional pain syndrome
+upper limb
+LA  - eng
+PY  - 2023
+SN  - 1178-7090 (Print) 1178-7090
+SP  - 2347-2356
+ST  - Fire Needling Therapy versus Manual Acupuncture in Post-Stroke Complex Regional Pain Syndrome of the Upper Limb: Study Protocol for a Pilot Randomised Controlled Trial
+T2  - J Pain Res
+TI  - Fire Needling Therapy versus Manual Acupuncture in Post-Stroke Complex Regional Pain Syndrome of the Upper Limb: Study Protocol for a Pilot Randomised Controlled Trial
+VL  - 16
+ID  - 30616
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Haemodynamic instability and hypoxaemia are common and serious threats to the survival of neonates. A growing body of literature indicates that critical care ultrasound has become the optimal evaluation tool for sick neonates. However, few studies have described sonographic characteristics of haemodynamics systematically in the neonates with critical illness. This protocol describes a prospective observational cohort study aimed at (1) characterising the sonographic characteristics of the neonates with critical diseases; and (2) assessing the mortality, significant morbidity, utility of vasoactive medications, fluid resuscitation, duration of ventilation, etc. METHODS AND ANALYSIS: This is a single-centre, prospective and observational study conducted in Chengdu Women's and Children's Central Hospital from 1 December 2022 to 31 December 2027. Neonates admitted to the neonatal intensive care unit will be recruited. After inclusion, the neonates will undergo the neonatal critical care ultrasound. The data collected via case report forms include clinical variables and sonographic measures. The primary outcome is to identify the sonographic characteristics of sick neonates with different diseases, and the secondary outcome is to describe the mortality, significant morbidity, utility of vasoactive medications, fluid resuscitation and duration of ventilation. DISCUSSION: Our study provided an organised neonatal critical care ultrasound workflow, which can be applied in practice. Accordingly, this study will first set up large data on the sonographic description of the neonates with critical illness, which can help to understand the pathophysiology of the critical illness, potentially titrating the treatment. TRIAL REGISTRATION NUMBER: Chinese Clinical Trial Registry (ChiCTR2200065581; https://www.chictr.org.cn/com/25/showproj.aspx?proj=184095).
+AN  - rayyan-1270395529
+AU  - Xiao, T.
+AU  - Fu, Y.
+AU  - Li, B.
+AU  - Li, Y.
+AU  - Zhang, J.
+AU  - Li, H.
+AU  - Zhou, X.
+AU  - Zhong, L.
+AU  - Zhu, L.
+AU  - Qin, G.
+AU  - Zou, X.
+AU  - Zhang, X.
+AU  - Zheng, M.
+AU  - Zou, P.
+AU  - Hu, Y.
+AU  - Chen, X.
+AU  - Wang, Y.
+AU  - Wu, N.
+AU  - Gao, S.
+AU  - Hu, X.
+AU  - Luo, X.
+AU  - Ju, R.
+C1  - 2399-9772 Xiao, Tiantian Orcid: 0000-0002-8045-9190 Fu, Yiyong Li, Biao Li, Yan Zhang, Jingyi Li, Huaying Zhou, Xiaofeng Zhong, Linping Zhu, Lin Qin, Gaoyang Zou, Xin Zhang, Xiaolong Zheng, Minsheng Zou, Pinli Hu, Youning Chen, Xia Wang, Yuan Wu, Nana Gao, Shuqiang Hu, Xuhong Luo, Xiaohong Ju, Rong Journal Article England 2023/06/28 BMJ Paediatr Open. 2023 Jun;7(1):e001975. doi: 10.1136/bmjpo-2023-001975. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2023-6
+DO  - doi:10.1136/bmjpo-2023-001975
+IS  - 1
+KW  - Infant, Newborn
+Child
+Humans
+Female
+Prospective Studies
+*Critical Illness/therapy
+Cohort Studies
+*Intensive Care Units, Neonatal
+Critical Care
+Observational Studies as Topic
+Neonatology
+LA  - eng
+PY  - 2023
+SN  - 2399-9772
+ST  - A study protocol for investigating the sonographic characteristics of neonates with critical illness: an observational cohort study
+T2  - BMJ Paediatr Open
+TI  - A study protocol for investigating the sonographic characteristics of neonates with critical illness: an observational cohort study
+VL  - 7
+ID  - 30617
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: Hyperkalaemia is a potentially life-threatening disorder in patients undergoing haemodialysis (HD). Excess mortality and hospitalisation have been associated with hyperkalaemia (HK) after the long (2-day) interdialytic interval (LIDI) in patients on thrice a week HD compared with the short (1-day) interdialytic interval. Moreover, not much research has been conducted in China on the descriptive epidemiology and management of HK among different HD centres. The aim of this study is to address this evidence gap by investigating the risk factors associated with HK clinical burden at the HD facility level, current HD centres management patterns, serum potassium management patterns, as well as the risk factors associated with crude mortality in China. DESIGN: Multicentre, observational, retrospective cohort study. SETTING: This study plans to enrol 300 HD centres across China. Haemodialysis centres having ≥100 patients on maintenance HD within 3 years before study initiation, with participation willingness, routine blood collection post-LIDI and death records will be included. PARTICIPANTS: Patients aged ≥18 years and on chronic HD for ≥3 months will be considered eligible. Summary data about serum potassium, characteristics of patients, facility practice patterns will be collected at HD facility level and death records will be at the patient level. PRIMARY AND SECONDARY OUTCOME MEASURES: The primary outcome will be to examine the association between suspected risk factors and HK prevalence at HD facility level. Suspected risk factors include dialysis prescriptions and serum potassium testing frequency, characteristics of patients and related medication usage. The secondary outcome will be to determine the HK prevalence, serum potassium management pattern and risk factors associated with crude mortality. The primary and secondary outcomes will be analysed using regression models. Exploratory outcomes will further investigate the risk factors associated with serum potassium ≥6.0 and ≥6.5 mmol/L. CONCLUSION: The study is expected to provide insights to improve dialysis practice patterns and understand the clinical burden of HK. ETHICS AND DISSEMINATION: This study protocol was reviewed and approved by the Institutional Review Boards and Ethics Committee of Peking University People's Hospital (Approval number: 2020PHB324-01). The results will be disseminated through national and international presentations and peer-reviewed publications. TRIAL REGISTRATION NUMBER: NCT05020717.
+AN  - rayyan-1270395580
+AU  - Zhao, X.
+AU  - Zuo, L.
+C1  - 2044-6055 Zhao, Xinju Zuo, Li Orcid: 0000-0002-4499-3273 Journal Article Research Support, Non-U.S. Gov't England 2023/09/22 BMJ Open. 2023 Sep 21;13(9):e066394. doi: 10.1136/bmjopen-2022-066394. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2023-9-21
+DO  - doi:10.1136/bmjopen-2022-066394
+IS  - 9
+KW  - Humans
+Adolescent
+Adult
+*Hyperkalemia/epidemiology/etiology/therapy
+Retrospective Studies
+Renal Dialysis
+China/epidemiology
+Ethics Committees, Research
+Potassium
+Observational Studies as Topic
+Multicenter Studies as Topic
+Clinical physiology
+GENERAL MEDICINE (see Internal Medicine)
+Haematology
+Vascular medicine
+LA  - eng
+PY  - 2023
+SN  - 2044-6055
+SP  - e066394
+ST  - Multicentre, observational, retrospective cohort of hyperkalaemia burden at haemodialysis facility-level in China: the Visualize-HD study protocol
+T2  - BMJ Open
+TI  - Multicentre, observational, retrospective cohort of hyperkalaemia burden at haemodialysis facility-level in China: the Visualize-HD study protocol
+VL  - 13
+ID  - 30618
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Neoadjuvant chemoradiotherapy (nCRT) could bring tumour shrinking and downstaging and increase the probability of organ preservation for patients with low rectal cancer. But for ultra-low rectal cancer, there is little possibility for organ preservation. Immunotherapy has been shown to have significant survival benefits in microsatellite instability-high patients but poor response in microsatellite stable (MSS) patients. Studies have demonstrated that radiotherapy and immunotherapy have synergistic effects in cancer treatment. There is no existing evidence about the clinical efficacy of immunotherapy combined with nCRT for patients with MSS ultra-low rectal cancer. METHOD AND ANALYSIS: This trial is an open-labelled multicentre prospective randomised controlled trial (NCT05215379) with two parallel groups and allocation ratio 1:1 (nCRT+immunotherapy vs nCRT group). Eligible participants will be aged 18-75 years, with a desire for anus preservation, confirmed cT(1-3a)N(0-1)M(0) rectal adenocarcinoma, confirmed MSS type, inferior margin of ≤5 cm from the anal verge. The primary endpoint of this trial is complete clinical response (cCR) rate. Immunotherapy is added after 1 week of chemoradiotherapy for two cycles, and then the patients will be administered two cycles of immunotherapy and CAPOX. The evaluations will be carried out after the completion of the whole neoadjuvant therapy. We expect the programme to improve the cCR rate and the quality of life for patients with ultra-low rectal cancer. ETHICS AND DISSEMINATION: This trial was approved by the Ethics committee of Changhai Hospital and other medical centres (Grant number:CHEC2022-118). The results of this study will provide further insight into the clinical efficacy of immunotherapy in combination with nCRT in patients with MSS ultra-low rectal cancer. TRIAL REGISTRATION NUMBER: NCT05215379.
+AN  - rayyan-1270395587
+AU  - Zhou, L.
+AU  - Yu, G.
+AU  - Wen, R.
+AU  - Jia, H.
+AU  - Zhang, T.
+AU  - Peng, Z.
+AU  - Fan, H.
+AU  - Pan, A.
+AU  - Yu, Y.
+AU  - Zhu, X.
+AU  - Gong, H.
+AU  - Gao, X.
+AU  - Lou, Z.
+AU  - Zhang, W.
+C1  - 2044-6055 Zhou, Leqi Yu, Guanyu Wen, Rongbo Jia, Hang Zhang, Tianshuai Orcid: 0000-0002-4596-6832 Peng, Zhiying Fan, Hao Pan, Anfu Yu, Yue Zhu, Xiaoming Gong, Haifeng Gao, Xianhua Lou, Zheng Zhang, Wei Clinical Trial Protocol Journal Article Research Support, Non-U.S. Gov't England 2023/09/15 BMJ Open. 2023 Sep 13;13(9):e069793. doi: 10.1136/bmjopen-2022-069793. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2023-9-13
+DO  - doi:10.1136/bmjopen-2022-069793
+IS  - 9
+KW  - Humans
+*Neoadjuvant Therapy
+Prospective Studies
+Quality of Life
+Immunotherapy
+*Rectal Neoplasms/therapy
+Microsatellite Repeats/genetics
+Randomized Controlled Trials as Topic
+Multicenter Studies as Topic
+Clinical trials
+Gastrointestinal tumours
+LA  - eng
+PY  - 2023
+SN  - 2044-6055
+SP  - e069793
+ST  - Neoadjuvant chemoradiation therapy combined with immunotherapy for microsatellite stable ultra-low rectal cancer (CHOICE II): study protocol of a multicentre prospective randomised clinical trial
+T2  - BMJ Open
+TI  - Neoadjuvant chemoradiation therapy combined with immunotherapy for microsatellite stable ultra-low rectal cancer (CHOICE II): study protocol of a multicentre prospective randomised clinical trial
+VL  - 13
+ID  - 30619
+ER  - 
+

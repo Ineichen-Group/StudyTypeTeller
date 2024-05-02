@@ -1,0 +1,2893 @@
+﻿TY  - JOUR
+AB  - Cranial electrotherapy stimulation (CES) is reported to be an effective treatment for anxiety, a major presenting symptom among chemically dependent patients. In this study, 40 inpatient alcohol and/or polydrug users were given CES or sham CES in a double blind design. An additional 20 patients served as normal hospital routine controls. Dependent measures of anxiety were the Profile of Mood States, the Institute for Personality and Ability Testing Anxiety Scale, and the State/Trait Anxiety Index. CES-treated patients showed significantly greater improvement on all anxiety measures than did either control group. There were no differences in response between older and younger patients, or between the primarily drug or alcohol abusers. No placebo effect was found on any of our measures. It is concluded tht CES is a clinically significant addition to the treatment regimen for this patient population.
+AN  - 3521373
+AU  - Schmitt, R.
+AU  - Capo, T.
+AU  - Boyd, E.
+DA  - Mar-Apr
+DO  - 10.1111/j.1530-0277.1986.tb05064.x
+DP  - NLM
+IS  - 2
+KW  - Adult
+Alcoholism/complications
+Anxiety/etiology/psychology/*therapy
+Clinical Trials as Topic
+Double-Blind Method
+*Electric Stimulation Therapy
+Emotions
+Female
+Humans
+Male
+Psychological Tests
+Substance-Related Disorders/*complications
+LA  - eng
+N1  - Schmitt, R
+Capo, T
+Boyd, E
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+England
+1986/03/01
+Alcohol Clin Exp Res. 1986 Mar-Apr;10(2):158-60. doi: 10.1111/j.1530-0277.1986.tb05064.x.
+PY  - 1986
+SN  - 0145-6008 (Print)
+0145-6008
+SP  - 158-60
+ST  - Cranial electrotherapy stimulation as a treatment for anxiety in chemically dependent persons
+T2  - Alcohol Clin Exp Res
+TI  - Cranial electrotherapy stimulation as a treatment for anxiety in chemically dependent persons
+VL  - 10
+ID  - 51299
+ER  - 
+
+TY  - JOUR
+AB  - Stimulation of centromedian (CM) thalamic nuclei has been proposed as a treatment for seizures. We implanted programmable subcutaneous (s.c.) stimulators into CM bilaterally in 7 patients with intractable epilepsy to test feasibility and safety. Stimulation was on or off in 3-month blocks, with a 3-month washout period in a double-blind, cross-over protocol. Stimuli were delivered as 90-microseconds pulses at 65 pulses/s, 1 min of each 5 min for 2 h/day, with voltage set to half the sensory threshold. Stimulation was safe and well-tolerated, with a mean reduction of tonic-clonic seizure frequency of 30% with respect to baseline when stimulator was on versus a decrease of 8% when the stimulator was off. There was no improvement in total number of generalized seizures with stimulation, and treatment differences were not statistically significant. Stimulation at low intensity did not alter the EEG acutely, but high-intensity stimulation induced slow waves or 2-3 Hz spike-waves with ipsilateral frontal maximum. In an open-label follow-up segment with stimulator trains continuing for 24 h/day, 3 of 6 patients reported at least a 50% decrease in seizure frequency. There were no side effects. This pilot project demonstrated the feasibility of controlled study of thalamic stimulation in epilepsy, but further study will be needed to demonstrate efficacy.
+AD  - Department of Neurology, Johns Hopkins University, Minneapolis, Minnesota.
+AN  - 1396427
+AU  - Fisher, R. S.
+AU  - Uematsu, S.
+AU  - Krauss, G. L.
+AU  - Cysyk, B. J.
+AU  - McPherson, R.
+AU  - Lesser, R. P.
+AU  - Gordon, B.
+AU  - Schwerdt, P.
+AU  - Rise, M.
+DA  - Sep-Oct
+DO  - 10.1111/j.1528-1157.1992.tb02192.x
+DP  - NLM
+IS  - 5
+KW  - Adolescent
+Adult
+Double-Blind Method
+Electric Stimulation Therapy/*instrumentation/methods
+*Electrodes, Implanted
+Electroencephalography
+Epilepsy/physiopathology/*therapy
+Feasibility Studies
+Female
+Humans
+Male
+Pilot Projects
+Placebos
+Sensory Thresholds
+Thalamic Nuclei/*physiology
+LA  - eng
+N1  - Fisher, R S
+Uematsu, S
+Krauss, G L
+Cysyk, B J
+McPherson, R
+Lesser, R P
+Gordon, B
+Schwerdt, P
+Rise, M
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+1992/09/01
+Epilepsia. 1992 Sep-Oct;33(5):841-51. doi: 10.1111/j.1528-1157.1992.tb02192.x.
+PY  - 1992
+SN  - 0013-9580 (Print)
+0013-9580
+SP  - 841-51
+ST  - Placebo-controlled pilot study of centromedian thalamic stimulation in treatment of intractable seizures
+T2  - Epilepsia
+TI  - Placebo-controlled pilot study of centromedian thalamic stimulation in treatment of intractable seizures
+VL  - 33
+ID  - 51300
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Bright light therapy in seasonal affective disorder (SAD) has been studied extensively. However, little attention has been given to subsyndromal seasonal affective disorder (SSAD) or the use of bright light in the workplace. Many patients using bright light boxes complain of the inconvenience of use. Much of this inconvenience involves the often-recommended early timing of the bright light therapy. Patients, who already have difficulty awakening, often have difficulty using the bright light therapy soon after awakening before going to work. If bright light could be used effectively in the workplace, the treatment would be more convenient; the improved convenience would probably improve compliance. In this study, we studied the effectiveness of bright light therapy in subjects with SSAD in the workplace, comparing morning bright light with afternoon bright light. METHOD: Morning and afternoon bright light treatment (2500 lux) were compared in 30 subsyndromal seasonal affective disorder patients using the bright light therapy in the workplace. Hamilton Depression Ratings and subjective measures of mood, energy, alertness and productivity were assessed before and after 2 weeks of light therapy. RESULTS: Both morning and evening bright light significantly decreased the depression ratings and improved the subjective mood, energy, alertness and productivity scores. However, there were no significant differences between the two times of administration of the bright light treatment. Both bright light treatments were well tolerated. CONCLUSION: Bright light given in the workplace improves subjective ratings of mood, energy, alertness and productivity in SSAD subjects. Morning and afternoon bright lights resulted in similar levels of improvement.
+AD  - Department of Psychiatry and Behavioral Sciences, University of Washington School of Medicine, Harborview Medical Center, Seattle, WA 98104, USA.
+AN  - 11328240
+AU  - Avery, D. H.
+AU  - Kizer, D.
+AU  - Bolte, M. A.
+AU  - Hellekson, C.
+DA  - Apr
+DO  - 10.1034/j.1600-0447.2001.00078.x
+DP  - NLM
+IS  - 4
+KW  - Adult
+Circadian Rhythm/*physiology
+Efficiency, Organizational
+Female
+Humans
+Male
+*Phototherapy
+Random Allocation
+Seasonal Affective Disorder/diagnosis/*therapy
+Severity of Illness Index
+Treatment Outcome
+*Workplace
+LA  - eng
+N1  - Avery, D H
+Kizer, D
+Bolte, M A
+Hellekson, C
+Clinical Trial
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2001/05/01
+Acta Psychiatr Scand. 2001 Apr;103(4):267-74. doi: 10.1034/j.1600-0447.2001.00078.x.
+PY  - 2001
+SN  - 0001-690X (Print)
+0001-690x
+SP  - 267-74
+ST  - Bright light therapy of subsyndromal seasonal affective disorder in the workplace: morning vs. afternoon exposure
+T2  - Acta Psychiatr Scand
+TI  - Bright light therapy of subsyndromal seasonal affective disorder in the workplace: morning vs. afternoon exposure
+VL  - 103
+ID  - 51298
+ER  - 
+
+TY  - JOUR
+AB  - Animal-assisted therapy (AAT) has been used as a therapeutic tool in various psychiatric populations, but there have been no published studies with elderly schizophrenic patients. The authors evaluated, in a blinded, controlled manner, the effects of AAT in a closed psychogeriatric ward over 12 months. Subjects were 10 elderly schizophrenic patients and 10 matched patients (mean age: 79.1+/-6.7 years). The outcome measure was the Scale for Social Adaptive Functioning Evaluation (SAFE). AAT was conducted in weekly 4-hour sessions. Treatment encouraged mobility, interpersonal contact, and communication and reinforced activities of daily living (ADLs), including personal hygiene and independent self-care, through the use of cats and dogs as "modeling companions." The SAFE scores at termination showed significant improvement compared with baseline scores and were significantly more positive for the AAT group on both Total SAFE score and on the Social Functions subscale. AAT proved a successful tool for enhancing socialization, ADLs, and general well-being.
+AD  - Psychogeriatric Dept., Abarbanel Mental Health Center, Bat Yam, 59100 Israel. mdybarak@netvision.net.il
+AN  - 11739071
+AU  - Barak, Y.
+AU  - Savorai, O.
+AU  - Mavashev, S.
+AU  - Beni, A.
+DA  - Fall
+DP  - NLM
+IS  - 4
+KW  - Activities of Daily Living
+Aged
+Double-Blind Method
+Female
+*Human-Animal Bond
+Humans
+Interpersonal Relations
+Male
+Reinforcement, Psychology
+Schizophrenia/*therapy
+LA  - eng
+N1  - Barak, Y
+Savorai, O
+Mavashev, S
+Beni, A
+Clinical Trial
+Journal Article
+England
+2001/12/12
+Am J Geriatr Psychiatry. 2001 Fall;9(4):439-42.
+PY  - 2001
+SN  - 1064-7481 (Print)
+1064-7481
+SP  - 439-42
+ST  - Animal-assisted therapy for elderly schizophrenic patients: a one-year controlled trial
+T2  - Am J Geriatr Psychiatry
+TI  - Animal-assisted therapy for elderly schizophrenic patients: a one-year controlled trial
+VL  - 9
+ID  - 51288
+ER  - 
+
+TY  - JOUR
+AB  - STUDY OBJECTIVES: This study evaluates the effects of bright light therapy among demented nursing home patients with sleep disturbances. DESIGN AND SETTING: 11 nursing home patients with actigraphically measured sleep efficiency below 85% took part in an open, non-randomised study where the subjects served as their own control. INTERVENTION: After two weeks of baseline measurements and two weeks of pretreatment measurements, patients received bright light exposure 2 h/day within the period 08:00-11:00 for two weeks. MEASUREMENTS AND RESULTS: Sleep-wake patterns during the 24-h day were evaluated by nursing staff ratings and wrist-worn motor activity devices (actigraphs). Sleep improved substantially with bright light exposure. Waking time within nocturnal sleep was reduced by nearly two h, and sleep efficiency improved from 73% to 86%. Corresponding improvements were found in nursing staff ratings. Effects were consistent across subjects. CONCLUSIONS: The findings add further evidence of the effectiveness of morning bright light exposure in the treatment of disturbed sleep among demented nursing home patients.
+AD  - Department of Public Health and Primary Health Care, Section for General Practice, University of Bergen, Norway.
+AN  - 12789673
+AU  - Fetveit, A.
+AU  - Skjerve, A.
+AU  - Bjorvatn, B.
+DA  - Jun
+DO  - 10.1002/gps.852
+DP  - NLM
+IS  - 6
+KW  - Aged
+Aged, 80 and over
+Dementia/*complications/physiopathology
+Female
+Humans
+Institutionalization
+Male
+Nursing Staff
+Phototherapy/*methods
+Sleep/*physiology
+Sleep Wake Disorders/etiology/physiopathology/*therapy
+Surveys and Questionnaires
+LA  - eng
+N1  - Fetveit, Arne
+Skjerve, Arvid
+Bjorvatn, Bjørn
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2003/06/06
+Int J Geriatr Psychiatry. 2003 Jun;18(6):520-6. doi: 10.1002/gps.852.
+PY  - 2003
+SN  - 0885-6230 (Print)
+0885-6230
+SP  - 520-6
+ST  - Bright light treatment improves sleep in institutionalised elderly--an open trial
+T2  - Int J Geriatr Psychiatry
+TI  - Bright light treatment improves sleep in institutionalised elderly--an open trial
+VL  - 18
+ID  - 51302
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: This study examined the extent to which adherence to occupational therapy recommendations would increase the quality of life of persons with Alzheimer's disease living in the community and decrease the burden felt by family members caring for them. METHOD: Using a pretest-posttest control group design, the Assessment of Instrumental Function (AIF) was administered to two groups of persons with Alzheimer's disease in their own homes (n= 40). Caregivers completed measures of their feelings of burden and the quality of life, including level of function of the persons with Alzheimer's disease. RESULTS: A significant (MANCOVA) main effect was obtained for caregiver burden and three components of quality of life, positive affect, activity frequency and self-care status, by the treatment group, F(4, 31) = 7.34, p < .001. CONCLUSIONS: Individualized occupational therapy intervention based on the person-environment fit model appears effective for both caregivers and clients. This is especially important in light of a recent directive for more favorable reimbursement for occupational therapy services for persons with dementia.
+AD  - New England Institute of Technology, Warwick, Rhode Island 02886, USA. ndooley@neit.edu
+AN  - 15481783
+AU  - Dooley, N. R.
+AU  - Hinojosa, J.
+DA  - Sep-Oct
+DO  - 10.5014/ajot.58.5.561
+DP  - NLM
+IS  - 5
+KW  - Activities of Daily Living
+Alzheimer Disease/*rehabilitation/therapy
+*Caregivers
+Family
+Guideline Adherence/standards
+Humans
+Occupational Therapy
+*Quality of Life/psychology
+Surveys and Questionnaires
+LA  - eng
+N1  - Dooley, Nancy Robert
+Hinojosa, Jim
+Clinical Trial
+Comparative Study
+Journal Article
+United States
+2004/10/16
+Am J Occup Ther. 2004 Sep-Oct;58(5):561-9. doi: 10.5014/ajot.58.5.561.
+PY  - 2004
+SN  - 0272-9490 (Print)
+0272-9490
+SP  - 561-9
+ST  - Improving quality of life for persons with Alzheimer's disease and their family caregivers: brief occupational therapy intervention
+T2  - Am J Occup Ther
+TI  - Improving quality of life for persons with Alzheimer's disease and their family caregivers: brief occupational therapy intervention
+VL  - 58
+ID  - 51296
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT: Female sexual pain and dysfunction. OBJECTIVE: To evaluate the effectiveness of a new site-specific, manual soft-tissue therapy in increasing orgasm and reducing dyspareunia (painful intercourse) in women with histories indicating abdominopelvic adhesion formation. DESIGN AND INTERVENTION: A total of 29 new patients presenting with infertility or abdominopelvic pain-related problems, and also indicating sexual pain or dysfunction, received a series of treatments (mean, 19.5 hours) designed to address biomechanical dysfunction and restricted mobility due to adhesions affecting the reproductive organs and adjacent structures. OUTCOME MEASURES: Primary outcome measures were post-test vs pretest scores on: (1) the Female Sexual Function Index (FSFI) full scale, orgasm domain, and pain domain; and (2) 3 supplemental 10-point rating scales of sexual pain levels. Secondary outcome measures were post-test vs pretest scores in the other 4 FSFI domains (desire, arousal, lubrication, and satisfaction). The Wilcoxon signed-rank test was used for all statistical analyses. RESULTS: For the 23 patients available for follow-up, the paired FSFI post-test vs pretest scores were significant (P < or = .003) on all measures. Of the 17 patients who completed the 3 sexual pain scales, the paired post-test vs pretest scores were significant (P < or = .002). CONCLUSIONS: Many cases of inhibited orgasm, dyspareunia, and other aspects of sexual dysfunction seem to be treatable by a distinctive, noninvasive manual therapy with no risks and few, if any, adverse effects. The therapy should be considered a new adjunct to existing gynecologic and medical treatments.
+AD  - Clear Passage Therapies, Gainesville, Florida 32606, USA. cptherapy@aol.com
+AN  - 15775874
+AU  - Wurn, L. J.
+AU  - Wurn, B. F.
+AU  - King, C. R.
+AU  - Roscow, A. S.
+AU  - Scharf, E. S.
+AU  - Shuster, J. J.
+C2  - PMC1480593
+DA  - Dec 14
+DP  - NLM
+ET  - 20041214
+IS  - 4
+KW  - Adult
+Dyspareunia/*therapy
+Female
+Humans
+*Orgasm
+*Physical Therapy Modalities
+Sexual Dysfunctions, Psychological/*physiopathology/*therapy
+Treatment Outcome
+LA  - eng
+N1  - 1531-0132
+Wurn, Lawrence J
+Wurn, Belinda F
+King, C Richard
+Roscow, Amanda S
+Scharf, Eugenia S
+Shuster, Jonathan J
+Clinical Trial
+Journal Article
+United States
+2005/03/19
+MedGenMed. 2004 Dec 14;6(4):47.
+PY  - 2004
+SN  - 1531-0132
+SP  - 47
+ST  - Increasing orgasm and decreasing dyspareunia by a manual physical therapy technique
+T2  - MedGenMed
+TI  - Increasing orgasm and decreasing dyspareunia by a manual physical therapy technique
+VL  - 6
+ID  - 51289
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To describe an adapted version of dialectical behavior therapy for adolescents with bipolar disorder. METHOD: The dialectical behavior therapy intervention is delivered over 1 year and consists of two modalities: family skills training (conducted with individual family units) and individual therapy. The acute treatment period (6 months) includes 24 weekly sessions; sessions alternate between the two treatment modalities. Continuation treatment consists of 12 additional sessions tapering in frequency through 1 year. We conducted an open pilot trial of the treatment, designed as an adjunct to pharmacological management, to establish feasibility and acceptability of the treatment for this population. Participants included 10 patients (mean age 15.8 +/- 1.5 years, range 14-18) receiving treatment in an outpatient pediatric bipolar specialty clinic. Symptom severity and functioning were assessed quarterly by an independent evaluator. Consumer satisfaction was also assessed posttreatment. RESULTS: Feasibility and acceptability of the intervention were high, with 9 of 10 patients completing treatment, 90% of scheduled sessions attended, and high treatment satisfaction ratings. Patients exhibited significant improvement from pre- to posttreatment in suicidality, nonsuicidal self-injurious behavior, emotional dysregulation, and depressive symptoms. CONCLUSIONS: Dialectical behavior therapy may offer promise as an approach to the psychosocial treatment of adolescent bipolar disorder.
+AD  - Western Psychiatric Institute and Clinic, University of Pittsburgh Medical Center, Pittsburgh, PA 15213, USA. goldsteintr@upmc.edu
+AN  - 17581446
+AU  - Goldstein, T. R.
+AU  - Axelson, D. A.
+AU  - Birmaher, B.
+AU  - Brent, D. A.
+C2  - PMC2823290
+C6  - NIHMS175483
+DA  - Jul
+DO  - 10.1097/chi.0b013e31805c1613
+DP  - NLM
+IS  - 7
+KW  - Adolescent
+Behavior Therapy/*methods
+Bipolar Disorder/*psychology/*therapy
+Child
+Clinical Protocols
+Family Therapy/methods
+Female
+Humans
+Male
+Manuals as Topic
+Research Design
+Treatment Outcome
+LA  - eng
+N1  - 1527-5418
+Goldstein, Tina R
+Axelson, David A
+Birmaher, Boris
+Brent, David A
+MH18951/MH/NIMH NIH HHS/United States
+MH66371/MH/NIMH NIH HHS/United States
+K23 MH074581-01A2/MH/NIMH NIH HHS/United States
+P30 MH066371/MH/NIMH NIH HHS/United States
+T32 MH018951/MH/NIMH NIH HHS/United States
+K23 MH074581/MH/NIMH NIH HHS/United States
+Clinical Trial
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2007/06/22
+J Am Acad Child Adolesc Psychiatry. 2007 Jul;46(7):820-30. doi: 10.1097/chi.0b013e31805c1613.
+PY  - 2007
+SN  - 0890-8567 (Print)
+0890-8567
+SP  - 820-30
+ST  - Dialectical behavior therapy for adolescents with bipolar disorder: a 1-year open trial
+T2  - J Am Acad Child Adolesc Psychiatry
+TI  - Dialectical behavior therapy for adolescents with bipolar disorder: a 1-year open trial
+VL  - 46
+ID  - 51284
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To determine whether high-intensity ambient light in public areas of long-term care facilities will improve sleeping patterns and circadian rhythms of persons with dementia. DESIGN: A cluster-unit crossover intervention trial involving four conditions: morning bright light, evening bright light, all-day bright light, and minimum standard light. SETTING: The common areas of two geriatric units in a psychiatric hospital and a dementia-specific residential care facility. PARTICIPANTS: Sixty-six older adults with dementia. INTERVENTION: Ambient bright light of approximately 2,500 lux, delivered through a low-glare lighting system installed in the dining and activity areas. Participant exposure averaged 2.5 to 3.0 hours for the morning and evening interventions and 8.4 hours for the all-day intervention. MEASUREMENTS: Nighttime sleep using wrist actigraphy and daytime activity using nonobtrusive daytime observations. RESULTS: Night-time sleep increased significantly in participants exposed to morning and all-day light, with the increase most prominent in participants with severe or very severe dementia (mean increase 16 minutes (P=.008) for morning, and 14 minutes (P=.01) for all-day). Morning light produced a mean phase advance of 29 minutes (P=.02) and evening light a mean phase delay of 15 minutes (P=.06). Effects on daytime sleepiness were inconsistent, and the number of sleep bouts, mesor, amplitude, intradaily variability, and interdaily stability were not significantly different, indicating that the overall strength of day and night activity rhythms did not change significantly under any treatment condition. CONCLUSION: Bright light appears to have a modest but measurable effect on sleep in this population, and ambient light may be preferable to stationary devices such as light boxes.
+AD  - Department of Family Medicine, School of Medicine; Cecil G.Sheps Center for Health Services Research, University of North Carolina, Chapel Hill, NC, USA. psloane@med.unc.edu
+AN  - 17714459
+AU  - Sloane, P. D.
+AU  - Williams, C. S.
+AU  - Mitchell, C. M.
+AU  - Preisser, J. S.
+AU  - Wood, W.
+AU  - Barrick, A. L.
+AU  - Hickman, S. E.
+AU  - Gill, K. S.
+AU  - Connell, B. R.
+AU  - Edinger, J.
+AU  - Zimmerman, S.
+DA  - Oct
+DO  - 10.1111/j.1532-5415.2007.01358.x
+DP  - NLM
+ET  - 20070821
+IS  - 10
+KW  - Activities of Daily Living
+Aged
+Aged, 80 and over
+*Circadian Rhythm
+Cross-Over Studies
+Dementia/*therapy
+Female
+Humans
+Lighting/classification
+Linear Models
+Long-Term Care
+Male
+Middle Aged
+*Motor Activity
+Nursing Homes
+*Sleep
+LA  - eng
+N1  - Sloane, Philip D
+Williams, Christianna S
+Mitchell, C Madeline
+Preisser, John S
+Wood, Wendy
+Barrick, Ann Louise
+Hickman, Susan E
+Gill, Karminder S
+Connell, Bettye Rose
+Edinger, Jack
+Zimmerman, Sheryl
+K02AG00970/AG/NIA NIH HHS/United States
+R01AT00202/AT/NCCIH NIH HHS/United States
+R01AT00212/AT/NCCIH NIH HHS/United States
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, N.I.H., Extramural
+United States
+2007/08/24
+J Am Geriatr Soc. 2007 Oct;55(10):1524-33. doi: 10.1111/j.1532-5415.2007.01358.x. Epub 2007 Aug 21.
+PY  - 2007
+SN  - 0002-8614 (Print)
+0002-8614
+SP  - 1524-33
+ST  - High-intensity environmental light in dementia: effect on sleep and activity
+T2  - J Am Geriatr Soc
+TI  - High-intensity environmental light in dementia: effect on sleep and activity
+VL  - 55
+ID  - 51291
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Preoperative embolization in accordance with multimodal therapies for cerebral arteriovenous malformations (AVMs) is generally the first step in treatment and may result in complete obliteration. The Onyx liquid embolic system (Micro Therapeutics, Inc., Irvine, CA) may offer advantages for intranidal targeted embolization and microsurgical resection. We present our experience in the combined treatment of intracranial AVMs using Onyx embolization and neurosurgical resection. METHODS: We treated a total of 47 patients for compact intracranial AVMs that were located in the frontal or frontoparietal area (16 patients); temporal, temporoparietal, or temporo-occipital regions (12 patients); parietal or parieto-occipital areas (8 patients); occipital regions (8 patients); had basal ganglia involvement (2 patients); and was cerebellar (1 patient). The Spetzler-Martin grading scale values were as follows: 25 patients were Grades I or II, 10 patients were Grade III, and 12 patients were Grades IV or V. Twenty-three AVMs were located in eloquent brain regions. RESULTS: After we performed final embolizations, the mean nidus reduction was 84%. Seven patients had new, nondisabling neurological deficits, and four patients had new, disabling neurological deficits after embolization. Periprocedurally, five vessel perforations and four stuck microcatheters were encountered without clinical deficits. In two patients, delayed hemorrhage after embolization occurred with good clinical outcome. We completely resected 46 AVMs; in one patient, we detected an AVM on postoperative angiography. The mean operative time was 4.7 hours, and the mean blood loss was 455 mL. Clinical status worsened postoperatively in 14 patients. Angiographic and clinical follow-up examinations were available for 42 patients (89%); the average follow-up period was 13 months. We found no relapse of arteriovenous shunt. Fourteen patients improved clinically after discharge. Of the 42 patients followed up, 23 individuals had no neurological deficit, 16 had a nondisabling deficit, and three had a disabling deficit. CONCLUSION: Preoperative use of the Onyx liquid embolic system in cerebral AVM treatment allows profound occlusion by targeted embolization and provides a basis for safe neurosurgical resection.
+AD  - Department of Radiology and Neuroradiology, Alfried Krupp Hospital, Essen, Germany.
+AN  - 17762736
+AU  - Weber, W.
+AU  - Kis, B.
+AU  - Siekmann, R.
+AU  - Jans, P.
+AU  - Laumer, R.
+AU  - Kühne, D.
+DA  - Aug
+DO  - 10.1227/01.Neu.0000255473.60505.84
+DP  - NLM
+IS  - 2
+KW  - Adolescent
+Adult
+Cerebral Angiography
+Child
+Combined Modality Therapy
+*Dimethyl Sulfoxide
+Embolization, Therapeutic/*methods
+Female
+Follow-Up Studies
+Humans
+Intracranial Arteriovenous Malformations/*surgery/*therapy
+Male
+Middle Aged
+*Neurosurgical Procedures
+*Polyvinyls
+Postoperative Complications/diagnostic imaging
+Preoperative Care
+Treatment Outcome
+LA  - eng
+N1  - 1524-4040
+Weber, Werner
+Kis, Bernhard
+Siekmann, Ralf
+Jans, Paul
+Laumer, Rudolf
+Kühne, Dietmar
+Clinical Trial
+Journal Article
+United States
+2007/09/01
+Neurosurgery. 2007 Aug;61(2):244-52; discussion 252-4. doi: 10.1227/01.NEU.0000255473.60505.84.
+PY  - 2007
+SN  - 0148-396x
+SP  - 244-52; discussion 252-4
+ST  - Preoperative embolization of intracranial arteriovenous malformations with Onyx
+T2  - Neurosurgery
+TI  - Preoperative embolization of intracranial arteriovenous malformations with Onyx
+VL  - 61
+ID  - 51294
+ER  - 
+
+TY  - JOUR
+AB  - The relations between cognition and autism severity, head size and intervention outcome, were examined. Change in cognitive level with intervention was measured in children with autism and compared to children with developmental disabilities (DD). Eighty-one children (mean age 25.9 months) with autism (n=44) and DD (n=37) were assessed at pre- and post 1 year of intervention. Cognitive abilities and autism severity were measured by standardized tests. Three pre-intervention cognitive level groups: normal (IQ>90), borderline (70<IQ<89) and impaired (50<IQ<69) were examined. The impaired group had more severe autism symptoms than the borderline and the normal cognitive groups. However, following intervention the groups did not differ in the change in core autism symptoms. IQ scores increased significantly more in the autism group than in the DD group. IQ improvements correlated significantly with reduction in autism symptoms and mostly in stereotyped behaviors. CONCLUSIONS: Cognitive ability in autism is associated with autism severity. Two distinct subtypes based on cognitive level are identified. However, baseline cognitive level cannot predict the progress rate in autism symptoms with intervention. Improvement of social-communicative behaviors and the intensive intervention are related to significant cognitive increments in autism.
+AD  - Communication Disorders department, Ariel, University Center of Samaria, Autism Center, Asaf Harofeh Medical Center, Israel. benitze@mail.biu.ac.il
+AN  - 17923388
+AU  - Ben Itzchak, E.
+AU  - Lahat, E.
+AU  - Burgin, R.
+AU  - Zachor, A. D.
+DA  - Sep-Oct
+DO  - 10.1016/j.ridd.2007.08.003
+DP  - NLM
+ET  - 20071017
+IS  - 5
+KW  - Autistic Disorder/diagnosis/psychology/*rehabilitation
+*Behavior Therapy
+Cephalometry
+Cerebral Palsy/psychology/*rehabilitation
+Child, Preschool
+Combined Modality Therapy
+Communication
+Comorbidity
+Developmental Disabilities/psychology/*rehabilitation
+*Early Intervention, Educational
+Female
+Follow-Up Studies
+Humans
+Infant
+Intellectual Disability/psychology/*rehabilitation
+Intelligence
+Male
+Neuropsychological Tests
+Play and Playthings
+Social Behavior
+Stereotyped Behavior
+Treatment Outcome
+LA  - eng
+N1  - 1873-3379
+Ben Itzchak, Esther
+Lahat, Eliezer
+Burgin, Ruth
+Zachor, A Ditza
+Comparative Study
+Controlled Clinical Trial
+Journal Article
+United States
+2007/10/10
+Res Dev Disabil. 2008 Sep-Oct;29(5):447-58. doi: 10.1016/j.ridd.2007.08.003. Epub 2007 Oct 17.
+PY  - 2008
+SN  - 0891-4222
+SP  - 447-58
+ST  - Cognitive, behavior and intervention outcome in young children with autism
+T2  - Res Dev Disabil
+TI  - Cognitive, behavior and intervention outcome in young children with autism
+VL  - 29
+ID  - 51276
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: To analyse the effects of two interventions on the cognition and balance of institutionalized elderly people with mixed dementia. METHODS: Fifty-four participants were allocated into three groups. Group 1 was assisted by an interdisciplinary programme comprising physiotherapy, occupational therapy and physical education. A physiotherapist alone carried out the intervention in group 2. Group 3 was considered as control. Assessors were blinded to guarantee the absence of bias. Cognitive functions were analysed with the Mini-Mental State Examination and the Brief Cognitive Screening Battery. Balance was assessed with the Berg Balance Scale and the Timed Get-Up-and-Go Test. Multiple analysis of variance (MANOVA) was used to test possible main effects of the interventions. RESULTS: The results showed benefits on the balance of subjects in both groups 1 (F=3.9, P<0.05) and 2 (F=3.1, P<0.05), compared with group 3. MANOVA did not indicate benefits on the cognitive functions between groups 1 and 3 (F=1.1, P>0.05) and groups 2 and 3 (F=1.6, P>0.05). However, univariate analysis indicated some benefits of the interdisciplinary intervention on two specific domains measured by the Brief Cognitive Screening Battery (F=26.5, P<0.05; F=4.4, P<0.05). CONCLUSION: Six months of multidisciplinary or physiotherapeutic intervention were able to improve a person's balance. Although global cognition did not improve through treatment, when the intervention was carried out on a multidisciplinary basis we observed an attenuation in the decline of global cognition on two specific cognitive domains. Exercises applied in different contexts may have positive outcomes for people with dementia.
+AD  - State University of Goiás, Department of Physical Therapy, Brasil. gustavo_physio@yahoo.com.br
+AN  - 18586813
+AU  - Christofoletti, G.
+AU  - Oliani, M. M.
+AU  - Gobbi, S.
+AU  - Stella, F.
+AU  - Bucken Gobbi, L. T.
+AU  - Renato Canineu, P.
+DA  - Jul
+DO  - 10.1177/0269215507086239
+DP  - NLM
+IS  - 7
+KW  - Aged
+Cognition/*physiology
+Dementia/physiopathology/*psychology/*rehabilitation
+Female
+Humans
+*Institutionalization
+Longitudinal Studies
+Male
+Motor Activity/physiology
+*Physical Therapy Modalities
+Postural Balance/*physiology
+Psychological Tests
+Treatment Outcome
+LA  - eng
+N1  - Christofoletti, Gustavo
+Oliani, Merlyn Mércia
+Gobbi, Sebastião
+Stella, Florindo
+Bucken Gobbi, Lilian Teresa
+Renato Canineu, Paulo
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2008/07/01
+Clin Rehabil. 2008 Jul;22(7):618-26. doi: 10.1177/0269215507086239.
+PY  - 2008
+SN  - 0269-2155 (Print)
+0269-2155
+SP  - 618-26
+ST  - A controlled clinical trial on the effects of motor intervention on balance and cognition in institutionalized elderly patients with dementia
+T2  - Clin Rehabil
+TI  - A controlled clinical trial on the effects of motor intervention on balance and cognition in institutionalized elderly patients with dementia
+VL  - 22
+ID  - 51264
+ER  - 
+
+TY  - JOUR
+AB  - This pilot study examines the efficacy of a group memory notebook intervention. Five individuals with very mild dementia and 4 spouses who served as coaches attended 14 group treatment sessions. Therapists use educational strategies and learning activities packets to teach memory notebook use. At posttreatment, coaches report fewer symptoms of depression, and participants with very mild dementia report greater confidence in ability to obtain support. Modified laboratory memory testing reveals that participants with dementia demonstrate improved posttreatment memory scores because of increased note-taking behavior and more frequent referencing of notes. Although more frequent everyday memory strategies use is reported at posttreatment, this does not translate into reports of fewer everyday memory failures or greater everyday independence for the participants with dementia. This study demonstrates that a multidyad group intervention can successfully be used to teach patients with very mild dementia to use a memory notebook, with beneficial effects for both members of the care dyad.
+AD  - Department of Psychology, Washington State University, Pullman, WA 99164-4820, USA. schmitter-e@wsu.edu
+AN  - 18955726
+AU  - Schmitter-Edgecombe, M.
+AU  - Howard, J. T.
+AU  - Pavawalla, S. P.
+AU  - Howell, L.
+AU  - Rueda, A.
+C2  - PMC10846120
+DA  - Oct-Nov
+DO  - 10.1177/1533317508320794
+DP  - NLM
+IS  - 5
+KW  - Activities of Daily Living/psychology
+Aged
+Aged, 80 and over
+Behavior Therapy/*methods
+Dementia/psychology/*rehabilitation
+Depression/*therapy
+Female
+Follow-Up Studies
+Humans
+Male
+*Memory
+Middle Aged
+Neuropsychological Tests/standards
+Pilot Projects
+Severity of Illness Index
+Treatment Outcome
+Writing
+LA  - eng
+N1  - 1938-2731
+Schmitter-Edgecombe, Maureen
+Howard, Joni T
+Pavawalla, Shital P
+Howell, Lisa
+Rueda, Alicia
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2008/10/29
+Am J Alzheimers Dis Other Demen. 2008 Oct-Nov;23(5):477-87. doi: 10.1177/1533317508320794.
+PY  - 2008
+SN  - 1533-3175 (Print)
+1533-3175
+SP  - 477-87
+ST  - Multidyad memory notebook intervention for very mild dementia: a pilot study
+T2  - Am J Alzheimers Dis Other Demen
+TI  - Multidyad memory notebook intervention for very mild dementia: a pilot study
+VL  - 23
+ID  - 51301
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Recently, the importance of non-pharmacological therapies for dementia has come to the fore. In the present study, we examined the curative effects of aromatherapy in dementia in 28 elderly people, 17 of whom had Alzheimer's disease (AD). METHODS: After a control period of 28 days, aromatherapy was performed over the following 28 days, with a wash out period of another 28 days. Aromatherapy consisted of the use of rosemary and lemon essential oils in the morning, and lavender and orange in the evening. To determine the effects of aromatherapy, patients were evaluated using the Japanese version of the Gottfries, Brane, Steen scale (GBSS-J), Functional Assessment Staging of Alzheimer's disease (FAST), a revised version of Hasegawa's Dementia Scale (HDS-R), and the Touch Panel-type Dementia Assessment Scale (TDAS) four times: before the control period, after the control period, after aromatherapy, and after the washout period. RESULTS: All patients showed significant improvement in personal orientation related to cognitive function on both the GBSS-J and TDAS after therapy. In particular, patients with AD showed significant improvement in total TDAS scores. Result of routine laboratory tests showed no significant changes, suggesting that there were no side-effects associated with the use of aromatherapy. Results from Zarit's score showed no significant changes, suggesting that caregivers had no effect on the improved patient scores seen in the other tests. CONCLUSIONS: In conclusion, we found aromatherapy an efficacious non-pharmacological therapy for dementia. Aromatherapy may have some potential for improving cognitive function, especially in AD patients.
+AD  - Department of Biological Regulation, School of Health Science, Faculty of Medicine, Tottori University, Yonago, Japan.
+AN  - 20377818
+AU  - Jimbo, D.
+AU  - Kimura, Y.
+AU  - Taniguchi, M.
+AU  - Inoue, M.
+AU  - Urakami, K.
+DA  - Dec
+DO  - 10.1111/j.1479-8301.2009.00299.x
+DP  - NLM
+IS  - 4
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/diagnosis/psychology/*therapy
+*Aromatherapy
+Arousal
+Cross-Over Studies
+Dementia/diagnosis/psychology/*therapy
+Dementia, Vascular/diagnosis/psychology/*therapy
+Female
+Follow-Up Studies
+Geriatric Assessment
+Humans
+Lavandula
+Male
+Neuropsychological Tests
+Oils, Volatile/therapeutic use
+Plant Oils/therapeutic use
+Rosmarinus
+Treatment Outcome
+LA  - eng
+N1  - 1479-8301
+Jimbo, Daiki
+Kimura, Yuki
+Taniguchi, Miyako
+Inoue, Masashi
+Urakami, Katsuya
+Controlled Clinical Trial
+Journal Article
+England
+2010/04/10
+Psychogeriatrics. 2009 Dec;9(4):173-9. doi: 10.1111/j.1479-8301.2009.00299.x.
+PY  - 2009
+SN  - 1346-3500
+SP  - 173-9
+ST  - Effect of aromatherapy on patients with Alzheimer's disease
+T2  - Psychogeriatrics
+TI  - Effect of aromatherapy on patients with Alzheimer's disease
+VL  - 9
+ID  - 51255
+ER  - 
+
+TY  - JOUR
+AB  - The purpose of this study was to evaluate the effect of structured group reminiscence therapy on behavior competence and physical functioning and to compare effectiveness of the intervention by stage of dementia in Taiwanese elders residing in institutional settings. A longitudinal experimental design was used. Seventy-seven Taiwanese elderly participants completed the study; 38 in the intervention group and 39 in the control group. Participants in the intervention group received one reminiscence therapy session weekly for 8 weeks; those in the control group received regular nursing care. Barthel's index (BI) and the Clifton Assessment Procedures for the Elderly Behavior Rating Scale (CAPE-BRS) were administered pre- and post-intervention. Findings indicated that no significant differences between the intervention and control groups on overall behavioral competence (p=0.12) or physical functioning (p=0.44). However, slight overall improvement was identified, statistically significant for the social disturbance subscale of the CAPE-BRS was found (p=0.011). There were no significant changes in overall behavior competence (p=0.11) or physical functioning (p=0.30) by stage of dementia (mild vs. moderate) in the intervention group, counter to the hypothesis. Although our results did not demonstrate a significant effect of structured group reminiscence therapy on overall behavior competency or on physical functioning in elders with dementia, we identified issues related to future implementation of this intervention, such as study power, chosen outcome measures, intervention dose, timing of outcome measures, or cultural applicability issues.
+AD  - National Cheng-Kung University, Department of Nursing and Institute of Allied Health Science, No. 1, University Road, Tainan City 701 Taiwan, ROC. Electronic address: ns127@mail.ncku.edu.tw.
+National Cheng-Kung University, Department of Nursing and Institute of Allied Health Science, No. 1, University Road, Tainan City 701 Taiwan, ROC.
+Jianan Mental Hospital, Department of Geriatric Psychiatry, No. 80, Lane 870, Chung-Shan Road., Jen-Te Hsien, 717 Tainan County, Taiwan, ROC.
+AN  - 18930560
+AU  - Wang, J. J.
+AU  - Yen, M.
+AU  - OuYang, W. C.
+DA  - Sep-Oct
+DO  - 10.1016/j.archger.2008.08.007
+DP  - NLM
+ET  - 20081019
+IS  - 2
+KW  - Activities of Daily Living
+Aged
+Aged, 80 and over
+Dementia/*therapy
+Female
+*Homes for the Aged
+Humans
+Longitudinal Studies
+Male
+Memory
+*Nursing Homes
+Psychotherapy, Group/*methods
+Social Adjustment
+Taiwan
+LA  - eng
+N1  - 1872-6976
+Wang, Jing-Jy
+Yen, Miaofen
+OuYang, Wen-Chen
+Clinical Trial
+Journal Article
+Multicenter Study
+Research Support, Non-U.S. Gov't
+Netherlands
+2008/10/22
+Arch Gerontol Geriatr. 2009 Sep-Oct;49(2):227-232. doi: 10.1016/j.archger.2008.08.007. Epub 2008 Oct 19.
+PY  - 2009
+SN  - 0167-4943
+SP  - 227-232
+ST  - Group reminiscence intervention in Taiwanese elders with dementia
+T2  - Arch Gerontol Geriatr
+TI  - Group reminiscence intervention in Taiwanese elders with dementia
+VL  - 49
+ID  - 51281
+ER  - 
+
+TY  - JOUR
+AB  - Spiritual Self-Schema (3-S) is a weekly 8-session, mindfulness-based, manual-guided, individual intervention targeting addiction and human immunodeficiency virus (HIV) risk behaviors that integrates cognitive behavioral strategies with Buddhist principles and clients' religious/spiritual beliefs. 3-S is efficacious for reducing drug use and HIV risk behaviors among mixed-gender, methadone-maintained outpatients. The study goal was to conduct a preliminary evaluation of 3-S therapy among urban, low-income Latinas (n = 13) in residential addiction treatment. Data gathered via in-person interviews (baseline, 8 and 20 weeks postentry) showed high rates of 3-S acceptability and positive changes in a number of outcomes relevant to recovery from addiction and to HIV prevention, including impulsivity, spirituality, motivation for change, and HIV prevention knowledge. The study findings are promising; however, a controlled study with longer follow-up is needed to rigorously assess the efficacy of 3-S therapy with Latinas in substance abuse treatment.
+AD  - Institute on Urban Health Research, Bouvé College of Health Sciences, Northeastern University, Boston, Massachusetts 02115, USA. h.amaro@neu.edu
+AN  - 20408063
+AU  - Amaro, H.
+AU  - Magno-Gatmaytan, C.
+AU  - Meléndez, M.
+AU  - Cortés, D. E.
+AU  - Arevalo, S.
+AU  - Margolin, A.
+DA  - Apr
+DO  - 10.1080/08897071003641602
+DP  - NLM
+IS  - 2
+KW  - Adult
+Cognitive Behavioral Therapy/*methods
+Diagnosis, Dual (Psychiatry)
+Female
+HIV Infections/prevention & control
+Health Knowledge, Attitudes, Practice
+Hispanic or Latino/*psychology
+Humans
+Impulsive Behavior/therapy
+Meditation/*methods
+Mental Disorders/complications/*therapy
+Patient Compliance/statistics & numerical data
+Patient Satisfaction
+Pilot Projects
+Risk-Taking
+Spiritual Therapies/*methods
+Substance-Related Disorders/complications/*therapy
+LA  - eng
+N1  - 1547-0164
+Amaro, Hortensia
+Magno-Gatmaytan, Cielo
+Meléndez, Michael
+Cortés, Dharma E
+Arevalo, Sandra
+Margolin, Arthur
+1H79TI 14442-0/TI/CSAT SAMHSA HHS/United States
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+United States
+2010/04/22
+Subst Abus. 2010 Apr;31(2):117-25. doi: 10.1080/08897071003641602.
+PY  - 2010
+SN  - 0889-7077
+SP  - 117-25
+ST  - Addiction treatment intervention: an uncontrolled prospective pilot study of Spiritual Self-Schema therapy with Latina women
+T2  - Subst Abus
+TI  - Addiction treatment intervention: an uncontrolled prospective pilot study of Spiritual Self-Schema therapy with Latina women
+VL  - 31
+ID  - 51267
+ER  - 
+
+TY  - JOUR
+AB  - In spite of the existence of evidence-based treatments for hypochondriasis, or severe health anxiety, recovery rates are low and morbidity is high. Therefore, more treatment options are needed for this prevalent condition. Mindfulness-based cognitive therapy (MBCT) interventions have been gaining research and clinical attention for the treatment of mood, and more recently anxiety disorders. A small, uncontrolled pilot study of an 8-week group MBCT intervention for hypochondriasis was conducted. Ten subjects (five females and five males) with a mean age of 35.6 (range=25-59) recruited from an academic community health network met criteria and completed the study. There were significant improvements in measures of health anxiety, disease-related thoughts, somatic symptoms, and mindfulness at the end of treatment, and these benefits were sustained at 3-month follow-up. Participants evidenced high treatment satisfaction, with no drop-outs or adverse events. These findings provide the basis for a larger, more rigorous, controlled trial of this promising treatment approach.
+AD  - Department of Psychiatry, Harvard Medical School, Boston, MA, USA. dlovas@partners.org
+AN  - 20650601
+AU  - Lovas, D. A.
+AU  - Barsky, A. J.
+DA  - Dec
+DO  - 10.1016/j.janxdis.2010.06.019
+DP  - NLM
+ET  - 20100625
+IS  - 8
+KW  - Adult
+*Cognitive Behavioral Therapy/methods
+Female
+Humans
+Hypochondriasis/psychology/*therapy
+Male
+Middle Aged
+Mind-Body Therapies/methods
+Pilot Projects
+Psychiatric Status Rating Scales
+Psychological Tests
+Surveys and Questionnaires
+Treatment Outcome
+LA  - eng
+N1  - 1873-7897
+Lovas, David A
+Barsky, Arthur J
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2010/07/24
+J Anxiety Disord. 2010 Dec;24(8):931-5. doi: 10.1016/j.janxdis.2010.06.019. Epub 2010 Jun 25.
+PY  - 2010
+SN  - 0887-6185
+SP  - 931-5
+ST  - Mindfulness-based cognitive therapy for hypochondriasis, or severe health anxiety: a pilot study
+T2  - J Anxiety Disord
+TI  - Mindfulness-based cognitive therapy for hypochondriasis, or severe health anxiety: a pilot study
+VL  - 24
+ID  - 51280
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Anxiety has a high prevalence among individuals with dementia, and it has a significant negative impact on their functioning; yet intervention studies are lacking. We developed Peaceful Mind, a cognitive-behavioral intervention for persons with dementia. In this paper, we describe the intervention and results of an open trial evaluating the feasibility and utility of the intervention and assessment procedures. METHODS: Peaceful Mind is implemented over a period of three months in the participant's home with involvement of a caregiver or "collateral." Dyads are followed for an additional three months via telephone. An assortment of simplified skills is offered, including self-awareness, breathing, behavioral activation, calming thoughts, and sleep skills. RESULTS: Nine participants were enrolled, eight completed the three-month assessment, and seven completed the six-month assessment. Overall, participants and collaterals were satisfied with the intervention and reported that they benefited in terms of anxiety, depression, and collateral distress. CONCLUSIONS: A randomized controlled trial would help determine whether this promising new treatment has a statistically significant impact on anxiety in this population.
+AD  - Home-Based Primary Care, Department of Veterans Affairs Medical Center, Puget Sound, Seattle, Washington 98108, U.S.A. Amber.Paukert@va.gov
+AN  - 20550745
+AU  - Paukert, A. L.
+AU  - Calleo, J.
+AU  - Kraus-Schuman, C.
+AU  - Snow, L.
+AU  - Wilson, N.
+AU  - Petersen, N. J.
+AU  - Kunik, M. E.
+AU  - Stanley, M. A.
+C2  - PMC3071800
+C6  - NIHMS284013
+DA  - Sep
+DO  - 10.1017/s1041610210000694
+DP  - NLM
+ET  - 20100616
+IS  - 6
+KW  - Activities of Daily Living/psychology
+Adaptation, Psychological
+Aged
+Aged, 80 and over
+Alzheimer Disease/diagnosis/psychology/*therapy
+Anxiety Disorders/diagnosis/psychology/*therapy
+Caregivers/psychology
+Cognitive Behavioral Therapy/*methods
+Comorbidity
+Depressive Disorder/diagnosis/psychology/therapy
+Feasibility Studies
+Female
+Follow-Up Studies
+House Calls
+Humans
+Male
+Patient Satisfaction
+Telephone
+Washington
+LA  - eng
+N1  - 1741-203x
+Paukert, Amber L
+Calleo, Jessica
+Kraus-Schuman, Cynthia
+Snow, Lynn
+Wilson, Nancy
+Petersen, Nancy J
+Kunik, Mark E
+Stanley, Melinda A
+R34 MH078925/MH/NIMH NIH HHS/United States
+R34 MH078925-03/MH/NIMH NIH HHS/United States
+R34-MH078925/MH/NIMH NIH HHS/United States
+Clinical Trial
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, U.S. Gov't, Non-P.H.S.
+England
+2010/06/17
+Int Psychogeriatr. 2010 Sep;22(6):1012-21. doi: 10.1017/S1041610210000694. Epub 2010 Jun 16.
+PY  - 2010
+SN  - 1041-6102 (Print)
+1041-6102
+SP  - 1012-21
+ST  - Peaceful Mind: an open trial of cognitive-behavioral therapy for anxiety in persons with dementia
+T2  - Int Psychogeriatr
+TI  - Peaceful Mind: an open trial of cognitive-behavioral therapy for anxiety in persons with dementia
+VL  - 22
+ID  - 51282
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: To evaluate the effects of pet therapy on cognitive function, mood and perceived quality of life on elderly inpatients (mean age 84.7 years; 95.2% women) affected by dementia, depression and psychosis. METHODS: Mini-Mental State Examination (MMSE) and 15-items Geriatric Depression Scale (GDS) were administered to 10 patients (pet group) and 11 controls (control group) together with a self-perceived quality-of-life questionnaire, before and after a pet therapy intervention that lasted 6 weeks. MMSE and GDS mean scores were compared between and within groups by Student's t-test. RESULTS: Both the pet group and control group improved on GDS and MMSE. Within the pet group, GDS symptoms decreased by 50% (from 5.9 to 2.7, P= 0.013), whereas mean MMSE score increased by 4.5 (P= 0.060). The between group comparison showed a positive effect of pet therapy intervention on GDS (P= 0.070). Most of the participants reported an improvement of their perceived quality of life. CONCLUSIONS: Pet therapy is efficient in improving depressive symptoms and cognitive function in residents of long-term care facilities with mental illness.
+AD  - Institute of Psychiatry, University of Bologna, Local Health Authority of Imola, Bologna, Italy. fra-moretti@libero.it
+AN  - 21707862
+AU  - Moretti, F.
+AU  - De Ronchi, D.
+AU  - Bernabei, V.
+AU  - Marchetti, L.
+AU  - Ferrari, B.
+AU  - Forlani, C.
+AU  - Negretti, F.
+AU  - Sacchetti, C.
+AU  - Atti, A. R.
+DA  - Jun
+DO  - 10.1111/j.1479-8301.2010.00329.x
+DP  - NLM
+ET  - 20100914
+IS  - 2
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/psychology/therapy
+*Animal Assisted Therapy
+Animals
+Cognition Disorders/psychology/*therapy
+Dementia, Vascular/psychology/therapy
+Depression/psychology/*therapy
+Female
+Homes for the Aged
+Humans
+Italy
+Male
+Mental Disorders/psychology/*therapy
+Mental Status Schedule
+Nursing Homes
+Psychotic Disorders/psychology/therapy
+Quality of Life/*psychology
+Surveys and Questionnaires
+LA  - eng
+N1  - 1479-8301
+Moretti, Francesca
+De Ronchi, Diana
+Bernabei, Virginia
+Marchetti, Lucia
+Ferrari, Barbara
+Forlani, Claudia
+Negretti, Francesca
+Sacchetti, Cleta
+Atti, Anna Rita
+Controlled Clinical Trial
+Journal Article
+England
+2011/06/29
+Psychogeriatrics. 2011 Jun;11(2):125-9. doi: 10.1111/j.1479-8301.2010.00329.x. Epub 2010 Sep 14.
+PY  - 2011
+SN  - 1346-3500
+SP  - 125-9
+ST  - Pet therapy in elderly patients with mental illness
+T2  - Psychogeriatrics
+TI  - Pet therapy in elderly patients with mental illness
+VL  - 11
+ID  - 51252
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Preliminary studies suggest beneficial effects of animal-assisted activities (AAA) on behavioral and psychological symptoms of dementia (BPSD), but data are inconsistent. This study aimed to assess the effect of AAA with dogs on cognition, BPSD, emotional status and motor activity in severe Alzheimer's disease (AD). METHODS: Ten patients attending an Alzheimer Day Care Center (ADCC) participated in a repeated measures study, which included: two weeks' pre-intervention, three weeks' control activity with plush dogs (CA), and three weeks' AAA. Cognitive function (Severe Impairment Battery), mood (Cornell Scale for Depression in Dementia; CSDD), BPSD (Neuropsychiatric Inventory; NPI) and agitation (Cohen-Mansfield Agitation Inventory; CMAI) were assessed at baseline and after each period. Observed Emotion Rating Scale (OERS) for emotional status, Agitated Behavior Mapping Instrument (ABMI) and a checklist for motor activity were completed across the study periods, both during intervention sessions and after three hours. RESULTS: Cognition and NPI were unchanged across the study. Declines in the CMAI and CSDD scores after AAA were not significant, while the NPI anxiety item score decreased in comparison with CA (CA 3.1±2.3, AAA 1.5±2.7, p = 0.04). OERS "sadness" decreased (p = 0.002), while "pleasure" (p = 0.016) and "general alertness" (p = 0.003) increased during AAA compared with CA sessions, and observed sadness remained lower after three hours (p = 0.002). Motor activity increased significantly during AAA. CONCLUSION: In this sample of severe AD patients in ADCC, AAA was associated with a decrease in anxiety and sadness and an increase in positive emotions and motor activity in comparison with a control activity.
+AD  - Unit of Gerontology and Geriatric Medicine, Department of Critical Care Medicine and Surgery, University of Florence, Florence, Italy.
+AN  - 21356158
+AU  - Mossello, E.
+AU  - Ridolfi, A.
+AU  - Mello, A. M.
+AU  - Lorenzini, G.
+AU  - Mugnai, F.
+AU  - Piccini, C.
+AU  - Barone, D.
+AU  - Peruzzi, A.
+AU  - Masotti, G.
+AU  - Marchionni, N.
+DA  - Aug
+DO  - 10.1017/s1041610211000226
+DP  - NLM
+ET  - 20110301
+IS  - 6
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/psychology/*therapy
+*Animal Assisted Therapy/methods
+Animals
+Cognition
+*Day Care, Medical/methods/psychology
+Dogs
+Emotions
+Female
+Humans
+Male
+Neuropsychological Tests
+LA  - eng
+N1  - 1741-203x
+Mossello, Enrico
+Ridolfi, Alessandro
+Mello, Anna Maria
+Lorenzini, Giulia
+Mugnai, Francesca
+Piccini, Carolina
+Barone, Domenico
+Peruzzi, Anna
+Masotti, Giulio
+Marchionni, Niccolò
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2011/03/02
+Int Psychogeriatr. 2011 Aug;23(6):899-905. doi: 10.1017/S1041610211000226. Epub 2011 Mar 1.
+PY  - 2011
+SN  - 1041-6102
+SP  - 899-905
+ST  - Animal-assisted activity and emotional status of patients with Alzheimer's disease in day care
+T2  - Int Psychogeriatr
+TI  - Animal-assisted activity and emotional status of patients with Alzheimer's disease in day care
+VL  - 23
+ID  - 51286
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To analyze the effects of motor intervention on the neuropsychiatric symptoms of Alzheimer's disease and on the caregivers' burden. DESIGN: This is a controlled trial evaluating the effects of a motor intervention program on the neuropsychiatric symptoms. SETTING: The intervention was performed on community patients from two university centers specializing in physical exercise for the elderly. SUBJECTS: Patients with Alzheimer's disease were divided into two groups: sixteen received the motor intervention and sixteen controls (five controls were excluded because of clinical intercurrences). INTERVENTIONS: Aerobic exercises (flexibility, strength, and agility) and functional balance exercises were conducted over six months for 60 minutes three times per week. MAIN MEASURES: Psychopathological features of patients were evaluated with the Neuropsychiatric Inventory and Cornell Scale for Depression in Dementia. Caregivers were evaluated using the Neuropsychiatric Inventory-Distress and Burden Interview. A two-way analysis of variance (ANOVA) was applied to observe interactions (pre- vs. post-intervention; participants vs. controls). RESULTS: Patients from the intervention presented a significant reduction in neuropsychiatric conditions when compared to controls (Neuropsychiatric Inventory: F: 11.12; p = 0.01; Cornell Depression scale: F: 11.97; p = 0.01). The burden and stress of caregivers responsible for patients who participated in the intervention significantly decreased when compared to caregivers responsible for controls (Neuropsychiatric Inventory-Distress: F: 9.37; p = 0.01; Burden Interview: F: 11.28; p = 0.01). CONCLUSIONS: Aerobic exercise was associated with a reduction in the neuropsychiatric symptoms and contributed to attenuate the caregivers' burden. However, the researchers were not blinded to the patient's intervention status, which constitutes an important limitation of this study.
+AD  - UNESP - Universidade Estadual Paulista, Biosciences Institute, Aging and Physical Activity Laboratory, Campus of Rio Claro/SP, Brazil. fstella@rc.unesp.br
+AN  - 21915483
+AU  - Stella, F.
+AU  - Canonici, A. P.
+AU  - Gobbi, S.
+AU  - Galduroz, R. F.
+AU  - Cação Jde, C.
+AU  - Gobbi, L. T.
+C2  - PMC3161211
+DO  - 10.1590/s1807-59322011000800008
+DP  - NLM
+IS  - 8
+KW  - Aged
+Alzheimer Disease/complications/psychology/*rehabilitation
+Caregivers/*psychology
+Exercise/physiology
+Exercise Therapy/*methods
+Female
+Humans
+Male
+Mental Disorders/*prevention & control/psychology
+Middle Aged
+Neuropsychological Tests
+Psychiatric Status Rating Scales
+Treatment Outcome
+LA  - eng
+N1  - 1980-5322
+Stella, Florindo
+Canonici, Ana Paula
+Gobbi, Sebastião
+Galduroz, Ruth Ferreira Santos
+Cação, João de Castilho
+Gobbi, Lílian Teresa Bucken
+Controlled Clinical Trial
+Journal Article
+United States
+2011/09/15
+Clinics (Sao Paulo). 2011;66(8):1353-60. doi: 10.1590/s1807-59322011000800008.
+PY  - 2011
+SN  - 1807-5932 (Print)
+1807-5932
+SP  - 1353-60
+ST  - Attenuation of neuropsychiatric symptoms and caregiver burden in Alzheimer's disease by motor intervention: a controlled trial
+T2  - Clinics (Sao Paulo)
+TI  - Attenuation of neuropsychiatric symptoms and caregiver burden in Alzheimer's disease by motor intervention: a controlled trial
+VL  - 66
+ID  - 51278
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To analyze the influence of a six-month exercise program on neuropsychiatric disorders and on the performance of instrumental activities in elderly patients with Alzheimer's disease (AD). METHODS: The study included 20 patients with AD in the mild to moderate stages of the Clinical Dementia Rating (CDR) divided into two groups: the experimental group, composed of 10 women who participated in the six-month exercise program, and the control group, composed of the 10 remaining AD patients who did not take part in an exercise program during the same period. All participants were evaluated using the Mini-Mental State Exam for global cognitive function, the Neuropsychiatric Inventory Questionnaire for neuropsychiatric disorders, and the Pfeffer Functional Activities Questionnaire for the degree of functional impairment. RESULTS: The control group showed functional and neuropsychiatric deterioration in the comparisons between pre- and post-intervention times and between groups. CONCLUSION: The experimental group showed a propensity for less deterioration in neuropsychiatric disorders and performance of instrumental activities compared to the sedentary group.
+AD  - Universidade Estadual Paulista, Department of Physical Education, Universidade Estadual Paulista, Rio Claro, SP, Brazil. 　carla_unesp@yahoo.com.br
+AN  - 22499405
+AU  - Nascimento, C. M.
+AU  - Teixeira, C. V.
+AU  - Gobbi, L. T.
+AU  - Gobbi, S.
+AU  - Stella, F.
+DA  - Jun
+DO  - 10.1590/s1413-35552012005000017
+DP  - NLM
+ET  - 20120412
+IS  - 3
+KW  - *Activities of Daily Living
+Aged
+Alzheimer Disease/*rehabilitation
+*Exercise Therapy
+Female
+Humans
+Neuropsychological Tests
+LA  - eng
+N1  - Nascimento, Carla M C
+Teixeira, Camila V L
+Gobbi, Lilian T B
+Gobbi, Sebastião
+Stella, Florindo
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Brazil
+2012/04/14
+Rev Bras Fisioter. 2012 Jun;16(3):197-204. doi: 10.1590/s1413-35552012005000017. Epub 2012 Apr 12.
+PY  - 2012
+SP  - 197-204
+ST  - A controlled clinical trial on the effects of exercise on neuropsychiatric disorders and instrumental activities in women with Alzheimer's disease
+T2  - Rev Bras Fisioter
+TI  - A controlled clinical trial on the effects of exercise on neuropsychiatric disorders and instrumental activities in women with Alzheimer's disease
+VL  - 16
+ID  - 51266
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: A new communication method, the "Veder method", has recently been developed. Caregivers are trained to apply this method in a group activity ("living-room theatre activity") for people with dementia in which theatrical stimuli are used in combination with proven emotion-oriented care methods. The aim of this exploratory study was to evaluate the added value of the Veder method group activity compared to a regular reminiscence group activity and to investigate whether professional carers can achieve the same effects with the Veder method as professional actors. METHODS: A quasi-experimental three-group design was used. Experimental group 1 (E1; n = 65) joined a living-room theatre activity offered by trained professional caregivers. Experimental group 2 (E2; n = 31) joined a living-room theatre activity offered by professional actors. The control group (n = 55) received a usual reminiscence group activity. Behavior, mood and aspects of quality of life were measured using standardized observation scales at three points in time: (T1) pretest; (T2) during the intervention and; (T3) post-test, two hours after the intervention. RESULTS: During the intervention, significant differences were found in favor of the group that was offered a living-room theatre activity by actors (E2) on different aspects of behavior, mood and quality of life. At post-test, people in E2 were more alert compared to the control group. Moreover, they recalled more memories and showed less socially isolated behavior compared to the control group. CONCLUSION: This exploratory study shows that the Veder method has some clear positive effects on behavior and mood of people with dementia when applied by professional actors.
+AD  - Department of Psychiatry, Alzheimer Center, EMGO Institute for Health and Care Research, VUMC, Amsterdam, The Netherlands. ma.vandijk@vumc.nl
+AN  - 22040605
+AU  - van Dijk, A. M.
+AU  - van Weert, J. C.
+AU  - Dröes, R. M.
+DA  - Mar
+DO  - 10.1017/s1041610211001992
+DP  - NLM
+ET  - 20111101
+IS  - 3
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*nursing/*psychology
+Caregivers/education
+Dementia, Vascular/*nursing/*psychology
+Emotions
+Feasibility Studies
+Female
+Home Nursing/*psychology
+Humans
+Inservice Training
+Male
+Memory, Episodic
+Mental Status Schedule
+Psychodrama/*methods
+Psychotherapy, Group/*methods
+Quality of Life/*psychology
+Social Behavior
+LA  - eng
+N1  - 1741-203x
+van Dijk, A Marijke
+van Weert, Julia C M
+Dröes, Rose-Marie
+Comparative Study
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2011/11/02
+Int Psychogeriatr. 2012 Mar;24(3):367-81. doi: 10.1017/S1041610211001992. Epub 2011 Nov 1.
+PY  - 2012
+SN  - 1041-6102
+SP  - 367-81
+ST  - Does theatre improve the quality of life of people with dementia?
+T2  - Int Psychogeriatr
+TI  - Does theatre improve the quality of life of people with dementia?
+VL  - 24
+ID  - 51287
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND PURPOSE: Physical therapy is recommended for the treatment of Huntington's disease, but reliable studies investigating its efficacy are almost non-existent. This may in part be due to the lack of suitable outcome measures. Therefore, we investigated the applicability of novel quantitative and objective assessments of motor dysfunction in the evaluation of physical therapy interventions aimed at improving gait and posture. METHODS: Twelve patients with Huntington disease received a predefined twice-weekly intervention focusing on posture and gait over 6 weeks. The GAITRite mat and a force plate were used for objective and quantitative assessments. The Unified Huntingtons Disease Rating Scale Total Motor Score, the timed Up &Go test, and the Berg Balance Scale were used as clinical outcome measures. RESULTS: Significant improvements were seen in GAITRite measures after therapy. Improvements were also seen in the Up & Go test and Berg Balance Scale, whereas force plate measures and Total Motor Scores did not change. CONCLUSIONS: The results suggest that physical therapy has a positive effect on gait in Huntington's disease. The study shows that objective and quantitative measures of gait and posture may serve as endpoints in trials assessing the efficacy of physical therapy. They should be explored further in larger trials applying a randomized controlled setting.
+AD  - Department of Neurology, University Hospital Muenster, University of Muenster, Muenster, Germany. bohlens@uni-muenster.de
+AN  - 22672573
+AU  - Bohlen, S.
+AU  - Ekwall, C.
+AU  - Hellström, K.
+AU  - Vesterlin, H.
+AU  - Björnefur, M.
+AU  - Wiklund, L.
+AU  - Reilmann, R.
+DA  - Feb
+DO  - 10.1111/j.1468-1331.2012.03760.x
+DP  - NLM
+ET  - 20120604
+IS  - 2
+KW  - Adult
+Female
+Gait/physiology
+Humans
+Huntington Disease/physiopathology/*rehabilitation
+Male
+Middle Aged
+Outcome Assessment, Health Care
+*Physical Therapy Modalities/standards
+Postural Balance/physiology
+Severity of Illness Index
+LA  - eng
+N1  - 1468-1331
+Bohlen, S
+Ekwall, C
+Hellström, K
+Vesterlin, H
+Björnefur, M
+Wiklund, L
+Reilmann, R
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2012/06/08
+Eur J Neurol. 2013 Feb;20(2):389-93. doi: 10.1111/j.1468-1331.2012.03760.x. Epub 2012 Jun 4.
+PY  - 2013
+SN  - 1351-5101
+SP  - 389-93
+ST  - Physical therapy in Huntington's disease--toward objective assessments?
+T2  - Eur J Neurol
+TI  - Physical therapy in Huntington's disease--toward objective assessments?
+VL  - 20
+ID  - 51270
+ER  - 
+
+TY  - JOUR
+AB  - The aims of this study were to determine the extent of ocular, motor control problems and the effect of visual therapy on such problems, among seven- to eight-year-old children diagnosed with DCD. Thirty-two, children with a mean age of 95.66 months (SD ± 3.54) participated in the study. The MABC was used to classify children into DCD categories (<15th, percentile) while the Sensory Input Systems Screening Test and QNST-II, were used to evaluate ocular motor control. A two-group pre-test-post-test, cross-over design was followed with a retention test two years, thereafter to determine the lasting effect of the visual therapy, intervention. The 18-week visual therapy programme was executed once a week, for 40 min during school hours, after which the two groups were, crossed over. Percentages of ocular motor control problems ranging, between 6.25% and 93.75% were found in both the groups before participating, in the visual therapy programme, with the highest percentage problems found, in visual pursuit with the left eye. Visual therapy contributed to a, significant improvement of 75-100% in visual pursuit, fixation, ocular, alignment and convergence, with significant lasting effects (p<0.001). Visual therapy is recommended for children with DCD experiencing poor, ocular motor control.
+AD  - Physical Activity, Sport and Recreation, Faculty Health Sciences, North-West University, Potchefstroom, South Africa. Electronic address: Dane.Coetzee@nwu.ac.za.
+AN  - 24055711
+AU  - Coetzee, D.
+AU  - Pienaar, A. E.
+DA  - Nov
+DO  - 10.1016/j.ridd.2013.08.036
+DP  - NLM
+ET  - 20130919
+IS  - 11
+KW  - Child
+Cross-Over Studies
+Eye Movements
+Female
+Humans
+Male
+Motor Skills Disorders/complications/*therapy
+Ocular Motility Disorders/complications/*therapy
+*Physical Therapy Modalities
+Treatment Outcome
+Dcd
+Ocular motor control
+Visual therapy
+LA  - eng
+N1  - 1873-3379
+Coetzee, Dané
+Pienaar, Anita E
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2013/09/24
+Res Dev Disabil. 2013 Nov;34(11):4073-84. doi: 10.1016/j.ridd.2013.08.036. Epub 2013 Sep 19.
+PY  - 2013
+SN  - 0891-4222
+SP  - 4073-84
+ST  - The effect of visual therapy on the ocular motor control of seven- to eight-year-old children with developmental coordination disorder (DCD)
+T2  - Res Dev Disabil
+TI  - The effect of visual therapy on the ocular motor control of seven- to eight-year-old children with developmental coordination disorder (DCD)
+VL  - 34
+ID  - 51297
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Cannabis users frequently report concurrent tobacco use, and tobacco use is associated with poorer outcomes during treatment for cannabis use disorders (CUD). Interventions that simultaneously target both tobacco and cannabis use disorders may enhance cessation outcomes for either or both substances. METHODS: This study evaluated an intervention integrating highly effective treatments for cannabis and tobacco use disorders. Thirty-two participants meeting diagnostic criteria for CUD and reporting daily tobacco use were enrolled in a 12-week computer-assisted behavioral treatment for CUD. Participants were encouraged to participate in a tobacco intervention that included a computer-assisted behavioral treatment tailored for tobacco and cannabis co-users, and nicotine-replacement therapy (NRT). Cannabis and tobacco outcomes were evaluated using descriptive statistics and were compared to a historical control group that received treatment for CUD but not tobacco. RESULTS: Participants achieved 3.6±4.3 consecutive weeks of cannabis abstinence, which was comparable to the historical control group (3.1±4.4). A majority of the sample (78%) completed at least one tobacco module and 44% initiated NRT. Over half (56%) initiated tobacco quit attempts, and 28% were tobacco abstinent for at least two consecutive weeks. Participants showed greater reduction in tobacco use (cigarettes per day) than the historical control group, but differences in tobacco abstinence rates during the final month of treatment were not statistically significant (12.5% vs. 4%). CONCLUSION: Findings suggest that providing a tobacco intervention during treatment for CUD is feasible and may positively impact tobacco use without negatively affecting cannabis use outcomes.
+AD  - Department of Psychiatry, Geisel School of Medicine at Dartmouth, Rivermill Complex, Suite B3-1, 85 Mechanic St., Lebanon, NH 03766, United States. Electronic address: Dustin.C.Lee@Dartmouth.edu.
+Department of Psychiatry, Geisel School of Medicine at Dartmouth, Rivermill Complex, Suite B3-1, 85 Mechanic St., Lebanon, NH 03766, United States.
+Departments of Psychiatry and Psychological Science, University of Vermont, UHC Campus/OH3, Stop # 482, 1 South Prospect St., Burlington, VT 05401, United States.
+Institute of Social and Preventive Medicine, Faculty of Medicine, University of Geneva, CMU. 1, rue Michel-Servet, 1211 Genève 4, Switzerland.
+AN  - 26307942
+AU  - Lee, D. C.
+AU  - Budney, A. J.
+AU  - Brunette, M. F.
+AU  - Hughes, J. R.
+AU  - Etter, J. F.
+AU  - Stanger, C.
+C1  - Conflict of Interest: Dr. Hughes has received consulting and speaking fees from several companies that develop or market pharmacological and behavioral treatments for smoking cessation or harm reduction and from several non-profit organizations that promote tobacco control. Some of these market nicotine replacement products or their competitors. All other authors have no conflicts of interest to declare.
+C2  - PMC4671818
+C6  - NIHMS718100
+DA  - Oct 1
+DO  - 10.1016/j.drugalcdep.2015.08.001
+DP  - NLM
+ET  - 20150810
+KW  - Adolescent
+Adult
+*Behavior Therapy
+Cannabis
+Female
+Humans
+Male
+Marijuana Abuse/complications/psychology/*therapy
+Middle Aged
+Patient Acceptance of Health Care
+Smoking Cessation/*methods
+Therapy, Computer-Assisted/*methods
+Tobacco Use Disorder/complications/psychology/*therapy
+Treatment Outcome
+Young Adult
+Co-use
+Computer-assisted
+Incentives
+Tobacco
+Treatment
+LA  - eng
+N1  - 1879-0046
+Lee, Dustin C
+Budney, Alan J
+Brunette, Mary F
+Hughes, John R
+Etter, Jean-Francois
+Stanger, Catherine
+R01 DA032243/DA/NIDA NIH HHS/United States
+R01-DA023526/DA/NIDA NIH HHS/United States
+R01-DA032243/DA/NIDA NIH HHS/United States
+T32-DA037202/DA/NIDA NIH HHS/United States
+R01 DA023526/DA/NIDA NIH HHS/United States
+T32 DA037202/DA/NIDA NIH HHS/United States
+Controlled Clinical Trial
+Journal Article
+Research Support, N.I.H., Extramural
+Ireland
+2015/08/27
+Drug Alcohol Depend. 2015 Oct 1;155:134-40. doi: 10.1016/j.drugalcdep.2015.08.001. Epub 2015 Aug 10.
+PY  - 2015
+SN  - 0376-8716 (Print)
+0376-8716
+SP  - 134-40
+ST  - Outcomes from a computer-assisted intervention simultaneously targeting cannabis and tobacco use
+T2  - Drug Alcohol Depend
+TI  - Outcomes from a computer-assisted intervention simultaneously targeting cannabis and tobacco use
+VL  - 155
+ID  - 51274
+ER  - 
+
+TY  - JOUR
+AB  - The use of dolls as a therapeutic intervention for nursing home residents with dementia is relatively new. The current article describes a research study implemented with nursing home residents in Korea to examine the effects of doll therapy on their mood, behavior, and social interactions. A one-group, pretest-posttest design was used to measure the impact of doll therapy on 51 residents with dementia. Linear regression demonstrated statistically significant differences in aggression, obsessive behaviors, wandering, negative verbalization, negative mood, and negative physical appearance after introduction of the doll therapy intervention. Interactions with other individuals also increased over time. Findings support the benefits of doll therapy for nursing home residents with dementia; however, further research is needed to provide more empirical evidence and explore ethical considerations in the use of doll therapy in this vulnerable population.
+AN  - 25622273
+AU  - Shin, J. H.
+DA  - Jan
+DO  - 10.3928/02793695-20141218-03
+DP  - NLM
+IS  - 1
+KW  - Aged
+Aged, 80 and over
+Dementia/*therapy
+Female
+Humans
+Male
+Nursing Homes
+Play Therapy/*methods
+Play and Playthings/psychology
+LA  - eng
+N1  - Shin, Juh Hyun
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2015/01/27
+J Psychosoc Nurs Ment Health Serv. 2015 Jan;53(1):13-8. doi: 10.3928/02793695-20141218-03.
+PY  - 2015
+SN  - 0279-3695 (Print)
+0279-3695
+SP  - 13-8
+ST  - Doll therapy: an intervention for nursing home residents with dementia
+T2  - J Psychosoc Nurs Ment Health Serv
+TI  - Doll therapy: an intervention for nursing home residents with dementia
+VL  - 53
+ID  - 51273
+ER  - 
+
+TY  - JOUR
+AB  - AIMS AND OBJECTIVES: The purpose of this study was to investigate the effects of a music intervention on hospitalised psychiatric patients with different levels of anxiety. BACKGROUND: In clinical practice, psychiatric inpatients and nurses routinely suffer from anxiety. A music intervention may possibly be useful, but knowledge as to how useful and how effective it is in patients with different levels of anxiety is limited. DESIGN: The study design was a three-group, repeated-measures experimental study. METHODS: Subjects were 22 psychiatric patients who were divided into three groups based on their level of anxiety. They listened to 20 minutes of music each day for 10 days and were assessed using the Beck Anxiety Inventory before and after the music intervention and at a one-week follow-up; an electroencephalogram and finger temperature were monitored before and during the music intervention. RESULTS: Anxiety levels of all three groups showed a significant difference (p = 0·0339) after the intervention. The difference alpha and beta electroencephalogram percentages for all three groups showed a significant difference (p = 0·04; p = 0·01). The finger temperature showed a non-significant difference (p = 0·41). CONCLUSIONS: A music intervention can effectively alleviate the anxiety of hospitalised psychiatric patients who suffer from all levels of anxiety. RELEVANCE TO CLINICAL PRACTICE: The study recommends a practice in alleviating anxiety. Effective lower-cost interventions to reduce anxiety in psychiatric inpatient settings would be of interest to nurses and benefit patients.
+AD  - School of Nursing, College of Nursing, Taipei Medical University, Taipei, Taiwan.
+Department of Nursing, Taipei Medical University Hospital, Taipei, Taiwan.
+School of Nursing, Taipei Medical University, Taipei, Taiwan.
+Department of Nursing, Cheng Hsin General Hospital, Taipei, Taiwan.
+Department of Nursing, Taipei Medical University-Shuang Ho Hospital, Taipei, Taiwan.
+Department of Nursing, Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan.
+School of Gerontology Health Management, College of Nursing, Taipei Medical University, Taipei, Taiwan.
+Psychiatric Research Center, Taipei Medical University Hospital, Taipei, Taiwan.
+AN  - 26790566
+AU  - Yang, C. Y.
+AU  - Miao, N. F.
+AU  - Lee, T. Y.
+AU  - Tsai, J. C.
+AU  - Yang, H. L.
+AU  - Chen, W. C.
+AU  - Chung, M. H.
+AU  - Liao, Y. M.
+AU  - Chou, K. R.
+DA  - Mar
+DO  - 10.1111/jocn.13098
+DP  - NLM
+ET  - 20160121
+IS  - 5-6
+KW  - Adolescent
+Adult
+Aged
+Anxiety Disorders/nursing/psychology/*therapy
+Female
+Hospitalization
+Humans
+Male
+Middle Aged
+*Music Therapy
+Psychiatric Status Rating Scales
+Severity of Illness Index
+Treatment Outcome
+Young Adult
+anxiety
+electroencephalogram
+music intervention
+LA  - eng
+N1  - 1365-2702
+Yang, Chyn-Yng
+Miao, Nae-Fang
+Lee, Tso-Ying
+Tsai, Jui-Chen
+Yang, Hui-Ling
+Chen, Wen-Chun
+Chung, Min-Huey
+Liao, Yuan-Mei
+Chou, Kuei-Ru
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2016/01/23
+J Clin Nurs. 2016 Mar;25(5-6):777-87. doi: 10.1111/jocn.13098. Epub 2016 Jan 21.
+PY  - 2016
+SN  - 0962-1067
+SP  - 777-87
+ST  - The effect of a researcher designated music intervention on hospitalised psychiatric patients with different levels of anxiety
+T2  - J Clin Nurs
+TI  - The effect of a researcher designated music intervention on hospitalised psychiatric patients with different levels of anxiety
+VL  - 25
+ID  - 51285
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Theta-burst stimulation (TBS) modulates synaptic plasticity more efficiently than standard repetitive transcranial magnetic stimulation delivery and may be a promising modality for neuropsychiatric disorders such as autism spectrum disorder (ASD). At present there are few effective interventions for prefrontal cortex dysfunction in ASD. We report on an open-label, pilot study of intermittent TBS (iTBS) to target executive function deficits and restricted, repetitive behaviors in male children and adolescents with ASD. METHODS: Ten right-handed, male participants, aged 9-17 years with ASD were enrolled in an open-label trial of iTBS treatment. Fifteen sessions of neuronavigated iTBS at 100% motor threshold targeting the right dorsolateral prefrontal cortex were delivered over 3 weeks. RESULTS: Parent report scores on the Repetitive Behavior Scale Revised and the Yale-Brown Obsessive Compulsive Scale demonstrated improvements with iTBS treatment. Participants demonstrated improvements in perseverative errors on the Wisconsin Card Sorting Test and total time for the Stroop test. The iTBS treatments were well tolerated with no serious adverse effects. CONCLUSION: These preliminary results suggest that further controlled interventional studies of iTBS for ASD are warranted.
+AD  - Departamento de Psiquiatria, Faculdade de Medicina, Universidade de São Paulo (USP), São Paulo, SP, Brazil.
+Department of Psychiatry and Psychology, Mayo Clinic, Rochester, Minnesota, USA.
+Departamento de Neurologia, Faculdade de Medicina, USP, São Paulo, SP, Brazil.
+AN  - 29236921
+AU  - Abujadi, C.
+AU  - Croarkin, P. E.
+AU  - Bellini, B. B.
+AU  - Brentani, H.
+AU  - Marcolin, M. A.
+C1  - The authors report no conflicts of interest.
+C2  - PMC5995664
+C6  - NIHMS942057
+DA  - Jul-Sep
+DO  - 10.1590/1516-4446-2017-2279
+DP  - NLM
+ET  - 20171211
+IS  - 3
+KW  - Adolescent
+Aftercare
+Autism Spectrum Disorder/physiopathology/psychology/*therapy
+Child
+Humans
+Male
+Obsessive Behavior/psychology
+Obsessive-Compulsive Disorder/psychology
+Pilot Projects
+Prefrontal Cortex/physiopathology
+Signal Detection, Psychological
+Theta Rhythm/*physiology
+Transcranial Magnetic Stimulation/*methods
+Treatment Outcome
+LA  - eng
+N1  - 1809-452x
+Abujadi, Caio
+Croarkin, Paul E
+Bellini, Bianca B
+Brentani, Helena
+Marcolin, Marco A
+K23 MH100266/MH/NIMH NIH HHS/United States
+Clinical Trial
+Journal Article
+Brazil
+2017/12/14
+Braz J Psychiatry. 2018 Jul-Sep;40(3):309-311. doi: 10.1590/1516-4446-2017-2279. Epub 2017 Dec 11.
+PY  - 2018
+SN  - 1516-4446 (Print)
+1516-4446
+SP  - 309-311
+ST  - Intermittent theta-burst transcranial magnetic stimulation for autism spectrum disorder: an open-label pilot study
+T2  - Braz J Psychiatry
+TI  - Intermittent theta-burst transcranial magnetic stimulation for autism spectrum disorder: an open-label pilot study
+VL  - 40
+ID  - 51290
+ER  - 
+
+TY  - JOUR
+AB  - Growing evidence suggests that specialized, multi-component treatment programmes produce improvements in numerous outcomes among individuals with first-episode psychosis. However, these programmes often lack interventions specifically designed to address deficits in social cognition. This raises questions about the effectiveness of such programmes in addressing deficits in social cognition that accompany psychotic disorders. We investigated the effect of participation in a multi-component treatment programme on social cognition among 71 individuals with first-episode psychosis. Participants experienced gains in emotion processing, social knowledge, social perception and theory of mind. However, after controlling for multiple comparisons, these improvements were limited to theory of mind and recognition of social cues in low emotion interactions. Although our findings should be interpreted cautiously, they raise the possibility that individuals participating in multi-component treatment programmes for first-episode psychosis without interventions specifically targeting social cognition may still experience gains in social cognition.
+AD  - Early Psychosis Intervention Center (EPICENTER), Department of Psychiatry and Behavioral Health, The Ohio State University, Columbus, Ohio.
+Department of Psychology, The Ohio State University, Columbus, Ohio.
+Department of Psychology, The University of Arizona, Tucson, Arizona.
+Early Psychosis Intervention Center (EPICENTER), Department of Psychiatry, The University of Arizona, Tucson, Arizona.
+AN  - 28124452
+AU  - Breitborde, N. J. K.
+AU  - Moe, A. M.
+AU  - Woolverton, C.
+AU  - Harrison-Monroe, P.
+AU  - Bell, E. K.
+DA  - Jun
+DO  - 10.1111/eip.12417
+DP  - NLM
+ET  - 20170125
+IS  - 3
+KW  - Adolescent
+Adult
+Cognition Disorders/complications/drug therapy/*psychology/*therapy
+Cognitive Behavioral Therapy
+Combined Modality Therapy
+Emotions
+Family Therapy
+Female
+Humans
+Male
+Psychotic Disorders/complications/drug therapy/*psychology/*therapy
+Social Behavior
+Social Perception
+Theory of Mind
+Therapy, Computer-Assisted
+Young Adult
+first-episode psychosis
+multi-component care
+social cognition
+LA  - eng
+N1  - 1751-7893
+Breitborde, Nicholas J K
+Moe, Aubrey M
+Woolverton, Cindy
+Harrison-Monroe, Patricia
+Bell, Emily K
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Australia
+2017/01/27
+Early Interv Psychiatry. 2018 Jun;12(3):464-468. doi: 10.1111/eip.12417. Epub 2017 Jan 25.
+PY  - 2018
+SN  - 1751-7885
+SP  - 464-468
+ST  - An uncontrolled trial of multi-component care for first-episode psychosis: Effects on social cognition
+T2  - Early Interv Psychiatry
+TI  - An uncontrolled trial of multi-component care for first-episode psychosis: Effects on social cognition
+VL  - 12
+ID  - 51293
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Obsessive Compulsive Disorder (OCD) is a chronic and disabling disorder with poor response to pharmacological treatments. Converging evidences suggest that OCD patients suffer from dysfunction of the cortico-striato-thalamo-cortical (CSTC) circuit, including in the medial prefrontal cortex (mPFC) and the anterior cingulate cortex (ACC). OBJECTIVE: To examine whether modulation of mPFC-ACC activity by deep transcranial magnetic stimulation (DTMS) affects OCD symptoms. METHODS: Treatment resistant OCD participants were treated with either high-frequency (HF; 20 Hz), low-frequency (LF; 1 Hz), or sham DTMS of the mPFC and ACC for five weeks, in a double-blinded manner. All treatments were administered following symptoms provocation, and EEG measurements during a Stroop task were acquired to examine changes in error-related activity. Clinical response to treatment was determined using the Yale-Brown-Obsessive-Compulsive Scale (YBOCS). RESULTS: Interim analysis revealed that YBOCS scores were significantly improved following HF (n = 7), but not LF stimulation (n = 8), compared to sham (n = 8), and thus recruitment for the LF group was terminated. Following completion of the study, the response rate in the HF group (n = 18) was significantly higher than that of the sham group (n = 15) for at least one month following the end of the treatment. Notably, the clinical response in the HF group correlated with increased Error Related Negativity (ERN) in the Stroop task, an electrophysiological component that is attributed to ACC activity. CONCLUSION: HF DTMS over the mPFC-ACC alleviates OCD symptoms and may be used as a novel therapeutic intervention. Notwithstanding alternative explanations, this may stem from DTMS ability to directly modify ACC activity.
+AD  - School of Psychological Sciences, Tel Aviv University, Tel Aviv, Israel; Department of Life Sciences and the Zlotowski Center for Neuroscience, Ben-Gurion University of the Negev, Beer-Sheva 84105, Israel.
+Department of Life Sciences and the Zlotowski Center for Neuroscience, Ben-Gurion University of the Negev, Beer-Sheva 84105, Israel.
+Tel Aviv University, Sackler Faculty of Medicine, Tel- Aviv, Israel.
+School of Psychological Sciences, Tel Aviv University, Tel Aviv, Israel.
+Department of Life Sciences and the Zlotowski Center for Neuroscience, Ben-Gurion University of the Negev, Beer-Sheva 84105, Israel. Electronic address: azangen@bgu.ac.il.
+AN  - 28927961
+AU  - Carmi, L.
+AU  - Alyagon, U.
+AU  - Barnea-Ygael, N.
+AU  - Zohar, J.
+AU  - Dar, R.
+AU  - Zangen, A.
+DA  - Jan-Feb
+DO  - 10.1016/j.brs.2017.09.004
+DP  - NLM
+ET  - 20170906
+IS  - 1
+KW  - Adult
+Double-Blind Method
+Electroencephalography
+Electrophysiology
+Female
+Gyrus Cinguli/*physiology/physiopathology
+Humans
+Male
+Obsessive-Compulsive Disorder/*physiopathology/*therapy
+Prefrontal Cortex/*physiology/physiopathology
+Stroop Test
+*Transcranial Magnetic Stimulation
+Acc
+Ern
+Ocd
+dTMS
+LA  - eng
+N1  - 1876-4754
+Carmi, Lior
+Alyagon, Uri
+Barnea-Ygael, Noam
+Zohar, Joseph
+Dar, Reuven
+Zangen, Abraham
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2017/09/21
+Brain Stimul. 2018 Jan-Feb;11(1):158-165. doi: 10.1016/j.brs.2017.09.004. Epub 2017 Sep 6.
+PY  - 2018
+SN  - 1876-4754
+SP  - 158-165
+ST  - Clinical and electrophysiological outcomes of deep TMS over the medial prefrontal and anterior cingulate cortices in OCD patients
+T2  - Brain Stimul
+TI  - Clinical and electrophysiological outcomes of deep TMS over the medial prefrontal and anterior cingulate cortices in OCD patients
+VL  - 11
+ID  - 51292
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Small aggregates (oligomers) of the toxic proteins amyloid-β (Aβ) and phospho-tau (p-tau) are essential contributors to Alzheimer's disease (AD). In mouse models for AD or human AD brain extracts, Transcranial Electromagnetic Treatment (TEMT) disaggregates both Aβ and p-tau oligomers, and induces brain mitochondrial enhancement. These apparent "disease-modifying" actions of TEMT both prevent and reverse memory impairment in AD transgenic mice. OBJECTIVE: To evaluate the safety and initial clinical efficacy of TEMT against AD, a comprehensive open-label clinical trial was performed. METHODS: Eight mild/moderate AD patients were treated with TEMT in-home by their caregivers for 2 months utilizing a unique head device. TEMT was given for two 1-hour periods each day, with subjects primarily evaluated at baseline, end-of-treatment, and 2 weeks following treatment completion. RESULTS: No deleterious behavioral effects, discomfort, or physiologic changes resulted from 2 months of TEMT, as well as no evidence of tumor or microhemorrhage induction. TEMT induced clinically important and statistically significant improvements in ADAS-cog, as well as in the Rey AVLT. TEMT also produced increases in cerebrospinal fluid (CSF) levels of soluble Aβ1-40 and Aβ1-42, cognition-related changes in CSF oligomeric Aβ, a decreased CSF p-tau/Aβ1-42 ratio, and reduced levels of oligomeric Aβ in plasma. Pre- versus post-treatment FDG-PET brain scans revealed stable cerebral glucose utilization, with several subjects exhibiting enhanced glucose utilization. Evaluation of diffusion tensor imaging (fractional anisotropy) scans in individual subjects provided support for TEMT-induced increases in functional connectivity within the cognitively-important cingulate cortex/cingulum. CONCLUSION: TEMT administration to AD subjects appears to be safe, while providing cognitive enhancement, changes to CSF/blood AD markers, and evidence of stable/enhanced brain connectivity.
+AD  - NeuroEM Therapeutics, Inc., Phoenix, AZ, USA.
+College of Pharmacy, University of South Florida, Tampa, FL, USA.
+University of South Florida Health/Byrd Alzheimer's Institute, Tampa, FL, USA.
+Left Coast Engineering, Escondido, CA, USA.
+Invicro, Boston, MA, USA.
+School of Aging Studies, University of South Florida, Tampa, FL, USA.
+Department of Neurology, 2nd Faculty of Medicine, Charles University/Motol University Hospital, Prague, Czech Republic.
+Ocotillo Electromagnetics, Inc., Chandler, AZ, USA.
+RF Exposure Laboratory, San Marcos, CA, USA.
+University Diagnostic Institute, Tampa, FL, USA.
+AN  - 31403948
+AU  - Arendash, G.
+AU  - Cao, C.
+AU  - Abulaban, H.
+AU  - Baranowski, R.
+AU  - Wisniewski, G.
+AU  - Becerra, L.
+AU  - Andel, R.
+AU  - Lin, X.
+AU  - Zhang, X.
+AU  - Wittwer, D.
+AU  - Moulton, J.
+AU  - Arrington, J.
+AU  - Smith, A.
+C1  - The University of South Florida has a financial interest in NeuroEM Therapeutics, a company that provided all of the financial support for this clinical trial. The interest has been reviewed and managed by the University in accordance with its Institutional Conflict of Interest policy.
+C2  - PMC6839500
+DO  - 10.3233/jad-190367
+DP  - NLM
+IS  - 1
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/diagnostic imaging/metabolism/psychology/*therapy
+Amyloid beta-Peptides/blood/cerebrospinal fluid
+Cognition
+Female
+Humans
+Magnetic Resonance Imaging
+Male
+Middle Aged
+Neuroimaging
+Neuropsychological Tests
+Transcranial Magnetic Stimulation/adverse effects/*methods
+Treatment Outcome
+tau Proteins/blood/cerebrospinal fluid
+Amyloid-β
+Fdg-pet
+brain electromagnetic waves
+cognitive enhancement
+functional MRI
+LA  - eng
+N1  - 1875-8908
+Arendash, Gary
+Cao, Chuanhai
+Abulaban, Haitham
+Baranowski, Rob
+Wisniewski, Gary
+Becerra, Lino
+Andel, Ross
+Lin, Xiaoyang
+Zhang, Xiaolin
+Wittwer, David
+Moulton, Jay
+Arrington, John
+Smith, Amanda
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2019/08/14
+J Alzheimers Dis. 2019;71(1):57-82. doi: 10.3233/JAD-190367.
+PY  - 2019
+SN  - 1387-2877 (Print)
+1387-2877
+SP  - 57-82
+ST  - A Clinical Trial of Transcranial Electromagnetic Treatment in Alzheimer's Disease: Cognitive Enhancement and Associated Changes in Cerebrospinal Fluid, Blood, and Brain Imaging
+T2  - J Alzheimers Dis
+TI  - A Clinical Trial of Transcranial Electromagnetic Treatment in Alzheimer's Disease: Cognitive Enhancement and Associated Changes in Cerebrospinal Fluid, Blood, and Brain Imaging
+VL  - 71
+ID  - 51271
+ER  - 
+
+TY  - JOUR
+AB  - AIM: Dementia is a chronic, costly disease affecting millions of people worldwide. Effective, affordable person-centered interventions are required to improve the lived experiences of individuals with dementia and their caregivers in various care settings. The present study examined the effects of a person-centered music listening intervention on mood, agitation and social engagement for individuals living with dementia. METHODS: This quasi-experimental study was carried out with participants at five community-based adult day health centers (n = 51). Standardized instruments were used to measure mood and agitation, and in-person and video-recorded observations of participant behavior were used to analyze changes before, during and after the intervention across four domains: mood, agitation, connecting to music and engaging socially. Within-person differences were examined using the Wilcoxon signed rank test, and between-group differences were examined using the Mann-Whitney U-test. RESULTS: Although standardized instruments did not yield statistically significant results, the behavioral observations showed a positive change in mood and a decrease in agitation. From pre- to post-intervention, there were statistically significant increases in joy, eye contact, eye movement, being engaged and talkativeness, and a decrease in sleeping and moving or dancing. CONCLUSIONS: Behavioral observations show the positive impact a person-centered music listening intervention might have on individuals living with dementia and attending adult day health centers. This affordable intervention provides a useful tool for caregivers that might improve the day-to-day experience of individuals living with dementia. Geriatr Gerontol Int 2019; 19: 30-34.
+AD  - George Mason University, College of Health and Human Services, Department of Social Work, Fairfax, Virginia, USA.
+AN  - 30460747
+AU  - Ihara, E. S.
+AU  - Tompkins, C. J.
+AU  - Inoue, M.
+AU  - Sonneman, S.
+DA  - Jan
+DO  - 10.1111/ggi.13563
+DP  - NLM
+ET  - 20181120
+IS  - 1
+KW  - Affect
+Aged
+Aged, 80 and over
+Dementia/*psychology/*therapy
+Female
+Humans
+Male
+Middle Aged
+Music Therapy/*methods
+Person-Centered Psychotherapy/*methods
+Psychomotor Agitation/etiology/prevention & control
+Social Behavior
+dementia
+music listening
+person-centered
+LA  - eng
+N1  - 1447-0594
+Ihara, Emily S
+Orcid: 0000-0002-3163-2380
+Tompkins, Catherine J
+Inoue, Megumi
+Sonneman, Sonya
+Virginia Center on Aging/
+Alzheimer's and Related Diseases Research Award Fund/
+Clinical Trial
+Journal Article
+Japan
+2018/11/22
+Geriatr Gerontol Int. 2019 Jan;19(1):30-34. doi: 10.1111/ggi.13563. Epub 2018 Nov 20.
+PY  - 2019
+SN  - 1447-0594
+SP  - 30-34
+ST  - Results from a person-centered music intervention for individuals living with dementia
+T2  - Geriatr Gerontol Int
+TI  - Results from a person-centered music intervention for individuals living with dementia
+VL  - 19
+ID  - 51262
+ER  - 
+
+TY  - JOUR
+AB  - We investigated the contribution of group therapy delivered by a medical clown to young children diagnosed with autism spectrum disorder (ASD). So far, scientific publications regarding medical clowning focus on general health advantages. The current study is the first controlled research examining the use of medical clowning in the therapy for children with ASD. Twenty-four children aged 2-6 years old with ASD enrolled in our special education intensive program were examined before and after group sessions with clown intervention (CI) and other intervention (OI). We tested stereotypic behaviors, verbal expression, play reciprocity, and social smiles. Data was collected during 12 weeks of intervention, and the trajectory of change was evaluated in addition to the pre-/post-intervention.Conclusion: improvement over time in all measures: Significant increase in word production, play reciprocity, and amount of social smiles during CI as compared with OI. We also found a reduction in frequency of stereotypic behaviors during and following CI as compared with before CI. These preliminary results indicate that medical clowning may be beneficial for young children with ASD, since it promotes communication and social reciprocity in a fun and lively interventional setting. What is Known: • Many therapies are used and proven as efficacious interventions for children with ASD. • So far, medical clowning was not tested as an intervention or therapy for ASD. What is New: • Medical clowning sessions with children with ASD elicited enhanced communication during the interventions as compared with other interventions. • Medical clowning sessions contributed to a decrease in frequency of stereotypic movements over time, in children with ASD.
+AD  - Weinberg Child Development Center, The Chaim Sheba Medical Center, 5262000, Tel HaShomer Ramat Gan, Israel. DRShahar.Shefer@sheba.health.gov.il.
+Weinberg Child Development Center, The Chaim Sheba Medical Center, 5262000, Tel HaShomer Ramat Gan, Israel.
+Center of Academic Studies, Or Yehuda, Israel.
+Sackler School of Medicine, Tel Aviv University, Tel Aviv-Yafo, Israel.
+AN  - 31243575
+AU  - Shefer, S.
+AU  - Leon Attia, O.
+AU  - Rosenan, R.
+AU  - Wald, O. A.
+AU  - Ende, H.
+AU  - Gabis, L. V.
+DA  - Aug
+DO  - 10.1007/s00431-019-03415-7
+DP  - NLM
+ET  - 20190626
+IS  - 8
+KW  - Autism Spectrum Disorder/diagnosis/psychology/*therapy
+Child
+Child Behavior
+Child, Preschool
+Female
+Humans
+Laughter Therapy/*methods
+Male
+Psychiatric Status Rating Scales
+Psychotherapy, Group/*methods
+Social Behavior
+Treatment Outcome
+Autism spectrum disorder
+Complementary and alternative therapies for ASD
+Medical clowning
+Treatment
+LA  - eng
+N1  - 1432-1076
+Shefer, Shahar
+Orcid: 0000-0003-4482-7491
+Leon Attia, Odelia
+Rosenan, Ruth
+Wald, Ori A
+Ende, Hamutal
+Gabis, Lidia V
+non/Magi Foundation/
+non/Fondation Adelis/
+Controlled Clinical Trial
+Journal Article
+Germany
+2019/06/28
+Eur J Pediatr. 2019 Aug;178(8):1283-1289. doi: 10.1007/s00431-019-03415-7. Epub 2019 Jun 26.
+PY  - 2019
+SN  - 0340-6199
+SP  - 1283-1289
+ST  - Benefits of medical clowning in the treatment of young children with autism spectrum disorder
+T2  - Eur J Pediatr
+TI  - Benefits of medical clowning in the treatment of young children with autism spectrum disorder
+VL  - 178
+ID  - 51268
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The combination of sleep deprivation and light therapy, called combined chronotherapy, may yield positive short- and long-term results, even in patients with treatment resistant depression (TRD). The implementation of combined chronotherapy in daily clinical practice is rare. This study describes the implementation and the effectiveness in a clinical setting. METHODS: Twenty six depressed patients with unipolar or bipolar depression received combined chronotherapy consisting of three nights of sleep deprivation with alternating recovery nights, light therapy, and continuation of antidepressant medication. Inventory of Depressive Symptoms C (IDS-C) scores were determined before chronotherapy and at week 1, 2, and 4. Paired t-tests were used to compare the IDS-C scores over time. RESULTS: The mean pre-treatment IDS-C score was 39.3 ± 9.6, the mean score in week 2 was 28.4 ± 10.2, and 28.6 ± 14.0 in week 4. A subsample of patients with psychiatric co-morbidities showed a reduction in depression severity from a mean score of 42.9 ± 11.0 to a mean score of 34.9 ± 13.0 after 4 weeks. The overall response rate was 34.6%, the remission rate 19.2%. LIMITATIONS: This open label case series has a relative small sample size and no control group CONCLUSION: In a clinical setting patients with major depressive disorder or bipolar disorder benefited significantly from combined chronotherapy. This chronotherapeutic intervention appears to have a rapid effect that lasts for at least several weeks, even in patients with psychiatric comorbidity or TRD. Indicating that chronotherapy can be a valuable treatment addition for depressed patients.
+AD  - University of Groningen, University Medical Center Groningen, Department of Psychiatry, CC44,P.O. Box 30.001, 9700 RB Groningen, The Netherlands.
+University of Groningen, University Medical Center Groningen, Department of Psychiatry, CC44,P.O. Box 30.001, 9700 RB Groningen, The Netherlands. Electronic address: b.c.m.haarman@rug.nl.
+AN  - 30611915
+AU  - Sikkens, D.
+AU  - Riemersma-Van der Lek, R. F.
+AU  - Meesters, Y.
+AU  - Schoevers, R. A.
+AU  - Haarman, B. C. M.
+DA  - Mar 1
+DO  - 10.1016/j.jad.2018.12.117
+DP  - NLM
+ET  - 20181225
+KW  - Adult
+Antidepressive Agents/*therapeutic use
+Bipolar Disorder/psychology/*therapy
+Chronotherapy/*methods
+Combined Modality Therapy
+Depressive Disorder, Major/psychology/*therapy
+Female
+Humans
+Male
+Middle Aged
+Phototherapy/*methods
+Sleep Deprivation
+Treatment Outcome
+Bipolar disorder
+Case series
+Chronotherapy
+Light therapy
+Major depressive disorder
+LA  - eng
+N1  - 1573-2517
+Sikkens, D
+Riemersma-Van der Lek, R F
+Meesters, Y
+Schoevers, R A
+Haarman, B C M
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2019/01/07
+J Affect Disord. 2019 Mar 1;246:727-730. doi: 10.1016/j.jad.2018.12.117. Epub 2018 Dec 25.
+PY  - 2019
+SN  - 0165-0327
+SP  - 727-730
+ST  - Combined sleep deprivation and light therapy: Clinical treatment outcomes in patients with complex unipolar and bipolar depression
+T2  - J Affect Disord
+TI  - Combined sleep deprivation and light therapy: Clinical treatment outcomes in patients with complex unipolar and bipolar depression
+VL  - 246
+ID  - 51259
+ER  - 
+
+TY  - JOUR
+AB  - Objective: The aim of this study is to test the effects of a customized intervention on distress among caregivers of persons with dementia (PWD) using a quasi-experimental design. Method: Fifty-one spouse caregivers in the experimental group and 51 in the control group participated in the study. The effects of the intervention were examined by comparing caregivers' responses with questionnaires at pre-intervention baseline (T0) and immediately after intervention (T1). Differences were quantified using repeated-measures ANOVA. Results: The analyses indicated a stabilizing effect of the intervention on caregivers' perceptions of PWD's daily functioning, self-esteem related to caregiving, quality of family support, and feeling of distress. Linear increases were observed regarding sense of preparedness and impact on daily routine, while no differences (interaction and linear effects) were observed for degree of self-efficacy, depression, impact on finances, or self-rated health. Conclusion: These findings show a preliminary efficacy of the intervention proposed in this study to prevent the exacerbation of caregivers' distress.
+AD  - 1 Laboratory SCALab, UMR CNRS 9193, University of Lille, Villeneuve d'Ascq, France.
+2 Institut Universitaire de Gériatrie de Montréal, Canada.
+3 Université de Montréal, Canada.
+4 Department of Neurology, Memory Research and Resources Clinic at the University Hospital of Lille, University of Lille, France.
+AN  - 29665714
+AU  - Wawrziczny, E.
+AU  - Larochette, C.
+AU  - Papo, D.
+AU  - Constant, E.
+AU  - Ducharme, F.
+AU  - Kergoat, M. J.
+AU  - Pasquier, F.
+AU  - Antoine, P.
+DA  - Aug
+DO  - 10.1177/0898264318770056
+DP  - NLM
+ET  - 20180417
+IS  - 7
+KW  - Adaptation, Psychological
+Aged
+Caregivers/*psychology
+Dementia/psychology/*therapy
+Depression/epidemiology/prevention & control
+Female
+Humans
+Male
+Middle Aged
+*Psychological Distress
+Research Design
+Self Concept
+Self Efficacy
+Surveys and Questionnaires
+caregiving
+dementia
+interventions
+LA  - eng
+N1  - 1552-6887
+Wawrziczny, Emilie
+Larochette, Clotilde
+Papo, David
+Constant, Emilie
+Ducharme, Francine
+Kergoat, Marie-Jeanne
+Pasquier, Florence
+Antoine, Pascal
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2018/04/19
+J Aging Health. 2019 Aug;31(7):1172-1195. doi: 10.1177/0898264318770056. Epub 2018 Apr 17.
+PY  - 2019
+SN  - 0898-2643
+SP  - 1172-1195
+ST  - A Customized Intervention for Dementia Caregivers: A Quasi-Experimental Design
+T2  - J Aging Health
+TI  - A Customized Intervention for Dementia Caregivers: A Quasi-Experimental Design
+VL  - 31
+ID  - 51269
+ER  - 
+
+TY  - JOUR
+AB  - This study evaluates the effectiveness of traditional Chinese opera on older adults with dementia; those who met the inclusion criteria were categorized into intervention (n = 21) and control (n = 22) groups. Traditional Chinese opera was organized for the intervention group for 12 weeks. The Mini-Mental State Examination (MMSE), the Chinese version of the neuropsychiatric inventory (CNPI), and Quality of Life in Alzheimer's disease (QOL-AD) assessed the effectiveness at the pre-test stage and after 6 and 12 weeks of the intervention, and generalized estimated equation was used for statistical analysis. Statistically significant (P < 0.05) differences were observed between the intervention and control groups in terms of MMSE, CNPI, and QOL-AD. Traditional Chinese opera can potentially be an effective therapy for improving the cognitive function of older adults with dementia, reducing their behavioral and psychiatric symptoms and enhancing their quality of life.
+AD  - Hangzhou Normal University, No. 2318 Yuhangtang Rd, Cangqian, Yuhang District, Hangzhou, Zhejiang Province, China. Electronic address: 250359609@qq.com.
+Hangzhou Normal University, No. 2318 Yuhangtang Rd, Cangqian, Yuhang District, Hangzhou, Zhejiang Province, China. Electronic address: 1241993514@qq.com.
+Hangzhou Normal University, No. 2318 Yuhangtang Rd, Cangqian, Yuhang District, Hangzhou, Zhejiang Province, China. Electronic address: xh3674@sina.com.
+Hangzhou Normal University, No. 2318 Yuhangtang Rd, Cangqian, Yuhang District, Hangzhou, Zhejiang Province, China. Electronic address: 627936837@qq.com.
+AN  - 31564448
+AU  - Chen, X.
+AU  - Li, D.
+AU  - Xu, H.
+AU  - Hu, Z.
+C1  - Declaration of Competing Interest None.
+DA  - Mar-Apr
+DO  - 10.1016/j.gerinurse.2019.08.002
+DP  - NLM
+ET  - 20190926
+IS  - 2
+KW  - Aged
+Aged, 80 and over
+China
+Cognition
+Controlled Before-After Studies
+Dementia/psychology/*therapy
+Female
+Humans
+Male
+*Music Therapy
+Neuropsychological Tests
+Quality of Life
+Social Behavior
+Dementia
+Music therapy
+Structural group
+Traditional opera
+LA  - eng
+N1  - 1528-3984
+Chen, Xin
+Li, Dongmei
+Xu, Hong
+Hu, Ziyan
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2019/10/01
+Geriatr Nurs. 2020 Mar-Apr;41(2):118-123. doi: 10.1016/j.gerinurse.2019.08.002. Epub 2019 Sep 26.
+PY  - 2020
+SN  - 0197-4572
+SP  - 118-123
+ST  - Effect of traditional opera on older adults with dementia
+T2  - Geriatr Nurs
+TI  - Effect of traditional opera on older adults with dementia
+VL  - 41
+ID  - 51258
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Preliminary clinical studies on the safety and efficacy of the pipeline embolization device (PED) for the treatment of small/medium aneurysms have demonstrated high occlusion rates with low complications. OBJECTIVE: To evaluate the safety and effectiveness of the PED for treatment of wide necked small and medium intracranial aneurysms. METHODS: PREMIER is a prospective, multicenter, single arm trial. Patients were treated with the PED for unruptured wide necked aneurysms, measuring ≤12 mm along the internal carotid artery or vertebral artery, between July 2014 and November 2015. At 1 year post-procedure, the primary effectiveness endpoint was complete occlusion (Raymond grade 1) without major parent vessel stenosis (≤50%) or retreatment, and the primary safety endpoint was major stroke in the territory supplied by the treated artery or neurologic death. RESULTS: A total of 141 patients were treated with PEDs (mean age 54.6±11.3 years, 87.9% (124/141) women). Mean aneurysm size was 5.0±1.92 mm, and 84.4% (119/141) measured <7 mm. PED placement was successful in 99.3% (140/141) of patients. Mean number of PEDs implanted per patient was 1.1±0.26; a single PED was used in 92.9% (131/141) of patients. At 1 year, 97.9% (138/141) of patients underwent follow-up angiography with 76.8% (106/138) of patients having met the study's primary effectiveness endpoint. The combined major morbidity and mortality rate was 2.1% (3/140). CONCLUSIONS: Treatment of wide necked small/medium aneurysms with the PED results in high rates of complete occlusion without significant parent vessel stenosis and low rates of permanent neurologic complications. TRIAL REGISTRATION: NCT02186561.
+AD  - Baptist Neurological Institute, Lyerly Neurosurgery, Jacksonville, Florida, USA.
+Departments of Neurosurgery and Radiology, Mayo Clinic, Rochester, Minnesota, USA.
+Brain and Spine Institute, Advocate Aurora Health, Chicago, Illinois, USA.
+Interventional Radiology, New York University Langone Medical Center, New York, New York, USA.
+Departments of Neurosurgery and Radiology, University at Buffalo Jacobs School of Medicine and Biomedical Sciences, Buffalo, New York, USA.
+Department of Neurosurgery, Thomas Jefferson University Hospital, Philadelphia, Pennsylvania, USA.
+Departments of Medical Imaging and Surgery, Division of Neuroradiology and Neurosurgery, Toronto Western Hospital, Toronto, Ontario, Canada.
+Department of Neuroradiology, National Institute of Neurosciences, Budapest, Hungary.
+Neuroscience Institute, St Vincent Mercy Hospital, Toledo, Ohio, USA.
+Department of Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+Department of Neurosurgery, University of California Los Angeles, Los Angeles, California, USA.
+Department of Neurosurgery, University of South Florida, Tampa, Florida, USA.
+Department of Neurological Surgery, Geisinger Clinic, Danville, Pennsylvania, USA.
+Department of Radiology, Florida Hospital Neuroscience Institute, Winter Park, Florida, USA.
+Department of Radiology, Baptist Health Lexington, Lexington, Kentucky, USA.
+Department of Medical Imaging, Toronto Western Hospital, Toronto, Ontario, Canada.
+Department of Neurosurgery, University of Utah, Salt Lake City, Utah, USA.
+Cerebrovascular Center, Cleveland Clinic, Cleveland, Ohio, USA.
+Department of Neurological Surgery, University of Kentucky, Lexington, Kentucky, USA.
+Department of Neurological Surgery, Rush University Medical Center, Chicago, Illinois, USA.
+Charles T Dotter Department of Interventional Radiology, Dotter Interventional Institute, Oregon Health and Science University, Portland, Oregon, USA.
+Department of Neurosurgery, Baylor College of Medicine, Houston, Texas, USA.
+Department of Neurosurgery, Cerebrovascular Center, Stony Brook University, Stony Brook, New York, USA.
+Department of Neuroradiology, Swedish Medical Center, Denver, Colorado, USA.
+Department of Neurological Surgery, University of Wisconsin Madison School of Medicine and Public Health, Madison, Wisconsin, USA.
+Division of Interventional Neuroradiology, Houston Methodist Research Institute, Houston, Texas, USA.
+Department of Neurosurgery, Tufts Medical Center, Tufts University School of Medicine, Boston, Massachusetts, USA.
+Departments of Neurointerventional Radiology and Neurosurgery, Emory University School of Medicine, Atlanta, Georgia, USA.
+New England Center for Stroke Research, Department of Radiology, University of Massachusetts Medical School, Worcester, Massachusetts, USA.
+AN  - 31308197
+AU  - Hanel, R. A.
+AU  - Kallmes, D. F.
+AU  - Lopes, D. K.
+AU  - Nelson, P. K.
+AU  - Siddiqui, A.
+AU  - Jabbour, P.
+AU  - Pereira, V. M.
+AU  - Szikora István, I.
+AU  - Zaidat, O. O.
+AU  - Bettegowda, C.
+AU  - Colby, G. P.
+AU  - Mokin, M.
+AU  - Schirmer, C.
+AU  - Hellinger, F. R.
+AU  - Given Ii, C.
+AU  - Krings, T.
+AU  - Taussky, P.
+AU  - Toth, G.
+AU  - Fraser, J. F.
+AU  - Chen, M.
+AU  - Priest, R.
+AU  - Kan, P.
+AU  - Fiorella, D.
+AU  - Frei, D.
+AU  - Aagaard-Kienitz, B.
+AU  - Diaz, O.
+AU  - Malek, A. M.
+AU  - Cawley, C. M.
+AU  - Puri, A. S.
+C1  - Competing interests: RH serves as a consultant for Medtronic, Stryker, Codman, and Microvention and is a stock holder of In Neuroco. DFK is president of Marblehead Medical and has patent pending in balloon catheter technologies. He has received research support from Medtronic, MicroVention, NeuroSave, Neurogami, Sequent Medical, NeuroSigma, and Insera, and also serves on the Scientific Advisory Board for Triticum and Boston Scientific. PKN is a consultant for Medtronic. AS is a modest consultant for Amnis Therapeutics, Boston Scientific, Canon Medical Systems USA, Cerebrotech Medical Systems, Claret Medical, Corindus, Endostream Medical, Guidepoint Global Consulting, Imperative Care, Integra, Rapid Medical, Rebound Therapeutics Corp, Silk Road Medical, StimMed, Stryker, Three Rivers Medical, VasSol, and WL Gore and Associates. He is also a consultant and serves on the national PI/Steering Committee for Cerenovus, Medtronic, MicroVention, and Penumbra. He serves on the National PI/Steering Committee for the POSITIVE Trial for the Medical University of South Carolina and as DSMB Chair for the HEAT Trial for Northwest University and has ownership interest in Amnis Therapeutics, Apama Medical, BlinkTBI, Buffalo Technology Partners, Cardinal Health, Cerebrotech Medical Systems, Claret Medical, Cognition Medical, Endostream Medical Ltd, Imperative Care, International Medical Distribution Partners, Rebound Therapeutics Corp, Silk Road Medical, StimMed, Synchron, Three Rivers Medical, and Viseon. PJ serves as a consultant for Medtronic. VMP serves as a consultant/Steering Committee member for Stryker, Penumbra, and Balt, and as a consultant for Medtronic and Neurovasc, and receives a research grant from Philips. SZ serves as a scientific consultant regarding trial design and conduct to Medtronic. GPC serves as a consultant for Medtronic, Microvention-Terumo, and Stryker. MM serves as a consultant for Cerebrotech, Imperative Care, and Penumbra. CS has received honoraria from the American Association of Neurological Surgeons and Toshiba, and has ownership interest in NTI. FRH serves on the Speakers' Bureau for Medtronic and as a consultant for Penumbra and Cordis Neurovascular (Johnson & Johnson). CG serves as a consultant, proctor, and on the Speakers' Bureau for Medtronic and Stryker, and is on the Speaker’s Bureau for Genentech. PT serves as a consultant for Covidien. GT serves as a consultant for Dynamed EBSCO. JFF is an equity interest holder for Fawkes Biotechnology, LLC, and is a consultant for Stream Biomedical and for Medtronic. MC is a consultant for Medtronic, Stryker, Penumbra, Genentech, and GE. PK is a consultant for Stryker Neurovascular, Medtronic, and Cerenovus. DFi is a consultant and has received research support from Microvention/Terumo. DFr is a consultant and on the Speakers' Bureau for Penumbra, Stryker Neurovascular, Genentech, MicroVention, and Codman. OD serves as a proctor for Microvention/Terumo. AMM is a cofounder, investor, and shareholder of CereVasc. ASP consults for and has received research grants from Medtronic Neurovascular and Stryker Neurovascular.
+C2  - PMC6996098
+DA  - Jan
+DO  - 10.1136/neurintsurg-2019-015091
+DP  - NLM
+ET  - 20190715
+IS  - 1
+KW  - Adult
+Aged
+Blood Vessel Prosthesis/*trends
+Embolization, Therapeutic/instrumentation/trends
+Female
+Follow-Up Studies
+Humans
+Intracranial Aneurysm/*diagnostic imaging/*therapy
+Male
+Middle Aged
+Prospective Studies
+Retreatment/trends
+Self Expandable Metallic Stents/*trends
+Treatment Outcome
+aneurysm
+artery
+brain
+flow diverter
+intervention
+LA  - eng
+N1  - 1759-8486
+Hanel, Ricardo A
+Kallmes, David F
+Lopes, Demetrius Klee
+Nelson, Peter Kim
+Siddiqui, Adnan
+Jabbour, Pascal
+Pereira, Vitor M
+Szikora István, Istvan
+Zaidat, Osama O
+Orcid: 0000-0003-4881-4698
+Bettegowda, Chetan
+Colby, Geoffrey P
+Orcid: 0000-0002-3376-0933
+Mokin, Maxim
+Orcid: 0000-0003-4270-8667
+Schirmer, Clemens
+Hellinger, Frank R
+Given Ii, Curtis
+Krings, Timo
+Taussky, Philipp
+Orcid: 0000-0001-9247-0146
+Toth, Gabor
+Orcid: 0000-0002-3646-3635
+Fraser, Justin F
+Orcid: 0000-0002-5980-3989
+Chen, Michael
+Priest, Ryan
+Kan, Peter
+Fiorella, David
+Orcid: 0000-0002-2677-8780
+Frei, Don
+Aagaard-Kienitz, Beverly
+Diaz, Orlando
+Malek, Adel M
+Cawley, C Michael
+Puri, Ajit S
+Clinical Trial
+Journal Article
+Multicenter Study
+England
+2019/07/17
+J Neurointerv Surg. 2020 Jan;12(1):62-66. doi: 10.1136/neurintsurg-2019-015091. Epub 2019 Jul 15.
+PY  - 2020
+SN  - 1759-8478 (Print)
+1759-8478
+SP  - 62-66
+ST  - Prospective study on embolization of intracranial aneurysms with the pipeline device: the PREMIER study 1 year results
+T2  - J Neurointerv Surg
+TI  - Prospective study on embolization of intracranial aneurysms with the pipeline device: the PREMIER study 1 year results
+VL  - 12
+ID  - 51256
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: We examined the benefits of a community-based program combining physical exercise, cognitive training, and education on dementia and lifestyle habits. METHODS: This crossover open-label trial included 141 community-dwelling elderly people with suspected mild cognitive decline (MCD). Subjects were assigned to a 6-month intervention-first/6-month observation-second (INT-OBS) group or an OBS-INT group. The 6-month intervention consisted of 2 h of physical exercise, cognitive training, and classroom study or rest once weekly. Primary outcome was change in Touch Panel-type Dementia Assessment Scale (TDAS) score. RESULTS: TDAS score improved significantly during the intervention period compared with the observation period for all subjects (P < 0.05). Some physical functions also improved significantly during the intervention period compared with the observation period in the OBS-INT group (P < 0.05). INTERPRETATION: This community-based program improved both cognitive and physical function in elderly people with suspected MCD.
+AD  - Department of Biological Regulation, School of Health Science, Faculty of Medicine, Tottori University, 86, Nishi-cho, Yonago, 683-8503, Japan.
+Division of Medical Science in Sports and Exercise, Department of Social Medicine, Faculty of Medicine, Tottori University, 4-101 Koyama-cho Minami, Tottori, 680-8550, Japan.
+Division of Neurology, Department of Brain and Neurological Sciences, Faculty of Medicine, Tottori University, 36-1, Nichi-cho, Yonago, 683-8504, Japan.
+Department of Dementia Research, Kawasaki Medical School, 2-6-1, Nakasange, Kita-Ku, Okayama, 700-8505, Japan.
+Department of Clinical Psychology, Tottori University Graduate School of Medical Sciences, 86, Nishi-cho, Yonago, 683-8503, Japan.
+The Nanbu Town National Health Insurance Saihaku Hospital, 397, Yamato, Nanbu-cho, Saihaku, 683-0323, Japan.
+Department of Occupational Therapist, YMCA College of Medical & Human Services in Yonago, 3-3-2, Kinkai-cho, Yonago, Tottori, 683-0825, Japan.
+Tottori Association of Occupational Therapists, 3-3-2, Kinkai-cho, Yonago, Tottori, 683-0825, Japan.
+Department of Rehabilitation, Satoni Den-en Clinic, 54-2, Satoni, Tottori-shi, Tottori, 680-0935, Japan.
+Tottori Physical Therapy Association, 212-5, Dakyojicho, Kurayoshi, 682-0816, Japan.
+Social Welfare Corporation Kohen, Nursing home Sakaikohen, 2083, Seido-cho, Sakaiminato, 684-0063, Japan.
+Kotoura Town Hall, 591-2, Tokuman, Kotoura-cho, Touhakugunn, 689-2392, Japan.
+Yonago Public Comprehensive Support Center for Shoutoku-Community, 1238 Ishii, Yonago, Tottori, 683-0021, Japan.
+AN  - 32068975
+AU  - Kouzuki, M.
+AU  - Kato, T.
+AU  - Wada-Isoe, K.
+AU  - Takeda, S.
+AU  - Tamura, A.
+AU  - Takanashi, Y.
+AU  - Azumi, S.
+AU  - Kojima, Y.
+AU  - Maruyama, C.
+AU  - Hayashi, M.
+AU  - Itou, M.
+AU  - Urakami, K.
+C1  - M.K., T.K., K.W‐I., S.T., A.T., Y.T., S.A., Y.K., C.M., M.H., and M.I. have no conflicts of interest to declare. K.U. owns a patent on the Touch Panel‐type Dementia Assessment Scale and receives royalties from Nihon Kohden Corporation.
+C2  - PMC7085994
+DA  - Mar
+DO  - 10.1002/acn3.50993
+DP  - NLM
+ET  - 20200218
+IS  - 3
+KW  - Aged
+Aged, 80 and over
+Cognitive Dysfunction/*prevention & control/*rehabilitation
+*Cognitive Remediation
+Combined Modality Therapy
+Cross-Over Studies
+Dementia/*prevention & control
+*Exercise Therapy
+Female
+Humans
+Independent Living
+Life Style
+Male
+Neuropsychological Tests
+Outcome Assessment, Health Care
+*Patient Education as Topic
+LA  - eng
+N1  - 2328-9503
+Kouzuki, Minoru
+Orcid: 0000-0001-8122-3254
+Kato, Toshiaki
+Wada-Isoe, Kenji
+Takeda, Shinya
+Tamura, Atsuhito
+Takanashi, Yuichi
+Azumi, Shintaro
+Kojima, Yoshinori
+Maruyama, Chikako
+Hayashi, Maki
+Itou, Michimi
+Urakami, Katsuya
+Clinical Trial
+Journal Article
+Observational Study
+Research Support, Non-U.S. Gov't
+United States
+2020/02/19
+Ann Clin Transl Neurol. 2020 Mar;7(3):318-328. doi: 10.1002/acn3.50993. Epub 2020 Feb 18.
+PY  - 2020
+SN  - 2328-9503
+SP  - 318-328
+ST  - A program of exercise, brain training, and lecture to prevent cognitive decline
+T2  - Ann Clin Transl Neurol
+TI  - A program of exercise, brain training, and lecture to prevent cognitive decline
+VL  - 7
+ID  - 51283
+ER  - 
+
+TY  - JOUR
+AB  - Background. Disrupted sleep is common after traumatic brain injury (TBI) particularly in the inpatient rehabilitation setting where it may affect participation in therapy and outcomes. Treatment of sleep disruption in this setting is varied and largely unexamined. Objective. To study the feasibility of instituting a sleep hygiene intervention on a rehabilitation unit. Methods. Twenty-two individuals admitted to a brain injury unit were enrolled and allocated, using minimization, to either a sleep hygiene protocol (SHP) or standard of care (SOC). All participants wore actigraphs, underwent serial cognitive testing, and had light monitors placed in their hospital rooms for 4 weeks. Additionally, participants in the SHP received 30 minutes of blue-light therapy each morning, had restricted caffeine intake after noon, and were limited to 30-minute naps during the day. SHP participants had their lights out time set according to preinjury sleep time preference. Both groups were treated with the same restricted formulary of centrally acting medications. Results. Of 258 patients screened, 27 met all study inclusion criteria of whom 22 were enrolled. Nine participants in each group who had at least 21 days of treatment were retained for analysis. The protocol was rated favorably by participants, families, and staff. Actigraph sleep metrics improved in both groups during the 4-week intervention; however, only in the SHP was the change significant. Conclusions. Sleep hygiene is a feasible, nonpharmacologic intervention to treat disrupted sleep in a TBI inpatient rehabilitation setting. A larger study is warranted to examine treatment efficacy. ClinicalTrials.gov Identifier: NCT02838082.
+AD  - Craig Hospital, Englewood, CO, USA.
+CNS Medical Group, Englewood, CO, USA.
+University of Colorado School of Medicine, Aurora, CO, USA.
+Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
+AN  - 31884895
+AU  - Makley, M. J.
+AU  - Gerber, D.
+AU  - Newman, J. K.
+AU  - Philippus, A.
+AU  - Monden, K. R.
+AU  - Biggs, J.
+AU  - Spier, E.
+AU  - Tarwater, P.
+AU  - Weintraub, A.
+DA  - Feb
+DO  - 10.1177/1545968319895478
+DP  - NLM
+ET  - 20191230
+IS  - 2
+KW  - Actigraphy
+Adult
+Brain Injuries, Traumatic/complications/*rehabilitation
+Feasibility Studies
+Female
+Humans
+Male
+Middle Aged
+*Neurological Rehabilitation
+*Outcome and Process Assessment, Health Care
+Patient Satisfaction
+Phototherapy
+Pilot Projects
+Severity of Illness Index
+Sleep Disorders, Circadian Rhythm/etiology/rehabilitation
+*Sleep Hygiene/physiology
+Sleep Wake Disorders/etiology/*rehabilitation
+Young Adult
+circadian disorders
+rehabilitation
+sleep disorders
+sleep hygiene
+sleep/wake cycle disorders
+traumatic brain injury (TBI)
+LA  - eng
+N1  - 1552-6844
+Makley, Michael J
+Orcid: 0000-0002-9038-7856
+Gerber, Don
+Newman, Jody K
+Philippus, Angie
+Monden, Kimberley R
+Orcid: 0000-0002-5207-0452
+Biggs, Jennifer
+Spier, Eric
+Tarwater, Patrick
+Weintraub, Alan
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2019/12/31
+Neurorehabil Neural Repair. 2020 Feb;34(2):111-121. doi: 10.1177/1545968319895478. Epub 2019 Dec 30.
+PY  - 2020
+SN  - 1545-9683
+SP  - 111-121
+ST  - Optimized Sleep After Brain Injury (OSABI): A Pilot Study of a Sleep Hygiene Intervention for Individuals With Moderate to Severe Traumatic Brain Injury
+T2  - Neurorehabil Neural Repair
+TI  - Optimized Sleep After Brain Injury (OSABI): A Pilot Study of a Sleep Hygiene Intervention for Individuals With Moderate to Severe Traumatic Brain Injury
+VL  - 34
+ID  - 51295
+ER  - 
+
+TY  - JOUR
+AB  - Despite growing prevalence, research investigating occupational therapy incorporating horses for youth with autism is limited. This study aimed to (a) pilot a screening, evaluation, and intervention protocol of occupational therapy in an equine environment and (b) assess preliminary effects on occupational performance goals, behavior, and social functioning of youth with autism. A multiple baseline single-case experimental design was used. Six youth with autism participated in a no-treatment baseline phase and 10 weeks of intervention. Therapists implemented the intervention with 95% fidelity. Per parent report, participants improved in occupational performance goals, social motivation, and communication; four demonstrated decreased irritability and hyperactivity. This research operationalizes a screening, evaluation, and intervention protocol for occupational therapy in an equine environment, and demonstrates it may improve occupational, behavioral, and social outcomes for youth with autism. Next steps include manualizing the intervention, refining feasibility measures, and implementing a randomized controlled efficacy study.
+AD  - Colorado State University, Fort Collins, USA.
+AN  - 32248740
+AU  - Peters, B. C.
+AU  - Wood, W.
+AU  - Hepburn, S.
+AU  - Bundy, A.
+DA  - Jul
+DO  - 10.1177/1539449220912723
+DP  - NLM
+ET  - 20200406
+IS  - 3
+KW  - Adolescent
+Autistic Disorder/*therapy
+Equine-Assisted Therapy/*methods
+Female
+Humans
+Male
+Occupational Therapy/*methods
+Pilot Projects
+Research Design
+Treatment Outcome
+animal-assisted therapy
+autism
+occupational performance
+LA  - eng
+N1  - 1938-2383
+Peters, B Caitlin
+Orcid: 0000-0001-5145-2929
+Wood, Wendy
+Hepburn, Susan
+Bundy, Anita
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2020/04/07
+OTJR (Thorofare N J). 2020 Jul;40(3):190-202. doi: 10.1177/1539449220912723. Epub 2020 Apr 6.
+PY  - 2020
+SN  - 1539-4492
+SP  - 190-202
+ST  - Pilot Study: Occupational Therapy in an Equine Environment for Youth With Autism
+T2  - OTJR (Thorofare N J)
+TI  - Pilot Study: Occupational Therapy in an Equine Environment for Youth With Autism
+VL  - 40
+ID  - 51260
+ER  - 
+
+TY  - JOUR
+AB  - Disorders of communication, social relationships, and psychomotricity are often characterized by cognitive impairment, which hinders daily activities and increases the risk of falls. This study aimed to evaluate the efficacy of an animal-assisted therapy (AAT) program in an institutionalized geriatric population with cognitive impairment. The variables evaluated included level of communication and changes in gait and/or balance. We performed a two-arm, parallel controlled, open-label, nonrandomized cluster clinical trial in two nursing home centers from an urban area. Patients in the two centers received 12 weekly sessions of physiotherapy, but the experimental group included AAT with a therapy dog. The study included a total of 46 patients (23 Control Group [CG], 23 Experimental Group [EG]) with a median age of 85.0 years. Of these, 32.6% had mild-moderate cognitive decline (Global Deterioration Scale of Reisberg [GDS] 2-4) and 67.4% severe cognitive decline (GDS 5-6). After the intervention, patients in the CG and EG showed a statistically significant improvement in all the response variables. When comparing both groups, no statistically significant differences were found in any of the Tinetti scale results (measuring gait and balance). However, the communication of patients in the EG, measured on the Holden scale, showed a statistically significant greater improvement postintervention than that of patients in the CG. AAT can be useful as a complementary, effective treatment for patients with different degrees of cognitive decline.
+AD  - Primary Health Care Center Bordeta-Magraners, Catalan Institute of Health, 25001 Lleida, Spain.
+Ilerkan Association, 25005 Lleida, Spain.
+Research Support Unit Lleida, Fundació Institut Universitari per a la recerca a l'Atenció Primària de Salut Jordi Gol i Gurina (IDIAPJGol), 08007 Barcelona, Spain.
+Institut Català de la Salut, Atenció Primària, 25007 Lleida, Spain.
+Metabolic Physiopathology Research Group, Experimental Medicine Department, Lleida University-Lleida Biochemical Research Institute (UdL-IRBLleida), 25198 Lleida, Spain.
+Research Group in Therapies in Primary Care, Research Support Unit Lleida, Fundació Institut Universitari per a la recerca a l'Atenció Primària de Salut Jordi Gol i Gurina (IDIAPJGol), 08007 Barcelona, Spain.
+AN  - 32823839
+AU  - Rodrigo-Claverol, M.
+AU  - Malla-Clua, B.
+AU  - Marquilles-Bonet, C.
+AU  - Sol, J.
+AU  - Jové-Naval, J.
+AU  - Sole-Pujol, M.
+AU  - Ortega-Bravo, M.
+C1  - The authors declare no conflict of interest.
+C2  - PMC7459682
+DA  - Aug 14
+DO  - 10.3390/ijerph17165899
+DP  - NLM
+ET  - 20200814
+IS  - 16
+KW  - Aged
+Aged, 80 and over
+*Animal Assisted Therapy
+Animals
+Cognitive Dysfunction/*therapy
+*Dementia
+Dogs
+Female
+Humans
+Institutionalization
+Male
+Range of Motion, Articular
+aging
+animal-assisted therapy
+cognitive impairment
+dementia
+nursing homes
+primary health care
+LA  - eng
+N1  - 1660-4601
+Rodrigo-Claverol, Maylos
+Orcid: 0000-0001-5436-4465
+Malla-Clua, Belén
+Marquilles-Bonet, Carme
+Sol, Joaquim
+Jové-Naval, Júlia
+Sole-Pujol, Meritxell
+Ortega-Bravo, Marta
+Orcid: 0000-0002-0765-6841
+Controlled Clinical Trial
+Journal Article
+Switzerland
+2020/08/23
+Int J Environ Res Public Health. 2020 Aug 14;17(16):5899. doi: 10.3390/ijerph17165899.
+PY  - 2020
+SN  - 1661-7827 (Print)
+1660-4601
+ST  - Animal-Assisted Therapy Improves Communication and Mobility among Institutionalized People with Cognitive Impairment
+T2  - Int J Environ Res Public Health
+TI  - Animal-Assisted Therapy Improves Communication and Mobility among Institutionalized People with Cognitive Impairment
+VL  - 17
+ID  - 51253
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND OBJECTIVES: Effective community-based programs to maintain health and well-being of adults with dementia are needed. This article describes the translation, implementation, and effectiveness of a multicomponent exercise plus behavioral/psychosocial intervention (Reducing Disability in Alzheimer's Disease-NorthWest [RDAD-NW]) conducted by staff in regional Area Agencies on Aging (AAAs). RESEARCH DESIGN AND METHODS: Staggered multiple baseline design was used; 10 AAAs, 20 case managers, and 255 community-residing persons with dementia (PWDs), and family caregivers were enrolled. RDAD-NW was conducted in-home over 6 weeks with aerobic/endurance, strength, and balance/flexibility exercises, dementia education, training to increase pleasant events, and activator-behavior-consequence problem-solving approach. Outcomes included case manager treatment fidelity, and caregiver/PWD physical activity, restricted activity days, physical functioning, quality of life, and affect. RESULTS: RDAD-NW was successfully translated and implemented by AAA agency staff through their usual service provision mechanisms. Staff responded positively and delivered the program with a high degree of fidelity. Caregiver/PWD dyads also responded favorably engaging in both exercise and behavioral/psychosocial portions of the program. A total of 207 dyads (81%) completed the intervention and 140 (55%) completed the 13-month follow-up. PWD physical activity increased significantly pre- to posttreatment (p < .001, ES = .54), and 13 months (p < .01, ES = .21). Quality of life of PWD increased significantly pre- to posttreatment (p < .001, ES = .29); caregiver depression improved pre- to posttreatment (p = .01, ES = -.18). DISCUSSION AND IMPLICATIONS: RDAD-NW was successfully translated and implemented by AAA case managers and resulted in increased physical activity and improved behavioral and emotional outcomes of caregiver/PWDs. Results support continued dissemination and implementation of RDAD-NW. CLINICAL TRIALS REGISTRATION: NCT01708304.
+AD  - Department of Psychosocial and Community Health, University of Washington, Seattle.
+Office of Nursing Research, School of Nursing, University of Washington, Seattle.
+Department of Rehabilitation Medicine, School of Medicine, University of Washington, Seattle.
+AN  - 30304477
+AU  - Teri, L.
+AU  - Logsdon, R. G.
+AU  - McCurry, S. M.
+AU  - Pike, K. C.
+AU  - McGough, E. L.
+C2  - PMC7117621
+DA  - Apr 2
+DO  - 10.1093/geront/gny122
+DP  - NLM
+IS  - 3
+KW  - Adult
+Aged
+Aged, 80 and over
+Alzheimer Disease/psychology
+Caregivers/*psychology
+Case Managers
+Community Health Services
+Dementia/*psychology
+Evidence-Based Practice
+Exercise/psychology
+Exercise Therapy/*psychology
+Female
+Humans
+Male
+Middle Aged
+Program Evaluation
+Quality of Life
+Behavior management
+Exercise/physical activity
+Home and community-based care and services
+Rdad
+LA  - eng
+N1  - 1758-5341
+Teri, Linda
+Logsdon, Rebecca G
+McCurry, Susan M
+Pike, Kenneth C
+McGough, Ellen L
+P30 AG034592/AG/NIA NIH HHS/United States
+R01 AG041716/AG/NIA NIH HHS/United States
+Clinical Trial
+Journal Article
+Research Support, N.I.H., Extramural
+United States
+2018/10/12
+Gerontologist. 2020 Apr 2;60(3):548-557. doi: 10.1093/geront/gny122.
+PY  - 2020
+SN  - 0016-9013 (Print)
+0016-9013
+SP  - 548-557
+ST  - Translating an Evidence-based Multicomponent Intervention for Older Adults With Dementia and Caregivers
+T2  - Gerontologist
+TI  - Translating an Evidence-based Multicomponent Intervention for Older Adults With Dementia and Caregivers
+VL  - 60
+ID  - 51263
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this study was to assess the effectiveness of a dog-assisted therapy intervention to enhance quality of life in persons with dementia institutionalized in a public care home and to study its effect on the use of psychotropic medications. A dog-assisted therapy intervention was designed, in which 34 residents of a public care home in Cuenca (Spain) participated. The participants were assigned to two groups, an experimental and a control group. The program consisted of one 50-min session per week during 9 months. Analysis of covariance (ANCOVA) was used to compare post-training values between groups, using baseline values as covariates. Our findings do seem to support the hypothesis that Animal-Assisted Therapy may contribute to enhancing quality of life for residents in an aged care home. However, aspects such as the format, time, and content of the sessions as well as their possibilities of reducing psychotropic medication require more research.
+AD  - Sociosanitary Research Center, Castilla-La Mancha University (UCLM), Cuenca, Spain.
+School of Economics and Business Administration, Sociosanitary Research Center, Castilla-La Mancha University (UCLM), Albacete, Spain.
+AN  - 31387390
+AU  - Briones, MÁ
+AU  - Pardo-García, I.
+AU  - Escribano-Sotos, F.
+DA  - Jan
+DO  - 10.1177/1054773819867250
+DP  - NLM
+ET  - 20190806
+IS  - 1
+KW  - Aged
+*Animal Assisted Therapy
+Animals
+Dementia/psychology/*therapy
+Dogs
+Homes for the Aged
+Humans
+Nursing Homes
+Outcome Assessment, Health Care
+*Quality of Life
+Spain
+dementia
+dog-assisted therapy
+institutionalization
+nursing care
+quality of life
+LA  - eng
+N1  - 1552-3799
+Briones, María Ángeles
+Orcid: 0000-0002-7516-681x
+Pardo-García, Isabel
+Escribano-Sotos, Francisco
+Controlled Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2019/08/08
+Clin Nurs Res. 2021 Jan;30(1):89-97. doi: 10.1177/1054773819867250. Epub 2019 Aug 6.
+PY  - 2021
+SN  - 1054-7738
+SP  - 89-97
+ST  - Effectiveness of a Dog-Assisted Therapy Program to Enhance Quality of Life in Institutionalized Dementia Patients
+T2  - Clin Nurs Res
+TI  - Effectiveness of a Dog-Assisted Therapy Program to Enhance Quality of Life in Institutionalized Dementia Patients
+VL  - 30
+ID  - 51254
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Although add-on transcranial direct current stimulation (tDCS) is a promising intervention for treating unipolar (UD) and bipolar depression (BD), its moderate antidepressant efficacy urges research into biomarkers for predicting therapeutic response and achieving highly targeted applications. METHODS: This open-label trial enrolled UD (N=58) and BD (N=22) patients who had failed 1 or more trials of adequate pharmacologic interventions (ClinicalTrials.gov ID: NCT03287037). Bifrontal tDCS (anode/cathode: F3/F4) was applied using a 2 mA current for 20 min, twice daily, for 5 consecutive weekdays. Depression was measured with Hamilton Depression Rating Scale-17 (HAMD) at baseline, after 10-session stimulation, 1- and 4-week follow-ups. Heart rate (HR) and heart rate variability (HRV) was measured at baseline, during the initial 5 min of the 1(st) session, after 10-session stimulation, 1- and 4-week follow-ups. Cognitive performance and other outcomes were also assessed. RESULTS: Bifrontal tDCS rapidly and equally improved depression in both groups. The effects persisted until the end of the trial. Both groups had similar improvements in cognitive performance, anxiety, and psychosocial functioning. Compared with baseline, increased vagally-mediated HRV was observed one month after tDCS for both groups. A positive correlation was found between HR deceleration within the 1(st) session and treatment response after 10-session tDCS only among UD patients, explaining 20% of the variance. CONCLUSION: tDCS as an adjunct therapy is effective for both UD and BD. Data suggest that the greater the increase in parasympathetic signaling during the 1(st) session, the better the clinical response after 10-session tDCS for UD patients.
+AD  - Department of Emergency Medicine, Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan; Department of Emergency Medicine, Taoyuan Armed Forces General Hospital, Taoyuan, Taiwan; Department of Life Sciences, National Central University, Taoyuan, Taiwan.
+Department of Psychiatry, Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan.
+Department of Life Sciences, National Central University, Taoyuan, Taiwan.
+Department of Psychiatry, Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan; Department of Psychiatry, Tri-Service General Hospital Songshan Branch, National Defense Medical Center, Taipei, Taiwan.
+Department of Psychiatry, Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan. Electronic address: chang.ha@mail.ndmctsgh.edu.tw.
+AN  - 33221715
+AU  - Lin, Y. Y.
+AU  - Chang, C. C.
+AU  - Huang, C. C.
+AU  - Tzeng, N. S.
+AU  - Kao, Y. C.
+AU  - Chang, H. A.
+DA  - Feb 1
+DO  - 10.1016/j.jad.2020.11.030
+DP  - NLM
+ET  - 20201111
+IS  - Pt A
+KW  - *Bipolar Disorder/therapy
+*Depressive Disorder, Major
+Double-Blind Method
+Humans
+Prefrontal Cortex
+*Transcranial Direct Current Stimulation
+Treatment Outcome
+Bipolar depression
+Dorsolateral prefrontal cortex
+Neurophysiological predictor
+Transcranial direct current stimulation
+Unipolar depression
+LA  - eng
+N1  - 1573-2517
+Lin, Yen-Yue
+Chang, Chuan-Chia
+Huang, Cathy Chia-Yu
+Tzeng, Nian-Sheng
+Kao, Yu-Chen
+Chang, Hsin-An
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2020/11/23
+J Affect Disord. 2021 Feb 1;280(Pt A):295-304. doi: 10.1016/j.jad.2020.11.030. Epub 2020 Nov 11.
+PY  - 2021
+SN  - 0165-0327
+SP  - 295-304
+ST  - Efficacy and neurophysiological predictors of treatment response of adjunct bifrontal transcranial direct current stimulation (tDCS) in treating unipolar and bipolar depression
+T2  - J Affect Disord
+TI  - Efficacy and neurophysiological predictors of treatment response of adjunct bifrontal transcranial direct current stimulation (tDCS) in treating unipolar and bipolar depression
+VL  - 280
+ID  - 51261
+ER  - 
+
+TY  - JOUR
+AB  - An important period in the care of patients with schizophrenia-spectrum disorders is when they transition from inpatient to outpatient services and are at increased risk for relapse and rehospitalization. Thus, we developed and examined the initial feasibility, acceptability, and clinical effects of an mHealth transitions of care intervention (Mobile After-Care Support; MACS) in an open trial. Ten adults with schizophrenia-spectrum disorders were recruited during their index psychiatric hospitalization and enrolled prior to discharge. Measures of feasibility, acceptability, and MACS targets were administered at baseline and a 1-month follow-up. Drawing on skills from Cognitive Behavioral Therapy for Psychosis (CBTp), MACS delivered brief assessments of clinically relevant variables, followed by just-in-time interventions for patients starting immediately post-discharge. Individuals completed about one session per day on average as expected. Overall, measures of MACS usability and satisfaction were positive. T-test analyses showed that dysfunctional coping strategies significantly decreased from baseline to 1-month follow-up. Results also revealed statistically significant reductions in psychiatric symptoms over 1-month follow-up. This study demonstrates the feasibility and acceptability of MACS, a new app-based intervention targeting transitions of care for patients with psychosis. The field is turning to the use of mobile technology as a means of augmenting service delivery and providing real-time assessment and intervention for patients at risk. MACS is a promising adjunctive intervention that warrants further testing in a randomized controlled trial.
+AD  - Department of Psychiatry and Human Behavior, Warren Alpert Medical School of Brown University, Providence, RI, 02912, USA. ethan_moitra@brown.edu.
+Psychosocial Research Program, Butler Hospital, Providence, RI, 02906, USA.
+Department of Psychiatry and Human Behavior, Warren Alpert Medical School of Brown University, Providence, RI, 02912, USA.
+Department of Behavioral and Social Sciences, Brown University School of Public Health, Providence, RI, 02912, USA.
+AN  - 32613525
+AU  - Moitra, E.
+AU  - Park, H. S.
+AU  - Gaudiano, B. A.
+C2  - PMC7775867
+C6  - NIHMS1608871
+DA  - Mar
+DO  - 10.1007/s11126-020-09792-9
+DP  - NLM
+IS  - 1
+KW  - Adult
+*Aftercare
+Female
+Humans
+Male
+*Patient Discharge
+Pilot Projects
+Psychotic Disorders/*therapy
+Schizophrenia/*therapy
+*Telemedicine
+Transitional Care
+Cognitive behavior therapy for psychosis
+Mobile technology
+Psychiatric hospitalization
+Psychosis
+Schizophrenia
+Treatment adherence
+LA  - eng
+N1  - 1573-6709
+Moitra, Ethan
+Orcid: 0000-0003-0801-6552
+Park, Hyun Seon
+Gaudiano, Brandon A
+R34 MH115144/MH/NIMH NIH HHS/United States
+Clinical Trial
+Journal Article
+United States
+2020/07/03
+Psychiatr Q. 2021 Mar;92(1):259-272. doi: 10.1007/s11126-020-09792-9.
+PY  - 2021
+SN  - 0033-2720 (Print)
+0033-2720
+SP  - 259-272
+ST  - Development and Initial Testing of an mHealth Transitions of Care Intervention for Adults with Schizophrenia-Spectrum Disorders Immediately Following a Psychiatric Hospitalization
+T2  - Psychiatr Q
+TI  - Development and Initial Testing of an mHealth Transitions of Care Intervention for Adults with Schizophrenia-Spectrum Disorders Immediately Following a Psychiatric Hospitalization
+VL  - 92
+ID  - 51265
+ER  - 
+
+TY  - JOUR
+AB  - Objective: Electroconvulsive therapy (ECT) is highly effective for treatment-resistant depression (TRD) but may be associated with adverse cognitive effects. Magnetic seizure therapy (MST) is a promising alternative convulsive treatment with a safer cognitive profile. Although there is emerging evidence for the efficacy of MST for TRD as an acute treatment, there are no published studies of continuation MST for the prevention of relapse. Methods: Patients with TRD with a DSM-IV diagnosis of major depressive disorder or bipolar disorder who met response criteria after acute MST were offered continuation MST in a prospective, open-label trial between February 2012 and June 2019. They received 12 continuation MST sessions with decreasing frequency over the course of 6 months, with additional booster sessions if their depression symptoms started to worsen. The primary outcome was relapse of depression or psychiatric hospitalization. Secondary outcomes included relapse of suicidal ideation and neurocognitive outcomes. Results: Thirty participants completing at least one assessment during continuation MST were included in the analysis; 10 (33.3%) relapsed, with no significant differences in survival distributions between unipolar and bipolar groups (χ(2) = 0.3, P = .58). Mean (SD) survival time was 18.6 (1.6) weeks. All 17 participants who achieved resolution of baseline suicidality after acute MST remained free of suicidality during the continuation phase. Except for improvement in verbal fluency, neurocognitive test scores did not change during continuation MST. Conclusions: During 6 months of continuation MST, two-thirds of participants sustained improvements in depressive symptoms without any adverse cognitive effects. Future studies of continuation MST are warranted, particularly in comparison to ECT. Trial Registration: ClinicalTrials.gov identifier: NCT01596608.
+AD  - Temerty Centre for Therapeutic Brain Intervention, Centre for Addiction and Mental Health, Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada.
+Institute of Medical Science and Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada.
+Neurocognitive Research Laboratory, Department of Psychiatry, University of Texas Southwestern Medical Center, Dallas, Texas.
+Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine, Durham, North Carolina.
+Centre for Mental Health and Krembil Research Institute, University Health Network, Department of Psychiatry, University of Toronto, Toronto, Ontario, Canada.
+Epworth Centre for Innovation in Mental Health, Epworth Healthcare and Monash University Department of Psychiatry, Camberwell, Victoria, Australia.
+Department of Psychiatry, UC San Diego Health, La Jolla, California.
+Corresponding author: Zafiris J. Daskalakis, MD, PhD, Department of Psychiatry, UC San Diego Health, 9500 Gilman Drive, La Jolla CA 92093-0603 (zdaskalakis@health.ucsd.edu).
+AN  - 34670025
+AU  - Tang, V. M.
+AU  - Blumberger, D. M.
+AU  - Throop, A.
+AU  - McClintock, S. M.
+AU  - Voineskos, D.
+AU  - Downar, J.
+AU  - Knyahnytska, Y.
+AU  - Mulsant, B. H.
+AU  - Fitzgerald, P. B.
+AU  - Daskalakis, Z. J.
+DA  - Oct 19
+DO  - 10.4088/JCP.20m13677
+DP  - NLM
+ET  - 20211019
+IS  - 6
+KW  - *Bipolar Disorder/complications/psychology
+Continuity of Patient Care
+*Depressive Disorder, Major/complications/psychology
+*Depressive Disorder, Treatment-Resistant/diagnosis/psychology/therapy
+Diagnostic and Statistical Manual of Mental Disorders
+Female
+Humans
+Male
+Mental Status and Dementia Tests
+Middle Aged
+Outcome Assessment, Health Care
+Patient Selection
+Psychiatric Status Rating Scales
+*Secondary Prevention/methods/statistics & numerical data
+Suicidal Ideation
+*Transcranial Magnetic Stimulation/adverse effects/methods/statistics & numerical
+data
+Verbal Behavior
+LA  - eng
+N1  - 1555-2101
+Tang, Victor M
+Blumberger, Daniel M
+Throop, Alanah
+McClintock, Shawn M
+Voineskos, Daphne
+Downar, Jonathan
+Knyahnytska, Yuliya
+Mulsant, Benoit H
+Fitzgerald, Paul B
+Daskalakis, Zafiris J
+Clinical Trial
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/10/21
+J Clin Psychiatry. 2021 Oct 19;82(6):20m13677. doi: 10.4088/JCP.20m13677.
+PY  - 2021
+SN  - 0160-6689
+ST  - Continuation Magnetic Seizure Therapy for Treatment-Resistant Unipolar or Bipolar Depression
+T2  - J Clin Psychiatry
+TI  - Continuation Magnetic Seizure Therapy for Treatment-Resistant Unipolar or Bipolar Depression
+VL  - 82
+ID  - 51257
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: As there is currently no pharmacological treatment for Parkinson's Disease Mild Cognitive Impairment (PD-MCI) with executive dysfunctions, specific cognitive interventions must be investigated. Most previous studies have tested bottom-up cognitive training programs but have not shown very good results. OBJECTIVES: The aim of this study was to test ease of implementation, differential safety and preliminary efficacy of two top-down (strategy-learning) home-based, individualized, cognitive interventions: Goal Management Training (GMT), adapted for PD-MCI (Adapted-GMT), and a psychoeducation program combined with mindfulness exercises (PSYCH-Mind). METHODS: This was a single-blind block-randomized between-group comparative study. Twelve PD-MCI with mild executive dysfunctions were divided in four blocks and randomly assigned to any of the two interventions. The participants were included if they had PD-MCI diagnosis (no dementia), with stabilized medication. Both groups (Adapted-GMT and PSYCH-mind) received five intervention sessions each lasting 60-90 minutes for five weeks. Measures were collected at baseline, mid-point, one-week, four-week and 12-week follow-ups. Executive functions were assessed with the Dysexecutive questionnaire (DEX) and the Zoo Map Test (ZMT). Quality of life (QoL) and psychiatric symptoms were also evaluated. Repeated measures ANCOVAs (mixed linear analysis) were applied to all outcomes. RESULTS: There was one drop out, and both interventions were feasible and acceptable. Despite the small sample size limiting statistical power, patients of both groups significantly improved executive functions per the DEX-patient (Time: F(4,36) = 2.96, p = 0.033, CI95%: 10.75-15.23) and DEX-caregiver scores (Time: F(4,36) = 6.02, p = 0.017, CI95%: 9.63-17.23). Both groups significantly made fewer errors between measurement times on the ZMT (Time: F(3,36) = 16.66, p = 0.001, CI95%: 1.07-2.93). However, QoL significantly increased only in PSYCH-Mind patients at four-week follow-up (interaction Time*Group: F(4,36) = 5.31, p = 0.002, CI95%: 15.33-25.61). CONCLUSION: Both interventions were easily implemented and proved to be safe. Because both interventions are arguably cost-effective, these pilot findings, although promising, need to be replicated in large samples. CLINICALTRIALS.GOV IDENTIFIER: NCT04636541.
+AD  - School of Psychology, Laval University, Quebec City, Canada.
+Department of Medicine, Faculty of Medicine, Laval University, Quebec City, Canada.
+Axe Neurosciences du CHU de Québec, Université Laval, Québec, Quebec City, Canada.
+AN  - 35180229
+AU  - Giguère-Rancourt, A.
+AU  - Plourde, M.
+AU  - Racine, E.
+AU  - Couture, M.
+AU  - Langlois, M.
+AU  - Dupré, N.
+AU  - Simard, M.
+C1  - The authors have declared that no competing interests exist.
+C2  - PMC8856541
+DO  - 10.1371/journal.pone.0263108
+DP  - NLM
+ET  - 20220218
+IS  - 2
+KW  - Aged
+Caregivers
+Cognitive Dysfunction/*complications/physiopathology/*therapy
+*Executive Function
+Feasibility Studies
+Female
+Follow-Up Studies
+*Goals
+Humans
+Male
+Middle Aged
+Mindfulness/*methods
+Parkinson Disease/*complications/physiopathology/*therapy
+Pilot Projects
+Psychosocial Support Systems
+Quality of Life
+Random Allocation
+Self Report
+Single-Blind Method
+Treatment Outcome
+LA  - eng
+N1  - 1932-6203
+Giguère-Rancourt, Ariane
+Orcid: 0000-0002-2915-4914
+Plourde, Marika
+Racine, Eva
+Couture, Marianne
+Langlois, Mélanie
+Dupré, Nicolas
+Orcid: 0000-0001-7270-6115
+Simard, Martine
+Clinical Trial
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2022/02/19
+PLoS One. 2022 Feb 18;17(2):e0263108. doi: 10.1371/journal.pone.0263108. eCollection 2022.
+PY  - 2022
+SN  - 1932-6203
+SP  - e0263108
+ST  - Goal management training and psychoeducation / mindfulness for treatment of executive dysfunction in Parkinson's disease: A feasibility pilot trial
+T2  - PLoS One
+TI  - Goal management training and psychoeducation / mindfulness for treatment of executive dysfunction in Parkinson's disease: A feasibility pilot trial
+VL  - 17
+ID  - 51275
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: In manualized family-based treatment (FBT) for eating disorders, phase 1 of the 3-phase treatment-during which parents are put in control of eating-related issues-is perhaps the most critical phase, and is comprehensively addressed in the manual. Phase 2, during which control over eating is gradually returned to the patient, is more variable and the manual dedicates less space to this phase. The purpose of the current exploratory study was to assess Phase 2 practices of clinicians providing FBT and to compare these practices to the guidance offered in the manual. METHODS: In the current study, a survey assessing Phase 2 practices was sent to clinicians. Twenty-seven providers responded. Two providers reported that they did not provide FBT in an outpatient setting. One reported not currently providing outpatient FBT but had in the past. The remaining providers were currently providing FBT in an outpatient setting. RESULTS: No items addressing the core interventions of Phase 2, including encouraging age-appropriate independent eating, were endorsed by 100% of respondents as being addressed 100% of the time in Phase 2. CONCLUSION: Responses reflected some adherence to the manual, along with examples of therapist drift and incorporation of therapeutic interventions that are not described in the FBT manual. Adherence to manualized treatments may improve outcome for some patients, while allowing for flexibility to address clinical situations that are not addressed in the manual. LEVEL OF EVIDENCE: V. Opinions of respected authorities, based on descriptive studies, narrative reviews, clinical experience, or reports of expert committees.
+AD  - Private Practice, New York, NY, USA.
+Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY, USA.
+Private Practice, Los Angeles, CA, USA.
+Eating Recovery Center and Pathlight Mood and Anxiety Centers, 333 N. Michigan Avenue, Ste. 1900, Chicago, IL, 60601, USA. renee.rienecke@ercpathlight.com.
+Department of Psychiatry and Behavioral Sciences, Northwestern University, Chicago, IL, USA. renee.rienecke@ercpathlight.com.
+AN  - 35076903
+AU  - Jacobs, S.
+AU  - Muhlheim, L.
+AU  - Rienecke, R. D.
+DA  - Aug
+DO  - 10.1007/s40519-022-01360-3
+DP  - NLM
+ET  - 20220125
+IS  - 6
+KW  - Ambulatory Care
+*Anorexia Nervosa/therapy
+Family Therapy
+*Feeding and Eating Disorders/diagnosis/therapy
+Humans
+Parents
+Treatment Outcome
+Adolescents
+Anorexia nervosa
+Eating disorders
+Family-based treatment
+Phase 2
+Therapist drift
+LA  - eng
+N1  - 1590-1262
+Jacobs, Stephanie
+Muhlheim, Lauren
+Rienecke, Renee D
+Orcid: 0000-0003-0423-7403
+Clinical Trial, Phase II
+Journal Article
+Germany
+2022/01/26
+Eat Weight Disord. 2022 Aug;27(6):2137-2142. doi: 10.1007/s40519-022-01360-3. Epub 2022 Jan 25.
+PY  - 2022
+SN  - 1124-4909
+SP  - 2137-2142
+ST  - Phase 2 of family-based treatment: an exploratory assessment of clinician practices
+T2  - Eat Weight Disord
+TI  - Phase 2 of family-based treatment: an exploratory assessment of clinician practices
+VL  - 27
+ID  - 51272
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Anorexia nervosa (AN) is a life-threatening illness. Sometimes long inpatient treatment is necessary, increasing the anxiety that comes with hospitalization and the necessary weight gain. Safe, non-pharmacological adjunctive therapies that improve subjective health are called for. OBJECTIVE: The aim of this non-randomized, mixed-methods observational study was to describe the utilization rate and nurses' experiences of ear acupuncture in a highly specialized clinic for eating disorders in Sweden, in which acupuncture had been implemented as part of routine clinical care. Twenty-five patients with AN-treated voluntarily or by law were included. The semi-standardized National Acupuncture Detoxification Association (NADA) ear acupuncture protocol, sometimes combined with needling at 2 traditional acupuncture point locations on the body, had been implemented as a voluntary adjunct to usual care, twice weekly. To evaluate the acceptance of acupuncture, the study examined how often patients chose acupuncture when offered on schedule, and how often they asked for extra acupuncture sessions. Patients rated their subjective health using the hospital anxiety and depression scale (HADS) and visual analogue scale (VAS), treatment satisfaction with usual care and acupuncture, and health-related quality of life with the RAND36 instrument. A credibility/expectancy questionnaire (CEQ) was used to measure confidence in treatment. Body mass index (BMI) was calculated to follow the patients' recovery. Nurses' experiences of giving acupuncture as a part of routine care were captured in interviews, and analysed with content analysis. Ethical approval was obtained. RESULTS: Despite an initially moderate level of trust in acupuncture, the utilization rate of the scheduled acupuncture was 89% and patients asked for extra acupuncture sessions on 28 occasions. No serious side effects were reported. Nurses' experiences of providing acupuncture were positive. They were generally enthusiastic, although they reported finding it difficult to organize group treatments and to find time for acupuncture sessions if they were not scheduled. CONCLUSION: Further research into the effectiveness and costs of acupuncture in psychiatric care is needed. This study provides relevant information for clinicians as well as researchers planning future randomized controlled trials.
+AD  - Department of Health Sciences, Faculty of Medicine, Lund University, Lund, Sweden.
+Psychiatric Clinic in Lund, Office of Psychiatry and Habilitation, Region Skåne, Lund, Sweden.
+AN  - 34894769
+AU  - Landgren, K.
+DA  - Aug
+DO  - 10.1177/09645284211056948
+DP  - NLM
+ET  - 20211211
+IS  - 4
+KW  - *Acupuncture, Ear
+*Anorexia Nervosa/psychology/therapy
+Clinical Protocols
+Humans
+*Nurses
+Observational Studies as Topic
+Quality of Life
+Nada
+anorexia nervosa
+ear acupuncture
+eating disturbances
+nurses’ experience
+utilization rate
+LA  - eng
+N1  - 1759-9873
+Landgren, Kajsa
+Orcid: 0000-0002-5595-5774
+Clinical Trial
+Journal Article
+England
+2021/12/14
+Acupunct Med. 2022 Aug;40(4):322-332. doi: 10.1177/09645284211056948. Epub 2021 Dec 11.
+PY  - 2022
+SN  - 0964-5284
+SP  - 322-332
+ST  - Ear acupuncture as an adjunct in a treatment protocol for anorexia nervosa: utilization rate and nurses' experience
+T2  - Acupunct Med
+TI  - Ear acupuncture as an adjunct in a treatment protocol for anorexia nervosa: utilization rate and nurses' experience
+VL  - 40
+ID  - 51279
+ER  - 
+

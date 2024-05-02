@@ -1,0 +1,2157 @@
+﻿TY  - JOUR
+AB  - Six patients with a family history of Huntington's chorea (HC) participated in a double blind crossover trial involving four treatments--lithium carbonate, haloperidol, lithium carbonate and haloperidol, and placebo. Each treatment was administered for three weeks and, at the end of each treatment period, assessments were made of chorea and a number of psychological variables. None of the treatments significantly affected chorea measurements. With regard to the psychological variables, the levels of irritability, the frequency of angry outbursts and depression did appear to be affected in some patients by the treatment. Three patients improved on a combination of lithium carbonate and haloperidol while the remaining three did not. Haloperidol alone significantly raised depression ratings above levels for other treatments including placebo. It is suggested that lithium carbonate and haloperidol together should be seriously considered in the treatment of HC when patients are excessively irritable and impulsive.
+AN  - rayyan-1277750220
+AU  - Leonard, D. P.
+AU  - Kidson, M. A.
+AU  - Brown, J. G.
+AU  - Shannon, P. J.
+AU  - Taryan, S.
+C1  - Leonard, D P Kidson, M A Brown, J G Shannon, P J Taryan, S Clinical Trial Comparative Study Journal Article Randomized Controlled Trial England 1975/06/01 Aust N Z J Psychiatry. 1975 Jun;9(2):115-8. doi: 10.3109/00048677509159834. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1975-6
+DO  - doi:10.3109/00048677509159834
+IS  - 2
+KW  - Anger/drug effects
+Carbonates/administration & dosage/pharmacology/therapeutic use
+Clinical Trials as Topic
+Depression/complications/drug therapy
+Depression, Chemical
+Drug Therapy, Combination
+Female
+Haloperidol/administration & dosage/pharmacology/*therapeutic use
+Humans
+Huntington Disease/complications/*drug therapy/physiopathology
+Lithium/administration & dosage/pharmacology/*therapeutic use
+Placebos
+LA  - eng
+PY  - 1975
+SN  - 0004-8674 (Print) 0004-8674
+SP  - 115-8
+ST  - A double blind trial of lithium carbonate and haloperidol in Huntington's chorea
+T2  - Aust N Z J Psychiatry
+TI  - A double blind trial of lithium carbonate and haloperidol in Huntington's chorea
+VL  - 9
+ID  - 50770
+ER  - 
+
+TY  - JOUR
+AB  - In a double-blind placebo-controlled study, deanol acetamidobenzoate, administered in doses up to 1.5 g q.d. for three weeks to chronic schizophrenic patients presenting moderate to severe tardive dyskinesia, failed to alleviate the dyskinetic movements. However, there was a tendency for a significant increase in the schizophrenic symptoms of the deanol-treated group relative to the control group. The ineffectiveness of deanol in alleviating tardive dyskinesia is consistent with its inability to enhance brain acetylcholine synthesis. The worsening of the schizophrenic symptoms may possibly result from an interference by deanol with central cholinergic function.
+AN  - rayyan-1277750254
+AU  - de Montigny, C.
+AU  - Chouinard, G.
+AU  - Annable, L.
+C1  - de Montigny, C Chouinard, G Annable, L Clinical Trial Controlled Clinical Trial Journal Article Randomized Controlled Trial Germany 1979/11/01 Psychopharmacology (Berl). 1979 Nov;65(3):219-23. doi: 10.1007/BF00492207. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1979-11
+DO  - doi:10.1007/bf00492207
+IS  - 3
+KW  - Adult
+Aged
+Clinical Trials as Topic
+Deanol/adverse effects/*therapeutic use
+Double-Blind Method
+Dyskinesia, Drug-Induced/*drug therapy
+Ethanolamines/*therapeutic use
+Female
+Humans
+Male
+Middle Aged
+Placebos
+Psychiatric Status Rating Scales
+Schizophrenia/complications
+LA  - eng
+PY  - 1979
+SN  - 0033-3158 (Print) 0033-3158
+SP  - 219-23
+ST  - Ineffectiveness of deanol in tardive dyskinesia: a placebo controlled study
+T2  - Psychopharmacology (Berl)
+TI  - Ineffectiveness of deanol in tardive dyskinesia: a placebo controlled study
+VL  - 65
+ID  - 50771
+ER  - 
+
+TY  - JOUR
+AB  - Pimozide, a specific dopamine blocking agent, was compared with chlorpromazine in a 4-week double-blind study of the treatment of 40 schizophrenic patients newly admitted to hospital through the emergency room. Dosage was adjusted according to therapeutic effect and during the final week ranged from 10--70 mg/day (median 30 mg/day) for pimozide and 600--1,500 mg/day (median 900 mg/day) for chlorpromazine. Pimozide was found to exert somewhat less of an overall therapeutic effect than chlorpromazine, particularly in highly agitated patients. Women responded better to either treatment than men. A weighted mean of the doses given to male and female patients during the final week suggests that in the treatment of acutely ill patients the mg dose equivalency of pimozide in terms of chlorpromazine is approximately 1:25, considerably lower than estimates from maintenance studies. Pimozide induced significantly more parkinsonian symptoms but less autonomic side effects than chlorpromazine. It is suggested that the weaker presynaptic dopamine blocking effect of pimozide might be responsible for its reduced potency in the treatment of acute schizophrenic symptoms.
+AN  - rayyan-1277750295
+AU  - Chouinard, G.
+AU  - Annable, L.
+C1  - Chouinard, G Annable, L Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Germany 1982/01/01 Psychopharmacology (Berl). 1982;76(1):13-9. doi: 10.1007/BF00430747. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1982
+DO  - doi:10.1007/bf00430747
+IS  - 1
+KW  - Acute Disease
+Adult
+Chlorpromazine/adverse effects/therapeutic use
+Double-Blind Method
+Dyskinesia, Drug-Induced/etiology
+Female
+Humans
+Male
+Middle Aged
+Parkinson Disease, Secondary/chemically induced
+Pimozide/adverse effects/*therapeutic use
+Prolactin/blood
+Psychiatric Status Rating Scales
+Schizophrenia/*drug therapy
+Schizophrenic Psychology
+LA  - eng
+PY  - 1982
+SN  - 0033-3158 (Print) 0033-3158
+SP  - 13-9
+ST  - Pimozide in the treatment of newly admitted schizophrenic patients
+T2  - Psychopharmacology (Berl)
+TI  - Pimozide in the treatment of newly admitted schizophrenic patients
+VL  - 76
+ID  - 50772
+ER  - 
+
+TY  - JOUR
+AB  - Fifty-nine anergically depressed patients were randomly assigned to 6 weeks of double-blind treatment with either tranylcypromine or placebo. Anergic major depression most typically occurs in primary bipolar and in pseudounipolar affective illnesses. We hypothesized that tranylcypromine would be a highly effective and rapid treatment for depressions of this type. Results of repeated measures analyses of variance showed superiority of active drug over placebo by the end of the first week, and this improvement increased in significance at each successive visit. Improvement on tranylcypromine after week 1 was greater than that on placebo after week 6. Analysis of covariance of week 6 scores (corrected for week 0 scores) showed significantly greater improvement for tranylcypromine patients on all measures of depressive symptomatology. Tranylcypromine is a rapid, relatively safe, and dramatically effective treatment for anergic depression. Since 24 of 29 of the bipolar subjects had previously failed to respond to tricyclics and since bipolar depression is usually anergic, tranylcypromine should be compared to imipramine to determine the antidepressant of choice for manic-depressive illness.
+AN  - rayyan-1277750300
+AU  - Himmelhoch, J. M.
+AU  - Fuchs, C. Z.
+AU  - Symons, B. J.
+C1  - Himmelhoch, J M Fuchs, C Z Symons, B J Clinical Trial Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 1982/10/01 J Nerv Ment Dis. 1982 Oct;170(10):628-34. doi: 10.1097/00005053-198210000-00007. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1982-10
+DO  - doi:10.1097/00005053-198210000-00007
+IS  - 10
+KW  - Adult
+Ambulatory Care
+Bipolar Disorder/drug therapy/psychology
+Clinical Trials as Topic
+Depressive Disorder/*drug therapy/psychology
+Double-Blind Method
+Female
+Humans
+Male
+Placebos
+Psychiatric Status Rating Scales
+Tranylcypromine/*therapeutic use
+LA  - eng
+PY  - 1982
+SN  - 0022-3018 (Print) 0022-3018
+SP  - 628-34
+ST  - A double-blind study of tranylcypromine treatment of major anergic depression
+T2  - J Nerv Ment Dis
+TI  - A double-blind study of tranylcypromine treatment of major anergic depression
+VL  - 170
+ID  - 50773
+ER  - 
+
+TY  - JOUR
+AB  - To test the effects of lecithin on cognitive deficits associated with Parkinson's disease, sixteen elderly and mentally-impaired outpatients with Parkinson's disease participated in a 9-week double-blind placebo-controlled study. Each patient took a daily dose of approximately 32 g of a commercial lecithin preparation containing 25% phosphatidylcholine, or an equivalent amount of powdered skim milk placebo. Marked clinical improvement was not observed, but some indications of a positive treatment effect were obtained on memory, cognition, and motility tests.
+AN  - rayyan-1277750316
+AU  - Tweedy, J. R.
+AU  - Garcia, C. A.
+C1  - Tweedy, J R Garcia, C A Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 1982/02/01 Eur J Clin Invest. 1982 Feb;12(1):87-90. doi: 10.1111/j.1365-2362.1982.tb00943.x. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1982-2
+DO  - doi:10.1111/j.1365-2362.1982.tb00943.x
+IS  - 1
+KW  - Aged
+Cognition Disorders/*drug therapy/etiology
+Double-Blind Method
+Humans
+Parkinson Disease/complications/*drug therapy
+Phosphatidylcholines/*therapeutic use
+Random Allocation
+LA  - eng
+PY  - 1982
+SN  - 0014-2972 (Print) 0014-2972
+SP  - 87-90
+ST  - Lecithin treatment of cognitively impaired Parkinson's patients
+T2  - Eur J Clin Invest
+TI  - Lecithin treatment of cognitively impaired Parkinson's patients
+VL  - 12
+ID  - 50774
+ER  - 
+
+TY  - JOUR
+AB  - In a controlled double-blind study, 78 patients with moderate senile dementia were randomly assigned to 3-months' treatment with 200 mg naftidrofuryl twice daily in slow-release form or with placebo. The patients were selected on the basis of the EACG (Echelle d'Appréciation Clinique en Gériatrie), which was also used as main criterion for confirmatory analysis of the efficacy of naftidrofuryl. A further main criterion was the SGRS (Stockton Geriatric Rating Scale). Secondary criteria examined were visual memory as tested in the Benton test, verbal memory as tested in the Rey test and numerical memory as tested in the digit-span test. The patients' concentration was tested in the Zazzo test. The tests were performed before the patients were admitted to the study and after 1 and 3-months' treatment. Confirmatory analysis of the primary criteria showed a significant treatment difference in favour of naftidrofuryl in the form of improvement in the global symptoms of senile dementia both in the EACG and in the SGRS, the scores in the naftidrofuryl group improving by 15% compared with only 5% in the placebo group. This was paralleled by a significant improvement in visual and verbal memory in the naftidrofuryl group in comparison with placebo. The naftidrofuryl patients also showed a greater improvement in concentration than the placebo group. One patient in the naftidrofuryl group suffered briefly from gastro-intestinal symptoms. There were no changes in routine laboratory parameters studied.
+AN  - rayyan-1277750692
+AU  - Saldmann, F.
+AU  - Funel, A.
+AU  - Jacquet, P.
+C1  - Saldmann, F Funel, A Jacquet, P Clinical Trial Journal Article Randomized Controlled Trial England 1991/01/01 Curr Med Res Opin. 1991;12(6):379-89. doi: 10.1185/03007999109111508. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1991
+DO  - doi:10.1185/03007999109111508
+IS  - 6
+KW  - Activities of Daily Living
+Administration, Oral
+Aged
+Dementia/diagnosis/*drug therapy
+Double-Blind Method
+Female
+Geriatric Assessment
+Humans
+Male
+Nafronyl/administration & dosage/adverse effects/*therapeutic use
+Neuropsychological Tests
+Time Factors
+LA  - eng
+PY  - 1991
+SN  - 0300-7995 (Print) 0300-7995
+SP  - 379-89
+ST  - Efficacy of naftidrofuryl in patients with moderate senile dementia
+T2  - Curr Med Res Opin
+TI  - Efficacy of naftidrofuryl in patients with moderate senile dementia
+VL  - 12
+ID  - 50775
+ER  - 
+
+TY  - JOUR
+AB  - One hundred and nine elderly patients suffering from mild to moderate cognitive impairment fulfilling NINCDS-ADRDA criteria for probable dementia of the Alzheimer type were treated for 6 months with a new nootropic drug, aniracetam (Ro 13-5057) in a double-blind randomized study versus placebo. The two treatment groups were comparable at baseline for demographic and behaviourial parameters and symptomatology. Patients underwent clinical, behaviourial and psychometric evaluation every other month. The aniracetam group differed significantly from the placebo group by the end of the study and also showed a statistically significant improvement versus baseline in the psychobehavioural parameters, while in the placebo group a steady deterioration was observed. Tolerability to aniracetam was excellent.
+AN  - rayyan-1277750696
+AU  - Senin, U.
+AU  - Abate, G.
+AU  - Fieschi, C.
+AU  - Gori, G.
+AU  - Guala, A.
+AU  - Marini, G.
+AU  - Villardita, C.
+AU  - Parnetti, L.
+C1  - Senin, U Abate, G Fieschi, C Gori, G Guala, A Marini, G Villardita, C Parnetti, L Clinical Trial Journal Article Multicenter Study Randomized Controlled Trial Netherlands 1991/12/01 Eur Neuropsychopharmacol. 1991 Dec;1(4):511-7. doi: 10.1016/0924-977x(91)90004-e. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1991-12
+DO  - doi:10.1016/0924-977x(91)90004-e
+IS  - 4
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/psychology
+Behavior/drug effects
+Double-Blind Method
+Female
+Humans
+Male
+Patient Compliance
+Psychiatric Status Rating Scales
+Pyrrolidinones/adverse effects/*therapeutic use
+LA  - eng
+PY  - 1991
+SN  - 0924-977X (Print) 0924-977x
+SP  - 511-7
+ST  - Aniracetam (Ro 13-5057) in the treatment of senile dementia of Alzheimer type (SDAT): results of a placebo controlled multicentre clinical study
+T2  - Eur Neuropsychopharmacol
+TI  - Aniracetam (Ro 13-5057) in the treatment of senile dementia of Alzheimer type (SDAT): results of a placebo controlled multicentre clinical study
+VL  - 1
+ID  - 50776
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: (1) To test whether early prophylactic antidepressive treatment by mianserin is able to prevent poststroke depression, and (2) to discover whether mianserin as an antidepressant has any beneficial influence on the outcome of ischaemic stroke. METHODS: A randomised, double blind, placebo controlled study involved 100 consecutive patients under 71 years old admitted to hospital for an acute ischaemic stroke; they were enrolled to receive 60 mg/day mianserin or placebo for 1 year. They were examined on admission, and at 2, 6, 12, and 18 months with depression, stroke, and functional outcome scales. RESULTS: According to DSM-III-R, the prevalence of major depression was 6% at the initial stage, 11% at 1 year, and 16% at 18 months. At no time point did prevalences differ between the treatment groups, nor were differences found in depression scales, although at 2 months a greater improvement from initial assessment on the Hamilton depression scale was evident in patients on mianserin (p=0.05). Some beneficial changes on the Hamilton depression scale and Beck depression inventory were found in patients older than 56 (median age) and in men treated with mianserin, but not in other subgroups. Mianserin treatment did not affect stroke outcome as measured by neurological status, nor did it have any influence on functional outcome as measured by Rankin scale or Barthel index. CONCLUSION: It was not possible to show that early initiation of antidepressant therapy can prevent poststroke depression, because the prevalence of poststroke depression remained low even in patients on placebo. In this stroke population with a low rate of depressive patients, antidepressive medical treatment failed to affect stroke outcome.
+AN  - rayyan-1277751711
+AU  - Palomäki, H.
+AU  - Kaste, M.
+AU  - Berg, A.
+AU  - Lönnqvist, R.
+AU  - Lönnqvist, J.
+AU  - Lehtihalmes, M.
+AU  - Hares, J.
+C1  - 1468-330x Palomäki, H Kaste, M Berg, A Lönnqvist, R Lönnqvist, J Lehtihalmes, M Hares, J Clinical Trial Journal Article Randomized Controlled Trial England 1999/04/14 J Neurol Neurosurg Psychiatry. 1999 Apr;66(4):490-4. doi: 10.1136/jnnp.66.4.490. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1999-4
+DO  - doi:10.1136/jnnp.66.4.490
+IS  - 4
+KW  - Adult
+Antidepressive Agents, Second-Generation/adverse effects/*therapeutic use
+Cerebrovascular Disorders/*complications
+Depression/epidemiology/etiology/*prevention & control
+Depressive Disorder/epidemiology/etiology/*prevention & control
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Male
+Mianserin/adverse effects/*therapeutic use
+Middle Aged
+Prevalence
+Treatment Outcome
+LA  - eng
+PY  - 1999
+SN  - 0022-3050 (Print) 0022-3050
+SP  - 490-4
+ST  - Prevention of poststroke depression: 1 year randomised placebo controlled double blind trial of mianserin with 6 month follow up after therapy
+T2  - J Neurol Neurosurg Psychiatry
+TI  - Prevention of poststroke depression: 1 year randomised placebo controlled double blind trial of mianserin with 6 month follow up after therapy
+VL  - 66
+ID  - 50778
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To assess the effects of rivastigmine on the core domains of Alzheimer's disease. DESIGN: Prospective, randomised, multicentre, double blind, placebo controlled, parallel group trial. Patients received either placebo, 1-4 mg/day (lower dose) rivastigmine, or 6-12 mg/day (higher dose) rivastigmine. Doses were increased in one of two fixed dose ranges (1-4 mg/day or 6-12 mg/day) over the first 12 weeks with a subsequent assessment period of 14 weeks. SETTING: 45 centres in Europe and North America. PARTICIPANTS: 725 patients with mild to moderately severe probable Alzheimer's disease diagnosed according to the Diagnostic and Statistical Manual of Mental Disorders, fourth edition, and the criteria of the National Institute of Neurological and Communicative Disorders and Stroke and the Alzheimer's Disease and Related Disorders Association. OUTCOME MEASURES: Cognitive subscale of the Alzheimer's disease assessment scale, rating on the clinician interview based impression of change incorporating caregiver information scale, and the progressive deterioration scale. RESULTS: At the end of the study cognitive function had deteriorated among those in the placebo group. Scores on the Alzheimer's disease assessment scale improved in patients in the higher dose group when compared with patients taking placebo (P<0.05). Significantly more patients in the higher dose group had improved by 4 points or more than had improved in the placebo group (24% (57/242) v 16% (39/238)). Global function as rated by the clinician interview scale had significantly improved among those in the higher dose group compared with those taking placebo (P<0.001), and significantly more patients in the higher dose group showed improvement than did in the placebo group (37% (80/219) v 20% (46/230)). Mean scores on the progressive deterioration scale improved from baseline in patients in the higher dose group but fell in the placebo group. Adverse events were predominantly gastrointestinal, of mild to moderate severity, transient, and occurred mainly during escalation of the dose. 23% (55/242) of those in the higher dose group, 7% (18/242) of those in the lower dose group, and 7% (16/239) of those in the placebo group discontinued treatment because of adverse events. CONCLUSIONS: Rivastigmine is well tolerated and effective. It improves cognition, participation in activities of daily living, and global evaluation ratings in patients with mild to moderately severe Alzheimer's disease. This is the first treatment to show compelling evidence of efficacy in a predominantly European population.
+AN  - rayyan-1277751723
+AU  - Rösler, M.
+AU  - Anand, R.
+AU  - Cicin-Sain, A.
+AU  - Gauthier, S.
+AU  - Agid, Y.
+AU  - Dal-Bianco, P.
+AU  - Stähelin, H. B.
+AU  - Hartman, R.
+AU  - Gharabawi, M.
+C1  - 1468-5833 Rösler, M Anand, R Cicin-Sain, A Gauthier, S Agid, Y Dal-Bianco, P Stähelin, H B Hartman, R Gharabawi, M Clinical Trial Comment Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't England 1999/03/05 BMJ. 1999 Mar 6;318(7184):633-8. doi: 10.1136/bmj.318.7184.633. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1999-3-6
+DO  - doi:10.1136/bmj.318.7184.633
+IS  - 7184
+KW  - Activities of Daily Living
+Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy
+Carbamates/*therapeutic use
+Cholinesterase Inhibitors/*therapeutic use
+Cognition Disorders/etiology
+Disease Progression
+Double-Blind Method
+Female
+Health Status
+Humans
+Male
+Middle Aged
+*Phenylcarbamates
+Prospective Studies
+Rivastigmine
+LA  - eng
+PY  - 1999
+SN  - 0959-8138 (Print) 0959-8138
+SP  - 633-8
+ST  - Efficacy and safety of rivastigmine in patients with Alzheimer's disease: international randomised controlled trial
+T2  - Bmj
+TI  - Efficacy and safety of rivastigmine in patients with Alzheimer's disease: international randomised controlled trial
+VL  - 318
+ID  - 50779
+ER  - 
+
+TY  - JOUR
+AB  - We evaluated the efficacy and safety of the centrally acting cholinesterase inhibitor, rivastigmine tartrate, for patients with mild to moderately severe Alzheimer's disease (AD) with or without concurrent vascular risk factors (VRF). Patients (45-90 years of age) were randomized to placebo (n = 235), low-dose rivastigmine (1-4 mg/day, n = 233), or high-dose rivastigmine (6-12 mg/day, n = 231) for 26 weeks. Efficacy measures included the Alzheimer's Disease Assessment Scale-Cognitive subscale (ADAS-Cog), the Clinician's Interview Based Impression of Change (CIBIC-Plus), the Progressive Deterioration Scale (PDS), the Global Deterioration Scale (GDS), and the Mini-Mental State Examination (MMSE). For efficacy and safety analysis, patients were categorized by baseline Modified Hachinski Ischemic Score (MHIS) for the determination of VRF (MHIS > 0: presence of VRF; MHIS = 0: absence of VRF). As early as 12 weeks, the mean change from the baseline ADAS-Cog score was significantly different for those patients treated with high-dose rivastigmine compared with placebo controls in both MHIS categories. However, the treatment difference between high-dose rivastigmine and placebo at each time-point was larger for patients with MHIS > 0. The proportion of responders was significantly greater in the high-dose rivastigmine group for each level of improvement. No differences were noted between treatment groups regarding safety evaluations. Rivastigmine is effective in both categories of patients, and those with VRF experience greater clinical benefit (cognition, activities of daily living, and disease severity).
+AN  - rayyan-1277751842
+AU  - Kumar, V.
+AU  - Anand, R.
+AU  - Messina, J.
+AU  - Hartman, R.
+AU  - Veach, J.
+C1  - Kumar, V Anand, R Messina, J Hartman, R Veach, J Clinical Trial Journal Article Randomized Controlled Trial England 2000/05/16 Eur J Neurol. 2000 Mar;7(2):159-69. doi: 10.1046/j.1468-1331.2000.00046.x. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2000-3
+DO  - doi:10.1046/j.1468-1331.2000.00046.x
+IS  - 2
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/psychology
+Carbamates/*administration & dosage/*adverse effects
+Cholinesterase Inhibitors/*administration & dosage/*adverse effects
+Dementia, Vascular/*drug therapy/psychology
+Female
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+*Phenylcarbamates
+Risk Factors
+Rivastigmine
+Treatment Outcome
+LA  - eng
+PY  - 2000
+SN  - 1351-5101 (Print) 1351-5101
+SP  - 159-69
+ST  - An efficacy and safety analysis of Exelon in Alzheimer's disease patients with concurrent vascular risk factors
+T2  - Eur J Neurol
+TI  - An efficacy and safety analysis of Exelon in Alzheimer's disease patients with concurrent vascular risk factors
+VL  - 7
+ID  - 50780
+ER  - 
+
+TY  - JOUR
+AB  - This intent-to-treat (ITT) analysis was performed to provide a realistic image of the efficacy that could be expected after 26 weeks treatment with a 120-mg dose (40 mg t.i.d.) of EGb 761 (EGb). The data were collected during a 52-week, double-blind, placebo-controlled, fixed dose, parallel-group, multicenter study. Patients were mildly to severely impaired and diagnosed with uncomplicated Alzheimer's disease or multi-infarct dementia according to ICD-10 and DSM-III-R criteria. The primary outcome measures included the Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog), Geriatric Evaluation by Relative's Rating Instrument (GERRI) and Clinical Global Impression of Change. From 309 patients included in the ITT analysis, 244 patients (76% for placebo and 73% for EGb) actually reached the 26th week visit. In comparison to the baseline values, the placebo group showed a statistically significant worsening in all domains of assessment, while the group receiving EGb was considered slightly improved on the cognitive assessment and the daily living and social behavior. Mean treatment differences favored EGb with 1.3 and 0.12 points, respectively, on the ADAS-Cog (p = 0.04) and the GERRI (p = 0.007). In the group receiving EGb, 26% of the patients achieved at least a 4-point improvement on the ADAS-Cog, compared to 17% with placebo (p = 0.04). On the GERRI, 30% of the EGb group improved and 17% worsened, while the placebo group showed an opposite trend with 37% of patients worsening for 25% improved (p = 0.006). Regarding safety, no differences between EGb and placebo were observed.
+AN  - rayyan-1277751845
+AU  - Le Bars, P. L.
+AU  - Kieser, M.
+AU  - Itil, K. Z.
+C1  - Le Bars, P L Kieser, M Itil, K Z Clinical Trial Journal Article Multicenter Study Randomized Controlled Trial Switzerland 2000/06/27 Dement Geriatr Cogn Disord. 2000 Jul-Aug;11(4):230-7. doi: 10.1159/000017242. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2000-7
+DO  - doi:10.1159/000017242
+IS  - 4
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy
+Cognition/*drug effects
+Dementia, Multi-Infarct/*drug therapy
+Disease Progression
+Double-Blind Method
+Female
+Flavonoids/pharmacology/*therapeutic use
+Ginkgo biloba/*therapeutic use
+Humans
+Male
+Middle Aged
+Neuroprotective Agents/pharmacology/*therapeutic use
+*Phytotherapy
+Plant Extracts/therapeutic use
+*Plants, Medicinal
+Severity of Illness Index
+Treatment Outcome
+LA  - eng
+PY  - 2000
+SN  - 1420-8008 (Print) 1420-8008
+SP  - 230-7
+ST  - A 26-week analysis of a double-blind, placebo-controlled trial of the ginkgo biloba extract EGb 761 in dementia
+T2  - Dement Geriatr Cogn Disord
+TI  - A 26-week analysis of a double-blind, placebo-controlled trial of the ginkgo biloba extract EGb 761 in dementia
+VL  - 11
+ID  - 50781
+ER  - 
+
+TY  - JOUR
+AB  - Vascular dementia is a major cause of mental and physical disability in Western countries. Treatment of vascular dementia is currently based on the recognition and control of vascular risk factors, while specific drugs have not been approved yet. The aim of the present multinational, double-blind, placebo-controlled study was to evaluate the safety and efficacy of nimodipine administered for as long as 26 weeks in improving cognition or slowing cognitive deterioration in patients defined as having multi-infarct dementia (DSM-III-R criteria). Two hundred and fifty-nine patients were included (128 nimodipine, 131 placebo), and 251 were available for the intention-to-treat analysis. No significant difference between drug-treated and placebo patients was noted on the Gottfries-Brâne-Steen scale score (primary efficacy criterion), the remaining neuropsychological tests (Zahlen-Verbindungs-Test, Fuld-Object-Memory Evaluation, Word Fluency Test, Digit Span, Mini-Mental State Examination), and the functional scales (index of Activity of Daily Living, Instrumental Activity of Daily Living, Rapid Disability Scale, Clinical Dementia Rating), although the majority of changes were in favor of the active drug group. A lower incidence of cerebrovascular and cardiac events was observed in the nimodipine-treated patients in comparison with the placebo group. This study failed to show a significant effect of nimodipine on cognitive, social or global assessments in patients defined as affected by multi-infarct dementia according to the DSM-III-R criteria. A post-hoc analysis (presented in an accompanying paper) suggests that nimodipine may have a favorable effect in the subgroup of patients defined as affected by subcortical (small vessel) vascular dementia.
+AN  - rayyan-1277751865
+AU  - Pantoni, L.
+AU  - Bianchi, C.
+AU  - Beneke, M.
+AU  - Inzitari, D.
+AU  - Wallin, A.
+AU  - Erkinjuntti, T.
+C1  - Pantoni, L Bianchi, C Beneke, M Inzitari, D Wallin, A Erkinjuntti, T Clinical Trial Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't Netherlands 2000/06/01 J Neurol Sci. 2000 Apr 15;175(2):116-23. doi: 10.1016/s0022-510x(00)00301-4. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2000-4-15
+DO  - doi:10.1016/s0022-510x(00)00301-4
+IS  - 2
+KW  - Aged
+Aged, 80 and over
+Calcium Channel Blockers/adverse effects/*therapeutic use
+Cognition/drug effects
+Dementia, Multi-Infarct/*drug therapy/psychology
+Denmark
+Double-Blind Method
+Female
+Finland
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+Nimodipine/adverse effects/*therapeutic use
+Placebos
+Severity of Illness Index
+Sweden
+Vasodilator Agents/adverse effects/*therapeutic use
+LA  - eng
+PY  - 2000
+SN  - 0022-510X (Print) 0022-510x
+SP  - 116-23
+ST  - The Scandinavian Multi-Infarct Dementia Trial: a double-blind, placebo-controlled trial on nimodipine in multi-infarct dementia
+T2  - J Neurol Sci
+TI  - The Scandinavian Multi-Infarct Dementia Trial: a double-blind, placebo-controlled trial on nimodipine in multi-infarct dementia
+VL  - 175
+ID  - 50782
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Patients with Alzheimer disease (AD) commonly exhibit psychosis and behavioral disturbances that impair patient functioning, create caregiver distress, and lead to institutionalization. This study was conducted to assess the efficacy and safety of olanzapine in treating psychosis and/or agitation/aggression in patients with AD. METHODS: A multicenter, double-blind, placebo-controlled, 6-week study was conducted in 206 elderly US nursing home residents with AD who exhibited psychotic and/or behavioral symptoms. Patients were randomly assigned to placebo or a fixed dose of 5, 10, or 15 mg/d of olanzapine. The primary efficacy measure was the sum of the Agitation/Aggression, Hallucinations, and Delusions items (Core Total) of the Neuropsychiatric Inventory-Nursing Home version. RESULTS: Low-dose olanzapine (5 and 10 mg/d) produced significant improvement compared with placebo on the Core Total (-7.6 vs -3.7 [P<.001] and -6.1 vs -3. 7 [P =.006], respectively). Core Total improvement with olanzapine, 15 mg/d, was not significantly greater than placebo. The Occupational Disruptiveness score, reflecting the impact of patients' psychosis and behavioral disturbances on the caregiver, was significantly reduced in the 5-mg/d olanzapine group compared with placebo (-2.7 vs -1.5; P =.008). Somnolence was significantly more common among patients receiving olanzapine (25.0%-35.8%), and gait disturbance occurred in those receiving 5 or 15 mg/d (19.6% and 17.0%, respectively). No significant cognitive impairment, increase in extrapyramidal symptoms, or central anticholinergic effects were found at any olanzapine dose relative to placebo. CONCLUSION: Low-dose olanzapine (5 and 10 mg/d) was significantly superior to placebo and well tolerated in treating agitation/aggression and psychosis in this population of patients with AD.
+AN  - rayyan-1277751885
+AU  - Street, J. S.
+AU  - Clark, W. S.
+AU  - Gannon, K. S.
+AU  - Cummings, J. L.
+AU  - Bymaster, F. P.
+AU  - Tamura, R. N.
+AU  - Mitan, S. J.
+AU  - Kadam, D. L.
+AU  - Sanger, T. M.
+AU  - Feldman, P. D.
+AU  - Tollefson, G. D.
+AU  - Breier, A.
+C1  - Street, J S Clark, W S Gannon, K S Cummings, J L Bymaster, F P Tamura, R N Mitan, S J Kadam, D L Sanger, T M Feldman, P D Tollefson, G D Breier, A Clinical Trial Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2000/10/04 Arch Gen Psychiatry. 2000 Oct;57(10):968-76. doi: 10.1001/archpsyc.57.10.968. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2000-10
+DO  - doi:10.1001/archpsyc.57.10.968
+IS  - 10
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/psychology
+Antipsychotic Agents/*therapeutic use
+Behavioral Symptoms/*drug therapy/psychology
+Benzodiazepines
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Male
+Middle Aged
+*Nursing Homes
+Olanzapine
+Pirenzepine/*analogs & derivatives/*therapeutic use
+Placebos
+Psychotic Disorders/*drug therapy/psychology
+Treatment Outcome
+LA  - eng
+PY  - 2000
+SN  - 0003-990X (Print) 0003-990x
+SP  - 968-76
+ST  - Olanzapine treatment of psychotic and behavioral symptoms in patients with Alzheimer disease in nursing care facilities: a double-blind, randomized, placebo-controlled trial. The HGEU Study Group
+T2  - Arch Gen Psychiatry
+TI  - Olanzapine treatment of psychotic and behavioral symptoms in patients with Alzheimer disease in nursing care facilities: a double-blind, randomized, placebo-controlled trial. The HGEU Study Group
+VL  - 57
+ID  - 50783
+ER  - 
+
+TY  - JOUR
+AB  - A 24-week, double-blind, multi-center, randomised parallel group study compared the efficacy and safety of 800 mg bid cyclandelate with placebo in patients with mild to moderate dementia of primary degenerative or vascular origin. A total of 196 patients entered the study, 147 patients completed treatment in adherence with the protocol. Primary outcome measures were the cognitive score of the Alzheimer's Disease Assessment Scale (ADAS-Cog), the subscale Instrumental Activities of Daily Living of the Nurses' Observation Scale for Geriatric Patients (NOSGER-IADL) and the Clinical Global Impressions of Change (CGI-C). Safety assessments included adverse events, vital signs, ECG and clinical laboratory parameters. The primary efficacy results based on a multi-level responder analysis including ADAS-Cog, NOSGER-IADL and CGI-C failed to demonstrate statistical superiority of cyclandelate in comparison to placebo. The direction of changes favored cyclandelate in each of the variables, but the differences to placebo were small and varied considerably between patients and centers. Retrospective exploratory analyses suggested that efficacy of cyclandelate might be dependent on the severity of the disease. The treatment effects in favor of cyclandelate were statistically significant in the subgroup of moderately impaired patients (MMSE at baseline <18) for ADAS-Cog (delta = -4.0 points, p = 0.015) and CGI-C (delta = -0.4 points, p = 0.043) but not for NOSGER-IADL (delta = -1.6 points, p = 0.059). When patients were stepwise selected for the severity of the disease according to ADAS-Cog at baseline (>15, >20, >25 points), statistical significance was reached for ADAS-Cog and NOSGER-IADL beginning with the step ADAS-Cog >20 points: delta ADAS-Cog = -3.9 points, p = 0.044; delta NOSGER-IADL = -1.0, p = 0.023. The treatment differences increased further with the step ADAS-Cog >25 points: delta ADAS-Cog = -7.0 points, p = 0.008; delta NOSGER-IADL = -1.7, p = 0.003. Treatment differences in CGI-C increased marginally with the stepwise selection but did not reach statistical significance. The drug was safe and well tolerated.
+AN  - rayyan-1277751910
+AU  - Weyer, G.
+AU  - Eul, A.
+AU  - Milde, K.
+AU  - Wierich, W.
+AU  - Herrmann, W. M.
+C1  - Weyer, G Eul, A Milde, K Wierich, W Herrmann, W M Clinical Trial Journal Article Multicenter Study Randomized Controlled Trial Germany 2000/06/16 Pharmacopsychiatry. 2000 May;33(3):89-97. doi: 10.1055/s-2000-7978. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2000-5
+DO  - doi:10.1055/s-2000-7978
+IS  - 3
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/psychology
+Cyclandelate/adverse effects/*therapeutic use
+Dementia, Vascular/*drug therapy/psychology
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Placebos
+Vasodilator Agents/adverse effects/*therapeutic use
+LA  - eng
+PY  - 2000
+SN  - 0176-3679 (Print) 0176-3679
+SP  - 89-97
+ST  - Cyclandelate in the treatment of patients with mild to moderate primary degenerative dementia of the Alzheimer type or vascular dementia: experience from a placebo controlled multi-center study
+T2  - Pharmacopsychiatry
+TI  - Cyclandelate in the treatment of patients with mild to moderate primary degenerative dementia of the Alzheimer type or vascular dementia: experience from a placebo controlled multi-center study
+VL  - 33
+ID  - 50784
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine the effects of cholinergic treatment on the muscarinic receptor in patients with Alzheimer's disease. METHODS: 12 patients with mild to moderate Alzheimer's disease and six controls were studied. The patients underwent ADAS-COG psychometric assessment and SPECT brain imaging with (123)I quinuclidinyl benzilate (QNB), to demonstrate the postsynaptic muscarinic M1 receptor, before being randomised in a double blind study to receive either an acetylcholinesterase inhibitor (donepezil) or placebo for four months. Following this, the ADAS-COG and the (123)I-QNB receptor scan were repeated. The controls were imaged on one occasion only. All image analyses were undertaken using SPM99. RESULTS: (123)I-QNB imaging showed a significant relation between baseline psychometric impairment and deficits on scanning. Both placebo and actively treated groups had reductions in (123)I-QNB uptake. Greater reductions in receptor binding were demonstrated in the placebo group than in those receiving active treatment. Intraindividual reproducibility of the (123)I-QNB imaging technique appeared highly robust. CONCLUSIONS: The results suggest that (123)I-QNB uptake is better preserved in Alzheimer's disease patients on cholinergic treatment than on placebo. Cholinergic treatment may play a neuroprotective role. Sequential (123)I-QNB imaging seems to be a powerful tool in monitoring the response of these receptors to disease modifying treatments.
+AN  - rayyan-1277752333
+AU  - Kemp, P. M.
+AU  - Holmes, C.
+AU  - Hoffmann, S.
+AU  - Wilkinson, S.
+AU  - Zivanovic, M.
+AU  - Thom, J.
+AU  - Bolt, L.
+AU  - Fleming, J.
+AU  - Wilkinson, D. G.
+C1  - 1468-330x Kemp, P M Holmes, C Hoffmann, S Wilkinson, S Zivanovic, M Thom, J Bolt, L Fleming, J Wilkinson, D G Clinical Trial Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2003/11/18 J Neurol Neurosurg Psychiatry. 2003 Nov;74(11):1567-70. doi: 10.1136/jnnp.74.11.1567. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2003-11
+DO  - doi:10.1136/jnnp.74.11.1567
+IS  - 11
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/*physiopathology
+Cholinesterase Inhibitors/pharmacology/*therapeutic use
+Donepezil
+Double-Blind Method
+Female
+Humans
+Indans/pharmacology/*therapeutic use
+Iodine Radioisotopes
+Male
+Middle Aged
+Muscarinic Antagonists/*pharmacokinetics
+Piperidines/pharmacology/*therapeutic use
+Placebos
+Psychometrics
+Quinuclidinyl Benzilate/*pharmacokinetics
+Sensitivity and Specificity
+Severity of Illness Index
+Tomography, Emission-Computed, Single-Photon
+Treatment Outcome
+LA  - eng
+PY  - 2003
+SN  - 0022-3050 (Print) 0022-3050
+SP  - 1567-70
+ST  - A randomised placebo controlled study to assess the effects of cholinergic treatment on muscarinic receptors in Alzheimer's disease
+T2  - J Neurol Neurosurg Psychiatry
+TI  - A randomised placebo controlled study to assess the effects of cholinergic treatment on muscarinic receptors in Alzheimer's disease
+VL  - 74
+ID  - 50785
+ER  - 
+
+TY  - JOUR
+AB  - This double-blind, randomized, placebo-controlled study in epileptic children, aged 3 to 12 years, evaluated the effect of add-on melatonin on the sleep behavior of these children on sodium valproate monotherapy using a parental questionnaire. Of the 31 patients, 16 randomly received add-on melatonin, whereas 15 received add-on placebo. The questionnaire showed good internal consistency in our patient population (Cronbach's alpha = .83). The percentage decrease in the median total sleep score was 24.4 (range 0.0-34.9) in the valproate + melatonin group compared with 14.0 (range -2.2-18.8) in the valproate + placebo group, the difference being statistically significant (P < .05). The median percentage decrease in the parasomnias score was 60 (range 0.0-70.8) in the valproate + melatonin group compared with 36.4 (range 0.0-63.2) in the valproate + placebo group, the difference being statistically significant (P < .05). There was no significant difference between the percentage decrease in the daytime drowsiness scores and sleep fragmentation scores. Parent-child interaction subscale scores were not significantly different between age groups. The age at onset of seizures and the type of seizures did not correlate significantly to the total sleep scores. Given that sleep problems are known to complicate epilepsy, add-on melatonin, which has a wide safety window, can be of promise in the pharmacotherapy of pediatric epilepsy.
+AN  - rayyan-1277752779
+AU  - Gupta, M.
+AU  - Aneja, S.
+AU  - Kohli, K.
+C1  - Gupta, Madhur Aneja, Satinder Kohli, Kamlesh Clinical Trial Journal Article Randomized Controlled Trial United States 2005/03/30 J Child Neurol. 2005 Feb;20(2):112-5. doi: 10.1177/08830738050200020501. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2005-2
+DO  - doi:10.1177/08830738050200020501
+IS  - 2
+KW  - Anticonvulsants/*administration & dosage
+Child
+Child, Preschool
+Double-Blind Method
+Drug Therapy, Combination
+Epilepsies, Partial/*complications/drug therapy
+Epilepsy, Generalized/*complications/drug therapy
+Female
+Follow-Up Studies
+Humans
+Male
+Melatonin/*administration & dosage
+Sleep Wake Disorders/*drug therapy/etiology
+Surveys and Questionnaires
+Valproic Acid/*administration & dosage
+LA  - eng
+PY  - 2005
+SN  - 0883-0738 (Print) 0883-0738
+SP  - 112-5
+ST  - Add-on melatonin improves sleep behavior in children with epilepsy: randomized, double-blind, placebo-controlled trial
+T2  - J Child Neurol
+TI  - Add-on melatonin improves sleep behavior in children with epilepsy: randomized, double-blind, placebo-controlled trial
+VL  - 20
+ID  - 50786
+ER  - 
+
+TY  - JOUR
+AB  - The efficacy of a centrally active cholinesterase inhibitor, rivastigmine tartrate (ENA 713), in patients with advanced moderate Alzheimer's disease (AD) was evaluated in a 12-month placebo-controlled study. We aimed to investigate whether there was any evidence for the benefits of rivastigmine in patients with severe disease. These patients were compared with matched controls. In this study, 24 patients with advanced moderate AD received rivastigmine for 12 months. Another 20 patients received placebo. Mean daily doses of rivastigmine in the higher-dose group at 3, 6, 9, and 12 months were 6.1 +/- 1.0, 8.3 +/- 1.2, 8.9 +/- 1.3, and 10.7 +/- 1.6 mg/day, respectively. Cognitive abilities were assessed using the 11-item cognitive subscale of the Alzheimer Disease Assessment Scale (ADAS-cog). Forty-five percent of placebo-treated patients declined by at least 4 points on the ADAS-cog. Conversely, only 18.3% of patients treated with rivastigmine declined by 4 or more points. Functional disabilities, as assessed using the Disability Assessment for Dementia Scale, remained significantly superior in rivastigmine-treated patients compared with placebo-treated patients. Patients benefited from high-dose rivastigmine treatment on all outcome measures, including the Mini-Mental State Examination, Progressive Deterioration Scale, as well as the Global Deterioration Scale. Patients receiving rivastigmine for 12 months significantly improved compared with placebo-treated patients (p < 0.001). By 52 weeks, patients originally treated with 6-12 mg/day rivastigmine had a significantly better cognitive function than patients originally treated with placebo. Long-term rivastigmine treatment appeared to be well tolerated in patients with advanced moderate AD and significantly benefits the cognitive and functional symptoms of AD.
+AN  - rayyan-1277752802
+AU  - Karaman, Y.
+AU  - Erdoğan, F.
+AU  - Köseoğlu, E.
+AU  - Turan, T.
+AU  - Ersoy, A. O.
+C1  - Karaman, Yahya Erdoğan, Füsun Köseoğlu, Emel Turan, Tayfun Ersoy, Ali Ozdemir Clinical Trial Journal Article Randomized Controlled Trial Switzerland 2004/09/24 Dement Geriatr Cogn Disord. 2005;19(1):51-6. doi: 10.1159/000080972. Epub 2004 Sep 21. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2005
+DO  - doi:10.1159/000080972
+IS  - 1
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/diagnosis/*drug therapy
+Cholinesterase Inhibitors/*therapeutic use
+Disability Evaluation
+Dose-Response Relationship, Drug
+Female
+Follow-Up Studies
+Humans
+Male
+Mental Status Schedule
+Middle Aged
+Neuroprotective Agents/*therapeutic use
+Neuropsychological Tests
+Phenylcarbamates/*therapeutic use
+Rivastigmine
+Turkey
+LA  - eng
+PY  - 2005
+SN  - 1420-8008 (Print) 1420-8008
+SP  - 51-6
+ST  - A 12-month study of the efficacy of rivastigmine in patients with advanced moderate Alzheimer's disease
+T2  - Dement Geriatr Cogn Disord
+TI  - A 12-month study of the efficacy of rivastigmine in patients with advanced moderate Alzheimer's disease
+VL  - 19
+ID  - 50787
+ER  - 
+
+TY  - JOUR
+AB  - This randomized, double-blind, placebo-controlled UK trial evaluated the effect of topiramate as add-on therapy on seizure frequency, seizure severity, and quality of life in patients with epilepsy and intellectual disability. There were three phases: 4 weeks baseline, 18 weeks titration to 200-400 mg topiramate/day (adults) or 5-9 mg/kg/day (children), 12 weeks maintenance. Recruitment was low (88/120); analyses were underpowered. Seizure frequency varied enormously (median 17.7, maximum 1706.2). There was no significant difference in reduction in mean total seizure frequency or number of responders between the groups. Topiramate reduced seizure frequency by >30% from baseline (placebo 1%); post hoc analyses showed a trend toward significance (R ratio, P=0.052). There were no significant differences between the groups with respect to mean seizure severity or other outcome measures. Topiramate was generally well tolerated; body weight (P=0.015) and systolic blood pressure (P=0.043) were reduced. The study suggests that topiramate reduces seizure frequency in patients with epilepsy and intellectual disability without the added burden of behavior effects, and was potentially advantageous to physical well-being.
+AN  - rayyan-1277752805
+AU  - Kerr, M. P.
+AU  - Baker, G. A.
+AU  - Brodie, M. J.
+C1  - Kerr, Michael P Baker, Gus A Brodie, Martin J G9810900/MRC_/Medical Research Council/United Kingdom Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2005/09/06 Epilepsy Behav. 2005 Nov;7(3):472-80. doi: 10.1016/j.yebeh.2005.07.006. Epub 2005 Sep 2. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2005-11
+DO  - doi:10.1016/j.yebeh.2005.07.006
+IS  - 3
+KW  - Adaptation, Psychological/physiology
+Adult
+Anticonvulsants/adverse effects/*therapeutic use
+Body Weight/drug effects
+Double-Blind Method
+Epilepsy/complications/*drug therapy/*psychology
+Female
+Fructose/adverse effects/*analogs & derivatives/therapeutic use
+Humans
+Intellectual Disability/complications/*psychology
+Intelligence Tests
+Male
+Neuropsychological Tests
+*Quality of Life
+Seizures/*physiopathology/*prevention & control
+Sex Characteristics
+Topiramate
+LA  - eng
+PY  - 2005
+SN  - 1525-5050 (Print) 1525-5050
+SP  - 472-80
+ST  - A randomized, double-blind, placebo-controlled trial of topiramate in adults with epilepsy and intellectual disability: impact on seizures, severity, and quality of life
+T2  - Epilepsy Behav
+TI  - A randomized, double-blind, placebo-controlled trial of topiramate in adults with epilepsy and intellectual disability: impact on seizures, severity, and quality of life
+VL  - 7
+ID  - 50788
+ER  - 
+
+TY  - JOUR
+AB  - A double-blind, placebo-controlled study with a subsequent open-label phase was conducted in 354 patients with Parkinson's disease (PD) and motor fluctuations under individually adjusted therapy with levodopa. During the double-blind phase 174 patients received pramipexole and 180 placebo. In agreement with previous studies, pramipexole treatment improved UPDRS sum scores of parts II and III by 30% and off times by approximately 2.5 hours per day. Differences between the treatment groups became significant at a daily dose of 0.75 mg of pramipexole dihydrochloride. We, furthermore, performed post hoc analyses with respect to resting tremor and depression. Patients with pronounced resting tremor derived a clear benefit from pramipexole treatment compared with placebo. In addition, pramipexole significantly improved the subitems motivation/initiative and depression in a subpopulation with increased Unified Parkinson's Disease Rating Scale I scores at the time of inclusion. There were 262 patients who were subsequently enrolled into the open-label study featuring a maximum duration of up to 57 months. Statistical analysis revealed good long-term efficacy and tolerability of pramipexole. Overall, only a low prevalence of somnolence was found. In summary, this study provides additional level I evidence of the usefulness of pramipexole, suggests a particular tremorlytic and a possible antidepressant action of this compound, and addresses for the first time its efficacy and safety during long-term administration in advanced PD.
+AN  - rayyan-1277752835
+AU  - Möller, J. C.
+AU  - Oertel, W. H.
+AU  - Köster, J.
+AU  - Pezzoli, G.
+AU  - Provinciali, L.
+C1  - Möller, J Carsten Oertel, Wolfgang H Köster, Jürgen Pezzoli, Gianni Provinciali, Leandro Clinical Trial Journal Article Multicenter Study Randomized Controlled Trial United States 2005/02/24 Mov Disord. 2005 May;20(5):602-10. doi: 10.1002/mds.20397. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2005-5
+DO  - doi:10.1002/mds.20397
+IS  - 5
+KW  - Aged
+Antiparkinson Agents/adverse effects/*therapeutic use
+Benzothiazoles
+Demography
+Depression/epidemiology
+Disorders of Excessive Somnolence/epidemiology
+Double-Blind Method
+Drug Administration Schedule
+Female
+Humans
+Male
+Parkinson Disease/*drug therapy/epidemiology
+Pramipexole
+Severity of Illness Index
+Thiazoles/adverse effects/*therapeutic use
+Tremor/epidemiology
+LA  - eng
+PY  - 2005
+SN  - 0885-3185 (Print) 0885-3185
+SP  - 602-10
+ST  - Long-term efficacy and safety of pramipexole in advanced Parkinson's disease: results from a European multicenter trial
+T2  - Mov Disord
+TI  - Long-term efficacy and safety of pramipexole in advanced Parkinson's disease: results from a European multicenter trial
+VL  - 20
+ID  - 50789
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Poststroke depression is a frequent condition and important to treat. The aim of this trial was to study the efficacy and tolerability of sertraline. METHOD: In 4 Swedish stroke centers, 123 patients (aged 70.7 +/- 9.9 years) were enrolled during the period September 1998 to January 2001 in a randomized, double-blind, placebo-controlled 26-week trial, at a mean of 128 +/- 97 days (range, 3-375 days) after stroke, if they fulfilled DSM-IV criteria of major depressive episode (N = 76) or minor depressive disorder (N = 47). The primary efficacy variable was a change in depression assessed by the Montgomery-Asberg Depression Rating Scale. The Emotional Distress Scale (EDS) was administered and the occurrence of emotionalism and quality of life (QoL) were assessed, as well as neurologic recovery. Efficacy analyses were intention-to-treat, short-term (week 6) and long-term (week 26). RESULTS: Of the 123 patients, 62 were treated with sertraline (50-100 mg/day) and 61 with placebo. Both groups improved substantially, with no differences between the treatments, either for major depressive episode or minor depressive disorder, or for short- or long-term antidepressant effect and neurologic outcome. EDS revealed a better outcome with sertraline at week 6 (p < .05). At week 26, the improvement in QoL was better in sertraline patients (p < .05) and there was a trend for emotionalism (p = .07). No serious side effects were seen. CONCLUSION: Poststroke depression as measured by a conventional depression rating scale improved over time irrespective of treatment. Positive effects specific to sertraline were identified in emotional distress, emotionalism, and QoL. The study indicates that poststroke emotional reactions comprise depression and other domains susceptible to pharmacologic therapy.
+AN  - rayyan-1277752839
+AU  - Murray, V.
+AU  - von Arbin, M.
+AU  - Bartfai, A.
+AU  - Berggren, A. L.
+AU  - Landtblom, A. M.
+AU  - Lundmark, J.
+AU  - Näsman, P.
+AU  - Olsson, J. E.
+AU  - Samuelsson, M.
+AU  - Terént, A.
+AU  - Varelius, R.
+AU  - Asberg, M.
+AU  - Mårtensson, B.
+C1  - Murray, Veronica von Arbin, Magnus Bartfai, Aniko Berggren, Anna-Lena Landtblom, Anne-Marie Lundmark, Jöns Näsman, Per Olsson, Jan-Edvin Samuelsson, Margareta Terént, Andreas Varelius, Riitta Asberg, Marie Mårtensson, Björn Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2005/06/18 J Clin Psychiatry. 2005 Jun;66(6):708-16. doi: 10.4088/jcp.v66n0606. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2005-6
+DO  - doi:10.4088/jcp.v66n0606
+IS  - 6
+KW  - Aged
+Aged, 80 and over
+Ambulatory Care
+Depressive Disorder/*drug therapy/etiology/psychology
+Depressive Disorder, Major/drug therapy/etiology/psychology
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Placebos
+Selective Serotonin Reuptake Inhibitors/*therapeutic use
+Sertraline/*therapeutic use
+Severity of Illness Index
+Stroke/*complications/psychology
+Treatment Outcome
+LA  - eng
+PY  - 2005
+SN  - 0160-6689 (Print) 0160-6689
+SP  - 708-16
+ST  - Double-blind comparison of sertraline and placebo in stroke patients with minor depression and less severe major depression
+T2  - J Clin Psychiatry
+TI  - Double-blind comparison of sertraline and placebo in stroke patients with minor depression and less severe major depression
+VL  - 66
+ID  - 50790
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Excessive daytime somnolence (EDS) commonly complicates Parkinson's disease (PD). The aetiology of EDS is probably multifactorial but is probably exacerbated by dopaminergic medications. Modafinil is a wake-promoting agent approved for use in narcolepsy, but it is often used to treat a variety of somnolent conditions. METHOD: A double blind, placebo controlled parallel design trial was conducted to assess the efficacy of modafinil (200-400 mg/day) for the treatment of EDS in PD. The primary efficacy measure was the Epworth Sleepiness (ES) scale score. Secondary efficacy points included the Unified Parkinson's Disease Rating Scale (UPDRS), the Fatigue Severity Scale, the Hamilton Depression Scale, and the multiple sleep latency test (MSLT). RESULTS: Of a total of 40 subjects (29 men, mean (SD) age 64.8 (11.3) years), randomised to modafinil or placebo, 37 completed the study. Modafinil failed to significantly improve ES scores compared with placebo (2.7 v 1.5 points improvement, respectively, p = 0.28). MSLT failed to improve with modafinil relative to placebo (-0.16 v -0.70, respectively, p = 0.14). UPDRS, global impressions, Fatigue Severity Scale, and Hamilton Depression Scale scores were unchanged. Adverse events were minimal. CONCLUSION: Modafinil failed to significantly improve EDS in PD compared with placebo. The drug did not alter motor symptoms in PD and was well tolerated.
+AN  - rayyan-1277752851
+AU  - Ondo, W. G.
+AU  - Fayle, R.
+AU  - Atassi, F.
+AU  - Jankovic, J.
+C1  - 1468-330x Ondo, W G Fayle, R Atassi, F Jankovic, J Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2005/11/18 J Neurol Neurosurg Psychiatry. 2005 Dec;76(12):1636-9. doi: 10.1136/jnnp.2005.065870. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2005-12
+DO  - doi:10.1136/jnnp.2005.065870
+IS  - 12
+KW  - Aged
+Benzhydryl Compounds/*therapeutic use
+Central Nervous System Stimulants/*therapeutic use
+Disorders of Excessive Somnolence/*drug therapy/*etiology
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Modafinil
+Parkinson Disease/*complications/*drug therapy
+Placebos
+Severity of Illness Index
+Treatment Outcome
+LA  - eng
+PY  - 2005
+SN  - 0022-3050 (Print) 0022-3050
+SP  - 1636-9
+ST  - Modafinil for daytime somnolence in Parkinson's disease: double blind, placebo controlled parallel trial
+T2  - J Neurol Neurosurg Psychiatry
+TI  - Modafinil for daytime somnolence in Parkinson's disease: double blind, placebo controlled parallel trial
+VL  - 76
+ID  - 50791
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Preliminary evidence suggests beneficial effects of pure ethyl-eicosapentaenoate (ethyl-EPA) in Huntington disease (HD). METHODS: A total of 135 patients with HD were randomized to enter a multicenter, double-blind, placebo-controlled trial on the efficacy of 2 g/d ethyl-EPA vs placebo. The Unified Huntington's Disease Rating Scale (UHDRS) was used for assessment. The primary end point was outcome at 12 months on the Total Motor Score 4 subscale (TMS-4). Analysis of covariance (ANCOVA) and a chi2 test on response, defined as absence of increase in the TMS-4, were performed. RESULTS: A total of 121 patients completed 12 months, and 83 did so without protocol violations (PP cohort). Intent-to-treat (ITT) analysis revealed no significant difference between ethyl-EPA and placebo for TMS-4. In the PP cohort, ethyl-EPA proved better than placebo on the chi2 test on TMS-4 (p < 0.05), but missed significance on ANCOVA (p = 0.06). Secondary end points (ITT cohort) showed no benefit of ethyl-EPA but a significantly worse outcome in the behavioral severity and frequency compared with placebo. Exploring moderators of the efficacy of ethyl-EPA on TMS-4 showed a significant interaction between treatment and a factor defining patients with high vs low CAG repeats. Reported adverse events were distributed equally between treatment arms. CONCLUSIONS: Ethyl-eicosapentaenoate (ethyl-EPA) (purity > 95%) had no benefit in the intent-to-treat cohort of patients with Huntington disease, but exploratory analysis revealed that a significantly higher number of patients in the per protocol cohort, treated with ethyl-EPA, showed stable or improved motor function. Further studies of the potential efficacy of ethyl-EPA are warranted.
+AN  - rayyan-1277752864
+AU  - Puri, B. K.
+AU  - Leavitt, B. R.
+AU  - Hayden, M. R.
+AU  - Ross, C. A.
+AU  - Rosenblatt, A.
+AU  - Greenamyre, J. T.
+AU  - Hersch, S.
+AU  - Vaddadi, K. S.
+AU  - Sword, A.
+AU  - Horrobin, D. F.
+AU  - Manku, M.
+AU  - Murck, H.
+C1  - 1526-632x Puri, B K Leavitt, B R Hayden, M R Ross, C A Rosenblatt, A Greenamyre, J T Hersch, S Vaddadi, K S Sword, A Horrobin, D F Manku, M Murck, H Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2005/07/27 Neurology. 2005 Jul 26;65(2):286-92. doi: 10.1212/01.wnl.0000169025.09670.6d. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2005-7-26
+DO  - doi:10.1212/01.wnl.0000169025.09670.6d
+IS  - 2
+KW  - Adult
+Apoptosis/drug effects/physiology
+Brain/drug effects/metabolism/physiopathology
+Cohort Studies
+Double-Blind Method
+Eicosapentaenoic Acid/administration & dosage/adverse effects/*analogs &
+derivatives
+Female
+Humans
+Huntington Disease/*drug therapy/genetics/physiopathology
+Male
+Middle Aged
+Mitochondria/drug effects/metabolism
+Movement/drug effects/physiology
+Nerve Degeneration/drug therapy/metabolism/prevention & control
+Neurons/drug effects/metabolism/pathology
+Neuroprotective Agents/*administration & dosage/adverse effects
+Oxidative Stress/drug effects/physiology
+Placebo Effect
+Treatment Outcome
+LA  - eng
+PY  - 2005
+SN  - 0028-3878
+SP  - 286-92
+ST  - Ethyl-EPA in Huntington disease: a double-blind, randomized, placebo-controlled trial
+T2  - Neurology
+TI  - Ethyl-EPA in Huntington disease: a double-blind, randomized, placebo-controlled trial
+VL  - 65
+ID  - 50792
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Recent evidence suggests that tar-dive dyskinesia may result from antipsychotic-induced damage to striatal cholinergic neurons. To test whether cholinesterase inhibitors compensate for diminished cholinergic activity, we conducted a 30-week randomized, double-blind, placebo-controlled crossover trial of galantamine in patients with tardive dyskinesia. METHOD: Patients with tardive dyskinesia were recruited between June 2001 and June 2004. After a 2-week baseline period, 35 male schizophrenia patients, on stable doses of antipsychotics, were randomly assigned to receive galantamine (8-24 mg) or placebo for two 12-week phases separated by a 4-week washout period. Patients were evaluated every 2 weeks for changes in extrapyramidal symptoms and before and after each treatment for effects on psychiatric symptoms and cognition. RESULTS: Galantamine reduced mean total Abnormal Involuntary Movement Scale (AIMS) scores more than placebo, but this difference was not statistically significant (p = .08). However, patients initially randomly assigned to galantamine showed a reversal of AIMS scores after switching to placebo. Simpson-Angus Scale ratings of parkinsonism were significantly higher with galantamine than placebo (p = .0005) and correlated with age. There were no significant differences between groups in akathisia, cognition, or psychiatric symptoms. More patients dropped out while receiving galantamine, but this outcome did not significantly influence the results. CONCLUSIONS: In contrast to previous reports, reductions in tardive dyskinesia associated with galantamine were not statistically significant compared with placebo in this trial. However, galantamine was associated with a modest rebound in dyskinesia scores after discontinuation and clinically minor but statistically higher ratings of parkinsonism. These findings support the need for further investigations of cholinergic mechanisms underlying tardive dyskinesia and extrapyramidal effects of cholinesterase inhibitors when used in combination with antipsychotics in susceptible patients. CLINICAL TRIALS REGISTRATION: ClinicalTrials.gov identifier NCT00164242.
+AN  - rayyan-1277753252
+AU  - Caroff, S. N.
+AU  - Walker, P.
+AU  - Campbell, C.
+AU  - Lorry, A.
+AU  - Petro, C.
+AU  - Lynch, K.
+AU  - Gallop, R.
+C1  - 1555-2101 Caroff, Stanley N Walker, Patricia Campbell, Cabrina Lorry, Alan Petro, Christopher Lynch, Kevin Gallop, Robert Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2007/03/29 J Clin Psychiatry. 2007 Mar;68(3):410-5. doi: 10.4088/jcp.v68n0309. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2007-3
+DO  - doi:10.4088/jcp.v68n0309
+IS  - 3
+KW  - Adult
+Antipsychotic Agents/adverse effects/therapeutic use
+Cholinesterase Inhibitors/*therapeutic use
+Cross-Over Studies
+Double-Blind Method
+Dyskinesia, Drug-Induced/*drug therapy
+Galantamine/*therapeutic use
+Humans
+Male
+Middle Aged
+Schizophrenia/drug therapy
+Treatment Outcome
+LA  - eng
+PY  - 2007
+SN  - 0160-6689
+SP  - 410-5
+ST  - Treatment of tardive dyskinesia with galantamine: a randomized controlled crossover trial
+T2  - J Clin Psychiatry
+TI  - Treatment of tardive dyskinesia with galantamine: a randomized controlled crossover trial
+VL  - 68
+ID  - 50793
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To report efficacy and safety of transitioning patients receiving intramuscular (IM) formulations of aripiprazole or haloperidol to their respective oral formulations. METHODS: 448 agitated patients with schizophrenia (73%) or schizoaffective disorder (27%) were randomized to receive aripiprazole IM 9.75 mg, haloperidol IM 6.5 mg, or placebo IM within 24 hours. Patients treated with aripiprazole IM or haloperidol IM who completed this 24-hour IM phase were transitioned to the respective blinded oral formulations for 4 days (aripiprazole 10-15 mg/day, n = 153; haloperidol 7.5-10 mg/day, n = 151). Patients treated with placebo IM were transitioned to oral aripiprazole (analysis not included). The primary efficacy measure was mean change in Positive and Negative Syndrome Scale-Excited Component (PEC) score from baseline of oral phase (last value from 24-hour IM phase) to endpoint (study day 5, last observation carried forward). RESULTS: During the oral phase, aripiprazole 15 mg and haloperidol 10 mg were both effective in maintaining responses achieved on all efficacy measures during the 24-hour IM phase. Mean improvements in PEC scores from study day 1 to 5 were -1.37 for aripiprazole and -1.40 for haloperidol (p = NS for aripiprazole versus haloperidol). Oral aripiprazole was well tolerated. Extrapyramidal symptom-related adverse events were lower for aripiprazole (1.3%) than haloperidol (8.0%). Nausea and vomiting occurred more frequently in patients receiving aripiprazole (3.9% and 2.6%, respectively) than in those receiving haloperidol (0.7% and 1.3%, respectively). CONCLUSIONS: Acutely agitated patients with schizophrenia or schizoaffective disorder treated with aripiprazole IM or haloperidol IM demonstrated similar effective and safe transition to their respective oral formulations. Initial benefits of reduced agitation and improved clinical status during the IM phase of the study were maintained throughout the oral phase of the study with good tolerability.
+AN  - rayyan-1277753272
+AU  - Daniel, D. G.
+AU  - Currier, G. W.
+AU  - Zimbroff, D. L.
+AU  - Allen, M. H.
+AU  - Oren, D.
+AU  - Manos, G.
+AU  - McQuade, R.
+AU  - Pikalov, A. A., 3rd
+AU  - Crandall, D. T.
+C1  - Daniel, David G Currier, Glenn W Zimbroff, Dan L Allen, Michael H Oren, Dan Manos, George McQuade, Robert Pikalov, Andrei A 3rd Crandall, David T Comparative Study Journal Article Multicenter Study Randomized Controlled Trial United States 2007/05/25 J Psychiatr Pract. 2007 May;13(3):170-7. doi: 10.1097/01.pra.0000271658.86845.81. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2007-5
+DO  - doi:10.1097/01.pra.0000271658.86845.81
+IS  - 3
+KW  - Acute Disease
+Administration, Oral
+Adolescent
+Adult
+Aged
+Antipsychotic Agents/*administration & dosage/adverse effects
+Aripiprazole
+Double-Blind Method
+Dyskinesia, Drug-Induced/etiology
+Female
+Haloperidol/*administration & dosage/adverse effects
+Humans
+Injections, Intramuscular
+Male
+Middle Aged
+Piperazines/*administration & dosage/adverse effects
+Psychiatric Status Rating Scales
+Psychomotor Agitation/diagnosis/*drug therapy/psychology
+Psychotic Disorders/diagnosis/*drug therapy/psychology
+Quinolones/*administration & dosage/adverse effects
+Schizophrenia/diagnosis/*drug therapy
+LA  - eng
+PY  - 2007
+SN  - 1527-4160 (Print) 1527-4160
+SP  - 170-7
+ST  - Efficacy and safety of oral aripiprazole compared with haloperidol in patients transitioning from acute treatment with intramuscular formulations
+T2  - J Psychiatr Pract
+TI  - Efficacy and safety of oral aripiprazole compared with haloperidol in patients transitioning from acute treatment with intramuscular formulations
+VL  - 13
+ID  - 50794
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To examine the efficacy of sertraline in the treatment of depression after traumatic brain injury (TBI). DESIGN: Double-blind, randomized controlled trial. SETTING: Research center at a major urban medical center. PARTICIPANTS: Subjects were a referred and volunteer sample of 52 participants with TBI, a diagnosis of major depression disorder (MDD), and a score on the Hamilton Rating Scale for Depression (HAM-D) of 18 or greater. The majority of the sample was male (58%), had less than 14 years of education (73%), had incomes below $20,000 (82%), and were from minority backgrounds (75%). Approximately one third of the sample had mild brain injuries, and two thirds had moderate to severe brain injuries. The mean age was 47+/-11, and the mean time since injury was 17+/-14 years. One participant withdrew from the study because of side effects. INTERVENTION: Daily oral sertraline in doses starting at 25mg and increasing to therapeutic levels (up to 200mg) or placebo for 10 weeks. MAIN OUTCOME MEASURES: The HAM-D, the Beck Anxiety Inventory, and the Life-3 quality of life (QOL). RESULTS: No statistically significant differences were found at baseline between drug and placebo groups on baseline measures of depression (24.8+/-7.3 vs 27.7+/-7.0), anxiety (16.4+/-12.3 vs 24.0+/-14.9), or QOL (2.96+/-1.0 vs 2.9+/-0.9). The income level of those receiving placebo was significantly lower than those participants receiving medication. Analyses of covariance revealed significant changes from preintervention to posttreatment for all 3 outcome measures (P<.001) but no group effects. Random-effects modeling did not find any significant difference in patterns of scores of the outcome measures between the placebo and medication groups. CONCLUSIONS: Both groups showed improvements in mood, anxiety, and QOL, with 59% of the experimental group and 32% of the placebo group responding to the treatment, defined as a reduction of a person's HAM-D score by 50%.
+AN  - rayyan-1277753921
+AU  - Ashman, T. A.
+AU  - Cantor, J. B.
+AU  - Gordon, W. A.
+AU  - Spielman, L.
+AU  - Flanagan, S.
+AU  - Ginsberg, A.
+AU  - Engmann, C.
+AU  - Egan, M.
+AU  - Ambrose, F.
+AU  - Greenwald, B.
+C1  - 1532-821x Ashman, Teresa A Cantor, Joshua B Gordon, Wayne A Spielman, Lisa Flanagan, Steve Ginsberg, Annika Engmann, Clara Egan, Matthew Ambrose, Felicia Greenwald, Brian Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, Non-P.H.S. United States 2009/05/02 Arch Phys Med Rehabil. 2009 May;90(5):733-40. doi: 10.1016/j.apmr.2008.11.005. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2009-5
+DO  - doi:10.1016/j.apmr.2008.11.005
+IS  - 5
+KW  - Adult
+Antidepressive Agents/*administration & dosage
+Brain Injuries/*complications/diagnosis/rehabilitation
+Depressive Disorder/diagnosis/*drug therapy/*etiology
+Diagnostic and Statistical Manual of Mental Disorders
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Probability
+Psychiatric Status Rating Scales
+Quality of Life
+Reference Values
+Risk Assessment
+Sertraline/*administration & dosage
+Treatment Outcome
+LA  - eng
+PY  - 2009
+SN  - 0003-9993
+SP  - 733-40
+ST  - A randomized controlled trial of sertraline for the treatment of depression in persons with traumatic brain injury
+T2  - Arch Phys Med Rehabil
+TI  - A randomized controlled trial of sertraline for the treatment of depression in persons with traumatic brain injury
+VL  - 90
+ID  - 50795
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: This paper describes the rationale and design of the ENVIS-ion Study, which aims to determine whether low-dose aspirin reduces the development of white matter hyper-intense (WMH) lesions and silent brain infarction (SBI). Additional aims include determining whether a) changes in retinal vascular imaging (RVI) parameters parallel changes in brain magnetic resonance imaging (MRI); b) changes in RVI parameters are observed with aspirin therapy; c) baseline cognitive function correlates with MRI and RVI parameters; d) changes in cognitive function correlate with changes in brain MRI and RVI and e) whether factors such as age, gender or blood pressure influence the above associations. METHODS/DESIGN: Double-blind, placebo-controlled trial of three years duration set in two Australian academic medical centre outpatient clinics. This study will enrol 600 adults aged 70 years and over with normal cognitive function and without overt cardiovascular disease. Subjects will undergo cognitive testing, brain MRI and RVI at baseline and after 3 years of study treatment. All subjects will be recruited from a 19,000-patient clinical outcome trial conducted in Australia and the United States that will evaluate the effects of aspirin in maintaining disability-free longevity over 5 years. The intervention will be aspirin 100 mg daily versus matching placebo, randomized on a 1:1 basis. DISCUSSION: This study will improve understanding of the mechanisms at the level of brain and vascular structure that underlie the effects of aspirin on cognitive function. Given the limited access and high cost of MRI, RVI may prove useful as a tool for the identification of individuals at high risk for the development of cerebrovascular disease and cognitive decline. TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT01038583.
+AN  - rayyan-1277755196
+AU  - Reid, C. M.
+AU  - Storey, E.
+AU  - Wong, T. Y.
+AU  - Woods, R.
+AU  - Tonkin, A.
+AU  - Wang, J. J.
+AU  - Kam, A.
+AU  - Janke, A.
+AU  - Essex, R.
+AU  - Abhayaratna, W. P.
+AU  - Budge, M. M.
+C1  - 1471-2377 Reid, Christopher M Storey, Elsdon Wong, Tien Y Woods, Robyn Tonkin, Andrew Wang, Jie Jin Kam, Anthony Janke, Andrew Essex, Rowan Abhayaratna, Walter P Budge, Marc M ASPREE Study Group Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2012/02/10 BMC Neurol. 2012 Feb 8;12:3. doi: 10.1186/1471-2377-12-3. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-2-8
+DO  - doi:10.1186/1471-2377-12-3
+KW  - Aged
+Aging/drug effects
+Aspirin/*therapeutic use
+Australia
+Brain Infarction/*diagnosis
+Cognition/*drug effects
+Cognition Disorders/*prevention & control
+Double-Blind Method
+Humans
+Magnetic Resonance Imaging
+Neuropsychological Tests
+Research Design
+Retinal Vessels/*pathology
+United States
+LA  - eng
+PY  - 2012
+SN  - 1471-2377
+SP  - 3
+ST  - Aspirin for the prevention of cognitive decline in the elderly: rationale and design of a neuro-vascular imaging study (ENVIS-ion)
+T2  - BMC Neurol
+TI  - Aspirin for the prevention of cognitive decline in the elderly: rationale and design of a neuro-vascular imaging study (ENVIS-ion)
+VL  - 12
+ID  - 50796
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: PF-04360365 is a humanized IgG(2)Δa anti-amyloid β (Aβ) antibody designed to improve outcome in Alzheimer's disease (AD). Single doses of 0.1 - 10 mg/kg were safe and well tolerated in Western (mostly Caucasian) subjects with mild-to-moderate AD. This Phase 1, multicenter, randomized, double-blind, dose-escalation study was the first to evaluate the safety, pharmacokinetics, pharmacodynamics, and immunogenicity of PF-04360365 in Japanese subjects. MATERIALS AND METHODS: 30 subjects with mild-to-moderate AD were enrolled. In each cohort, 3 subjects received PF-04360365 (0.1, 0.5, 1, 5, or 10 mg/kg) and 1 subject received placebo as a single 2-hour intravenous infusion. Subjects were monitored as inpatients for 24 hours and then as outpatients for 1 year. RESULTS: All subjects completed the study. There were no serious or National Cancer Institute Common Terminology Criteria for Adverse Events grade ≥ 3 adverse events, hypersensitivity reactions, or antidrug antibodies. No clinical or MRI evidence of brain microhemorrhage, cerebral edema, or encephalitis was observed. PF-04360365 plasma concentrations increased with dose, and pharmacokinetics were consistent with a small steady-state volume of distribution, slow clearance, and long elimination half-life. Cerebrospinal fluid (CSF):plasma ratios were < 0.5%. Plasma Aβ species showed dose-dependent increases in C(max) and AUC(∞), but CSF biomarkers did not differ clearly between treatment arms. CONCLUSIONS: PF-04360365 was safe and well tolerated in Japanese subjects. Pharmacokinetics and plasma pharmacodynamic responses in Japanese subjects were comparable to those in Western subjects. *No longer affiliated with Pfizer.
+AN  - rayyan-1277755555
+AU  - Miyoshi, I.
+AU  - Fujimoto, Y.
+AU  - Yamada, M.
+AU  - Abe, S.
+AU  - Zhao, Q.
+AU  - Cronenberger, C.
+AU  - Togo, K.
+AU  - Ishibashi, T.
+AU  - Bednar, M. M.
+AU  - Kupiec, J. W.
+AU  - Binneman, B.
+C1  - Miyoshi, Izuru Fujimoto, Yoko Yamada, Masahito Abe, Sadahiro Zhao, Qinying Cronenberger, Carol Togo, Kanae Ishibashi, Taro Bednar, Martin M Kupiec, James W Binneman, Brendon Clinical Trial, Phase I Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't Germany 2013/10/18 Int J Clin Pharmacol Ther. 2013 Dec;51(12):911-23. doi: 10.5414/CP201816. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2013-12
+DO  - doi:10.5414/cp201816
+IS  - 12
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy
+Antibodies, Monoclonal, Humanized/adverse effects/pharmacokinetics/*therapeutic
+use
+Double-Blind Method
+Female
+Humans
+Infusions, Intravenous
+Male
+Middle Aged
+LA  - eng
+PY  - 2013
+SN  - 0946-1965 (Print) 0946-1965
+SP  - 911-23
+ST  - Safety and pharmacokinetics of PF-04360365 following a single-dose intravenous infusion in Japanese subjects with mild-to-moderate Alzheimer's disease: a multicenter, randomized, double-blind, placebo-controlled, dose-escalation study
+T2  - Int J Clin Pharmacol Ther
+TI  - Safety and pharmacokinetics of PF-04360365 following a single-dose intravenous infusion in Japanese subjects with mild-to-moderate Alzheimer's disease: a multicenter, randomized, double-blind, placebo-controlled, dose-escalation study
+VL  - 51
+ID  - 50797
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT/OBJECTIVE: We describe the rationale, design, methods, and lessons learned conducting a treatment trial for major depressive disorder (MDD) or dysthymia in people with spinal cord injury (SCI). DESIGN: A multi-site, double-blind, randomized (1:1) placebo controlled trial of venlafaxine XR for MDD or dysthymia. Subjects were block randomized and stratified by site, lifetime history of substance dependence, and prior history of MDD. SETTING: Six SCI centers throughout the United States. PARTICIPANTS: Across participating centers, 2536 subjects were screened and 133 were enrolled into the trial. Subjects were 18-64 years old and at least 1 month post-SCI. Interventions Twelve-week trial of venlafaxine XR versus placebo using a flexible titration schedule. OUTCOME MEASURES: The primary outcome was improvement in depression severity at 12 weeks. The secondary outcome was improvement in pain. RESULTS: This article includes study methods, modifications prompted by a formative review process, preliminary data on the study sample and lessons learned. We describe common methodological and operational challenges conducting multi-site trials and how we addressed them. Challenges included study organization and decision making, staff training, obtaining human subjects approval, standardization of measurement and treatment, data and safety monitoring, subject screening and recruitment, unblinding and continuity of care, database management, and data analysis. CONCLUSIONS: The methodological and operational challenges we faced and the lessons we learned may provide useful information for researchers who aim to conduct clinical trials, especially in the area of medical treatment of depression in people with SCI.
+AN  - rayyan-1277755787
+AU  - Bombardier, C. H.
+AU  - Fann, J. R.
+AU  - Wilson, C. S.
+AU  - Heinemann, A. W.
+AU  - Richards, J. S.
+AU  - Warren, A. M.
+AU  - Brooks, L.
+AU  - Warms, C. A.
+AU  - Temkin, N. R.
+AU  - Tate, D. G.
+C1  - 2045-7723 Bombardier, Charles H Fann, Jesse R Wilson, Catherine S Heinemann, Allen W Richards, J Scott Warren, Ann Marie Brooks, Larry Warms, Catherine A Temkin, Nancy R Tate, Denise G Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, Non-P.H.S. England 2013/10/05 J Spinal Cord Med. 2014 May;37(3):247-63. doi: 10.1179/2045772313Y.0000000138. Epub 2013 Nov 26. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2014-5
+DO  - doi:10.1179/2045772313y.0000000138
+IS  - 3
+KW  - Adolescent
+Adult
+Antidepressive Agents, Second-Generation/administration & dosage
+Depressive Disorder, Major/*drug therapy/*etiology/psychology
+Female
+Humans
+Male
+Middle Aged
+Outcome Assessment, Health Care/methods
+Pain/etiology/*prevention & control/psychology
+Research Design
+Spinal Cord Injuries/*complications/*drug therapy/psychology
+Treatment Outcome
+Venlafaxine Hydrochloride/*administration & dosage
+Young Adult
+Antidepressants
+Dysthymia
+Major depressive disorder
+Pain
+Randomized controlled trials
+Spinal cord injuries
+LA  - eng
+PY  - 2014
+SN  - 1079-0268 (Print) 1079-0268
+SP  - 247-63
+ST  - A randomized controlled trial of venlafaxine XR for major depressive disorder after spinal cord injury: Methods and lessons learned
+T2  - J Spinal Cord Med
+TI  - A randomized controlled trial of venlafaxine XR for major depressive disorder after spinal cord injury: Methods and lessons learned
+VL  - 37
+ID  - 50798
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: The aim of this study was to investigate the effects of piribedil on vigilance and cognitive performance in patients with Parkinson disease experiencing excessive daytime sleepiness on pramipexole or ropinirole. METHODS: In this 11-week randomized, active-controlled, rater-blinded phase III study, eligible patients were randomly assigned to either receive piribedil or to continue on pramipexole or ropinirole. The primary outcome was the median reaction times during the second 15 minutes of the subtest "vigilance" of the Test battery for Attention Performances (TAP). Secondary outcomes included the Epworth Sleepiness Scale, Unified Parkinson's Disease Rating Scale, neuropsychological testing, and items of the Clinical Global Impression. RESULTS: Forty-four patients received piribedil; 36 continued on either pramipexole or ropinirole. There was no difference in the primary end point reaction time of the TAP subtest vigilance between piribedil and the comparator (996 vs 954 milliseconds, P = 0.68). Piribedil reduced daytime sleepiness with lower Epworth Sleepiness Scale scores at the end of treatment compared with the comparator (-4 vs -2 points; P = 0.01). The median Unified Parkinson's Disease Rating Scale III score at the end of treatment was comparable between the 2 groups. Neuropsychological tests revealed no significant between-treatment differences. A higher therapeutic effect and global improvement were shown by the Clinical Global Impression of piribedil-treated patients. CONCLUSIONS: This study shows that switching from pramipexole or ropinirole to piribedil has no effect on the reaction time of the TAP subtest vigilance but upholds the same therapeutic motor effect and reduces daytime sleepiness to a clinically relevant degree in patients with excessive daytime sleepiness.
+AN  - rayyan-1277755855
+AU  - Eggert, K.
+AU  - Öhlwein, C.
+AU  - Kassubek, J.
+AU  - Wolz, M.
+AU  - Kupsch, A.
+AU  - Ceballos-Baumann, A.
+AU  - Ehret, R.
+AU  - Polzer, U.
+AU  - Klostermann, F.
+AU  - Schwarz, J.
+AU  - Fuchs, G.
+AU  - Jost, W.
+AU  - Albert, A.
+AU  - Haag, A.
+AU  - Hermsen, A.
+AU  - Lohmüller, K.
+AU  - Kuhn, K.
+AU  - Wangemann, M.
+AU  - Oertel, W. H.
+C1  - 1537-162x Eggert, Karla Öhlwein, Christian Kassubek, Jan Wolz, Martin Kupsch, Andreas Ceballos-Baumann, Andres Ehret, Reinhard Polzer, Udo Klostermann, Fabian Schwarz, Johannes Fuchs, Gerd Jost, Wolfgang Albert, Anita Haag, Anja Hermsen, Anke Lohmüller, Karin Kuhn, Katrin Wangemann, Martina Oertel, Wolfgang H In Cooperation With the German Competence Network on Parkinson’s Disease Clinical Trial, Phase III Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2014/07/06 Clin Neuropharmacol. 2014 Jul-Aug;37(4):116-22. doi: 10.1097/WNF.0000000000000041. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2014-7
+DO  - doi:10.1097/wnf.0000000000000041
+IS  - 4
+KW  - Adult
+Aged
+Aged, 80 and over
+Antiparkinson Agents/*therapeutic use
+Attention Deficit Disorder with Hyperactivity/*drug therapy/*etiology
+Benzothiazoles
+Disorders of Excessive Somnolence/*drug therapy
+Double-Blind Method
+Female
+Humans
+Indoles
+Male
+Middle Aged
+Neuropsychological Tests
+Parkinson Disease/*complications/*drug therapy
+Piribedil
+Pramipexole
+Reaction Time/drug effects
+Severity of Illness Index
+LA  - eng
+PY  - 2014
+SN  - 0362-5664
+SP  - 116-22
+ST  - Influence of the nonergot dopamine agonist piribedil on vigilance in patients With Parkinson Disease and excessive daytime sleepiness (PiViCog-PD): an 11-week randomized comparison trial against pramipexole and ropinirole
+T2  - Clin Neuropharmacol
+TI  - Influence of the nonergot dopamine agonist piribedil on vigilance in patients With Parkinson Disease and excessive daytime sleepiness (PiViCog-PD): an 11-week randomized comparison trial against pramipexole and ropinirole
+VL  - 37
+ID  - 50799
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Creutzfeldt-Jakob disease (CJD) is a fatal, untreatable prion encephalopathy. Previous studies showed that doxycycline is effective in in-vitro and in-vivo models of disease, and patients with CJD who received compassionate treatment with doxycycline showed increased survival time compared with historical series. We therefore did a randomised, double-blind study of doxycycline versus placebo in CJD. METHODS: We recruited patients older than 18 years old who had a diagnosis of definite or probable sporadic CJD or genetic forms of the disease via Italian reference centres and the French national referral system. Patients were randomly assigned (ratio 1:1) to receive oral doxycycline (100 mg daily) or placebo under double-blind conditions from the day of randomisation to death. Centralised randomisation was done independently of enrolment or evaluation of patients using a minimisation method in Italy and a simple randomisation in France. Participants, caregivers, and clinicians were masked to group assignment. The primary efficacy variable was the survival time from randomisation. Interim analyses were planned to detect a significant effect of treatment as early as possible. This trial is registered with EudraCT, 2006-001858-27 for the Italian study and 2007-005553-34 for the French study. FINDINGS: From April 12, 2007, to Aug 19, 2010, in Italy, and from Jan 30, 2009, to Jan 10, 2012, in France, 121 patients with CJD were enrolled in the study, 62 of whom were randomly assigned to the treatment group and 59 to the placebo group. The first interim analysis showed absence of superiority of doxycycline compared with placebo, and the trial was stopped for futility. Efficacy analyses did not show significant differences between patients treated with doxycycline and placebo with regard to survival times (HR 1.1, 95% CI 0.8-1.7, p=0.50). Serious adverse events were judged not to be related to treatment, whereas a relation was deemed probable or possible for five non-serious adverse events that occurred in each treatment group. INTERPRETATION: Doxycycline at a dose of 100 mg per day was well tolerated but did not significantly affect the course of CJD, at variance with the results of previous observational studies. Our experience could be useful in the design of large multinational controlled trials of potential anti-prion molecules in this rare disease. FUNDING: Agenzia Italiana Farmaco, Italian Ministry of Health, AIEnP, and French Ministry of Health.
+AN  - rayyan-1277755901
+AU  - Haïk, S.
+AU  - Marcon, G.
+AU  - Mallet, A.
+AU  - Tettamanti, M.
+AU  - Welaratne, A.
+AU  - Giaccone, G.
+AU  - Azimi, S.
+AU  - Pietrini, V.
+AU  - Fabreguettes, J. R.
+AU  - Imperiale, D.
+AU  - Cesaro, P.
+AU  - Buffa, C.
+AU  - Aucan, C.
+AU  - Lucca, U.
+AU  - Peckeu, L.
+AU  - Suardi, S.
+AU  - Tranchant, C.
+AU  - Zerr, I.
+AU  - Houillier, C.
+AU  - Redaelli, V.
+AU  - Vespignani, H.
+AU  - Campanella, A.
+AU  - Sellal, F.
+AU  - Krasnianski, A.
+AU  - Seilhean, D.
+AU  - Heinemann, U.
+AU  - Sedel, F.
+AU  - Canovi, M.
+AU  - Gobbi, M.
+AU  - Di Fede, G.
+AU  - Laplanche, J. L.
+AU  - Pocchiari, M.
+AU  - Salmona, M.
+AU  - Forloni, G.
+AU  - Brandel, J. P.
+AU  - Tagliavini, F.
+C1  - 1474-4465 Haïk, Stéphane Marcon, Gabriella Mallet, Alain Tettamanti, Mauro Welaratne, Arlette Giaccone, Giorgio Azimi, Shohreh Pietrini, Vladimiro Fabreguettes, Jean-Roch Imperiale, Daniele Cesaro, Pierre Buffa, Carlo Aucan, Christophe Lucca, Ugo Peckeu, Laurène Suardi, Silvia Tranchant, Christine Zerr, Inga Houillier, Caroline Redaelli, Veronica Vespignani, Hervé Campanella, Angela Sellal, François Krasnianski, Anna Seilhean, Danielle Heinemann, Uta Sedel, Frédéric Canovi, Mara Gobbi, Marco Di Fede, Giuseppe Laplanche, Jean-Louis Pocchiari, Maurizio Salmona, Mario Forloni, Gianluigi Brandel, Jean-Philippe Tagliavini, Fabrizio Clinical Trial, Phase II Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2014/01/15 Lancet Neurol. 2014 Feb;13(2):150-8. doi: 10.1016/S1474-4422(13)70307-7. Epub 2014 Jan 8. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2014-2
+DO  - doi:10.1016/s1474-4422(13)70307-7
+IS  - 2
+KW  - Aged
+Creutzfeldt-Jakob Syndrome/*drug therapy/genetics/mortality
+Double-Blind Method
+Doxycycline/administration & dosage/adverse effects/*pharmacology
+Early Termination of Clinical Trials
+Female
+Humans
+Male
+Medical Futility
+Middle Aged
+Treatment Failure
+LA  - eng
+PY  - 2014
+SN  - 1474-4422
+SP  - 150-8
+ST  - Doxycycline in Creutzfeldt-Jakob disease: a phase 2, randomised, double-blind, placebo-controlled trial
+T2  - Lancet Neurol
+TI  - Doxycycline in Creutzfeldt-Jakob disease: a phase 2, randomised, double-blind, placebo-controlled trial
+VL  - 13
+ID  - 50800
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the safety (primary objective) and efficacy (secondary objective) of (-)-OSU6162 in Huntington's disease (HD). METHODS: In a double-blind, cross-over trial, patients with HD were randomly assigned to start treatment on either (-)-OSU6162 or placebo. After 4 weeks, those patients who initially received active drug were switched to placebo for another 4 weeks, and vice versa. During the first week the (-)-OSU6162 dose was 15 mg twice daily, during the second week 30 mg twice daily, and during the last 2 weeks 45 mg twice daily. Motor, cognitive, mental and social functions were rated by the clinical investigator or by self-assessment, using established rating scales. RESULTS: Fifteen patients fulfilling inclusion and exclusion criteria completed the study. (-)-OSU6162 was well tolerated by all patients and no adverse effects were observed. (-)-OSU6162 treatment significantly improved the Short Form 36 Vitality score, mainly due to an improvement of the individual item 'worn-out' (VT3). In addition, an improvement of depressive symptoms was found using Beck Depression Inventory. In contrast to a general trend of improvement in several non-motor variables only small and non-significant differences between (-)-OSU6162 and placebo were found regarding motor functions. CONCLUSIONS: (-)-OSU6162 offers promise for the treatment of HD, as a drug with good tolerability, capable of improving the patients' experienced non-motor functions such as energy and mood and thus alleviating symptoms of great importance for their quality of life.
+AN  - rayyan-1277755960
+AU  - Kloberg, A.
+AU  - Constantinescu, R.
+AU  - Nilsson, M. K.
+AU  - Carlsson, M. L.
+AU  - Carlsson, A.
+AU  - Wahlström, J.
+AU  - Haghighi, S.
+C1  - 1601-5215 Kloberg, Angelica Constantinescu, Radu Nilsson, Marie Karin Lena Carlsson, Maria Lizzie Carlsson, Arvid Wahlström, Jan Haghighi, Sara Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2014/09/23 Acta Neuropsychiatr. 2014 Oct;26(5):298-306. doi: 10.1017/neu.2014.16. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2014-10
+DO  - doi:10.1017/neu.2014.16
+IS  - 5
+KW  - Adult
+Cognition/drug effects
+Cross-Over Studies
+Double-Blind Method
+Female
+Health Status
+Humans
+Huntington Disease/*drug therapy
+Male
+Middle Aged
+Motor Activity/drug effects
+Piperidines/*therapeutic use
+Surveys and Questionnaires
+Treatment Outcome
+Young Adult
+LA  - eng
+PY  - 2014
+SN  - 0924-2708
+SP  - 298-306
+ST  - Tolerability and efficacy of the monoaminergic stabilizer (-)-OSU6162 (PNU-96391A) in Huntington's disease: a double-blind cross-over study
+T2  - Acta Neuropsychiatr
+TI  - Tolerability and efficacy of the monoaminergic stabilizer (-)-OSU6162 (PNU-96391A) in Huntington's disease: a double-blind cross-over study
+VL  - 26
+ID  - 50801
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Antipsychotics, such as aripiprazole and risperidone, are often used to treat individuals with schizophrenia. The efficacy as well as safety of aripiprazole in Western populations has been described. The objective of this study is to investigate the efficacy, safety, and tolerability of aripiprazole and risperidone in Chinese Han schizophrenia subjects in mainland China. METHOD: The 6-week, double-blind, randomized, parallel study was conducted in 5 medical centers in mainland China from November 2007 to March 2011. A total of 279 subjects with a primary DSM-IV diagnosis of schizophrenia were randomly assigned (with a randomization ratio of 1:1) to aripiprazole (n=139) or risperidone (n=140). Efficacy measurements included the Positive and Negative Syndrome Scale (PANSS) total, positive, negative and general psychopathology subscale scores, and Clinical Global Impressions-Severity of Illness (CGI-S), and Improvement scale scores. Extrapyramidal symptoms (EPS), weight gain, serum prolactin level, QTc interval, and self-reported adverse events were also assessed as measures of safety and tolerability. RESULTS: Both the aripiprazole and risperidone groups showed statistically significant improvement of PANSS total, positive, negative, general psychopathology subscale scores, and CGI-S scores from baseline to the endpoint (all p<0.01). Significant improvement was noted in the first week for both treatment groups. There were no significant differences in efficacy measurements between the two treatment groups. Mean change of PANSS total scores from baseline to the endpoint was -26.8±18.1 for aripiprazole and -30.0±17.7 for risperidone, (p=0.1475). The responder rate was 71% (n=99) and 76% (n=107) for aripiprazole and risperidone, respectively, (p=0.323). The incidences of EPS were similar in the aripiprazole (25%, n=35) and risperidone groups (24%, n=34), respectively (p=0.757). No clinically meaningful effects on QTc interval, QRS duration, or PR interval were observed in either treatment groups. However, the incidence of clinically significant weight gain (p=0.0118) and hyperprolactinemia (p<0.001) in the aripiprazole group was significantly lower than in the risperidone group. CONCLUSION: The study demonstrated that aripiprazole, as well as risperidone, had rapid and persistent efficacy for psychotic symptoms from the first week of therapy. There may be poor efficacy for aripiprazole compared with risperidone for overall improvement, but there were no significant differences in this study. Aripiprazole showed good tolerability with less weight gain and hyperprolactinemia compared with risperidone. The overall efficacy and safety of aripiprazole in Chinese Han schizophrenia subjects were similar to that reported in Western populations.
+AN  - rayyan-1277755989
+AU  - Li, H.
+AU  - Luo, J.
+AU  - Wang, C.
+AU  - Xie, S.
+AU  - Xu, X.
+AU  - Wang, X.
+AU  - Yu, W.
+AU  - Gu, N.
+AU  - Kane, J. M.
+C1  - 1573-2509 Li, Huafang Luo, Jianfeng Wang, Chuanyue Xie, Shiping Xu, Xiufeng Wang, Xiaoping Yu, Wenjuan Gu, Niufan Kane, John M Comparative Study Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't Netherlands 2014/07/06 Schizophr Res. 2014 Aug;157(1-3):112-9. doi: 10.1016/j.schres.2014.05.040. Epub 2014 Jul 1. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2014-8
+DO  - doi:10.1016/j.schres.2014.05.040
+IS  - 1
+KW  - Adult
+Antipsychotic Agents/therapeutic use
+Aripiprazole
+*Asian People
+Blood Pressure/drug effects
+China
+Diagnostic and Statistical Manual of Mental Disorders
+Double-Blind Method
+Electrocardiography
+Female
+Heart Rate/drug effects
+Humans
+Hyperprolactinemia/chemically induced
+Male
+Piperazines/adverse effects/*therapeutic use
+Psychiatric Status Rating Scales
+Quinolones/adverse effects/*therapeutic use
+Risperidone/adverse effects/*therapeutic use
+Schizophrenia/*drug therapy/*ethnology
+Treatment Outcome
+Weight Gain/drug effects
+Chinese Han schizophrenia
+Efficacy
+Rct
+Safety
+LA  - eng
+PY  - 2014
+SN  - 0920-9964
+SP  - 112-9
+ST  - Efficacy and safety of aripiprazole in Chinese Han schizophrenia subjects: a randomized, double-blind, active parallel-controlled, multicenter clinical trial
+T2  - Schizophr Res
+TI  - Efficacy and safety of aripiprazole in Chinese Han schizophrenia subjects: a randomized, double-blind, active parallel-controlled, multicenter clinical trial
+VL  - 157
+ID  - 50802
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To evaluate the efficacy and tolerability of armodafinil in patients with excessive sleepiness following mild or moderate closed traumatic brain injury (TBI). DESIGN: Randomized, placebo-controlled, double-blind trial followed by open-label extension. SETTING: 40 US centers. PATIENTS: Adults with closed TBI (N = 117), Glasgow Coma Scale score >8 at time of injury; baseline Epworth Sleepiness Scale (ESS) ≥10; sleep latency <8 minutes on multiple sleep latency test (MSLT); and Clinical Global Impression-Severity of Illness (CGI-S) score ≥4 for excessive sleepiness. INTERVENTION: Patients received armodafinil (50, 150, or 250 mg/day) or placebo for 12 weeks followed by an optional 12-month open-label extension. MEASUREMENTS AND RESULTS: Outcomes included MSLT, ESS, Clinical Global Impression-Change (CGI-C), TBI-Work Instability Scale (TBI-WIS), CGI-S, and tolerability. The study was terminated early due to low enrollment. Patients receiving 250 mg armodafinil showed significant improvement in sleep latency from baseline to final visit versus placebo (+7.2 minutes vs. +2.4 minutes; p = 0.0010). CGI-C ratings were much/ very much improved in approximately 50% of patients receiving 150 and 250 mg armodafinil, compared to 38% on placebo. ESS and TBI-WIS scores were not significantly different between groups. In the open-label extension (N = 49), patients demonstrated gradual improvement in ESS, TBI-WIS, and CGI-S scores up to 48 weeks post-baseline. Armodafinil was generally well tolerated, with headache the most common adverse event in both double-blind and open-label portions. CONCLUSIONS: Armodafinil 250 mg significantly improved sleep latency in patients with excessive sleepiness associated with mild or moderate TBI. Efficacy and tolerability of armodafinil were sustained throughout the open-label extension. TRIAL REGISTRATION: NCT00893789, NCT00983437.
+AN  - rayyan-1277756027
+AU  - Menn, S. J.
+AU  - Yang, R.
+AU  - Lankford, A.
+C1  - 1550-9397 Menn, Stuart J Yang, Ronghua Lankford, Alan Clinical Trial, Phase III Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2014/10/18 J Clin Sleep Med. 2014 Nov 15;10(11):1181-91. doi: 10.5664/jcsm.4196. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2014-11-15
+DO  - doi:10.5664/jcsm.4196
+IS  - 11
+KW  - Administration, Oral
+Adolescent
+Adult
+Aged
+Analysis of Variance
+Benzhydryl Compounds/*administration & dosage/adverse effects
+Brain Injuries/*complications/diagnosis
+Confidence Intervals
+Disorders of Excessive Somnolence/*drug therapy/etiology/physiopathology
+Dose-Response Relationship, Drug
+Double-Blind Method
+Drug Administration Schedule
+Female
+Follow-Up Studies
+Glasgow Coma Scale
+Head Injuries, Closed/*complications/diagnosis
+Humans
+Male
+Middle Aged
+Modafinil
+Polysomnography
+Reference Values
+Risk Assessment
+Time Factors
+Treatment Outcome
+Wakefulness/*drug effects
+Young Adult
+armodafinil
+excessive sleepiness
+traumatic brain injury
+LA  - eng
+PY  - 2014
+SN  - 1550-9389 (Print) 1550-9389
+SP  - 1181-91
+ST  - Armodafinil for the treatment of excessive sleepiness associated with mild or moderate closed traumatic brain injury: a 12-week, randomized, double-blind study followed by a 12-month open-label extension
+T2  - J Clin Sleep Med
+TI  - Armodafinil for the treatment of excessive sleepiness associated with mild or moderate closed traumatic brain injury: a 12-week, randomized, double-blind study followed by a 12-month open-label extension
+VL  - 10
+ID  - 50803
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Impulse control disorders (ICDs) in Parkinson disease (PD) are common and can be difficult to manage. The objective of this study was to determine the efficacy and tolerability of naltrexone, an opioid antagonist, for the treatment of ICDs in PD. METHODS: Patients with PD (n = 50) and an ICD were enrolled in an 8-week, randomized (1:1), double-blind, placebo-controlled study of naltrexone 50-100 mg/d (flexible dosing). The primary outcome measure was response based on the Clinical Global Impression-Change score, and the secondary outcome measure was change in symptom severity using the Questionnaire for Impulsive-Compulsive Disorders in Parkinson's Disease-Rating Scale (QUIP-RS) ICD score. RESULTS: Forty-five patients (90%) completed the study. The Clinical Global Impression-Change response rate difference favoring naltrexone in completers was 19.8% (95% confidence interval [CI] -8.7% to 44.2%). While this difference was not significant (odds ratio=1.6, 95% CI 0.5-5.2, Wald χ2 [df]=0.5 [1], p=0.5), naltrexone treatment led to a significantly greater decrease in QUIP-RS ICD score over time compared with placebo (regression coefficient for interaction term in linear mixed-effects model=-7.37, F[df]=4.3 [1, 49], p=0.04). The estimated changes in QUIP-RS ICD scores from baseline to week 8 were 14.9 points (95% CI 9.9-19.9) for naltrexone and 7.5 points (95% CI 2.5-12.6) for placebo. CONCLUSIONS: Naltrexone treatment was not efficacious for the treatment of ICDs in PD using a global assessment of response, but findings using a PD-specific ICD rating scale support further evaluation of opioid antagonists for the treatment of ICD symptoms in PD. CLASSIFICATION OF EVIDENCE: This study provides Class I evidence that in patients with PD and an ICD, naltrexone does not significantly increase the probability of achieving response. However, the study lacked the precision to exclude an important difference in response rates.
+AN  - rayyan-1277756067
+AU  - Papay, K.
+AU  - Xie, S. X.
+AU  - Stern, M.
+AU  - Hurtig, H.
+AU  - Siderowf, A.
+AU  - Duda, J. E.
+AU  - Minger, J.
+AU  - Weintraub, D.
+C1  - 1526-632x Papay, Kimberly Xie, Sharon X Stern, Matthew Hurtig, Howard Siderowf, Andrew Duda, John E Minger, James Weintraub, Daniel P30 AG010124/AG/NIA NIH HHS/United States P30-AG010124/AG/NIA NIH HHS/United States R01-AG040271/AG/NIA NIH HHS/United States R01-AT005074/AT/NCCIH NIH HHS/United States U01-NS082134/NS/NINDS NIH HHS/United States P50-NS053488/NS/NINDS NIH HHS/United States R21-AT005230/AT/NCCIH NIH HHS/United States P01-AG017586/AG/NIA NIH HHS/United States P50NS071675-06/NS/NINDS NIH HHS/United States R01 AG031348/AG/NIA NIH HHS/United States P01-AG032953/AG/NIA NIH HHS/United States (2P50 NS053488/NS/NINDS NIH HHS/United States P50 NS053488-07A2/NS/NINDS NIH HHS/United States U19 AG10483-22/AG/NIA NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, Non-P.H.S. United States 2014/07/20 Neurology. 2014 Aug 26;83(9):826-33. doi: 10.1212/WNL.0000000000000729. Epub 2014 Jul 18. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2014-8-26
+DO  - doi:10.1212/wnl.0000000000000729
+IS  - 9
+KW  - Aged
+Disruptive, Impulse Control, and Conduct Disorders/*drug therapy/etiology
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Naltrexone/*therapeutic use
+Narcotic Antagonists/*therapeutic use
+Parkinson Disease/*complications
+LA  - eng
+PY  - 2014
+SN  - 0028-3878 (Print) 0028-3878
+SP  - 826-33
+ST  - Naltrexone for impulse control disorders in Parkinson disease: a placebo-controlled study
+T2  - Neurology
+TI  - Naltrexone for impulse control disorders in Parkinson disease: a placebo-controlled study
+VL  - 83
+ID  - 50804
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: This study tested the hypothesis that the antidepressant venlafaxine would be an effective treatment for cocaine abusers with concurrent depressive disorders. METHODS: This was a randomized, 12-week, double-blind, placebo-controlled trial of outpatients (N = 130) meeting DSM-IIIR criteria for cocaine dependence and major depression or dysthymia (by SCID interview). Participants were treated with venlafaxine, up to 300 mg/day versus placebo. All patients received weekly individual manual-guided relapse prevention therapy. Weekly outcome measures included Clinical Global Impression Scale (CGI), self-reported cocaine use, urine toxicology and the Hamilton Depression Scale (Ham-D). RESULTS: Mood response, defined as a 50% reduction in the Ham-D between randomization and end of study, was 41% (26/64) on venlafaxine, and 33% (22/66) on placebo (p = .39). Measures of depression (Ham-D and CGI) improved more rapidly on venlafaxine than placebo, but these differences disappeared by weeks 6-8. Cocaine outcomes did not differ between treatment groups, and the proportion of patients achieving three or more consecutive weeks of urine-confirmed abstinence was low (venlafaxine: 16%; placebo: 15%). Reduction in cocaine use was associated with mood response. CONCLUSIONS: Overall, venlafaxine was not superior to placebo on either mood or cocaine use outcomes. Mood improvement was associated with improvement in cocaine use. However, placebo mood response was only moderate, and the proportion of patients achieving sustained abstinence was low. This suggests that the subgroup of cocaine-dependent patients with depressive disorders is relatively treatment resistant, and that further research is needed to improve outcomes for these patients.
+AN  - rayyan-1277756085
+AU  - Raby, W. N.
+AU  - Rubin, E. A.
+AU  - Garawi, F.
+AU  - Cheng, W.
+AU  - Mason, E.
+AU  - Sanfilippo, L.
+AU  - Lord, S.
+AU  - Bisaga, A.
+AU  - Aharonovich, E.
+AU  - Levin, F.
+AU  - McDowell, D.
+AU  - Nunes, E. V.
+C1  - 1521-0391 Raby, Wilfrid Noel Rubin, Eric A Garawi, Fatima Cheng, Wendy Mason, Ella Sanfilippo, Lisa Lord, Stephanie Bisaga, Adam Aharonovich, Efrat Levin, Frances McDowell, David Nunes, Edward V K23 DA277044‐01/DA/NIDA NIH HHS/United States P50 DA09236/DA/NIDA NIH HHS/United States K23 DA027044/DA/NIDA NIH HHS/United States P50 DA009236/DA/NIDA NIH HHS/United States K24 DA029647/DA/NIDA NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural England 2013/12/10 Am J Addict. 2014 Jan-Feb;23(1):68-75. doi: 10.1111/j.1521-0391.2013.12065.x. Epub 2013 Jun 26. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2014-1
+DO  - doi:10.1111/j.1521-0391.2013.12065.x
+IS  - 1
+KW  - Adolescent
+Adult
+Aged
+Antidepressive Agents, Second-Generation/*therapeutic use
+Cocaine-Related Disorders/complications/*drug therapy/therapy
+Cognitive Behavioral Therapy
+Combined Modality Therapy
+Cyclohexanols/*therapeutic use
+Depressive Disorder/complications/*drug therapy/*prevention & control
+Diagnosis, Dual (Psychiatry)
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Recurrence
+Treatment Outcome
+Venlafaxine Hydrochloride
+Young Adult
+LA  - eng
+PY  - 2014
+SN  - 1055-0496 (Print) 1055-0496
+SP  - 68-75
+ST  - A randomized, double-blind, placebo-controlled trial of venlafaxine for the treatment of depressed cocaine-dependent patients
+T2  - Am J Addict
+TI  - A randomized, double-blind, placebo-controlled trial of venlafaxine for the treatment of depressed cocaine-dependent patients
+VL  - 23
+ID  - 50805
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Bapineuzumab, a humanized anti-amyloid-beta monoclonal antibody, is in clinical development for the treatment of Alzheimer's disease. METHODS: We conducted two double-blind, randomized, placebo-controlled, phase 3 trials involving patients with mild-to-moderate Alzheimer's disease--one involving 1121 carriers of the apolipoprotein E (APOE) ε4 allele and the other involving 1331 noncarriers. Bapineuzumab or placebo, with doses varying by study, was administered by intravenous infusion every 13 weeks for 78 weeks. The primary outcome measures were scores on the 11-item cognitive subscale of the Alzheimer's Disease Assessment Scale (ADAS-cog11, with scores ranging from 0 to 70 and higher scores indicating greater impairment) and the Disability Assessment for Dementia (DAD, with scores ranging from 0 to 100 and higher scores indicating less impairment). A total of 1090 carriers and 1114 noncarriers were included in the efficacy analysis. Secondary outcome measures included findings on positron-emission tomographic amyloid imaging with the use of Pittsburgh compound B (PIB-PET) and cerebrospinal fluid phosphorylated tau (phospho-tau) concentrations. RESULTS: There were no significant between-group differences in the primary outcomes. At week 78, the between-group differences in the change from baseline in the ADAS-cog11 and DAD scores (bapineuzumab group minus placebo group) were -0.2 (P=0.80) and -1.2 (P=0.34), respectively, in the carrier study; the corresponding differences in the noncarrier study were -0.3 (P=0.64) and 2.8 (P=0.07) with the 0.5-mg-per-kilogram dose of bapineuzumab and 0.4 (P=0.62) and 0.9 (P=0.55) with the 1.0-mg-per-kilogram dose. The major safety finding was amyloid-related imaging abnormalities with edema among patients receiving bapineuzumab, which increased with bapineuzumab dose and APOE ε4 allele number and which led to discontinuation of the 2.0-mg-per-kilogram dose. Between-group differences were observed with respect to PIB-PET and cerebrospinal fluid phospho-tau concentrations in APOE ε4 allele carriers but not in noncarriers. CONCLUSIONS: Bapineuzumab did not improve clinical outcomes in patients with Alzheimer's disease, despite treatment differences in biomarkers observed in APOE ε4 carriers. (Funded by Janssen Alzheimer Immunotherapy and Pfizer; Bapineuzumab 301 and 302 ClinicalTrials.gov numbers, NCT00575055 and NCT00574132, and EudraCT number, 2009-012748-17.).
+AN  - rayyan-1277756113
+AU  - Salloway, S.
+AU  - Sperling, R.
+AU  - Fox, N. C.
+AU  - Blennow, K.
+AU  - Klunk, W.
+AU  - Raskind, M.
+AU  - Sabbagh, M.
+AU  - Honig, L. S.
+AU  - Porsteinsson, A. P.
+AU  - Ferris, S.
+AU  - Reichert, M.
+AU  - Ketter, N.
+AU  - Nejadnik, B.
+AU  - Guenzler, V.
+AU  - Miloslavsky, M.
+AU  - Wang, D.
+AU  - Lu, Y.
+AU  - Lull, J.
+AU  - Tudor, I. C.
+AU  - Liu, E.
+AU  - Grundman, M.
+AU  - Yuen, E.
+AU  - Black, R.
+AU  - Brashear, H. R.
+C1  - 1533-4406 Salloway, Stephen Sperling, Reisa Fox, Nick C Blennow, Kaj Klunk, William Raskind, Murray Sabbagh, Marwan Honig, Lawrence S Porsteinsson, Anton P Ferris, Steven Reichert, Marcel Ketter, Nzeera Nejadnik, Bijan Guenzler, Volkmar Miloslavsky, Maja Wang, Daniel Lu, Yuan Lull, Julia Tudor, Iulia Cristina Liu, Enchi Grundman, Michael Yuen, Eric Black, Ronald Brashear, H Robert Bapineuzumab 301 and 302 Clinical Trial Investigators G0902227/MRC_/Medical Research Council/United Kingdom MR/L010305/1/MRC_/Medical Research Council/United Kingdom P30 AG008051/AG/NIA NIH HHS/United States P50 AG005136/AG/NIA NIH HHS/United States MR/K013041/1/MRC_/Medical Research Council/United Kingdom P50 AG005134/AG/NIA NIH HHS/United States R01 NS080820/NS/NINDS NIH HHS/United States MR/L501517/1/MRC_/Medical Research Council/United Kingdom IK2 BX001820/BX/BLRD VA/United States P30 AG062421/AG/NIA NIH HHS/United States P50 AG008702/AG/NIA NIH HHS/United States Clinical Trial, Phase III Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2014/01/24 N Engl J Med. 2014 Jan 23;370(4):322-33. doi: 10.1056/NEJMoa1304839. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2014-1-23
+DO  - doi:10.1056/NEJMoa1304839
+IS  - 4
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/cerebrospinal fluid/*drug therapy/genetics
+Amyloid beta-Peptides/analysis/*antagonists & inhibitors/cerebrospinal fluid
+Antibodies, Monoclonal, Humanized/adverse effects/*therapeutic use
+Apolipoproteins E/genetics
+Biomarkers/analysis/cerebrospinal fluid
+Brain/pathology
+Cognition/drug effects
+Double-Blind Method
+Edema/chemically induced
+Female
+Humans
+Intention to Treat Analysis
+Male
+Middle Aged
+Neuropsychological Tests
+Phosphorylation
+Positron-Emission Tomography
+Severity of Illness Index
+Treatment Failure
+tau Proteins/cerebrospinal fluid
+LA  - eng
+PY  - 2014
+SN  - 0028-4793 (Print) 0028-4793
+SP  - 322-33
+ST  - Two phase 3 trials of bapineuzumab in mild-to-moderate Alzheimer's disease
+T2  - N Engl J Med
+TI  - Two phase 3 trials of bapineuzumab in mild-to-moderate Alzheimer's disease
+VL  - 370
+ID  - 50806
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Effective treatments to alleviate depression in Alzheimer's disease (AD) have been scarce. OBJECTIVE: To investigate the efficacy and tolerability of escitalopram in the treatment of depression in AD. METHODS: In this 12-week randomized, double-blind, placebo-controlled trial with open-label, 12-week extension, AD subjects over 50 years of age, with depression defined by Olin's provisional diagnostic criteria, were enrolled. The Cornell Scale for Depression in Dementia (CSDD), and other measures of depression and cognition were repeated. RESULTS: 91 subjects were screened, and 84 were randomized into either the study group or placebo group (n = 42 for both groups). Twenty-four subjects (29%) were unable to finish the study, yielding a per protocol population of 60 subjects (study group: n = 27; placebo group: n = 33). At week 12, differences in measures of depression and cognition between the two groups were not statistically significant. However, exploratory analysis suggested that further research on a subset of subjects with 'definite major depression' (baseline CSDD score ≥18) is needed. The number of treatment-related adverse-events (AE) did not differ between groups (p = 0.83) and no serious treatment-related AE were observed. CONCLUSION: The use of escitalopram was well tolerated in depressive dementia patients. Future studies focusing on subjects with more severe levels of depression, and with more statistical power, will be needed.
+AN  - rayyan-1277757124
+AU  - An, H.
+AU  - Choi, B.
+AU  - Park, K. W.
+AU  - Kim, D. H.
+AU  - Yang, D. W.
+AU  - Hong, C. H.
+AU  - Kim, S. Y.
+AU  - Han, S. H.
+C1  - 1875-8908 An, Hoyoung Choi, Booyeol Park, Kun-Woo Kim, Do-Hoon Yang, Dong-Won Hong, Chang Hyung Kim, Seong Yoon Han, Seol-Heui Journal Article Randomized Controlled Trial Netherlands 2016/10/08 J Alzheimers Dis. 2017;55(2):727-735. doi: 10.3233/JAD-160225. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017
+DO  - doi:10.3233/jad-160225
+IS  - 2
+KW  - Affect/*drug effects
+Aged
+Aged, 80 and over
+Alzheimer Disease/complications
+Antidepressive Agents, Second-Generation/*therapeutic use
+Citalopram/*therapeutic use
+Cognition/*drug effects
+*Depression/complications/drug therapy/physiopathology
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+Outcome Assessment, Health Care
+Psychiatric Status Rating Scales
+Alzheimer’s disease
+clinical trial
+depression
+escitalopram
+placebo
+LA  - eng
+PY  - 2017
+SN  - 1387-2877
+SP  - 727-735
+ST  - The Effect of Escitalopram on Mood and Cognition in Depressive Alzheimer's Disease Subjects
+T2  - J Alzheimers Dis
+TI  - The Effect of Escitalopram on Mood and Cognition in Depressive Alzheimer's Disease Subjects
+VL  - 55
+ID  - 50807
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Cognitive dysfunction in major depressive disorder (MDD) is identified as a primary therapeutic target; no current treatment is approved for the treatment of cognitive dysfunction in MDD. We examined whether intranasal insulin offered a beneficial effect across measures of cognitive function in adults with MDD. METHODS: Thirty-five adults (18-65 years of age: 47.09±9.89) meeting criteria for a major depressive episode as per the Diagnostic and Statistical Manual (DSM)-IV-Treatment Revised were included in this randomized, double blind, placebo-controlled, crossover design study. Subjects were not stratified based on baseline cognitive deficit. Subjects were randomized to 4 weeks of either intranasal insulin 40 International Units (IU) taken four times a day (i.e., morning, afternoon, evening, and before bed) (QID) (n=19) or placebo (n=16). RESULTS: No between group differences were observed in change from baseline on total Montgomery Åsberg Depression Rating Scale (MADRS) score (25.98±2.81), in either of the Positive or Negative subscales of the Positive and Negative Affect Schedule (PANAS), or on a global index of neurocognition. The possibility of practice and/or carry over effect could not be excluded. Methodological refinement (e.g., stratification of subjects based on baseline cognitive deficit) may have augmented assay sensitivity. CONCLUSION: Intranasal insulin did not demonstrate statistically significant improvements on overall mood, aspects of emotional processing, neurocognitive function, or self-reported quality of life patient reported outcomes.
+AN  - rayyan-1277757173
+AU  - Cha, D. S.
+AU  - Best, M. W.
+AU  - Bowie, C. R.
+AU  - Gallaugher, L. A.
+AU  - Woldeyohannes, H. O.
+AU  - Soczynska, J. K.
+AU  - Lewis, G.
+AU  - MacQueen, G.
+AU  - Sahakian, B. J.
+AU  - Kennedy, S. H.
+AU  - Lui, J. P.
+AU  - Mansur, R. B.
+AU  - McIntyre, R. S.
+C1  - 1573-2517 Cha, Danielle S Best, Michael W Bowie, Christopher R Gallaugher, Laura Ashley Woldeyohannes, Hanna O Soczynska, Joanna K Lewis, Gary MacQueen, Glenda Sahakian, Barbara J Kennedy, Sidney H Lui, Jane P Mansur, Rodrigo B McIntyre, Roger S Journal Article Randomized Controlled Trial Netherlands 2016/12/26 J Affect Disord. 2017 Mar 1;210:57-65. doi: 10.1016/j.jad.2016.12.006. Epub 2016 Dec 18. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-3-1
+DO  - doi:10.1016/j.jad.2016.12.006
+KW  - Administration, Intranasal
+Adolescent
+Adult
+Affect/*drug effects
+Aged
+Cognition/*drug effects
+Cognition Disorders/drug therapy/etiology/psychology
+Cross-Over Studies
+Depressive Disorder, Major/complications/*drug therapy/psychology
+Depressive Disorder, Treatment-Resistant/complications/*drug therapy/psychology
+Diagnostic and Statistical Manual of Mental Disorders
+Double-Blind Method
+Female
+Humans
+Insulin/*administration & dosage/*therapeutic use
+Male
+Middle Aged
+Psychiatric Status Rating Scales
+Quality of Life
+Treatment Outcome
+Young Adult
+*Cognition
+*Cognitive
+*Cognitive dysfunction
+*Cognitive impairment
+*Emotional processing
+*Intranasal insulin
+*Major depressive disorder
+LA  - eng
+PY  - 2017
+SN  - 0165-0327
+SP  - 57-65
+ST  - A randomized, double-blind, placebo-controlled, crossover trial evaluating the effect of intranasal insulin on cognition and mood in individuals with treatment-resistant major depressive disorder
+T2  - J Affect Disord
+TI  - A randomized, double-blind, placebo-controlled, crossover trial evaluating the effect of intranasal insulin on cognition and mood in individuals with treatment-resistant major depressive disorder
+VL  - 210
+ID  - 50808
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: To date there is no cure for Alzheimer's disease (AD). After amyloid beta immunotherapies have failed to meet primary endpoints of slowing cognitive decline in AD subjects, the inhibition of the beta-secretase BACE1 appears as a promising therapeutic approach. Pre-clinical data obtained in APP23 mice suggested that the anti-cancer drug thalidomide decreases brainBACE1 and Aβ levels. This prompted us to develop an NIH-supported Phase IIa clinical trial to test the potential of thalidomide for AD. We hypothesized that thalidomide can decrease or stabilize brain amyloid deposits, which would result in slower cognitive decline in drug- versus placebo-treated subjects. METHODS: This was a 24-week, randomized, double-blind, placebo-controlled, parallel group study with escalating dose regimen of thalidomide with a target dose of 400mg daily in patients with mild to moderate AD. The primary outcome measures were tolerability and cognitive performance assessed by a battery of tests. RESULTS: A total of 185 subjects have been pre-screened, out of which25 were randomized. Mean age of the sample at baseline was 73.64 (±7.20) years; mean education was 14.24 (±2.3) years; mean MMSE score was 21.00 (±5.32); and mean GDS score was 2.76 (±2.28).Among the 25 participants, 14 (56%) terminated early due to adverse events, dramatically decreasing the power of the study. In addition, those who completed the study (44%) never reached the estimated therapeutic dose of 400 mg/day thalidomide because of reported adverse events. The cognitive data showed no difference between the treated and placebo groups at the end of the trial. CONCLUSION: This study demonstrates AD patients have poor tolerability for thalidomide, and are unable to reach a therapeutic dose felt to be sufficient to have effects on BACE1. Because of poor tolerability, this study failed to demonstrate a beneficial effect on cognition.
+AN  - rayyan-1277757200
+AU  - Decourt, B.
+AU  - Drumm-Gurnee, D.
+AU  - Wilson, J.
+AU  - Jacobson, S.
+AU  - Belden, C.
+AU  - Sirrel, S.
+AU  - Ahmadi, M.
+AU  - Shill, H.
+AU  - Powell, J.
+AU  - Walker, A.
+AU  - Gonzales, A.
+AU  - Macias, M.
+AU  - Sabbagh, M. N.
+C1  - 1875-5828 Decourt, Boris Drumm-Gurnee, Denise Wilson, Jeffrey Jacobson, Sandra Belden, Christine Sirrel, Sherye Ahmadi, Michael Shill, Holly Powell, Jessica Walker, Aaron Gonzales, Amanda Macias, Mimi Sabbagh, Marwan N K01 AG047279/AG/NIA NIH HHS/United States P30 AG019610/AG/NIA NIH HHS/United States R01 AG034155/AG/NIA NIH HHS/United States Clinical Trial, Phase II Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't United Arab Emirates 2017/01/27 Curr Alzheimer Res. 2017;14(4):403-411. doi: 10.2174/1567205014666170117141330. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017
+DO  - doi:10.2174/1567205014666170117141330
+IS  - 4
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/psychology
+Cognition/drug effects
+Double-Blind Method
+Educational Status
+Female
+Humans
+Immunosuppressive Agents/*adverse effects/therapeutic use
+Male
+Middle Aged
+Patient Dropouts
+Thalidomide/*adverse effects/therapeutic use
+Treatment Failure
+Adverse events
+Alzheimer's Disease
+clinical trial
+cognitive tests
+thalidomide
+tolerability.
+LA  - eng
+PY  - 2017
+SN  - 1567-2050 (Print) 1567-2050
+SP  - 403-411
+ST  - Poor Safety and Tolerability Hamper Reaching a Potentially Therapeutic Dose in the Use of Thalidomide for Alzheimer's Disease: Results from a Double-Blind, Placebo-Controlled Trial
+T2  - Curr Alzheimer Res
+TI  - Poor Safety and Tolerability Hamper Reaching a Potentially Therapeutic Dose in the Use of Thalidomide for Alzheimer's Disease: Results from a Double-Blind, Placebo-Controlled Trial
+VL  - 14
+ID  - 50809
+ER  - 
+
+TY  - JOUR
+AB  - AIM: The aim of this study was to test the efficacy and safety of mirtazapine in the treatment of sleep disorders in patients with Alzheimer's disease by means of a randomized, double-blind, placebo-controlled trial. Measurements were obtained for 7 days before intervention (baseline) and for 2 weeks after the onset of treatment. METHODS: Alzheimer's disease patients with sleep disorders (n = 24) received 15-mg mirtazapine (n = 8) or placebo (n = 16) once daily at 2100 hours for 2 weeks. Patients were evaluated with actigraphy and structured scales before and after intervention. Historical control was employed. RESULTS: Treatment with mirtazapine or placebo had no effect on cognitive and functional status as assessed by the Mini-Mental State Examination and the Katz scale, respectively. There were no differences between groups in the frequency or severity of the adverse events reported. Compared with the placebo group, mirtazapine users showed increased daytime sleepiness but no improvement in the duration or efficiency of nocturnal sleep after treatment. CONCLUSIONS: This study showed no significant therapeutic effects of 15-mg mirtazapine in community-dwelling Alzheimer's disease patients with sleep disorders. Instead, this study found evidence of worsening of daytime sleep patterns.
+AN  - rayyan-1277757430
+AU  - Scoralick, F. M.
+AU  - Louzada, L. L.
+AU  - Quintas, J. L.
+AU  - Naves, J. O.
+AU  - Camargos, E. F.
+AU  - Nóbrega, O. T.
+C1  - 1479-8301 Scoralick, Francisca M Louzada, Luciana L Quintas, Juliana L Naves, Janeth O S Camargos, Einstein F Nóbrega, Otávio T Journal Article Randomized Controlled Trial England 2016/01/29 Psychogeriatrics. 2017 Mar;17(2):89-96. doi: 10.1111/psyg.12191. Epub 2016 Jan 27. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-3
+DO  - doi:10.1111/psyg.12191
+IS  - 2
+KW  - Actigraphy
+Aged
+Aged, 80 and over
+Alzheimer Disease/*complications
+Antidepressive Agents, Tricyclic/adverse effects/*therapeutic use
+Brazil
+Double-Blind Method
+Female
+Humans
+Male
+Mianserin/adverse effects/*analogs & derivatives/therapeutic use
+Mirtazapine
+Neuropsychological Tests
+Pilot Projects
+Sleep Wake Disorders/*drug therapy
+Treatment Outcome
+Alzheimer's
+antidepressant
+insomnia
+sleep disorders
+LA  - eng
+PY  - 2017
+SN  - 1346-3500
+SP  - 89-96
+ST  - Mirtazapine does not improve sleep disorders in Alzheimer's disease: results from a double-blind, placebo-controlled pilot study
+T2  - Psychogeriatrics
+TI  - Mirtazapine does not improve sleep disorders in Alzheimer's disease: results from a double-blind, placebo-controlled pilot study
+VL  - 17
+ID  - 50810
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Ziprasidone (ZIP) is often used with olanzapine (OLZ) in 'switch' and combination therapy but empirical evidence to support these strategies is limited. OBJECTIVE: This study was therefore designed to compare the efficacy and tolerability of switching from OLZ to ZIP, the combination of both medications, and OLZ and ZIP monotherapy, in patients with schizophrenia spectrum disorders (SSD). METHODS: In this 12 week open-label, assessor-blinded randomized trial, 148 patients with SSD who had not used antipsychotics for at least 3 months were assigned to ZIP (n = 49) or OLZ monotherapy (n = 31); OLZ for 4 weeks then a switch to ZIP (OLZ/ZIP, n = 35); or combination therapy (OLZ + ZIP, n = 33). The severity of psychosis and abnormal involuntary movements was evaluated at baseline, 1, 2, 4, 8, and 12 weeks using standard instruments. Baseline-to-endpoint changes in weight gain and metabolic measures were compared. RESULTS: The efficacy of both OLZ/ZIP and OLZ + ZIP was comparable OLZ monotherapy and better than ZIP monotherapy in reducing overall psychotic and negative symptoms at most 8 and 12 week measurement points. Changes in weight gain, glucose, and lipid measures did not differ between OLZ/ZIP and OLZ + ZIP, but were markedly higher following OLZ monotherapy. The OLZ + ZIP group had the lowest overall incidence of adverse events and extrapyramidal symptoms of all the treatment regimens. CONCLUSIONS: We conclude that combining ZIP and OLZ at the outset of treatment is superior to switching from OLZ to ZIP in terms of improving psychotic symptoms and limiting movement side effects without increasing the risk of metabolic syndrome.
+AN  - rayyan-1277757501
+AU  - Wang, H. H.
+AU  - Cai, M.
+AU  - Wang, H. N.
+AU  - Chen, Y. C.
+AU  - Zhang, R. G.
+AU  - Wang, Y.
+AU  - McAlonan, G. M.
+AU  - Bai, Y. H.
+AU  - Wu, W. J.
+AU  - Guo, L.
+AU  - Zhang, Y. H.
+AU  - Tan, Q. R.
+AU  - Zhang, Z. J.
+C1  - 1879-1379 Wang, Huai-Hai Cai, Min Wang, Hua-Ning Chen, Yun-Chun Zhang, Rui-Guo Wang, Ying McAlonan, Grainne M Bai, Yuan-Han Wu, Wen-Jun Guo, Li Zhang, Ya-Hong Tan, Qing-Rong Zhang, Zhang-Jin Comparative Study Journal Article Randomized Controlled Trial England 2016/11/13 J Psychiatr Res. 2017 Feb;85:59-65. doi: 10.1016/j.jpsychires.2016.11.002. Epub 2016 Nov 4. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-2
+DO  - doi:10.1016/j.jpsychires.2016.11.002
+KW  - Administration, Oral
+Adult
+Antipsychotic Agents/*administration & dosage/adverse effects
+Benzodiazepines/*administration & dosage/adverse effects
+Drug Substitution/adverse effects
+Drug Therapy, Combination
+Dyskinesia, Drug-Induced
+Female
+Humans
+Male
+Metabolic Syndrome/chemically induced
+Olanzapine
+Piperazines/*administration & dosage/adverse effects
+Psychiatric Status Rating Scales
+Psychotic Disorders/*drug therapy/physiopathology
+Schizophrenia/*drug therapy/physiopathology
+Severity of Illness Index
+Single-Blind Method
+Thiazoles/*administration & dosage/adverse effects
+Treatment Outcome
+Weight Gain/drug effects
+Combination therapy
+Metabolic syndrome
+Schizophrenia spectrum disorders
+Switching therapy
+Ziprasidone
+LA  - eng
+PY  - 2017
+SN  - 0022-3956
+SP  - 59-65
+ST  - An assessor-blinded, randomized comparison of efficacy and tolerability of switching from olanzapine to ziprasidone and the combination of both in schizophrenia spectrum disorders
+T2  - J Psychiatr Res
+TI  - An assessor-blinded, randomized comparison of efficacy and tolerability of switching from olanzapine to ziprasidone and the combination of both in schizophrenia spectrum disorders
+VL  - 85
+ID  - 50811
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: T3D-959 is a chemically unique, brain penetrant, dual PPAR delta/gamma agonist with 15-fold higher PPAR delta selectivity. Ubiquitous brain expression of PPAR delta, its critical role in regulating glucose and lipid metabolism, and the Alzheimer's disease (AD)-like phenotype of PPAR delta null mice motivated this study. OBJECTIVE: To determine safety and tolerability of multiple doses of T3D-959 in subjects with mild to moderate AD, examine systemic and central drug pharmacology and in an exploratory manner, perform cognitive assessments. METHODS: Thirty-four subjects with mild-to-moderate AD were orally administered 3, 10, 30, or 90 mg of T3D-959 daily for 14 days. There was no inclusion of a placebo arm. Safety and tolerability were monitored. Systemic drug pharmacology was examined via plasma metabolomics LC-MS-MS analysis, cerebral drug pharmacology via FDG-PET measures of changes in Relative CMRgl (R CMRgl, AD-effected regions relative to brain reference regions), and cognitive function assessed before and after drug treatment and again one week after completion of drug treatment, by ADAS-cog11 and the Digit Symbol Substitution Test (DSST). RESULTS: T3D-959 was in general safe and well tolerated. Single point pharmacokinetics at the Tmax showed dose dependent exposure. Plasma metabolome profile changes showed dose-dependent systemic effects on lipid metabolism and metabolism related to insulin sensitization. Relative FDG-PET imaging demonstrated dose-dependent, regional, effects of T3D-959 on R CMRgl based on the use of multiple reference regions. ADAS-cog11 and DSST cognitive assessments showed improvements with possible ApoE genotype association and pharmacodynamics related to the mechanism of drug action. CONCLUSIONS: Exploratory data from this Phase IIa clinical trial supports further clinical investigation of T3D-959 in a larger placebo-controlled clinical study.
+AN  - rayyan-1277758438
+AU  - Chamberlain, S.
+AU  - Gabriel, H.
+AU  - Strittmatter, W.
+AU  - Didsbury, J.
+C1  - 1875-8908 Chamberlain, Stanley Gabriel, Hoda Strittmatter, Warren Didsbury, John R44 AG049510/AG/NIA NIH HHS/United States Clinical Trial, Phase II Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural Netherlands 2019/12/31 J Alzheimers Dis. 2020;73(3):1085-1103. doi: 10.3233/JAD-190864. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2020
+DO  - doi:10.3233/jad-190864
+IS  - 3
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/diagnostic imaging/*drug therapy/metabolism/psychology
+Brain/diagnostic imaging/metabolism
+Cognition/*drug effects
+Female
+Humans
+Male
+Middle Aged
+Neuropsychological Tests
+PPAR delta/*agonists
+PPAR gamma/*agonists
+Positron-Emission Tomography
+Single-Blind Method
+Tandem Mass Spectrometry
+Treatment Outcome
+Alzheimer’s disease
+Fdg-pet
+Ppar
+clinical trials
+metabolism
+metabolomics
+LA  - eng
+PY  - 2020
+SN  - 1387-2877 (Print) 1387-2877
+SP  - 1085-1103
+ST  - An Exploratory Phase IIa Study of the PPAR delta/gamma Agonist T3D-959 Assessing Metabolic and Cognitive Function in Subjects with Mild to Moderate Alzheimer's Disease
+T2  - J Alzheimers Dis
+TI  - An Exploratory Phase IIa Study of the PPAR delta/gamma Agonist T3D-959 Assessing Metabolic and Cognitive Function in Subjects with Mild to Moderate Alzheimer's Disease
+VL  - 73
+ID  - 50812
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Behavioral and psychological symptoms of dementia (BPSD) are common in individuals with Alzheimer disease (AD). Donepezil and memantine are both widely used for the treatment of moderate AD. OBJECTIVE: To evaluate the effects of donepezil and memantine in relieving BPSD in individuals with moderate AD. METHOD: We conducted a prospective, randomized, 6-month clinical trial involving 85 individuals with moderate AD divided into two groups: group 1 (n = 42) was treated with donepezil; group 2 (n = 43) was treated with memantine. We used the Neuropsychiatric Inventory (NPI) to assess the prevalence and severity of BPSD at baseline and after 6 months of treatment with donepezil or memantine. RESULTS: The two groups' baseline characteristics, including age, sex, mean length of education, and disease duration, were comparable, as were their baseline Mini-Mental State Examination scores. The NPI Total score improved from baseline to month 6 in both groups (P < 0.0001). Analyses of the NPI subdomains revealed that both donepezil treatment and memantine treatment produced statistically significant improvement in all of the NPI domains except euphoria and apathy, for which no improvement was observed after memantine treatment. Both treatments were well tolerated, with mostly mild and transient adverse effects. CONCLUSION: Specific drugs for AD, including donepezil and memantine, may be effective in treating BPSD in individuals with moderate AD, with a favorable safety profile.
+AN  - rayyan-1277758801
+AU  - Bago Rožanković, P.
+AU  - Rožanković, M.
+AU  - Badžak, J.
+AU  - Stojić, M.
+AU  - Šušak Sporiš, I.
+C1  - 1543-3641 Bago Rožanković, Petra Rožanković, Marjan Badžak, Jasna Stojić, Maristela Šušak Sporiš, Ivana Journal Article Randomized Controlled Trial United States 2021/12/02 Cogn Behav Neurol. 2021 Dec 2;34(4):288-294. doi: 10.1097/WNN.0000000000000285. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-12-2
+DO  - doi:10.1097/wnn.0000000000000285
+IS  - 4
+KW  - *Alzheimer Disease/complications/drug therapy
+Behavioral Symptoms/drug therapy
+Donepezil/therapeutic use
+Humans
+Indans/therapeutic use
+*Memantine/therapeutic use
+Piperidines/therapeutic use
+Prospective Studies
+Treatment Outcome
+LA  - eng
+PY  - 2021
+SN  - 1543-3633
+SP  - 288-294
+ST  - Impact of Donepezil and Memantine on Behavioral and Psychological Symptoms of Alzheimer Disease: Six-month Open-label Study
+T2  - Cogn Behav Neurol
+TI  - Impact of Donepezil and Memantine on Behavioral and Psychological Symptoms of Alzheimer Disease: Six-month Open-label Study
+VL  - 34
+ID  - 50813
+ER  - 
+
+TY  - JOUR
+AB  - Dysregulation of glutamatergic neural circuits has been implicated in a cycle of toxicity, believed among the neurobiological underpinning of Alzheimer's disease. Previously, we reported preclinical evidence that the glutamate modulator riluzole, which is FDA approved for the treatment of amyotrophic lateral sclerosis, has potential benefits on cognition, structural and molecular markers of ageing and Alzheimer's disease. The objective of this study was to evaluate in a pilot clinical trial, using neuroimaging biomarkers, the potential efficacy and safety of riluzole in patients with Alzheimer's disease as compared to placebo. A 6-month phase 2 double-blind, randomized, placebo-controlled study was conducted at two sites. Participants consisted of males and females, 50 to 95 years of age, with a clinical diagnosis of probable Alzheimer's disease, and Mini-Mental State Examination between 19 and 27. Ninety-four participants were screened, 50 participants who met inclusion criteria were randomly assigned to receive 50 mg riluzole (n = 26) or placebo (n = 24) twice a day. Twenty-two riluzole-treated and 20 placebo participants completed the study. Primary end points were baseline to 6 months changes in (i) cerebral glucose metabolism as measured with fluorodeoxyglucose-PET in prespecified regions of interest (hippocampus, posterior cingulate, precuneus, lateral temporal, inferior parietal, frontal); and (ii) changes in posterior cingulate levels of the neuronal viability marker N-acetylaspartate as measured with in vivo proton magnetic resonance spectroscopy. Secondary outcome measures were neuropsychological testing for correlation with neuroimaging biomarkers and in vivo measures of glutamate in posterior cingulate measured with magnetic resonance spectroscopy as a potential marker of target engagement. Measures of cerebral glucose metabolism, a well-established Alzheimer's disease biomarker and predictor of disease progression, declined significantly less in several prespecified regions of interest with the most robust effect in posterior cingulate, and effects in precuneus, lateral temporal, right hippocampus and frontal cortex in riluzole-treated participants in comparison to the placebo group. No group effect was found in measures of N-acetylaspartate levels. A positive correlation was observed between cognitive measures and regional cerebral glucose metabolism. A group × visit interaction was observed in glutamate levels in posterior cingulate, potentially suggesting engagement of glutamatergic system by riluzole. In vivo glutamate levels positively correlated with cognitive performance. These findings support our main primary hypothesis that cerebral glucose metabolism would be better preserved in the riluzole-treated group than in the placebo group and provide a rationale for more powered, longer duration studies of riluzole as a potential intervention for Alzheimer's disease.
+AN  - rayyan-1277759012
+AU  - Matthews, D. C.
+AU  - Mao, X.
+AU  - Dowd, K.
+AU  - Tsakanikas, D.
+AU  - Jiang, C. S.
+AU  - Meuser, C.
+AU  - Andrews, R. D.
+AU  - Lukic, A. S.
+AU  - Lee, J.
+AU  - Hampilos, N.
+AU  - Shafiian, N.
+AU  - Sano, M.
+AU  - David Mozley, P.
+AU  - Fillit, H.
+AU  - McEwen, B. S.
+AU  - Shungu, D. C.
+AU  - Pereira, A. C.
+C1  - 1460-2156 Matthews, Dawn C Orcid: 0000-0001-9452-2245 Mao, Xiangling Dowd, Kathleen Tsakanikas, Diamanto Jiang, Caroline S Meuser, Caroline Andrews, Randolph D Lukic, Ana S Lee, Jihyun Hampilos, Nicholas Shafiian, Neeva Sano, Mary David Mozley, P Fillit, Howard McEwen, Bruce S Shungu, Dikoma C Pereira, Ana C R01 AG063819/AG/NIA NIH HHS/United States K76 AG054772/AG/NIA NIH HHS/United States R01 MH075895/MH/NIMH NIH HHS/United States UL1 TR001866/TR/NCATS NIH HHS/United States P50 AG005138/AG/NIA NIH HHS/United States R01 AG064020/AG/NIA NIH HHS/United States P30 AG066514/AG/NIA NIH HHS/United States Clinical Trial, Phase II Journal Article Multicenter Study Randomized Controlled Trial Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't England 2021/06/20 Brain. 2021 Dec 31;144(12):3742-3755. doi: 10.1093/brain/awab222. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-12-31
+DO  - doi:10.1093/brain/awab222
+IS  - 12
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*drug therapy/metabolism
+Brain/*drug effects/metabolism
+Double-Blind Method
+Female
+Glucose/*metabolism
+Humans
+Male
+Middle Aged
+Neuroprotective Agents/*therapeutic use
+Riluzole/*therapeutic use
+Alzheimer’s disease
+Fdg pet
+cerebral brain metabolism
+glutamate
+riluzole
+LA  - eng
+PY  - 2021
+SN  - 0006-8950 (Print) 0006-8950
+SP  - 3742-3755
+ST  - Riluzole, a glutamate modulator, slows cerebral glucose metabolism decline in patients with Alzheimer's disease
+T2  - Brain
+TI  - Riluzole, a glutamate modulator, slows cerebral glucose metabolism decline in patients with Alzheimer's disease
+VL  - 144
+ID  - 50814
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Posttraumatic irritability after traumatic brain injury (TBI) may become a chronic problem and contribute to impaired everyday function, either alone or in combination with alcohol use disorder. The authors hypothesized that divalproex sodium (VPA) would improve posttraumatic irritability and result in lessened alcohol use. METHODS: This randomized, placebo-controlled double-blind clinical trial recruited participants with an index TBI occurring 1 or more years prior to enrollment, a history of alcohol use disorder, and posttraumatic irritability corroborated by a knowledgeable informant. An 8-item subset of the Agitated Behavior Scale served as the primary outcome measure of VPA efficacy. Doses of VPA were titrated to standard serum concentrations of 50 µg/ml to 100 µg/ml. RESULTS: Forty-eight persons completed this clinical trial (VPA, N=22; placebo, N=26). At baseline, participants rated their posttraumatic irritability as less severe than did their informants (p<0.05). During the trial, informants reported significant and sustained reduction of posttraumatic irritability (p=0.03) in the study participants. Biweekly averages during drug exposure confirmed this (p<0.03, Cohen's d=0.44). Treatment efficacy was not related to measures of anxiety, posttraumatic stress disorder, sedation, or veteran versus nonveteran status. Alcohol use did not change as a result of treatment. There were no serious adverse events. CONCLUSIONS: This study demonstrated an effect of VPA on posttraumatic irritability, and VPA was well tolerated. Further definition of treatment efficacy and safety requires a large-scale multisite trial, using a randomized, double-blind placebo-controlled design.
+AN  - rayyan-1277759208
+AU  - Beresford, T.
+AU  - Ronan, P. J.
+AU  - Hipp, D.
+AU  - Schmidt, B.
+AU  - Thumm, E. B.
+AU  - Temple, B.
+AU  - Wortzel, H.
+AU  - Weitzenkamp, D.
+AU  - Emrick, C.
+AU  - Kelly, J.
+AU  - Arciniegas, D. B.
+C1  - 1545-7222 Beresford, Thomas Ronan, Patrick J Hipp, Daniel Schmidt, Brandon Thumm, E Brie Temple, Benjamin Wortzel, Hal Weitzenkamp, David Emrick, Chad Kelly, James Arciniegas, David B Journal Article Randomized Controlled Trial United States 2022/03/12 J Neuropsychiatry Clin Neurosci. 2022 Summer;34(3):224-232. doi: 10.1176/appi.neuropsych.19070159. Epub 2022 Mar 11. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022
+DO  - doi:10.1176/appi.neuropsych.19070159
+IS  - 3
+KW  - *Alcoholism/drug therapy
+*Brain Injuries, Traumatic/complications/drug therapy
+Double-Blind Method
+Humans
+Irritable Mood
+Treatment Outcome
+Valproic Acid/therapeutic use
+Clinical Drug Studies
+Traumatic Brain Injury
+LA  - eng
+PY  - 2022
+SN  - 0895-0172
+SP  - 224-232
+ST  - A Double-Blind Placebo-Controlled, Randomized Trial of Divalproex Sodium for Posttraumatic Irritability Greater Than 1 Year After Mild to Moderate Traumatic Brain Injury
+T2  - J Neuropsychiatry Clin Neurosci
+TI  - A Double-Blind Placebo-Controlled, Randomized Trial of Divalproex Sodium for Posttraumatic Irritability Greater Than 1 Year After Mild to Moderate Traumatic Brain Injury
+VL  - 34
+ID  - 50815
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Alzheimer's disease is a progressive, irreversible, and fatal disease for which accumulation of amyloid beta is thought to play a key role in pathogenesis. Aducanumab is a human monoclonal antibody directed against aggregated soluble and insoluble forms of amyloid beta. OBJECTIVES: We evaluated the efficacy and safety of aducanumab in early Alzheimer's disease. DESIGN: EMERGE and ENGAGE were two randomized, double-blind, placebo-controlled, global, phase 3 studies of aducanumab in patients with early Alzheimer's disease. SETTING: These studies involved 348 sites in 20 countries. PARTICIPANTS: Participants included 1638 (EMERGE) and 1647 (ENGAGE) patients (aged 50-85 years, confirmed amyloid pathology) who met clinical criteria for mild cognitive impairment due to Alzheimer's disease or mild Alzheimer's disease dementia, of which 1812 (55.2%) completed the study. INTERVENTION: Participants were randomly assigned 1:1:1 to receive aducanumab low dose (3 or 6 mg/kg target dose), high dose (10 mg/kg target dose), or placebo via IV infusion once every 4 weeks over 76 weeks. MEASUREMENTS: The primary outcome measure was change from baseline to week 78 on the Clinical Dementia Rating Sum of Boxes (CDR-SB), an integrated scale that assesses both function and cognition. Other measures included safety assessments; secondary and tertiary clinical outcomes that assessed cognition, function, and behavior; and biomarker endpoints. RESULTS: EMERGE and ENGAGE were halted based on futility analysis of data pooled from the first approximately 50% of enrolled patients; subsequent efficacy analyses included data from a larger data set collected up to futility declaration and followed prespecified statistical analyses. The primary endpoint was met in EMERGE (difference of -0.39 for high-dose aducanumab vs placebo [95% CI, -0.69 to -0.09; P=.012; 22% decrease]) but not in ENGAGE (difference of 0.03, [95% CI, -0.26 to 0.33; P=.833; 2% increase]). Results of biomarker substudies confirmed target engagement and dose-dependent reduction in markers of Alzheimer's disease pathophysiology. The most common adverse event was amyloid-related imaging abnormalities-edema. CONCLUSIONS: Data from EMERGE demonstrated a statistically significant change across all four primary and secondary clinical endpoints. ENGAGE did not meet its primary or secondary endpoints. A dose- and time-dependent reduction in pathophysiological markers of Alzheimer's disease was observed in both trials.
+AN  - rayyan-1277759224
+AU  - Budd Haeberlein, S.
+AU  - Aisen, P. S.
+AU  - Barkhof, F.
+AU  - Chalkias, S.
+AU  - Chen, T.
+AU  - Cohen, S.
+AU  - Dent, G.
+AU  - Hansson, O.
+AU  - Harrison, K.
+AU  - von Hehn, C.
+AU  - Iwatsubo, T.
+AU  - Mallinckrodt, C.
+AU  - Mummery, C. J.
+AU  - Muralidharan, K. K.
+AU  - Nestorov, I.
+AU  - Nisenbaum, L.
+AU  - Rajagovindan, R.
+AU  - Skordos, L.
+AU  - Tian, Y.
+AU  - van Dyck, C. H.
+AU  - Vellas, B.
+AU  - Wu, S.
+AU  - Zhu, Y.
+AU  - Sandrock, A.
+C1  - 2426-0266 Budd Haeberlein, S Aisen, P S Barkhof, F Chalkias, S Chen, T Cohen, S Dent, G Hansson, O Harrison, K von Hehn, C Iwatsubo, T Mallinckrodt, C Mummery, C J Muralidharan, K K Nestorov, I Nisenbaum, L Rajagovindan, R Skordos, L Tian, Y van Dyck, C H Vellas, B Wu, S Zhu, Y Sandrock, A Clinical Trial, Phase III Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't Switzerland 2022/05/12 J Prev Alzheimers Dis. 2022;9(2):197-210. doi: 10.14283/jpad.2022.30. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022
+DO  - doi:10.14283/jpad.2022.30
+IS  - 2
+KW  - *Alzheimer Disease/drug therapy
+Amyloid beta-Peptides
+Antibodies, Monoclonal, Humanized/therapeutic use
+Biomarkers
+Humans
+Aducanumab
+Alzheimer’s disease
+amyloid beta
+LA  - eng
+PY  - 2022
+SN  - 2274-5807
+SP  - 197-210
+ST  - Two Randomized Phase 3 Studies of Aducanumab in Early Alzheimer's Disease
+T2  - J Prev Alzheimers Dis
+TI  - Two Randomized Phase 3 Studies of Aducanumab in Early Alzheimer's Disease
+VL  - 9
+ID  - 50816
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: A case series suggested efficacy for lithium to treat agitation in dementia, but no placebo-controlled trials have been conducted. OBJECTIVES: To evaluate low-dose lithium treatment of agitation in Alzheimer's disease (AD). METHOD: In a four-site trial, patients with AD and agitation/aggression score ≥4 on the Neuropsychiatric Inventory (NPI) were randomized, double-blind, to lithium carbonate 150-600 mg daily or placebo for 12 weeks. Primary efficacy outcome was change in NPI agitation/aggression; secondary efficacy outcome was treatment response (30% reduction in NPI score for agitation/aggression plus psychosis and a Clinical Global Impression (CGI) score of much or very much improved). Safety profile of lithium was assessed. RESULTS: Fifty-eight of 77 patients (75.3%) completed the trial. In linear mixed effects model analyses, lithium was not significantly superior to placebo for agitation/aggression. Proportion of responders was 31.6% on lithium and 17.9% on placebo (χ(2)=1.26, p = 0.26). Moderate or marked improvement (CGI) was greater on lithium (10/38=36.8%) than placebo (0/39=0%, Fisher's exact test p <0.001). In exploratory analyses, improvement on lithium was greater than placebo on NPI delusions and irritability/lability (p's<0.05). Lithium showed greater reduction than placebo in patients with high Young Mania Rating Scale scores (β=5.06; 95%CI,1.18 to 8.94, p = 0.01). Oral dose and serum levels demonstrated similar associations with efficacy outcomes. Lithium did not differ significantly from placebo on safety outcomes. CONCLUSIONS: Low-dose lithium was not efficacious in treating agitation but was associated with global clinical improvement and excellent safety. A larger trial may be warranted of likely lithium-responsive behavioral symptoms that overlap with mania.
+AN  - rayyan-1277759265
+AU  - Devanand, D. P.
+AU  - Crocco, E.
+AU  - Forester, B. P.
+AU  - Husain, M. M.
+AU  - Lee, S.
+AU  - Vahia, I. V.
+AU  - Andrews, H.
+AU  - Simon-Pearson, L.
+AU  - Imran, N.
+AU  - Luca, L.
+AU  - Huey, E. D.
+AU  - Deliyannides, D. A.
+AU  - Pelton, G. H.
+C1  - 1545-7214 Devanand, D P Crocco, Elizabeth Forester, Brent P Husain, Mustafa M Lee, Seonjoo Vahia, Ipsit V Andrews, Howard Simon-Pearson, Laura Imran, Nadia Luca, Luminita Huey, Edward D Deliyannides, Deborah A Pelton, Gregory H R01 AG047146/AG/NIA NIH HHS/United States R01 AG062268/AG/NIA NIH HHS/United States R01 MH120794/MH/NIMH NIH HHS/United States U24 AG021886/AG/NIA NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural England 2021/06/02 Am J Geriatr Psychiatry. 2022 Jan;30(1):32-42. doi: 10.1016/j.jagp.2021.04.014. Epub 2021 May 12. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-1
+DO  - doi:10.1016/j.jagp.2021.04.014
+IS  - 1
+KW  - *Alzheimer Disease/complications/diagnosis/drug therapy
+Double-Blind Method
+Humans
+*Lithium/therapeutic use
+Lithium Compounds/adverse effects
+Psychomotor Agitation/drug therapy/etiology/psychology
+Treatment Outcome
+LA  - eng
+PY  - 2022
+SN  - 1064-7481 (Print) 1064-7481
+SP  - 32-42
+ST  - Low Dose Lithium Treatment of Behavioral Complications in Alzheimer's Disease: Lit-AD Randomized Clinical Trial
+T2  - Am J Geriatr Psychiatry
+TI  - Low Dose Lithium Treatment of Behavioral Complications in Alzheimer's Disease: Lit-AD Randomized Clinical Trial
+VL  - 30
+ID  - 50817
+ER  - 
+
+TY  - JOUR
+AB  - No prior studies have evaluated the efficacy and safety of zolpidem and zopiclone to treat insomnia of demented patients. This randomized, triple-blind, placebo-controlled clinical trial used these drugs to treat patients with probable, late onset Alzheimer's dementia (AD) (DSM V and NINCDS-ADRDA criteria) exhibiting insomnia (DSM V criteria and nocturnal NPI scores ≥ 2). Actigraphic records were performed for 7 days at baseline and for 14 days during the treatment period in 62 patients aged 80.5 years in average and randomized at a 1:1:1 ratio for administration of zolpidem 10 mg/day, zopiclone 7.5 mg/day or placebo. Primary endpoint was the main nocturnal sleep duration (MNSD), whereas secondary outcomes were the proportion of the night time slept, awake time after sleep onset (WASO), nocturnal awakenings, total daytime sleep time and daytime naps. Cognitive and functional domains were tested before and after drug/placebo use. Three participants under zopiclone use had intervention interrupted due to intense daytime sedation and worsened agitation with wandering. Zopiclone produced an 81 min increase in MNSD (95% confidence interval (CI): -0.8, 163.2), a 26 min reduction in WASO (95% CI: -56.2, 4.8) and a 2-episode decrease in awakening per night (95% CI: -4.0, 0.4) in average compared to placebo. Zolpidem yielded no significant difference in MNSD despite a significant 22 min reduction in WASO (95% CI: -52.5, 8.3) and a reduction of 1 awakening each night (95% CI: -3.4, 1.2) in relation to placebo. There was a 1-point reduction in mean performance in the symbols search test among zolpidem users (95% CI: -4.1, 1.5) and an almost eight-point reduction in average scores in the digit-symbol coding test among zopiclone users (95% CI: -21.7, 6.2). In summary, short-term use of zolpidem or zopiclone by older insomniacs with AD appears to be clinically helpful, even though safety and tolerance remain issues to be personalized in healthcare settings and further investigated in subsequent trials. This trial was registered in ClinicalTrials.gov Identifier: NCT03075241.
+AN  - rayyan-1277759409
+AU  - Louzada, L. L.
+AU  - Machado, F. V.
+AU  - Quintas, J. L.
+AU  - Ribeiro, G. A.
+AU  - Silva, M. V.
+AU  - Mendonça-Silva, D. L.
+AU  - Gonçalves, B. S. B.
+AU  - Nóbrega, O. T.
+AU  - Camargos, E. F.
+C1  - 1740-634x Louzada, Luciana L Machado, Flávio V Quintas, Juliana L Ribeiro, Guilherme A Silva, Mônica V Mendonça-Silva, Dayde L Gonçalves, Bruno S B Nóbrega, Otávio T Camargos, Einstein F Orcid: 0000-0003-1991-5529 Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2021/10/13 Neuropsychopharmacology. 2022 Jan;47(2):570-579. doi: 10.1038/s41386-021-01191-3. Epub 2021 Oct 11. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-1
+DO  - doi:10.1038/s41386-021-01191-3
+IS  - 2
+KW  - Aged, 80 and over
+*Alzheimer Disease/complications/drug therapy
+Azabicyclo Compounds
+Double-Blind Method
+Humans
+Hypnotics and Sedatives/adverse effects
+Piperazines
+*Sleep Initiation and Maintenance Disorders/complications/drug therapy
+Zolpidem/adverse effects
+LA  - eng
+PY  - 2022
+SN  - 0893-133X (Print) 0893-133x
+SP  - 570-579
+ST  - The efficacy and safety of zolpidem and zopiclone to treat insomnia in Alzheimer's disease: a randomized, triple-blind, placebo-controlled trial
+T2  - Neuropsychopharmacology
+TI  - The efficacy and safety of zolpidem and zopiclone to treat insomnia in Alzheimer's disease: a randomized, triple-blind, placebo-controlled trial
+VL  - 47
+ID  - 50818
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Abnormal blood lipids are associated with cognitive impairment and amyloid-β (Aβ) deposition in the brain. However, the effects of statins on Alzheimer's disease (AD) have not been determined. OBJECTIVE: Considering that plasma Aβ are related to Aβ deposition in the brain, we investigated the effects of simvastatin on plasma Aβ transport. METHODS: This was a randomized, double-blind, placebo-controlled trial. One hundred and twenty patients with hyperlipidemia were randomly assigned to receive 40 mg of simvastatin per day or matching placebo for 12 weeks (sixty patients per group). Plasma Aβ, sLRP1, sRAGE, and lipid levels were measured at baseline and at the 6-week and 12-week visits. RESULTS: The ITT database ultimately included 108 participants (placebo group: n = 53; simvastatin group: n = 55) and 64 (59.3%) were women, ranging in age from 45 to 75 years (mean 57.2±6.9 years). Multiple linear regression analysis showed that, after 12 weeks of follow-up, compared with the placebo group, ΔAβ42 levels (the change of Aβ42 levels from baseline at week 12) increased more and ΔsRAGE levels decreased more in the simvastatin group (Aβ42: β= 5.823, p = 0.040; sRAGE: β= -72.012, p = 0.031), and a significant negative association was found between ΔAβ42 and ΔsRAGE levels (β= -0.115, p = 0.045). In addition, generalized estimation equation analysis showed that triglycerides levels were negatively correlated with Aβ40 (β= -16.79, p = 0.023), Aβ42 (β= -6.10, p = 0.001), and sRAGE (β= -51.16, p = 0.003). CONCLUSION: Daily oral simvastatin (40 mg/day) in patients with hyperlipidemia for 12 weeks can significantly increase plasma Aβ42 levels compared with placebo, which was associated with reduced triglycerides and sRAGE levels, indicating that statins may affect plasma Aβ transport.
+AN  - rayyan-1277759605
+AU  - Wei, S.
+AU  - Dang, L.
+AU  - Gao, F.
+AU  - Wang, J.
+AU  - Wang, J.
+AU  - Qu, Q.
+C1  - 1875-8908 Wei, Shan Dang, Liangjun Gao, Fan Wang, Jingyi Wang, Jin Qu, Qiumin Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Netherlands 2022/09/20 J Alzheimers Dis. 2022;90(1):349-362. doi: 10.3233/JAD-220240. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022
+DO  - doi:10.3233/jad-220240
+IS  - 1
+KW  - Aged
+Female
+Humans
+Male
+*Alzheimer Disease/psychology
+Amyloid beta-Peptides
+Double-Blind Method
+*Hydroxymethylglutaryl-CoA Reductase Inhibitors/therapeutic use
+*Hyperlipidemias/drug therapy
+Peptide Fragments
+Simvastatin/therapeutic use
+Triglycerides/therapeutic use
+Middle Aged
+Alzheimer’s disease
+hyperlipidemia
+plasma amyloid-β
+simvastatin
+soluble low-density lipoprotein receptor-related protein-1
+soluble receptor of advanced glycation end products
+LA  - eng
+PY  - 2022
+SN  - 1387-2877
+SP  - 349-362
+ST  - Effects of Simvastatin on Plasma Amyloid-β Transport in Patients with Hyperlipidemia: A 12-Week Randomized, Double-Blind, Placebo-Controlled Trial
+T2  - J Alzheimers Dis
+TI  - Effects of Simvastatin on Plasma Amyloid-β Transport in Patients with Hyperlipidemia: A 12-Week Randomized, Double-Blind, Placebo-Controlled Trial
+VL  - 90
+ID  - 50819
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Hydromethylthionine mesylate is a tau aggregation inhibitor shown to have exposure-dependent pharmacological activity on cognitive decline and brain atrophy in two completed Phase 3 trials in mild/moderate Alzheimer's disease (AD). OBJECTIVES: The present report summarises the basis for selection of 16 mg/day as monotherapy as the optimal treatment regime and the design rationale of a confirmatory Phase 3 trial (LUCIDITY). DESIGN: The trial comprises a 12-month double-blind, placebo-controlled phase followed by a 12-month modified delayed-start open-label treatment phase. SETTING: 76 clinical research sites in North America and Europe. PARTICIPANTS: 545 patients with probable AD or MCI-AD in the final version of the protocol. INTERVENTION: Participants were assigned randomly to receive hydromethylthione mesylate at doses of 16 mg/day, 8 mg/day or placebo at a 4:1:4 ratio during the double-blind phase. All participants in the open-label phase receive the 16 mg/day dose. MEASUREMENTS: Co-primary clinical outcomes are the 11-item Alzheimer's Disease Assessment Scale (ADAS-cog11) and the 23-item Alzheimer's Disease Cooperative Study - Activities of Daily Living (ADCS-ADL23). Secondary biomarker measures include whole-brain atrophy and temporal lobe 18F-fluorodeoxyglucose positron emission tomography. RESULTS: 446 participants are expected to complete the 12-month placebo-controlled phase in March 2022. CONCLUSIONS: If the primary end points are met, the data will provide confirmatory evidence of the clinical and biomarker benefits of hydromethylthionine mesylate in minimal to moderate AD. As low-dose oral hydromethylthionine mesylate is simple to use clinically, does not cause amyloid-related imaging abnormalities and has a benign safety profile, it would likely improve AD management.
+AN  - rayyan-1277759610
+AU  - Wischik, C. M.
+AU  - Bentham, P.
+AU  - Gauthier, S.
+AU  - Miller, S.
+AU  - Kook, K.
+AU  - Schelter, B. O.
+C1  - 2426-0266 Wischik, C M Bentham, P Gauthier, S Miller, S Kook, K Schelter, B O Clinical Trial, Phase III Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Switzerland 2022/10/26 J Prev Alzheimers Dis. 2022;9(4):780-790. doi: 10.14283/jpad.2022.63. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022
+DO  - doi:10.14283/jpad.2022.63
+IS  - 4
+KW  - Humans
+*Alzheimer Disease/drug therapy
+Activities of Daily Living
+Fluorodeoxyglucose F18
+Atrophy/drug therapy
+Mesylates/therapeutic use
+Alzheimer’s disease
+Lmtm
+Leuco-methylthioninium bis(hydromethanesulphonate)
+hydromethylthionine mesylate
+tau aggregation inhibitor
+LA  - eng
+PY  - 2022
+SN  - 2274-5807 (Print) 2274-5807
+SP  - 780-790
+ST  - Oral Tau Aggregation Inhibitor for Alzheimer's Disease: Design, Progress and Basis for Selection of the 16 mg/day Dose in a Phase 3, Randomized, Placebo-Controlled Trial of Hydromethylthionine Mesylate
+T2  - J Prev Alzheimers Dis
+TI  - Oral Tau Aggregation Inhibitor for Alzheimer's Disease: Design, Progress and Basis for Selection of the 16 mg/day Dose in a Phase 3, Randomized, Placebo-Controlled Trial of Hydromethylthionine Mesylate
+VL  - 9
+ID  - 50820
+ER  - 
+
