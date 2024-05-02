@@ -8,7 +8,6 @@ from sklearn.model_selection import train_test_split
 def map_labels(df):
 
     # TODO double-check the classes are correct
-    # 'Animal-systematic-review' is definitely missing from the dataset
 
     label_map = {
         'REST': [
@@ -89,7 +88,7 @@ def save_splits(train_data, val_data, test_data, save_dir):
     print("Data splits have been saved successfully.")
 
     # Log class distribution for each split
-    with open(os.path.join(save_dir, 'split_info.log'), 'w') as f:
+    with open(os.path.join(save_dir, 'split_info.log'), 'a') as f:
         f.write('Train multi:\n' + str(train_data['multi_label'].value_counts()) + '\n\n')
         f.write('Val multi:\n' + str(val_data['multi_label'].value_counts()) + '\n\n')
         f.write('Test multi:\n' + str(test_data['multi_label'].value_counts()) + '\n\n')
@@ -136,21 +135,22 @@ def custom_train_test_split(data, test_size, val_size, random_state):
 
 
 def main():
-    # Load raw data
-    path_to_file = "./../../data/prodigy/annotated_output/final/full_combined_dataset_1996.csv"
+    # old dataset
+    # path_to_file = "./../../data/prodigy/annotated_output/final/full_combined_dataset_1996.csv"
+    # enriched dataset
+    path_to_file = './../../data/prodigy/annotated_output/final/full_enriched_dataset_2696.csv'
+    save_dir = "./../../data/data_splits_stratified/6-2-2_all_classes_enriched" # new enriched dataset
+    os.makedirs(save_dir, exist_ok=True)
     df = pd.read_csv(path_to_file)
     print(df)
 
-    # Check the number of instances of 'Clinical-study-review'
-    clinical_study_review_count = df['accepted_label'].value_counts().get('Animal-systematic-review', 0)
-    print("Number of instances of 'Animal-systematic-review':", clinical_study_review_count)
-    # NB: not a single instance! -> Number of instances of 'Animal-systematic-review': 0
+    # start logging
+    with open(os.path.join(save_dir, 'split_info.log'), 'w') as f:
+        f.write(f"\n\n{10*'*'} Creating stratified splits on the enriched dataset {10*'*'}\n\n")
+
 
     df = map_labels(df)
-    # df.dropna(subset=['multi_label'], inplace=True) # drop NaN
-
-    # Get the necessary columns
-    data = get_data(df)
+    data = get_data(df) # Get the necessary columns
 
     # Define split sizes and random state
     test_size = 0.2
@@ -160,8 +160,6 @@ def main():
     # Perform custom train-test split
     train_data, val_data, test_data = custom_train_test_split(data, test_size, val_size, random_state)
 
-    # Save splits for use with all models
-    save_dir = "./../../data/data_splits_stratified/6-2-2_all_classes"
     save_splits(train_data, val_data, test_data, save_dir)
 
 

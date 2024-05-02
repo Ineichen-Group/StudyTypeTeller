@@ -1,0 +1,76 @@
+
+
+********** Creating stratified splits on the enriched dataset **********
+
+Train multi:
+multi_label
+0     514
+1     222
+2     123
+3     107
+4      99
+5      93
+6      88
+7      66
+8      62
+9      52
+10     46
+11     43
+12     34
+13     32
+Name: count, dtype: int64
+
+Val multi:
+multi_label
+0     172
+1      74
+2      41
+3      36
+4      33
+5      31
+6      29
+7      22
+8      21
+9      18
+10     15
+11     15
+12     12
+13     11
+Name: count, dtype: int64
+
+Test multi:
+multi_label
+0     172
+1      75
+2      42
+3      36
+4      33
+5      31
+6      30
+7      22
+8      21
+9      18
+10     16
+11     15
+12     12
+13     11
+Name: count, dtype: int64
+
+Train binary:
+binary_label
+0    1354
+1     227
+Name: count, dtype: int64
+
+Val binary:
+binary_label
+0    455
+1     75
+Name: count, dtype: int64
+
+Test binary:
+binary_label
+0    457
+1     77
+Name: count, dtype: int64
+
