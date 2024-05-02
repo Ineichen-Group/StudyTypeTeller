@@ -1,0 +1,1938 @@
+﻿TY  - JOUR
+AB  - Protective effects of statins have been well documented for stroke therapy. Here, we used a systematic review and meta-analysis to assess these evidences. We identified 190 studies using statin treatment in stroke animal models by electronic searching. From those, only studies describing ischemic occlusive stroke and reporting data on infarct volume and/or neurological outcome were included in the analysis (41 publications, 1882 animals). The global estimate effect was assessed by Weighted Mean Difference meta-analysis. Statins reduced infarct volume by 25.12% (20.66%-29.58%, P < 0.001) and consistently, induced an improvement on neurological outcome (20.36% (14.17%-26.56%), P < 0.001). Stratified analysis showed that simvastatin had the greatest effect on infarct volume reduction (38.18%) and neurological improvement (22.94%), whereas bigger infarct reduction was observed giving the statin as a pre-treatment (33.5%) compared with post-treatment (16.02%). The use of pentobarbital sodium, the timing of statin administration, the statement of conflict of interest and the type of statin studied were found to be independent factors in the meta-regression, indicating their influence on the results of studies examining statin treatment. In conclusion, this meta-analysis provides further evidences of the efficacy of statins, supporting their potential use for human stroke therapy.
+AD  - Neurovascular Research Laboratory, Institut de Recerca Vall d'Hebron, Universitat Autònoma de Barcelona, Barcelona, Spain.
+AN  - 22548274
+AU  - García-Bonilla, L.
+AU  - Campos, M.
+AU  - Giralt, D.
+AU  - Salat, D.
+AU  - Chacón, P.
+AU  - Hernández-Guillamon, M.
+AU  - Rosell, A.
+AU  - Montaner, J.
+DA  - Jul
+DO  - 10.1111/j.1471-4159.2012.07773.x
+DP  - NLM
+ET  - 20120521
+IS  - 2
+KW  - Animals
+Brain Ischemia/drug therapy/pathology
+Data Interpretation, Statistical
+Disease Models, Animal
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/pharmacology/*therapeutic use
+Infarction, Middle Cerebral Artery/pathology
+Mice
+Publication Bias
+Rats
+Regression Analysis
+Research Design
+Stroke/*drug therapy
+LA  - eng
+N1  - 1471-4159
+García-Bonilla, Lidia
+Campos, Mireia
+Giralt, Dolors
+Salat, David
+Chacón, Pilar
+Hernández-Guillamon, Mar
+Rosell, Anna
+Montaner, Joan
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+England
+2012/05/03
+J Neurochem. 2012 Jul;122(2):233-43. doi: 10.1111/j.1471-4159.2012.07773.x. Epub 2012 May 21.
+PY  - 2012
+SN  - 0022-3042
+SP  - 233-43
+ST  - Evidence for the efficacy of statins in animal stroke models: a meta-analysis
+T2  - J Neurochem
+TI  - Evidence for the efficacy of statins in animal stroke models: a meta-analysis
+VL  - 122
+ID  - 50909
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this systematic review was to identify, assess, and critically evaluate the quality of evidence of nonsteroidal anti-inflammatory drug (NSAID)-induced adverse effects in dogs. Original prospective studies published in peer-reviewed journals in English (1990-2012) that reported data on the safety of NSAIDs administration in dogs were searched. For each study, design type (I, II, III, or IV) and assessment of quality (+, Ø, -) were rated. For each drug, quantity and consistency rating (***, **, *) and strength of evidence (high, moderate, low, or extremely low) were identified and evaluated. The strength of evidence was defined in terms of how applicable and relevant the conclusions were to the target population. Sixty-four studies met the inclusion criteria. Thirty-five (55%) research studies and 29 (45%) clinical trials were identified. A high strength of evidence existed for carprofen, firocoxib, and meloxicam; moderate for deracoxib, ketoprofen, and robenacoxib; and low for etodolac. Quality and consistency rating were as follows: carprofen (***/***), deracoxib (**/***), etodolac (*/unable to rate), firocoxib (***/**), ketoprofen (**/***), meloxicam (***/***), and robenacoxib (**/**), respectively. Adverse effects were detected in 35 studies (55%) and commonly included vomiting, diarrhea, and anorexia. Three studies (5%) reported a power analysis related to adverse effects of ≥80%. In randomized, placebo-controlled, blinded studies (n = 25, 39%), the incidence of adverse effects was not statistically different between treated and control dogs. Finally, most studies were not appropriately designed to determine the safety of NSAIDs, and involved a healthy nongeriatric population of research dogs.
+AN  - rayyan-1270347343
+AU  - Monteiro-Steagall, B. P.
+AU  - Steagall, P. V.
+AU  - Lascelles, B. D.
+C1  - 1939-1676 Monteiro-Steagall, B P Steagall, P V M Lascelles, B D X Journal Article Review Systematic Review United States 2013/06/21 J Vet Intern Med. 2013 Sep-Oct;27(5):1011-9. doi: 10.1111/jvim.12127. Epub 2013 Jun 19. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2013-9
+DO  - doi:10.1111/jvim.12127
+IS  - 5
+KW  - Animals
+Anti-Inflammatory Agents, Non-Steroidal/*adverse effects
+Dog Diseases/*chemically induced
+Dogs
+Analgesia
+Canine
+Evidence-based medicine
+Osteoarthritis
+Pain
+LA  - eng
+PY  - 2013
+SN  - 0891-6640
+SP  - 1011-9
+ST  - Systematic review of nonsteroidal anti-inflammatory drug-induced adverse effects in dogs
+T2  - J Vet Intern Med
+TI  - Systematic review of nonsteroidal anti-inflammatory drug-induced adverse effects in dogs
+VL  - 27
+ID  - 20238
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Animal studies show that peripheral inflammatory stimuli may activate microglial cells in the brain implicating an important role for microglia in sepsis-associated delirium. We systematically reviewed animal experiments related to the effects of systemic inflammation on the microglial and inflammatory response in the brain. METHODS: We searched PubMed between January 1, 1950 and December 1, 2013 and Embase between January 1, 1988 and December 1, 2013 for animal studies on the influence of peripheral inflammatory stimuli on microglia and the brain. Identified studies were systematically scored on methodological quality. Two investigators extracted independently data on animal species, gender, age, and genetic background; number of animals; infectious stimulus; microglial cells; and other inflammatory parameters in the brain, including methods, time points after inoculation, and brain regions. RESULTS: Fifty-one studies were identified of which the majority was performed in mice (n = 30) or in rats (n = 19). Lipopolysaccharide (LPS) (dose ranging between 0.33 and 200 mg/kg) was used as a peripheral infectious stimulus in 39 studies (76 %), and live or heat-killed pathogens were used in 12 studies (24 %). Information about animal characteristics such as species, strain, sex, age, and weight were defined in 41 studies (80 %), and complete methods of the disease model were described in 35 studies (68 %). Studies were also heterogeneous with respect to methods used to assess microglial activation; markers used mostly were the ionized calcium binding adaptor molecule-1 (Iba-1), cluster of differentiation 68 (CD68), and CD11b. After LPS challenge microglial activation was seen 6 h after challenge and remained present for at least 3 days. Live Escherichia coli resulted in microglial activation after 2 days, and heat-killed bacteria after 2 weeks. Concomitant with microglial response, inflammatory parameters in the brain were reviewed in 23 of 51 studies (45 %). Microglial activation was associated with an increase in Toll-like receptor (TLR-2 and TLR-4), tumor necrosis factor alpha (TNF-α), and interleukin 1 beta (IL-1β) messenger ribonucleic acid (mRNA) expression or protein levels. INTERPRETATION: Animal experiments robustly showed that peripheral inflammatory stimuli cause microglial activation. We observed distinct differences in microglial activation between systemic stimulation with (supranatural doses) LPS and live or heat-killed bacteria.
+AD  - Department of Neurology, Center of Infection and Immunity Amsterdam (CINIMA), Academic Medical Center, University of Amsterdam, Amsterdam, The Netherlands. i.c.hoogland@amc.uva.nl.
+Department of Neurology, Center of Infection and Immunity Amsterdam (CINIMA), Academic Medical Center, University of Amsterdam, Amsterdam, The Netherlands. carin.houbolt@gmail.com.
+Intensive Care Medicine, Leiden University Medical Center, Leiden, The Netherlands. D.J.van_Westerloo@lumc.nl.
+Department of Neurology, Center of Infection and Immunity Amsterdam (CINIMA), Academic Medical Center, University of Amsterdam, Amsterdam, The Netherlands. w.a.vangool@amc.uva.nl.
+Department of Neurology, Center of Infection and Immunity Amsterdam (CINIMA), Academic Medical Center, University of Amsterdam, Amsterdam, The Netherlands. d.vandebeek@amc.uva.nl.
+AN  - 26048578
+AU  - Hoogland, I. C.
+AU  - Houbolt, C.
+AU  - van Westerloo, D. J.
+AU  - van Gool, W. A.
+AU  - van de Beek, D.
+C2  - PMC4470063
+DA  - Jun 6
+DO  - 10.1186/s12974-015-0332-6
+DP  - NLM
+ET  - 20150606
+KW  - Animals
+Delirium/etiology/physiopathology
+*Disease Models, Animal
+Escherichia coli/physiology
+Female
+Inflammation/*physiopathology
+Lipopolysaccharides/pharmacology
+Male
+Mice
+Microglia/drug effects/microbiology/*physiology
+Rats
+Sepsis/complications/physiopathology
+LA  - eng
+N1  - 1742-2094
+Hoogland, Inge C M
+Houbolt, Carin
+van Westerloo, David J
+van Gool, Willem A
+van de Beek, Diederik
+281156/ERC_/European Research Council/International
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+England
+2015/06/07
+J Neuroinflammation. 2015 Jun 6;12:114. doi: 10.1186/s12974-015-0332-6.
+PY  - 2015
+SN  - 1742-2094
+SP  - 114
+ST  - Systemic inflammation and microglial activation: systematic review of animal experiments
+T2  - J Neuroinflammation
+TI  - Systemic inflammation and microglial activation: systematic review of animal experiments
+VL  - 12
+ID  - 50901
+ER  - 
+
+TY  - JOUR
+AB  - Because the function and mechanisms of sleep are partially clear, here we applied a meta-analysis to address the issue whether sleep function includes antioxidative properties in mice and rats. Given the expansion of the knowledge in the sleep field, it is indeed ambitious to describe all mammals, or other animals, in which sleep shows an antioxidant function. However, in this paper we reviewed the current understanding from basic studies in two species to drive the hypothesis that sleep is a dynamic-resting state with antioxidative properties. We performed a systematic review of articles cited in Medline, Scopus, and Web of Science until March 2015 using the following search terms: Sleep or sleep deprivation and oxidative stress, lipid peroxidation, glutathione, nitric oxide, catalase or superoxide dismutase. We found a total of 266 studies. After inclusion and exclusion criteria, 44 articles were included, which are presented and discussed in this study. The complex relationship between sleep duration and oxidative stress is discussed. Further studies should consider molecular and genetic approaches to determine whether disrupted sleep promotes oxidative stress.
+AD  - Unidad de Trastornos del Movimiento y Sueño (TMS), Hospital General Dr. Manuel Gea González/IFC-UNAM, 14080 Ciudad de México, DF, Mexico.
+Laboratorio de Neurociencias Moleculares e Integrativas, Escuela de Medicina, División Ciencias de la Salud, Universidad Anáhuac Mayab, 97310 Mérida, YUC, Mexico.
+Laboratorio de Pánico y Respiración, Instituto de Psiquiatría, Universidade Federal de Rio de Janeiro (IPUB/UFRJ), 22410-003 Rio de Janeiro, RJ, Brazil.
+Instituto de Fisiología, Benemérita Universidad Autónoma de Puebla, 72570 Puebla, PUE, Mexico.
+AN  - 25945148
+AU  - Villafuerte, G.
+AU  - Miguel-Puga, A.
+AU  - Rodríguez, E. M.
+AU  - Machado, S.
+AU  - Manjarrez, E.
+AU  - Arias-Carrión, O.
+C2  - PMC4402503
+DO  - 10.1155/2015/234952
+DP  - NLM
+ET  - 20150406
+KW  - Animals
+Databases, Factual
+Glutathione/metabolism
+Lipid Peroxidation
+Models, Animal
+Nitric Oxide/metabolism
+*Oxidative Stress
+Oxidoreductases/metabolism
+Reactive Oxygen Species/metabolism
+Sleep Deprivation/metabolism/*pathology
+LA  - eng
+N1  - 1942-0994
+Villafuerte, Gabriel
+Miguel-Puga, Adán
+Rodríguez, Eric Murillo
+Machado, Sergio
+Manjarrez, Elias
+Arias-Carrión, Oscar
+Journal Article
+Meta-Analysis
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+United States
+2015/05/07
+Oxid Med Cell Longev. 2015;2015:234952. doi: 10.1155/2015/234952. Epub 2015 Apr 6.
+PY  - 2015
+SN  - 1942-0900 (Print)
+1942-0994
+SP  - 234952
+ST  - Sleep deprivation and oxidative stress in animal models: a systematic review
+T2  - Oxid Med Cell Longev
+TI  - Sleep deprivation and oxidative stress in animal models: a systematic review
+VL  - 2015
+ID  - 50900
+ER  - 
+
+TY  - JOUR
+AB  - The generation of new neurons in the hippocampus of adult mammals has become a widely accepted phenomenon, but the functional significance of the adult neurogenesis in the hippocampus is not fully understood. One of the main hypotheses currently investigated suggests that neurogenesis contributes to pattern separation in the dentate gyrus. Many behavioral studies were conducted aiming to test this hypothesis using rodents as animal model. In those studies, researches ablated neurogenesis in the animals and subsequently evaluate them in tests of behavioral pattern separation, that is, behaviors that are thought to rely on the computational process of pattern separation. The results of these studies are varied, with most supporting a role for neurogenesis in pattern separation, but some others not. To address this controversy we performed a systematic review and meta-analysis of studies evaluating the effect of neurogenesis ablation on behavioral pattern separation. Analysis results indicated that most of the literature in the topic is surprisingly consistent and, although there are two studies with divergent results, the bulk of the literature supports an effect of hippocampal neurogenesis on behavioral pattern separation. We discuss those findings in light of other behavioral effects of hippocampal neurogenesis ablation, limitations of behavioral data and other lines of evidence about the effect of hippocampal neurogenesis in the dentate gyrus.
+AN  - rayyan-1270344183
+AU  - França, T. F. A.
+AU  - Bitencourt, A. M.
+AU  - Maximilla, N. R.
+AU  - Barros, D. M.
+AU  - Monserrat, J. M.
+C1  - 1098-1063 França, Thiago F A Orcid: 0000-0002-0118-6025 Bitencourt, Alexandre M Maximilla, Naiana R Barros, Daniela M Monserrat, José M Journal Article Meta-Analysis Review Systematic Review United States 2017/06/10 Hippocampus. 2017 Sep;27(9):937-950. doi: 10.1002/hipo.22746. Epub 2017 Jun 20. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-9
+DO  - doi:10.1002/hipo.22746
+IS  - 9
+KW  - Animals
+Databases, Bibliographic/statistics & numerical data
+Hippocampus/*cytology/*physiology
+Humans
+Neurogenesis/*physiology
+Neurons/*physiology
+adult neurogenesis
+behavioral pattern separation
+dentate gyrus
+hippocampal formation
+systematic review
+LA  - eng
+PY  - 2017
+SN  - 1050-9631
+SP  - 937-950
+ST  - Hippocampal neurogenesis and pattern separation: A meta-analysis of behavioral data
+T2  - Hippocampus
+TI  - Hippocampal neurogenesis and pattern separation: A meta-analysis of behavioral data
+VL  - 27
+ID  - 20217
+ER  - 
+
+TY  - JOUR
+AB  - Spinal cord injury (SCI) is a devastating disease that results in severe motor, sensory, and autonomic dysfunction, for which there are currently no available treatments. Subsequent to the primary mechanical damage, progressive secondary damage further exacerbates the functional deficit. Demyelination may play an important role in the pathogenesis of SCI. Oligodendrocyte progenitor cells (OPCs) are considered a candidate cellular treatment approach for SCI attributable to their unique potential. Here, we conducted a systematic review and meta-analysis to assess the efficacy of OPC transplantation in rat models with traumatic thoracic SCI, and 17 studies (20 experiments, 402 rats) were identified. The Basso, Beattie, Bresnahan (BBB) locomotor rating score, latency and amplitude of motor evoked potential (MEP), percentage of myelinated axons, and cavity size were used as outcome measurements. The pooled results of the meta-analysis in different subgroups (based on cell dose or sex) both suggested that the BBB score of the OPC group was significantly improved compared to that of the control group 2, 4, and 8 weeks after transplantation. Whereas the amplitude of MEP was not significantly different, the latency of MEP was significantly shorter compared to that of the control group 4 weeks after transplantation. The percentage of myelinated axons increased significantly in the OPC group compared to that of the control group after OPC transplantation. Area measurements across groups revealed a significant reduction in cavity size in the OPC-treated groups compared to the control group. In conclusion, OPC transplantation provided considerable beneficial effects after traumatic SCI.
+AN  - rayyan-1270344211
+AU  - Fu, H.
+AU  - Hu, D.
+AU  - Zhang, L.
+AU  - Shen, X.
+AU  - Tang, P.
+C1  - 1557-9042 Fu, Haitao Hu, Die Zhang, Licheng Shen, Xuezhen Tang, Peifu Journal Article Meta-Analysis Research Support, Non-U.S. Gov't Systematic Review United States 2018/05/16 J Neurotrauma. 2018 Nov 1;35(21):2507-2518. doi: 10.1089/neu.2017.5606. Epub 2018 Jul 2. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2018-11-1
+DO  - doi:10.1089/neu.2017.5606
+IS  - 21
+KW  - Animals
+Disease Models, Animal
+Oligodendrocyte Precursor Cells/*transplantation
+Rats
+Spinal Cord
+Spinal Cord Injuries/*physiopathology
+Stem Cell Transplantation/*methods
+meta-analysis
+oligodendrocyte progenitor cell
+spinal cord injury
+transplantation
+LA  - eng
+PY  - 2018
+SN  - 0897-7151
+SP  - 2507-2518
+ST  - Efficacy of Oligodendrocyte Progenitor Cell Transplantation in Rat Models with Traumatic Thoracic Spinal Cord Injury: A Systematic Review and Meta-Analysis
+T2  - J Neurotrauma
+TI  - Efficacy of Oligodendrocyte Progenitor Cell Transplantation in Rat Models with Traumatic Thoracic Spinal Cord Injury: A Systematic Review and Meta-Analysis
+VL  - 35
+ID  - 20222
+ER  - 
+
+TY  - JOUR
+AB  - Depression is currently treated by pharmacotherapies that can elicit debilitating side effects for patients. Novel treatment options with limited side effects are currently being researched. Resveratrol is a polyphenol and phytoalexin found in the skins of grapes, red wine, Japanese knotweed, and peanuts. It has been studied extensively for its antioxidant and anti-inflammatory properties. Resveratrol has also gained attention for its neuroprotective properties. The aim of the review was to examine the mechanisms by which resveratrol reduces depressive behaviors in animal models. In total, 22 studies met the established criteria for final review. Behavioral aspects of depression were investigated using validated measures such as the forced swimming test, tail suspension test, sucrose preference test, and open field test. While many physical measures were taken, three main biological mechanisms were explored: Regulation of the hypothalamic⁻pituitary⁻adrenal axis; decreased inflammation; and increased Brain-Derived Neurotrophic Factor and neurogenesis. Based on these findings, resveratrol may be deemed an effective treatment for depression in animal models at doses between 10⁻80 mg/kg/day, although higher doses had the most significant effects. Future studies should examine the effects of resveratrol on depression in humans to determine the eligibility of resveratrol as a natural antidepressant with less severe side effects.
+AN  - rayyan-1270347356
+AU  - Moore, A.
+AU  - Beidler, J.
+AU  - Hong, M. Y.
+C1  - 1420-3049 Moore, Alyssa Beidler, Joshua Hong, Mee Young Journal Article Meta-Analysis Review Systematic Review Switzerland 2018/09/12 Molecules. 2018 Aug 30;23(9):2197. doi: 10.3390/molecules23092197. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2018-8-30
+DO  - doi:10.3390/molecules23092197
+IS  - 9
+KW  - Animals
+Antioxidants/*pharmacology/therapeutic use
+Behavior, Animal/drug effects
+Biomarkers
+Brain/drug effects/metabolism/physiopathology
+Cytokines/metabolism
+Depression/drug therapy/*etiology/*metabolism/psychology
+Disease Models, Animal
+Inflammation Mediators/metabolism
+*Models, Biological
+Neural Stem Cells/drug effects/metabolism
+Neurogenesis/drug effects
+Oxidative Stress/drug effects
+Resveratrol/*pharmacology/therapeutic use
+Signal Transduction/drug effects
+Bdnf
+anxiety
+depression
+inflammation
+neurogenesis
+resveratrol
+stress
+LA  - eng
+PY  - 2018
+SN  - 1420-3049
+ST  - Resveratrol and Depression in Animal Models: A Systematic Review of the Biological Mechanisms
+T2  - Molecules
+TI  - Resveratrol and Depression in Animal Models: A Systematic Review of the Biological Mechanisms
+VL  - 23
+ID  - 20239
+ER  - 
+
+TY  - JOUR
+AB  - Cerebral hemispherectomy is a neurosurgical procedure that involves surgically removing one hemisphere of the brain, used as a therapeutic option in severe cases of intractable epilepsy. Several animal models have contributed to our understanding of the underlying neuromechanisms. The review was based on a PubMed search using the terms "hemispherectomy" and "mouse" or "rat" or "rodent", with no limitation of year of study or language. We identified a series of elements that were collected and analyzed that add up to our contemporary knowledge of this procedure. Our search returned 29 articles out of which only 15 are relevant to our purposes. Most of the current literature is concerned with the different molecular and electrophysiological issues of neuroplasticity, exhibiting the neurochemical background on which brain plasticity is founded. Experimental neurosurgery is quintessential in understanding the process in which various pathologies respond to in vivo animal models and recreating conditions otherwise difficult or impossible to obtain in humans. The aim of our study was to evaluate the current literature on the modern comprehension that animal models offer for histopathological, neurochemical and microsurgical research. In addition, the review is focused on the neuroplastic/compensatory mechanisms developed after hemispherectomy. Further research is of vital importance in exploring neurotherapeutical aspects of neuroplasticity in central nervous system (CNS) diseases.
+AD  - Iuliu Hatieganu University of Medicine and Pharmacy, Cluj Napoca, Romania, cezaroctavian.morosanu@yahoo.com.
+Iuliu Hatieganu University of Medicine and Pharmacy, Cluj Napoca, Romania.
+Department of Physiology, Iuliu Hatieganu University of Medicine and Pharmacy, Cluj Napoca, Romania.
+Department of Neurosurgery, Iuliu Hatieganu University of Medicine and Pharmacy, Cluj Napoca, Romania.
+AN  - 29694337
+AU  - Morosanu, C. O.
+AU  - Jurca, R. L.
+AU  - Simonca, L.
+AU  - Ilies, R. F.
+AU  - Moldovan, R.
+AU  - Florian, I. S.
+AU  - Filip, G. A.
+DP  - NLM
+IS  - 1
+KW  - Animals
+Central Nervous System Diseases/metabolism/*physiopathology/*surgery
+*Disease Models, Animal
+Hemispherectomy/*methods
+Humans
+Neuronal Plasticity/physiology
+PubMed
+Rodentia
+LA  - eng
+N1  - 1689-0035
+Morosanu, Cezar Octavian
+Jurca, Razvan Lucian
+Simonca, Larisa
+Ilies, Roxana Flavia
+Moldovan, Remus
+Florian, Ioan Stefan
+Filip, Gabriela Adriana
+Journal Article
+Review
+Systematic Review
+Poland
+2018/04/26
+Acta Neurobiol Exp (Wars). 2018;78(1):14-20.
+PY  - 2018
+SN  - 0065-1400
+SP  - 14-20
+ST  - Experimental cerebral hemispherectomy in rodent models. A systematic review of current literature
+T2  - Acta Neurobiol Exp (Wars)
+TI  - Experimental cerebral hemispherectomy in rodent models. A systematic review of current literature
+VL  - 78
+ID  - 50908
+ER  - 
+
+TY  - JOUR
+AB  - Antisense oligonucleotide (AON)-based therapies hold promise for a range of neurodegenerative and neuromuscular diseases and have shown benefit in animal models and patients. Success in the clinic is nevertheless still limited, due to unfavourable biodistribution and poor cellular uptake of AONs. Extensive research is currently being conducted into the formulation of AONs to improve delivery, but thus far there is no consensus on which of those strategies will be the most effective. This systematic review was designed to answer in an unbiased manner which delivery strategies most strongly enhance the efficacy of AONs in animal models of heritable neurodegenerative and neuromuscular diseases. In total, 95 primary studies met the predefined inclusion criteria. Study characteristics and data on biodistribution and toxicity were extracted and reporting quality and risk of bias were assessed. Twenty studies were eligible for meta-analysis. We found that even though the use of delivery systems provides an advantage over naked AONs, it is not yet possible to select the most promising strategies. Importantly, standardisation of experimental procedures is warranted in order to reach conclusions about the most efficient delivery strategies. Our best practice guidelines for future experiments serve as a step in that direction.
+AN  - rayyan-1270350305
+AU  - van der Bent, M. L.
+AU  - Paulino da Silva Filho, O.
+AU  - van Luijk, J.
+AU  - Brock, R.
+AU  - Wansink, D. G.
+C1  - 2045-2322 van der Bent, M Leontien Orcid: 0000-0002-1274-6227 Paulino da Silva Filho, Omar van Luijk, Judith Brock, Roland Wansink, Derick G Orcid: 0000-0002-6773-8662 Journal Article Meta-Analysis Research Support, Non-U.S. Gov't Systematic Review England 2018/03/10 Sci Rep. 2018 Mar 8;8(1):4181. doi: 10.1038/s41598-018-22316-7. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2018-3-8
+DO  - doi:10.1038/s41598-018-22316-7
+IS  - 1
+KW  - Animals
+*Disease Models, Animal
+Drug Delivery Systems/*methods
+*Heredodegenerative Disorders, Nervous System/genetics/therapy
+*Neuromuscular Diseases/genetics/therapy
+*Oligonucleotides, Antisense/pharmacokinetics/therapeutic use
+LA  - eng
+PY  - 2018
+SN  - 2045-2322
+SP  - 4181
+ST  - Assisted delivery of antisense therapeutics in animal models of heritable neurodegenerative and neuromuscular disorders: a systematic review and meta-analysis
+T2  - Sci Rep
+TI  - Assisted delivery of antisense therapeutics in animal models of heritable neurodegenerative and neuromuscular disorders: a systematic review and meta-analysis
+VL  - 8
+ID  - 20280
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Vascular dementia is the second most common type of dementia that causes cognitive dysfunction. Acupuncture, an ancient therapy, has been mentioned for the treatment of vascular dementia in previous studies. This study aimed to evaluate the effects of acupuncture in animal models of vascular dementia. METHODS: Experimental animal studies of treating vascular dementia with acupuncture were gathered from Embase, PubMed and Ovid Medline (R) from the dates of the databases' creation to December 2016. We adopted the CAMARADES 10-item checklist to evaluate the quality of the included studies. The Morris water maze test was considered as an outcome measure. The software Stata12.0 was used for the meta-analysis. Heterogeneity was examined using I(2) statistics, and we conducted subgroup analyses to determine the causes of heterogeneity for escape latency and duration in original platform. RESULTS: Sixteen studies involving 363 animals met the inclusion criteria. The included studies scored between 4 and 8 points, and the mean was 5.44. The results of the meta-analysis indicated remarkable differences with acupuncture on increasing the duration in the former platform quadrant both in EO models (SMD = 1.56, 95% CI: 1.02 ~ 2.11; p < 0.00001) and 2-VO models (SMD 4.29, 95% CI 3.23 ~ 5.35; p < 0.00001) compared with the control groups. CONCLUSIONS: Acupuncture may be effective in improving cognitive function in vascular dementia animal models. The mechanisms of acupuncture for vascular dementia are multiple such as anti-apoptosis, antioxidative stress reaction, and metabolism enhancing of glucose and oxygen.
+AN  - rayyan-1270351353
+AU  - Zhang, Z. Y.
+AU  - Liu, Z.
+AU  - Deng, H. H.
+AU  - Chen, Q.
+C1  - 1472-6882 Zhang, Ze-Yu Liu, Zhe Orcid: 0000-0001-9956-9093 Deng, Hui-Hui Chen, Qin LY16H270004/Natural Science Foundation of Zhejiang Province/ LY13H270012/Natural Science Foundation of Zhejiang Province/ 81273822/National Natural Science Foundation of China/ 81503645/National Natural Science Foundation of China/ Journal Article Meta-Analysis Systematic Review England 2018/11/15 BMC Complement Altern Med. 2018 Nov 13;18(1):302. doi: 10.1186/s12906-018-2345-z. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2018-11-13
+DO  - doi:10.1186/s12906-018-2345-z
+IS  - 1
+KW  - *Acupuncture Therapy
+Animals
+Dementia, Vascular/*therapy
+Disease Models, Animal
+Rats
+Acupuncture
+Meta-analysis
+Systematic review
+Vascular dementia
+LA  - eng
+PY  - 2018
+SN  - 1472-6882
+SP  - 302
+ST  - Effects of acupuncture on vascular dementia (VD) animal models: a systematic review and meta-analysis
+T2  - BMC Complement Altern Med
+TI  - Effects of acupuncture on vascular dementia (VD) animal models: a systematic review and meta-analysis
+VL  - 18
+ID  - 20292
+ER  - 
+
+TY  - JOUR
+AB  - To achieve sufficient blood-brain barrier (BBB), penetration is one of the biggest challenges in the development of diagnostic and therapeutic for central nervous system (CNS) disorders. Here, we conducted a systematic review and meta-analysis to assess the preclinical evidence and possible mechanisms of borneol for improving co-administration of CNS drug delivery in animal models. The electronic literature search was conducted in six databases. Fifty-eight studies with 63 comparisons involved 1137 animals were included. Among 47 studies reporting the assessments of CNS drug concentration, 45 studies showed the significant effects of borneol for improving CNS drug delivery (p<.05), whereas 2 studies showed no difference (p>.05). Nineteen comparisons showed borneol up-regulated BBB permeability (p<.05) using brain EB content (n = 8), Rh 123 content (n = 4), brain imaging agent content (n = 2), brain water content (n = 1) and observing ultrastructure of BBB (n = 4), whereas three studies showed no difference or unclear results. Seven studies reported the safety, in which one study showed borneol was reversible changes in the BBB penetration; six studies showed borneol did not increase co-administration of blood drugs concentration of peripheral tissues (p > .05). Effects of borneol are closely associated with inhibition of efflux protein function, releasement of tight junction protein, increasement of vasodilatory neurotransmitters, and inhibition of active transport by ion channels. In conclusion, borneol is a promising candidate for CNS drug delivery, mainly through mediating a multi-targeted BBB permeability.
+AN  - rayyan-1270351394
+AU  - Zheng, Q.
+AU  - Chen, Z. X.
+AU  - Xu, M. B.
+AU  - Zhou, X. L.
+AU  - Huang, Y. Y.
+AU  - Zheng, G. Q.
+AU  - Wang, Y.
+C1  - 1521-0464 Zheng, Qun Chen, Zi-Xian Xu, Meng-Bei Zhou, Xiao-Li Huang, Yue-Yue Zheng, Guo-Qing Orcid: 0000-0001-5286-5696 Wang, Yan Journal Article Meta-Analysis Systematic Review England 2018/10/20 Drug Deliv. 2018 Nov;25(1):1617-1633. doi: 10.1080/10717544.2018.1486471. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2018-11
+DO  - doi:10.1080/10717544.2018.1486471
+IS  - 1
+KW  - Animals
+Blood-Brain Barrier/metabolism
+*Camphanes/chemistry
+Central Nervous System Agents/*pharmacology
+Central Nervous System Diseases/*drug therapy
+*Drug Carriers/chemistry
+Female
+Humans
+Male
+Permeability
+Borneol
+blood–brain barrier
+drug delivery
+possible mechanisms
+preclinical evidence
+LA  - eng
+PY  - 2018
+SN  - 1071-7544 (Print) 1071-7544
+SP  - 1617-1633
+ST  - Borneol, a messenger agent, improves central nervous system drug delivery through enhancing blood-brain barrier permeability: a preclinical systematic review and meta-analysis
+T2  - Drug Deliv
+TI  - Borneol, a messenger agent, improves central nervous system drug delivery through enhancing blood-brain barrier permeability: a preclinical systematic review and meta-analysis
+VL  - 25
+ID  - 20301
+ER  - 
+
+TY  - JOUR
+AB  - Clinical studies report that low circulating angiopoietin-1 concentration at presentation predicts worse outcomes after ischaemic stroke. Upregulating angiopoietin-1 may therefore have therapeutic benefit for ischaemic stroke. This systematic review assessed whether upregulating angiopoietin-1 improved outcomes in rodent models of ischaemic stroke. Random-effects models quantified the effect of angiopoietin-1 upregulation on stroke severity in terms of the size of cerebral infarction and the extent of blood-brain barrier permeability. Eleven studies utilising rat and mouse models of ischaemic stroke fulfilled the inclusion criteria. Meta-analyses demonstrated that angiopoietin-1 upregulation significantly reduced cerebral infarction size (standardised mean difference: -3.02; 95% confidence intervals: -4.41, -1.63; p < 0.001; n = 171 animals) and improved blood-brain barrier integrity (standardized mean difference: -2.02; 95% confidence intervals: -3.27, -0.77; p = 0.002; n = 129 animals). Subgroup analyses demonstrated that angiopoietin-1 upregulation improved outcomes in models of transient, not permanent cerebral ischaemia. Six studies assessed the effect of angiopoietin-1 upregulation on neurological function; however, inter-study heterogeneity prevented meta-analysis. In conclusion, published rodent data suggest that angiopoietin-1 upregulation improves outcome following temporary cerebral ischaemia by reducing cerebral infarction size and improving blood-brain barrier integrity. Additional research is required to examine the effect of angiopoietin-1 upregulation on neurological function during stroke recovery and investigate the benefit and risks in patients.
+AN  - rayyan-1270347451
+AU  - Moxon, J. V.
+AU  - Trollope, A. F.
+AU  - Dewdney, B.
+AU  - de Hollander, C.
+AU  - Nastasi, D. R.
+AU  - Maguire, J. M.
+AU  - Golledge, J.
+C1  - 1559-7016 Moxon, Joseph V Trollope, Alexandra F Dewdney, Brittany de Hollander, Catherine Nastasi, Domenico R Maguire, Jane M Golledge, Jonathan Journal Article Meta-Analysis Research Support, Non-U.S. Gov't Systematic Review United States 2019/10/05 J Cereb Blood Flow Metab. 2019 Dec;39(12):2343-2354. doi: 10.1177/0271678X19876876. Epub 2019 Oct 4. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019-12
+DO  - doi:10.1177/0271678x19876876
+IS  - 12
+KW  - Angiopoietin-1/*biosynthesis
+Animals
+*Blood-Brain Barrier/metabolism/pathology/physiopathology
+*Cerebral Infarction/metabolism/pathology/physiopathology
+Disease Models, Animal
+Humans
+Mice
+Rats
+*Stroke/metabolism/pathology/physiopathology
+*Up-Regulation
+Ischaemic stroke
+angiopoietin-1
+blood–brain barrier permeability
+cerebral infarction
+rodent model
+LA  - eng
+PY  - 2019
+SN  - 0271-678X (Print) 0271-678x
+SP  - 2343-2354
+ST  - The effect of angiopoietin-1 upregulation on the outcome of acute ischaemic stroke in rodent models: A meta-analysis
+T2  - J Cereb Blood Flow Metab
+TI  - The effect of angiopoietin-1 upregulation on the outcome of acute ischaemic stroke in rodent models: A meta-analysis
+VL  - 39
+ID  - 20251
+ER  - 
+
+TY  - JOUR
+AB  - Anorexia nervosa (AN) is a severe eating disorder affecting around 1 per 100 persons. However, the knowledge about its underlying pathophysiology is limited. To address the need for a better understanding of AN, an animal model was established early on in the late 1960's: the activity-based anorexia (ABA) model in which rats have access to a running wheel combined with restricted food access leading to self-starving/body weight loss and hyperactivity. Both symptoms, separately or combined, can also be found in patients with AN. The aim of this systematic review was to compile the current knowledge about this animal model as well as to address gaps in knowledge. Using the data bases of PubMed, Embase and Web of science 102 publications were identified meeting the search criteria. Here, we show that the ABA model mimics core features of human AN and has been characterized with regards to brain alterations, hormonal changes as well as adaptations of the immune system. Moreover, pharmacological interventions in ABA animals and new developments, such as a chronic adaptation of the ABA model, will be highlighted. The chronic model might be well suited to display AN characteristics but should be further characterized. Lastly, limitations of the model will be discussed.
+AN  - rayyan-1270349105
+AU  - Schalla, M. A.
+AU  - Stengel, A.
+C1  - 2296-861x Schalla, Martha A Stengel, Andreas Systematic Review Switzerland 2019/06/06 Front Nutr. 2019 May 21;6:69. doi: 10.3389/fnut.2019.00069. eCollection 2019. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019
+DO  - doi:10.3389/fnut.2019.00069
+KW  - eating disorder
+food restriction
+hyperactivity
+hypophagia
+mice
+rats
+self-starvation
+weight loss
+LA  - eng
+PY  - 2019
+SN  - 2296-861X (Print) 2296-861x
+SP  - 69
+ST  - Activity Based Anorexia as an Animal Model for Anorexia Nervosa-A Systematic Review
+T2  - Front Nutr
+TI  - Activity Based Anorexia as an Animal Model for Anorexia Nervosa-A Systematic Review
+VL  - 6
+ID  - 20274
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: There is an increasing of reports describing the efficacy of neuroprotective small molecule in Parkinson's disease (PD) models. Ideally, the choice of pushing drug candidates to clinical trial should be based on an unbiased assessment of all available data. Systematic review uses a methodical approach to minimize the bias in the selection of studies for inclusion, providing a comprehensive understanding of the drug's effects on multiple animal models with different mechanism. To our knowledge, such assessments of baicalein, which is a candidate neuroprotective drug with efficacy in PD, have not been fully conducted. PURPOSE: To provide a comprehensive understanding of baicalein's effects on different animal models with different mechanism by using a methodical approach to minimize the bias in the selection of studies. METHODS: In this study, we used a systematic review method to comprehensively assess the efficacy of baicalein in animal PD models. By using electronic and manual search for the literatures, we identified studies describing the efficacy of baicalein in animal models of PD. RESULTS: We identified 16 studies describing the efficacy of baicalein in animal models of PD. The methodological quality of all preclinical trials is ranged from 2 to 5. 16 studies involved 4 main kinds of PD animal models. They are MPP+-induced, rotenone-induced, 6-OHDA-induced and acrolein-induced PD models, respectively. The protective effects of baicalein were studied mainly focusing on the anti-oxidative, anti-apoptotic, and anti-inflammatory action. Beyond that, there are 2 articles describing the effects of baicalein on neurotransmitter balance in the basal ganglia, and 2 articles reporting the effects in decreasing synuclein aggregation. CONCLUSIONS: The results demonstrated the neuroprotective effects of baicalein in PD experimental animals and analyzed the pharmacological mechanism. The information will be useful for the further development of baicalein into anti-PD agent and provide unbiased evidence for the conduct of clinical trials. In addition, such evaluation based on animal experiments can give us a general introduction to different animal models of PD, either guiding the further model tests, or avoiding the unnecessary replication.
+AN  - rayyan-1270351451
+AU  - Zhu, Q.
+AU  - Zhuang, X.
+AU  - Lu, J.
+C1  - 1618-095x Zhu, Qi Zhuang, Xuxu Lu, Jiahong Journal Article Systematic Review Germany 2018/11/06 Phytomedicine. 2019 Mar 1;55:302-309. doi: 10.1016/j.phymed.2018.09.215. Epub 2018 Sep 27. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019-3-1
+DO  - doi:10.1016/j.phymed.2018.09.215
+KW  - Animals
+Antioxidants/*pharmacology/*therapeutic use
+Apoptosis/drug effects
+Disease Models, Animal
+Flavanones/*pharmacology/*therapeutic use
+Neuroprotective Agents/*pharmacology/*therapeutic use
+Parkinsonian Disorders/*drug therapy
+Baicalein
+In-vivo
+Neuroprotective effects
+PD animal models
+Parkinson's disease
+LA  - eng
+PY  - 2019
+SN  - 0944-7113
+SP  - 302-309
+ST  - Neuroprotective effects of baicalein in animal models of Parkinson's disease: A systematic review of experimental studies
+T2  - Phytomedicine
+TI  - Neuroprotective effects of baicalein in animal models of Parkinson's disease: A systematic review of experimental studies
+VL  - 55
+ID  - 20312
+ER  - 
+
+TY  - JOUR
+AB  - In recent years, clinical studies have shown strong epidemiological evidence of an increased risk of developing neuropsychiatric disorders after childhood exposure to streptococcal infection, including the Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal infection (PANDAS). New preclinical studies on group A streptococcus (GAS) exposure investigate how to disentangle the influences of immune activation to induce long-term neurobehavioral effects associated with neuropsychiatric disorders such as obsessive-compulsive disorder, schizophrenia or autism. The present systematic review collects neurobehavioral evidence regarding the use of GAS exposure in animal models to study the vulnerability to different neuropsychiatric disorders, improving our understanding of its possible causes and consequences, and compares its contribution with other preclinical models of immune activation in a variety of paradigms. Specifically, we reviewed the effects of postnatal GAS exposure, in comparison with post- and prenatal exposure to Lipopolysaccharide (LPS) and Polyinosinic:polycytidylic acid (Poly I:C), on the long-term effects concerning psychomotor, cognition and socioemotional outcomes in rodents. GAS exposure in animal models has revealed different behavioral alterations such as reduced locomotion and motor coordination, a deficit in sensorimotor gating, learning, working memory, altered social behavior, and increased anxiety and stereotyped behavior. Most of the results found are in accordance with other immune activation models -LPS and Poly I:C-, with some discrepancies. The systematic review of the literature supports the preclinical model of GAS exposure as a valid model for studying the neurobehavioral consequences of streptococcal infections. Future studies on streptococcal infection could contribute increasing our knowledge on preventive actions or treatments for neuropsychiatric disorders.
+AN  - rayyan-1270347361
+AU  - Mora, S.
+AU  - Martín-González, E.
+AU  - Flores, P.
+AU  - Moreno, M.
+C1  - 1090-2139 Mora, Santiago Martín-González, Elena Flores, Pilar Moreno, Margarita Journal Article Research Support, Non-U.S. Gov't Systematic Review Netherlands 2019/03/01 Brain Behav Immun. 2020 May;86:53-62. doi: 10.1016/j.bbi.2019.02.027. Epub 2019 Feb 25. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2020-5
+DO  - doi:10.1016/j.bbi.2019.02.027
+KW  - Animals
+Autistic Disorder/*etiology
+Autoimmune Diseases/complications/immunology/psychology
+Child
+Humans
+Obsessive-Compulsive Disorder/complications/*etiology
+Schizophrenia/*etiology
+Streptococcal Infections/*complications/*immunology/psychology
+Streptococcus pyogenes/immunology/pathogenicity
+Animal models
+Autoimmune
+Neuropsychiatric disorders
+Streptococcal
+LA  - eng
+PY  - 2020
+SN  - 0889-1591
+SP  - 53-62
+ST  - Neuropsychiatric consequences of childhood group A streptococcal infection: A systematic review of preclinical models
+T2  - Brain Behav Immun
+TI  - Neuropsychiatric consequences of childhood group A streptococcal infection: A systematic review of preclinical models
+VL  - 86
+ID  - 20240
+ER  - 
+
+TY  - JOUR
+AB  - Anorexia nervosa is an eating disorder characterized by intense fear of gaining weight and a distorted body image which usually leads to low caloric intake and hyperactivity. The underlying mechanism and pathogenesis of anorexia nervosa is still poorly understood. In order to learn more about the underlying pathophysiology of anorexia nervosa and to find further possible treatment options, several animal models mimicking anorexia nervosa have been developed. The aim of this review is to systematically search different databases and provide an overview of existing animal models and to discuss the current knowledge gained from animal models of anorexia nervosa. For the systematic data search, the Pubmed-Medline database, Embase database, and Web of Science database were searched. After removal of duplicates and the systematic process of selection, 108 original research papers were included in this systematic review. One hundred and six studies were performed with rodents and 2 on monkeys. Eighteen different animal models for anorexia nervosa were used in these studies. Parameters assessed in many studies were body weight, food intake, physical activity, cessation of the estrous cycle in female animals, behavioral changes, metabolic and hormonal alterations. The most commonly used animal model (75 of the studies) is the activity-based anorexia model in which typically young rodents are exposed to time-reduced access to food (a certain number of hours a day) with unrestricted access to a running wheel. Of the genetic animal models, one that is of particular interest is the anx/anx mice model. Animal models have so far contributed many findings to the understanding of mechanisms of hunger and satiety, physical activity and cognition in an underweight state and other mechanisms relevant for anorexia nervosa in humans.
+AN  - rayyan-1270349109
+AU  - Scharner, S.
+AU  - Stengel, A.
+C1  - 1662-5161 Scharner, Sophie Stengel, Andreas Systematic Review Switzerland 2021/02/09 Front Hum Neurosci. 2021 Jan 20;14:596381. doi: 10.3389/fnhum.2020.596381. eCollection 2020. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2020
+DO  - doi:10.3389/fnhum.2020.596381
+KW  - activity
+brain-gut axis
+food restriction
+psychosomatic
+reward
+stress
+LA  - eng
+PY  - 2020
+SN  - 1662-5161 (Print) 1662-5161
+SP  - 596381
+ST  - Animal Models for Anorexia Nervosa-A Systematic Review
+T2  - Front Hum Neurosci
+TI  - Animal Models for Anorexia Nervosa-A Systematic Review
+VL  - 14
+ID  - 20275
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Antenatal corticosteroids (ACSs) are recommended to all women at risk for preterm delivery; currently, there is controversy about the subsequent long-term neurocognitive sequelae. This systematic review summarizes the long-term neurodevelopmental outcomes after ACS therapy in animal models. METHODS: An electronic search strategy incorporating MeSH and keywords was performed using all known literature databases and in accordance with PRISMA guidance (PROSPERO CRD42019119663). RESULTS: Of the 669 studies identified, eventually 64 were included. The majority of studies utilized dexamethasone at relative high dosages and primarily involved rodents. There was a high risk of bias, mostly due to lack of randomization, allocation concealment, and blinding. The main outcomes reported on was neuropathological, particularly glucocorticoid receptor expression and neuron densities, and neurobehavior. Overall there was an upregulation of glucocorticoid receptors with lower neuron densities and a dysregulation of the dopaminergic and serotonergic systems. This coincided with various adverse neurobehavioral outcomes. CONCLUSIONS: In animal models, ACSs consistently lead to deleterious long-term neurocognitive effects. This may be due to the specific agents, i.e., dexamethasone, or the repetitive/higher total dosing used. ACS administration varied significantly between studies and there was a high risk of bias. Future research should be standardized in well-characterized models.
+AN  - rayyan-1270350311
+AU  - van der Merwe, J. L.
+AU  - Sacco, A.
+AU  - Toelen, J.
+AU  - Deprest, J.
+C1  - 1530-0447 van der Merwe, Johannes L Orcid: 0000-0002-1381-4033 Sacco, Adalina Toelen, Jaan Deprest, Jan Journal Article Research Support, Non-U.S. Gov't Systematic Review United States 2019/12/11 Pediatr Res. 2020 Jun;87(7):1157-1170. doi: 10.1038/s41390-019-0712-1. Epub 2019 Dec 10. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2020-6
+DO  - doi:10.1038/s41390-019-0712-1
+IS  - 7
+KW  - Animals
+Behavior, Animal/*drug effects
+Central Nervous System/*drug effects
+Dexamethasone/*administration & dosage/pharmacology
+Female
+Glucocorticoids/*administration & dosage/pharmacology
+Humans
+*Models, Animal
+Pregnancy
+Premature Birth/prevention & control
+Prenatal Exposure Delayed Effects
+LA  - eng
+PY  - 2020
+SN  - 0031-3998
+SP  - 1157-1170
+ST  - Long-term neuropathological and/or neurobehavioral effects of antenatal corticosteroid therapy in animal models: a systematic review
+T2  - Pediatr Res
+TI  - Long-term neuropathological and/or neurobehavioral effects of antenatal corticosteroid therapy in animal models: a systematic review
+VL  - 87
+ID  - 20282
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Alzheimer's disease (AD) is a common health condition affecting senile people and leads to severe cognitive dysfunctions. Acupuncture has been shown to be a possible alternative natural remedy for AD in some animal studies. OBJECTIVE: To perform a systematic review to identify the effect of verum-acupuncture compared with sham-acupuncture on learning and memory performance among animal models of AD. METHODS: Experimental animal studies of treating AD via verum- and sham- acupuncture were searched in nine electronic databases, including Sciverse ScienceDirect, PubMed, Springer, Ebsco Medline, AMED, EMBASE (Elsevier), Scopus (Elsevier), PsycINFO (ProQuest), and OVID from the dates of the databases' inception to June 2019. The Morris water maze test was considered as an outcome measure. The software Revman 5.3 and Stata 16.0 were used to conduct the meta-analysis. Heterogeneity was examined by using I(2) statistics. The publication bias was assessed via Begg's test by Stata 16.0. RESULTS: Twelve studies involving 229 animals met the inclusion criteria. Most of the studies had a moderate quality according to SYRCLE's risk of bias tool for animal studies. The results of the meta-analysis indicated that verum-acupuncture could reduce the escape latency (MD = -12.90, 95% CI (-17.08, -8.71), p < 0.001) and increase the time spent in the original platform quadrant (MD = 7.28, 95% CI (4.23, 10.33), p < 0.001) and frequency of the crossing former platform (MD = 2.01, 95% CI (1.53, 2.50), p < 0.001) compared with the sham-acupuncture. CONCLUSIONS: Acupuncture is effective in improving cognitive functions in AD animal models, and this benefit is more than just a placebo effect. Further clinical trials are needed to confirm the findings.
+AN  - rayyan-1270351359
+AU  - Zhao, F. Y.
+AU  - Fu, Q. Q.
+AU  - Zheng, Z.
+AU  - Lao, L. X.
+AU  - Song, H. L.
+AU  - Shi, Z.
+C1  - 2314-6141 Zhao, Fei-Yi Orcid: 0000-0001-9009-8870 Fu, Qiang-Qiang Orcid: 0000-0002-2369-1508 Zheng, Zhen Orcid: 0000-0001-6777-1166 Lao, Li-Xing Orcid: 0000-0003-0198-9714 Song, Hua-Ling Orcid: 0000-0002-0589-2904 Shi, Zumin Orcid: 0000-0002-3099-3299 Journal Article Meta-Analysis Systematic Review United States 2020/04/28 Biomed Res Int. 2020 Mar 31;2020:5901573. doi: 10.1155/2020/5901573. eCollection 2020. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2020
+DO  - doi:10.1155/2020/5901573
+KW  - *Acupuncture Therapy
+Alzheimer Disease/*therapy
+Animals
+Databases, Factual
+Disease Models, Animal
+LA  - eng
+PY  - 2020
+SN  - 2314-6133 (Print)
+SP  - 5901573
+ST  - Verum- versus Sham-Acupuncture on Alzheimer's Disease (AD) in Animal Models: A Preclinical Systematic Review and Meta-Analysis
+T2  - Biomed Res Int
+TI  - Verum- versus Sham-Acupuncture on Alzheimer's Disease (AD) in Animal Models: A Preclinical Systematic Review and Meta-Analysis
+VL  - 2020
+ID  - 20294
+ER  - 
+
+TY  - JOUR
+AB  - Urodynamic studies in rats and mice are broadly used to examine pathomechnisms of disease and identify and test therapeutic targets. This review aims to highlight the effects of the anesthetics on the lower urinary tract function and seeks to identify protocols that allow recovery from anesthesia and repeated measurements while preserving the function which is being studied. All studies published in English language, which compared the data obtained under various types of anesthesia and the urodynamics performed in awake animals were included. It appears that urethane, an anesthetic recommended extensively for the investigation of lower urinary tract function, is appropriate for acute urodynamic studies only. Major advantages of urethane are its stability and ability to preserve the micturition reflex. Due to its toxicity and carcinogenicity, urethane anesthesia should not be used for recovery procedures. This review evaluated available alternatives including propofol, isoflurane and combinations of urethane, ketamine/xylazine, ketamine/medetomidine, and/or fentanyl/fluanisone/midazolam. Different effects have been demonstrated among these drugs on the urinary bladder, the urethral sphincter, as well as on their neuroregulation. The lowest incidence of adverse effects was observed with the use of a combination of ketamine and xylazine. Although the variations in the reviewed study protocols represent a limitation, we believe that this summary will help in standardizing and optimizing future experiments.
+AN  - rayyan-1270341327
+AU  - Abdelkhalek, A. S.
+AU  - Youssef, H. A.
+AU  - Saleh, A. S.
+AU  - Bollen, P.
+AU  - Zvara, P.
+C1  - 1932-6203 Abdelkhalek, Abdelkhalek Samy Orcid: 0000-0002-7847-0104 Youssef, Haroun Ali Saleh, Ahmed Sayed Bollen, Peter Zvara, Peter Journal Article Research Support, Non-U.S. Gov't Systematic Review United States 2021/06/25 PLoS One. 2021 Jun 24;16(6):e0253192. doi: 10.1371/journal.pone.0253192. eCollection 2021. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021
+DO  - doi:10.1371/journal.pone.0253192
+IS  - 6
+KW  - Anesthesia/*methods
+Anesthetics/*pharmacology
+Animals
+Mice
+Rats
+Reflex/*drug effects
+Urinary Bladder/*physiopathology
+Urination/drug effects
+Urodynamics/*drug effects
+LA  - eng
+PY  - 2021
+SN  - 1932-6203
+SP  - e0253192
+ST  - Anesthetic protocols for urodynamic studies of the lower urinary tract in small rodents-A systematic review
+T2  - PLoS One
+TI  - Anesthetic protocols for urodynamic studies of the lower urinary tract in small rodents-A systematic review
+VL  - 16
+ID  - 20212
+ER  - 
+
+TY  - JOUR
+AB  - Despite exposure-based treatments being recommended for anxiety disorders, these treatments are ineffective for over half of all adolescents who receive them. The limited efficacy of exposure during adolescence may be driven by a deficit in extinction. Although indications of diminished extinction learning during adolescence were first reported over 10 years ago, these findings have yet to be reviewed and compared. This review (k = 34) found a stark inter-species difference in extinction performance: studies of adolescent mice reported deficits in extinction learning and retention of both cued and context fear. In contrast, studies of adolescent rats only reported poor extinction retention specific to cued fear. Adolescent mice and rats appeared to have only one behavioral outcome in common, being poor extinction retention of cued fear. These findings suggest that different behavioral phenotypes are present across rodent species in adolescence and highlight that preclinical work in rats and mice is not interchangeable. Further investigation of these differences offers the opportunity to better understand the etiology, maintenance, and treatment of fear-based disorders.
+AD  - School of Psychology, UNSW Sydney, Sydney, 2052, NSW, Australia; eCentreClinic, School of Psychological Sciences, Faculty of Medicine and Health, Macquarie University, Sydney, 2109, NSW, Australia. Electronic address: madelyne.bisby@mq.edu.au.
+School of Psychology, UNSW Sydney, Sydney, 2052, NSW, Australia.
+AN  - 34740753
+AU  - Bisby, M. A.
+AU  - Stylianakis, A. A.
+AU  - Baker, K. D.
+AU  - Richardson, R.
+DA  - Dec
+DO  - 10.1016/j.neubiorev.2021.10.044
+DP  - NLM
+ET  - 20211102
+KW  - Animals
+Anxiety Disorders
+Cues
+*Extinction, Psychological
+*Fear
+Mice
+Rats
+Rats, Sprague-Dawley
+Adolescence
+Anxiety
+Extinction
+Learning
+Retention
+LA  - eng
+N1  - 1873-7528
+Bisby, Madelyne A
+Stylianakis, Anthea A
+Baker, Kathryn D
+Richardson, Rick
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+United States
+2021/11/07
+Neurosci Biobehav Rev. 2021 Dec;131:1264-1274. doi: 10.1016/j.neubiorev.2021.10.044. Epub 2021 Nov 2.
+PY  - 2021
+SN  - 0149-7634
+SP  - 1264-1274
+ST  - Fear extinction learning and retention during adolescence in rats and mice: A systematic review
+T2  - Neurosci Biobehav Rev
+TI  - Fear extinction learning and retention during adolescence in rats and mice: A systematic review
+VL  - 131
+ID  - 50905
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: Long-term cognitive impairment is a complication of critical illness survivors. Beside its lifesaving role, mechanical ventilation has potential complications. The aim of this study is to systematically review the evidence collected in animal studies that correlate mechanical ventilation with neuroinflammation, neuronal damage and cognitive impairment. METHODS: We searched MEDLINE and EMBASE databases for studies published from inception until August 31st, 2020, that enrolled mechanically ventilated animals and reported on neuroinflammation or neuronal damage markers changes or cognitive-behavioural impairment. RESULTS: Of 5583 studies, 11 met inclusion criteria. Mice, rats, pigs were used. Impact of MV: 4 out of 7 studies reported higher neuroinflammation markers in MV-treated animals and 3 studies reported no differences; 7 out of 8 studies reported a higher neuronal damage and 1 reported no differences; 2 out of 2 studies reported cognitive decline up to 3 days after MV. Higher Tidal volumes are associated with higher changes in brain or serum markers. CONCLUSION: Preclinical evidence suggests that MV induces neuroinflammation, neuronal damage and cognitive impairment and these are worsened if sub-optimal MV settings are applied. Future studies, with appropriate methodology, are necessary to evaluate for serum monitoring strategies. TRIAL REGISTRATION NUMBER: CRD42019148935.
+AD  - Department of Anaesthesia and Intensive Care, Sapienza University of Rome, Roma, Italy. Electronic address: gi.giordano@policlinicoumberto1.it.
+Department of Anaesthesia and Intensive Care, Sapienza University of Rome, Roma, Italy.
+AN  - 33454552
+AU  - Giordano, G.
+AU  - Pugliese, F.
+AU  - Bilotta, F.
+C1  - Declaration of Competing Interest GG, FP, FB declare to have no competing interests.
+DA  - Apr
+DO  - 10.1016/j.jcrc.2020.12.017
+DP  - NLM
+ET  - 20201225
+KW  - Animals
+Brain
+*Cognitive Dysfunction/etiology
+Critical Illness
+Humans
+Mice
+Rats
+*Respiration, Artificial/adverse effects
+Swine
+Tidal Volume
+Cognitive impairment
+Mechanical ventilation
+Neuroinflammation
+Neuronal damage
+LA  - eng
+N1  - 1557-8615
+Giordano, Giovanni
+Pugliese, Francesco
+Bilotta, Federico
+Journal Article
+Review
+Systematic Review
+United States
+2021/01/18
+J Crit Care. 2021 Apr;62:246-255. doi: 10.1016/j.jcrc.2020.12.017. Epub 2020 Dec 25.
+PY  - 2021
+SN  - 0883-9441
+SP  - 246-255
+ST  - Neuroinflammation, neuronal damage or cognitive impairment associated with mechanical ventilation: A systematic review of evidence from animal studies
+T2  - J Crit Care
+TI  - Neuroinflammation, neuronal damage or cognitive impairment associated with mechanical ventilation: A systematic review of evidence from animal studies
+VL  - 62
+ID  - 50910
+ER  - 
+
+TY  - JOUR
+AB  - Olfactory impairment is a common clinical motif across neurodevelopmental disorders, suggesting olfactory circuits are particularly vulnerable to disease processes and can provide insight into underlying disease mechanisms. The mouse olfactory bulb is an ideal model system to study mechanisms of neurodevelopmental disease due to its anatomical accessibility, behavioral relevance, ease of measuring circuit input and output, and the feature of adult neurogenesis. Despite the clinical relevance and experimental benefits, olfactory testing across animal models of neurodevelopmental disease has been inconsistent and non-standardized. Here we performed a systematic literature review of olfactory function testing in mouse models of neurodevelopmental disorders, and identified intriguing inconsistencies that include evidence for both increased and decreased acuity in odor detection in various mouse models of Autism Spectrum Disorder (ASD). Based on our identified gaps in the literature, we recommend direct comparison of different mouse models of ASD using standardized tests for odor detection and discrimination. This review provides a framework to guide future olfactory function testing in mouse models of neurodevelopmental diseases.
+AD  - Baylor College of Medicine, Department of Pediatrics, Section of Pediatric Neurology and Developmental Neuroscience, Clinical Care Center, Suite 1250, 6621 Fannin St, Houston, TX, 77030, United States. Electronic address: lyonswar@bcm.edu.
+Baylor College of Medicine, Department of Pediatrics, Section of Pediatric Neurology and Developmental Neuroscience, Clinical Care Center, Suite 1250, 6621 Fannin St, Houston, TX, 77030, United States; Baylor College of Medicine, Department of Molecular & Human Genetics, 1250 Moursund Street, Suite 1170.12, Houston, TX, 77030, United States. Electronic address: isabellg@bcm.edu.
+Baylor College of Medicine, Department of Molecular & Human Genetics, 1250 Moursund Street, Suite 1170.12, Houston, TX, 77030, United States; Baylor College of Medicine, Medical Scientist Training Program, 1 Baylor Plaza, Houston, TX, 77030, United States. Electronic address: pjhunt@bcm.edu.
+Baylor College of Medicine, Department of Molecular & Human Genetics, 1250 Moursund Street, Suite 1170.12, Houston, TX, 77030, United States; Baylor College of Medicine, Department of Neuroscience, 1250 Moursund Street, Suite 1170.12, Houston, TX, 77030, United States; Jan and Dan Duncan Neurological Research Institute at Texas Children's Hospital, Houston, TX, 77030, United States; McNair Medical Institute, Baylor College of Medicine, Houston, TX, 77030, United States. Electronic address: arenkiel@bcm.edu.
+AN  - 33610612
+AU  - Lyons-Warren, A. M.
+AU  - Herman, I.
+AU  - Hunt, P. J.
+AU  - Arenkiel, B. R.
+C2  - PMC8142839
+C6  - NIHMS1680896
+DA  - Jun
+DO  - 10.1016/j.neubiorev.2021.02.024
+DP  - NLM
+ET  - 20210218
+KW  - Adult
+Animals
+*Autism Spectrum Disorder
+Humans
+Mice
+Neurogenesis
+*Olfaction Disorders
+Olfactory Bulb
+Smell
+Anosmia
+Hyposmia
+Mouse models of neurological disease
+Neurodevelopmental disorders
+Olfaction
+Sensory circuits
+LA  - eng
+N1  - 1873-7528
+Lyons-Warren, Ariel M
+Herman, Isabella
+Hunt, Patrick J
+Arenkiel, Benjamin R
+R01 DK109934/DK/NIDDK NIH HHS/United States
+R01 NS078294/NS/NINDS NIH HHS/United States
+U54 HD083092/HD/NICHD NIH HHS/United States
+K12 NS098482/NS/NINDS NIH HHS/United States
+UF1 NS111692/NS/NINDS NIH HHS/United States
+U54 HD090255/HD/NICHD NIH HHS/United States
+P50 HD103555/HD/NICHD NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+Review
+Systematic Review
+United States
+2021/02/22
+Neurosci Biobehav Rev. 2021 Jun;125:110-121. doi: 10.1016/j.neubiorev.2021.02.024. Epub 2021 Feb 18.
+PY  - 2021
+SN  - 0149-7634 (Print)
+0149-7634
+SP  - 110-121
+ST  - A systematic-review of olfactory deficits in neurodevelopmental disorders: From mouse to human
+T2  - Neurosci Biobehav Rev
+TI  - A systematic-review of olfactory deficits in neurodevelopmental disorders: From mouse to human
+VL  - 125
+ID  - 50906
+ER  - 
+
+TY  - JOUR
+AB  - Survivors of sepsis often develop long-term cognitive impairments. This review aimed at exploring the results of the behavioral tools and tests which have been used to evaluate cognitive dysfunction in different animal models of sepsis. Two independent investigators searched for sepsis- and cognition-related keywords. 6323 publications were found, of which 355 were selected based on their title, and 226 of these were chosen based on manuscript review. LPS was used to induce sepsis in 171 studies, while CLP was used in 55 studies. Inhibitory avoidance was the most widely used method for assessing aversive memory, followed by fear conditioning and continuous multi-trial inhibitory avoidance. With regard to non-aversive memory, most studies used the water maze, open-field, object recognition, Y-maze, plus maze, and radial maze tests. Both CLP and LPS models of sepsis were effective in inducing short- and long-term behavioral impairment. Our findings help elucidate the mechanisms involved in the pathophysiology of sepsis-induced cognitive changes, as well as the available methods and tests used to study this in animal models.
+AN  - rayyan-1270349082
+AU  - Savi, F. F.
+AU  - de Oliveira, A.
+AU  - de Medeiros, G. F.
+AU  - Bozza, F. A.
+AU  - Michels, M.
+AU  - Sharshar, T.
+AU  - Dal-Pizzol, F.
+AU  - Ritter, C.
+C1  - 1873-7528 Savi, Felipe Figueredo de Oliveira, Alexandre de Medeiros, Gabriela Ferreira Bozza, Fernando Augusto Michels, Monique Sharshar, Tarek Dal-Pizzol, Felipe Ritter, Cristiane Journal Article Review Systematic Review United States 2020/12/15 Neurosci Biobehav Rev. 2021 May;124:386-404. doi: 10.1016/j.neubiorev.2020.12.005. Epub 2020 Dec 9. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-5
+DO  - doi:10.1016/j.neubiorev.2020.12.005
+KW  - Animals
+Cognition
+*Cognitive Dysfunction/etiology
+Disease Models, Animal
+Maze Learning
+*Sepsis/complications
+Clp
+Cognitive impairment
+Lps
+Memory impairment
+Sae
+Sepsis
+Sepsis-associated encephalopathy
+LA  - eng
+PY  - 2021
+SN  - 0149-7634
+SP  - 386-404
+ST  - What animal models can tell us about long-term cognitive dysfunction following sepsis: A systematic review
+T2  - Neurosci Biobehav Rev
+TI  - What animal models can tell us about long-term cognitive dysfunction following sepsis: A systematic review
+VL  - 124
+ID  - 20269
+ER  - 
+
+TY  - JOUR
+AB  - Probiotics immunomodulatory properties and their beneficial effects for diseases such as multiple sclerosis (MS) are reported by several studies. The current systematic review and meta-analysis aimed to investigate the favourable effects of probiotics in improving experimental autoimmune/allergic encephalomyelitis (EAE) as an animal model of MS. We systematically searched Scopus, Web of Sciences (ISI), and PubMed databases to identify relevant studies from the inception of these databases to December 2019. A total of 15 animal studies met the inclusion criteria, while no human study met the inclusion criteria. The association between consumption of probiotics and each sign was calculated using the producing pooled odd ratios (95% confidence interval [95% CI]) in a random effect model. The meta-analysis revealed the significant effect of probiotics on the incidence of EAE, weight gain, and clinical symptoms. However, the effects of probiotics on the duration of the disease varied by probiotic strain. The administration of probiotics was associated with a significant reduction in the risk of mortality only in female animals. Moreover, the meta-analysis revealed the promising effects of probiotics on the prevention and management of EAE.
+AN  - rayyan-1270350279
+AU  - Valizadeh, S.
+AU  - Majdi Seghinsara, A.
+AU  - Maleki Chollou, K.
+AU  - Bahadori, A.
+AU  - Abbaszadeh, S.
+AU  - Taghdir, M.
+AU  - Behniafar, H.
+AU  - Riahi, S. M.
+C1  - 1472-765x Valizadeh, S Majdi Seghinsara, A Maleki Chollou, K Bahadori, A Abbaszadeh, S Taghdir, M Behniafar, H Orcid: 0000-0002-4596-3789 Riahi, S M Journal Article Meta-Analysis Review Systematic Review England 2021/07/27 Lett Appl Microbiol. 2021 Oct;73(4):408-417. doi: 10.1111/lam.13543. Epub 2021 Aug 11. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-10
+DO  - doi:10.1111/lam.13543
+IS  - 4
+KW  - Animals
+Disease Models, Animal
+*Encephalomyelitis, Autoimmune, Experimental/therapy
+Female
+Incidence
+*Multiple Sclerosis/therapy
+*Probiotics
+association
+experimental autoimmune encephalomyelitis
+meta-analysis
+multiple sclerosis
+probiotics
+LA  - eng
+PY  - 2021
+SN  - 0266-8254
+SP  - 408-417
+ST  - The efficacy of probiotics in experimental autoimmune encephalomyelitis (an animal model for MS): a systematic review and meta-analysis
+T2  - Lett Appl Microbiol
+TI  - The efficacy of probiotics in experimental autoimmune encephalomyelitis (an animal model for MS): a systematic review and meta-analysis
+VL  - 73
+ID  - 20278
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Periventricular leukomalacia (PVL) is a result of various antenatal, intrapartum, or postnatal insults to the developing brain and is an important harbinger of cerebral palsy in preterm neonates. There is no proven therapy for PVL. This calls for appraisal of targeted therapies that have been investigated in animal models to evaluate their relevance in a clinical research context. AREAS COVERED: This systematic review identifies interventions that were evaluated in preclinical studies for neuroprotective efficacy against PVL. We identified 142 studies evaluating various interventions in PVL animal models (search method is detailed in section 2). EXPERT OPINION: Interventions that have yielded significant results in preclinical research, and that have been evaluated in a limited number of clinical trials include stem cells, erythropoietin, and melatonin. Many other therapeutic modalities evaluated in preclinical studies have been identified, but more data on their neuroprotective potential in PVL must be garnered before they can be considered for clinical trials. Because most of the tested interventions had only a partial efficacy, a combination of interventions that could be synergistic should be investigated in future preclinical studies. Furthermore, since the nature and pattern of perinatal insults to preterm brain predisposing it to PVL are substantially variable, individualized approaches for the choice of appropriate neuroprotective interventions tailored to different subgroups of preterm neonates should be explored.
+AN  - rayyan-1270341348
+AU  - Abiramalatha, T.
+AU  - Ramaswamy, V. V.
+AU  - Ponnala, A. K.
+AU  - Kallem, V. R.
+AU  - Murkunde, Y. V.
+AU  - Punnoose, A. M.
+AU  - Vivekanandhan, A.
+AU  - Pullattayil, A. K.
+AU  - Amboiram, P.
+C1  - 1744-7658 Abiramalatha, Thangaraj Orcid: 0000-0001-9125-3510 Ramaswamy, Viraraghavan Vadakkencherry Orcid: 0000-0001-7092-3597 Ponnala, Anand Kumar Kallem, Venkat Reddy Murkunde, Yogeshkumar V Punnoose, Alan Mathew Vivekanandhan, Aravindhan Orcid: 0000-0002-5639-4948 Pullattayil, Abdul Kareem Amboiram, Prakash Journal Article Systematic Review England 2022/02/11 Expert Opin Investig Drugs. 2022 Mar;31(3):305-330. doi: 10.1080/13543784.2022.2040479. Epub 2022 Feb 24. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-3
+DO  - doi:10.1080/13543784.2022.2040479
+IS  - 3
+KW  - Animals
+Brain
+Female
+Humans
+Infant, Newborn
+*Leukomalacia, Periventricular/etiology/prevention & control
+Pregnancy
+Risk Factors
+Periventricular leukomalacia
+animal models
+neuroprotection
+preclinical studies
+preterm brain injury
+prevention
+therapy
+white matter
+LA  - eng
+PY  - 2022
+SN  - 1354-3784
+SP  - 305-330
+ST  - Emerging neuroprotective interventions in periventricular leukomalacia - A systematic review of preclinical studies
+T2  - Expert Opin Investig Drugs
+TI  - Emerging neuroprotective interventions in periventricular leukomalacia - A systematic review of preclinical studies
+VL  - 31
+ID  - 20214
+ER  - 
+
+TY  - JOUR
+AB  - Many individuals diagnosed with autism spectrum disorder (ASD) experience gastrointestinal (GI) dysfunction and show microbial dysbiosis. Variation in gut microbial populations is associated with increased risk for GI symptoms such as chronic constipation and diarrhoea, which decrease quality of life. Several preclinical models of autism also demonstrate microbial dysbiosis. Given that much pre-clinical research is conducted in mouse models, it is important to understand the similarities and differences between the gut microbiome in humans and these models in the context of autism. We conducted a systematic review of the literature using PubMed, ProQuest and Scopus databases to compare microbiome profiles of patients with autism and transgenic (NL3(R451C), Shank3 KO, 15q dup), phenotype-first (BTBR) and environmental (Poly I:C, Maternal Inflammation Activation (MIA), valproate) mouse models of autism. Overall, we report changes in fecal microbial communities relevant to ASD based on both clinical and preclinical studies. Here, we identify an overlapping cluster of genera that are modified in both fecal samples from individuals with ASD and mouse models of autism. Specifically, we describe an increased abundance of Bilophila, Clostridium, Dorea and Lactobacillus and a decrease in Blautia genera in both humans and rodents relevant to this disorder. Studies in both humans and mice highlighted multidirectional changes in abundance (i.e. in some cases increased abundance whereas other reports showed decreases) for several genera including Akkermansia, Bacteroides, Bifidobacterium, Parabacteroides and Prevotella, suggesting that these genera may be susceptible to modification in autism. Identification of these microbial profiles may assist in characterising underlying biological mechanisms involving host-microbe interactions and provide future therapeutic targets for improving gut health in autism.
+AD  - School of Health and Biomedical Sciences, Royal Melbourne Institute of Technology (RMIT), Bundoora, VIC, Australia.
+Medical Laboratory Technology Department, Faculty of Applied Medical Sciences, Jazan University, Jazan, Saudi Arabia.
+Department of Microbiology, Anatomy, Physiology and Pharmacology, School of Life Sciences, La Trobe University, Bundoora, VIC, Australia.
+AN  - 35846755
+AU  - Alamoudi, M. U.
+AU  - Hosie, S.
+AU  - Shindler, A. E.
+AU  - Wood, J. L.
+AU  - Franks, A. E.
+AU  - Hill-Yardin, E. L.
+C1  - The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+C2  - PMC9286068
+DO  - 10.3389/fcimb.2022.905841
+DP  - NLM
+ET  - 20220701
+KW  - Animals
+*Autism Spectrum Disorder
+*Autistic Disorder
+Disease Models, Animal
+Dysbiosis/microbiology
+*Gastrointestinal Diseases/microbiology
+*Gastrointestinal Microbiome
+Humans
+Mice
+Microfilament Proteins
+Nerve Tissue Proteins
+Quality of Life
+autism
+environmental
+gastrointestinal tract
+genetics
+microbiota
+mouse model
+LA  - eng
+N1  - 2235-2988
+Alamoudi, Mohammed U
+Hosie, Suzanne
+Shindler, Anya E
+Wood, Jennifer L
+Franks, Ashley E
+Hill-Yardin, Elisa L
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+Switzerland
+2022/07/19
+Front Cell Infect Microbiol. 2022 Jul 1;12:905841. doi: 10.3389/fcimb.2022.905841. eCollection 2022.
+PY  - 2022
+SN  - 2235-2988
+SP  - 905841
+ST  - Comparing the Gut Microbiome in Autism and Preclinical Models: A Systematic Review
+T2  - Front Cell Infect Microbiol
+TI  - Comparing the Gut Microbiome in Autism and Preclinical Models: A Systematic Review
+VL  - 12
+ID  - 50903
+ER  - 
+
+TY  - JOUR
+AB  - Background: Stroke, including ischemic stroke, intracerebral hemorrhage, and subarachnoid hemorrhage (SAH), remains a leading cause of mortality globally. Different stroke subtypes have similar detrimental effects in multiple fields of health. Previous research has shown that metformin plays a neuroprotective role in experimental animal models of stroke; however, a preclinical quantitative analysis on the ability of metformin to treat stroke is still lacking. This meta-analysis evaluates the efficacy of metformin in improving stroke prognosis in rodent models of stroke. Methods: Relevant preclinical trials were retrieved from PubMed, EMBASE, and the Web of Science. The neurological score (NS), brain water content (BWC), infarct size, rotarod test, TUNEL, neuron quantity, microglia quantity, and p-AMPK levels were compared between a control group and a metformin group using the standardized mean difference (SMD) and corresponding confidence interval (CI). Quality was assessed with SYRCLE's risk of bias tool. Results: Fifteen articles published from 2010 to 2022 were included in the meta-analysis. The metformin group had statistically significant differences compared to the control group in the following aspects: NS (SMD -1.45; 95% CI -2.32, -0.58; p = 0.001), BWC (SMD -3.22; 95% CI -4.69, -1.76; p < 0.0001), infarct size (SMD -2.90; 95% CI -3.95, -1.85; p < 0.00001), rotarod test (SMD 2.55; 95% CI 1.87, 3.23; p < 0.00001), TUNEL (SMD -3.63; 95% CI -5.77, -1.48; p = 0.0009), neuron quantity (SMD 3.42; 95% CI 2.51, 4.34; p < 0.00001), microglia quantity (SMD -3.06; 95% CI -4.69, -1.44; p = 0.0002), and p-AMPK levels (SMD 2.92; 95% CI 2.02, 3.82; p < 0.00001). Furthermore, sensitivity analysis and stratified analysis were conducted for heterogeneous outcome indicators. Conclusion: Overall, metformin treatment improves severe outcomes triggered by stroke. Despite the limitations intrinsic to animal studies, this systematic review may provide a vital reference for future high-quality preclinical trials and clinical use.
+AN  - rayyan-1270344214
+AU  - Fu, W.
+AU  - Tang, Y.
+AU  - Che, X.
+AU  - Tan, J.
+AU  - Ma, Y.
+AU  - He, Z.
+C1  - 1663-9812 Fu, Wenqiao Tang, Yin Che, Xudong Tan, Jiahe Ma, Yinrui He, Zhaohui Systematic Review Switzerland 2022/11/22 Front Pharmacol. 2022 Nov 3;13:1009169. doi: 10.3389/fphar.2022.1009169. eCollection 2022. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022
+DO  - doi:10.3389/fphar.2022.1009169
+KW  - animal models
+meta-analysis
+metformin
+neuropharmacology
+stroke
+LA  - eng
+PY  - 2022
+SN  - 1663-9812 (Print) 1663-9812
+SP  - 1009169
+ST  - Neuropharmacological efficacy of metformin for stroke in rodents: A meta-analysis of preclinical trials
+T2  - Front Pharmacol
+TI  - Neuropharmacological efficacy of metformin for stroke in rodents: A meta-analysis of preclinical trials
+VL  - 13
+ID  - 20224
+ER  - 
+
+TY  - JOUR
+AB  - Thymol (THY) exhibits antibacterial and antioxidant properties. Recent studies have also shown that THY presents anti-inflammatory and healing properties. This review focused on in vitro and in vivo investigations related to THY utilization, as an anti-inflammatory and/or wound healing agent. PubMed, WebOfScience, and Scopus were examined. Independent reviewers conducted all diagram steps. PRISMA was followed for data extraction. RoB 2 and SYRCLE were utilized to assess the risk of bias for in vitro and animal studies. Meta-analysis was performed for in vitro and in vivo articles that investigated THY as an anti-inflammatory agent. Thirty-six and 15 articles were included in the qualitative analysis and meta-analysis, respectively. Studies showed high risk of bias related to sampling, allocation procedures, randomization, and blinding. Even so, for in vitro studies, significant result was observed for IL-2. For in vivo studies, significant results were found for IL-1, IL-17, TNF-α, AST, MPO, and CRP, with higher levels noticed in control groups. THY presents significant properties as anti-inflammatory, ameliorating affections of the digestive system, cardiovascular problems, respiratory system and dermal damages, and burns. Researches are needed to clarify THY dose-response relationship and its mechanism of action, especially in the application of THY as a healing agent.
+AN  - rayyan-1270344235
+AU  - Gabbai-Armelin, P. R.
+AU  - Sales, L. S.
+AU  - Ferrisse, T. M.
+AU  - De Oliveira, A. B.
+AU  - De Oliveira, J. R.
+AU  - Giro, E. M. A.
+AU  - Brighenti, F. L.
+C1  - 1099-1573 Gabbai-Armelin, Paulo R Orcid: 0000-0003-4802-0062 Sales, Luciana S Orcid: 0000-0001-8557-6575 Ferrisse, Túlio Morandin Orcid: 0000-0002-9933-2819 De Oliveira, Analu Barros Orcid: 0000-0002-7177-4519 De Oliveira, Juliana R Orcid: 0000-0003-0164-6850 Giro, Elisa M A Orcid: 0000-0002-2085-2951 Brighenti, Fernanda L Orcid: 0000-0002-4470-5171 313473/2019-6/Conselho Nacional de Desenvolvimento Científico e Tecnológico/ 88887.468865/2019-00/Coordenação de Aperfeiçoamento de Pessoal de Nível Superior/ 88887.571226/2020-00/Coordenação de Aperfeiçoamento de Pessoal de Nível Superior/ Finance Code 001/Coordenação de Aperfeiçoamento de Pessoal de Nível Superior/ 2019/08375-0/Fundação de Amparo à Pesquisa do Estado de São Paulo/ 2019/26066-4/Fundação de Amparo à Pesquisa do Estado de São Paulo/ 2020/07110-0/Fundação de Amparo à Pesquisa do Estado de São Paulo/ 2021/01191-0/Fundação de Amparo à Pesquisa do Estado de São Paulo/ Journal Article Meta-Analysis Review Systematic Review England 2022/07/19 Phytother Res. 2022 Sep;36(9):3415-3443. doi: 10.1002/ptr.7541. Epub 2022 Jul 18. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-9
+DO  - doi:10.1002/ptr.7541
+IS  - 9
+KW  - Animals
+Anti-Inflammatory Agents/pharmacology/therapeutic use
+*Burns
+Inflammation/drug therapy
+*Thymol/pharmacology/therapeutic use
+Wound Healing
+anti-inflammatory
+meta-analysis
+monoterpene
+systematic review
+thymol
+LA  - eng
+PY  - 2022
+SN  - 0951-418x
+SP  - 3415-3443
+ST  - A systematic review and meta-analysis of the effect of thymol as an anti-inflammatory and wound healing agent: A review of thymol effect on inflammation and wound healing: A review of thymol effect on inflammation and wound healing
+T2  - Phytother Res
+TI  - A systematic review and meta-analysis of the effect of thymol as an anti-inflammatory and wound healing agent: A review of thymol effect on inflammation and wound healing: A review of thymol effect on inflammation and wound healing
+VL  - 36
+ID  - 20228
+ER  - 
+
+TY  - JOUR
+AB  - A systematic review of investigations evaluating hemispheric asymmetries for emotions in primates was undertaken to individuate the most consistent lines of research allowing to check the hypothesis of a continuum in emotional lateralization across vertebrates. We reviewed studies on the lateralization of emotional expression (N = 31) and perception (N = 32) and of markers of emotional activation (N = 9), trying to distinguish those which had given respectively more consistent or more conflicting outcomes. Furthermore, we tried to identify the most strongly supported model of emotional lateralization. The most consistent results were obtained in studies investigating asymmetries in emotional expression at the facial level and in the perception of emotional facial expressions, whereas the most disappointing data were obtained in investigations evaluating possible neurophysiological markers of lateralized emotional activation. These results supported more the hypothesis of a continuity between humans and non-human primates than the more general hypothesis of a continuum between humans and all vertebrates. Furthermore, results supported more the 'right hemisphere' than the 'valence' model of emotional lateralization.
+AN  - rayyan-1270344246
+AU  - Gainotti, G.
+C1  - 1873-7528 Gainotti, Guido Journal Article Review Systematic Review United States 2022/08/29 Neurosci Biobehav Rev. 2022 Oct;141:104830. doi: 10.1016/j.neubiorev.2022.104830. Epub 2022 Aug 27. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-10
+DO  - doi:10.1016/j.neubiorev.2022.104830
+KW  - Animals
+*Emotions/physiology
+Face
+*Facial Expression
+Functional Laterality/physiology
+Humans
+Primates
+Expression, perception and markers of emotions
+Lateralization
+Non-human primates
+‘right hemisphere’ and ‘valence’ models of emotional lateralization
+LA  - eng
+PY  - 2022
+SN  - 0149-7634
+SP  - 104830
+ST  - Hemispheric asymmetries for emotions in non-human primates: A systematic review
+T2  - Neurosci Biobehav Rev
+TI  - Hemispheric asymmetries for emotions in non-human primates: A systematic review
+VL  - 141
+ID  - 20232
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Intracranial self-stimulation (ICSS) is a technique by which rats press a lever to stimulate their brains through an electrode chronically implanted in brain reward areas. Currently only two laboratories in the world, one in India and one in Spain, are intensively studying the effect of this kind of deep brain stimulation on learning and memory. This paper will present the main findings. METHODS: Different groups of young and old healthy and brain-damaged rats with electrodes implanted in the medial forebrain bundle received a treatment of ICSS after being trained in several paradigms of implicit and explicit learning. Memory was tested over short and long-term periods. Structural and molecular post-mortem analyses of their brains were examined in relation to memory results. RESULTS: ICSS enhances implicit and explicit memory, especially in animals showing poor performance in the learning tasks, such as brain-damaged subjects. At the structural and molecular level, ICSS enhances size and dendritic arborization and promotes neurogenesis in specific hippocampal areas. ICSS also regulates the expression of genes related to learning and memory. CONCLUSIONS: Through activating reward and neural plasticity mechanisms, ICSS in the medial forebrain bundle is a promising technique for memory-enhancing treatments.
+AN  - rayyan-1270347394
+AU  - Morgado-Bernal, I.
+AU  - Segura-Torres, P.
+C1  - 1886-144x Morgado-Bernal, Ignacio Segura-Torres, Pilar Journal Article Systematic Review Spain 2022/07/22 Psicothema. 2022 Aug;34(3):446-453. doi: 10.7334/psicothema2022.66. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-8
+DO  - doi:10.7334/psicothema2022.66
+IS  - 3
+KW  - Animals
+Humans
+*Medial Forebrain Bundle/physiology
+Memory/physiology
+Rats
+Rats, Wistar
+Reward
+*Self Stimulation/physiology
+LA  - eng
+PY  - 2022
+SN  - 0214-9915
+SP  - 446-453
+ST  - Intracranial Self-Stimulation and Memory in Rats: A Sistematic Review
+T2  - Psicothema
+TI  - Intracranial Self-Stimulation and Memory in Rats: A Sistematic Review
+VL  - 34
+ID  - 20246
+ER  - 
+
+TY  - JOUR
+AB  - Studies of nervous system effects of glyphosate, a widely used herbicide, have not been critically examined. The aim of this paper was to systematically review glyphosate-induced neurotoxicity literature to determine its usefulness in regulatory decision-making. The review was restricted to mammalian studies of behavior, neuropathology, and neuropharmacology; in vitro and other biochemical studies were considered supplementary information. Glyphosate formulation studies were also considered, despite uncertainties regarding toxicities of the formulated products; no studies used a formulation vehicle as the control. Inclusion criteria were developed a priori to ensure consistent evaluation of studies, and in vivo investigations were also ranked using ToxRTool software to determine reliability. There were 27 in vivo studies (open literature and available regulatory reports), but 11 studies were considered unreliable (mostly due to critical methodological deficiencies). There were only seven acceptable investigations on glyphosate alone. Studies differed in terms of dosing scenarios, experimental designs, test species, and commercial product. Limitations included using only one dose and/or one test time, small sample sizes, limited data presentation, and/or overtly toxic doses. While motor activity was the most consistently affected endpoint (10 of 12 studies), there were considerable differences in outcomes. In six investigations, there were no marked neuropathological changes in the central or peripheral nervous system. Other neurological effects were less consistent, and some outcomes were less convincing due to influences including high variability and small effect sizes. Taken together, these studies do not demonstrate a consistent impact of glyphosate on the structure or function of the mammalian nervous system.
+AN  - rayyan-1270347420
+AU  - Moser, V. C.
+AU  - Morris-Schaffer, K.
+AU  - Richardson, J. R.
+AU  - Li, A. A.
+C1  - 1521-6950 Moser, Virginia C Morris-Schaffer, Keith Richardson, Jason R Li, Abby A Journal Article Research Support, Non-U.S. Gov't Systematic Review England 2022/06/10 J Toxicol Environ Health B Crit Rev. 2022 May 19;25(4):162-209. doi: 10.1080/10937404.2022.2083739. Epub 2022 Jun 8. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-5-19
+DO  - doi:10.1080/10937404.2022.2083739
+IS  - 4
+KW  - Animals
+*Glycine/analogs & derivatives/toxicity
+*Herbicides/toxicity
+Mammals
+Reproducibility of Results
+Glyphosate
+behavior
+herbicide
+neuropathology
+neuropharmacology
+LA  - eng
+PY  - 2022
+SN  - 1093-7404
+SP  - 162-209
+ST  - Glyphosate and neurological outcomes: A systematic literature review of animal studies
+T2  - J Toxicol Environ Health B Crit Rev
+TI  - Glyphosate and neurological outcomes: A systematic literature review of animal studies
+VL  - 25
+ID  - 20248
+ER  - 
+
+TY  - JOUR
+AB  - Traumatic brain injury (TBI) remains a public health challenge and represents one of the major contributors to disability and mortality worldwide among all trauma-related injuries. This study aimed to determine a precise effect size of secretome intervention in TBI. We performed a systematic literature search through Cochrane, MEDLINE Complete, PubMed and Scopus databases for articles published until June 2021. The search terms used include cells OR stem cells OR mesenchymal stem cells AND secretome OR conditioned medium OR extracellular vesicles OR exosomes OR microvesicles AND traumatic brain injury OR head injury. Neurological deficits and neuroinflammation were the outcome measures assessed after the intervention. Thirty-one (31) studies involving mouse, rat and swine were enrolled for the meta-analysis. Secretome significantly improved structural and functional recovery when compared with control. The mean effect sizes were as follows: modified neurological severity score (mNSS) (-2.65, 95% CI: -3.42, -1.87, p < 0.00001), impact size (-3.02 mm(3), 95% CI: -4.97, -1.08, p = 0.002) and latency to platform (-17.20 s, 95% CI: -23.91, -10.50, p < 0.00001). Similarly, intervention with secretome reduced neuroinflammation after TBI. The results of meta-regression showed that the source of secretome, TBI models and duration of follow-up did not influence the mNSS. Furthermore, the methodological quality of the studies was moderate as shown by the risk of bias assessment. Publication bias was observed for the mNSS. This meta-analysis provides preclinical evidence of secretome intervention in TBI, suggesting that it can be explored as a therapeutic agent for TBI and other neurological disorders in humans.
+AN  - rayyan-1270347475
+AU  - Muhammad, S. A.
+AU  - Abbas, A. Y.
+AU  - Imam, M. U.
+AU  - Saidu, Y.
+AU  - Bilbis, L. S.
+C1  - 1559-1182 Muhammad, Suleiman Alhaji Orcid: 0000-0003-2421-3556 Abbas, Abdullahi Yahya Imam, Mustapha Umar Saidu, Yusuf Bilbis, Lawal Suleiman Journal Article Meta-Analysis Review Systematic Review United States 2022/03/02 Mol Neurobiol. 2022 May;59(5):2894-2909. doi: 10.1007/s12035-022-02759-w. Epub 2022 Mar 1. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-5
+DO  - doi:10.1007/s12035-022-02759-w
+IS  - 5
+KW  - Animals
+*Brain Injuries, Traumatic/therapy
+Culture Media, Conditioned/pharmacology
+*Mesenchymal Stem Cells
+Mice
+Rats
+Secretome
+Stem Cells
+Swine
+Conditioned medium
+Exosomes
+Neurobehavioural recovery
+Preclinical animal studies
+Traumatic brain injury
+LA  - eng
+PY  - 2022
+SN  - 0893-7648
+SP  - 2894-2909
+ST  - Efficacy of stem cell secretome in the treatment of traumatic brain injury: A systematic review and meta-analysis of preclinical studies
+T2  - Mol Neurobiol
+TI  - Efficacy of stem cell secretome in the treatment of traumatic brain injury: A systematic review and meta-analysis of preclinical studies
+VL  - 59
+ID  - 20254
+ER  - 
+
+TY  - JOUR
+AB  - The aim of this systematic review and meta-analysis was to analyze the influence of a maternal and/or offspring high-fat diet (HFD) on the morphology of the offspring adipocytes and amount of food and energy consumption. The search was conducted through Pubmed, EMBASE, and Web of Science databases up to October 31st, 2021. The outcomes were extracted and pooled as a standardized mean difference with random effect models. 5,004 articles were found in the databases. Of these, only 31 were selected for this systematic review and 21 were included in the meta-analysis. A large discrepancy in the percentage of fat composing the HFD (from 14% to 62% fat content) was observed. Considering the increase of adipose tissue by hyperplasia (cell number increase) and hypertrophy (cell size increase) in HFD models, the meta-analysis showed that excessive consumption of a maternal HFD influences the development of visceral white adipose tissue in offspring, related to adipocyte hypertrophy, regardless of their HFD or control diet consumption. Upon following a long-term HFD, hyperplasia was confirmed in the offspring. When analyzing the secondary outcome in terms of the amount of food and energy consumed, there was an increase of caloric intake in the offspring fed with HFD whose mothers consumed HFD. Furthermore, the adipocyte hypertrophy in different regions of the adipose tissue is related to the sex of the pups. Thus, the adipose tissue obesity phenotypes in offspring are programmed by maternal consumption of a high-fat diet, independent of postnatal diet.
+AN  - rayyan-1270349079
+AU  - Saullo, C.
+AU  - Cruz, L. L. D.
+AU  - Damasceno, D. C.
+AU  - Volpato, G. T.
+AU  - Sinzato, Y. K.
+AU  - Karki, B.
+AU  - Gallego, F. Q.
+AU  - Vesentini, G.
+C1  - 1638-6183 Saullo, Carolina Cruz, Larissa Lopes da Damasceno, Débora Cristina Volpato, Gustavo Tadeu Sinzato, Yuri Karen Karki, Barshana Gallego, Franciane Quintanilha Vesentini, Giovana Journal Article Meta-Analysis Review Systematic Review France 2022/07/03 Biochimie. 2022 Oct;201:18-32. doi: 10.1016/j.biochi.2022.06.009. Epub 2022 Jun 30. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-10
+DO  - doi:10.1016/j.biochi.2022.06.009
+KW  - Adipose Tissue
+Animals
+*Diet, High-Fat/adverse effects
+Female
+Humans
+Hyperplasia
+Hypertrophy
+Mice
+Obesity/etiology
+*Prenatal Exposure Delayed Effects
+Hyperlipidic diet
+Pups
+Rats
+Systematic review
+LA  - eng
+PY  - 2022
+SN  - 0300-9084
+SP  - 18-32
+ST  - Effects of a maternal high-fat diet on adipose tissue in murine offspring: A systematic review and meta-analysis
+T2  - Biochimie
+TI  - Effects of a maternal high-fat diet on adipose tissue in murine offspring: A systematic review and meta-analysis
+VL  - 201
+ID  - 20268
+ER  - 
+
+TY  - JOUR
+AB  - The role of GABAergic cell transplantation in improving neuropathic pain is controversial. We comprehensively searched the relevant literature to identify animal studies of GABAergic cell transplantation that recorded pain behaviors as an outcome according to the Cochrane Handbook 5.0.2. Controlled studies assessing the administration of GABAergic neurons or GABAergic neuronal progenitor cells to rat or mouse neuropathic pain animal models were included. Basic design information and mechanical allodynia thresholds and heat hyperalgesia thresholds data were collected. The risk of bias for the animal experiments was assessed according to the SYRCLE's tool. This study included 10 full-text articles. GABAergic cells transplantation leads to a statistically significant improvement of allodynia (SMD = 5.26; 95% confidence interval: 3.02-7.51; P < 0.001) and hyperalgesia (SMD: 4.10; 95% confidence interval: 1.84-6.35; P < 0.001). Differentiated GABAergic cells and without antibiotics using may have a better effect for improving neuropathic pain. GABAergic cell transplantation is a promising treatment for improving neuropathic pain. This systematic review and meta-analysis evaluated the effects of GABAergic cell transplantation on neuropathic pain, which can guide future clinical trials and possible clinical treatments, and better attenuate neuropathic pain caused by abnormal circuit hyperexcitability.
+AN  - rayyan-1270351352
+AU  - Zhang, Z. R.
+AU  - Wu, Y.
+AU  - Wang, W. J.
+AU  - Wang, F. Y.
+C1  - 1664-2295 Zhang, Zhen-Rong Wu, Yao Wang, Wen-Jing Wang, Fang-Yong Systematic Review Switzerland 2022/07/22 Front Neurol. 2022 Jul 4;13:900436. doi: 10.3389/fneur.2022.900436. eCollection 2022. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022
+DO  - doi:10.3389/fneur.2022.900436
+KW  - GABAergic neurons
+cell transplantation
+heat hyperalgesia
+mechanical allodynia
+neuropathic pain
+LA  - eng
+PY  - 2022
+SN  - 1664-2295 (Print) 1664-2295
+SP  - 900436
+ST  - The Effect of GABAergic Cells Transplantation on Allodynia and Hyperalgesia in Neuropathic Animals: A Systematic Review With Meta-Analysis
+T2  - Front Neurol
+TI  - The Effect of GABAergic Cells Transplantation on Allodynia and Hyperalgesia in Neuropathic Animals: A Systematic Review With Meta-Analysis
+VL  - 13
+ID  - 20291
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Oxidative stress is involved in the occurrence and development of multiple diseases. Acupuncture shows an excellent clinical efficacy in practical application but its mechanism remains unclear. This systematic review and meta-analysis was aimed at assessing the effect of acupuncture on oxidative stress in animal models. METHODS: PubMed, Embase, and Web of Science database were retrieved for randomized controlled trials about acupuncture on oxidative stress in animal models from inception to August 2021. Two reviewers independently screened and extracted articles according to inclusion and exclusion criteria. We used the mean difference (MD)/standardized mean difference (SMD) to perform an effect size analysis and selected fixed-effect or random-effect models to pool the data, depending on a 95% confidence interval (CI). RESULTS: A total of 12 studies comprising 125 samples were included in the quantitative meta-analysis. Compared with sham acupuncture, acupuncture (manual acupuncture, electropuncture, and laser acupuncture) reduced the level of malondialdehyde (SMD, -3.03; CI, -4.40, -1.65; p < 0.00001) and increased the levels of superoxide dismutase (SMD, 3.39; CI, 1.99, 4.79; p < 0.00001), glutathione peroxidase (SMD, 2.21; CI, 1.10, 3.32; p < 0.00001), and catalase (SMD, 2.80; CI, 0.57, 5.03; p = 0.01). CONCLUSION: This meta-analysis indicated that acupuncture can regulate oxidative stress by lowering the lipid peroxidation and activating the antioxidant enzyme system. In consideration of heterogeneity between studies, future studies should be performed by complying with strict standards and increasing sample size in animal experiments to reduce bias.
+AN  - rayyan-1270351380
+AU  - Zhao, Y.
+AU  - Zhou, B.
+AU  - Zhang, G.
+AU  - Xu, S.
+AU  - Yang, J.
+AU  - Deng, S.
+AU  - Yao, Z.
+AU  - Geng, Q.
+AU  - Ouyang, B.
+AU  - Xia, T.
+C1  - 1932-6203 Zhao, Yu Orcid: 0000-0003-3975-155x Zhou, Bo Zhang, Guangyin Xu, Shixin Yang, Jipeng Deng, Shizhe Yao, Zengmin Geng, Qiang Ouyang, Bin Xia, Tian Orcid: 0000-0001-5285-0064 Journal Article Meta-Analysis Research Support, Non-U.S. Gov't Systematic Review United States 2022/09/10 PLoS One. 2022 Sep 9;17(9):e0271098. doi: 10.1371/journal.pone.0271098. eCollection 2022. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022
+DO  - doi:10.1371/journal.pone.0271098
+IS  - 9
+KW  - *Acupuncture Therapy
+Animals
+Glutathione Peroxidase
+Malondialdehyde/pharmacology
+Models, Animal
+Oxidative Stress
+LA  - eng
+PY  - 2022
+SN  - 1932-6203
+SP  - e0271098
+ST  - The effect of acupuncture on oxidative stress: A systematic review and meta-analysis of animal models
+T2  - PLoS One
+TI  - The effect of acupuncture on oxidative stress: A systematic review and meta-analysis of animal models
+VL  - 17
+ID  - 20299
+ER  - 
+
+TY  - JOUR
+AB  - The effects of neural stem/progenitor cells (NSPCs) have been extensively evaluated by multiple studies in animal models of Parkinson's disease (PD), but the therapeutic efficacy was inconsistent. Here, we searched 4 databases (PubMed, Embase, Scopus, and Web of Science) and performed a meta-analysis to estimate the therapeutic effects of unmodified NSPCs on neurological deficits in rodent animal models of PD. Data on study quality score, behavioral outcomes (apomorphine or amphetamine-induced rotation and limb function), histological outcome (densitometry of TH+ staining in the SNpc), and cell therapy-related severe adverse events were extracted for meta-analysis and systematic review. Twenty-one studies with a median quality score of 6 (range from 4 to 9) in 11 were examined. Significant improvement was observed in the overall pooled standardized mean difference (SMD) between animals transplanted with NSPCs and with control medium (1.22 for apomorphine-induced rotation, P < .001; 1.50 for amphetamine-induced rotation, P < .001; 0.86 for limb function, P < .001; and -1.96 for the densitometry of TH+ staining, P < .001). Further subgroup analysis, animal gender, NSPCs source, NSPCs dosage, and pretreatment behavioral assessment were closely correlated with apomorphine-induced rotation and amphetamine-induced rotation. In conclusion, unmodified NSPCs therapy attenuated behavioral deficits and increased dopaminergic neurons in rodent PD models, supporting the consideration of early-stage clinical trial of NSPCs in patients with PD.
+AN  - rayyan-1270351402
+AU  - Zheng, Y.
+AU  - Zhou, J.
+AU  - Wang, Y.
+AU  - Fan, F.
+AU  - Liu, S.
+AU  - Wang, Y.
+C1  - 2157-6580 Zheng, Yifeng Zhou, Jun Wang, Yisai Fan, Fanfan Liu, Shengwen Wang, Yu Orcid: 0000-0002-3385-4964 Journal Article Meta-Analysis Research Support, Non-U.S. Gov't Systematic Review England 2022/03/25 Stem Cells Transl Med. 2022 Apr 29;11(4):383-393. doi: 10.1093/stcltm/szac006. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-4-29
+DO  - doi:10.1093/stcltm/szac006
+IS  - 4
+KW  - Animals
+Apomorphine
+Disease Models, Animal
+Humans
+*Parkinson Disease/pathology
+Rodentia
+Stem Cell Transplantation
+Parkinson’s disease
+cell transplantation
+meta-analysis
+neural stem/progenitor cells
+rodent animals
+LA  - eng
+PY  - 2022
+SN  - 2157-6564 (Print) 2157-6564
+SP  - 383-393
+ST  - Neural Stem/Progenitor Cell Transplantation in Parkinson's Rodent Animals: A Meta-Analysis and Systematic Review
+T2  - Stem Cells Transl Med
+TI  - Neural Stem/Progenitor Cell Transplantation in Parkinson's Rodent Animals: A Meta-Analysis and Systematic Review
+VL  - 11
+ID  - 20302
+ER  - 
+
+TY  - JOUR
+AB  - Ischemic stroke, the most common type of stroke, can lead to a long-term disability with the limitation of effective therapeutic approaches. Ginsenoside-Rd (G-Rd) has been found as a neuroprotective agent. In order to investigate and discuss the neuroprotective function and underlying mechanism of G-Rd in experimental animal models following cerebral ischemic/reperfusion (I/R) injury, PubMed, Embase, SinoMed, and China National Knowledge Infrastructure were searched from their inception dates to May 2022, with no language restriction. Studies that G-Rd was used to treat cerebral I/R damage in vivo were selected. A total of 18 articles were included in this paper, and it was showed that after cerebral I/R damage, G-Rd administration could significantly attenuate infarct volume (19 studies, SMD = -1.75 [-2.21 to - 1.30], P < 0.00001). Subgroup analysis concluded that G-Rd at the moderate doses of >10- <50 mg/kg reduced the infarct volume to the greatest extent, and increasing the dose beyond 50 mg/kg did not produce better results. The neuroprotective effect of G-Rd was not affected by other factors, such as the animal species, the order of administration, and the ischemia time. In comparison with the control group, G-Rd administration could improve neurological recovery (lower score means better recovery: 14 studies, SMD = -1.50 [-2.00 to - 1.00], P < 0.00001; higher score means better recovery: 8 studies, SMD = 1.57 [0.93 to 2.21], P < 0.00001). In addition, this review suggested that G-Rd in vivo can antagonize the reduced oxidative stress, regulate Ca(2+), and inhibit inflammatory, resistance to apoptosis, and antipyroptosis on cerebral I/R damage. Collectively, G-Rd is a promising natural neuroprotective agent on cerebral I/R injury with unique advantages and a clear mechanism of action. More clinical randomized, blind-controlled trials are also needed to confirm the neuroprotective effect of G-Rd on cerebral I/R injury.
+AN  - rayyan-1270351410
+AU  - Zhou, A. F.
+AU  - Zhu, K.
+AU  - Pu, P. M.
+AU  - Li, Z. Y.
+AU  - Zhang, Y. Y.
+AU  - Shu, B.
+AU  - Cui, X. J.
+AU  - Yao, M.
+AU  - Wang, Y. J.
+C1  - 1942-0994 Zhou, Ai-Fang Orcid: 0000-0002-6640-3959 Zhu, Ke Orcid: 0000-0002-3504-1262 Pu, Pei-Min Orcid: 0000-0002-5928-3434 Li, Zhuo-Yao Orcid: 0000-0003-2286-8647 Zhang, Ya-Yun Orcid: 0000-0003-0502-1495 Shu, Bing Orcid: 0000-0002-6009-5377 Cui, Xue-Jun Orcid: 0000-0002-9006-4547 Yao, Min Orcid: 0000-0002-0410-7900 Wang, Yong-Jun Orcid: 0000-0001-9333-2423 Journal Article Meta-Analysis Systematic Review United States 2022/09/13 Oxid Med Cell Longev. 2022 Sep 1;2022:7650438. doi: 10.1155/2022/7650438. eCollection 2022. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022
+DO  - doi:10.1155/2022/7650438
+KW  - Animals
+*Brain Ischemia/drug therapy
+Ginsenosides
+Infarction/drug therapy
+*Neuroprotective Agents/pharmacology/therapeutic use
+*Reperfusion Injury/drug therapy
+LA  - eng
+PY  - 2022
+SN  - 1942-0900 (Print) 1942-0994
+SP  - 7650438
+ST  - Neuroprotective Effect and Possible Mechanisms of Ginsenoside-Rd for Cerebral Ischemia/Reperfusion Damage in Experimental Animal: A Meta-Analysis and Systematic Review
+T2  - Oxid Med Cell Longev
+TI  - Neuroprotective Effect and Possible Mechanisms of Ginsenoside-Rd for Cerebral Ischemia/Reperfusion Damage in Experimental Animal: A Meta-Analysis and Systematic Review
+VL  - 2022
+ID  - 20303
+ER  - 
+
+TY  - JOUR
+AB  - Spinal cord injury (SCI) is a devastating condition with few treatment options. Metformin, a classical antidiabetic and antioxidant, has extended its application to experimental SCI treatment. Here, we performed a systematic review to evaluate the neurobiological roles of metformin for treating SCI in rats, and to assess the potential for clinical translation. PubMed, Embase, China National Knowledge Infrastructure, WanFang data, SinoMed, and Vip Journal Integration Platform databases were searched from their inception dates to October 2021. Two reviewers independently selected controlled studies evaluating the neurobiological roles of metformin in rats following SCI, extracted data, and assessed the quality of methodology and evidence. Pairwise meta-analyses, subgroup analyses and network analysis were performed to assess the roles of metformin in neurological function and tissue damage in SCI rats. Twelve articles were included in this systematic review. Most of them were of moderate-to-high methodological quality, while the quality of evidence from those studies was not high. Generally, Basso, Beattie, and Bresnahan scores were increased in rats treated with metformin compared with controls, and the weighted mean differences (WMDs) between metformin and control groups exhibited a gradual upward trend from the 3rd (nine studies, n = 164, WMD = 0.42, 95% CI = -0.01 to 0.85, P = 0.06) to the 28th day after treatment (nine studies, n = 136, WMD = 3.48, 95% CI = 2.04 to 4.92, P < 0.00001). Metformin intervention was associated with improved inclined plane scores, tissue preservation ratio and number of anterior horn motor neurons. Subgroup analyses indicated an association between neuroprotection and metformin dose. Network meta-analysis showed that 50 mg/kg metformin exhibited greater protection than 10 and 100 mg/kg metformin. The action mechanisms behind metformin were associated with activating adenosine monophosphate-activated protein kinase signaling, regulating mitochondrial function and relieving endoplasmic reticulum stress. Collectively, this review indicates that metformin has a protective effect on SCI with satisfactory safety and we demonstrate a rational mechanism of action; therefore, metformin is a promising candidate for future clinical trials. However, given the limitations of animal experimental methodological and evidence quality, the findings of this pre-clinical review should be interpreted with caution.
+AN  - rayyan-1270351416
+AU  - Zhou, L. Y.
+AU  - Chen, X. Q.
+AU  - Yu, B. B.
+AU  - Pan, M. X.
+AU  - Fang, L.
+AU  - Li, J.
+AU  - Cui, X. J.
+AU  - Yao, M.
+AU  - Lu, X.
+C1  - 1662-453x Zhou, Long-Yun Chen, Xu-Qing Yu, Bin-Bin Pan, Meng-Xiao Fang, Lu Li, Jian Cui, Xue-Jun Yao, Min Lu, Xiao Systematic Review Switzerland 2022/09/20 Front Neurosci. 2022 Aug 11;16:946879. doi: 10.3389/fnins.2022.946879. eCollection 2022. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022
+DO  - doi:10.3389/fnins.2022.946879
+KW  - action mechanism
+clinical translation
+metformin
+neurological function
+safety
+spinal cord injury
+systematic review
+LA  - eng
+PY  - 2022
+SN  - 1662-4548 (Print) 1662-453x
+SP  - 946879
+ST  - The effect of metformin on ameliorating neurological function deficits and tissue damage in rats following spinal cord injury: A systematic review and network meta-analysis
+T2  - Front Neurosci
+TI  - The effect of metformin on ameliorating neurological function deficits and tissue damage in rats following spinal cord injury: A systematic review and network meta-analysis
+VL  - 16
+ID  - 20304
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Repetitive transcranial magnetic stimulation (rTMS) is a non-invasive neuromodulation technique. Recently, rTMS has shown promising therapeutic potential in multiple neurological conditions. Nevertheless, challenges remain in the clinical application of rTMS, which mainly due to the lack of consensus on optimal stimulation protocols and poor understanding of the exact targets driving its action. Experimental animal research with more controllable factors may contribute to fill our knowledge gap in this area, and to accelerate the development of clinical translation studies. Therefore, the current study was designed to systematically review the effects of rTMS on animal models of certain diseases and evaluate its potential mechanisms of action, which may guide future studies aiming to improve the therapeutic utilization for these diseases. METHODS: A systematic literature search was conducted through the PubMed online database on August 19, 2021. The search strategy consisted of two main components: rTMS and stroke, Alzheimer's disease (AD), vascular dementia (VaD), and Parkinson's disease (PD), with results limited to animal studies. RESULTS: We identified 41 animal studies, 21 that examined stroke, 8 that investigated Alzheimer's disease, 5 that studied vascular dementia, and 7 that examined Parkinson's disease, all of these studies were conducted in rodents (rat and mice). Despite variations in study design and research methods, the therapeutic benefits of rTMS, as reflected in the alleviation of disease-related symptoms and pathological improvements, have been reported in these studies. rTMS induces multi-directional changes at the cellular and molecular levels, including a significant contribution to synaptic plasticity. Furthermore, the curative effects of rTMS are related to stimulation parameters, with high-frequency rTMS reported has better therapeutic efficacy in several studies. In terms of safety, one study involving combination therapy reported the adverse effects of rTMS administration. CONCLUSIONS: rTMS have shown encouraging therapeutic value in rodent models of stroke, AD, VaD, and PD. Nonetheless, the optimal protocols and exact target of action for this therapy remain to be determined. Correspondingly, further research is still needed to bridge the translation gap between rodent experiments and clinical application, which might lead to new directions in the treatment of multiple neurological disorders.
+AN  - rayyan-1270351485
+AU  - Zong, X.
+AU  - Gu, J.
+AU  - Geng, D.
+AU  - Gao, D.
+C1  - 1872-9754 Zong, Xuemei Gu, Jie Geng, Deqin Gao, Dianshuai Journal Article Research Support, Non-U.S. Gov't Review Systematic Review England 2022/05/06 Neurochem Int. 2022 Jul;157:105356. doi: 10.1016/j.neuint.2022.105356. Epub 2022 May 2. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-7
+DO  - doi:10.1016/j.neuint.2022.105356
+KW  - *Alzheimer Disease/therapy
+Animals
+*Dementia, Vascular
+Mice
+*Parkinson Disease/therapy
+Rats
+Rodentia
+*Stroke/therapy
+Transcranial Magnetic Stimulation/methods
+Alzheimer's disease
+Parkinson's disease
+Repetitive transcranial magnetic stimulation
+Rodent
+Stroke
+Vascular dementia
+LA  - eng
+PY  - 2022
+SN  - 0197-0186
+SP  - 105356
+ST  - Repetitive transcranial magnetic stimulation (rTMS) for multiple neurological conditions in rodent animal models: A systematic review
+T2  - Neurochem Int
+TI  - Repetitive transcranial magnetic stimulation (rTMS) for multiple neurological conditions in rodent animal models: A systematic review
+VL  - 157
+ID  - 20313
+ER  - 
+
+TY  - JOUR
+AB  - Macrophage M2 (MP2)-based cell therapy is a novel medicinal treatment for animals with Experimental Autoimmune Encephalomyelitis (EAE) as an experimental model of multiple sclerosis (MS). This systematic review and meta-analysis study was designed to assess the overall therapeutic effects of MP2 cell therapy on Clinical Score and motor impairment in EAE-induced animals. All experiments on MP2 cell therapy in animals with EAE were gathered (by October 2, 2022) from English (PubMed, Scopus, WoS, Science Direct, and ISC) and Persian (MagIran and SID) databases. The searching strategy was designed using "Experimental Autoimmune Encephalomyelitis," "Multiple Sclerosis," and "Macrophage M2" keywords. Following primary and secondary screenings, eligible papers were selected based on the PRISMA 2020 guideline, and the study quality was assessed using the Animal Research: Reporting of In Vivo Experiments (ARRIVE) checklist. The difference in means of Clinical Score (score 0-5) as the effect size (ES) was analyzed based on the random effect model (CMA software, v.2). Subgrouping (EAE phases of Onset, Peak, and Recovery) was applied, and I(2) index was used to assess the heterogeneity index. Publication bias and sensitivity indices were also evaluated. P < 0.05 was considered significant, and the confidence interval (CI) was determined 95%. Among 22 gathered papers, medium to high quality studies were selected for meta-analysis. Difference in means, P value, and I(2) for Onset, Peak, and Recovery phases were 0.082 (CI95%: -0.323-0.159, P value: 0.504, I(2) : 67.961%), -0.606 (CI95%: -1.518 to -0.305, P value: 0.192, I(2) : 96.070%), and -1.103 (CI95%: -1.390 to -0.816, P value: 0.000, I(2) : 30.880%), respectively and Overall Effect was found -0.509 (CI95%: -0.689 to -0.328, P value < 0.001). Also, P value (two-tailed) indices for publication bias were 0.366 and 0.583 for Egger's regression intercept and Begg rank correlation, respectively. The P value for sensitivity was detected 0.003. Cell therapy procedure using MP2 can potentially alleviate the Clinical Scores Index and correct the motor defects in Recovery phase of EAE animals. In healthy mice, the brain and myelin surrounding neurons are in a healthy and physiological state (1). To evaluate MS in humans, it is necessary to model this type of disease in animals using EAE procedure through subcutaneous injection of CFA, MOG(35-55) , MT, and Pert. Thus, inflammation and autoimmunity occur, which finally lead to myelin destruction and motor symptoms (2). By aspiration of progenitor cells available in bone marrow, the MP2 can be isolated and cultured. By activation of these types of cells, a rich collection of MP2 can be prepared for the cell-therapy process (3). After injection through the tail vein or intra-peritoneal procedure, these cells can be located in CNS through crossing from the BBB. They begin their anti-inflammatory activities and help repair the damaged myelin (4). Eventually, the clinical symptoms can be modified considerably, and the animal motor function improves (5). CFA, complete Freund's adjuvant; MOG(35-55) , myelin oligodendrocyte glycoprotein; MT, Mycobacterium tuberculosis; Pert, pertussis; EAE, Experimental Autoimmune Encephalomyelitis; BM, bone marrow; MP2, macrophage M2; and BBB, blood brain barrier.
+AN  - rayyan-1270341335
+AU  - Abdolmaleki, A.
+AU  - Kondori, B. J.
+AU  - Raei, M.
+AU  - Ghaleh, H. E. G.
+C1  - 1472-8206 Abdolmaleki, Amir Orcid: 0000-0001-9541-8829 Kondori, Bahman Jalali Raei, Mehdi Ghaleh, Hadi Esmaeili Gouvarchin 400000308/Baqiyatallah University of Medical Sciences/ Journal Article Meta-Analysis Review Systematic Review England 2022/10/28 Fundam Clin Pharmacol. 2023 Apr;37(2):215-225. doi: 10.1111/fcp.12844. Epub 2022 Nov 14. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2023-4
+DO  - doi:10.1111/fcp.12844
+IS  - 2
+KW  - Humans
+Mice
+Animals
+*Encephalomyelitis, Autoimmune, Experimental/therapy
+*Multiple Sclerosis/therapy
+Myelin-Oligodendrocyte Glycoprotein/adverse effects
+Anti-Inflammatory Agents
+Macrophages/metabolism
+Mice, Inbred C57BL
+Peptide Fragments/adverse effects
+Eae
+autoimmune
+cell therapy
+encephalomyelitis
+experimental
+macrophage M2
+meta-analysis
+multiple sclerosis
+systematic review
+LA  - eng
+PY  - 2023
+SN  - 0767-3981
+SP  - 215-225
+ST  - Cell therapy procedure using anti-inflammatory macrophage M2 can potentially reduce Clinical Score in animals with Experimental Autoimmune Encephalomyelitis: A preclinical systematic review and meta-analysis study
+T2  - Fundam Clin Pharmacol
+TI  - Cell therapy procedure using anti-inflammatory macrophage M2 can potentially reduce Clinical Score in animals with Experimental Autoimmune Encephalomyelitis: A preclinical systematic review and meta-analysis study
+VL  - 37
+ID  - 20213
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To systemically review preclinical studies investigating the implication of prolactin signaling in headache and migraine pathophysiology. BACKGROUND: The features of migraine attacks, including characteristics, duration, frequency, and prevalence, are sex-dependent with variability across a lifetime, indicating the involvement of the hypothalamus-pituitary-gonadal axis. Prolactin is a key regulator of this axis, and a new line of evidence implicates prolactin signaling in sex-related differences in pain perception. METHODS: In this systematic review, we searched PubMed and EMBASE for the terms prolactin, hyperprolactinemia, macroprolactinemia, hypoprolactinemia, migraine, headache, head pain, and trigeminal pain pathway to find preclinical studies investigating prolactin signaling in headache and migraine. Two reviewers independently screened 841 articles for population, intervention, comparison, outcome, and study design. Studies were restricted to the English language and were excluded if they had a nonexperimental methodology. RESULTS: Of a total of 15 preclinical articles selected, 11 were both ex vivo and in vivo, 3 were ex vivo, and 1 was an in vivo study. The main findings were that prolactin receptors are distributed in the trigeminal pain pathway, and prolactin induced migraine-like behavior in rodents. Moreover, prolactin signaling has a crucial role in calcitonin gene-related peptide (CGRP) release, a key molecule in migraine pathogenesis, and prolactin gene deletion attenuated CGRP-induced migraine-like behavior. CONCLUSION: Preclinical data indicate a key role of prolactin and its receptors in mechanisms causing migraine. Further randomized and placebo-controlled clinical studies targeting prolactin signaling are needed to further clarify the influences of prolactin in migraine-attack initiation.
+AD  - Danish Headache Center, Department of Neurology, Rigshospitalet - Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Glostrup, Denmark.
+School of Behavioral and Brain Sciences, Center for Advanced Pain Studies, The University of Texas at Dallas, Richardson, Texas, USA.
+Danish Headache Knowledge Center on Headache Disorders, Rigshospitalet - Glostrup, Glostrup, Denmark.
+AN  - 36752584
+AU  - Al-Karagholi, M. A.
+AU  - Kalatharan, V.
+AU  - Ghanizada, H.
+AU  - Dussor, G.
+AU  - Ashina, M.
+DA  - May
+DO  - 10.1111/head.14412
+DP  - NLM
+ET  - 20230208
+IS  - 5
+KW  - Humans
+*Calcitonin Gene-Related Peptide/metabolism
+Headache
+*Migraine Disorders
+Pain
+*Prolactin/metabolism
+Animals
+Mice
+Rats
+pituitary gland
+prolactinoma
+sex difference
+trigeminal pathway
+LA  - eng
+N1  - 1526-4610
+Al-Karagholi, Mohammad Al-Mahdi
+Orcid: 0000-0003-1118-9665
+Kalatharan, Veberka
+Orcid: 0000-0003-3911-848x
+Ghanizada, Hashmat
+Dussor, Gregory
+Ashina, Messoud
+NS104200/National Institutes of Health (NIH)/
+E-23327-04/Research Fund of Rigshospitalet/
+R310-2018-3711/Lundbeck Foundation/
+Journal Article
+Review
+Systematic Review
+United States
+2023/02/09
+Headache. 2023 May;63(5):577-584. doi: 10.1111/head.14412. Epub 2023 Feb 8.
+PY  - 2023
+SN  - 0017-8748
+SP  - 577-584
+ST  - Prolactin in headache and migraine: A systematic review of preclinical studies
+T2  - Headache
+TI  - Prolactin in headache and migraine: A systematic review of preclinical studies
+VL  - 63
+ID  - 50904
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) diagnosis is based on invasive and expensive biomarkers. Regarding AD pathophysiological mechanisms, there is evidence of a link between AD and aberrant lipid homeostasis. Alterations in lipid composition have been observed in blood and brain samples, and transgenic mouse models represent a promising approach. Nevertheless, there is great variability among studies in mice for the determination of different types of lipids in targeted and untargeted methods. It could be explained by the different variables (model, age, sex, analytical technique), and experimental conditions used. The aim of this work is to review the studies on lipid alteration in brain tissue and blood samples from AD mouse models, focusing on different experimental parameters. As result, great disparity has been observed among the reviewed studies. Brain studies showed an increase in gangliosides, sphingomyelins, lysophospholipids and monounsaturated fatty acids and a decrease in sulfatides. In contrast, blood studies showed an increase in phosphoglycerides, sterols, diacylglycerols, triacylglycerols and polyunsaturated fatty acids, and a decrease in phospholipids, lysophospholipids and monounsaturated fatty acids. Thus, lipids are closely related to AD, and a consensus on lipidomics studies could be used as a diagnostic tool and providing insight into the mechanisms involved in AD.
+AD  - Alzheimer's Disease Research Group, Health Research Institute La Fe, Valencia, Spain.
+Department of Physiology, Faculty of Medicine, University of Valencia, Health Research Institute INCLIVA, Valencia, Spain. Electronic address: ana.lloret@uv.es.
+Alzheimer's Disease Research Group, Health Research Institute La Fe, Valencia, Spain. Electronic address: m.consuelo.chafer@uv.es.
+AN  - 36871907
+AU  - Ferré-González, L.
+AU  - Lloret, A.
+AU  - Cháfer-Pericás, C.
+C1  - Declaration of Competing Interest The authors report no conflict of interest.
+DA  - Apr
+DO  - 10.1016/j.plipres.2023.101223
+DP  - NLM
+ET  - 20230305
+KW  - Animals
+Mice
+*Alzheimer Disease
+Brain
+Fatty Acids, Monounsaturated
+Lipidomics/methods
+Lysophospholipids
+Mice, Transgenic
+Alzheimer's disease
+Lipidomics
+Lipids
+Mouse model
+Plasma
+LA  - eng
+N1  - 1873-2194
+Ferré-González, Laura
+Lloret, Ana
+Cháfer-Pericás, Consuelo
+Journal Article
+Research Support, Non-U.S. Gov't
+Review
+Systematic Review
+England
+2023/03/06
+Prog Lipid Res. 2023 Apr;90:101223. doi: 10.1016/j.plipres.2023.101223. Epub 2023 Mar 5.
+PY  - 2023
+SN  - 0163-7827
+SP  - 101223
+ST  - Systematic review of brain and blood lipidomics in Alzheimer's disease mouse models
+T2  - Prog Lipid Res
+TI  - Systematic review of brain and blood lipidomics in Alzheimer's disease mouse models
+VL  - 90
+ID  - 50902
+ER  - 
+
+TY  - JOUR
+AB  - The observation of neurogenic fever resulting from subarachnoid hemorrhage (SAH) in animal models is a useful tool for the interpretation of its pathophysiology in humans, which is still a major challenge in the management of neurocritical patients. This systematic review aims to identify the prognostic factors and pathophysiological elements that determine the onset of neurogenic fever and its severity in animal models. In addition, our study aims to analyze which pharmacological treatments are most effective. All the articles available in Pubmed, Embase, and the Biological Science Collection until August 2021 concerning in vivo experimental studies on SAH animal models, including full texts and abstracts written in English and Italian, were considered. The risk of bias was assessed with SYRCLE's Risk of Bias tool. In total, 81 records were retrieved; after excluding duplicates, 76 records were potentially relevant. A total of 64 articles was excluded after title and abstract screening. The remaining 12 studies were evaluated as full texts, and 6 other studies were excluded (SAH-induced animal studies without a body temperature assessment). In one study, body temperature was measured after SAH induction, but the authors did not report temperature recording. Therefore, only five studies met the search criteria. The high methodological heterogeneity (different animal species, different temperature measurement methods, and different methods of the induction of bleeding) prevented meta-analysis. Synthesis methodology without meta-analysis (SWiM) was used for data analysis. The total number of animals used as controls was 87 (23 rabbits, 32 mice, and 32 rats), while there were 130 animals used as interventions (54 rabbits, 44 mice, and 32 rats). The presence of blood in the subarachnoid space, particularly red blood cells, is responsible for neurogenic fever; the role of hemoglobin is unclear. The mechanism is apparently not mediated by prostaglandins. The autonomic nervous system innervating brown adipose tissue is undoubtedly implicated in the onset of neurogenic fever. The activation of the central adenosine-1 receptor is effective in controlling the temperature of animals with neurogenic fever (by inhibiting thermogenesis of brown adipose tissue).
+AD  - IRCCS Istituto delle Scienze Neurologiche di Bologna, Anesthesia and Neurointensive Care Unit, 40139 Bologna, Italy.
+IRCCS Istituto delle Scienze Neurologiche di Bologna, Epidemiology and Biostatistic Unit, 40139 Bologna, Italy.
+Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.
+Department of Neurological Surgery, Oregon Health and Science University, Portland, OR 97239-3098, USA.
+AN  - 37511267
+AU  - Migliorino, E.
+AU  - Nonino, F.
+AU  - Amici, R.
+AU  - Tupone, D.
+AU  - Aspide, R.
+C1  - The authors declare that the article’s content was composed in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+C2  - PMC10380430
+DA  - Jul 15
+DO  - 10.3390/ijms241411514
+DP  - NLM
+ET  - 20230715
+IS  - 14
+KW  - Humans
+Rats
+Mice
+Rabbits
+Animals
+*Subarachnoid Hemorrhage/complications
+Autonomic Nervous System
+Disease Models, Animal
+aneurysmal subarachnoid hemorrhage
+animal disease model
+brown adipose tissue
+neurogenic fever
+LA  - eng
+N1  - 1422-0067
+Migliorino, Ernesto
+Orcid: 0000-0002-3344-9678
+Nonino, Francesco
+Orcid: 0000-0003-3601-6381
+Amici, Roberto
+Tupone, Domenico
+Aspide, Raffaele
+Orcid: 0000-0003-4256-9812
+Journal Article
+Review
+Systematic Review
+Switzerland
+2023/07/29
+Int J Mol Sci. 2023 Jul 15;24(14):11514. doi: 10.3390/ijms241411514.
+PY  - 2023
+SN  - 1422-0067
+ST  - Neurogenic Fever after Subarachnoid Hemorrhage in Animal Models: A Systematic Review
+T2  - Int J Mol Sci
+TI  - Neurogenic Fever after Subarachnoid Hemorrhage in Animal Models: A Systematic Review
+VL  - 24
+ID  - 50907
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Alzheimer's disease (AD) is one of the most common diseases in the elderly, with a high incidence of dementia. The pathogenesis of AD is complex, and there is no unified conclusion and effective treatment in the clinic. In recent years, with the development of traditional Chinese medicine (TCM), researchers put forward the idea of prevention and treatment of AD based on TCM according to the characteristics of multi- target of TCM. Ferulic acid (FA), also known as 3-methoxy-4-hydroxycinnamic acid, is an active ingredient in TCM that inhibits β-amyloid (Aβ) aggregation and has antioxidant and anti-inflammatory effects. FA derivatives have been reported to have low toxicity, high biological activity, and high blood-brain barrier permeability. However, the multitarget of FA in the treatment of AD has not been systematically elucidated. OBJECTIVES: In this systematic review, we aimed to comprehensively assess the neuroprotective effects of FA and its derivatives on in vitro and in vivo AD models. METHODS: We searched PubMed, Chinese National Knowledge Infrastructure (CNKI), Baidu Academic, and Wanfang databases for relevant pre-clinical studies until November 2021. RESULTS: We identified studies that evaluated the efficacy of FA and its derivatives using relevant keywords. 864 studies were included, of which 129 were found in PubMed, 111 in CNKI, 454 in Baidu Academic, and 170 in Wanfang. Due to duplication between databases, and after applying the exclusion and inclusion criteria, 43 articles were selected. Thereafter, the abstracts of the 43 articles were reviewed. Finally, 21 articles were included in this review, including 11 in vivo, 5 in vitro, and 5 in vivo and in vitro studies. CONCLUSION: Previous studies have shown that FA or its derivatives have multiple therapeutic effects on AD models and can improve the symptoms of AD and resistance of AD cell models. FA and its derivatives have anti-Aβ aggregation, antioxidant, antiinflammatory, and other effects and are potential drugs for the multi-targeted treatment of AD. The result of our study showed that FA and its derivatives have significant therapeutic effects on animal and cell models of AD, suggesting that they may be potential therapeutic drugs for patients with AD.
+AN  - rayyan-1270351425
+AU  - Zhou, S.
+AU  - Dong, X.
+C1  - 1875-533x Zhou, Siyu Dong, Xiaoyu Journal Article Systematic Review United Arab Emirates 2022/09/07 Curr Med Chem. 2023;30(24):2796-2811. doi: 10.2174/0929867329666220906110506. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2023
+DO  - doi:10.2174/0929867329666220906110506
+IS  - 24
+KW  - Animals
+*Alzheimer Disease/diagnosis
+Antioxidants/pharmacology/therapeutic use
+Amyloid beta-Peptides
+Coumaric Acids/pharmacology/therapeutic use/chemistry
+*Neuroprotective Agents/pharmacology/therapeutic use/chemistry
+Alzheimer’s disease
+Ferulic acid
+ferulic acid derivatives
+neuroprotection
+systematic review
+traditional Chinese medicine
+LA  - eng
+PY  - 2023
+SN  - 0929-8673
+SP  - 2796-2811
+ST  - Neuroprotective Properties of Ferulic Acid in Preclinical Models of Alzheimer's Disease: A Systematic Literature Review
+T2  - Curr Med Chem
+TI  - Neuroprotective Properties of Ferulic Acid in Preclinical Models of Alzheimer's Disease: A Systematic Literature Review
+VL  - 30
+ID  - 20307
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Alzheimer's disease (AD) is a common progressive neurodegenerative disease characterized by memory impairments, and there is no effective therapy. Neural stem/progenitor cell (NSPC) has emerged as potential novel therapy for AD, and we aim to explore whether neural stem/progenitor cell therapy was effective for rodent models of AD. METHODS: We searched PubMed, Embase, Cochrane Library and Web of Science up to December 6, 2022. The outcomes included cognitive function, pathological features and BDNF. The GetData Graph Digitizer software (version 2.26) was applied to extract numerical values, and RevMan 5.3 and Stata 16 were used to analyze data. The SYRCLE risk of bias tool was used to assess study quality. RESULTS: We evaluated 22 mice studies and 8 rat studies. Compared to control groups, cognitive function of NSPC groups of both mice studies (SMD =  - 1.96, 95% CI  - 2.47 to  - 1.45, I(2) = 75%, P < 0.00001) and rat studies (SMD =  - 1.35, 95% CI - 2.11 to  - 0.59, I(2) = 77%, P = 0.0005) was apparently improved. In mice studies, NSPC group has lower Aβ deposition (SMD =  - 0.96, 95% CI  - 1.40 to  - 0.52, P < 0.0001) and p-tau level (SMD =  - 4.94, 95% CI  - 7.29 to  - 2.95, P < 0.0001), higher synaptic density (SMD = 2.02, 95% CI 0.50-3.55, P = 0.009) and BDNF (SMD = 1.69, 95% CI 0.61-2.77, P = 0.002). Combined with nanoformulation (SMD =  - 1.29, 95% CI  - 2.26 to  - 0.32, I(2) = 65%, P = 0.009) and genetically modified (SMD =  - 1.29, 95% CI  - 1.92 to  - 0.66, I(2) = 60%, P < 0.0001) could improve the effect of NSPC. In addition, both xenogeneic and allogeneic transplant of NSPC could reverse the cognitive impairment of AD animal models. CONCLUSIONS: Our results suggested that NSPC therapy could improve the cognitive function and slow down the progression of AD. Due to the limitations of models, more animal trials and clinical trials are needed.
+AN  - rayyan-1270351443
+AU  - Zhou, Z.
+AU  - Shi, B.
+AU  - Xu, Y.
+AU  - Zhang, J.
+AU  - Liu, X.
+AU  - Zhou, X.
+AU  - Feng, B.
+AU  - Ma, J.
+AU  - Cui, H.
+C1  - 1757-6512 Zhou, Zijing Shi, Ben Xu, Yaxing Zhang, Jinyu Liu, Xin Zhou, Xinghong Feng, Baofeng Ma, Jun Orcid: 0000-0003-2843-0769 Cui, Huixian Journal Article Meta-Analysis Research Support, Non-U.S. Gov't Review Systematic Review England 2023/01/05 Stem Cell Res Ther. 2023 Jan 5;14(1):3. doi: 10.1186/s13287-022-03231-1. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2023-1-5
+DO  - doi:10.1186/s13287-022-03231-1
+IS  - 1
+KW  - Mice
+Rats
+Animals
+*Alzheimer Disease/therapy
+Rodentia
+*Neurodegenerative Diseases
+Brain-Derived Neurotrophic Factor/genetics
+Stem Cells
+Alzheimer disease
+Neural stem/progenitor cell
+Rodent models
+Systematic review and meta-analysis
+LA  - eng
+PY  - 2023
+SN  - 1757-6512
+SP  - 3
+ST  - Neural stem/progenitor cell therapy for Alzheimer disease in preclinical rodent models: a systematic review and meta-analysis
+T2  - Stem Cell Res Ther
+TI  - Neural stem/progenitor cell therapy for Alzheimer disease in preclinical rodent models: a systematic review and meta-analysis
+VL  - 14
+ID  - 20310
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Delayed cerebral ischemia represents a significant contributor to death and disability following aneurysmal subarachnoid hemorrhage. Although preclinical models have shown promising results, clinical trials have consistently failed to replicate the success of therapeutic strategies. The lack of standardized experimental setups and outcome assessments, particularly regarding secondary vasospastic/ischemic events, may be partly responsible for the translational failure. The study aims to delineate the procedural characteristics and assessment modalities of secondary vasospastic and ischemic events, serving as surrogates for clinically relevant delayed cerebral ischemia, in recent rat and murine subarachnoid hemorrhage models. METHODS AND RESULTS: We conducted a systematic review of rat and murine in vivo subarachnoid hemorrhage studies (published: 2016-2020) using delayed cerebral ischemia/vasospasm as outcome parameters. Our analysis included 102 eligible studies. In murine studies (n=30), the endovascular perforation model was predominantly used, while rat studies primarily employed intracisternal blood injection to mimic subarachnoid hemorrhage. Particularly, the injection models exhibited considerable variation in injection volume, rate, and cerebrospinal fluid withdrawal. Peri-interventional monitoring was generally inadequately reported across all models, with body temperature and blood pressure being the most frequently documented parameters (62% and 34%, respectively). Vasospastic events were mainly assessed through microscopy of large cerebral arteries. In 90% of the rat and 86% of the murine studies, only male animals were used. CONCLUSIONS: Our study underscores the substantial heterogeneity in procedural characteristics and outcome assessments of experimental subarachnoid hemorrhage research. To address these challenges, drafting guidelines for standardization and ensuring rigorous control of methodological and experimental quality by funders and journals are essential. REGISTRATION: URL: https://www.crd.york.ac.uk/prospero/; Unique identifier: CRD42022337279.
+AN  - rayyan-1270344228
+AU  - Fürstenau, E.
+AU  - Lindauer, U.
+AU  - Koch, H.
+AU  - Höllig, A.
+C1  - 2047-9980 Fürstenau, Elias Orcid: 0009-0001-3824-2852 Lindauer, Ute Koch, Henner Orcid: 0000-0002-6883-3071 Höllig, Anke Orcid: 0000-0001-6798-5703 Journal Article Systematic Review England 2024/02/29 J Am Heart Assoc. 2024 Mar 5;13(5):e032694. doi: 10.1161/JAHA.123.032694. Epub 2024 Feb 29. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2024-3-5
+DO  - doi:10.1161/jaha.123.032694
+IS  - 5
+KW  - Animals
+Male
+Mice
+Rats
+Blood Pressure
+*Brain Ischemia/complications
+Cerebral Infarction
+*Subarachnoid Hemorrhage/complications/therapy
+*Vasospasm, Intracranial/complications
+preclinical research
+quality control
+subarachnoid hemorrhage
+translation
+LA  - eng
+PY  - 2024
+SN  - 2047-9980
+SP  - e032694
+ST  - Secondary Ischemia Assessment in Murine and Rat Preclinical Subarachnoid Hemorrhage Models: A Systematic Review
+T2  - J Am Heart Assoc
+TI  - Secondary Ischemia Assessment in Murine and Rat Preclinical Subarachnoid Hemorrhage Models: A Systematic Review
+VL  - 13
+ID  - 20226
+ER  - 
+
+TY  - JOUR
+AB  - Burns are often accompanied by a dysfunctional immune response, which can lead to systemic inflammation, shock, and excessive scarring. The objective of this study was to provide insight into inflammatory pathways associated with burn-related complications. Because detailed information on the various inflammatory mediators is scattered over individual studies, we systematically reviewed animal experimental data for all reported inflammatory mediators. Meta-analyses of 352 studies revealed a strong increase in cytokines, chemokines, and growth factors, particularly 19 mediators in blood and 12 in burn tissue. Temporal kinetics showed long-lasting surges of proinflammatory cytokines in blood and burn tissue. Significant time-dependent effects were seen for IL-1β, IL-6, TGF-β1, and CCL2. The response of anti-inflammatory mediators was limited. Burn technique had a profound impact on systemic response levels. Large burn size and scalds further increased systemic, but not local inflammation. Animal characteristics greatly affected inflammation, for example, IL-1β, IL-6, and TNF-α levels were highest in young, male rats. Time-dependent effects and dissimilarities in response demonstrate the importance of appropriate study design. Collectively, this review presents a general overview of the burn-induced immune response exposing inflammatory pathways that could be targeted through immunotherapy for burn patients and provides guidance for experimental set-ups to advance burn research.
+AN  - rayyan-1270347488
+AU  - Mulder, P. P. G.
+AU  - Hooijmans, C. R.
+AU  - Vlig, M.
+AU  - Middelkoop, E.
+AU  - Joosten, I.
+AU  - Koenen, Hjpm
+AU  - Boekema, Bkhl
+C1  - 1523-1747 Mulder, Patrick P G Hooijmans, Carlijn R Vlig, Marcel Middelkoop, Esther Joosten, Irma Koenen, Hans J P M Boekema, Bouke K H L Journal Article Meta-Analysis Systematic Review United States 2023/10/09 J Invest Dermatol. 2024 Mar;144(3):669-696.e10. doi: 10.1016/j.jid.2023.09.269. Epub 2023 Oct 6. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2024-3
+DO  - doi:10.1016/j.jid.2023.09.269
+IS  - 3
+KW  - Humans
+Rats
+Male
+Animals
+*Interleukin-6
+Inflammation Mediators
+Cytokines/metabolism
+*Burns/metabolism
+Interleukin-1beta
+Inflammation
+Immunity
+Blood
+Chemokines
+Cytokines
+Growth factors
+LA  - eng
+PY  - 2024
+SN  - 0022-202x
+SP  - 669-696.e10
+ST  - Kinetics of Inflammatory Mediators in the Immune Response to Burn Injury: Systematic Review and Meta-Analysis of Animal Studies
+T2  - J Invest Dermatol
+TI  - Kinetics of Inflammatory Mediators in the Immune Response to Burn Injury: Systematic Review and Meta-Analysis of Animal Studies
+VL  - 144
+ID  - 20257
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Consistent with postmortem findings in patients, most animal models for schizophrenia (SCZ) present abnormal levels of parvalbumin (PV), a marker of fast-spiking GABAergic interneurons, in the prefrontal cortex (PFC) and hippocampus (HIP). However, there are discrepancies in the literature. PV reductions lead to a functional loss of PV interneurons, which is proposed to underly SCZ symptoms. Given its complex etiology, different categories of animal models have been developed to study SCZ, which may distinctly impact PV levels in rodent brain areas. STUDY DESIGN: We performed a quantitative meta-analysis on PV-positive cell number/density and expression levels in the PFC and HIP of animal models for SCZ based on pharmacological, neurodevelopmental, and genetic manipulations. RESULTS: Our results confirmed that PV levels are significantly reduced in the PFC and HIP regardless of the animal model. By categorizing into subgroups, we found that all pharmacological models based on NMDA receptor antagonism decreased PV-positive cell number/density or PV expression levels in both brain areas examined. In neurodevelopmental models, abnormal PV levels were confirmed in both brain areas in maternal immune activation models and HIP of the methylazoxymethanol acetate model. In genetic models, negative effects were found in neuregulin 1 and ERBB4 mutant mice in both brain regions and the PFC of dysbindin mutant mice. Regarding sex differences, male rodents exhibited PV reductions in both brain regions only in pharmacological models, while few studies have been conducted in females. CONCLUSION: Overall, our findings support deficits in prefrontal and hippocampal PV interneurons in animal models for SCZ.
+AN  - rayyan-1270349041
+AU  - Santos-Silva, T.
+AU  - Dos Santos Fabris, D.
+AU  - de Oliveira, C. L.
+AU  - Guimarães, F. S.
+AU  - Gomes, F. V.
+C1  - 1745-1701 Santos-Silva, Thamyris Orcid: 0000-0001-5129-5695 Dos Santos Fabris, Débora de Oliveira, Cilene Lino Guimarães, Francisco S Gomes, Felipe V Orcid: 0000-0003-1033-1850 #88887.334572/2019-00/Coordination for the Improvement of Higher Education Personnel-Brazil/ 19/24591-4/São Paulo Research Foundation/ Alexander von Humboldt Foundation/ Journal Article Meta-Analysis Systematic Review United States 2023/08/16 Schizophr Bull. 2024 Jan 1;50(1):210-223. doi: 10.1093/schbul/sbad123. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2024-1-1
+DO  - doi:10.1093/schbul/sbad123
+IS  - 1
+KW  - Humans
+Mice
+Male
+Female
+Animals
+*Schizophrenia/genetics
+Parvalbumins/metabolism
+Disease Models, Animal
+Interneurons/metabolism
+Prefrontal Cortex/metabolism
+Hippocampus/metabolism
+GABA/preclinical research
+excitatory-inhibitory balance
+model organisms
+psychiatry
+psychosis
+LA  - eng
+PY  - 2024
+SN  - 0586-7614 (Print) 0586-7614
+SP  - 210-223
+ST  - Prefrontal and Hippocampal Parvalbumin Interneurons in Animal Models for Schizophrenia: A Systematic Review and Meta-analysis
+T2  - Schizophr Bull
+TI  - Prefrontal and Hippocampal Parvalbumin Interneurons in Animal Models for Schizophrenia: A Systematic Review and Meta-analysis
+VL  - 50
+ID  - 20262
+ER  - 
+
+TY  - JOUR
+AB  - X-linked juvenile retinoschisis (XLRS) is an early-onset progressive inherited retinopathy affecting males. It is characterized by abnormalities in the macula, with formation of cystoid retinal cavities, frequently accompanied by splitting of the retinal layers, impaired synaptic transmission of visual signals, and associated loss of visual acuity. XLRS is caused by loss-of-function mutations in the retinoschisin gene located on the X chromosome (RS1, MIM 30083). While proof-of-concept studies for gene augmentation therapy have been promising in in vitro and rodent models, clinical trials in XLRS patients have not been successful thus far. We performed a systematic literature investigation using search strings related to XLRS and gene therapy in in vivo and in vitro models. Three rounds of screening (title/abstract, full text and qualitative) were performed by two independent reviewers until consensus was reached. Characteristics related to study design and intervention were extracted from all studies. Results were divided into studies using (1) viral and (2) non-viral therapies. All in vivo rodent studies that used viral vectors were assessed for quality and risk of bias using the SYRCLE's risk-of-bias tool. Studies using alternative and non-viral delivery techniques, either in vivo or in vitro, were extracted and reviewed qualitatively, given the diverse and dispersed nature of the information. For in-depth analysis of in vivo studies using viral vectors, outcome data for optical coherence tomography (OCT), immunohistopathology and electroretinography (ERG) were extracted. Meta-analyses were performed on the effect of recombinant adeno-associated viral vector (AAV)-mediated gene augmentation therapies on a- and b-wave amplitude as well as the ratio between b- and a-wave amplitudes (b/a-ratio) extracted from ERG data. Subgroup analyses and meta-regression were performed for model, dose, age at injection, follow-up time point and delivery method. Between-study heterogeneity was assessed with a Chi-square test of homogeneity (I(2)). We identified 25 studies that target RS1 and met our search string. A total of 19 of these studies reported rodent viral methods in vivo. Six of the 25 studies used non-viral or alternative delivery methods, either in vitro or in vivo. Of these, five studies described non-viral methods and one study described an alternative delivery method. The 19 aforementioned in vivo studies were assessed for risk of bias and quality assessments and showed inconsistency in reporting. This resulted in an unclear risk of bias in most included studies. All 19 studies used AAVs to deliver intact human or murine RS1 in rodent models for XLRS. Meta-analyses of a-wave amplitude, b-wave amplitude, and b/a-ratio showed that, overall, AAV-mediated gene augmentation therapy significantly ameliorated the disease phenotype on these parameters. Subgroup analyses and meta-regression showed significant correlations between b-wave amplitude effect size and dose, although between-study heterogeneity was high. This systematic review reiterates the high potential for gene therapy in XLRS, while highlighting the importance of careful preclinical study design and reporting. The establishment of a systematic approach in these studies is essential to effectively translate this knowledge into novel and improved treatment alternatives.
+AN  - rayyan-1270350316
+AU  - van der Veen, I.
+AU  - Heredero Berzal, A.
+AU  - Koster, C.
+AU  - Ten Asbroek, Alma
+AU  - Bergen, A. A.
+AU  - Boon, C. J. F.
+C1  - 1422-0067 van der Veen, Isa Heredero Berzal, Andrea Koster, Céline Orcid: 0000-0002-0936-3970 Ten Asbroek, Anneloor L M A Orcid: 0000-0001-7190-0784 Bergen, Arthur A Boon, Camiel J F 09150171910048/NWO-ALW (VIDI grant)/ Journal Article Review Systematic Review Switzerland 2024/01/27 Int J Mol Sci. 2024 Jan 19;25(2):1267. doi: 10.3390/ijms25021267. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2024-1-19
+DO  - doi:10.3390/ijms25021267
+IS  - 2
+KW  - Male
+Humans
+Animals
+Mice
+*Retinoschisis/genetics/therapy/diagnosis
+Retina/pathology
+Electroretinography
+Genetic Therapy
+Mutation
+Eye Proteins/genetics
+X-linked juvenile retinoschisis (XLRS)
+adeno-associated viral vector (AAV)
+gene therapy
+meta-analysis
+non-viral
+retinoschisin (RS1)
+systematic review
+LA  - eng
+PY  - 2024
+SN  - 1422-0067
+ST  - The Road towards Gene Therapy for X-Linked Juvenile Retinoschisis: A Systematic Review of Preclinical Gene Therapy in Cell-Based and Rodent Models of XLRS
+T2  - Int J Mol Sci
+TI  - The Road towards Gene Therapy for X-Linked Juvenile Retinoschisis: A Systematic Review of Preclinical Gene Therapy in Cell-Based and Rodent Models of XLRS
+VL  - 25
+ID  - 20284
+ER  - 
+
+TY  - JOUR
+AB  - Short-chain fatty acids (SCFAs), the main metabolites of gut microbiota, have been associated with lower blood glucose and lipid levels in diabetic mice. However, a comprehensive summary and comparison of the effects of different SCFA interventions on blood glucose and lipid levels in diabetic mice is currently unavailable. This study aims to compare and rank the effects of different types of SCFAs on blood glucose and lipid levels by collecting relevant animal research. A systematic search through PubMed, Embase, Cochrane Library, and Web of Science database was conducted to identify relevant studies from inception to March 17, 2023. Both pairwise meta-analysis and Bayesian network meta-analysis were used for statistical analyses. In total, 18 relevant studies involving 5 interventions were included after screening 3793 citations and 53 full-text articles. Notably, butyrate therapy (mean difference [MD] = -4.52, 95% confidence interval [-6.29, -2.75]), acetate therapy (MD = -3.12, 95% confidence interval [-5.79, -0.46]), and propionate therapy (MD = -2.96, 95% confidence interval [-5.66, -0.26]) significantly reduced the fasting blood glucose levels compared to the control group; butyrate therapy was probably the most effective intervention, with a surface under the cumulative ranking curve (SUCRA) value of 85.5%. Additionally, acetate plus propionate therapy was probably the most effective intervention for reducing total cholesterol (SUCRA = 85.8%) or triglyceride levels (SUCRA = 88.1%). These findings underscore the potential therapeutic implications of SCFAs for addressing metabolic disorders, particularly in type 2 diabetes mellitus.
+AN  - rayyan-1270351390
+AU  - Zheng, J.
+AU  - An, Y.
+AU  - Du, Y.
+AU  - Song, Y.
+AU  - Zhao, Q.
+AU  - Lu, Y.
+C1  - 1096-1186 Zheng, Jie An, Yu Du, Yage Song, Ying Zhao, Qian Lu, Yanhui Journal Article Meta-Analysis Systematic Review Netherlands 2023/12/22 Pharmacol Res. 2024 Jan;199:107041. doi: 10.1016/j.phrs.2023.107041. Epub 2023 Dec 20. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2024-1
+DO  - doi:10.1016/j.phrs.2023.107041
+KW  - Animals
+Mice
+Acetates
+Bayes Theorem
+*Blood Glucose/drug effects
+Butyrates/pharmacology/therapeutic use
+*Diabetes Mellitus, Experimental/drug therapy
+*Diabetes Mellitus, Type 2/drug therapy
+*Fatty Acids, Volatile/pharmacology/therapeutic use
+Network Meta-Analysis
+Propionates
+Diabetes mellitus
+Diabetic mouse models
+Short-chain fatty acids
+LA  - eng
+PY  - 2024
+SN  - 1043-6618
+SP  - 107041
+ST  - Effects of short-chain fatty acids on blood glucose and lipid levels in mouse models of diabetes mellitus: A systematic review and network meta-analysis
+T2  - Pharmacol Res
+TI  - Effects of short-chain fatty acids on blood glucose and lipid levels in mouse models of diabetes mellitus: A systematic review and network meta-analysis
+VL  - 199
+ID  - 20300
+ER  - 
+

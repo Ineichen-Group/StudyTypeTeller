@@ -1,0 +1,3069 @@
+﻿TY  - JOUR
+AB  - Lithium levels in 32 different brain areas of 5 macacus rhesus receiving 13 mg/kg daily orally of lithium carbonate for 3-6 weeks are reported. These vary from 0.36 +/- 0.08 to 0.82 +/- 0.35 meq/kg. Levels have also been determined for most of the tissues and organs of these monkeys. They vary from 0.25 meq/kg for the carotid artery to 13.71 and 13.61 meq/liter or kg for urine or toe nails. The manic-depressive patient involved died of acute alcoholic and darvon toxicity. His whole blood level of Li was 0.86 meq/L. Two of the 16 brain levels investigated amounted to 1.49 and 1.21 meq/kg (retrosplenial cingulate gyrus and caudate nucleus). Others were as low as 0.09 meq/kg (brain stem). Li levels in a number of organs of this patient were similar to those in monkeys. Possible conclusions from these values are discussed.
+AN  - 825883
+AU  - Spirtes, M. A.
+DA  - Aug
+DO  - 10.1016/0091-3057(76)90030-7
+DP  - NLM
+IS  - 2
+KW  - Administration, Oral
+Animals
+Bipolar Disorder/metabolism
+Brain/*metabolism
+Dose-Response Relationship, Drug
+Haplorhini
+Humans
+Lithium/administration & dosage/*metabolism
+Macaca mulatta
+Male
+Organ Specificity
+Species Specificity
+LA  - eng
+N1  - Spirtes, M A
+Comparative Study
+Journal Article
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+1976/08/01
+Pharmacol Biochem Behav. 1976 Aug;5(2):143-7. doi: 10.1016/0091-3057(76)90030-7.
+PY  - 1976
+SN  - 0091-3057 (Print)
+0091-3057
+SP  - 143-7
+ST  - Lithium levels in monkey and human brain after chronic, therapeutic, oral dosage
+T2  - Pharmacol Biochem Behav
+TI  - Lithium levels in monkey and human brain after chronic, therapeutic, oral dosage
+VL  - 5
+ID  - 51014
+ER  - 
+
+TY  - JOUR
+AB  - Intracranial hypertension was induced in dogs and a small number of baboons by the inflation of epidural balloons. The resulting increased intracranial pressure (ICP) was treated with standard clinical doses of furosemide (0.7 mg/kg), "mini" doses of mannitol (0.75 g/kg), or both agents in combination. Mannitol consistently and rapidly reduced ICP in all animals. When results were averaged, furosemide used alone caused a slow reduction in ICP, but the results were variable in individual animals--with ICP actually increased in some. When furosemide and mannitol were given together, the ICP fell rapidly and remained low for considerably longer than after either agent alone.
+AN  - 6406929
+AU  - Wilkinson, H. A.
+AU  - Rosenfeld, S. R.
+DA  - Apr
+DO  - 10.1227/00006123-198304000-00006
+DP  - NLM
+IS  - 4
+KW  - Animals
+Diuresis/drug effects
+Dogs
+Drug Therapy, Combination
+Furosemide/*therapeutic use
+Intracranial Pressure/drug effects
+Mannitol/*therapeutic use
+Papio
+Pseudotumor Cerebri/*drug therapy
+LA  - eng
+N1  - Wilkinson, H A
+Rosenfeld, S R
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+1983/04/01
+Neurosurgery. 1983 Apr;12(4):405-10. doi: 10.1227/00006123-198304000-00006.
+PY  - 1983
+SN  - 0148-396X (Print)
+0148-396x
+SP  - 405-10
+ST  - Furosemide and mannitol in the treatment of acute experimental intracranial hypertension
+T2  - Neurosurgery
+TI  - Furosemide and mannitol in the treatment of acute experimental intracranial hypertension
+VL  - 12
+ID  - 51030
+ER  - 
+
+TY  - JOUR
+AB  - To determine the morphological substrate of acute methotrexate (MTX) encephalopathy, light and electron microscopic studies were performed on rat brains after short-term intraperitoneal (IP) and intraventricular (IV) injections of MTX. In both models, Alzheimer type II astrocytosis was the initial and major pathologic alteration seen by light microscopy. The neurons, oligodendrocytes, myelin and endothelial cells were relatively spared. Ultrastructural studies showed pleomorphism and condensation of mitochondria, membrane-bound vacuoles, prominent stacks of sparsely granular, rough endoplasmic reticulum and progressive hydropic swelling of astrocytic perikarya and their processes. The astroglial alterations were reversible after cessation of the drug but persisted for a longer time with repeated IP administration. Gastrointestinal complications and overall mortality were also greater with higher doses and increasing frequency of IP MTX injection. White matter necrosis was noted only after IV injection of high-dose MTX. The neuropathologic changes of MTX leukoencephalopathy can be replicated in an animal model by IV injection of the drug. The reversibility of the changes that were seen following IP administration correlates with the transient neurologic deficits observed in some patients after high-dose systemic MTX therapy. The initially selective astroglial effect suggests that astrocytes might be a target for MTX toxicity, although other central nervous system components may also be adversely affected by the drug.
+AD  - Laboratory of Neuropathology, University of Miami, Jackson Memorial Hospital, Florida.
+AN  - 2908897
+AU  - Gregorios, J. B.
+AU  - Gregorios, A. B.
+AU  - Mora, J.
+AU  - Marcillo, A.
+AU  - Fojaco, R. M.
+AU  - Green, B.
+DA  - Jan
+DO  - 10.1097/00005072-198901000-00004
+DP  - NLM
+IS  - 1
+KW  - Alzheimer Disease/pathology
+Animals
+Brain/*cytology/ultrastructure
+Gastrointestinal Diseases/chemically induced
+Injections, Intraperitoneal
+Injections, Intraventricular
+Male
+Methotrexate/*pharmacology
+Microscopy, Electron
+Rats
+Rats, Inbred Strains
+LA  - eng
+N1  - Gregorios, J B
+Gregorios, A B
+Mora, J
+Marcillo, A
+Fojaco, R M
+Green, B
+SO7 RR-05363/RR/NCRR NIH HHS/United States
+Journal Article
+Research Support, U.S. Gov't, P.H.S.
+England
+1989/01/01
+J Neuropathol Exp Neurol. 1989 Jan;48(1):33-47. doi: 10.1097/00005072-198901000-00004.
+PY  - 1989
+SN  - 0022-3069 (Print)
+0022-3069
+SP  - 33-47
+ST  - Morphologic alterations in rat brain following systemic and intraventricular methotrexate injection: light and electron microscopic studies
+T2  - J Neuropathol Exp Neurol
+TI  - Morphologic alterations in rat brain following systemic and intraventricular methotrexate injection: light and electron microscopic studies
+VL  - 48
+ID  - 51007
+ER  - 
+
+TY  - JOUR
+AB  - The clinical and pathological effects of nimodipine on cerebral infarction were investigated in 12 male baboons. In randomized/blind trials, six animals given intravenous nimodipine (2 micrograms/kg/min load, 1 microgram/kg/min maintenance) for 96 hours starting 50 minutes before 6-hour double-clip occlusion of the middle cerebral artery were compared to 6 control animals. Standardized neurological examinations were performed by examiners blinded to the animals' therapy on Day 7 and Day 14 after stroke. On Day 14 the animals were killed. The brains were studied pathologically, and the relative areas of infarction were quantified. Intracranial pressure was lower in nimodipine-treated animals; however, the range of intracranial pressure values in each group was broad. Two control animals with high intracranial pressure died. There were no deaths among the nimodipine-treated animals. The neurological scores on Days 7 (P less than or equal to 0.01) and 14 (P less than or equal to 0.05) were significantly different between the two groups. The nimodipine-treated animals had less clinical evidence of infarction compared to controls. Nimodipine-treated animals tended to have smaller areas of infarction; however, the difference between the two groups was not statistically significant. The infusion of nimodipine in the treatment of focal cerebral ischemia is safe and does not appear to aggravate the extent of infarction or to exacerbate intracranial hypertension. The clinical neurological evaluations indicate that nimodipine may improve or preserve neurological outcome after stroke.
+AD  - Division of Neurological Surgery, David Grant USAF Medical Center, Phoenix, Arizona.
+AN  - 2755582
+AU  - Hadley, M. N.
+AU  - Zabramski, J. M.
+AU  - Spetzler, R. F.
+AU  - Rigamonti, D.
+AU  - Fifield, M. S.
+AU  - Johnson, P. C.
+DA  - Jul
+DO  - 10.1097/00006123-198907000-00011
+DP  - NLM
+IS  - 1
+KW  - Animals
+Blood Pressure/drug effects
+Disease Models, Animal
+Evoked Potentials, Somatosensory
+Heart Rate/drug effects
+Injections, Intravenous
+Ischemic Attack, Transient/*drug therapy/physiopathology
+Male
+Nimodipine/*therapeutic use
+*Papio
+LA  - eng
+N1  - Hadley, M N
+Zabramski, J M
+Spetzler, R F
+Rigamonti, D
+Fifield, M S
+Johnson, P C
+R01-NS-20481-02/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+United States
+1989/07/01
+Neurosurgery. 1989 Jul;25(1):63-70. doi: 10.1097/00006123-198907000-00011.
+PY  - 1989
+SN  - 0148-396X (Print)
+0148-396x
+SP  - 63-70
+ST  - The efficacy of intravenous nimodipine in the treatment of focal cerebral ischemia in a primate model
+T2  - Neurosurgery
+TI  - The efficacy of intravenous nimodipine in the treatment of focal cerebral ischemia in a primate model
+VL  - 25
+ID  - 51034
+ER  - 
+
+TY  - JOUR
+AB  - Since multiple sclerosis (MS) is believed to be an immune-mediated disease, it follows that its therapies should be directed towards modulating the immune system. Current MS treatments, which include the use of exogenous steroids that are immunosuppressive, do not meet therapeutic objectives. delta 9-Tetrahydrocannabinol (THC), an active component of marijuana, has been shown to be immunosuppressive. To test THC's ability to suppress an immune-mediated disease, experimental autoimmune encephalomyelitis (EAE), the laboratory model of MS, was used. Lewis rats and strain 13 guinea pigs were administered THC either before inoculation for EAE or treated with THC after injection. Control animals received placebo. The effect of dose, in addition to the timing of treatment, was also investigated. All animals treated with placebo developed severe clinical EAE 10-12 days post-injection (d.p.i.) and more than 98% died by 15 d.p.i. THC-treated animals had either no clinical signs or mild signs with delayed onset (13-15 d.p.i.) with survival greater than 95%. Examination of central nervous system tissue revealed a marked reduction of inflammation in the THC-treated animals. Therefore, as THC has been shown to inhibit both clinical and histologic EAE, it may prove to be a new and relatively innocuous agent for the treatment of immune-mediated diseases.
+AD  - Department of Pathology, Albert Einstein College of Medicine, Bronx, NY 10461.
+AN  - 2542370
+AU  - Lyman, W. D.
+AU  - Sonett, J. R.
+AU  - Brosnan, C. F.
+AU  - Elkin, R.
+AU  - Bornstein, M. B.
+DA  - Jun
+DO  - 10.1016/0165-5728(89)90075-1
+DP  - NLM
+IS  - 1
+KW  - Animals
+Dronabinol/administration & dosage/*therapeutic use
+Drug Administration Schedule
+Encephalomyelitis, Autoimmune, Experimental/etiology/pathology/*prevention &
+control
+Guinea Pigs
+Immunosuppressive Agents/administration & dosage/*therapeutic use
+Pharmaceutical Vehicles
+Rats
+Rats, Inbred Lew
+Spinal Cord/pathology
+LA  - eng
+N1  - Lyman, W D
+Sonett, J R
+Brosnan, C F
+Elkin, R
+Bornstein, M B
+DA-04583/DA/NIDA NIH HHS/United States
+NS-11920/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, U.S. Gov't, P.H.S.
+Netherlands
+1989/06/01
+J Neuroimmunol. 1989 Jun;23(1):73-81. doi: 10.1016/0165-5728(89)90075-1.
+PY  - 1989
+SN  - 0165-5728 (Print)
+0165-5728
+SP  - 73-81
+ST  - Delta 9-tetrahydrocannabinol: a novel treatment for experimental autoimmune encephalomyelitis
+T2  - J Neuroimmunol
+TI  - Delta 9-tetrahydrocannabinol: a novel treatment for experimental autoimmune encephalomyelitis
+VL  - 23
+ID  - 51037
+ER  - 
+
+TY  - JOUR
+AB  - The role of CRG-2 protein (murine IP-10) in experimental allergic encephalomyelitis (EAE), an animal model of multiple sclerosis, was tested by blocking crg-2 mRNA synthesis using chronic infusion of antisense oligonucleotides into lumbar subarachnoid space by osmotic minipumps. After injection with myelin basic protein, rats developed hind limb paralysis and their spinal cords showed crg-2 mRNA expression and the presence of inflammation. When antisense phosphorothioate oligonucleotides to crg-2 (AS-PScrg2) or nonspecific oligonucleotides (AS-PSscram) were infused at rates from 0.18 to 5.4 nmol/hr, they caused hind limb paralysis that was clinically different from EAE and tissue necrosis of the spinal cord. Natural phosphodiester (AS-PO) oligonucleotides that were infused at rates from 1.8 to 5.4 nmol/hr had no toxic effects. AS-POcrg2 reduced the initial appearance of crg-2 mRNA and this may be responsible for the significant reduction in the EAE scores at the height of clinical disease. The antisense treatment did not alter inflammation of the spinal cord. While AS-PS oligonucleotides were unsuitable for intrathecal administration, AS-POcrg2 were not toxic and reduced paralysis due to EAE.
+AD  - Department of Neurology, School of Medicine, University of Maryland at Baltimore, USA.
+AN  - 8764376
+AU  - Wojcik, W. J.
+AU  - Swoveland, P.
+AU  - Zhang, X.
+AU  - Vanguri, P.
+DA  - Jul
+DP  - NLM
+IS  - 1
+KW  - Animals
+Cytokines/*pharmacology
+Disease Models, Animal
+Encephalomyelitis, Autoimmune, Experimental/*drug therapy
+Injections, Spinal
+Male
+Monokines/*pharmacology
+Oligonucleotides, Antisense/*pharmacology
+RNA, Messenger/*drug effects
+Rats
+Rats, Inbred Lew
+Spinal Cord/drug effects
+LA  - eng
+N1  - Wojcik, W J
+Swoveland, P
+Zhang, X
+Vanguri, P
+HL07612/HL/NHLBI NIH HHS/United States
+P50 NS20022/NS/NINDS NIH HHS/United States
+PP0322/PHS HHS/United States
+Journal Article
+Research Support, U.S. Gov't, P.H.S.
+United States
+1996/07/01
+J Pharmacol Exp Ther. 1996 Jul;278(1):404-10.
+PY  - 1996
+SN  - 0022-3565 (Print)
+0022-3565
+SP  - 404-10
+ST  - Chronic intrathecal infusion of phosphorothioate or phosphodiester antisense oligonucleotides against cytokine responsive gene-2/IP-10 in experimental allergic encephalomyelitis of lewis rat
+T2  - J Pharmacol Exp Ther
+TI  - Chronic intrathecal infusion of phosphorothioate or phosphodiester antisense oligonucleotides against cytokine responsive gene-2/IP-10 in experimental allergic encephalomyelitis of lewis rat
+VL  - 278
+ID  - 51038
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The objective of this study was to test the hypothesis that cocaine-induced cerebral vasodilation in newborn sheep is mediated via beta-adrenergic receptor activation. DESIGN: The cerebral effects of a single intravenous injection of cocaine (4 mg/kg) given 30 mins after pretreatment with propranolol (1 mg/kg) were studied and compared with the results from a previous study using an identical cocaine protocol without propranolol pretreatment. SUBJECTS: Seven chronically catheterized, unanesthetized newborn sheep (6 +/- 1 days old). MEASUREMENTS: Cerebral blood flow using radiolabeled microspheres, mean arterial blood pressure (MAP), heart rate, and cerebral arterial and venous oxygen content were measured at baseline, after administration of propranolol, and 0.5, 5, 15, and 60 mins after cocaine injection. Cerebrovascular resistance was calculated as the MAP divided by the cerebral blood flow. MAIN RESULTS: Propranolol injection alone caused no systemic or cerebral physiologic changes other than an 11 +/- 2% (mean +/- SEM) decrease in heart rate, which was sustained after cocaine injection. In contrast to previous studies showing cerebral vasodilation (25% decrease in cerebrovascular resistance) and acute hypertension (57% increase in MAP) 30 secs after cocaine injection, there were no changes in cerebrovascular resistance after cocaine injection and after propranolol pretreatment and there was only a 23 +/- 7% increase in MAP 30 secs after injection, with a return to baseline by 15 mins. Cocaine and norepinephrine levels were similar to those previously reported in the newborn sheep after an injection of 4 mg/kg cocaine. CONCLUSION: Propranolol blocks cocaine-induced cerebral vasodilation and blunts the acute hypertension in newborn sheep, suggesting that cocaine's cerebrovascular effects in the developing brain are mediated, at least in part, by beta-adrenergic receptor activation.
+AD  - Department of Pediatrics, The Johns Hopkins Medical Institutions, Baltimore, Maryland 21287-4961, USA.
+AN  - 10321670
+AU  - O'Brien, T. P.
+AU  - Pane, M. A.
+AU  - Traystman, R. J.
+AU  - Gleason, C. A.
+DA  - Apr
+DO  - 10.1097/00003246-199904000-00036
+DP  - NLM
+IS  - 4
+KW  - Adrenergic beta-Antagonists/*therapeutic use
+Animals
+Animals, Newborn
+Blood Flow Velocity/drug effects
+Cerebrovascular Circulation/drug effects
+Cerebrovascular Disorders/*chemically induced/*drug therapy/physiopathology
+Cocaine-Related Disorders/*complications
+Dilatation, Pathologic
+Disease Models, Animal
+Drug Evaluation, Preclinical
+Female
+Injections, Intravenous
+Male
+Propranolol/*therapeutic use
+Receptors, Adrenergic, beta/drug effects
+Sheep
+Vascular Resistance/drug effects
+LA  - eng
+N1  - O'Brien, T P
+Pane, M A
+Traystman, R J
+Gleason, C A
+06658/PHS HHS/United States
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+United States
+1999/05/13
+Crit Care Med. 1999 Apr;27(4):784-9. doi: 10.1097/00003246-199904000-00036.
+PY  - 1999
+SN  - 0090-3493 (Print)
+0090-3493
+SP  - 784-9
+ST  - Propranolol blocks cocaine-induced cerebral vasodilation in newborn sheep
+T2  - Crit Care Med
+TI  - Propranolol blocks cocaine-induced cerebral vasodilation in newborn sheep
+VL  - 27
+ID  - 51040
+ER  - 
+
+TY  - JOUR
+AB  - Hypoxic-ischemic encephalopathy seen in survivors of perinatal asphyxia is a frequently encountered and a major clinical problem for which there is currently no effective treatment. Hematopoietic neuroprotective agents, such as erythropoietin (EPO) may rescue neurons from cell death in this setting. EPO is a cytokine hormone that has neuroprotective effect in vitro and in vivo. In this study, we evaluated the effect of posthypoxic EPO administration in an animal model of neonatal hypoxic-ischemic injury. Our results show that a single intracerebroventricular injection of EPO immediately after hypoxic-ischemic insult in neonatal rat model of hypoxic-ischemia reduced the extent of hypoxic-ischemic brain damage. The mean infarct volume assessed 7 days after hypoxia was significantly smaller in EPO-treated group than in the control group. These findings suggest that EPO may provide benefit after hypoxic-ischemic events in the developing brain, a major contributor to static encephalopathy and cerebral palsy.
+AD  - Department of Pediatric Neurology, School of Medicine, University of Dokuz Eylül, Izmir, Turkey. adem.aydin@deu.edu.tr
+AN  - 13129593
+AU  - Aydin, A.
+AU  - Genç, K.
+AU  - Akhisaroglu, M.
+AU  - Yorukoglu, K.
+AU  - Gokmen, N.
+AU  - Gonullu, E.
+DA  - Oct
+DO  - 10.1016/s0387-7604(03)00039-1
+DP  - NLM
+IS  - 7
+KW  - Animals
+Animals, Newborn
+Brain Injuries/*drug therapy
+Disease Models, Animal
+Erythropoietin/*therapeutic use
+Hypoxia-Ischemia, Brain/*drug therapy
+Injections, Intraventricular
+Neuroprotective Agents/*therapeutic use
+Rats
+Rats, Wistar
+LA  - eng
+N1  - Aydin, Adem
+Genç, Kursad
+Akhisaroglu, Mustafa
+Yorukoglu, Kutsal
+Gokmen, Necati
+Gonullu, Erdem
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2003/09/18
+Brain Dev. 2003 Oct;25(7):494-8. doi: 10.1016/s0387-7604(03)00039-1.
+PY  - 2003
+SN  - 0387-7604 (Print)
+0387-7604
+SP  - 494-8
+ST  - Erythropoietin exerts neuroprotective effect in neonatal rat model of hypoxic-ischemic brain injury
+T2  - Brain Dev
+TI  - Erythropoietin exerts neuroprotective effect in neonatal rat model of hypoxic-ischemic brain injury
+VL  - 25
+ID  - 51028
+ER  - 
+
+TY  - JOUR
+AB  - The critical role of chronic inflammation in disease progression continues to be increasingly appreciated across multiple disease areas, especially in neurodegenerative disorders such as Alzheimer's disease. We report that late intervention with a recently discovered aminopyridazine suppressor of glial activation, developed to inhibit both oxidative and inflammatory cytokine pathways, attenuates human amyloid beta (Abeta)-induced glial activation in a murine model. Peripheral administration of the aminopyridazine MW01-070C, beginning 3 weeks after the start of intracerebroventricular infusion of human Abeta1-42, decreased the number of activated astrocytes and microglia and the levels of proinflammatory cytokines interleukin-1beta, tumor necrosis factor-alpha and S100B in the hippocampus. Inhibition of neuroinflammation correlated with a decreased neuron loss, restoration towards control levels of synaptic dysfunction biomarkers in the hippocampus, and diminished amyloid plaque deposition. The results from this in vivo chemical biology approach provide a proof of concept that targeting of key glia inflammatory cytokine pathways can suppress Abeta-induced neuroinflammation in vivo, with resultant attenuation of neuronal damage.
+AD  - Drug Discovery Program, Northwestern University Feinberg School of Medicine, Chicago, IL, USA.
+AN  - 15465624
+AU  - Craft, J. M.
+AU  - Watterson, D. M.
+AU  - Frautschy, S. A.
+AU  - Van Eldik, L. J.
+DA  - Nov-Dec
+DO  - 10.1016/j.neurobiolaging.2004.01.006
+DP  - NLM
+IS  - 10
+KW  - Alzheimer Disease/chemically induced/*drug therapy/*pathology
+Aminopyridines/*administration & dosage
+Amyloid beta-Peptides
+Animals
+Brain/drug effects/pathology
+Disease Models, Animal
+Infusions, Parenteral
+Mice
+Mice, Inbred C57BL
+Neuroglia/*drug effects/*pathology
+Neurons/*drug effects/*pathology
+Neuroprotective Agents/administration & dosage
+Treatment Outcome
+LA  - eng
+N1  - Craft, Jeffrey M
+Watterson, D Martin
+Frautschy, Sally A
+Van Eldik, Linda J
+AG10685/AG/NIA NIH HHS/United States
+AG20243/AG/NIA NIH HHS/United States
+U01 AG028583/AG/NIA NIH HHS/United States
+R25 GM067071/GM/NIGMS NIH HHS/United States
+NS47586/NS/NINDS NIH HHS/United States
+AG13939/AG/NIA NIH HHS/United States
+P50 AG016570/AG/NIA NIH HHS/United States
+R01 AG010685/AG/NIA NIH HHS/United States
+T32 AG00260/AG/NIA NIH HHS/United States
+AG21184/AG/NIA NIH HHS/United States
+P01 AG021184/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+United States
+2004/10/07
+Neurobiol Aging. 2004 Nov-Dec;25(10):1283-92. doi: 10.1016/j.neurobiolaging.2004.01.006.
+PY  - 2004
+SN  - 0197-4580 (Print)
+0197-4580
+SP  - 1283-92
+ST  - Aminopyridazines inhibit beta-amyloid-induced glial activation and neuronal damage in vivo
+T2  - Neurobiol Aging
+TI  - Aminopyridazines inhibit beta-amyloid-induced glial activation and neuronal damage in vivo
+VL  - 25
+ID  - 51011
+ER  - 
+
+TY  - JOUR
+AB  - Huntington's disease is a genetic disease caused by a single mutation. It is characterized by progressive movement, emotional and cognitive deficits. R6/2 mice transgenic for exon 1 of the HD gene with 150+ CAG repeats have a progressive neurological phenotype, including deterioration in cognitive function. The mechanism underlying the cognitive deficits in R6/2 mice is unknown, but dysregulated gene expression, reduced neurotransmitter levels and abnormal synaptic function are present before the cognitive decline becomes pronounced. Our goal here was to ameliorate the cognitive phenotype in R6/2 mice using a combination drug therapy (tacrine, moclobemide and creatine) aimed at boosting neurotransmitter levels in the brain. Treatment from 5 weeks of age prevented deterioration in two different cognitive tasks until at least 12 weeks. However, motor deterioration continued unabated. Microarray analysis of global gene expression revealed that many genes significantly up- or down-regulated in untreated R6/2 mice had returned towards normal levels after treatment, though a minority were further dysregulated. Thus dysregulated gene expression was reversed by the combination treatment in the R6/2 mice and probably underlies the observed improvements in cognitive function. Our study shows that cognitive decline caused by a genetic mutation can be slowed by a combination drug treatment, and gives hope that cognitive symptoms in HD can be treated.
+AD  - Department of Pharmacology, University of Cambridge, Tennis Court Road, Cambridge CB2 1 PD, UK. ajm41@cam.ac.uk
+AN  - 15787692
+AU  - Morton, A. J.
+AU  - Hunt, M. J.
+AU  - Hodges, A. K.
+AU  - Lewis, P. D.
+AU  - Redfern, A. J.
+AU  - Dunnett, S. B.
+AU  - Jones, L.
+DA  - Feb
+DO  - 10.1111/j.1460-9568.2005.03895.x
+DP  - NLM
+IS  - 4
+KW  - Age Factors
+Animals
+Body Weight/drug effects
+Brain Chemistry/drug effects
+Cognition Disorders/*drug therapy/ethnology/urine
+Disease Models, Animal
+Drug Therapy, Combination
+Gene Expression/drug effects
+Glucose/metabolism
+Huntington Disease/complications/*drug therapy/urine
+Maze Learning/drug effects
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Motor Activity/drug effects/physiology
+Neurotransmitter Agents/metabolism
+Nootropic Agents/*therapeutic use
+Oligonucleotide Array Sequence Analysis/methods
+Phenotype
+RNA, Messenger/biosynthesis
+Reverse Transcriptase Polymerase Chain Reaction/methods
+Rotarod Performance Test/methods
+Spatial Behavior/physiology/radiation effects
+Trinucleotide Repeats/genetics
+LA  - eng
+N1  - Morton, A Jennifer
+Hunt, Mark J
+Hodges, Angela K
+Lewis, Paul D
+Redfern, Amanda J
+Dunnett, Stephen B
+Jones, Lesley
+G9810900/MRC_/Medical Research Council/United Kingdom
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+France
+2005/03/25
+Eur J Neurosci. 2005 Feb;21(4):855-70. doi: 10.1111/j.1460-9568.2005.03895.x.
+PY  - 2005
+SN  - 0953-816X (Print)
+0953-816x
+SP  - 855-70
+ST  - A combination drug therapy improves cognition and reverses gene expression changes in a mouse model of Huntington's disease
+T2  - Eur J Neurosci
+TI  - A combination drug therapy improves cognition and reverses gene expression changes in a mouse model of Huntington's disease
+VL  - 21
+ID  - 51025
+ER  - 
+
+TY  - JOUR
+AB  - The present study investigated the neuroprotective potential of two novel polyamine analogues, BU43b and BU36b, when administered 30 min prior to cerebral ischaemia. Neuroprotection in a permanent and a transient focal cerebral ischaemia mouse model (induced by intraluminal middle cerebral artery occlusion (MCAO)) was investigated using a range of histological and behavioural assessments. In the permanent ischaemia model, BU43b reduced oedema and showed a trend towards reduction in %HLV (percentage hemisphere lesion volume) when administered at a dose of 30 mg/kg i.p. Following transient ischaemia, treatment with BU43b decreased the %HLV and reduced oedema when administered at 30 mg/kg. BU43b also improved the locomotor activity (LMA) in MCAO mice at both 20 mg/kg and 30 mg/kg doses. BU36b was less effective than BU43b in both the permanent and the transient models, with its most pronounced effect being a trend towards reduction in oedema in both models. These results demonstrate that BU43b administered 30 min before ischaemia provided a good level of neuroprotection in the two models of cerebral ischaemia used and may have potential as a neuroprotective treatment for stroke.
+AD  - Department of Pharmacology, School of Pharmacy, Trinity College Dublin, Ireland. junli@uchc.edu
+AN  - 16473330
+AU  - Li, J.
+AU  - Henman, M. C.
+AU  - Atkinson, J.
+AU  - Fixon-Owoo, S.
+AU  - Tatlisumak, T.
+AU  - Shaw, G. G.
+AU  - Doyle, K. M.
+DA  - Mar 3
+DO  - 10.1016/j.brainres.2005.12.097
+DP  - NLM
+ET  - 20060213
+IS  - 1
+KW  - Animals
+Behavior, Animal
+Brain Edema/etiology/pathology/prevention & control
+Disease Models, Animal
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Ischemic Attack, Transient/complications/pathology/*prevention & control
+Male
+Mice
+Motor Activity/drug effects/physiology
+Neuroprotective Agents/*administration & dosage/chemistry
+Polyamines/*administration & dosage/chemistry/therapeutic use
+Rotarod Performance Test/methods
+Tetrazolium Salts
+Time Factors
+LA  - eng
+N1  - Li, Jun
+Henman, Martin C
+Atkinson, Jeffrey
+Fixon-Owoo, Solomon
+Tatlisumak, Turgut
+Shaw, Graham G
+Doyle, Karen M
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2006/02/14
+Brain Res. 2006 Mar 3;1076(1):209-15. doi: 10.1016/j.brainres.2005.12.097. Epub 2006 Feb 13.
+PY  - 2006
+SN  - 0006-8993 (Print)
+0006-8993
+SP  - 209-15
+ST  - The pre-ischaemic neuroprotective effects of the polyamine analogues BU43b and BU36b in permanent and transient focal cerebral ischaemia models in mice
+T2  - Brain Res
+TI  - The pre-ischaemic neuroprotective effects of the polyamine analogues BU43b and BU36b in permanent and transient focal cerebral ischaemia models in mice
+VL  - 1076
+ID  - 51035
+ER  - 
+
+TY  - JOUR
+AB  - Previously, uridine pro-drug 2',3',5'-tri-O-acetyluridine (PN401) was shown to be protective in the mitochondrial complex II inhibitor 3-nitropropionic acid model of Huntington's disease (HD). In this study, PN401 increased survival and improved motor function on the rotarod in both R6/2 and N171-82Q polyglutamine repeat mouse models of HD. PN401 significantly decreased neurodegeneration in both the piriform cortex and striatum although PN401 decreased huntingtin protein aggregates only in the striatum. Cortical and striatal brain-derived neurotrophic factor (BDNF) protein levels were reduced in the +/- compared to the -/- N171-82Q mice and PN401 treatment significantly increased cortical BDNF in both +/- and -/- mice, but PN401 did not affect striatal BDNF. These results suggest that PN401 may have beneficial effects in the treatment of neurodegenerative diseases such as HD.
+AD  - Neuroscience Research, Wellstat Therapeutics Corporation, 930 Clopper Road, Gaithersburg, MD 20878, USA. jsaydoff@wellstattherapeutics.com
+AN  - 17011205
+AU  - Saydoff, J. A.
+AU  - Garcia, R. A.
+AU  - Browne, S. E.
+AU  - Liu, L.
+AU  - Sheng, J.
+AU  - Brenneman, D.
+AU  - Hu, Z.
+AU  - Cardin, S.
+AU  - Gonzalez, A.
+AU  - von Borstel, R. W.
+AU  - Gregorio, J.
+AU  - Burr, H.
+AU  - Beal, M. F.
+DA  - Dec
+DO  - 10.1016/j.nbd.2006.08.011
+DP  - NLM
+ET  - 20060929
+IS  - 3
+KW  - Acetates
+Administration, Oral
+Analysis of Variance
+Animals
+Cerebral Cortex/cytology/drug effects/metabolism
+Disease Models, Animal
+Female
+Huntingtin Protein
+Huntington Disease/drug therapy/mortality/*prevention & control
+Male
+Mice
+Mice, Inbred C3H
+Mice, Inbred C57BL
+Mice, Neurologic Mutants
+Mice, Transgenic
+Motor Activity/drug effects
+Neostriatum/cytology/drug effects/metabolism
+Nerve Degeneration/drug therapy/*prevention & control
+Nerve Tissue Proteins/drug effects/metabolism
+Neuroprotective Agents/*pharmacology
+Nuclear Proteins/drug effects/metabolism
+Prodrugs/*pharmacology
+Rotarod Performance Test
+Uridine/administration & dosage/*analogs & derivatives/pharmacology
+LA  - eng
+N1  - Saydoff, Joel A
+Garcia, Rolando A G
+Browne, Susan E
+Liu, Liansheng
+Sheng, Jin
+Brenneman, Denise
+Hu, Zhongyi
+Cardin, Sylvain
+Gonzalez, Alexis
+von Borstel, Reid W
+Gregorio, Jason
+Burr, Holly
+Beal, M Flint
+Comparative Study
+Journal Article
+United States
+2006/10/03
+Neurobiol Dis. 2006 Dec;24(3):455-65. doi: 10.1016/j.nbd.2006.08.011. Epub 2006 Sep 29.
+PY  - 2006
+SN  - 0969-9961 (Print)
+0969-9961
+SP  - 455-65
+ST  - Oral uridine pro-drug PN401 is neuroprotective in the R6/2 and N171-82Q mouse models of Huntington's disease
+T2  - Neurobiol Dis
+TI  - Oral uridine pro-drug PN401 is neuroprotective in the R6/2 and N171-82Q mouse models of Huntington's disease
+VL  - 24
+ID  - 51021
+ER  - 
+
+TY  - JOUR
+AB  - There is a clear need for new therapeutics to treat alcoholism. Here, we test our hypothesis that selective inhibitors of neuronal calcium channels will reduce ethanol consumption and intoxication, based on our previous studies using knock-out mice and cell culture systems. We demonstrate that pretreatment with the novel mixed N-type and T-type calcium channel antagonist 1-(6,6-bis(4-fluorophenyl)hexyl)-4-(3,4,5-trimethoxybenzyl)piperazine (NP078585) reduced ethanol intoxication. NP078585 also attenuated the reinforcing and rewarding properties of ethanol, measured by operant self-administration and the expression of an ethanol conditioned place preference, and abolished stress-induced reinstatement of ethanol seeking. NP078585 did not affect alcohol responses in mice lacking N-type calcium channels. These results suggest that selective calcium channel inhibitors may be useful in reducing acute ethanol intoxication and alcohol consumption by human alcoholics.
+AD  - Department of Neurology, Ernest Gallo Clinic and Research Center, University of California, San Francisco, Emeryville, California 94608, USA.
+AN  - 18987207
+AU  - Newton, P. M.
+AU  - Zeng, L.
+AU  - Wang, V.
+AU  - Connolly, J.
+AU  - Wallace, M. J.
+AU  - Kim, C.
+AU  - Shin, H. S.
+AU  - Belardetti, F.
+AU  - Snutch, T. P.
+AU  - Messing, R. O.
+C2  - PMC3045811
+C6  - NIHMS274472
+DA  - Nov 5
+DO  - 10.1523/jneurosci.3621-08.2008
+DP  - NLM
+IS  - 45
+KW  - *Alcoholic Intoxication/drug therapy/physiopathology/psychology
+Analysis of Variance
+Animals
+Behavior, Animal/drug effects
+Calcium Channel Blockers/pharmacology
+Calcium Channels, L-Type/*physiology
+Calcium Channels, N-Type/deficiency/*physiology
+Central Nervous System Depressants/administration & dosage
+Conditioning, Operant/drug effects/*physiology
+Disease Models, Animal
+Dose-Response Relationship, Drug
+Ethanol/administration & dosage
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Knockout
+Motor Activity/drug effects/physiology
+Piperazines/pharmacology
+Rats
+Rats, Long-Evans
+Reflex/drug effects/physiology
+*Reinforcement, Psychology
+Rotarod Performance Test
+Self Administration
+Stress, Psychological/physiopathology
+LA  - eng
+N1  - 1529-2401
+Newton, Philip M
+Zeng, Lily
+Wang, Victoria
+Connolly, Jacklyn
+Wallace, Melisa J
+Kim, Chanki
+Shin, Hee-Sup
+Belardetti, Francesco
+Snutch, Terrance P
+Messing, Robert O
+R01 AA013588/AA/NIAAA NIH HHS/United States
+R37 AA013588-09/AA/NIAAA NIH HHS/United States
+R37 AA013588/AA/NIAAA NIH HHS/United States
+AA008117/AA/NIAAA NIH HHS/United States
+AA013588/AA/NIAAA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2008/11/07
+J Neurosci. 2008 Nov 5;28(45):11712-9. doi: 10.1523/JNEUROSCI.3621-08.2008.
+PY  - 2008
+SN  - 0270-6474 (Print)
+0270-6474
+SP  - 11712-9
+ST  - A blocker of N- and T-type voltage-gated calcium channels attenuates ethanol-induced intoxication, place preference, self-administration, and reinstatement
+T2  - J Neurosci
+TI  - A blocker of N- and T-type voltage-gated calcium channels attenuates ethanol-induced intoxication, place preference, self-administration, and reinstatement
+VL  - 28
+ID  - 51039
+ER  - 
+
+TY  - JOUR
+AB  - The gamma-aminobutyric acid(GABA)-B receptor agonist baclofen is known to reduce drug intake in both animals and humans and to prevent reinstatement of cocaine-, opioid-, and alcohol-seeking in rats after a period of extinction, but its effect on nicotine reinstatement is unknown. This study investigated the effect of baclofen on nicotine-seeking reinstatement both using the extinction/reinstatement model of nicotine self-administration and conditioned place preference (CPP). Results showed that in rats previously trained to intravenously self-administer nicotine (30 microg/kg/inf) under a FR-1 schedule of reinforcement, acute nicotine (0.15 mg/kg) priming effectively reinstates nicotine-seeking behaviour following extinction. At doses used in this study (up to 2.5 mg/kg) baclofen alone did not affect locomotor activity and did not reinstate responding. However, baclofen dose-dependently attenuated drug-induced reinstatement of nicotine-seeking in rats. Moreover, baclofen (1.25 mg/kg) completely blocked nicotine-induced reinstatement of extinguished nicotine (0.3 mg/kg) CPP in mice. Altogether, our results showed that baclofen is able to antagonise reinstatement of nicotine-seeking and CPP triggered by nicotine primings, suggesting its potential clinical utility as an anti-relapse agent.
+AD  - Institute of Neuroscience, Section of Cagliari, National Research Council CNR, c/o Department of Neuroscience, University of Cagliari, Cittadella Universitaria of Monserrato, Italy. lfattore@in.cnr.it
+AN  - 19250803
+AU  - Fattore, L.
+AU  - Spano, M. S.
+AU  - Cossu, G.
+AU  - Scherma, M.
+AU  - Fratta, W.
+AU  - Fadda, P.
+DA  - Jul
+DO  - 10.1016/j.euroneuro.2009.01.007
+DP  - NLM
+ET  - 20090228
+IS  - 7
+KW  - Animals
+Baclofen/*pharmacology
+Behavior, Animal/drug effects
+Conditioning, Operant/*drug effects
+Disease Models, Animal
+Drug Administration Schedule
+Extinction, Psychological/*drug effects
+GABA Agonists/*pharmacology
+Male
+Mice
+Mice, Inbred C57BL
+Nicotine/*pharmacology
+Rats
+Rats, Sprague-Dawley
+Reinforcement Schedule
+*Reinforcement, Psychology
+Self Administration/methods
+Tobacco Use Disorder/*psychology
+LA  - eng
+N1  - 1873-7862
+Fattore, Liana
+Spano, Maria Sabrina
+Cossu, Gregorio
+Scherma, Maria
+Fratta, Walter
+Fadda, Paola
+Journal Article
+Netherlands
+2009/03/03
+Eur Neuropsychopharmacol. 2009 Jul;19(7):487-98. doi: 10.1016/j.euroneuro.2009.01.007. Epub 2009 Feb 28.
+PY  - 2009
+SN  - 0924-977x
+SP  - 487-98
+ST  - Baclofen prevents drug-induced reinstatement of extinguished nicotine-seeking behaviour and nicotine place preference in rodents
+T2  - Eur Neuropsychopharmacol
+TI  - Baclofen prevents drug-induced reinstatement of extinguished nicotine-seeking behaviour and nicotine place preference in rodents
+VL  - 19
+ID  - 51010
+ER  - 
+
+TY  - JOUR
+AB  - Profound neuronal dysfunction in the entorhinal cortex contributes to early loss of short-term memory in Alzheimer's disease. Here we show broad neuroprotective effects of entorhinal brain-derived neurotrophic factor (BDNF) administration in several animal models of Alzheimer's disease, with extension of therapeutic benefits into the degenerating hippocampus. In amyloid-transgenic mice, BDNF gene delivery, when administered after disease onset, reverses synapse loss, partially normalizes aberrant gene expression, improves cell signaling and restores learning and memory. These outcomes occur independently of effects on amyloid plaque load. In aged rats, BDNF infusion reverses cognitive decline, improves age-related perturbations in gene expression and restores cell signaling. In adult rats and primates, BDNF prevents lesion-induced death of entorhinal cortical neurons. In aged primates, BDNF reverses neuronal atrophy and ameliorates age-related cognitive impairment. Collectively, these findings indicate that BDNF exerts substantial protective effects on crucial neuronal circuitry involved in Alzheimer's disease, acting through amyloid-independent mechanisms. BDNF therapeutic delivery merits exploration as a potential therapy for Alzheimer's disease.
+AD  - Department of Neurosciences-0626, 9500 Gilman Drive, University of California-San Diego, La Jolla, California 92093, USA.
+AN  - 19198615
+AU  - Nagahara, A. H.
+AU  - Merrill, D. A.
+AU  - Coppola, G.
+AU  - Tsukada, S.
+AU  - Schroeder, B. E.
+AU  - Shaked, G. M.
+AU  - Wang, L.
+AU  - Blesch, A.
+AU  - Kim, A.
+AU  - Conner, J. M.
+AU  - Rockenstein, E.
+AU  - Chao, M. V.
+AU  - Koo, E. H.
+AU  - Geschwind, D.
+AU  - Masliah, E.
+AU  - Chiba, A. A.
+AU  - Tuszynski, M. H.
+C2  - PMC2838375
+C6  - NIHMS181778
+DA  - Mar
+DO  - 10.1038/nm.1912
+DP  - NLM
+ET  - 20090208
+IS  - 3
+KW  - Alzheimer Disease/*drug therapy
+Animals
+Brain-Derived Neurotrophic Factor/*therapeutic use
+*Disease Models, Animal
+Mice
+Mice, Transgenic
+Neuroprotective Agents/*therapeutic use
+Primates
+LA  - eng
+N1  - 1546-170x
+Nagahara, Alan H
+Merrill, David A
+Coppola, Giovanni
+Tsukada, Shingo
+Schroeder, Brock E
+Shaked, Gideon M
+Wang, Ling
+Blesch, Armin
+Kim, Albert
+Conner, James M
+Rockenstein, Edward
+Chao, Moses V
+Koo, Edward H
+Geschwind, Daniel
+Masliah, Eliezer
+Chiba, Andrea A
+Tuszynski, Mark H
+P01 AG010435-160006/AG/NIA NIH HHS/United States
+R37 AG018440-09/AG/NIA NIH HHS/United States
+P01 AG022074/AG/NIA NIH HHS/United States
+P01 AG022074-050004/AG/NIA NIH HHS/United States
+AG10435/AG/NIA NIH HHS/United States
+P01 AG010435-160003/AG/NIA NIH HHS/United States
+R37 AG018440/AG/NIA NIH HHS/United States
+P01 AG010435/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+2009/02/10
+Nat Med. 2009 Mar;15(3):331-7. doi: 10.1038/nm.1912. Epub 2009 Feb 8.
+PY  - 2009
+SN  - 1078-8956 (Print)
+1078-8956
+SP  - 331-7
+ST  - Neuroprotective effects of brain-derived neurotrophic factor in rodent and primate models of Alzheimer's disease
+T2  - Nat Med
+TI  - Neuroprotective effects of brain-derived neurotrophic factor in rodent and primate models of Alzheimer's disease
+VL  - 15
+ID  - 50997
+ER  - 
+
+TY  - JOUR
+AB  - Several lines of evidence suggest that the amyloid-β-peptide (Aβ) plays a central role in the pathogenesis of Alzheimer's disease (AD). Not only Aβ fibrils but also small soluble Aβ oligomers in particular are suspected to be the major toxic species responsible for disease development and progression. The present study reports on in vitro and in vivo properties of the Aβ targeting d-enantiomeric amino acid peptide D3. We show that next to plaque load and inflammation reduction, oral application of the peptide improved the cognitive performance of AD transgenic mice. In addition, we provide in vitro data elucidating the potential mechanism underlying the observed in vivo activity of D3. These data suggest that D3 precipitates toxic Aβ species and converts them into nonamyloidogenic, nonfibrillar, and nontoxic aggregates without increasing the concentration of monomeric Aβ. Thus, D3 exerts an interesting and novel mechanism of action that abolishes toxic Aβ oligomers and thereby supports their decisive role in AD development and progression.
+AD  - Forschungszentrum Jülich, ISB-3, 52424 Jülich, Germany.
+AN  - 22778851
+AU  - Aileen Funke, S.
+AU  - van Groen, T.
+AU  - Kadish, I.
+AU  - Bartnik, D.
+AU  - Nagel-Steger, L.
+AU  - Brener, O.
+AU  - Sehl, T.
+AU  - Batra-Safferling, R.
+AU  - Moriscot, C.
+AU  - Schoehn, G.
+AU  - Horn, A. H.
+AU  - Müller-Schiffmann, A.
+AU  - Korth, C.
+AU  - Sticht, H.
+AU  - Willbold, D.
+C2  - PMC3368690
+DA  - Sep 15
+DO  - 10.1021/cn100057j
+DP  - NLM
+ET  - 20100802
+IS  - 9
+KW  - Administration, Oral
+Alzheimer Disease/*drug therapy/*pathology/psychology
+Animals
+Cognition/drug effects/physiology
+*Disease Models, Animal
+Female
+Humans
+Maze Learning/*drug effects/physiology
+Mice
+Mice, Transgenic
+Oligopeptides/*administration & dosage/chemistry
+Protein Structure, Secondary
+Protein Structure, Tertiary
+Stereoisomerism
+Treatment Outcome
+Alzheimer’s disease
+Mirror image phage display
+d-enantiomeric peptide
+drugs
+oligomers
+LA  - eng
+N1  - 1948-7193
+Aileen Funke, Susanne
+van Groen, Thomas
+Kadish, Inga
+Bartnik, Dirk
+Nagel-Steger, Luitgard
+Brener, Oleksandr
+Sehl, Torsten
+Batra-Safferling, Renu
+Moriscot, Christine
+Schoehn, Guy
+Horn, Anselm H C
+Müller-Schiffmann, Andreas
+Korth, Carsten
+Sticht, Heinrich
+Willbold, Dieter
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2010/09/15
+ACS Chem Neurosci. 2010 Sep 15;1(9):639-48. doi: 10.1021/cn100057j. Epub 2010 Aug 2.
+PY  - 2010
+SN  - 1948-7193 (Print)
+1948-7193
+SP  - 639-48
+ST  - Oral treatment with the d-enantiomeric peptide D3 improves the pathology and behavior of Alzheimer's Disease transgenic mice
+T2  - ACS Chem Neurosci
+TI  - Oral treatment with the d-enantiomeric peptide D3 improves the pathology and behavior of Alzheimer's Disease transgenic mice
+VL  - 1
+ID  - 51031
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) is the most prevalent form of dementia among the elderly. Although the underlying cause has yet to be established, numerous data have shown that oxidative stress is implicated in AD as well as in preclinical stages of AD, such as mild cognitive impairment (MCI). The oxidative stress observed in brains of subjects with AD and MCI may be due, either fully or in part, to increased free radicals mediated by amyloid-beta peptide (Abeta). By using double human mutant APP/PS-1 knock-in mice as the AD model, the present work demonstrates that the APP/PS-1 double mutation results in elevated protein oxidation (as indexed by protein carbonyls), protein nitration (as indexed by 3-nitrotyrosine), as well as lipid peroxidation (as indexed by protein-bound 4-hydroxy-2-nonenal) in brains of mice aged 9 months and 12 months. APP/PS-1 mice also exhibited lower levels of brain glutathione peroxidase (GPx) in both age groups studied, whereas glutathione reductase (GR) levels in brain were unaffected by the mutation. The activities of both of these antioxidant enzymes were significantly decreased in APP/PS-1 mouse brains, whereas the activity of glucose-6-phosphate dehydrogenase (G6PDH) was increased relative to controls in both age groups. Levels of peptidyl prolyl isomerase 1 (Pin1) were significantly decreased in APP/PS-1 mouse brain aged 9 and 12 months. Administration of N-acetyl-L-cysteine (NAC), a glutathione precursor, to APP/PS-1 mice via drinking water suppressed increased protein oxidation and nitration and also significantly augmented levels and activity of GPx in brain from both age groups. Oral administration of NAC also increased the diminished activity of GR and protected against lipid peroxidation in brains of 9-month-old APP/PS-1 mice only. Pin1 levels, GR levels, and G6PDH activity in brain were unaffected by oral administration of NAC in both age groups. These results are discussed with reference to the therapeutic potential of this brain-accessible glutathione precursor in the treatment of MCI and AD.
+AD  - Department of Chemistry, University of Kentucky, Lexington, Kentucky 40506, USA.
+AN  - 20648652
+AU  - Huang, Q.
+AU  - Aluise, C. D.
+AU  - Joshi, G.
+AU  - Sultana, R.
+AU  - St Clair, D. K.
+AU  - Markesbery, W. R.
+AU  - Butterfield, D. A.
+DA  - Sep
+DO  - 10.1002/jnr.22422
+DP  - NLM
+IS  - 12
+KW  - Acetylcysteine/*pharmacology
+Administration, Oral
+Alzheimer Disease/drug therapy/genetics/metabolism
+Amyloid beta-Protein Precursor/*genetics
+Animals
+Brain/*drug effects/metabolism/physiopathology
+Cognition Disorders/*drug therapy/genetics/metabolism
+Disease Models, Animal
+Drug Administration Schedule
+Gene Knock-In Techniques/methods
+Humans
+Male
+Mice
+Mice, Transgenic
+Mutation/*genetics
+Oxidative Stress/*drug effects/physiology
+Presenilin-1/*genetics
+Time Factors
+LA  - eng
+N1  - 1097-4547
+Huang, Quanzhen
+Aluise, Christopher D
+Joshi, Gururaj
+Sultana, Rukhsana
+St Clair, Daret K
+Markesbery, William R
+Butterfield, D Allan
+AG-05119/AG/NIA NIH HHS/United States
+AG-10836/AG/NIA NIH HHS/United States
+Comparative Study
+Journal Article
+Research Support, N.I.H., Extramural
+United States
+2010/07/22
+J Neurosci Res. 2010 Sep;88(12):2618-29. doi: 10.1002/jnr.22422.
+PY  - 2010
+SN  - 0360-4012
+SP  - 2618-29
+ST  - Potential in vivo amelioration by N-acetyl-L-cysteine of oxidative stress in brain in human double mutant APP/PS-1 knock-in mice: toward therapeutic modulation of mild cognitive impairment
+T2  - J Neurosci Res
+TI  - Potential in vivo amelioration by N-acetyl-L-cysteine of oxidative stress in brain in human double mutant APP/PS-1 knock-in mice: toward therapeutic modulation of mild cognitive impairment
+VL  - 88
+ID  - 51026
+ER  - 
+
+TY  - JOUR
+AB  - Memantine, a noncompetitive NMDA receptor blocker, has been demonstrated to be neuroprotective against various neurotoxins. Aluminum, a well-known neurotoxin, has been suggested to be a contributing factor in Alzheimer's disease. In this study we investigated the possible effect of memantine on aluminum-induced cognitive impairment in rats. Rats were exposed to aluminum chloride (100mg/kg/day) and memantine (5, 10 and 20mg/kg/day) for 60 days. Cognitive functions were evaluated using three tests: Morris water maze, radial arm maze and passive avoidance tests. Results showed that memantine failed at low doses to have any significant influence on aluminum-induced memory deficit, but the 20mg/kg dose was found to cause significant enhancement of memory in the aluminum-exposed rats. This is the first study to demonstrate the protective role of memantine against aluminum-induced neuronal dysfunction. Biochemical and histological investigations are highly indicated to clarify the possible pharmacodynamic basis.
+AD  - Department of Pharmacology, Faculty of Medicine, University of Assiut, Egypt. raafat abdelbadea@yahoo.com
+AN  - 21741993
+AU  - Abdel-Aal, R. A.
+AU  - Assi, A. A.
+AU  - Kostandy, B. B.
+DA  - Nov 20
+DO  - 10.1016/j.bbr.2011.06.031
+DP  - NLM
+ET  - 20110702
+IS  - 1
+KW  - Aluminum/*toxicity
+Analysis of Variance
+Animals
+Body Weight/drug effects
+Cognition Disorders/*chemically induced/*prevention & control
+Disease Models, Animal
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Escape Reaction/drug effects
+Excitatory Amino Acid Antagonists/*therapeutic use
+Exploratory Behavior/drug effects
+Male
+Maze Learning/drug effects
+Memantine/*therapeutic use
+Rats
+Rats, Wistar
+Rotarod Performance Test
+Time Factors
+LA  - eng
+N1  - 1872-7549
+Abdel-Aal, Raafat A
+Assi, Abdel-Azim A
+Kostandy, Botros B
+Journal Article
+Netherlands
+2011/07/12
+Behav Brain Res. 2011 Nov 20;225(1):31-8. doi: 10.1016/j.bbr.2011.06.031. Epub 2011 Jul 2.
+PY  - 2011
+SN  - 0166-4328
+SP  - 31-8
+ST  - Memantine prevents aluminum-induced cognitive deficit in rats
+T2  - Behav Brain Res
+TI  - Memantine prevents aluminum-induced cognitive deficit in rats
+VL  - 225
+ID  - 51013
+ER  - 
+
+TY  - JOUR
+AB  - Emerging evidence suggests that the mood stabilizers lithium and valproate (VPA) have broad neuroprotective and neurotrophic properties, and that these occur via inhibition of glycogen synthase kinase 3 (GSK-3) and histone deacetylases (HDACs), respectively. Huntington's disease (HD) is an inherited neurodegenerative disorder characterized by impaired movement, cognitive and psychiatric disturbances, and premature death. We treated N171-82Q and YAC128 mice, two mouse models of HD varying in genetic backgrounds and pathological progressions, with a diet containing therapeutic doses of lithium, VPA, or both. Untreated, these transgenic mice displayed a decrease in levels of GSK-3β serine 9 phosphorylation and histone H3 acetylation in the striatum and cerebral cortex around the onset of behavioral deficits, indicating a hyperactivity of GSK-3β and HDACs. Using multiple well-validated behavioral tests, we found that co-treatment with lithium and VPA more effectively alleviated spontaneous locomotor deficits and depressive-like behaviors in both models of HD mice. Furthermore, compared with monotherapy with either drug alone, co-treatment more successfully improved motor skill learning and coordination in N171-82Q mice, and suppressed anxiety-like behaviors in YAC128 mice. This combined treatment consistently inhibited GSK-3β and HDACs, and caused a sustained elevation in striatal as well as cortical brain-derived neurotrophic factor and heat shock protein 70. Importantly, co-treatment markedly prolonged median survival of N171-82Q mice from 31.6 to 41.6 weeks. Given that there is presently no proven treatment for HD, our results suggest that combined treatment with lithium and VPA, two mood stabilizers with a long history of safe use in humans, may have important therapeutic potential for HD patients.
+AD  - Section on Molecular Neurobiology, National Institute of Mental Health, National Institutes of Health, Bethesda, MD 20892-1363, USA.
+AN  - 21796107
+AU  - Chiu, C. T.
+AU  - Liu, G.
+AU  - Leeds, P.
+AU  - Chuang, D. M.
+C2  - PMC3194069
+DA  - Nov
+DO  - 10.1038/npp.2011.128
+DP  - NLM
+ET  - 20110727
+IS  - 12
+KW  - Affect/*drug effects/physiology
+Animals
+Disease Models, Animal
+Dose-Response Relationship, Drug
+Drug Therapy, Combination
+Female
+Huntington Disease/*drug therapy/*genetics
+Lithium/*administration & dosage
+Male
+Mice
+Mice, Transgenic
+Valproic Acid/*administration & dosage
+LA  - eng
+N1  - 1740-634x
+Chiu, Chi-Tso
+Liu, Guangping
+Leeds, Peter
+Chuang, De-Maw
+ZIA MH002468-23/ImNIH/Intramural NIH HHS/United States
+Comparative Study
+Journal Article
+Research Support, N.I.H., Intramural
+Research Support, Non-U.S. Gov't
+England
+2011/07/29
+Neuropsychopharmacology. 2011 Nov;36(12):2406-21. doi: 10.1038/npp.2011.128. Epub 2011 Jul 27.
+PY  - 2011
+SN  - 0893-133X (Print)
+0893-133x
+SP  - 2406-21
+ST  - Combined treatment with the mood stabilizers lithium and valproate produces multiple beneficial effects in transgenic mouse models of Huntington's disease
+T2  - Neuropsychopharmacology
+TI  - Combined treatment with the mood stabilizers lithium and valproate produces multiple beneficial effects in transgenic mouse models of Huntington's disease
+VL  - 36
+ID  - 51029
+ER  - 
+
+TY  - JOUR
+AB  - RATIONALE: Methylphenidate is a psychostimulant given for extended periods of time as a treatment of attention-deficit/hyperactivity disorder (ADHD). The long-term effects of the drug are not yet known, and it is speculated that repeated exposure may produce drug dependence. OBJECTIVE: To investigate the effects of repeated methylphenidate treatment on methylphenidate self-administration and reinstatement in the most validated animal model of ADHD, the spontaneously hypertensive rat (SHR), and Wistar rat, strain representing the "normal" heterogeneous population. METHODS: Rats were administered intraperitoneally with saline or methylphenidate (2 mg/kg) for 14 days, prior to experiments. Thereafter, responses for intravenous methylphenidate under the fixed ratio (FR1 and FR3) and progressive ratio (PR) schedules were assessed. Extinction experiments followed, as well as tests to determine the ability of intraperitoneal administration of methylphenidate (2 and 5 mg/kg) to reinstate extinguished drug-seeking behaviors in rats. RESULTS: Previous exposure to methylphenidate enhanced methylphenidate self-administration in Wistar rats but not in SHR (FR3). Methylphenidate pretreatment reduced responding for methylphenidate in SHR but did not affect self-administration behaviors of Wistar rats (PR). Methylphenidate pre-exposure robustly reinstated drug-seeking behaviors in Wistar rats, but not in SHR. CONCLUSION: The contrasting effects of repeated methylphenidate treatment in methylphenidate self-administration and reinstatement in Wistar and SHR, and the increased susceptibility of the Wistar rat strain to the reinforcing effects of methylphenidate indicate that "normal" individuals are more likely to develop psychological dependence to the drug and experience relapse. Meanwhile, the clinical use of methylphenidate may not produce drug dependence or relapse in ADHD patients.
+AD  - Uimyung Research Institute for Neuroscience, Sahmyook University, 26-21 Kongreung-dong, Nowon-gu, Seoul, Korea.
+AN  - 22086360
+AU  - dela Peña, I.
+AU  - Yoon, S. Y.
+AU  - Lee, J. C.
+AU  - dela Peña, J. B.
+AU  - Sohn, A. R.
+AU  - Ryu, J. H.
+AU  - Shin, C. Y.
+AU  - Cheong, J. H.
+DA  - May
+DO  - 10.1007/s00213-011-2564-1
+DP  - NLM
+ET  - 20111117
+IS  - 2
+KW  - Animals
+Attention Deficit Disorder with Hyperactivity/*psychology
+Behavior, Animal/*drug effects
+Central Nervous System Stimulants/*administration & dosage
+Disease Models, Animal
+Extinction, Psychological/drug effects
+Male
+Methylphenidate/*administration & dosage
+Rats
+Rats, Inbred SHR
+Rats, Wistar
+Reinforcement Schedule
+Self Administration
+Species Specificity
+LA  - eng
+N1  - 1432-2072
+dela Peña, Ike
+Yoon, Seo Young
+Lee, Jong Chan
+dela Peña, June Bryan
+Sohn, Aee Ree
+Ryu, Jong Hoon
+Shin, Chan Young
+Cheong, Jae Hoon
+Journal Article
+Research Support, Non-U.S. Gov't
+Germany
+2011/11/17
+Psychopharmacology (Berl). 2012 May;221(2):217-26. doi: 10.1007/s00213-011-2564-1. Epub 2011 Nov 17.
+PY  - 2012
+SN  - 0033-3158
+SP  - 217-26
+ST  - Methylphenidate treatment in the spontaneously hypertensive rat: influence on methylphenidate self-administration and reinstatement in comparison with Wistar rats
+T2  - Psychopharmacology (Berl)
+TI  - Methylphenidate treatment in the spontaneously hypertensive rat: influence on methylphenidate self-administration and reinstatement in comparison with Wistar rats
+VL  - 221
+ID  - 51017
+ER  - 
+
+TY  - JOUR
+AB  - Oxidative stress is involved in Alzheimer's disease (AD)-type neurodegeneration with cognitive impairment (AD-TNDCI) as well as age related cognitive deficit. The present study was designed to investigate the pre-treatment effects of naringenin (NAR), a polyphenolic compound on cognitive dysfunction, oxidative stress in the hippocampus, and hippocampal neuron injury in a rat model of AD-TNDCI. The rats were pre-treated with NAR at a selective dose (50mg/kg, orally) for 2 weeks followed by intracerebroventricular-streptozotocin (ICV-STZ) (3mg/kg; 5μl per site) injection bilaterally. Behavioral alterations were monitored after 2 weeks from the lesion using passive avoidance test and Morris water maze paradigm. Three weeks after the lesion, the rats were sacrificed for measuring non-enzymatic [4-hydroxynonenal (4-HNE), malonaldehyde (MDA), thiobarbituric reactive substances (TBARS), hydrogen peroxide (H(2)O(2)), protein carbonyl (PC), reduced glutathione (GSH)] content and enzymatic [glutathione peroxidase (GPx), glutathione reductase (GR), glutathione-S-transferase (GST), superoxide dismutase (SOD), catalase (CAT) and Na(+)/K(+)-ATPase] activity in the hippocampus, and expression of choline acetyltransferase (ChAT) positive neuron, and histopathology of hippocampal neurons. The non-enzymatic level and enzymatic activity was significantly increased and decreased, respectively, with striking impairments in spatial learning and memory, loss of ChAT positive neuron and severe damage to hippocampal neurons in the rat induced by ICV-STZ. These abnormalities were significantly improved by NAR pre-treatment. The study suggests that NAR can protect against cognitive deficits, neuronal injury and oxidative stress induced by ICV-STZ, and may be used as a potential agent in treatment of neurodegenerative diseases such as AD-TNDCI.
+AD  - Department of Medical Elementology & Toxicology, Hamdard University, Hamdard Nagar, New Delhi, India. mbkhan1@gmail.com
+AN  - 22898296
+AU  - Khan, M. B.
+AU  - Khan, M. M.
+AU  - Khan, A.
+AU  - Ahmed, M. E.
+AU  - Ishrat, T.
+AU  - Tabassum, R.
+AU  - Vaibhav, K.
+AU  - Ahmad, A.
+AU  - Islam, F.
+DA  - Dec
+DO  - 10.1016/j.neuint.2012.07.025
+DP  - NLM
+ET  - 20120808
+IS  - 7
+KW  - Alzheimer Disease/pathology/*prevention & control
+Animals
+Behavior, Animal
+Cognition Disorders/pathology/*prevention & control
+*Disease Models, Animal
+Flavanones/*pharmacology
+Injections, Intraventricular
+Male
+Rats
+Rats, Wistar
+Streptozocin/*administration & dosage
+LA  - eng
+N1  - 1872-9754
+Khan, M Badruzzaman
+Khan, Mohd Moshahid
+Khan, Andleeb
+Ahmed, Md Ejaz
+Ishrat, Tauheed
+Tabassum, Rizwana
+Vaibhav, Kumar
+Ahmad, Ajmal
+Islam, Fakhrul
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2012/08/18
+Neurochem Int. 2012 Dec;61(7):1081-93. doi: 10.1016/j.neuint.2012.07.025. Epub 2012 Aug 8.
+PY  - 2012
+SN  - 0197-0186
+SP  - 1081-93
+ST  - Naringenin ameliorates Alzheimer's disease (AD)-type neurodegeneration with cognitive impairment (AD-TNDCI) caused by the intracerebroventricular-streptozotocin in rat model
+T2  - Neurochem Int
+TI  - Naringenin ameliorates Alzheimer's disease (AD)-type neurodegeneration with cognitive impairment (AD-TNDCI) caused by the intracerebroventricular-streptozotocin in rat model
+VL  - 61
+ID  - 51023
+ER  - 
+
+TY  - JOUR
+AB  - The p75 neurotrophin receptor (p75(NTR)) is associated with multiple mechanisms linked to Alzheimer's disease (AD); hence, modulating its function might confer therapeutic effects. In previous in vitro work, we developed small molecule p75(NTR) ligands that inhibited amyloid-β-induced degenerative signaling and prevented neurite degeneration. In the present study, a prototype p75(NTR) ligand, LM11A-31, was administered orally to the Thy-1 hAPP(Lond/Swe) (APP(L/S)) AD mouse model. LM11A-31 reached brain concentrations known to inhibit degenerative signaling without toxicity or induction of hyperalgesia. It prevented deficits in novel object recognition after 2.5 months and, in a separate cohort, deficits in Y-maze performance after 3 months of treatment. Stereology studies found that the number and size of basal forebrain cholinergic neurons, which are normal in APP(L/S) mice, were unaffected. Neuritic dystrophy, however, was readily apparent in the basal forebrain, hippocampus and cortex, and was significantly reduced by LM11A-31, with no effect on amyloid levels. These studies reveal that p75(NTR) is an important and tractable in vivo drug target for AD, with LM11A-31 representing a novel class of therapeutic candidates.
+AD  - Department of Neurology and Neurological Science, Stanford University, Stanford, CA 94304, USA.
+AN  - 23545424
+AU  - Knowles, J. K.
+AU  - Simmons, D. A.
+AU  - Nguyen, T. V.
+AU  - Vander Griend, L.
+AU  - Xie, Y.
+AU  - Zhang, H.
+AU  - Yang, T.
+AU  - Pollak, J.
+AU  - Chang, T.
+AU  - Arancio, O.
+AU  - Buckwalter, M. S.
+AU  - Wyss-Coray, T.
+AU  - Massa, S. M.
+AU  - Longo, F. M.
+C1  - Disclosure statement F.M.L. is a founder of and retains financial interest in PharmatrophiX, a company focused on the development of small molecule ligands for neurotrophin receptors. Otherwise there are no conflicts of interest.
+C2  - PMC9035212
+C6  - NIHMS1787964
+DA  - Aug
+DO  - 10.1016/j.neurobiolaging.2013.02.015
+DP  - NLM
+ET  - 20130329
+IS  - 8
+KW  - Administration, Oral
+Alzheimer Disease/*drug therapy/*pathology
+Amyloid beta-Peptides/metabolism
+Animals
+Brain/metabolism/*pathology
+Cognition Disorders/prevention & control
+Disease Models, Animal
+Female
+Isoleucine/administration & dosage/*analogs &
+derivatives/pharmacology/therapeutic use
+Ligands
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Inbred Strains
+Molecular Targeted Therapy
+Morpholines/administration & dosage/pharmacology/*therapeutic use
+Nerve Degeneration/*prevention & control
+Neurites/*pathology
+Receptors, Nerve Growth Factor/*physiology
+LA  - eng
+N1  - 1558-1497
+Knowles, Juliet K
+Simmons, Danielle A
+Nguyen, Thuy-Vi V
+Vander Griend, Lilith
+Xie, Youmei
+Zhang, Hong
+Yang, Tao
+Pollak, Julia
+Chang, Timothy
+Arancio, Ottavio
+Buckwalter, Marion S
+Wyss-Coray, Tony
+Massa, Stephen M
+Longo, Frank M
+F30 NA051971/PHS HHS/United States
+F30 NS051971/NS/NINDS NIH HHS/United States
+K08 NS050304/NS/NINDS NIH HHS/United States
+R01 NS049442/NS/NINDS NIH HHS/United States
+UO1 AG032225/AG/NIA NIH HHS/United States
+NS049442/NS/NINDS NIH HHS/United States
+U01 AG032225/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+2013/04/03
+Neurobiol Aging. 2013 Aug;34(8):2052-63. doi: 10.1016/j.neurobiolaging.2013.02.015. Epub 2013 Mar 29.
+PY  - 2013
+SN  - 0197-4580 (Print)
+0197-4580
+SP  - 2052-63
+ST  - Small molecule p75NTR ligand prevents cognitive deficits and neurite degeneration in an Alzheimer's mouse model
+T2  - Neurobiol Aging
+TI  - Small molecule p75NTR ligand prevents cognitive deficits and neurite degeneration in an Alzheimer's mouse model
+VL  - 34
+ID  - 51005
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) is an age-related, progressive neurodegenerative disorder that occurs gradually and results in memory, behavior, and personality changes. Abnormal sphingolipid metabolism was reported in AD previously. This study aimed to investigate whether sphK1 could exacerbate the accumulation of amyloid protein (Aβ) and sharpen the learning and memory ability of the animal model of AD using siRNA interference. An adenovirus vector expressing small interfering RNA (siRNA) against the sphK1 gene (sphK1-siRNA) was designed, and the effects of sphK1-siRNA on the APP/PS1 mouse four weeks after treatment with sphK1-siRNA hippocampal injection were examined. SphK1 protein expression was confirmed by using Western blotting and ceramide content coupled with S1P secretion was evaluated by enzyme-linked immunosorbent assay (ELISA). Aβ load was detected by immunohistochemical staining and ELISA. Morris water maze was adopted to test the learning and memory ability of the APP/PS1 mice. A significant difference in the expression of sphK1 protein and mRNA was observed between the siRNA group and the control group. Aβ load in transfected mice was accelerated in vivo, with significant aggravation of the learning and memory ability. The sphK1 gene modulation in the Aβ load and the learning and memory ability in the animal model of AD may be important for the treatment of AD.
+AD  - Department of Neurology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China.
+Department of Neurology, Shandong Qianfoshan Hospital, Jinan, 250014, China.
+Department of Osteology, Shandong Qianfoshan Hospital, Jinan, 250014, China.
+Department of Neurology, Zhongshan Hospital, Xiamen University, Xiamen, 361004, China.
+Department of Neurology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China. gangli2008@mail.hust.edu.cn.
+AN  - 23771672
+AU  - Zhang, Y.
+AU  - Yu, Q.
+AU  - Lai, T. B.
+AU  - Yang, Y.
+AU  - Li, G.
+AU  - Sun, S. G.
+DA  - Jun
+DO  - 10.1007/s11596-013-1136-5
+DP  - NLM
+ET  - 20130617
+IS  - 3
+KW  - Alzheimer Disease/diagnosis/*physiopathology/*therapy
+Animals
+*Disease Models, Animal
+Gene Silencing
+Genetic Therapy/*methods
+Learning Disabilities/diagnosis/physiopathology/*therapy
+Mice
+Mice, Transgenic
+Microinjections
+Phosphotransferases (Alcohol Group Acceptor)/*genetics
+RNA, Small Interfering/administration & dosage/*genetics/therapeutic use
+Treatment Outcome
+LA  - eng
+N1  - Zhang, Yuan
+Yu, Qian
+Lai, Tian-Bao
+Yang, Yang
+Li, Gang
+Sun, Sheng-Gang
+Journal Article
+Research Support, Non-U.S. Gov't
+China
+2013/06/19
+J Huazhong Univ Sci Technolog Med Sci. 2013 Jun;33(3):427-432. doi: 10.1007/s11596-013-1136-5. Epub 2013 Jun 17.
+PY  - 2013
+SN  - 1672-0733 (Print)
+1672-0733
+SP  - 427-432
+ST  - Effects of small interfering RNA targeting sphingosine kinase-1 gene on the animal model of Alzheimer's disease
+T2  - J Huazhong Univ Sci Technolog Med Sci
+TI  - Effects of small interfering RNA targeting sphingosine kinase-1 gene on the animal model of Alzheimer's disease
+VL  - 33
+ID  - 51036
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer disease is the most common neurodegenerative disease and the major cause of dementia. In addition to β-amyloid aggregation and hyperphosphorylated tau, neuroinflammation also plays important roles in the pathophysiology of this multifactorial disorder. Histone deacetylase catalyzes deacetylation of histones and has important roles in the regulation of gene expression. Histone deacetylase inhibitors have been reported to exhibit neuroprotective and anti-neuroinflammatory activities and have therapeutic effects in several animal models of neurodegenerative diseases. Here, an efficient benzamide histone deacetylase inhibitor, MS-275, was orally administered by gavage to transgenic APP/PS1 mice, an animal model of cerebral amyloidosis for Alzheimer disease. After 10 days of treatment, MS-275 significantly ameliorated microglial activation and β-amyloid deposition in cerebral cortex and/or hippocampus. This was associated with improved nesting behavior, an important affiliative/social behavior. MS-275 also attenuated inflammatory activation of a mouse macrophage cell line in vitro. These results suggest that MS-275 may be a therapeutic option for Alzheimer disease and other neuroinflammatory diseases.
+AD  - Division of Immunopathology of the Nervous System, Institute of Pathology and Neuropathology, University of Tübingen, Tübingen, Germany. zhiyuan.zhang@medizin.uni-tuebingen.de
+AN  - 23399896
+AU  - Zhang, Z. Y.
+AU  - Schluesener, H. J.
+DA  - Mar
+DO  - 10.1097/NEN.0b013e318283114a
+DP  - NLM
+IS  - 3
+KW  - Administration, Oral
+Alzheimer Disease/metabolism/pathology
+Amyloidosis/metabolism/*pathology
+Animals
+Behavior, Animal/*drug effects
+Benzamides/*administration & dosage
+Brain/*drug effects/pathology
+Disease Models, Animal
+Histone Deacetylase Inhibitors/*administration & dosage
+Immunohistochemistry
+Inflammation/metabolism/pathology
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Pyridines/*administration & dosage
+LA  - eng
+N1  - 1554-6578
+Zhang, Zhi-Yuan
+Schluesener, Hermann J
+Journal Article
+England
+2013/02/13
+J Neuropathol Exp Neurol. 2013 Mar;72(3):178-85. doi: 10.1097/NEN.0b013e318283114a.
+PY  - 2013
+SN  - 0022-3069
+SP  - 178-85
+ST  - Oral administration of histone deacetylase inhibitor MS-275 ameliorates neuroinflammation and cerebral amyloidosis and improves behavior in a mouse model
+T2  - J Neuropathol Exp Neurol
+TI  - Oral administration of histone deacetylase inhibitor MS-275 ameliorates neuroinflammation and cerebral amyloidosis and improves behavior in a mouse model
+VL  - 72
+ID  - 51022
+ER  - 
+
+TY  - JOUR
+AB  - Oxytocin (OT) is a neuropeptide involved in mammalian social behavior. It is currently in clinical trials for the treatment of autism spectrum disorder (ASD). Previous studies in healthy rodents (prairie voles and C57BL/6J mice) have shown that there may be detrimental effects of long-term intranasal administration, raising the questions about safety and efficacy. To investigate the effects of OT on the aspects of ASD phenotype, we conducted the first study of chronic intranasal OT in a well-validated mouse model of autism, the BTBR T+ Itpr3tf/J inbred strain (BTBR), which displays low sociability and high repetitive behaviors. BTBR and C57BL/6J (B6) mice (N=94) were administered 0.8  IU/kg of OT intranasally, daily for 30 days, starting on day 21. We ran a well-characterized set of behavioral tasks relevant to diagnostic and associated symptoms of autism, including juvenile reciprocal social interactions, three-chambered social approach, open-field exploratory activity, repetitive self-grooming and fear-conditioned learning and memory, some during and some post treatment. Intranasal OT did not improve autism-relevant behaviors in BTBR, except for female sniffing in the three-chambered social interaction test. Male saline-treated BTBR mice showed increased interest in a novel mouse, both in chamber time and sniffing time, whereas OT-treated male BTBR mice showed a preference for the novel mouse in sniffing time only. No deleterious effects of OT were detected in either B6 or BTBR mice, except possibly for the lack of a preference for the novel mouse's chamber in OT-treated male BTBR mice. These results highlight the complexity inherent in understanding the effects of OT on behavior. Future investigations of chronic intranasal OT should include a wider dose range and early developmental time points in both healthy rodents and ASD models to affirm the efficacy and safety of OT.
+AD  - 1] Department of Psychology, University of California, Davis, Davis, CA, USA [2] California National Primate Research Center, University of California, Davis, Davis, CA, USA.
+MIND Institute and Department of Psychiatry and Behavioral Sciences, University of California, Davis, Davis, CA, USA.
+Department of Psychiatry and Pediatrics, University of Minnesota, Minneapolis, MN, USA.
+AN  - 25386957
+AU  - Bales, K. L.
+AU  - Solomon, M.
+AU  - Jacob, S.
+AU  - Crawley, J. N.
+AU  - Silverman, J. L.
+AU  - Larke, R. H.
+AU  - Sahagun, E.
+AU  - Puhger, K. R.
+AU  - Pride, M. C.
+AU  - Mendoza, S. P.
+C2  - PMC4259989
+DA  - Nov 11
+DO  - 10.1038/tp.2014.117
+DP  - NLM
+ET  - 20141111
+IS  - 11
+KW  - Administration, Intranasal
+Animals
+Autistic Disorder/*drug therapy
+Behavior, Animal/*drug effects
+Disease Models, Animal
+Female
+Interpersonal Relations
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Inbred Strains
+Oxytocin/administration & dosage/*pharmacology
+Sex Factors
+*Social Behavior
+LA  - eng
+N1  - 2158-3188
+Bales, K L
+Solomon, M
+Jacob, S
+Crawley, J N
+Silverman, J L
+Larke, R H
+Sahagun, E
+Puhger, K R
+Pride, M C
+Mendoza, S P
+P51 OD011107/OD/NIH HHS/United States
+OD P51OD01107/OD/NIH HHS/United States
+U54 HD079125/HD/NICHD NIH HHS/United States
+R01 HD071998/HD/NICHD NIH HHS/United States
+HD079125-01/HD/NICHD NIH HHS/United States
+HD071998/HD/NICHD NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+United States
+2014/11/12
+Transl Psychiatry. 2014 Nov 11;4(11):e480. doi: 10.1038/tp.2014.117.
+PY  - 2014
+SN  - 2158-3188
+SP  - e480
+ST  - Long-term exposure to intranasal oxytocin in a mouse autism model
+T2  - Transl Psychiatry
+TI  - Long-term exposure to intranasal oxytocin in a mouse autism model
+VL  - 4
+ID  - 51009
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) involves several possible molecular mechanisms, including impaired brain insulin signaling and glucose metabolism. To investigate the role of metabolic insults in AD, we injected streptozotocin (STZ), a diabetogenic compound if used in the periphery, into the lateral ventricle of the 6-month-old 3xTg-AD mice and studied the cognitive function as well as AD-like brain abnormalities, such as tau phosphorylation and Aβ accumulation, 3-6 weeks later. We found that STZ exacerbated impairment of short-term and spatial reference memory in 3xTg-AD mice. We also observed an increase in tau hyperphosphorylation and neuroinflammation, a disturbance of brain insulin signaling, and a decrease in synaptic plasticity and amyloid β peptides in the brain after STZ treatment. The expression of 20 AD-related genes, including those involved in the processing of amyloid precursor protein, cytoskeleton, glucose metabolism, insulin signaling, synaptic function, protein kinases, and apoptosis, was altered, suggesting that STZ disturbs multiple metabolic and cell signaling pathways in the brain. These findings provide experimental evidence of the role of metabolic insult in AD.
+AD  - Department of Neurochemistry, Inge Grundke-Iqbal Research Floor, New York State Institute for Basic Research in Developmental Disabilities, 1050 Forest Hill Road, Staten Island, NY, 10314-6399, USA.
+AN  - 23996345
+AU  - Chen, Y.
+AU  - Liang, Z.
+AU  - Tian, Z.
+AU  - Blanchard, J.
+AU  - Dai, C. L.
+AU  - Chalbot, S.
+AU  - Iqbal, K.
+AU  - Liu, F.
+AU  - Gong, C. X.
+C2  - PMC3948211
+C6  - NIHMS520552
+DA  - Feb
+DO  - 10.1007/s12035-013-8539-y
+DP  - NLM
+ET  - 20130831
+IS  - 1
+KW  - Alzheimer Disease/*chemically induced/*genetics/pathology
+Animals
+Brain/*drug effects/pathology
+*Disease Models, Animal
+Female
+Injections, Intraventricular
+Maze Learning/drug effects/physiology
+Mice
+Mice, 129 Strain
+Mice, Inbred C57BL
+Mice, Transgenic
+Streptozocin/administration & dosage/*toxicity
+LA  - eng
+N1  - 1559-1182
+Chen, Yanxing
+Liang, Zhihou
+Tian, Zhu
+Blanchard, Julie
+Dai, Chun-Ling
+Chalbot, Sonia
+Iqbal, Khalid
+Liu, Fei
+Gong, Cheng-Xin
+R01 AG027429/AG/NIA NIH HHS/United States
+R03 TW008123/TW/FIC NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2013/09/03
+Mol Neurobiol. 2014 Feb;49(1):547-62. doi: 10.1007/s12035-013-8539-y. Epub 2013 Aug 31.
+PY  - 2014
+SN  - 0893-7648 (Print)
+0893-7648
+SP  - 547-62
+ST  - Intracerebroventricular streptozotocin exacerbates Alzheimer-like changes of 3xTg-AD mice
+T2  - Mol Neurobiol
+TI  - Intracerebroventricular streptozotocin exacerbates Alzheimer-like changes of 3xTg-AD mice
+VL  - 49
+ID  - 51012
+ER  - 
+
+TY  - JOUR
+AB  - Amyloid-β (Aβ)-induced mitochondrial dysfunction has been recognized as a prominent, early event in Alzheimer's disease (AD). Therefore, therapeutics targeted to improve mitochondrial function could be beneficial. Quercetin, a bioflavanoid, has been reported to have potent neuro-protective effects, but its preventive effects on Aβ-induced mitochondrial dysfunction and cognitive impairment have not been well characterised. Three-month-old APPswe/PS1dE9 transgenic mice were randomly assigned to a vehicle group, two quercetin (either 20 or 40 mg kg(-1) day(-1)) groups, or an Aricept (2 mg kg(-1) day(-1)) group. After 16 weeks of treatment, we observed beneficial effects of quercetin (40 mg kg(-1) day(-1)), including lessening learning and memory deficits, reducing scattered senile plaques, and ameliorating mitochondrial dysfunction, as evidenced by restoration of mitochondrial membrane potential, reactive oxygen species and ATP levels in mitochondria isolated from the hippocampus compared to control. Furthermore, the AMP-activated protein kinase (AMPK) activity significantly increased in the quercetin-treated (40 mg kg(-1) day(-1)) group. These findings suggest that a reduction in plaque burden and mitochondrial dysfunction through the activation of AMPK may be one of the mechanisms by which quercetin improves cognitive functioning in the APPswe/PS1dE9 transgenic mouse model of AD.
+AD  - Department of Pathogen Biology, Medical College, Henan University of Science and Technology, Building 6, Anhui Jianxi District, Luoyang, 471003, People's Republic of China, wdmzgadyx@163.com.
+AN  - 24893798
+AU  - Wang, D. M.
+AU  - Li, S. Q.
+AU  - Wu, W. L.
+AU  - Zhu, X. Y.
+AU  - Wang, Y.
+AU  - Yuan, H. Y.
+DA  - Aug
+DO  - 10.1007/s11064-014-1343-x
+DP  - NLM
+ET  - 20140604
+IS  - 8
+KW  - Alzheimer Disease/*drug therapy/metabolism/pathology
+Animals
+Antioxidants/administration & dosage
+Cognition Disorders/*drug therapy/metabolism/pathology
+*Disease Models, Animal
+Drug Administration Schedule
+Female
+Humans
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Mitochondria/*drug effects/physiology
+Quercetin/*administration & dosage
+Random Allocation
+Treatment Outcome
+LA  - eng
+N1  - 1573-6903
+Wang, Dong-Mei
+Li, San-Qiang
+Wu, Wen-Lan
+Zhu, Xiao-Ying
+Wang, Yong
+Yuan, Hong-Ying
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2014/06/05
+Neurochem Res. 2014 Aug;39(8):1533-43. doi: 10.1007/s11064-014-1343-x. Epub 2014 Jun 4.
+PY  - 2014
+SN  - 0364-3190
+SP  - 1533-43
+ST  - Effects of long-term treatment with quercetin on cognition and mitochondrial function in a mouse model of Alzheimer's disease
+T2  - Neurochem Res
+TI  - Effects of long-term treatment with quercetin on cognition and mitochondrial function in a mouse model of Alzheimer's disease
+VL  - 39
+ID  - 51015
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) is a highly prevalent disorder for which there are no effective therapies. Accumulation of amyloid β (Aβ) peptides in the brain is associated with impaired cognition and memory, pronounced inflammatory dysregulation, and subsequent amyloid plaque deposition. Thus, drugs that promote the clearance of Aβ peptides and resolution of inflammation may represent viable therapeutic approaches. Agonists of nuclear receptors LXR:RXR and PPAR:RXR act to ameliorate AD-related cognitive impairment and amyloid accumulation in murine models of AD. The use of an agonist to the nuclear receptor RXR, bexarotene, as monotherapy against AD, presents potential challenges due to the metabolic perturbations it induces in the periphery, most prominently hypertriglyceridemia. We report that the ω-3 fatty acid docosahexaenoic acid (DHA), in combination with bexarotene, enhances LXR:RXR target gene expression of Abca1 and ApoE, reduces soluble forms of Aβ, and abrogates release of pro-inflammatory cytokines and mediators both in vitro and in a mouse model of AD. Moreover, DHA abrogates bexarotene-induced hypertriglyceridemia in vivo. Importantly, dual therapy promotes reductions in AD pathology and resultant amelioration of cognitive deficits. While monotherapy with either bexarotene or DHA resulted in modest effects in vitro and in vivo, combined treatment with both agents produced a significant additive benefit on associated AD-related phenotypes, suggesting that targeted combinatorial agents may be beneficial over single agents alone in treating AD.
+AD  - Alzheimer Research Laboratory, Department of Neurosciences, School of Medicine, Case Western Reserve University, Cleveland, Ohio 44106 and.
+ReXceptor, Cleveland, Ohio 44106.
+Alzheimer Research Laboratory, Department of Neurosciences, School of Medicine, Case Western Reserve University, Cleveland, Ohio 44106 and gel2@case.edu.
+AN  - 26085639
+AU  - Casali, B. T.
+AU  - Corona, A. W.
+AU  - Mariani, M. M.
+AU  - Karlo, J. C.
+AU  - Ghosal, K.
+AU  - Landreth, G. E.
+C2  - PMC4469742
+DA  - Jun 17
+DO  - 10.1523/jneurosci.1000-15.2015
+DP  - NLM
+IS  - 24
+KW  - Alzheimer Disease/*drug therapy/metabolism/pathology
+Animals
+Bexarotene
+Brain/drug effects/metabolism/pathology
+Cells, Cultured
+*Disease Models, Animal
+Docosahexaenoic Acids/administration & dosage
+Drug Therapy, Combination
+Fatty Acids, Omega-3/*administration & dosage
+Female
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Receptors, Cytoplasmic and Nuclear/*agonists/metabolism
+Tetrahydronaphthalenes/*administration & dosage
+5xfad
+Abca1
+ApoE
+inflammation
+omega-3 fatty acids
+LA  - eng
+N1  - 1529-2401
+Casali, Brad T
+Corona, Angela W
+Mariani, Monica M
+Karlo, J Colleen
+Ghosal, Kaushik
+Landreth, Gary E
+R01 AG043522/AG/NIA NIH HHS/United States
+R41 AG048658/AG/NIA NIH HHS/United States
+RF1 AG050597/AG/NIA NIH HHS/United States
+R41-AG048658/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+United States
+2015/06/19
+J Neurosci. 2015 Jun 17;35(24):9173-81. doi: 10.1523/JNEUROSCI.1000-15.2015.
+PY  - 2015
+SN  - 0270-6474 (Print)
+0270-6474
+SP  - 9173-81
+ST  - Omega-3 Fatty Acids Augment the Actions of Nuclear Receptor Agonists in a Mouse Model of Alzheimer's Disease
+T2  - J Neurosci
+TI  - Omega-3 Fatty Acids Augment the Actions of Nuclear Receptor Agonists in a Mouse Model of Alzheimer's Disease
+VL  - 35
+ID  - 51019
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Mucopolysaccharidosis type II (MPS II, Hunter syndrome), is caused by a deficiency of iduronate-2-sulfatase (IDS). Despite the therapeutic effect of intravenous enzyme replacement therapy (ERT), the central nervous system (CNS) defects persist because the enzyme cannot cross the blood-brain barrier (BBB). There have been several trials of direct infusion to the cerebrospinal space showing promising results; however, this approach may have limitations in clinical situations such as CNS infection. The objective of this study was to improve the CNS defect with systemic high-dose ERT. METHODS: Systemic ERT was performed using three doses (1, 5, and 10 mg/kg weekly) of IDS for three different durations (1, 3, and 6 months) in IDS knock out (KO) mice of two age groups (2 months, 8 months). GAG measurement in tissues, brain pathology, and behavioral assessment were analyzed. RESULTS: Brain IDS activities increased in parallel with the concentrations of IDS injected. The glycosaminoglycan (GAG) level and histopathology in the brains of the young mice improved in a dose- and duration-dependent manner; however, those were not improved in the old mice, even at higher doses of IDS. The spontaneous alternation behavior was recovered in young KO mice treated with ≥ 5 mg/kg IDS; however, no significant improvement was observed in old KO mice. CONCLUSIONS: These results suggest that high-dose ERT given to mice of earlier ages may play a role in preventing GAG accumulation and preventing CNS damage in IDS KO mice. Therefore, ERT above the present standard dose, starting in early childhood, could be a promising treatment regimen for reducing neurological impairment in Hunter syndrome.
+AD  - Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University School of Medicine, 81 Irwon-ro, Gangnam-gu, Seoul, 135-710, Republic of Korea.
+Clinical Research Center, Samsung Biomedical Research Institute, Seoul, Republic of Korea.
+Department of Pediatrics, Pusan National University Hospital, Pusan National University School of Medicine, Busan, Republic of Korea.
+Department of Pediatrics, Myongji Hospital, Seonam Univeristy College of Medicine, Goyang, Republic of Korea.
+Department of Medical Genetics, Ajou University Hospital, Ajou University School of Medicine, Suwon, Republic of Korea.
+Department of Pediatrics, Dankook University College of Medicine, Cheil General Hospital & Woman's Health Care Center, Seoul, Republic of Korea.
+Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University School of Medicine, 81 Irwon-ro, Gangnam-gu, Seoul, 135-710, Republic of Korea. jindk@skku.edu.
+AN  - 26520066
+AU  - Cho, S. Y.
+AU  - Lee, J.
+AU  - Ko, A. R.
+AU  - Kwak, M. J.
+AU  - Kim, S.
+AU  - Sohn, Y. B.
+AU  - Park, S. W.
+AU  - Jin, D. K.
+C2  - PMC4628320
+DA  - Oct 31
+DO  - 10.1186/s13023-015-0356-0
+DP  - NLM
+ET  - 20151031
+KW  - Animals
+Central Nervous System Diseases/*drug therapy/enzymology/pathology
+*Disease Models, Animal
+Enzyme Replacement Therapy/*methods
+Enzyme Therapy/methods
+Glycosaminoglycans/metabolism
+Iduronate Sulfatase/*administration & dosage
+Male
+Mice
+Mice, 129 Strain
+Mice, Inbred C57BL
+Mice, Knockout
+Mucopolysaccharidosis II/*drug therapy/pathology
+LA  - eng
+N1  - 1750-1172
+Cho, Sung Yoon
+Lee, Jeehun
+Ko, Ah-Ra
+Kwak, Min Jung
+Kim, Sujin
+Sohn, Young Bae
+Park, Sung Won
+Jin, Dong-Kyu
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2015/11/02
+Orphanet J Rare Dis. 2015 Oct 31;10:141. doi: 10.1186/s13023-015-0356-0.
+PY  - 2015
+SN  - 1750-1172
+SP  - 141
+ST  - Effect of systemic high dose enzyme replacement therapy on the improvement of CNS defects in a mouse model of mucopolysaccharidosis type II
+T2  - Orphanet J Rare Dis
+TI  - Effect of systemic high dose enzyme replacement therapy on the improvement of CNS defects in a mouse model of mucopolysaccharidosis type II
+VL  - 10
+ID  - 51024
+ER  - 
+
+TY  - JOUR
+AB  - Several clinical trials have demonstrated the benefits of thienopyridine monotherapy in ischaemic stroke patients. Non-human primate models of ischaemic stroke have been used for various antithrombotic agents; however, to the best of our knowledge, there is no data on the effects of P2Y12 antagonists in models, such as the thrombotic middle cerebral artery occlusion (MCAO) monkey model. Accordingly, it remains unclear what level of inhibition of platelet aggregation (IPA) is required for optimal treatment of ischaemic stroke. In the present study, we investigated the effects of prasugrel, a third-generation thienopyridine antiplatelet drug, on platelet aggregation, thrombus formation and cerebral infarct volume in a non-human primate model. Daily oral administration of prasugrel resulted in significant and stable platelet inhibitory effects on Day 3, with IPA values ranging from 31% to 36% at 0.3mg/kg/day and from 44% to 50% at 1mg/kg/day. These IPA levels encompassed values observed in clinical trials of clopidogrel, and were thus selected for further study. In the thrombotic MCAO model, prasugrel increased MCA patency in a dose-dependent manner and significantly reduced ischaemic infarct volume by approximately 70% at 0.3mg/kg/day and 90% at 1mg/kg/day without increasing haemorrhagic infarction. Prasugrel also significantly reduced neurological deficit scores by 60% at 0.3mg/kg/day and 80% at 1mg/kg/day. In conclusion, prasugrel treatment resulted in effective reduction of ischaemic infarction and an associated improvement in neurological function without increasing haemorrhagic infarction. These data suggest that prasugrel monotherapy would be effective for the prevention of thrombotic stroke.
+AD  - Biological Research Laboratories, Daiichi Sankyo Co., Ltd., Tokyo, Japan.
+Lilly Research Laboratories, Eli Lilly and Company, Indianapolis, USA.
+Biological Research Laboratories, Daiichi Sankyo Co., Ltd., Tokyo, Japan. Electronic address: sugidachi.atsuhiro.r7@daiichisankyo.co.jp.
+AN  - 26388120
+AU  - Tomizawa, A.
+AU  - Ohno, K.
+AU  - Jakubowski, J. A.
+AU  - Mizuno, M.
+AU  - Sugidachi, A.
+DA  - Dec
+DO  - 10.1016/j.thromres.2015.09.013
+DP  - NLM
+ET  - 20150911
+IS  - 6
+KW  - Adenosine Diphosphate/chemistry
+Administration, Oral
+Animals
+Blood Pressure
+Disease Models, Animal
+Dose-Response Relationship, Drug
+Haplorhini
+Hemorrhage
+Infarction, Middle Cerebral Artery/*drug therapy
+Macaca fascicularis
+Male
+Myocardial Ischemia/*drug therapy
+Platelet Aggregation
+Platelet Aggregation Inhibitors/therapeutic use
+Prasugrel Hydrochloride/*therapeutic use
+Purinergic P2Y Receptor Antagonists/therapeutic use
+Receptors, Purinergic P2Y12/chemistry
+Stroke/physiopathology/prevention & control
+Thrombosis/drug therapy
+Time Factors
+Ischemic stroke
+Non-human primate
+P2Y(12) antagonist
+Platelet
+Prasugrel
+LA  - eng
+N1  - 1879-2472
+Tomizawa, Atsuyuki
+Ohno, Kousaku
+Jakubowski, Joseph A
+Mizuno, Makoto
+Sugidachi, Atsuhiro
+Journal Article
+United States
+2015/09/22
+Thromb Res. 2015 Dec;136(6):1224-30. doi: 10.1016/j.thromres.2015.09.013. Epub 2015 Sep 11.
+PY  - 2015
+SN  - 0049-3848
+SP  - 1224-30
+ST  - Prasugrel reduces ischaemic infarct volume and ameliorates neurological deficits in a non-human primate model of middle cerebral artery thrombosis
+T2  - Thromb Res
+TI  - Prasugrel reduces ischaemic infarct volume and ameliorates neurological deficits in a non-human primate model of middle cerebral artery thrombosis
+VL  - 136
+ID  - 51020
+ER  - 
+
+TY  - JOUR
+AB  - Reducing amyloid-β (Aβ) accumulation is a promising strategy for developing Alzheimer's Disease (AD) therapeutics. We recently reported that a triphenylmethane food dye analog, Brilliant Blue G (BBG), is a dose-dependent modulator of in vitro amyloid-β aggregation and cytotoxicity in cell-based assays. Following up on this recent work, we sought to further evaluate this novel modulator in a therapeutically-relevant AD transgenic mouse model. BBG was orally administered to APPSwDI/NOS2-/- mice for three months in order to assess its biocompatibility, its permeability across the blood-brain barrier, and its efficacy at rescuing AD pathology. The results showed that BBG was well-tolerated, caused no significant weight change/unusual behavior, and was able to significantly cross the AD blood-brain barrier in APPSwDI/NOS2-/- mice. Immunohistochemical and electron microscopic analysis of the brain sections revealed that BBG was able to significantly prevent neuronal loss and reduce intracellular APP/Aβ in hippocampal neurons. This is the first report of 1) the effect of Brilliant Blue G on neuronal loss in a transgenic animal model of AD, 2) oral administration of BBG to affect a protein conformation/aggregation disease, and 3) electron microscopic ultrastructural analysis of AD pathology in APPSwDI/NOS2-/- mice.
+AD  - 102 Gilmer Hall, PO Box 400400, Department of Psychology, University of Virginia, Charlottesville, Virginia 22904, USA. erisir@virginia.edu.
+School of Materials Science and Engineering, Gwangju Institute of Science and Technology, 123 Cheomdan-gwagiro, Buk-gu, Gwangju 61005, Republic of Korea. inchan@gist.ac.kr.
+AN  - 26852943
+AU  - Irwin, J. A.
+AU  - Erisir, A.
+AU  - Kwon, I.
+C2  - PMC5441128
+DO  - 10.2174/15672050136661602081424568
+DP  - NLM
+IS  - 6
+KW  - Administration, Oral
+Alzheimer Disease/drug therapy/pathology/physiopathology
+Amyloid beta-Peptides/metabolism
+Animals
+Blood-Brain Barrier/drug effects/metabolism
+Brain/*drug effects/pathology/physiopathology
+Cell Death/drug effects/physiology
+Disease Models, Animal
+Drug Evaluation, Preclinical
+Female
+Mice, Inbred C57BL
+Mice, Transgenic
+Neurons/*drug effects/pathology/physiology
+Neuroprotective Agents/*administration & dosage
+Random Allocation
+Rosaniline Dyes/*administration & dosage
+LA  - eng
+N1  - 1875-5828
+Irwin, Jacob A
+Erisir, Alev
+Kwon, Inchan
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+United Arab Emirates
+2016/02/09
+Curr Alzheimer Res. 2016;13(6):663-77. doi: 10.2174/15672050136661602081424568.
+PY  - 2016
+SN  - 1567-2050 (Print)
+1567-2050
+SP  - 663-77
+ST  - Oral Triphenylmethane Food Dye Analog, Brilliant Blue G, Prevents Neuronal Loss in APPSwDI/NOS2-/- Mouse Model
+T2  - Curr Alzheimer Res
+TI  - Oral Triphenylmethane Food Dye Analog, Brilliant Blue G, Prevents Neuronal Loss in APPSwDI/NOS2-/- Mouse Model
+VL  - 13
+ID  - 51006
+ER  - 
+
+TY  - JOUR
+AB  - Prion diseases are fatal, progressive, neurodegenerative diseases caused by prion accumulation in the brain and lymphoreticular system. Here we report that a single subcutaneous injection of cellulose ethers (CEs), which are commonly used as inactive ingredients in foods and pharmaceuticals, markedly prolonged the lives of mice and hamsters intracerebrally or intraperitoneally infected with the 263K hamster prion. CEs provided sustained protection even when a single injection was given as long as one year before infection. These effects were linked with persistent residues of CEs in various tissues. More effective CEs had less macrophage uptake ratios and hydrophobic modification of CEs abolished the effectiveness. CEs were significantly effective in other prion disease animal models; however, the effects were less remarkable than those observed in the 263K prion-infected animals. The genetic background of the animal model was suggested to influence the effects of CEs. CEs did not modify prion protein expression but inhibited abnormal prion protein formation in vitro and in prion-infected cells. Although the mechanism of CEs in vivo remains to be solved, these findings suggest that they aid in elucidating disease susceptibility and preventing prion diseases.
+AD  - Department of Neurochemistry, Tohoku University Graduate School of Medicine, Sendai, Miyagi, Japan.
+Division of Forest and Biomaterials Science, Graduate School of Agriculture, Kyoto University, Sakyo-ku, Kyoto, Japan.
+AN  - 27973536
+AU  - Teruya, K.
+AU  - Oguma, A.
+AU  - Nishizawa, K.
+AU  - Kawata, M.
+AU  - Sakasegawa, Y.
+AU  - Kamitakahara, H.
+AU  - Doh-Ura, K.
+C1  - I have read the journal's policy and the authors of this manuscript have the following competing interests: Itoham Foods Inc. and Tohoku University hold a patent (WO2007123187 A1) on medicinal chemicals associated with cellulose ethers, and KD is the inventor of the patent.
+C2  - PMC5156379
+DA  - Dec
+DO  - 10.1371/journal.ppat.1006045
+DP  - NLM
+ET  - 20161214
+IS  - 12
+KW  - Animals
+Cellulose/pharmacology
+Cricetinae
+Disease Models, Animal
+Ethers/pharmacology
+Hypromellose Derivatives/*pharmacology
+Injections, Subcutaneous
+Male
+Mesocricetus
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Prion Diseases/*pathology
+LA  - eng
+N1  - 1553-7374
+Teruya, Kenta
+Orcid: 0000-0002-0500-986x
+Oguma, Ayumi
+Nishizawa, Keiko
+Kawata, Maki
+Sakasegawa, Yuji
+Kamitakahara, Hiroshi
+Orcid: 0000-0002-0130-1919
+Doh-Ura, Katsumi
+Journal Article
+United States
+2016/12/16
+PLoS Pathog. 2016 Dec 14;12(12):e1006045. doi: 10.1371/journal.ppat.1006045. eCollection 2016 Dec.
+PY  - 2016
+SN  - 1553-7366 (Print)
+1553-7366
+SP  - e1006045
+ST  - A Single Subcutaneous Injection of Cellulose Ethers Administered Long before Infection Confers Sustained Protection against Prion Diseases in Rodents
+T2  - PLoS Pathog
+TI  - A Single Subcutaneous Injection of Cellulose Ethers Administered Long before Infection Confers Sustained Protection against Prion Diseases in Rodents
+VL  - 12
+ID  - 51018
+ER  - 
+
+TY  - JOUR
+AB  - Synapse impairment in the Alzheimer's disease (AD) brain is an early event leading to cognitive dysfunction. Most oxidative stress localizes to the synapse, and synapse loss is the basis of cognitive decline in AD. Dl-3-n-butylphthalide (Dl-NBP), a small molecule compound has been shown to ameliorate oxidative stress. We evaluated the effects of a 5-month oral delivery with Dl-NBP on oxidative stress and cognitive function in APP/PS1 transgenic mice. Dl-NBP treatment reduced oxidative stress in the APP/PS1 mouse brain and alleviated learning and memory deficits. Dl-NBP supplementation meliorated synaptic plasticity, diminished soluble amyloid beta and amyloid beta oligomer in the APP/PS1 mouse brain. Dl-NBP administration caused an increase of cyclic adenosine monophosphate-response element binding protein (CREB)-binding protein (CBP)-associated Ser133-phosphorylated CREB (p-CREB) protein. Chromatin immunoprecipitation analysis revealed that Dl-NBP increased the recruitment of CBP to the promoters of best-characterized genes downstream of nuclear factor erythroid 2-related factor 2, nicotinamide adenine dinucleotide phosphate (NADPH) quinone oxidoreductase 1, and γ-glutamylcysteine synthetase modifier subunit. We demonstrate that the Dl-NBP-triggered upregulation of antioxidant defenses is involved in the enhancement of cross talk between CREB and nuclear factor erythroid 2-related factor 2 via CBP. Our results suggest that Dl-NBP may be a useful agent for the treatment of AD.
+AD  - Medical Research Laboratory, Jilin Medical University, Jilin, China; College of Life and Health Sciences, Northeastern University, Shenyang, China; Department of Surgery, Jilin Medical University, Jilin, China.
+College of Life and Health Sciences, Northeastern University, Shenyang, China.
+Department of Pathophysiology, China Medical University, Shenyang, China.
+Department of Histology and Embryology, Liaoning University of Traditional Chinese Medicine, Shenyang, China.
+Medical Research Laboratory, Jilin Medical University, Jilin, China. Electronic address: xuye_9707@163.com.
+Department of Surgery, Jilin Medical University, Jilin, China. Electronic address: jlmpc.cjh@163.com.
+AN  - 26827641
+AU  - Wang, C. Y.
+AU  - Wang, Z. Y.
+AU  - Xie, J. W.
+AU  - Wang, T.
+AU  - Wang, X.
+AU  - Xu, Y.
+AU  - Cai, J. H.
+DA  - Feb
+DO  - 10.1016/j.neurobiolaging.2015.10.024
+DP  - NLM
+ET  - 20151102
+KW  - Administration, Oral
+Alzheimer Disease/drug therapy/*genetics/psychology
+Amyloid beta-Peptides/metabolism
+Animals
+Antioxidants/administration & dosage/*pharmacology
+Benzofurans/administration & dosage/*pharmacology
+Brain/metabolism
+Cognition/drug effects
+Cyclic AMP Response Element-Binding Protein/*metabolism
+Disease Models, Animal
+Male
+Mice, Inbred C57BL
+Mice, Transgenic
+NF-E2-Related Factor 2/*metabolism
+Neuronal Plasticity/drug effects
+Oxidative Stress/*drug effects
+Up-Regulation/*drug effects
+Alzheimer's disease
+Creb
+Cognitive dysfunction
+Dl-NBP
+Nrf2
+Oxidative stress
+LA  - eng
+N1  - 1558-1497
+Wang, Chun-Yan
+Wang, Zhan-You
+Xie, Jing-Wei
+Wang, Tao
+Wang, Xu
+Xu, Ye
+Cai, Jian-Hui
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2016/02/02
+Neurobiol Aging. 2016 Feb;38:32-46. doi: 10.1016/j.neurobiolaging.2015.10.024. Epub 2015 Nov 2.
+PY  - 2016
+SN  - 0197-4580
+SP  - 32-46
+ST  - Dl-3-n-butylphthalide-induced upregulation of antioxidant defense is involved in the enhancement of cross talk between CREB and Nrf2 in an Alzheimer's disease mouse model
+T2  - Neurobiol Aging
+TI  - Dl-3-n-butylphthalide-induced upregulation of antioxidant defense is involved in the enhancement of cross talk between CREB and Nrf2 in an Alzheimer's disease mouse model
+VL  - 38
+ID  - 51016
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE:  The aim of this study was to evaluate the effect of orexin-A (OX-A) and the orexin-1 receptor antagonist SB-334867 (SB) on motor and cognitive functions in a rat model of Parkinson's disease. METHODS: Parkinson was induced by intracerebroventricular (i.c.v) injection of 6- hydroxydopamine (6-OHDA) (200 μg/rat). 72 h later, the treatment was initiated by i.c.v administration of SB (30 nmol/rat) and/or OX-A (0.3 nmol/rat) for 10 days. Motor functions were monitored using rotarod and hanging tests. Cognitive function was assessed by passive avoidance test (Shuttle box). Results: OX-A administration in 6-OHDA treated rats remarkably increased the time which animals run on rod (in rotarod test) and also the latency to fall (in hanging test) (P < 0.01 and P < 0.001, respectively). Conversely, administration of SB in 6-OHDA-treated rats decreased the mentioned indices (P < 0.05 for latency to fall). Administration of agonist and/or antagonist of orexin-1 receptors had no significant effect on 6-OHDA induced cognitive impairment in rats. CONCLUSION:  Results of this study suggest that the orexinergic system might be involved in sensory-motor deficits of Parkinson's disease.
+AD  - a Physiology-Pharmacology Research Center , Rafsanjan University of Medical Sciences , Rafsanjan , Iran.
+b Department of Physiology and Pharmacology, School of Medicine , Rafsanjan University of Medical Sciences , Rafsanjan , Iran.
+AN  - 28701075
+AU  - Hadadianpour, Z.
+AU  - Fatehi, F.
+AU  - Ayoobi, F.
+AU  - Kaeidi, A.
+AU  - Shamsizadeh, A.
+AU  - Fatemi, I.
+DA  - Sep
+DO  - 10.1080/01616412.2017.1352185
+DP  - NLM
+ET  - 20170712
+IS  - 9
+KW  - Animals
+Avoidance Learning/drug effects
+Cognition Disorders/*drug therapy/*etiology
+Disease Models, Animal
+Male
+Microinjections
+Motor Activity/*drug effects
+Muscle Strength/drug effects
+Orexins/pharmacology/*therapeutic use
+Oxidopamine/toxicity
+Parkinson Disease/*complications/etiology
+Rats
+Rats, Wistar
+Rotarod Performance Test
+Statistics, Nonparametric
+6- hydroxydopamine
+Parkinson’s disease
+Sb.334867
+orexin-a
+rat
+LA  - eng
+N1  - 1743-1328
+Hadadianpour, Zahra
+Orcid: 0000-0003-4885-2256
+Fatehi, Farangis
+Ayoobi, Fateme
+Kaeidi, Ayat
+Shamsizadeh, Ali
+Fatemi, Iman
+Orcid: 0000-0002-9666-9651
+Journal Article
+England
+2017/07/14
+Neurol Res. 2017 Sep;39(9):845-851. doi: 10.1080/01616412.2017.1352185. Epub 2017 Jul 12.
+PY  - 2017
+SN  - 0161-6412
+SP  - 845-851
+ST  - The effect of orexin-A on motor and cognitive functions in a rat model of Parkinson's disease
+T2  - Neurol Res
+TI  - The effect of orexin-A on motor and cognitive functions in a rat model of Parkinson's disease
+VL  - 39
+ID  - 50991
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The acetylcholinesterase inhibitor (AChEI) donepezil (DON) is recommended as a potential treatment for cognition after clinical traumatic brain injury (TBI) and therefore may be prescribed as an adjunct therapy during rehabilitation. However, a dose-response study evaluating DON after a controlled cortical impact (CCI) injury in rats did not reveal cognitive benefits. OBJECTIVE: The aim of this study was to determine the effect of DON on behavioral and histological outcome when combined with environmental enrichment (EE), a preclinical model of neurorehabilitation. It was hypothesized that the combined treatments would produce a synergistic effect yielding improved recovery over neurorehabilitation alone. METHODS: Isoflurane-anesthetized adult male rats received a CCI or sham injury and then were randomly assigned to EE or standard (STD) housing plus systemic injections of DON (0.25 mg/kg) or vehicle (VEH; 1.0 mL/kg saline) once daily for 19 days beginning 24 hr after injury. Function was assessed by established motor and cognitive tests on post-injury days 1-5 and 14-19, respectively. Cortical lesion volume was quantified on day 19. RESULTS: DON was ineffective when administered alone. In contrast, EE conferred significant motor and cognitive benefits, and reduced cortical lesion volume vs. STD (p < 0.05). Combining the therapies weakened the efficacy of rehabilitation as revealed by diminished motor and cognitive recovery in the TBI+EE+DON group vs. the TBI+EE+VEH group (p < 0.05). CONCLUSION: These data replicate previous findings showing that EE is beneficial and DON is ineffective after CCI and add to the literature a novel and unpredicted finding that supports neither the hypothesis nor the use of DON for TBI. Investigation of other AChEIs after CCI injury is necessary to gain further insight into the value of this therapeutic strategy.
+AD  - Physical Medicine and Rehabilitation, University of Pittsburgh, Pittsburgh, PA, USA.
+Safar Center for Resuscitation Research, University of Pittsburgh, Pittsburgh, PA, USA.
+Neurobiology, University of Pittsburgh, Pittsburgh, PA, USA.
+Center for Neuroscience, University of Pittsburgh, Pittsburgh, PA, USA.
+Center for the Neural Basis of Cognition, University of Pittsburgh, Pittsburgh, PA, USA.
+Critical Care Medicine, University of Pittsburgh, Pittsburgh, PA, USA.
+Psychology, University of Pittsburgh, Pittsburgh, PA, USA.
+AN  - 29439368
+AU  - Bondi, C. O.
+AU  - Yelleswarapu, N. K.
+AU  - Day-Cooney, J.
+AU  - Memarzadeh, K.
+AU  - Folweiler, K. A.
+AU  - Bou-Abboud, C. E.
+AU  - Leary, J. B.
+AU  - Cheng, J. P.
+AU  - Tehranian-DePasquale, R.
+AU  - Kline, A. E.
+DO  - 10.3233/rnn-170781
+DP  - NLM
+IS  - 1
+KW  - Analysis of Variance
+Animals
+Brain Injuries, Traumatic/*complications
+Cerebral Cortex/metabolism/pathology
+*Cognition Disorders/drug therapy/etiology/rehabilitation
+Disease Models, Animal
+Donepezil
+*Environment
+Indans/*therapeutic use
+Male
+Maze Learning/physiology
+*Mental Disorders/drug therapy/etiology/rehabilitation
+Motor Activity/drug effects
+Neurologic Examination
+Nootropic Agents/*therapeutic use
+Piperidines/*therapeutic use
+Psychomotor Performance/drug effects
+Rats
+Rats, Sprague-Dawley
+Rotarod Performance Test
+Time Factors
+Beam-walking
+Morris water maze
+behavior
+controlled cortical impact (CCI)
+functional recovery
+hippocampus
+learning and memory
+traumatic brain injury
+LA  - eng
+N1  - 1878-3627
+Bondi, Corina O
+Yelleswarapu, Narayana K
+Day-Cooney, Julian
+Memarzadeh, Kimiya
+Folweiler, Kaitlin A
+Bou-Abboud, Carine E
+Leary, Jacob B
+Cheng, Jeffrey P
+Tehranian-DePasquale, Roya
+Kline, Anthony E
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Netherlands
+2018/02/15
+Restor Neurol Neurosci. 2018;36(1):45-57. doi: 10.3233/RNN-170781.
+PY  - 2018
+SN  - 0922-6028
+SP  - 45-57
+ST  - Systemic administration of donepezil attenuates the efficacy of environmental enrichment on neurobehavioral outcome after experimental traumatic brain injury
+T2  - Restor Neurol Neurosci
+TI  - Systemic administration of donepezil attenuates the efficacy of environmental enrichment on neurobehavioral outcome after experimental traumatic brain injury
+VL  - 36
+ID  - 50999
+ER  - 
+
+TY  - JOUR
+AB  - Peroxisome proliferator-activated receptors are regulators of inflammatory signaling. This has fostered hope that PPAR agonists might have neuroprotective potential. We hypothesized that PPARδ activation by the novel orally administered lipophilic PPARδ agonist SAR145 may improve short- and long-term outcome after focal brain ischemia. We induced ischemia by transient filamentous middle cerebral artery occlusion (MCAo) in 227 C57BL/6 mice and administered SAR145 in varying doses and time windows post-injury. Outcome was assessed by three functional tests and histologically determining ischemic lesion sizes. In a second experiment, we tested SAR145 treatment in 40 PPARδ-knockout mice using the same procedures. Three independent groups treated with 10 mg/kg bodyweight SAR145 directly after filament removal showed a mean reduction in lesion sizes of 18 ± 10% compared to vehicle-treated groups. We did not observe a consistent improvement in the long-term functional outcome by SAR145-treatment. PPARδ-knockout mice showed a significantly higher mortality after MCAo. As expected, we did not find a reduction of lesion size by SAR145-treatment in PPARδ-knockout mice. In summary, we found no evidence of a long-term neuroprotective effect of post-injury SAR145 treatment in cerebral ischemia. However, PPARδ appears to play a pathophysiologic role in acute infarct development and overall mortality after brain ischemia.
+AD  - 1 Department of Experimental Neurology, 68146 Charité - Universitätsmedizin Berlin , corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+2 Center for Stroke Research Berlin, 68146 Charité - Universitätsmedizin Berlin , corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+3 German Centre for Cardiovascular Research (DZHK), Berlin, Germany.
+4 German Center for Neurodegenerative Diseases (DZNE), Berlin, Germany.
+5 Berlin Institute of Health (BIH), Berlin, Germany.
+6 Division of Cardiology, 72217 Charité - Universitätsmedizin Berlin , corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
+7 Max-Delbrück Center for Molecular Medicine, Berlin, Germany.
+8 Department of Psychiatry, Psychotherapy and Psychosomatic Medicine, Ruppiner Kliniken, Brandenburg Medical School, Neuruppin, Germany.
+AN  - 29160120
+AU  - Knauss, S.
+AU  - Endres, M.
+AU  - Blaschke, F.
+AU  - Hindinger, C.
+AU  - Kunz, A.
+C2  - PMC5757448
+DA  - Jan
+DO  - 10.1177/0271678x17743876
+DP  - NLM
+ET  - 20171121
+IS  - 1
+KW  - Administration, Oral
+Animals
+Brain Ischemia/*pathology
+Disease Models, Animal
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Knockout
+Neuroprotective Agents/*pharmacology
+PPAR delta/*agonists
+Random Allocation
+Animal studies
+brain ischemia
+focal ischemia
+neuroprotection
+stroke
+LA  - eng
+N1  - 1559-7016
+Knauss, Samuel
+Orcid: 0000-0002-3046-9075
+Endres, Matthias
+Blaschke, Florian
+Hindinger, Claudia
+Kunz, Alexander
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2017/11/22
+J Cereb Blood Flow Metab. 2018 Jan;38(1):174-185. doi: 10.1177/0271678X17743876. Epub 2017 Nov 21.
+PY  - 2018
+SN  - 0271-678X (Print)
+0271-678x
+SP  - 174-185
+ST  - Oral administration of a novel lipophilic PPARδ agonist is not neuroprotective after rodent cerebral ischemia
+T2  - J Cereb Blood Flow Metab
+TI  - Oral administration of a novel lipophilic PPARδ agonist is not neuroprotective after rodent cerebral ischemia
+VL  - 38
+ID  - 51032
+ER  - 
+
+TY  - JOUR
+AB  - Neurotherapeutics for the treatment of central nervous system (CNS) disorders must overcome challenges relating to the blood-brain barrier (BBB), brain tissue penetration, and the targeting of specific cells. Neuroinflammation mediated by activated microglia is a major hallmark of several neurological disorders, making these cells a desirable therapeutic target. Building on the promise of hydroxyl-terminated generation four polyamidoamine (PAMAM) dendrimers (D4-OH) for penetrating the injured BBB and targeting activated glia, we explored if conjugation of targeting ligands would enhance and modify brain and organ uptake. Since mannose receptors [cluster of differentiation (CD) 206] are typically over-expressed on injured microglia, we conjugated mannose to the surface of multifunctional D4-OH using highly efficient, atom-economical, and orthogonal Cu(I)-catalyzed alkyne-azide cycloaddition (CuAAC) click chemistry and evaluated the effect of mannose conjugation on the specific cell uptake of targeted and non-targeted dendrimers both in vitro and in vivo. In vitro results indicate that the conjugation of mannose as a targeting ligand significantly changes the mechanism of dendrimer internalization, giving mannosylated dendrimer a preference for mannose receptor-mediated endocytosis as opposed to non-specific fluid phase endocytosis. We further investigated the brain uptake and biodistribution of targeted and non-targeted fluorescently labeled dendrimers in a maternal intrauterine inflammation-induced cerebral palsy (CP) rabbit model using quantification methods based on fluorescence spectroscopy and confocal microscopy. We found that the conjugation of mannose modified the distribution of D4-OH throughout the body in this neonatal rabbit CP model without lowering the amount of dendrimer delivered to injured glia in the brain, even though significantly higher glial uptake was not observed in this model. Mannose conjugation to the dendrimer modifies the dendrimer's interaction with cells, but does not minimize its inherent inflammation-targeting abilities.
+AD  - Center for Nanomedicine, Department of Ophthalmology, Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD 21231, USA.
+Center for Nanomedicine, Department of Ophthalmology, Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD 21231, USA; Department of Chemical and Biomolecular Engineering, Johns Hopkins University, Baltimore, MD 21218, USA.
+Center for Nanomedicine, Department of Ophthalmology, Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD 21231, USA; Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD 21287, USA.
+Center for Nanomedicine, Department of Ophthalmology, Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD 21231, USA; Department of Anesthesiology and Critical Care Medicine, Johns Hopkins University School of Medicine, Baltimore, MD 21287, USA; Hugo W. Moser Research Institute at Kennedy Krieger, Inc., Baltimore, MD 21205, USA; Kennedy Krieger Institute - Johns Hopkins University for Cerebral Palsy Research Excellence, Baltimore, MD 21218, USA.
+Center for Nanomedicine, Department of Ophthalmology, Wilmer Eye Institute, Johns Hopkins University School of Medicine, Baltimore, MD 21231, USA; Department of Chemical and Biomolecular Engineering, Johns Hopkins University, Baltimore, MD 21218, USA; Hugo W. Moser Research Institute at Kennedy Krieger, Inc., Baltimore, MD 21205, USA; Kennedy Krieger Institute - Johns Hopkins University for Cerebral Palsy Research Excellence, Baltimore, MD 21218, USA. Electronic address: krangar1@jhmi.edu.
+AN  - 29883694
+AU  - Sharma, A.
+AU  - Porterfield, J. E.
+AU  - Smith, E.
+AU  - Sharma, R.
+AU  - Kannan, S.
+AU  - Kannan, R. M.
+C2  - PMC6091673
+C6  - NIHMS974108
+DA  - Aug 10
+DO  - 10.1016/j.jconrel.2018.06.003
+DP  - NLM
+ET  - 20180605
+KW  - Animals
+Animals, Newborn
+Brain Injuries/metabolism
+Cerebral Palsy/*metabolism
+Dendrimers/*administration & dosage/pharmacokinetics
+Disease Models, Animal
+Female
+Mannose/*administration & dosage/pharmacokinetics
+Mice
+RAW 264.7 Cells
+Rabbits
+Tissue Distribution
+Activated glia
+Cd206
+Cerebral palsy
+Dendrimer
+Mannose receptors
+Nanoparticle
+Neuroinflammation
+Targeting
+LA  - eng
+N1  - 1873-4995
+Sharma, Anjali
+Porterfield, Joshua E
+Smith, Elizabeth
+Sharma, Rishi
+Kannan, Sujatha
+Kannan, Rangaramanujam M
+P30 EY001765/EY/NEI NIH HHS/United States
+R01 EB018306/EB/NIBIB NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Netherlands
+2018/06/09
+J Control Release. 2018 Aug 10;283:175-189. doi: 10.1016/j.jconrel.2018.06.003. Epub 2018 Jun 5.
+PY  - 2018
+SN  - 0168-3659 (Print)
+0168-3659
+SP  - 175-189
+ST  - Effect of mannose targeting of hydroxyl PAMAM dendrimers on cellular and organ biodistribution in a neonatal brain injury model
+T2  - J Control Release
+TI  - Effect of mannose targeting of hydroxyl PAMAM dendrimers on cellular and organ biodistribution in a neonatal brain injury model
+VL  - 283
+ID  - 51033
+ER  - 
+
+TY  - JOUR
+AB  - "Nutraceuticals" are well-tolerated natural dietary compounds with drug-like properties that make them attractive as Alzheimer's disease (AD) therapeutics. Combination therapy for AD has garnered attention following a recent National Institute on Aging mandate, but this approach has not yet been fully validated. In this report, we combined the two most promising nutraceuticals with complementary anti-amyloidogenic properties: the plant-derived phenolics (-)-epigallocatechin-3-gallate (EGCG, an α-secretase activator) and ferulic acid (FA, a β-secretase modulator). We used transgenic mice expressing mutant human amyloid β-protein precursor and presenilin 1 (APP/PS1) to model cerebral amyloidosis. At 12 months of age, we orally administered EGCG and/or FA (30 mg/kg each) or vehicle once daily for 3 months. At 15 months, combined EGCG-FA treatment reversed cognitive impairment in most tests of learning and memory, including novel object recognition and maze tasks. Moreover, EGCG- and FA-treated APP/PS1 mice exhibited amelioration of brain parenchymal and cerebral vascular β-amyloid deposits and decreased abundance of amyloid β-proteins compared with either EGCG or FA single treatment. Combined treatment elevated nonamyloidogenic soluble APP-α and α-secretase candidate and down-regulated amyloidogenic soluble APP-β, β-C-terminal APP fragment, and β-secretase protein expression, providing evidence for a shift toward nonamyloidogenic APP processing. Additional beneficial co-treatment effects included amelioration of neuroinflammation, oxidative stress, and synaptotoxicity. Our findings offer preclinical evidence that combined treatment with EGCG and FA is a promising AD therapeutic approach.
+AD  - From the Departments of Biomedical Sciences and t_mori@saitama-med.ac.jp.
+Pathology, Saitama Medical Center and University, Kawagoe, Saitama 350-8550, Japan.
+From the Departments of Biomedical Sciences and.
+the Rashid Laboratory for Developmental Neurobiology, Silver Child Development Center, Department of Psychiatry and Behavioral Neurosciences, Morsoni College of Medicine, University of South Florida, Tampa, Florida 33613.
+the Immuno-Biological Laboratories Co., Ltd., Fujioka, Gunma 375-0005, Japan, and.
+the Zilkha Neurogenetic Institute, Department of Physiology and Neuroscience, Keck School of Medicine, University of Southern California, Los Angeles, California 90089-2821 ttown@usc.edu.
+AN  - 30563837
+AU  - Mori, T.
+AU  - Koyama, N.
+AU  - Tan, J.
+AU  - Segawa, T.
+AU  - Maeda, M.
+AU  - Town, T.
+C1  - The authors declare that they have no conflicts of interest with the contents of this article
+C2  - PMC6393618
+DA  - Feb 22
+DO  - 10.1074/jbc.RA118.004280
+DP  - NLM
+ET  - 20181218
+IS  - 8
+KW  - Alzheimer Disease/*drug therapy/metabolism/pathology
+Amyloid beta-Protein Precursor/*physiology
+Animals
+Anti-Inflammatory Agents, Non-Steroidal/pharmacology
+Antioxidants/pharmacology
+Behavior, Animal
+Catechin/*analogs & derivatives/pharmacology
+Cognitive Dysfunction/*drug therapy/metabolism/pathology
+Coumaric Acids/*pharmacology
+*Disease Models, Animal
+Drug Therapy, Combination
+Humans
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Presenilin-1/*physiology
+Alzheimer disease
+flavonoid
+amyloid precursor protein (APP)
+amyloid-beta (AB)
+secretase
+transgenic mice
+neuroinflammation
+oxidative stress
+nonamyloidogenic
+phenol
+plant
+polyphenol
+LA  - eng
+N1  - 1083-351x
+Mori, Takashi
+Koyama, Naoki
+Tan, Jun
+Segawa, Tatsuya
+Maeda, Masahiro
+Town, Terrence
+RF1 AG053982/AG/NIA NIH HHS/United States
+P01 AG052350/AG/NIA NIH HHS/United States
+R21 AG055116/AG/NIA NIH HHS/United States
+R21 AG053884/AG/NIA NIH HHS/United States
+R01 AG050253/AG/NIA NIH HHS/United States
+R01 NS076794/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2018/12/20
+J Biol Chem. 2019 Feb 22;294(8):2714-2731. doi: 10.1074/jbc.RA118.004280. Epub 2018 Dec 18.
+PY  - 2019
+SN  - 0021-9258 (Print)
+0021-9258
+SP  - 2714-2731
+ST  - Combined treatment with the phenolics (-)-epigallocatechin-3-gallate and ferulic acid improves cognition and reduces Alzheimer-like pathology in mice
+T2  - J Biol Chem
+TI  - Combined treatment with the phenolics (-)-epigallocatechin-3-gallate and ferulic acid improves cognition and reduces Alzheimer-like pathology in mice
+VL  - 294
+ID  - 50993
+ER  - 
+
+TY  - JOUR
+AB  - Loss of bladder control is common after spinal cord injury (SCI) and no causal therapies are available. Here we investigated whether function-blocking antibodies against the nerve-fiber growth inhibitory protein Nogo-A applied to rats with severe SCI could prevent development of neurogenic lower urinary tract dysfunction. Bladder function of rats with SCI was repeatedly assessed by urodynamic examination in fully awake animals. Four weeks after SCI, detrusor sphincter dyssynergia had developed in all untreated or control antibody-infused animals. In contrast, 2 weeks of intrathecal anti-Nogo-A antibody treatment led to significantly reduced aberrant maximum detrusor pressure during voiding and a reduction of the abnormal EMG high-frequency activity in the external urethral sphincter. Anatomically, we found higher densities of fibers originating from the pontine micturition center in the lumbosacral gray matter in the anti-Nogo-A antibody-treated animals, as well as a reduced number of inhibitory interneurons in lamina X. These results suggest that anti-Nogo-A therapy could also have positive effects on bladder function clinically.SIGNIFICANCE STATEMENT After spinal cord injury, loss of bladder control is common. Detrusor sphincter dyssynergia is a potentially life-threatening consequence. Currently, only symptomatic treatment options are available. First causal treatment options are urgently needed in humans. In this work, we show that function-blocking antibodies against the nerve-fiber growth inhibitory protein Nogo-A applied to rats with severe spinal cord injury could prevent development of neurogenic lower urinary tract dysfunction, in particular detrusor sphincter dyssynergia. Anti-Nogo-A therapy has entered phase II clinical trial in humans and might therefore soon be the first causal treatment option for neurogenic lower urinary tract dysfunction.
+AD  - Brain Research Institute, University of Zürich, mpschneider@outlook.com.
+Department of Health Sciences and Technology, Eidgenössiche Technische Hochschule Zürich, 8057 Zürich, Switzerland, and.
+Department of Neuro-Urology, Balgrist University Hospital, University of Zürich, 8008 Zürich, Switzerland.
+Brain Research Institute, University of Zürich.
+AN  - 30902870
+AU  - Schneider, M. P.
+AU  - Sartori, A. M.
+AU  - Ineichen, B. V.
+AU  - Moors, S.
+AU  - Engmann, A. K.
+AU  - Hofer, A. S.
+AU  - Weinmann, O.
+AU  - Kessler, T. M.
+AU  - Schwab, M. E.
+C2  - PMC6529870
+DA  - May 22
+DO  - 10.1523/jneurosci.3155-18.2019
+DP  - NLM
+ET  - 20190322
+IS  - 21
+KW  - Animals
+Antibodies/*pharmacology
+Female
+Nogo Proteins/*antagonists & inhibitors
+Rats
+Rats, Inbred Lew
+Spinal Cord Injuries/*complications
+Urinary Bladder, Neurogenic/*etiology
+Crf
+Nogo-A
+neuro-urology
+neurogenic lower urinary tract dysfunction
+spinal cord injury
+urodynamics
+LA  - eng
+N1  - 1529-2401
+Schneider, Marc P
+Sartori, Andrea M
+Orcid: 0000-0002-9571-0288
+Ineichen, Benjamin V
+Orcid: 0000-0003-1362-4819
+Moors, Selina
+Engmann, Anne K
+Hofer, Anna-Sophie
+Weinmann, Oliver
+Kessler, Thomas M
+Schwab, Martin E
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2019/03/25
+J Neurosci. 2019 May 22;39(21):4066-4076. doi: 10.1523/JNEUROSCI.3155-18.2019. Epub 2019 Mar 22.
+PY  - 2019
+SN  - 0270-6474 (Print)
+0270-6474
+SP  - 4066-4076
+ST  - Anti-Nogo-A Antibodies As a Potential Causal Therapy for Lower Urinary Tract Dysfunction after Spinal Cord Injury
+T2  - J Neurosci
+TI  - Anti-Nogo-A Antibodies As a Potential Causal Therapy for Lower Urinary Tract Dysfunction after Spinal Cord Injury
+VL  - 39
+ID  - 51356
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Cannabinoids and their principle psychoactive target, the cannabinoid type 1 receptor (CB1R), impact a number of alcohol-related properties, and although alcohol and cannabis are often co-used, particularly in adolescence, few animal models of this phenomenon exist. We modeled the co-use of alcohol and ∆(9) -tetrahydrocannabinol (THC) in adolescent mice using ingestive methods popular during this developmental period in humans, namely binge-drinking and edible THC. With this model, we assessed levels of use, acute effects, and tolerance to each substance. METHODS: Adolescent male C57BL/6J mice had daily, limited access to 1 of 2 edible doughs (THC or control), to 1 of 2 fluids (ethanol (EtOH) or water), and in 1 of 2 orders (dough-fluid or fluid-dough). Home cage locomotor activity was recorded both during access and after access. On the day following the final access session, a subset of mice were assessed for functional and metabolic tolerance to alcohol using accelerating rotarod and blood EtOH concentrations, respectively. The remaining mice were assessed for tolerance to THC-induced hypothermia, and whole-brain CB1R expression was assessed in all mice. RESULTS: EtOH intake was on par with levels previously reported in adolescent mice. Edible THC was well-consumed, but consumption decreased at the highest dose provided. Locomotor activity increased following EtOH intake and decreased following edible THC consumption, and edible THC increased fluid intake in general. The use of alcohol produced neither functional nor metabolic tolerance to an alcohol challenge. However, the use of edible THC impaired subsequent drug-free rotarod performance and was associated with a reduction in THC's hypothermic effect. CONCLUSIONS: Adolescent mice self-administered both alcohol and edible THC to a degree sufficient to acutely impact locomotor activity. However, only edible THC consumption had lasting effects during short-term abstinence. Thus, this adolescent co-use model could be used to explore sex differences in self-administration and the impact substance co-use might have on other domains such as mood and cognition.
+AD  - From the, Department of Psychology, Indiana Alcohol Research Center, Indiana University - Purdue University Indianapolis, Indianapolis, Indiana.
+AN  - 31524960
+AU  - Smoker, M. P.
+AU  - Hernandez, M.
+AU  - Zhang, Y.
+AU  - Boehm, S. L., 2nd
+C2  - PMC6824955
+C6  - NIHMS1050643
+DA  - Nov
+DO  - 10.1111/acer.14197
+DP  - NLM
+ET  - 20190929
+IS  - 11
+KW  - Alcohol Drinking/*adverse effects
+Animals
+Disease Models, Animal
+Dronabinol/*administration & dosage
+Drug Interactions
+Drug Tolerance
+Male
+Marijuana Abuse/*complications
+Mice
+Mice, Inbred C57BL
+Motor Activity/*drug effects
+Self Administration
+Adolescent
+Alcohol
+Edible
+Tolerance
+∆9-Tetrahydrocannabinol
+LA  - eng
+N1  - 1530-0277
+Smoker, Michael P
+Orcid: 0000-0002-6515-7362
+Hernandez, Maribel
+Orcid: 0000-0001-8064-636x
+Zhang, Yanping
+Boehm, Stephen L 2nd
+P60 AA007611/AA/NIAAA NIH HHS/United States
+UL1 TR001108/TR/NCATS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+England
+2019/09/17
+Alcohol Clin Exp Res. 2019 Nov;43(11):2446-2457. doi: 10.1111/acer.14197. Epub 2019 Sep 29.
+PY  - 2019
+SN  - 0145-6008 (Print)
+0145-6008
+SP  - 2446-2457
+ST  - Assessment of Acute Motor Effects and Tolerance Following Self-Administration of Alcohol and Edible ∆(9) -Tetrahydrocannabinol in Adolescent Male Mice
+T2  - Alcohol Clin Exp Res
+TI  - Assessment of Acute Motor Effects and Tolerance Following Self-Administration of Alcohol and Edible ∆(9) -Tetrahydrocannabinol in Adolescent Male Mice
+VL  - 43
+ID  - 51003
+ER  - 
+
+TY  - JOUR
+AB  - Phosphodiesterase 10A (PDE10A) is a dual-substrate PDE that hydrolyzes both cAMP and cGMP. PDE10A is selectively expressed in medium spiny neurons in the striatum, suggesting the potential of PDE10A inhibitors in the treatment of schizophrenia. This study presents the pharmacological profile of a novel PDE10A inhibitor, 2-[(E)-2-(7-fluoro-3-methylquinoxalin-2-yl)vinyl]-6-pyrrolidin-1-yl-N-(tetrahydro-2H-pyran-4-yl)pyrimidin-4-amine hydrochloride (T-251) in rodent models of schizophrenia. T-251 showed a potent inhibitory activity against human PDE10A (IC(50) = 0.050 nmol/L) and showed high selectivity over other PDE families which have over 10,000-fold IC(50) values. Oral administration of T-251 (0.1-1.0 mg/kg) increased cAMP and cGMP in the striatum in a dose-dependent manner. Oral administration of T-251 attenuated MK-801 induced hyperactivity (ED(50) = 0.68 mg/kg) and suppressed conditioned avoidance response (ID(50) = 0.87 mg/kg) in rats in a dose dependent manner. Furthermore, T-251 significantly attenuated MK-801 induced prepulse inhibition deficits and cognitive deficits in rats. Unlike haloperidol and olanzapine, T-251 (1.0-30 mg/kg) did not cause catalepsy in rats. Moreover, T-251 (0.6 and 6.0 mg/kg) did not increase plasma levels of prolactin at 1 h after administration, whereas haloperidol and olanzapine significantly increased them. The antipsychotic-like effects and cognitive enhancement of T-251 without catalepsy or plasma prolactin elevation observed in rats suggests that T-251 would be a novel antipsychotic with an improved side-effect profile.
+AD  - Sohyaku. Innovative Research Division, Mitsubishi Tanabe Pharma Corporation, 1000, Kamoshida-cho, Aoba-ku, Yokohama 227-0033, Japan; Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, Chiba 260-8670, Japan. Electronic address: takakuwa.misae@mm.mt-pharma.co.jp.
+Sohyaku. Innovative Research Division, Mitsubishi Tanabe Pharma Corporation, 1000, Kamoshida-cho, Aoba-ku, Yokohama 227-0033, Japan.
+Division of Clinical Neuroscience, Chiba University Center for Forensic Mental Health, Chiba 260-8670, Japan.
+AN  - 31404565
+AU  - Takakuwa, M.
+AU  - Watanabe, Y.
+AU  - Tanaka, K.
+AU  - Ishii, T.
+AU  - Kagaya, K.
+AU  - Taniguchi, H.
+AU  - Kotera, J.
+AU  - Hashimoto, K.
+DA  - Oct
+DO  - 10.1016/j.pbb.2019.172757
+DP  - NLM
+ET  - 20190809
+KW  - Administration, Oral
+Animals
+Antipsychotic Agents/administration & dosage/*pharmacology
+Behavior, Animal/drug effects
+COS Cells
+Catalepsy/chemically induced
+Cattle
+Chlorocebus aethiops
+Corpus Striatum/metabolism
+Cyclic AMP/metabolism
+Cyclic GMP/metabolism
+Disease Models, Animal
+Dizocilpine Maleate/pharmacology
+Dogs
+Humans
+Locomotion/drug effects
+Male
+Mice
+Mice, Inbred C57BL
+Phosphodiesterase Inhibitors/administration & dosage/*pharmacology
+Phosphoric Diester Hydrolases/*metabolism
+Prepulse Inhibition/drug effects
+Prolactin/blood
+Rats
+Rats, Wistar
+Schizophrenia/*drug therapy
+Snake Venoms
+Antipsychotic
+Phosphodiesterase (PDE) 10A
+Schizophrenia
+T-251
+LA  - eng
+N1  - 1873-5177
+Takakuwa, Misae
+Watanabe, Yumi
+Tanaka, Kiichi
+Ishii, Taketoshi
+Kagaya, Kenta
+Taniguchi, Hiroyuki
+Kotera, Jun
+Hashimoto, Kenji
+Journal Article
+United States
+2019/08/14
+Pharmacol Biochem Behav. 2019 Oct;185:172757. doi: 10.1016/j.pbb.2019.172757. Epub 2019 Aug 9.
+PY  - 2019
+SN  - 0091-3057
+SP  - 172757
+ST  - Antipsychotic-like effects of a novel phosphodiesterase 10A inhibitor T-251 in rodents
+T2  - Pharmacol Biochem Behav
+TI  - Antipsychotic-like effects of a novel phosphodiesterase 10A inhibitor T-251 in rodents
+VL  - 185
+ID  - 51008
+ER  - 
+
+TY  - JOUR
+AB  - The pathophysiological roles of astrocytes in the reactive state are thought to have important significance in the pathogenesis of neurodegenerative diseases, including Alzheimer's disease (AD). However, the detailed mechanisms underlying the transition of astrocytes from the resting state to the reactive state during neurodegenerative disease largely remain to be defined. Here, we investigated the pathways involved in activating astrocytes from the resting state to the reactive state in primary cultured astrocytes treated with oligomeric Aβ and in the hippocampus of 5XFAD mice. Treatment with oligomeric Aβ induced an increase in reactive astrocytes, as assessed by the protein level of glial fibrillary acidic protein (GFAP) and this increase was caused by STAT3 phosphorylation in primary cultured astrocytes. The administration of Stattic, an inhibitor of STAT3, rescued the activation of astrocytes in primary cultured astrocytes and in the hippocampus of 6-month-old 5XFAD mice as well as impairments in learning and memory. Collectively, these results demonstrated that reactive astrocytes in the AD brain are induced via STAT3 and the impairments in learning and memory observed in 5XFAD mice are rescued by STAT3 inhibition, suggesting that the inhibition of STAT3 phosphorylation in astrocytes may be a novel therapeutic target for cognitive impairment in AD.
+AD  - Department of Pharmacology and Biomedical Sciences, Seoul National University College of Medicine, Seoul, Republic of Korea.
+Department of Pharmacology and Biomedical Sciences, Seoul National University College of Medicine, Seoul, Republic of Korea; Seoul National University Bundang Hospital, Seoul National University College of Medicine, Sungnam, Republic of Korea; Dementia Research Center, Seoul National University College of Medicine, Seoul, Republic of Korea. Electronic address: hyisun@snu.ac.kr.
+AN  - 32507685
+AU  - Choi, M.
+AU  - Kim, H.
+AU  - Yang, E. J.
+AU  - Kim, H. S.
+C1  - Declaration of Competing Interest The authors declare that they have no competing interests.
+DA  - Aug
+DO  - 10.1016/j.jphs.2020.05.009
+DP  - NLM
+ET  - 20200522
+IS  - 4
+KW  - Alzheimer Disease/*genetics/therapy
+Animals
+Astrocytes/metabolism
+Cells, Cultured
+Disease Models, Animal
+*Gene Silencing
+Mice, Transgenic
+Molecular Targeted Therapy
+Phosphorylation
+*STAT3 Transcription Factor
+5XFAD mice
+Alzheimer's disease
+Astrocyte
+Jak / stat3
+Memory
+LA  - eng
+N1  - 1347-8648
+Choi, Moonseok
+Kim, Hyunju
+Yang, Eun-Jeong
+Kim, Hye-Sun
+Journal Article
+Japan
+2020/06/09
+J Pharmacol Sci. 2020 Aug;143(4):290-299. doi: 10.1016/j.jphs.2020.05.009. Epub 2020 May 22.
+PY  - 2020
+SN  - 1347-8613
+SP  - 290-299
+ST  - Inhibition of STAT3 phosphorylation attenuates impairments in learning and memory in 5XFAD mice, an animal model of Alzheimer's disease
+T2  - J Pharmacol Sci
+TI  - Inhibition of STAT3 phosphorylation attenuates impairments in learning and memory in 5XFAD mice, an animal model of Alzheimer's disease
+VL  - 143
+ID  - 50994
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Chronic neuroinflammation, aggressive amyloid beta (Aβ) deposition, neuronal cell loss, and cognitive impairment are pathological presentations of Alzheimer's disease (AD). Therefore, resolution of neuroinflammation and inhibition of Aβ-driven pathology have been suggested to be important strategies for AD therapy. Previous efforts to prevent AD progression have identified p38 mitogen-activated protein kinases (MAPKs) as a promising target for AD therapy. Recent studies showed pharmacological inhibition of p38α MAPK improved memory impairment in AD mouse models. METHODS: In this study, we used an AD mouse model, 5XFAD, to explore the therapeutic potential of NJK14047 which is a novel, selective p38α/β MAPK inhibitor. The mice were injected with 2.5 mg/kg NJK14047 or vehicle every other day for 3 months. Morris water maze task and histological imaging analysis were performed. Protein and mRNA expression levels were measured using immunoblotting and qRT-PCR, respectively. In vitro studies were conducted to measure the cytotoxicity of microglia- and astrocyte-conditioned medium on primary neurons using the MTT assay and TUNEL assay. RESULTS: NJK14047 treatment downregulated phospho-p38 MAPK levels, decreased the amount of Aβ deposits, and reduced spatial learning memory loss in 9-month-old 5XFAD mice. While the pro-inflammatory conditions were decreased, the expression of alternatively activated microglial markers and microglial phagocytic receptors was increased. Furthermore, NJK14047 treatment reduced the number of degenerating neurons labeled with Fluoro-Jade B in the brains of 5XFAD mice. The neuroprotective effect of NJK14047 was further confirmed by in vitro studies. CONCLUSION: Taken together, a selective p38α/β MAPK inhibitor NJK14047 successfully showed therapeutic effects for AD in 5XFAD mice. Based on our data, p38 MAPK inhibition is a potential strategy for AD therapy, suggesting NJK14047 as one of the promising candidates for AD therapeutics targeting p38 MAPKs.
+AD  - Department of Fundamental Pharmaceutical Science, Graduate School, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul, 02447, Republic of Korea.
+Department of Biomedical Science and Technology, Graduate School, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul, 02447, Republic of Korea.
+Department of Life and Nanopharmaceutical Sciences, Graduate School, Kyung Hee University, 26, Kyungheedae-ro, Dongdaemun-gu, Seoul, 02447, Republic of Korea.
+Department of Life and Nanopharmaceutical Sciences, Graduate School, Kyung Hee University, 26, Kyungheedae-ro, Dongdaemun-gu, Seoul, 02447, Republic of Korea. innks@khu.ac.kr.
+Department of Fundamental Pharmaceutical Science, Graduate School, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul, 02447, Republic of Korea. kimnj@khu.ac.kr.
+Department of Life and Nanopharmaceutical Sciences, Graduate School, Kyung Hee University, 26, Kyungheedae-ro, Dongdaemun-gu, Seoul, 02447, Republic of Korea. kimnj@khu.ac.kr.
+Department of Pharmacy, College of Pharmacy, Kyung Hee University, 26, Kyungheedae-ro, Dongdaemun-gu, Seoul, 02447, Republic of Korea. kimnj@khu.ac.kr.
+Department of Fundamental Pharmaceutical Science, Graduate School, Kyung Hee University, 26 Kyungheedae-ro, Dongdaemun-gu, Seoul, 02447, Republic of Korea. jklee3984@khu.ac.kr.
+Department of Pharmacy, College of Pharmacy, Kyung Hee University, 26, Kyungheedae-ro, Dongdaemun-gu, Seoul, 02447, Republic of Korea. jklee3984@khu.ac.kr.
+AN  - 32317025
+AU  - Gee, M. S.
+AU  - Son, S. H.
+AU  - Jeon, S. H.
+AU  - Do, J.
+AU  - Kim, N.
+AU  - Ju, Y. J.
+AU  - Lee, S. J.
+AU  - Chung, E. K.
+AU  - Inn, K. S.
+AU  - Kim, N. J.
+AU  - Lee, J. K.
+C1  - The authors declare no competing interest.
+C2  - PMC7175487
+DA  - Apr 21
+DO  - 10.1186/s13195-020-00617-2
+DP  - NLM
+ET  - 20200421
+IS  - 1
+KW  - *Alzheimer Disease/drug therapy
+Amyloid beta-Peptides
+Animals
+*Cognitive Dysfunction/drug therapy
+Disease Models, Animal
+Mice
+Mice, Transgenic
+Microglia
+Alzheimer’s disease
+Amyloid-β
+Kinase inhibitor
+P38 mitogen-activated protein kinase
+LA  - eng
+N1  - 1758-9193
+Gee, Min Sung
+Son, Seung Hwan
+Jeon, Seung Ho
+Do, Jimin
+Kim, Namkwon
+Ju, Yeon-Joo
+Lee, Soo Jin
+Chung, Eun Kyoung
+Inn, Kyung-Soo
+Kim, Nam-Jung
+Lee, Jong Kil
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2020/04/23
+Alzheimers Res Ther. 2020 Apr 21;12(1):45. doi: 10.1186/s13195-020-00617-2.
+PY  - 2020
+SP  - 45
+ST  - A selective p38α/β MAPK inhibitor alleviates neuropathology and cognitive impairment, and modulates microglia function in 5XFAD mouse
+T2  - Alzheimers Res Ther
+TI  - A selective p38α/β MAPK inhibitor alleviates neuropathology and cognitive impairment, and modulates microglia function in 5XFAD mouse
+VL  - 12
+ID  - 50992
+ER  - 
+
+TY  - JOUR
+AB  - Accumulating clinical and epidemiological evidence indicates a close relationship between diabetes mellitus and dementia. The ginsenoside compound K (CK) has been reported to ameliorate diabetes mellitus and confer protection to the central nervous system. In this study, we investigated whether CK could improve memory impairment and cognitive dysfunction in diabetic db/db mice. Firstly, we found that CK treatments significantly improved behavioral impairment and cognitive dysfunction based on Morris water maze, Y-maze, and fear conditioning tests. Besides, CK decreased the fasting glucose level, increased lipid metabolism, and ameliorated glucose tolerance, insulin sensitivity, and dyslipidemia in diabetic db/db mice. In addition, CK treatments alleviated oxidative stress and inhibited the inflammatory response in hippocampal tissue. Further investigations showed that CK treatments inhibited the NLRP3 inflammasome pathway, as evidenced by the declined expression of TXNIP, NLRP3 inflammasomes, ASC, cleaved caspase-1, and mature IL-1β in hippocampal tissues. Moreover, CK treatments alleviated ER stress via down-regulating the level of BiP, CHOP, p-PERK, p-IRE1α and ATF6 in the hippocampus of db/db mice. These results suggest that CK improves memory and cognitive dysfunction, possibly by ameliorating glucose tolerance, insulin sensitivity, and dyslipidemia, suppressing oxidative stress and inflammatory response and modulating the NLRP3 inflammasome pathway and ER stress.
+AD  - Key Laboratory of Molecular Target & Clinical Pharmacology, School of Pharmaceutical Sciences, Guangzhou Medical University, Guangzhou, China. lichuwen@gzhmu.edu.cn.
+AN  - 32374299
+AU  - Li, C. W.
+AU  - Deng, M. Z.
+AU  - Gao, Z. J.
+AU  - Dang, Y. Y.
+AU  - Zheng, G. D.
+AU  - Yang, X. J.
+AU  - Chao, Y. X.
+AU  - Cai, Y. F.
+AU  - Wu, X. L.
+DA  - May 1
+DO  - 10.1039/c9fo02602a
+DP  - NLM
+ET  - 20200506
+IS  - 5
+KW  - Administration, Oral
+Animals
+Behavior, Animal/drug effects
+*Dementia
+Diabetes Mellitus, Experimental
+Endoplasmic Reticulum Stress/*drug effects
+Female
+Ginsenosides/administration & dosage/*pharmacology
+Memory/*drug effects
+Mice
+Mice, Inbred Strains
+NLR Family, Pyrin Domain-Containing 3 Protein/metabolism
+Random Allocation
+Signal Transduction/drug effects
+Specific Pathogen-Free Organisms
+LA  - eng
+N1  - 2042-650x
+Li, Chu-Wen
+Deng, Min-Zhen
+Gao, Zhi-Jie
+Dang, Yuan-Ye
+Zheng, Guo-Dong
+Yang, Xiu-Juan
+Chao, Ying-Xin
+Cai, Ye-Feng
+Wu, Xiao-Li
+Journal Article
+England
+2020/05/07
+Food Funct. 2020 May 1;11(5):4416-4427. doi: 10.1039/c9fo02602a. Epub 2020 May 6.
+PY  - 2020
+SN  - 2042-6496
+SP  - 4416-4427
+ST  - Effects of compound K, a metabolite of ginsenosides, on memory and cognitive dysfunction in db/db mice involve the inhibition of ER stress and the NLRP3 inflammasome pathway
+T2  - Food Funct
+TI  - Effects of compound K, a metabolite of ginsenosides, on memory and cognitive dysfunction in db/db mice involve the inhibition of ER stress and the NLRP3 inflammasome pathway
+VL  - 11
+ID  - 50995
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Microtubule stabilizing drugs, commonly used as anti-cancer therapeutics, have been proposed for treatment of Alzheimer's disease (AD); however, many do not cross the blood-brain barrier. OBJECTIVE: This research investigated if paclitaxel (PTX) delivered via the intranasal (IN) route could alter the phenotypic progression of AD in 3xTg-AD mice. METHODS: We administered intranasal PTX in 3XTg-AD mice (3xTg-AD n = 15, 10 weeks and n = 10, 44 weeks, PTX: 0.6 mg/kg or 0.9%saline (SAL)) at 2-week intervals. After treatment, 3XTg-AD mice underwent manganese-enhanced magnetic resonance imaging to measure in vivo axonal transport. In a separate 3XTg-AD cohort, PTX-treated mice were tested in a radial water tread maze at 52 weeks of age after four treatments, and at 72 weeks of age, anxiety was assessed by an elevated-plus maze after 14 total treatments. RESULTS: PTX increased axonal transport rates in treated 3XTg-AD compared to controls (p≤0.003). Further investigation using an in vitro neuron model of Aβ-induced axonal transport disruption confirmed PTX prevented axonal transport deficits. Confocal microscopy after treatment found fewer phospho-tau containing neurons (5.25±3.8 versus 8.33±2.5, p < 0.04) in the CA1, altered microglia, and reduced reactive astrocytes. PTX improved performance of 3xTg-AD on the water tread maze compared to controls and not significantly different from WT (Day 5, 143.8±43 versus 91.5±77s and Day 12, 138.3±52 versus 107.7±75s for SAL versus PTX). Elevated plus maze revealed that PTX-treated 3xTg-AD mice spent more time exploring open arms (Open arm 129.1±80 versus 20.9±31s for PTX versus SAL, p≤0.05). CONCLUSION: Taken collectively, these findings indicate that intranasal-administered microtubule-stabilizing drugs may offer a potential therapeutic option for treating AD.
+AD  - Department of Radiology and Imaging Sciences>, University of Utah, Salt Lake City, UT, USA.
+Boston University Alzheimer's Disease and CTE Center, Boston University School of Medicine, Boston, MA, USA.
+Department of Neurology, Boston University School of Medicine, Boston, MA, USA.
+Department of Biological Sciences, Simon Fraser University, Burnaby, BC, Canada.
+Centre for Cell Biology, Development, and Disease, Simon Fraser University, Burnaby, BC, Canada.
+The Geriatric Research, Education, and Clinical Center (GRECC), Veterans Affairs Puget Sound Health Care System, Seattle, WA, USA.
+Departments of Medicine, Pharmacology, Psychiatry & Behavioral Sciences, University of Washington, Seattle, WA, USA.
+AN  - 34308901
+AU  - Cross, D. J.
+AU  - Huber, B. R.
+AU  - Silverman, M. A.
+AU  - Cline, M. M.
+AU  - Gill, T. B.
+AU  - Cross, C. G.
+AU  - Cook, D. G.
+AU  - Minoshima, S.
+DO  - 10.3233/jad-210109
+DP  - NLM
+IS  - 1
+KW  - Administration, Intranasal
+Alzheimer Disease/*metabolism
+Animals
+Antineoplastic Agents, Phytogenic/*therapeutic use
+Axonal Transport
+Blood-Brain Barrier/*metabolism
+Brain/metabolism
+Disease Models, Animal
+Humans
+Magnetic Resonance Imaging
+Male
+Mice
+*Mice, Transgenic
+Morris Water Maze Test
+Neurons/*metabolism
+Paclitaxel/*therapeutic use
+Alzheimer’s disease
+cognitive impairment
+intranasal drug administration
+microtubule stabilization
+LA  - eng
+N1  - 1875-8908
+Cross, Donna J
+Huber, Bertrand R
+Silverman, Michael A
+Cline, Marcella M
+Gill, Trevor B
+Cross, Chloe G
+Cook, David G
+Minoshima, Satoshi
+U54 HD083091/HD/NICHD NIH HHS/United States
+90396/CIHR/Canada
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+Netherlands
+2021/07/27
+J Alzheimers Dis. 2021;83(1):379-394. doi: 10.3233/JAD-210109.
+PY  - 2021
+SN  - 1387-2877
+SP  - 379-394
+ST  - Intranasal Paclitaxel Alters Alzheimer's Disease Phenotypic Features in 3xTg-AD Mice
+T2  - J Alzheimers Dis
+TI  - Intranasal Paclitaxel Alters Alzheimer's Disease Phenotypic Features in 3xTg-AD Mice
+VL  - 83
+ID  - 51001
+ER  - 
+
+TY  - JOUR
+AB  - α-Synuclein oligomers are thought to play an important role in the pathogenesis of dementia with Lewy bodies (DLB). There is no effective cure for DLB at present. Previously, we demonstrated that in APP- and tau-transgenic mice, oral or intranasal rifampicin reduced brain Aβ and tau oligomers and improved mouse cognition. In the present study, we expanded our research to DLB. Rifampicin was intranasally administered to 6-month-old A53T-mutant α-synuclein-transgenic mice at 0.1 mg/day for 1 month. The mice displayed memory impairment but no motor deficit at this age, indicating a suitable model of DLB. α-Synuclein pathologies were examined by the immunohistochemical/biochemical analyses of brain tissues. Cognitive function was evaluated by the Morris water maze test. Intranasal rifampicin significantly reduced the levels of [pSer129] α-synuclein in the hippocampus and α-synuclein oligomers in the visual cortex and hippocampus. The level of the presynaptic marker synaptophysin in the hippocampus was recovered to the level in non-transgenic littermates. In the Morris water maze, a significant improvement in spatial reference memory was observed in rifampicin-treated mice. Taken together with our previous findings, these results suggest that intranasal rifampicin is a promising remedy for the prevention of neurodegenerative dementia, including Alzheimer's disease, frontotemporal dementia, and DLB.
+AD  - Department of Translational Neuroscience, Osaka City University Graduate School of Medicine, 1-4-3 Asahimachi, Abeno-ku, Osaka 545-8585, Japan.
+AN  - 34445158
+AU  - Umeda, T.
+AU  - Hatanaka, Y.
+AU  - Sakai, A.
+AU  - Tomiyama, T.
+C1  - T.U. and T.T. have applied for a patent on intranasal rifampicin for α-synucleinopathy (The patent application number: JP2019-001545).
+C2  - PMC8395129
+DA  - Aug 6
+DO  - 10.3390/ijms22168453
+DP  - NLM
+ET  - 20210806
+IS  - 16
+KW  - Administration, Intranasal
+Animals
+Cognition/*drug effects
+Dementia/*drug therapy/metabolism/pathology
+Disease Models, Animal
+Female
+Lewy Bodies/drug effects/metabolism/pathology
+Lewy Body Disease/*drug therapy/metabolism/pathology
+Male
+Mice, Transgenic
+Protein Multimerization/drug effects
+Rifampin/administration & dosage/*therapeutic use
+alpha-Synuclein/analysis/*metabolism
+dementia with Lewy bodies
+intranasal administration
+oligomer
+prevention
+rifampicin
+α-synuclein
+LA  - eng
+N1  - 1422-0067
+Umeda, Tomohiro
+Hatanaka, Yukari
+Orcid: 0000-0002-7869-5741
+Sakai, Ayumi
+Tomiyama, Takami
+not applicable/the Research Foundation for Dementia of Osaka/
+not applicable/Teijin Pharma Limited/
+Journal Article
+Switzerland
+2021/08/28
+Int J Mol Sci. 2021 Aug 6;22(16):8453. doi: 10.3390/ijms22168453.
+PY  - 2021
+SN  - 1422-0067
+ST  - Nasal Rifampicin Improves Cognition in a Mouse Model of Dementia with Lewy Bodies by Reducing α-Synuclein Oligomers
+T2  - Int J Mol Sci
+TI  - Nasal Rifampicin Improves Cognition in a Mouse Model of Dementia with Lewy Bodies by Reducing α-Synuclein Oligomers
+VL  - 22
+ID  - 51002
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Radical prostatectomy for prostate cancer can not only induce cavernous nerve injury (CNI), but also causes cavernous hypoxia and cavernous structural changes, which lead to a poor response to phosphodiesterase 5 inhibitors. AIM: To investigate the therapeutic effect of oral administration of LM11A-31, a small molecule p75 neurotrophin receptor (p75(NTR)) ligand and proNGF antagonist, in a mouse model of bilateral CNI, which mimics nerve injury-induced erectile dysfunction after radical prostatectomy. METHODS: 8-week-old male C57BL/6 mice were divided into sham operation and CNI groups. Each group was divided into 2 subgroups: phosphate-buffered saline and LM11A-31 (50 mg/kg/day) being administered once daily starting 3 days before CNI via oral gavage. 2 weeks after CNI, we measured erectile function by electrical stimulation of the bilateral cavernous nerve. The penis was harvested for histologic examination and Western blot analysis. The major pelvic ganglia was harvested and cultured for assays of ex vivo neurite outgrowth. OUTCOMES: Intracavernous pressure, neurovascular regeneration in the penis, in vivo or ex vivo functional evaluation, and cell survival signaling were measured. RESULTS: Erectile function was decreased in the CNI group (44% of the sham operation group), while administration of LM11A-31 led to a significant improvement of erectile function (70% of the sham operation group) in association with increased neurovascular content, including cavernous endothelial cells, pericytes, and neuronal processes. Immunohistochemical and Western blot analyses showed significantly increased p75(NTR) expression in the dorsal nerve of CNI mice, which was attenuated by LM11A-31 treatment. Protein expression of active PI3K, AKT, and endothelial nitric oxide synthase was increased, and cell death and c-Jun N-terminal kinase signaling was significantly attenuated after LM11A-31 treatment. Furthermore, LM11A-31 promoted neurite sprouting in cultured major pelvic ganglia after lipopolysaccharide exposure. CLINICAL IMPLICATIONS: LM11A-31 may be used as a strategy to treat erectile dysfunction after radical prostatectomy or in men with neurovascular diseases. STRENGTHS & LIMITATIONS: Unlike biological therapeutics, such as proteins, gene therapies, or stem cells, the clinical application of LM11A-31 would likely be relatively less complex and low cost. Our study has some limitations. Future studies will assess the optimal dosing and duration of the compound. Given its plasma half-life of approximately 1 hour, it is possible that dosing more than once per day will provide added efficacy. CONCLUSION: Specific inhibition of the proNGF-p75(NTR) degenerative signaling via oral administration of LM11A-31 represents a novel therapeutic strategy for erectile dysfunction induced by nerve injury. Yin GN, Ock J, Limanjaya A, et al. Oral Administration of the p75 Neurotrophin Receptor Modulator, LM11A-31, Improves Erectile Function in a Mouse Model of Cavernous Nerve Injury. J Sex Med 2021;18:17-28.
+AD  - National Research Center for Sexual Medicine and Department of Urology, Inha University School of Medicine, Incheon, Republic of Korea.
+Department of Drug Development, Inha University School of Medicine, Incheon, Republic of Korea.
+Department of Neurology and Neurological Sciences, Stanford University School of Medicine, Stanford, CA, USA.
+National Research Center for Sexual Medicine and Department of Urology, Inha University School of Medicine, Incheon, Republic of Korea. Electronic address: rjk0929@inha.ac.kr.
+National Research Center for Sexual Medicine and Department of Urology, Inha University School of Medicine, Incheon, Republic of Korea. Electronic address: jksuh@inha.ac.kr.
+AN  - 33243690
+AU  - Yin, G. N.
+AU  - Ock, J.
+AU  - Limanjaya, A.
+AU  - Minh, N. N.
+AU  - Hong, S. S.
+AU  - Yang, T.
+AU  - Longo, F. M.
+AU  - Ryu, J. K.
+AU  - Suh, J. K.
+DA  - Jan
+DO  - 10.1016/j.jsxm.2020.10.015
+DP  - NLM
+ET  - 20201124
+IS  - 1
+KW  - Administration, Oral
+Animals
+Disease Models, Animal
+Endothelial Cells
+*Erectile Dysfunction/drug therapy/etiology
+Humans
+Isoleucine/analogs & derivatives
+Male
+Mice
+Mice, Inbred C57BL
+Morpholines
+Penile Erection
+Penis
+Receptor, Nerve Growth Factor
+Cavernous Nerve Injury
+Erectile Dysfunction
+Lm11a-31
+Neurogenesis
+p75(NTR)
+proNGF
+LA  - eng
+N1  - 1743-6109
+Yin, Guo Nan
+Ock, Jiyeon
+Limanjaya, Anita
+Minh, Nguyen Naht
+Hong, Soon-Sun
+Yang, Tao
+Longo, Frank M
+Ryu, Ji-Kan
+Suh, Jun-Kyu
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2020/11/28
+J Sex Med. 2021 Jan;18(1):17-28. doi: 10.1016/j.jsxm.2020.10.015. Epub 2020 Nov 24.
+PY  - 2021
+SN  - 1743-6095
+SP  - 17-28
+ST  - Oral Administration of the p75 Neurotrophin Receptor Modulator, LM11A-31, Improves Erectile Function in a Mouse Model of Cavernous Nerve Injury
+T2  - J Sex Med
+TI  - Oral Administration of the p75 Neurotrophin Receptor Modulator, LM11A-31, Improves Erectile Function in a Mouse Model of Cavernous Nerve Injury
+VL  - 18
+ID  - 51027
+ER  - 
+
+TY  - JOUR
+AB  - THC has been used as a promising treatment approach for neurological disorders, but the highly psychoactive effects have largely warned off many scientists from pursuing it further. We conducted an intranasal treatment using low-dose THC on 12-month-old APP/PS1 mice daily for 3 months to overcome any potential psychoactive response induced by the systemic delivery. Our results demonstrate that the THC nasal treatment at 0.002 and 0.02 mg/kg significantly slowed the memory decline compared to that in the vehicle-treated transgenic mouse control group. An enzyme-linked immunosorbent assay showed that the Aβ1-40 and 1-42 peptides decreased in the THC-treated groups. The Western blot data indicate that long-term low-dose THC intranasal administration promoted p-tau level reduction and mitochondrial function marker redistribution. The blood biochemical parameter data demonstrate some insignificant changes in cytokine, immunoglobulin, and immune cell profiles during intranasal THC treatment. Intranasal delivery is a non-invasive and convenient method that rapidly targets therapeutics to the brain, minimizing systemic exposure to avoid unwanted adverse effects. Our study provides new insights into the role of low-dose THC intranasal treatment as a pharmacological strategy to counteract alterations in Alzheimer's disease-related cognitive performance.
+AD  - Department of Pharmaceutical Sciences, Taneja College of Pharmacy, University of South Florida, Tampa, FL 33612, USA.
+Department of Neurology, College of Medicine, University of South Florida, Tampa, FL 33612, USA.
+Department of Chemistry, College of Arts & Sciences, University of South Florida, Tampa, FL 33620, USA.
+Department of Translational Neuroscience, College of Human Medicine, Michigan State University, Grand Rapids, MI 49503, USA.
+Rhodes Pharmaceuticals L.P., Coventry, RI 02816, USA.
+USF-Health Byrd Alzheimer Institute, Tampa, FL 33613, USA.
+AN  - 35457070
+AU  - Fihurka, O.
+AU  - Hong, Y.
+AU  - Yan, J.
+AU  - Brown, B.
+AU  - Lin, X.
+AU  - Shen, N.
+AU  - Wang, Y.
+AU  - Zhao, H.
+AU  - Gordon, M. N.
+AU  - Morgan, D.
+AU  - Zhou, Q.
+AU  - Chang, P.
+AU  - Cao, C.
+C1  - The authors have no conflict of interest to report.
+C2  - PMC9029288
+DA  - Apr 12
+DO  - 10.3390/ijms23084253
+DP  - NLM
+ET  - 20220412
+IS  - 8
+KW  - Administration, Intranasal
+*Alzheimer Disease/drug therapy
+Amyloid beta-Peptides
+*Amyloid beta-Protein Precursor/genetics
+Animals
+Disease Models, Animal
+Dronabinol/pharmacology/therapeutic use
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Presenilin-1
+App/ps1
+Thc
+amyloid beta
+p-tau
+LA  - eng
+N1  - 1422-0067
+Fihurka, Oksana
+Orcid: 0000-0003-4973-7698
+Hong, Yuzhu
+Yan, Jiyu
+Brown, Breanna
+Lin, Xiaoyang
+Shen, Ning
+Wang, Yanhong
+Zhao, Haohan
+Gordon, Marcia N
+Morgan, David
+Zhou, Qingyu
+Chang, Ping
+Cao, Chuanhai
+Journal Article
+Switzerland
+2022/04/24
+Int J Mol Sci. 2022 Apr 12;23(8):4253. doi: 10.3390/ijms23084253.
+PY  - 2022
+SN  - 1422-0067
+ST  - The Memory Benefit to Aged APP/PS1 Mice from Long-Term Intranasal Treatment of Low-Dose THC
+T2  - Int J Mol Sci
+TI  - The Memory Benefit to Aged APP/PS1 Mice from Long-Term Intranasal Treatment of Low-Dose THC
+VL  - 23
+ID  - 51004
+ER  - 
+
+TY  - JOUR
+AB  - Emerging evidence suggests that dysregulation of neuroinflammation, particularly that orchestrated by microglia, plays a significant role in the pathogenesis of Alzheimer's disease (AD). Danger signals including dead neurons, dystrophic axons, phosphorylated tau, and amyloid plaques alter the functional phenotype of microglia from a homeostatic (M0) to a neurodegenerative or disease-associated phenotype, which in turn drives neuroinflammation and promotes disease. Thus, therapies that target microglia activation constitute a unique approach for treating AD. Here, we report that nasally administered anti-CD3 monoclonal antibody in the 3xTg AD mouse model reduced microglial activation and improved cognition independent of amyloid beta deposition. In addition, gene expression analysis demonstrated decreased oxidative stress, increased axogenesis and synaptic organization, and metabolic changes in the hippocampus and cortex of nasal anti-CD3 treated animals. The beneficial effect of nasal anti-CD3 was associated with the accumulation of T cells in the brain where they were in close contact with microglial cells. Taken together, our findings identify nasal anti-CD3 as a unique form of immunotherapy to treat Alzheimer's disease independent of amyloid beta targeting.
+AD  - Ann Romney Center for Neurologic Diseases, Department of Neurology, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115.
+The Gene Lay Institute of Immunology and Inflammation, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115.
+AN  - 37669383
+AU  - Lopes, J. R.
+AU  - Zhang, X.
+AU  - Mayrink, J.
+AU  - Tatematsu, B. K.
+AU  - Guo, L.
+AU  - LeServe, D. S.
+AU  - Abou-El-Hassan, H.
+AU  - Rong, F.
+AU  - Dalton, M. J.
+AU  - Oliveira, M. G.
+AU  - Lanser, T. B.
+AU  - Liu, L.
+AU  - Butovsky, O.
+AU  - Rezende, R. M.
+AU  - Weiner, H. L.
+C1  - The authors declare no competing interest.
+C2  - PMC10500187
+DA  - Sep 12
+DO  - 10.1073/pnas.2309221120
+DP  - NLM
+ET  - 20230905
+IS  - 37
+KW  - Animals
+Mice
+Administration, Intranasal
+*Alzheimer Disease
+Amyloid beta-Peptides
+Neuroinflammatory Diseases
+Antibodies, Monoclonal
+Disease Models, Animal
+3xTg mice
+T cells
+microglia
+nasal anti-CD3
+LA  - eng
+N1  - 1091-6490
+Lopes, Juliana R
+Orcid: 0009-0009-6136-8830
+Zhang, Xiaoming
+Orcid: 0000-0003-2654-3620
+Mayrink, Julia
+Tatematsu, Bruna K
+Guo, Lydia
+Orcid: 0000-0002-6702-1223
+LeServe, Danielle S
+Orcid: 0009-0006-7020-9928
+Abou-El-Hassan, Hadi
+Orcid: 0000-0002-2765-291x
+Rong, Felipe
+Orcid: 0000-0002-2680-2381
+Dalton, Maria J
+Orcid: 0009-0005-7415-1885
+Oliveira, Marilia G
+Lanser, Toby B
+Orcid: 0000-0002-2250-6075
+Liu, Lei
+Orcid: 0000-0002-4604-4629
+Butovsky, Oleg
+Rezende, Rafael M
+Orcid: 0000-0003-3998-8012
+Weiner, Howard L
+Orcid: 0000-0003-0203-9681
+R21 AG063187/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2023/09/05
+Proc Natl Acad Sci U S A. 2023 Sep 12;120(37):e2309221120. doi: 10.1073/pnas.2309221120. Epub 2023 Sep 5.
+PY  - 2023
+SN  - 0027-8424 (Print)
+0027-8424
+SP  - e2309221120
+ST  - Nasal administration of anti-CD3 monoclonal antibody ameliorates disease in a mouse model of Alzheimer's disease
+T2  - Proc Natl Acad Sci U S A
+TI  - Nasal administration of anti-CD3 monoclonal antibody ameliorates disease in a mouse model of Alzheimer's disease
+VL  - 120
+ID  - 51000
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Repurposing dantrolene to treat Alzheimer's disease has been shown to be effective in amyloid transgenic mouse models but has not been examined in a model of tauopathy. OBJECTIVE: The effects of a nanoparticle intranasal formulation, the Eagle Research Formulation of Ryanodex (ERFR), in young adult and aged wild type and PS19 tau transgenic mice was investigated. METHODS: The bioavailability of intranasal ERFR was measured in 2 and 9-11-month-old C57BL/6J mice. Blood and brain samples were collected 20 minutes after a single ERFR dose, and the plasma and brain concentrations were analyzed. Baseline behavior was assessed in untreated PS19 tau transgenic mice at 6 and 9 months of age. PS19 mice were treated with intranasal ERFR, with or without acrolein (to potentiate cognitive dysfunction), for 3 months, beginning at 2 months of age. Animal behavior was examined, including cognition (cued and contextual fear conditioning, y-maze), motor function (rotarod), and olfaction (buried food test). RESULTS: The dantrolene concentration in the blood and brain decreased with age, with the decrease greater in the blood resulting in a higher brain to blood concentration ratio. The behavioral assays showed no significant changes in cognition, olfaction, or motor function in the PS19 mice compared to controls after chronic treatment with intranasal ERFR, even with acrolein. CONCLUSIONS: Our studies suggest the intranasal administration of ERFR has higher concentrations in the brain than the blood in aged mice and has no serious systemic side effects with chronic use in PS19 mice.
+AD  - Department of Anesthesiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.
+Department of Anesthesiology, Peking University People's Hospital, Beijing, China.
+Eagle Pharmaceuticals, Inc., Woodcliff Lake, NJ, USA.
+AN  - 38393915
+AU  - Vera, R.
+AU  - Hong, N.
+AU  - Jiang, B.
+AU  - Liang, G.
+AU  - Eckenhoff, M. F.
+AU  - Kincaid, H. J.
+AU  - Browne, V.
+AU  - Chellaraj, V.
+AU  - Gisewhite, D.
+AU  - Greenberg, M.
+AU  - Ranjan, S.
+AU  - Zhu, G.
+AU  - Wei, H.
+DO  - 10.3233/jad-231337
+DP  - NLM
+IS  - 2
+KW  - Mice
+Animals
+Mice, Transgenic
+Dantrolene/pharmacology
+Administration, Intranasal
+Acrolein
+Mice, Inbred C57BL
+Brain/metabolism
+*Alzheimer Disease/drug therapy
+*Tauopathies/drug therapy
+tau Proteins/metabolism
+Disease Models, Animal
+Alzheimer’s disease
+PS19 mice
+blood-brain barrier
+calcium
+cognition
+dantrolene
+pharmacokinetics
+ryanodine receptor
+tau protein
+therapeutics
+LA  - eng
+N1  - 1875-8908
+Vera, Robert
+Hong, Nicholas
+Jiang, Bailin
+Liang, Ge
+Eckenhoff, Maryellen F
+Kincaid, Halle J
+Browne, Veron
+Chellaraj, Vinolia
+Gisewhite, Douglas
+Greenberg, Michael
+Ranjan, Sudhir
+Zhu, Gaozhong
+Wei, Huafeng
+Journal Article
+Netherlands
+2024/02/23
+J Alzheimers Dis. 2024;98(2):549-562. doi: 10.3233/JAD-231337.
+PY  - 2024
+SN  - 1387-2877
+SP  - 549-562
+ST  - Effects of Intranasal Dantrolene Nanoparticles on Brain Concentration and Behavior in PS19 Tau Transgenic Mice
+T2  - J Alzheimers Dis
+TI  - Effects of Intranasal Dantrolene Nanoparticles on Brain Concentration and Behavior in PS19 Tau Transgenic Mice
+VL  - 98
+ID  - 50996
+ER  - 
+

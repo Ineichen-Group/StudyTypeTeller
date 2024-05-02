@@ -1,0 +1,2756 @@
+﻿TY  - JOUR
+AB  - This study reports the efficacy of the General Health Questionnaire (G.H.Q.) in the secondary prevention of minor psychiatric illness in a primary-care setting. 1093 consecutive attenders at a general practitioner's surgery were screened for minor psychiatric disorder using the G.H.Q. 32% were found to have a conspicuous psychiatric disorder and a further 11% had a hidden psychiatric disorder. The group with hidden disorders were randomly assigned to a treated index group and an untreated control group. The effects of case detection and treatment were beneficial and immediate, with the duration of episode of the disorder being much shorter for patients whose disorder was recognised by the general practitioner. For patients with more severe disorders there are significant differences still demonstrable between the groups one year later; but patients with mild disorders do equally well, some recovering spontaneously but others becoming manifest to the general practitioner over the next year and so receiving treatment. The "detected" group of patients increased their consultations for emotional complaints over the next year, but their total consultation-rate was not increased.
+AN  - rayyan-1277750228
+AU  - Johnstone, A.
+AU  - Goldberg, D.
+C1  - Johnstone, A Goldberg, D Clinical Trial Comparative Study Journal Article Randomized Controlled Trial England 1976/03/20 Lancet. 1976 Mar 20;1(7960):605-8. doi: 10.1016/s0140-6736(76)90415-3. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 1976-3-20
+DO  - doi:10.1016/s0140-6736(76)90415-3
+IS  - 7960
+KW  - Clinical Trials as Topic
+England
+Evaluation Studies as Topic
+*Family Practice
+Follow-Up Studies
+Humans
+Interview, Psychological
+Mass Screening
+Mental Disorders/diagnosis/*prevention & control/therapy
+Personality Assessment
+Primary Health Care
+Psychiatric Status Rating Scales
+Referral and Consultation
+Retrospective Studies
+Surveys and Questionnaires
+Time Factors
+LA  - eng
+PY  - 1976
+SN  - 0140-6736 (Print) 0140-6736
+SP  - 605-8
+ST  - Psychiatric screening in general practice. A controlled trial
+T2  - Lancet
+TI  - Psychiatric screening in general practice. A controlled trial
+VL  - 1
+ID  - 50821
+ER  - 
+
+TY  - JOUR
+AB  - A modified Self-Administered Alcoholism Screening Test (mSAAST) was prospectively administered to 625 narcotic addicts participating in a randomized clinical control trial to study its effectiveness in detecting future excessive alcohol consumption. At entry into the study, of 105 patients categorized as active alcoholics, 84 (80%) obtained a positive score on the mSAAST. Of 77 patients initially identified as being at risk for developing alcoholism (potential alcoholics) by mSAAST scores, 31 (40%) subsequently developed characteristics of excessive alcohol consumption. Of the 321 patients classified as nonalcoholic by history as well as mSAAST score, a significantly lesser proportion (15%) developed characteristics of excessive alcohol consumption (p less than 0.001). These findings suggest the mSAAST to be a useful adjunctive indicator of persons at risk of developing excessive consumption of alcohol. It is probable that the usefulness of the mSAAST extends beyond narcotic-dependent populations and may be of value in identifying the potential for excessive alcohol consumption in other populations.
+AN  - rayyan-1277750314
+AU  - Stimmel, B.
+AU  - Sturiano, V.
+AU  - Cohen, M.
+AU  - Korts, D.
+AU  - Hanbury, R.
+AU  - Jackson, G.
+C1  - Stimmel, B Sturiano, V Cohen, M Korts, D Hanbury, R Jackson, G H83 DA 01908/DA/NIDA NIH HHS/United States Clinical Trial Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, P.H.S. England 1982/01/01 Alcohol Clin Exp Res. 1982 Summer;6(3):362-8. doi: 10.1111/j.1530-0277.1982.tb04992.x. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 1982
+DO  - doi:10.1111/j.1530-0277.1982.tb04992.x
+IS  - 3
+KW  - Adolescent
+Adult
+Aged
+*Alcohol Drinking
+Alcoholism/*diagnosis/psychology
+Female
+Humans
+Male
+Methadone/*therapeutic use
+Middle Aged
+Opioid-Related Disorders/psychology/*rehabilitation
+Prognosis
+*Psychological Tests
+Social Adjustment
+LA  - eng
+PY  - 1982
+SN  - 0145-6008 (Print) 0145-6008
+SP  - 362-8
+ST  - The ability of a Self-Administered Alcohol Screening Test (mSAAST) to detect future excessive alcohol consumption in persons on methadone maintenance
+T2  - Alcohol Clin Exp Res
+TI  - The ability of a Self-Administered Alcohol Screening Test (mSAAST) to detect future excessive alcohol consumption in persons on methadone maintenance
+VL  - 6
+ID  - 50822
+ER  - 
+
+TY  - JOUR
+AB  - We studied the effect of informing physicians of the charges for outpatient diagnostic tests on their ordering of such tests in an academic primary care medical practice. All tests were ordered at microcomputer workstations by 121 physicians. For half (the intervention group), the charge for the test being ordered and the total charge for tests for that patient on that day were displayed on the computer screen. The remaining physicians (control group) also used the computers but received no message about charges. The primary outcomes measured were the number of tests ordered and the charges for tests per patient visit. In the 14 weeks before the study, the number of tests ordered and the average charge for tests per patient visit were similar for the intervention and control groups. During the 26-week intervention period, the physicians in the intervention group ordered 14 percent fewer tests per patient visit than did those in the control group (P less than 0.005), and the charges for tests were 13 percent ($6.68 per visit) lower (P less than 0.05). The differences were greater for scheduled visits (17 percent fewer tests and 15 percent lower charges for the intervention group; P less than 0.01) than for unscheduled (urgent) visits (11 percent fewer tests and 10 percent lower charges; P greater than 0.3). During the 19 weeks after the intervention ended, the number of tests ordered by the physicians in the intervention group was only 7.7 percent lower than the number ordered by the physicians in the control group, and the charges for tests were only 3.5 percent lower (P greater than 0.3). Three measures of possible adverse outcomes--number of hospitalizations, emergency room visits, and outpatient visits during the study period and the following six months--were similar for the patients seen by the physicians in both groups. We conclude that displaying the charges for diagnostic tests significantly reduced the number and cost of tests ordered, especially for patients with scheduled visits. The effects of this intervention did not persist after it was discontinued.
+AD  - Department of Medicine, Indiana University School of Medicine, Indianapolis.
+AN  - 2186274
+AU  - Tierney, W. M.
+AU  - Miller, M. E.
+AU  - McDonald, C. J.
+DA  - May 24
+DO  - 10.1056/nejm199005243222105
+DP  - NLM
+IS  - 21
+KW  - Ambulatory Care/*economics
+Diagnostic Tests, Routine/*economics/statistics & numerical data
+Fees and Charges
+Health Knowledge, Attitudes, Practice
+Humans
+Indiana
+Microcomputers
+*Practice Patterns, Physicians'
+Primary Health Care/economics/statistics & numerical data
+Randomized Controlled Trials as Topic
+LA  - eng
+N1  - Tierney, W M
+Miller, M E
+McDonald, C J
+HS-04996/HS/AHRQ HHS/United States
+HS-05626/HS/AHRQ HHS/United States
+Clinical Trial
+Journal Article
+Randomized Controlled Trial
+Research Support, U.S. Gov't, P.H.S.
+United States
+1990/05/24
+N Engl J Med. 1990 May 24;322(21):1499-504. doi: 10.1056/NEJM199005243222105.
+PY  - 1990
+SN  - 0028-4793 (Print)
+0028-4793
+SP  - 1499-504
+ST  - The effect on test ordering of informing physicians of the charges for outpatient diagnostic tests
+T2  - N Engl J Med
+TI  - The effect on test ordering of informing physicians of the charges for outpatient diagnostic tests
+VL  - 322
+ID  - 50880
+ER  - 
+
+TY  - JOUR
+AB  - It has been known for many years that diagnosis within the neurotic spectrum of disorders is temporally unstable and also that life events can be major precipitants of change in symptoms. Reasons for this instability could include inherent inadequacy of current diagnostic practice, the influence of life events as an agent of diagnostic shift, and an innate course of disorder with features dependent on the stage at which disorder presents (e.g., development of panic to agoraphobia). These possibilities were examined in a prospective study that was initially a randomised controlled trial. Two hundred ten patients recruited from primary care psychiatric clinics with DSM-III diagnosed dysthymic, generalised anxiety, and panic disorders were randomly allocated to either drug treatment (mainly antidepressants), cognitive-behaviour therapy, or self-help therapy over a 2 year period, irrespective of original diagnosis. Life events were recorded by using a standard procedure over the period 6 months before starting treatment and at five occasions over 2 years; 181 (86%) of the patients had follow-up data and 76% maintained compliance with the original treatment allocated over the 2 years; and 155 of the 181 patients (86%) had at least one diagnostic change in this period. There was no difference in the number of diagnostic changes between the three original diagnostic groups, but dysthymic disorder changed more frequently to major depressive episode than did GAD or panic disorder (20; 11; 12) (%) and panic disorder changed more frequently to agoraphobia (with or without panic) than did dysthymia or GAD (18; 8; 6) (%). There was no relationship between loss events and depressive diagnoses or between addition events and anxiety diagnoses, but greater numbers of conflict events were associated with diagnostic change. More life events were associated with the flamboyant and dependent personality disorders, reinforcing other evidence that many life events are internally generated by personality characteristics and cannot be regarded as truly independent.
+AN  - rayyan-1277751880
+AU  - Seivewright, N.
+AU  - Tyrer, P.
+AU  - Ferguson, B.
+AU  - Murphy, S.
+AU  - Johnson, T.
+C1  - Seivewright, N Tyrer, P Ferguson, B Murphy, S Johnson, T Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2000/06/30 Depress Anxiety. 2000;11(3):105-13. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2000
+DO  - doi:
+IS  - 3
+KW  - Cognitive Behavioral Therapy
+Diazepam/therapeutic use
+Dothiepin/therapeutic use
+Humans
+*Life Change Events
+Longitudinal Studies
+Neurotic Disorders/*diagnosis/psychology/therapy
+Personality Disorders/*diagnosis/psychology/therapy
+Prospective Studies
+Psychiatric Status Rating Scales
+Self-Help Groups
+Treatment Outcome
+LA  - eng
+PY  - 2000
+SN  - 1091-4269 (Print) 1091-4269
+SP  - 105-13
+ST  - Longitudinal study of the influence of life events and personality status on diagnostic change in three neurotic disorders
+T2  - Depress Anxiety
+TI  - Longitudinal study of the influence of life events and personality status on diagnostic change in three neurotic disorders
+VL  - 11
+ID  - 50823
+ER  - 
+
+TY  - JOUR
+AB  - One hundred fifty-five (77%) of 201 participants recruited in a trial of intensive vs standard case management of patients with recurrent psychotic illness had their personality status measured before treatment and were followed up for two years. The primary outcome was the total number of days spent in psychiatric hospitalisation in the two years following randomisation. Thirty-three (21%) of the patients had a personality disorder and their duration of hospital stay (105 days) was greater than in those without personality disorder (56 days). There was weak evidence that intensive case management more effective in reducing the duration of care in those with personality disorder than in those without personality disorder.
+AN  - rayyan-1277751893
+AU  - Tyrer, P.
+AU  - Manley, C.
+AU  - Van Horn, E.
+AU  - Leddy, D.
+AU  - Ukoumunne, O. C.
+C1  - Tyrer, P Manley, C Van Horn, E Leddy, D Ukoumunne, O C Clinical Trial Comparative Study Journal Article Multicenter Study Randomized Controlled Trial England 2001/08/25 Eur Psychiatry. 2000 Jun;15 Suppl 1:7-10. doi: 10.1016/s0924-9338(00)00498-3. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2000-6
+DO  - doi:10.1016/s0924-9338(00)00498-3
+KW  - Adult
+*Case Management/economics
+Cost-Benefit Analysis
+Female
+Humans
+Length of Stay/economics
+Male
+Middle Aged
+*Outcome and Process Assessment, Health Care
+Personality Disorders/diagnosis/economics/*rehabilitation
+Psychiatric Status Rating Scales
+Psychotic Disorders/diagnosis/economics/*rehabilitation
+Schizophrenia/economics/*rehabilitation
+Schizophrenic Psychology
+LA  - eng
+PY  - 2000
+SN  - 0924-9338 (Print) 0924-9338
+SP  - 7-10
+ST  - Personality abnormality in severe mental illness and its influence on outcome of intensive and standard case management: a randomised controlled trial
+T2  - Eur Psychiatry
+TI  - Personality abnormality in severe mental illness and its influence on outcome of intensive and standard case management: a randomised controlled trial
+VL  - 15
+ID  - 50824
+ER  - 
+
+TY  - JOUR
+AB  - We assessed the accuracy of brain perfusion single-photon emission computed tomography (SPECT) in discriminating between patients with probable Alzheimer's disease (AD) at the very early stage and age-matched controls before and after partial volume correction (PVC). Three-dimensional MRI was used for PVC. We randomly divided the subjects into two groups. The first group, comprising 30 patients and 30 healthy volunteers, was used to identify the brain area with the most significant decrease in regional cerebral blood flow (rCBF) in patients compared with normal controls based on the voxel-based analysis of a group comparison. The second group, comprising 31 patients and 31 healthy volunteers, was used to study the improvement in diagnostic accuracy provided by PVC. A Z score map for a SPECT image of a subject was obtained by comparison with mean and standard deviation SPECT images of the healthy volunteers for each voxel after anatomical standardization and voxel normalization to global mean or cerebellar values using the following equation: Z score = ([control mean]-[individual value] )/(control SD). Analysis of receiver operating characteristics curves for a Z score discriminating AD and controls in the posterior cingulate gyrus, where a significant decrease in rCBF was identified in the first group, showed that the PVC significantly enhanced the accuracy of the SPECT diagnosis of very early AD from 73.9% to 83.7% with global mean normalization. The PVC mildly enhanced the accuracy from 73.1% to 76.3% with cerebellar normalization. This result suggests that early diagnosis of AD requires PVC in a SPECT study.
+AN  - rayyan-1277752553
+AU  - Kanetaka, H.
+AU  - Matsuda, H.
+AU  - Asada, T.
+AU  - Ohnishi, T.
+AU  - Yamashita, F.
+AU  - Imabayashi, E.
+AU  - Tanaka, F.
+AU  - Nakano, S.
+AU  - Takasaki, M.
+C1  - Kanetaka, Hidekazu Matsuda, Hiroshi Asada, Takashi Ohnishi, Takashi Yamashita, Fumio Imabayashi, Etsuko Tanaka, Fumiko Nakano, Seigo Takasaki, Masaru Clinical Trial Journal Article Randomized Controlled Trial Germany 2004/03/03 Eur J Nucl Med Mol Imaging. 2004 Jul;31(7):975-80. doi: 10.1007/s00259-004-1491-3. Epub 2004 Feb 28. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2004-7
+DO  - doi:10.1007/s00259-004-1491-3
+IS  - 7
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/*diagnosis
+Brain/*blood supply/*diagnostic imaging
+Diagnosis, Differential
+Female
+Humans
+Image Enhancement/*methods
+Magnetic Resonance Imaging/*methods
+Male
+Middle Aged
+Reproducibility of Results
+Sensitivity and Specificity
+Severity of Illness Index
+*Subtraction Technique
+Tomography, Emission-Computed, Single-Photon/*methods
+LA  - eng
+PY  - 2004
+SN  - 1619-7070 (Print) 1619-7070
+SP  - 975-80
+ST  - Effects of partial volume correction on discrimination between very early Alzheimer's dementia and controls using brain perfusion SPECT
+T2  - Eur J Nucl Med Mol Imaging
+TI  - Effects of partial volume correction on discrimination between very early Alzheimer's dementia and controls using brain perfusion SPECT
+VL  - 31
+ID  - 50825
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine the costs and cost reductions of an innovative strategy aimed at improving test ordering routines of primary care physicians, compared with a traditional strategy. DESIGN: Multicenter randomized controlled trial with randomization at the local primary care physicians group level. SETTING: Primary care: local primary care physicians groups in five regions of the Netherlands with diagnostic centers. STUDY PARTICIPANTS: Twenty-seven existing local primary care physicians groups, including 194 primary care physicians. INTERVENTION: The test ordering strategy was developed systematically, and combined feedback, education on guidelines, and quality improvement sessions in small groups. In regular quality meetings in local groups, primary care physicians discussed each others' test ordering behavior, related it to guidelines, and made individual and/or group plans for change. Thirteen groups engaged in the entire strategy (complete intervention arm), while 14 groups received feedback only (feedback arm). MAIN OUTCOME MEASURE: Running costs, development costs, and research costs were calculated for the intervention period per primary care physician per 6 months. The mean costs of tests ordered per primary care physician per 6 months were assessed at baseline and follow-up. RESULTS: The new strategy was found to cost 702.00, while the feedback strategy cost 58.00. When including running costs only, the intervention was found to cost 554.70, compared with 17.10 per primary care physician per 6 months in the feedback arm. When excluding opportunity costs for the physicians' time spent, the intervention was found to cost 92.70 per physician per 6 months in the complete intervention arm. The mean costs reduction that physicians in that arm achieved by reducing unnecessary tests was 144 larger per physician per 6 months than the physicians in the feedback arm (P = 0.048). CONCLUSION: On the basis of our findings, including the expected non-monetary benefits, we recommend further long-term effect and cost-effect studies on the implementation of the quality strategy.
+AD  - Centre for Quality of Care Research (WOK), Care and Public Health Research Unit (CAPHRI), Department of General Practice, Maastricht University, Maastricht, The Netherlands. wim.verstappen@HAG.unimaas.nl
+AN  - 15375100
+AU  - Verstappen, W. H.
+AU  - van Merode, F.
+AU  - Grimshaw, J.
+AU  - Dubois, W. I.
+AU  - Grol, R. P.
+AU  - van der Weijden, T.
+DA  - Oct
+DO  - 10.1093/intqhc/mzh070
+DP  - NLM
+IS  - 5
+KW  - Cost-Benefit Analysis
+Diagnostic Tests, Routine/economics/*statistics & numerical data
+Female
+Health Services Research
+Humans
+Male
+Middle Aged
+Netherlands
+Practice Patterns, Physicians'/economics/*statistics & numerical data
+Primary Health Care/economics/*standards
+Program Development/economics
+Program Evaluation
+Quality Assurance, Health Care/*economics/*methods
+LA  - eng
+N1  - Verstappen, Wim H J M
+van Merode, Frits
+Grimshaw, Jeremy
+Dubois, Willy I
+Grol, Richard P T M
+van der Weijden, Trudy
+Clinical Trial
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+England
+2004/09/18
+Int J Qual Health Care. 2004 Oct;16(5):391-8. doi: 10.1093/intqhc/mzh070.
+PY  - 2004
+SN  - 1353-4505 (Print)
+1353-4505
+SP  - 391-8
+ST  - Comparing cost effects of two quality strategies to improve test ordering in primary care: a randomized trial
+T2  - Int J Qual Health Care
+TI  - Comparing cost effects of two quality strategies to improve test ordering in primary care: a randomized trial
+VL  - 16
+ID  - 50886
+ER  - 
+
+TY  - JOUR
+AB  - As genetic risk factors continue to be identified for common, complex adult-onset diseases, it will become increasingly important to understand if, how, and when to translate these discoveries into clinical practice. This article provides an overview of and results to date from the REVEAL study, a multisite randomized clinical trial (n = 162) examining the impact of a genetic risk assessment program, including apolipoprotein E genotype disclosure, for adult children of people with Alzheimer's disease. The study's rationale and procedures are described, including the generation of numerical lifetime risk curves for use in the education and counseling protocol. Findings are summarized across numerous study questions, including (1) who seeks genetic risk assessment and why, (2) how apolipoprotein E results affect risk perceptions, (3) the psychological impact of genetic risk assessment, and (4) how risk information affects participants' subsequent health and insurance behaviors.
+AN  - rayyan-1277752869
+AU  - Roberts, J. S.
+AU  - Cupples, L. A.
+AU  - Relkin, N. R.
+AU  - Whitehouse, P. J.
+AU  - Green, R. C.
+C1  - Roberts, J Scott Cupples, L Adrienne Relkin, Norman R Whitehouse, Peter J Green, Robert C REVEAL (Risk Evaluation and Education for Alzheimer's Disease) Study Group AG09029/AG/NIA NIH HHS/United States AG13846/AG/NIA NIH HHS/United States HG/AG02213/HG/NHGRI NIH HHS/United States M01 RR00533/RR/NCRR NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural United States 2005/11/25 J Geriatr Psychiatry Neurol. 2005 Dec;18(4):250-5. doi: 10.1177/0891988705281883. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2005-12
+DO  - doi:10.1177/0891988705281883
+IS  - 4
+KW  - Age of Onset
+Alzheimer Disease/etiology/*genetics/psychology
+Apolipoproteins E/genetics
+Female
+*Genetic Counseling
+*Genetic Predisposition to Disease
+Health Behavior
+Humans
+Insurance, Health
+Male
+Middle Aged
+Pedigree
+*Risk Assessment
+Stress, Psychological
+Truth Disclosure
+LA  - eng
+PY  - 2005
+SN  - 0891-9887 (Print) 0891-9887
+SP  - 250-5
+ST  - Genetic risk assessment for adult children of people with Alzheimer's disease: the Risk Evaluation and Education for Alzheimer's Disease (REVEAL) study
+T2  - J Geriatr Psychiatry Neurol
+TI  - Genetic risk assessment for adult children of people with Alzheimer's disease: the Risk Evaluation and Education for Alzheimer's Disease (REVEAL) study
+VL  - 18
+ID  - 50827
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: The first study to validate the diagnostic value of the DemTect, a short neuropsychological screening test for dementia (8-10 min), using 18-fluoro-2-deoxy-glucose positron emission tomography (FDG-PET) in patients of a memory clinic. METHODS: DemTect results were compared to the clinical diagnosis and to FDG-PET as a reference method for the early in vivo detection of Alzheimer's disease (AD). RESULTS: 38 patients (age 65.2 +/- 9.8 years, 16 men, 22 women) were investigated using clinical standard examination, FDG-PET, and cranial magnetic resonance imaging. According to NINCDS-ADRDA and Petersen's criteria, 18 patients had dementia of the Alzheimer type (DAT) and 13 patients received the diagnosis of mild cognitive impairment (MCI). Compared to the clinical diagnosis, a DemTect cutoff score of < or =11 points demonstrated good sensitivity (83.3%) and specificity (70.0%) for the detection of DAT, whereas the best cutoff score for MCI was < or =13 points with comparable sensitivity (84.6%) and specificity (85.7%). With regard to FDG-PET, the DemTect demonstrated excellent sensitivity (93%) and low specificity (50%) for the detection of AD-typical patterns of cerebral glucose metabolism (cutoff < or =13 points). CONCLUSION: DemTect is a favorable neuropsychological screening instrument for detecting cognitive dysfunction even in predementia stages of AD. For definite cross-sectional diagnosis, further diagnostic evaluation with higher specificity, e.g. comprehensive neuropsychological examination, FDG-PET or other biomarkers, is necessary.
+AN  - rayyan-1277752886
+AU  - Scheurich, A.
+AU  - Muller, M. J.
+AU  - Siessmeier, T.
+AU  - Bartenstein, P.
+AU  - Schmidt, L. G.
+AU  - Fellgiebel, A.
+C1  - Scheurich, Armin Muller, Matthias J Siessmeier, Thomas Bartenstein, Peter Schmidt, Lutz G Fellgiebel, Andreas Journal Article Randomized Controlled Trial Validation Study Switzerland 2005/09/15 Dement Geriatr Cogn Disord. 2005;20(5):271-7. doi: 10.1159/000088248. Epub 2005 Sep 12. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2005
+DO  - doi:10.1159/000088248
+IS  - 5
+KW  - Aged
+Alzheimer Disease/*diagnosis/*diagnostic imaging/psychology
+Cognition/physiology
+Data Interpretation, Statistical
+Female
+Fluorodeoxyglucose F18
+Humans
+Infarction, Middle Cerebral Artery/diagnostic imaging/psychology
+Male
+Memory/*physiology
+Mental Recall/physiology
+Middle Aged
+*Neuropsychological Tests
+Positron-Emission Tomography
+ROC Curve
+Radiopharmaceuticals
+LA  - eng
+PY  - 2005
+SN  - 1420-8008 (Print) 1420-8008
+SP  - 271-7
+ST  - Validating the DemTect with 18-fluoro-2-deoxy-glucose positron emission tomography as a sensitive neuropsychological screening test for early alzheimer disease in patients of a memory clinic
+T2  - Dement Geriatr Cogn Disord
+TI  - Validating the DemTect with 18-fluoro-2-deoxy-glucose positron emission tomography as a sensitive neuropsychological screening test for early alzheimer disease in patients of a memory clinic
+VL  - 20
+ID  - 50828
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: This study was performed to evaluate the diagnostic accuracy of brain perfusion SPECT in patients visiting the cognitive disorder clinic for initial evaluation using 3D-SSP compared with using standard transaxial section. MATERIALS AND METHODS: Standard transaxial section displays and 3D-SSP z-score maps obtained after administration of Tc-99m ECD or I-123 IMP were randomly interpreted in 315 patients who visited initially to the cognitive disorder clinic (age 46-88 years; 162 women, 153 men). Sensitivity, specificity, positive predictive value, negative predictive value, and diagnostic accuracy were calculated and receiver operating characteristic (ROC) analysis was performed. RESULTS: One hundred thirty-seven patients were clinically diagnosed with Alzheimer disease and 178 patients were diagnosed with other disorders and age-associated cognitive decline. Sensitivity, specificity, positive predictive value, negative predictive value, and diagnostic accuracy calculated using standard transaxial display were 61%, 70%, 61%, 70%, and 66%, respectively, and using the 3D-SSP z-score map were 90%, 74%, 73%, 90%, and 81%, respectively. Particularly, the sensitivity value improved in mild cases compared with severe cases using 3D-SSP. Diagnostic performance with 3D-SSP was superior in both mild dementia (Az = 0.64 [section] vs 0.81 [3D-SSP], P = 0.001) and severe dementia (Az = 0.75 [section] vs 0.90 [3D-SSP], P = 0.002). CONCLUSIONS: Brain perfusion SPECT was useful for diagnosis in patients who come to the cognitive disorder clinic for initial evaluation using 3D-SSP.
+AN  - rayyan-1277753186
+AU  - Uchida, Y.
+AU  - Minoshima, S.
+AU  - Okada, S.
+AU  - Kawata, T.
+AU  - Ito, H.
+C1  - Uchida, Yoshitaka Minoshima, Satoshi Okada, Shinichi Kawata, Tetsuya Ito, Hisao Journal Article Randomized Controlled Trial United States 2006/11/23 Clin Nucl Med. 2006 Dec;31(12):764-73. doi: 10.1097/01.rlu.0000246818.24566.54. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2006-12
+DO  - doi:10.1097/01.rlu.0000246818.24566.54
+IS  - 12
+KW  - Aged
+Aged, 80 and over
+Algorithms
+Ambulatory Care/statistics & numerical data
+Brain/*blood supply/*diagnostic imaging
+Brain Mapping/methods
+Cerebrovascular Circulation
+Dementia/*diagnostic imaging/*epidemiology
+Female
+Humans
+Image Enhancement/methods
+Image Interpretation, Computer-Assisted/*methods
+Imaging, Three-Dimensional/*methods
+Male
+Middle Aged
+Prevalence
+Reproducibility of Results
+Sensitivity and Specificity
+Single-Blind Method
+Tomography, Emission-Computed, Single-Photon/*statistics & numerical data
+LA  - eng
+PY  - 2006
+SN  - 0363-9762 (Print) 0363-9762
+SP  - 764-73
+ST  - Diagnosis of dementia using perfusion SPECT imaging at the patient's initial visit to a cognitive disorder clinic
+T2  - Clin Nucl Med
+TI  - Diagnosis of dementia using perfusion SPECT imaging at the patient's initial visit to a cognitive disorder clinic
+VL  - 31
+ID  - 50829
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Compared to those with depression alone, depressed patients with posttraumatic stress disorder (PTSD) experience more severe psychiatric symptomatology and factors that complicate treatment. OBJECTIVE: To estimate PTSD prevalence among depressed military veteran primary care patients and compare demographic/illness characteristics of PTSD screen-positive depressed patients (MDD-PTSD+) to those with depression alone (MDD). DESIGN: Cross-sectional comparison of MDD patients versus MDD-PTSD+ patients. PARTICIPANTS: Six hundred seventy-seven randomly sampled depressed patients with at least 1 primary care visit in the previous 12 months. Participants composed the baseline sample of a group randomized trial of collaborative care for depression in 10 VA primary care practices in 5 states. MEASUREMENTS: The Patient Health Questionnaire-9 assessed MDD. Probable PTSD was defined as a Primary Care PTSD Screen > or = 3. Regression-based techniques compared MDD and MDD-PTSD+ patients on demographic/illness characteristics. RESULTS: Thirty-six percent of depressed patients screened positive for PTSD. Adjusting for sociodemographic differences and physical illness comorbidity, MDD-PTSD+ patients reported more severe depression (P < .001), lower social support (P < .001), more frequent outpatient health care visits (P < .001), and were more likely to report suicidal ideation (P < .001) than MDD patients. No differences were observed in alcohol consumption, self-reported general health, and physical illness comorbidity. CONCLUSIONS: PTSD is more common among depressed primary care patients than previously thought. Comorbid PTSD among depressed patients is associated with increased illness burden, poorer prognosis, and delayed response to depression treatment. Providers should consider recommending psychotherapeutic interventions for depressed patients with PTSD.
+AN  - rayyan-1277753250
+AU  - Campbell, D. G.
+AU  - Felker, B. L.
+AU  - Liu, C. F.
+AU  - Yano, E. M.
+AU  - Kirchner, J. E.
+AU  - Chan, D.
+AU  - Rubenstein, L. V.
+AU  - Chaney, E. F.
+C1  - 1525-1497 Campbell, Duncan G Felker, Bradford L Liu, Chuan-Fen Yano, Elizabeth M Kirchner, JoAnn E Chan, Domin Rubenstein, Lisa V Chaney, Edmund F Journal Article Randomized Controlled Trial Research Support, U.S. Gov't, Non-P.H.S. United States 2007/05/16 J Gen Intern Med. 2007 Jun;22(6):711-8. doi: 10.1007/s11606-006-0101-4. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2007-6
+DO  - doi:10.1007/s11606-006-0101-4
+IS  - 6
+KW  - Aged
+Comorbidity
+Cross-Sectional Studies
+Depressive Disorder, Major/*epidemiology/therapy
+Female
+Humans
+Male
+Middle Aged
+Practice Guidelines as Topic
+Prevalence
+Primary Health Care
+Stress Disorders, Post-Traumatic/*epidemiology/therapy
+Veterans/*psychology
+LA  - eng
+PY  - 2007
+SN  - 0884-8734 (Print) 0884-8734
+SP  - 711-8
+ST  - Prevalence of depression-PTSD comorbidity: implications for clinical practice guidelines and primary care-based interventions
+T2  - J Gen Intern Med
+TI  - Prevalence of depression-PTSD comorbidity: implications for clinical practice guidelines and primary care-based interventions
+VL  - 22
+ID  - 50830
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: It is unclear whether routine or selective functional testing is optimal following percutaneous coronary intervention (PCI) in high-risk patients. OBJECTIVES: The aim of this trial was to compare exercise endurance, functional status, and quality of life (QOL) among high-risk patients randomized to either routine or selective functional testing following PCI. METHODS: We randomized 84 patients to either routine or selective functional testing. Patients had one or more of the following: multivessel PCI, diabetes mellitus, left ventricular ejection fraction < 35%, and/or PCI of the proximal left anterior descending artery. Patients in the routine arm (n = 41) underwent maximum endurance exercise treadmill testing (ETT) with nuclear perfusion imaging at 1.5 and 6 months. Patients in the selective arm (n = 43) only underwent functional testing for a clinical indication. All patients underwent a maximum endurance ETT at 9 months. Exercise endurance, functional status, and QOL were assessed at 9 months. RESULTS: Most patients were middle-aged men (58 +/- 10 years old; 87% male) who underwent PCI with stenting (94%). Among routine functional testing patients, 27.0% and 41.9% had a positive functional test at 1.5 and 6 months, respectively. Exercise endurance was improved in the routine vs. selective arm at 9 months (metabolic equivalents: 10.3 +/- 2.6 vs. 8.6 +/- 3.0, P = 0.013). There was no difference in improvement from baseline for the Duke Activity Status Index, the Seattle Angina Questionnaire, or the SF-36. Nine-month cumulative incidences of cardiac procedures and clinical events were not significantly different. CONCLUSIONS: Routine functional testing following PCI in high-risk patients may lead to improved exercise endurance but not improved QOL.
+AD  - Division of Cardiology, Jewish General Hospital/McGill University, 3755 Cote Ste. Catherine Road/Suite A-118, Montreal, Quebec H3T 1E2, Canada. meisenberg@epid.jgh.mcgill.ca
+AN  - 17536602
+AU  - Eisenberg, M. J.
+AU  - Wilson, B.
+AU  - Lauzon, C.
+AU  - Huynh, T.
+AU  - Eisenhauer, M.
+AU  - Mak, K. H.
+AU  - Blankenship, J. C.
+AU  - Doucet, M.
+AU  - Pilote, L.
+DA  - Apr
+DO  - 10.2143/ac.62.2.2020234
+DP  - NLM
+IS  - 2
+KW  - Aged
+*Angioplasty, Balloon, Coronary
+Blood Vessel Prosthesis Implantation
+Coronary Restenosis/*diagnosis/epidemiology/etiology/*physiopathology
+Coronary Stenosis/physiopathology/*therapy
+Diagnostic Tests, Routine
+Disease Progression
+Endpoint Determination
+*Exercise Test
+Exercise Tolerance
+Female
+*Heart Function Tests
+Heart Rate
+Humans
+Male
+Middle Aged
+Motor Activity
+Perfusion
+Physical Endurance
+Quality of Life
+Research Design
+Risk Factors
+Sickness Impact Profile
+Stents
+Treatment Outcome
+LA  - eng
+N1  - Eisenberg, Mark J
+Wilson, Brooke
+Lauzon, Claude
+Huynh, Thao
+Eisenhauer, Michael
+Mak, Koon Hou
+Blankenship, James C
+Doucet, Michel
+Pilote, Louise
+ADORE II Investigators
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+2007/06/01
+Acta Cardiol. 2007 Apr;62(2):143-50. doi: 10.2143/AC.62.2.2020234.
+PY  - 2007
+SN  - 0001-5385 (Print)
+0001-5385
+SP  - 143-50
+ST  - Routine functional testing after percutaneous coronary intervention: results of the aggressive diagnosis of restenosis in high-risk patients (ADORE II) trial
+T2  - Acta Cardiol
+TI  - Routine functional testing after percutaneous coronary intervention: results of the aggressive diagnosis of restenosis in high-risk patients (ADORE II) trial
+VL  - 62
+ID  - 50887
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Aripiprazole has a unique pharmacological profile that includes partial agonism at D(2) receptors, antagonism at 5-HT(2) receptors, and partial agonism at 5-HT(1A) receptors. The authors conducted a positron emission tomography (PET) study to characterize the simultaneous effects of aripiprazole at the D(2), 5-HT(2), and 5-HT(1A) receptors in patients with schizophrenia or schizoaffective disorder. METHOD: Twelve patients who had previously received antipsychotic treatment were randomly assigned to receive 10 mg, 15 mg, 20 mg, or 30 mg of aripiprazole. After at least 14 days of treatment, participants underwent high-resolution PET scans using [(11)C]raclopride, [(18)F]setoperone, and [(11)C]WAY100635. RESULTS: Very high occupancy was observed at striatal D(2) receptors (average putamen, 87%; caudate, 93%; and ventral striatum, 91%), lower occupancy at 5-HT(2) receptors (54%-60%), and even lower occupancy at 5-HT(1A) receptors (16%). D(2) occupancy levels were significantly correlated with plasma drug concentrations, and even the lowest dose (10 mg) led to 85% D(2) occupancy. Extrapyramidal side effects were seen only in two of the four participants with occupancies exceeding 90%. CONCLUSIONS: Aripiprazole exhibits a unique occupancy profile as compared with other conventional and atypical antipsychotics. The threshold for response appears to be higher than 60%, extrapyramidal side effects appear to be uncommon even at occupancies that exceed the conventional extrapyramidal side effects threshold of 80%, and 5-HT(2) occupancy is lower than D(2) occupancy. Implications for aripiprazole's mechanism of action are discussed.
+AN  - rayyan-1277753396
+AU  - Mamo, D.
+AU  - Graff, A.
+AU  - Mizrahi, R.
+AU  - Shammi, C. M.
+AU  - Romeyer, F.
+AU  - Kapur, S.
+C1  - Mamo, David Graff, Ariel Mizrahi, Romina Shammi, C M Romeyer, Françoise Kapur, Shitij Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2007/08/31 Am J Psychiatry. 2007 Sep;164(9):1411-7. doi: 10.1176/appi.ajp.2007.06091479. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2007-9
+DO  - doi:10.1176/appi.ajp.2007.06091479
+IS  - 9
+KW  - Adult
+Antipsychotic Agents/blood/*pharmacology/*therapeutic use
+Aripiprazole
+Basal Ganglia/*diagnostic imaging/drug effects/metabolism
+Basal Ganglia Diseases/chemically induced/epidemiology/metabolism
+Carbon Radioisotopes
+Caudate Nucleus/diagnostic imaging/drug effects/metabolism
+Cerebral Cortex/*diagnostic imaging/drug effects/metabolism
+Dopamine D2 Receptor Antagonists
+Dose-Response Relationship, Drug
+Drug Administration Schedule
+Female
+Fluorine Radioisotopes
+Humans
+Male
+Piperazines/blood/*pharmacology/*therapeutic use
+*Positron-Emission Tomography
+Psychotic Disorders/diagnostic imaging/drug therapy/metabolism
+Putamen/diagnostic imaging/drug effects/metabolism
+Pyridines
+Pyrimidinones
+Quinolones/blood/*pharmacology/*therapeutic use
+Raclopride
+Receptor, Serotonin, 5-HT1A/drug effects/metabolism
+Receptors, Dopamine/*drug effects/metabolism
+Receptors, Dopamine D2/drug effects/metabolism
+Schizophrenia/*diagnostic imaging/*drug therapy/metabolism
+Serotonin 5-HT1 Receptor Agonists
+Treatment Outcome
+LA  - eng
+PY  - 2007
+SN  - 0002-953X (Print) 0002-953x
+SP  - 1411-7
+ST  - Differential effects of aripiprazole on D(2), 5-HT(2), and 5-HT(1A) receptor occupancy in patients with schizophrenia: a triple tracer PET study
+T2  - Am J Psychiatry
+TI  - Differential effects of aripiprazole on D(2), 5-HT(2), and 5-HT(1A) receptor occupancy in patients with schizophrenia: a triple tracer PET study
+VL  - 164
+ID  - 50831
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Many people participating in dementia research may lack capacity to give informed consent and the relationship between cognitive function and capacity remains unclear. Recent changes in the law reinforce the need for robust and reproducible methods of assessing capacity when recruiting people for research. AIMS: To identify numbers of capacitous participants in a pragmatic randomised trial of dementia treatment; to assess characteristics associated with capacity; to describe a legally acceptable consent process for research. METHODS: As part of a pragmatic randomised controlled trial of Ginkgo biloba for mild-moderate dementia, we used a consenting algorithm that met the requirements of existing case law and the exigencies of the new Mental Capacity Act. We decided who had capacity to give informed consent for participation in the trial using this algorithm and sought predictors of capacity. RESULTS: Most participants (76%) with mild-moderate dementia in this trial were unable to give informed consent according to the legal criteria. When adjusted for confounding, the Mini Mental State examination did not predict the presence of capacity. CONCLUSION: Cognitive testing alone is insufficient to assess the presence of capacity. Researchers and clinicians need to be aware of the challenging processes regarding capacity assessment. We outline a procedure which we believe meets the ethical and legal requirements.
+AN  - rayyan-1277753880
+AU  - Warner, J.
+AU  - McCarney, R.
+AU  - Griffin, M.
+AU  - Hill, K.
+AU  - Fisher, P.
+C1  - 1473-4257 Warner, J McCarney, R Griffin, M Hill, K Fisher, P Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2008/03/05 J Med Ethics. 2008 Mar;34(3):167-70. doi: 10.1136/jme.2006.019786. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2008-3
+DO  - doi:10.1136/jme.2006.019786
+IS  - 3
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/drug therapy
+Dementia/*classification/drug therapy
+Dementia, Vascular/drug therapy
+Double-Blind Method
+Female
+Ginkgo biloba
+Humans
+Informed Consent/*ethics/*legislation & jurisprudence
+Male
+Middle Aged
+Patient Selection/*ethics
+Phytotherapy/ethics
+Plant Extracts/therapeutic use
+Randomized Controlled Trials as Topic/*ethics
+Research Subjects/legislation & jurisprudence
+United Kingdom
+LA  - eng
+PY  - 2008
+SN  - 0306-6800
+SP  - 167-70
+ST  - Participation in dementia research: rates and correlates of capacity to give informed consent
+T2  - J Med Ethics
+TI  - Participation in dementia research: rates and correlates of capacity to give informed consent
+VL  - 34
+ID  - 50832
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Demographic, behavioral, and diagnostic information should routinely be collected from clients with severe mental illness, and data gathering should employ the most efficient techniques available. Surveys are increasingly conducted via Web-based computer-assisted interviewing (CAI), but this technique is not well validated for patients with severe mental illness. A randomized clinical trial of 245 clients was carried out to compare face-to face and computer-assisted interviewing (233 clients completed two surveys). METHODS: Self-report data were collected on demographic characteristics, substance abuse, risk behaviors for blood-borne diseases, trauma history, and posttraumatic stress disorder. Each client was assessed twice and randomly assigned to one of the four possible combinations of interviewer and computer (computer and computer, N=53; computer and interviewer, N=56; interviewer and computer, N=59; and interviewer and interviewer, N=65). The two formats were compared on feasibility, client preference, cost, reliability, convergent validity, and criterion validity. RESULTS: This study demonstrated the feasibility of CAI across a variety of inpatient and outpatient settings. All participants who began the CAI process completed the interview and responded to over 95% of the survey items. Participants liked using the computers as well as they liked face-to-face interviews, and they completed the CAI as quickly. CAI produced data as reliable and valid as face-to-face interviews produced and was less expensive, and results were available more quickly. The two formats were similar in criterion validity. CONCLUSIONS: CAI appears to be a viable technology for gathering clinical data from the population with severe mental illness and for transforming such information into a useful, quickly accessible form to aid in clinical decision making.
+AN  - rayyan-1277753893
+AU  - Wolford, G.
+AU  - Rosenberg, S. D.
+AU  - Rosenberg, H. J.
+AU  - Swartz, M. S.
+AU  - Butterfield, M. I.
+AU  - Swanson, J. W.
+AU  - Jankowski, M. K.
+C1  - Wolford, George Rosenberg, Stanley D Rosenberg, Harriet J Swartz, Marvin S Butterfield, Marian I Swanson, Jeffrey W Jankowski, M Kay R01 MH 60073/MH/NIMH NIH HHS/United States Comparative Study Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural Research Support, U.S. Gov't, Non-P.H.S. United States 2008/07/01 Psychiatr Serv. 2008 Jul;59(7):769-75. doi: 10.1176/ps.2008.59.7.769. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2008-7
+DO  - doi:10.1176/ps.2008.59.7.769
+IS  - 7
+KW  - Adolescent
+Adult
+Aged
+*Diagnosis, Computer-Assisted
+Female
+Humans
+Internet
+Interview, Psychological/*methods
+Male
+Mental Disorders/*diagnosis/psychology
+Middle Aged
+Reproducibility of Results
+*Self Disclosure
+Surveys and Questionnaires
+LA  - eng
+PY  - 2008
+SN  - 1075-2730 (Print) 1075-2730
+SP  - 769-75
+ST  - A clinical trial comparing interviewer and computer-assisted assessment among clients with severe mental illness
+T2  - Psychiatr Serv
+TI  - A clinical trial comparing interviewer and computer-assisted assessment among clients with severe mental illness
+VL  - 59
+ID  - 50833
+ER  - 
+
+TY  - JOUR
+AB  - PRIMARY OBJECTIVE: To investigate how the type of stimulus (pictures or words) and the method of reproduction (free recall or recognition after a short or a long delay) affect the sensitivity and specificity of a 3-item memory test in the assessment of post traumatic amnesia (PTA). METHODS: Daily testing was performed in 64 consecutively admitted traumatic brain injured patients, 22 orthopedically injured patients and 26 healthy controls until criteria for resolution of PTA were reached. Subjects were randomly assigned to a test with visual or verbal stimuli. Short delay reproduction was tested after an interval of 3-5 minutes, long delay reproduction was tested after 24 hours. Sensitivity and specificity were calculated over the first 4 test days. RESULTS: The 3-word test showed higher sensitivity than the 3-picture test, while specificity of the two tests was equally high. Free recall was a more effortful task than recognition for both patients and controls. In patients, a longer delay between registration and recall resulted in a significant decrease in the number of items reproduced. CONCLUSIONS: Presence of PTA is best assessed with a memory test that incorporates the free recall of words after a long delay.
+AN  - rayyan-1277753919
+AU  - Andriessen, T. M.
+AU  - de Jong, B.
+AU  - Jacobs, B.
+AU  - van der Werf, S. P.
+AU  - Vos, P. E.
+C1  - 1362-301x Andriessen, Teuntje M J C de Jong, Ben Jacobs, Bram van der Werf, Sieberen P Vos, Pieter E Journal Article Randomized Controlled Trial England 2009/03/31 Brain Inj. 2009 Apr;23(4):345-52. doi: 10.1080/02699050902791414. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2009-4
+DO  - doi:10.1080/02699050902791414
+IS  - 4
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Amnesia/*diagnosis/etiology
+Bone and Bones/injuries
+Brain Injuries/complications
+Case-Control Studies
+Female
+Humans
+Male
+*Mental Recall
+Middle Aged
+Netherlands
+Neuropsychological Tests/*standards
+Sensitivity and Specificity
+Stress Disorders, Post-Traumatic/*diagnosis/etiology
+Young Adult
+LA  - eng
+PY  - 2009
+SN  - 0269-9052
+SP  - 345-52
+ST  - Sensitivity and specificity of the 3-item memory test in the assessment of post traumatic amnesia
+T2  - Brain Inj
+TI  - Sensitivity and specificity of the 3-item memory test in the assessment of post traumatic amnesia
+VL  - 23
+ID  - 50834
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND PURPOSE: Frontotemporal lobar degeneration (FTLD) can be subdivided into those in which the abnormal protein is tau (FTLD-TAU), the TAR DNA binding protein 43 (FTLD-TDP) and the fused in sarcoma protein (FTLD-FUS). We have observed severe caudate atrophy at autopsy in FTLD-FUS, and hence, we aimed to determine whether caudate atrophy on MRI is a feature that can distinguish FTLD-FUS from FTLD-TDP and FTLD-TAU. METHODS: From a cohort of 207 cases of FTLD, we identified all cases of FTLD-FUS that had a volumetric antemortem head MRI (n = 3). Caudate and frontal lobe volumes were measured in all three cases using atlas-based parcellation and SPM5 and were compared to 10 randomly selected cases of FTLD-TDP and 10 randomly selected cases of FTLD-TAU. Total grey matter volumes were also calculated for all cases. RESULTS: The FTLD-FUS cases had significantly smaller caudate volumes (P = 0.02) yet similar frontal lobe grey matter volumes (P = 0.12) compared to FTLD-TDP and FTLD-TAU. Caudate volumes when corrected for total grey matter volume (P = 0.01) or frontal lobe grey matter volume (P = 0.01) were significantly smaller in FTLD-FUS than in FTLD-TDP and FTLD-TAU and showed no overlap with the other two groups. CONCLUSIONS: Caudate atrophy on MRI appears to be significantly greater in FTLD-FUS compared with FTLD-TDP and FTLD-TAU, suggesting that severe caudate atrophy may be a useful clinical feature to predict FTLD-FUS pathology.
+AN  - rayyan-1277754369
+AU  - Josephs, K. A.
+AU  - Whitwell, J. L.
+AU  - Parisi, J. E.
+AU  - Petersen, R. C.
+AU  - Boeve, B. F.
+AU  - Jack, C. R., Jr.
+AU  - Dickson, D. W.
+C1  - 1468-1331 Josephs, K A Whitwell, J L Parisi, J E Petersen, R C Boeve, B F Jack, C R Jr Dickson, D W K12-HD49078/HD/NICHD NIH HHS/United States P50 AG016574/AG/NIA NIH HHS/United States P50-AG16574/AG/NIA NIH HHS/United States K12 HD049078-01/HD/NICHD NIH HHS/United States K12 HD049078/HD/NICHD NIH HHS/United States U01-AG06786/AG/NIA NIH HHS/United States U01 AG006786/AG/NIA NIH HHS/United States Case Reports Comparative Study Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't England 2010/03/20 Eur J Neurol. 2010 Jul;17(7):969-75. doi: 10.1111/j.1468-1331.2010.02975.x. Epub 2010 Mar 3. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2010-7
+DO  - doi:10.1111/j.1468-1331.2010.02975.x
+IS  - 7
+KW  - Aged
+Atrophy
+Biomarkers/metabolism
+Brain Mapping/methods
+Caudate Nucleus/metabolism/*pathology
+Cohort Studies
+DNA-Binding Proteins/*metabolism
+Diagnosis, Differential
+Female
+Frontal Lobe/metabolism/*pathology
+Frontotemporal Dementia/*diagnosis/metabolism/*pathology
+Humans
+Male
+Middle Aged
+RNA-Binding Protein FUS/*metabolism
+Severity of Illness Index
+tau Proteins/metabolism
+LA  - eng
+PY  - 2010
+SN  - 1351-5101 (Print) 1351-5101
+SP  - 969-75
+ST  - Caudate atrophy on MRI is a characteristic feature of FTLD-FUS
+T2  - Eur J Neurol
+TI  - Caudate atrophy on MRI is a characteristic feature of FTLD-FUS
+VL  - 17
+ID  - 50835
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Immediate blood testing for patients presenting with unexplained complaints in family practice is superfluous from a diagnostic point of view. However, many general pracitioners (GPs) order tests immediately. Watchful waiting reduces the number of patients to be tested and the number of false-positive results. The objectives of this study are: to determine the feasibility of watchful waiting compared to immediate test ordering; to determine if a special quality improvement strategy can improve this feasibility; and to determine if watchful waiting leads to testing at a later time. METHODS: The study is a cluster-randomized clinical trial with three groups, on blood test ordering strategies in patients with unexplained complaints. GPs in group one were instructed to order tests immediately and GPs in group two to apply a watchful waiting approach. GPs in group three received the same instruction as group two, but they were supported by a systematically designed quality improvement strategy. A total of 498 patients with unexplained complaints from 63 practices of Dutch GPs participated. We measured: the percentage of patients for whom tests were ordered and number of tests ordered at the first consultation; performance on the strategy's performance objectives (i.e., ordering fewer tests and specific communication skills); the number of tests ordered after four weeks; and GP and patient characteristics. RESULTS: Immediate test ordering proved feasible in 92% of the patients; watchful waiting in 86% and 84%, respectively, for groups two and three. The two watchful waiting groups did not differ significantly in the achievement of any of the performance objectives. Of the patients who returned after four weeks, none from group one and six from the two watchful waiting groups had tests ordered for them. CONCLUSIONS: Watchful waiting is a feasible approach. It does not lead to testing immediately afterwards. Furthermore, watchful waiting was not improved by the quality improvement strategy. CLINICAL TRIAL REGISTRATION: ISRCTN55755886.
+AD  - Maastricht University, CAPHRI School for Public Health and Primary care, Department of General Practice, PO Box 616, 6200, MD Maastricht, The Netherlands. loes.vanbokhoven@maastrichtuniversity.nl
+AN  - 22475083
+AU  - van Bokhoven, M. A.
+AU  - Koch, H.
+AU  - van der Weijden, T.
+AU  - Weekers-Muyres, A. H.
+AU  - Bindels, P. J.
+AU  - Grol, R. P.
+AU  - Dinant, G. J.
+C2  - PMC3353203
+DA  - Apr 4
+DO  - 10.1186/1748-5908-7-29
+DP  - NLM
+ET  - 20120404
+KW  - Adolescent
+Adult
+Aged
+Diagnostic Tests, Routine/*statistics & numerical data
+Family Practice/*methods
+Feasibility Studies
+Humans
+Middle Aged
+Netherlands
+Professional Practice
+Quality Improvement
+Referral and Consultation/*statistics & numerical data
+Somatoform Disorders/*etiology
+Unnecessary Procedures/statistics & numerical data
+*Watchful Waiting
+Young Adult
+LA  - eng
+N1  - 1748-5908
+van Bokhoven, Marloes A
+Koch, Hèlen
+van der Weijden, Trudy
+Weekers-Muyres, Anuska H M
+Bindels, Patrick J E
+Grol, Richard P T M
+Dinant, Geert-Jan
+Comparative Study
+Journal Article
+Randomized Controlled Trial
+England
+2012/04/06
+Implement Sci. 2012 Apr 4;7:29. doi: 10.1186/1748-5908-7-29.
+PY  - 2012
+SN  - 1748-5908
+SP  - 29
+ST  - The effect of watchful waiting compared to immediate test ordering instructions on general practitioners' blood test ordering behaviour for patients with unexplained complaints; a randomized clinical trial (ISRCTN55755886)
+T2  - Implement Sci
+TI  - The effect of watchful waiting compared to immediate test ordering instructions on general practitioners' blood test ordering behaviour for patients with unexplained complaints; a randomized clinical trial (ISRCTN55755886)
+VL  - 7
+ID  - 50888
+ER  - 
+
+TY  - JOUR
+AB  - Dementia associated with cerebrovascular disease is common. It has been reported that ∼30% of elderly patients who survive stroke develop delayed dementia (post-stroke dementia), with most cases being diagnosed as vascular dementia. The pathological substrates associated with post-stroke or vascular dementia are poorly understood, particularly those associated with executive dysfunction. Three separate yet interconnecting circuits control executive function within the frontal lobe involving the dorsolateral prefrontal cortex, anterior cingulate cortex and the orbitofrontal cortex. We used stereological methods, along with immunohistological and related cell morphometric analysis, to examine densities and volumes of pyramidal neurons of the dorsolateral prefrontal cortex, anterior cingulate cortex and orbitofrontal cortex in the frontal lobe from a total of 90 elderly subjects (age range 71-98 years). Post-mortem brain tissues from post-stroke dementia and post-stroke patients with no dementia were derived from our prospective Cognitive Function After Stroke study. We also examined, in parallel, samples from ageing controls and similar age subjects pathologically diagnosed with Alzheimer's disease, mixed Alzheimer's disease and vascular dementia, and vascular dementia. We found pyramidal cell volumes in layers III and V in the dorsolateral prefrontal cortex of post-stroke and vascular dementia and, of mixed and Alzheimer's disease subjects to be reduced by 30-40% compared to post-stroke patients with no dementia and controls. There were no significant changes in neuronal volumes in either the anterior cingulate or orbitofrontal cortices. Remarkably, pyramidal neurons within the orbitofrontal cortex were also found to be smaller in size when compared to those in the other two neocortical regions. To relate the cell changes to cognitive function, we noted significant correlations between neuronal volumes and total CAMCOG, orientation and memory scores and clinical dementia ratings. Total estimated neuronal densities were not significantly changed between patients with post-stroke dementia and post-stroke patients with no dementia groups or ageing controls in any of the three frontal regions. In further morphometric analysis of the dorsolateral prefrontal cortex, we showed that neither diffuse cerebral atrophy nor neocortical thickness explained the selective neuronal volume effects. We also noted that neurofilament protein SMI31 immunoreactivity was increased in post-stroke and vascular dementia compared with post-stroke patients with no dementia and correlated with decreased neuronal volumes in subjects with post-stroke dementia and vascular dementia. Our findings suggest selective regional pyramidal cell atrophy in the dorsolateral prefrontal cortex-rather than neuronal density changes per se-are associated with dementia and executive dysfunction in post-stroke dementia and vascular dementia. The changes in dorsolateral prefrontal cortex pyramidal cells were not associated with neurofibrillary pathology suggesting there is a vascular basis for the observed highly selective neuronal atrophy.
+AN  - rayyan-1277755872
+AU  - Foster, V.
+AU  - Oakley, A. E.
+AU  - Slade, J. Y.
+AU  - Hall, R.
+AU  - Polvikoski, T. M.
+AU  - Burke, M.
+AU  - Thomas, A. J.
+AU  - Khundakar, A.
+AU  - Allan, L. M.
+AU  - Kalaria, R. N.
+C1  - 1460-2156 Foster, Vincent Oakley, Arthur E Slade, Janet Y Hall, Roslyn Polvikoski, Tuomo M Burke, Matthew Thomas, Alan J Khundakar, Ahmad Allan, Louise M Kalaria, Raj N G0700718/MRC_/Medical Research Council/United Kingdom BB_/Biotechnology and Biological Sciences Research Council/United Kingdom G0400074/MRC_/Medical Research Council/United Kingdom G1100540/MRC_/Medical Research Council/United Kingdom G0500247/MRC_/Medical Research Council/United Kingdom G0900652/MRC_/Medical Research Council/United Kingdom G0502157/MRC_/Medical Research Council/United Kingdom Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2014/06/30 Brain. 2014 Sep;137(Pt 9):2509-21. doi: 10.1093/brain/awu172. Epub 2014 Jun 28. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2014-9
+DO  - doi:10.1093/brain/awu172
+KW  - Aged
+Aged, 80 and over
+Aging/*pathology/psychology
+Alzheimer Disease/diagnosis/psychology
+Brief Psychiatric Rating Scale/standards
+Dementia, Vascular/*diagnosis/physiopathology/psychology
+Female
+Humans
+Male
+Prefrontal Cortex/blood supply/*pathology
+Prospective Studies
+Pyramidal Cells/*pathology
+Alzheimer’s disease
+ageing
+executive function
+post-stroke dementia
+prefrontal cortex
+stroke
+vascular dementia
+LA  - eng
+PY  - 2014
+SN  - 0006-8950
+SP  - 2509-21
+ST  - Pyramidal neurons of the prefrontal cortex in post-stroke, vascular and other ageing-related dementias
+T2  - Brain
+TI  - Pyramidal neurons of the prefrontal cortex in post-stroke, vascular and other ageing-related dementias
+VL  - 137
+ID  - 50836
+ER  - 
+
+TY  - JOUR
+AB  - We aimed to develop and validate a Chinese version of the Neuropsychiatry Unit Cognitive Assessment Tool (NUCOG) for use in Chinese-speaking subjects internationally. Patients and healthy controls were recruited from two hospitals between July and October 2012. Receiver operating characteristic (ROC) curves were utilized to test criterion validity. Convergent validity was assessed via correlations between NUCOG and the Mini-Mental State Examination (MMSE). Reliability was measured by internal consistency (Cronbach's α). Patients with epilepsy (n=144), neurological diseases (n=81), dementia (n=44), and controls (n=260) completed the NUCOG and the MMSE. Overall, both NUCOG and MMSE scores differed significantly across the four groups with the highest scores in the control group and the lowest in the dementia group (p<0.0001). The NUCOG scores could differentiate between patients with certain seizure types, stroke and transient ischemic attack. Compared to the MMSE, the NUCOG exhibited a higher area under the ROC curve. The convergent validity was substantially correlated, and internal consistency was very high (0.922). The Chinese version of NUCOG was demonstrated to be a sensitive and reliable screening tool for cognitive impairment in a Chinese-speaking population not only in China, but also in countries where there is a sizeable population of ethnic Chinese. Additionally, our study also showed the NUCOG could better differentiate cognitive function in patients with certain seizure types, stroke and transient ischemic attack than the MMSE. This potentially expands the clinical usefulness of NUCOG, enabling clinicians to measure the cognitive profile of patients with epilepsy and ischemic cerebrovascular diseases.
+AN  - rayyan-1277755883
+AU  - Gao, L.
+AU  - Li, S. C.
+AU  - Xia, L.
+AU  - Pan, S.
+AU  - Velakoulis, D.
+AU  - Walterfang, M.
+C1  - 1532-2653 Gao, Lan Li, Shu-Chuen Xia, Li Pan, Songqing Velakoulis, Dennis Walterfang, Mark Journal Article Multicenter Study Randomized Controlled Trial Validation Study Scotland 2014/02/11 J Clin Neurosci. 2014 Jun;21(6):980-7. doi: 10.1016/j.jocn.2013.09.020. Epub 2013 Dec 1. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2014-6
+DO  - doi:10.1016/j.jocn.2013.09.020
+IS  - 6
+KW  - Adult
+Aged
+China/ethnology
+Cognition Disorders/*diagnosis/ethnology/psychology
+Dementia/*diagnosis/ethnology/psychology
+Epilepsy/*diagnosis/ethnology/psychology
+Female
+Humans
+Male
+Middle Aged
+*Multilingualism
+Nervous System Diseases/diagnosis/ethnology/psychology
+Neuropsychological Tests/*standards
+Pilot Projects
+*ROC Curve
+Young Adult
+Cognition
+Dementia
+Epilepsy
+Mini-Mental State Examination
+Neuropsychiatry Unit Cognitive Assessment Tool Screening
+LA  - eng
+PY  - 2014
+SN  - 0967-5868
+SP  - 980-7
+ST  - Validation of the Chinese version of the NUCOG cognitive screening tool in patients with epilepsy, dementia and other neurological disorders
+T2  - J Clin Neurosci
+TI  - Validation of the Chinese version of the NUCOG cognitive screening tool in patients with epilepsy, dementia and other neurological disorders
+VL  - 21
+ID  - 50837
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE AND DESIGN: Most of the 5.4 million Americans with dementia are cared for by family members who experience care needs and time constraints. This quasi-experimental study examined the experience of using a psychosocial assessment instrument to understand caregiver needs delivered in an interview versus a self-administered web-based format. METHODS: Ten family caregivers were randomized to an interview group or a web-based group with two advanced practice registered nurses (APRNs). Surveys captured the caregivers' and APRNs' assessment experiences. FINDINGS: There were no statistically significant differences between the two caregiver groups. Both groups rated the assessment instrument as excellent or good, finding it easy to complete capturing real needs they frequently denied or ignored. The APRN reported the web-based format was easier to use. CONCLUSION AND CLINICAL RELEVANCE: Healthcare providers could use web-based caregiver assessment as an effective, efficient method for identifying care needs and planning interventions that promote balance/congruence in caregivers' lives.
+AN  - rayyan-1277755889
+AU  - Gies, C.
+AU  - Pierce, L.
+AU  - Steiner, V.
+AU  - van der Bijl, J.
+AU  - Salvador, D.
+C1  - Gies, Cheryl Pierce, Linda Steiner, Victoria van der Bijl, Joan Salvador, Diane Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2013/05/25 Rehabil Nurs. 2014 Mar-Apr;39(2):102-9. doi: 10.1002/rnj.93. Epub 2013 May 23. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2014-3
+DO  - doi:10.1002/rnj.93
+IS  - 2
+KW  - Aged
+Caregivers/*psychology
+Dementia/*nursing/*psychology
+Feasibility Studies
+Female
+Humans
+*Internet
+*Interviews as Topic
+Male
+*Social Support
+Dementia
+Internet psychosocial assessment
+caregivers
+LA  - eng
+PY  - 2014
+SN  - 0278-4807 (Print) 0278-4807
+SP  - 102-9
+ST  - Web-based psychosocial assessment for caregivers of persons with dementia: a feasibility study
+T2  - Rehabil Nurs
+TI  - Web-based psychosocial assessment for caregivers of persons with dementia: a feasibility study
+VL  - 39
+ID  - 50838
+ER  - 
+
+TY  - JOUR
+AB  - Genetic essentialism suggests that beliefs in genetic causes of mental illness will inflate a desire for social distance from affected individuals, regardless of specific disorder. However, genetic contingency theory predicts that genetic attributions will lead to an increased desire for social distance only from persons with disorders who are perceived as dangerous. PURPOSE: To assess the interactive effect of diagnosis and attribution on social distance and actual helping decisions across disorders. METHODS: Undergraduate students (n = 149) were randomly assigned to read one of the six vignettes depicting a person affected by one of the three disorders (i.e., schizophrenia, bipolar disorder, or major depression) with either a genetic or environmental causal attribution for disorder. Participants completed measures of perceived dangerousness, social distance, empathic concern, familiarity with mental illness, and actual helping decisions. RESULTS: When provided with genetic attributions, participants' desire for social distance was greater for targets with schizophrenia relative to targets with depression or bipolar disorder. This effect was mediated by perceived dangerousness. The indirect effect of diagnosis on helping decisions, through social distance, was significant within the genetic attribution condition. CONCLUSION: Consistent with genetic contingency theory, genetic attributions for schizophrenia, but not affective disorders, lead to greater desire for social distance via greater perceived dangerousness. Further, results suggest that genetic attributions decrease the likelihood of helping people with schizophrenia, but have no effect on the likelihood of helping people with affective disorders. These effects are partially accounted for by desired social distance from people with schizophrenia.
+AN  - rayyan-1277755983
+AU  - Lee, A. A.
+AU  - Laurent, S. M.
+AU  - Wykes, T. L.
+AU  - Kitchen Andren, K. A.
+AU  - Bourassa, K. A.
+AU  - McKibbin, C. L.
+C1  - 1433-9285 Lee, Aaron A Laurent, Sean M Wykes, Thomas L Kitchen Andren, Katherine A Bourassa, Katelynn A McKibbin, Christine L P20GM103432/GM/NIGMS NIH HHS/United States P20RR016474/RR/NCRR NIH HHS/United States P20 RR016474/RR/NCRR NIH HHS/United States K23 MH063139/MH/NIMH NIH HHS/United States P20 GM103432/GM/NIGMS NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural Germany 2013/09/27 Soc Psychiatry Psychiatr Epidemiol. 2014 May;49(5):781-9. doi: 10.1007/s00127-013-0764-1. Epub 2013 Sep 26. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2014-5
+DO  - doi:10.1007/s00127-013-0764-1
+IS  - 5
+KW  - Adult
+Analysis of Variance
+Bipolar Disorder/diagnosis/genetics/psychology
+*Dangerous Behavior
+Depressive Disorder, Major/diagnosis/genetics/psychology
+Female
+Health Knowledge, Attitudes, Practice
+Helping Behavior
+Humans
+Male
+Mental Disorders/*diagnosis/*genetics/psychology
+*Psychological Distance
+Recognition, Psychology
+Schizophrenia/diagnosis/genetics
+Schizophrenic Psychology
+*Social Perception
+LA  - eng
+PY  - 2014
+SN  - 0933-7954 (Print) 0933-7954
+SP  - 781-9
+ST  - Genetic attributions and mental illness diagnosis: effects on perceptions of danger, social distance, and real helping decisions
+T2  - Soc Psychiatry Psychiatr Epidemiol
+TI  - Genetic attributions and mental illness diagnosis: effects on perceptions of danger, social distance, and real helping decisions
+VL  - 49
+ID  - 50839
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: The Alzheimer's Disease Assessment Scale-cognitive section and its standardized version (SADAS-cog) are the current standard for assessing cognitive outcomes in clinical trials of dementia. This study compares a shorter cognitive instrument, the Quick Mild Cognitive Impairment (Qmci) screen, with the SADAS-cog as outcome measures in clinical trials. STUDY DESIGN AND SETTING: The SADAS-cog, Qmci, Clinical Dementia Rating (CDR) scale, and the Lawton-Brady activities of daily living (ADL) scale were assessed at multiple time points, over 1 year in a multicenter randomized clinical trial of 406 patients with mild to moderate Alzheimer's dementia. Correlations were estimated using regression at each time point, all time points, and mean values across time. Responsiveness was assessed using the standardized response mean (SRM). RESULTS: Regression for pooled time points showed strong and significant correlation between the SADAS-cog and Qmci (r = -0.75, P < 0.001). Correlations remained strong for mean values across time and at each time point. The SADAS-cog and Qmci also correlated with CDR and ADL scores. There was no difference in SRMs between the SADAS-cog and Qmci [t(357) = -0.32, P = 0.75]. CONCLUSION: The Qmci correlated strongly with the SADAS-cog and both were equally responsive to deterioration. We suggest that clinicians and investigators can substitute the shorter Qmci for the SADAS-cog.
+AN  - rayyan-1277756056
+AU  - O'Caoimh, R.
+AU  - Svendrovski, A.
+AU  - Johnston, B. C.
+AU  - Gao, Y.
+AU  - McGlade, C.
+AU  - Eustace, J.
+AU  - Timmons, S.
+AU  - Guyatt, G.
+AU  - Molloy, D. W.
+C1  - 1878-5921 O'Caoimh, Rónán Svendrovski, Anton Johnston, Bradley C Gao, Yang McGlade, Ciara Eustace, Joseph Timmons, Suzanne Guyatt, Gordon Molloy, D William FRN 79779/Canadian Institutes of Health Research/Canada Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2013/10/01 J Clin Epidemiol. 2014 Jan;67(1):87-92. doi: 10.1016/j.jclinepi.2013.07.009. Epub 2013 Sep 25. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2014-1
+DO  - doi:10.1016/j.jclinepi.2013.07.009
+IS  - 1
+KW  - Aged
+Aged, 80 and over
+Alzheimer Disease/drug therapy/*psychology
+Cognitive Dysfunction/*diagnosis
+Humans
+Mass Screening/*methods
+*Psychiatric Status Rating Scales
+Reproducibility of Results
+Clinical Dementia Rating (CDR) scale
+Clinical trials
+Correlation
+Quick Mild Cognitive Impairment (Qmci) screen
+Short cognitive screen
+Standardized Alzheimer's Disease Assessment Scale–cognitive section (SADAS-cog)
+LA  - eng
+PY  - 2014
+SN  - 0895-4356
+SP  - 87-92
+ST  - The Quick Mild Cognitive Impairment screen correlated with the Standardized Alzheimer's Disease Assessment Scale-cognitive section in clinical trials
+T2  - J Clin Epidemiol
+TI  - The Quick Mild Cognitive Impairment screen correlated with the Standardized Alzheimer's Disease Assessment Scale-cognitive section in clinical trials
+VL  - 67
+ID  - 50840
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: We sought to examine the prevalence of EEG abnormalities in Smith-Lemli-Opitz syndrome (SLOS) as well as the relationship between interictal epileptiform discharges (IEDs) and within-subject variations in attentional symptom severity. METHODS: In the context of a clinical trial for SLOS, we performed cross-sectional and repeated-measure observational studies of the relationship between EEG findings and cognitive/behavioral factors on 23 children (aged 4-17 years). EEGs were reviewed for clinical abnormalities, including IEDs, by readers blinded to participants' behavioral symptoms. Between-group differences in baseline characteristics of participants with and without IEDs were analyzed. Within-subject analyses examined the association between the presence of IEDs and changes in attention-deficit/hyperactivity disorder (ADHD) symptoms. RESULTS: Of 85 EEGs, 43 (51%) were abnormal, predominantly because of IEDs. Only one subject had documented clinical seizures. IEDs clustered in 13 subjects (57%), whereas 9 subjects (39%) had EEGs consistently free of IEDs. While there were no significant group differences in sex, age, intellectual disability, language level, or baseline ADHD symptoms, autistic symptoms tended to be more prevalent in the "IED" group (according to Autism Diagnostic Observation Schedule-2 criteria). Within individuals, the presence of IEDs on a particular EEG predicted, on average, a 27% increase in ADHD symptom severity. CONCLUSIONS: Epileptiform discharges are common in SLOS, despite a relatively low prevalence of epilepsy. Fluctuations in the presence of epileptiform discharges within individual children with a developmental disability syndrome may be associated with fluctuations in ADHD symptomatology, even in the absence of clinical seizures.
+AN  - rayyan-1277756119
+AU  - Schreiber, J. M.
+AU  - Lanham, D. C.
+AU  - Trescher, W. H.
+AU  - Sparks, S. E.
+AU  - Wassif, C. A.
+AU  - Caffo, B. S.
+AU  - Porter, F. D.
+AU  - Tierney, E.
+AU  - Gropman, A. L.
+AU  - Ewen, J. B.
+C1  - 1526-632x Schreiber, John M Lanham, Diane C Trescher, William H Sparks, Susan E Wassif, Christopher A Caffo, Brian S Porter, Forbes D Tierney, Elaine Gropman, Andrea L Ewen, Joshua B K23 NS073626/NS/NINDS NIH HHS/United States UL1 TR 000424-06/TR/NCATS NIH HHS/United States P30 HD024061/HD/NICHD NIH HHS/United States Journal Article Observational Study Randomized Controlled Trial Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't United States 2014/06/13 Neurology. 2014 Jul 8;83(2):151-9. doi: 10.1212/WNL.0000000000000565. Epub 2014 Jun 11. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2014-7-8
+DO  - doi:10.1212/wnl.0000000000000565
+IS  - 2
+KW  - Adolescent
+Attention/physiology
+Attention Deficit Disorder with Hyperactivity/*diagnosis/etiology
+Autistic Disorder/psychology
+Child
+Child Behavior
+Child, Preschool
+Cross-Over Studies
+Cross-Sectional Studies
+Developmental Disabilities/etiology/psychology
+Double-Blind Method
+*Electroencephalography
+Epilepsy/diagnosis/physiopathology
+Female
+Humans
+Hydroxymethylglutaryl-CoA Reductase Inhibitors/therapeutic use
+Linear Models
+Male
+Neuropsychological Tests
+Seizures/etiology/physiopathology
+Simvastatin/therapeutic use
+Smith-Lemli-Opitz Syndrome/*diagnosis
+LA  - eng
+PY  - 2014
+SN  - 0028-3878 (Print) 0028-3878
+SP  - 151-9
+ST  - Variations in EEG discharges predict ADHD severity within individual Smith-Lemli-Opitz patients
+T2  - Neurology
+TI  - Variations in EEG discharges predict ADHD severity within individual Smith-Lemli-Opitz patients
+VL  - 83
+ID  - 50841
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Uptake of chlamydia screening by men in England has been substantially lower than by women. Non-traditional settings such as sports clubs offer opportunities to widen access. Involving people who are not medically trained to promote screening could optimise acceptability. METHODS: We developed two interventions to explore the acceptability and feasibility of urine-based sexually transmitted infection (STI) screening interventions targeting men in football clubs. We tested these interventions in a pilot cluster randomised control trial. Six clubs were randomly allocated, two to each of three trial arms: team captain-led and poster STI screening promotion; sexual health adviser-led and poster STI screening promotion; and poster-only STI screening promotion (control/comparator). Primary outcome was test uptake. RESULTS: Across the three arms, 153 men participated in the trial and 90 accepted the offer of screening (59%, 95% CI 35% to 79%). Acceptance rates were broadly comparable across the arms: captain-led: 28/56 (50%); health professional-led: 31/46 (67%); and control: 31/51 (61%). However, rates varied appreciably by club, precluding formal comparison of arms. No infections were identified. Process evaluation confirmed that interventions were delivered in a standardised way but the control arm was unintentionally 'enhanced' by some team captains actively publicising screening events. CONCLUSIONS: Compared with other UK-based community screening models, uptake was high but gaining access to clubs was not always easy. Use of sexual health advisers and team captains to promote screening did not appear to confer additional benefit over a poster-promoted approach. Although the interventions show potential, the broader implications of this strategy for UK male STI screening policy require further investigation.
+AD  - Queen Mary University of London, UK (where the research took place).
+Centre for Sexual Health and HIV Research, University College London, London, UK.
+Blizard Institute of Cell and Molecular Science, Queen Mary, University of London, London, UK.
+Division of Primary Care and Public Health, Brighton and Sussex Medical School, Brighton, UK.
+Faculty of Population Health Sciences, University College London, London, UK.
+Department of Infection & Population Health, University College London, London, UK.
+Department of Health Economics Facility, University of Birmingham, Birmingham, UK.
+AN  - 25512674
+AU  - Fuller, S. S.
+AU  - Mercer, C. H.
+AU  - Copas, A. J.
+AU  - Saunders, J.
+AU  - Sutcliffe, L. J.
+AU  - Cassell, J. A.
+AU  - Hart, G.
+AU  - Johnson, A. M.
+AU  - Roberts, T. E.
+AU  - Jackson, L. J.
+AU  - Muniina, P.
+AU  - Estcourt, C. S.
+C2  - PMC4345976
+DA  - Mar
+DO  - 10.1136/sextrans-2014-051719
+DP  - NLM
+ET  - 20141215
+IS  - 2
+KW  - Adolescent
+Adult
+*Athletes
+Behavior Therapy/*methods
+Diagnostic Tests, Routine/*statistics & numerical data
+England
+Football
+Humans
+Male
+Mass Screening/*methods
+Sexually Transmitted Diseases/*diagnosis
+United Kingdom
+Young Adult
+Chlamydia trachomatis
+Gonorrhoea
+Intervention studies
+Men
+Screening
+LA  - eng
+N1  - 1472-3263
+Fuller, Sebastian S
+Mercer, Catherine H
+Copas, Andrew J
+Saunders, John
+Sutcliffe, Lorna J
+Cassell, Jackie A
+Hart, Graham
+Johnson, Anne M
+Roberts, Tracy E
+Jackson, Louise J
+Muniina, Pamela
+Estcourt, Claudia S
+RP-PG-0707-10208/DH_/Department of Health/United Kingdom
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+2014/12/17
+Sex Transm Infect. 2015 Mar;91(2):106-10. doi: 10.1136/sextrans-2014-051719. Epub 2014 Dec 15.
+PY  - 2015
+SN  - 1368-4973 (Print)
+1368-4973
+SP  - 106-10
+ST  - The SPORTSMART study: a pilot randomised controlled trial of sexually transmitted infection screening interventions targeting men in football club settings
+T2  - Sex Transm Infect
+TI  - The SPORTSMART study: a pilot randomised controlled trial of sexually transmitted infection screening interventions targeting men in football club settings
+VL  - 91
+ID  - 50889
+ER  - 
+
+TY  - JOUR
+AB  - Fluorine-18 labelled N,N-diethyl-2-(2-[4-(2-fluoroethoxy)phenyl]-5,7-dimethylpyrazolo[1,5-α]pyrimidine-3-yl)acetamide ([(18)F]DPA-714) binds to the 18-kDa translocator protein (TSPO) with high affinity. The aim of this initial methodological study was to develop a plasma input tracer kinetic model for quantification of [(18)F]DPA-714 binding in healthy subjects and Alzheimer's disease (AD) patients, and to provide a preliminary assessment whether there is a disease-related signal. Ten AD patients and six healthy subjects underwent a dynamic positron emission tomography (PET) study along with arterial sampling and a scan protocol of 150 minutes after administration of 250 ± 10 MBq [(18)F]DPA-714. The model that provided the best fits to tissue time activity curves (TACs) was selected based on Akaike Information Criterion and F-test. The reversible two tissue compartment plasma input model with blood volume parameter was the preferred model for quantification of [(18)F]DPA-714 kinetics, irrespective of scan duration, volume of interest, and underlying volume of distribution (VT). Simplified reference tissue model (SRTM)-derived binding potential (BPND) using cerebellar gray matter as reference tissue correlated well with plasma input-based distribution volume ratio (DVR). These data suggest that [(18)F]DPA-714 cannot be used for separating individual AD patients from healthy subjects, but further studies including TSPO binding status are needed to substantiate these findings.
+AN  - rayyan-1277756382
+AU  - Golla, S. S.
+AU  - Boellaard, R.
+AU  - Oikonen, V.
+AU  - Hoffmann, A.
+AU  - van Berckel, B. N.
+AU  - Windhorst, A. D.
+AU  - Virta, J.
+AU  - Haaparanta-Solin, M.
+AU  - Luoto, P.
+AU  - Savisto, N.
+AU  - Solin, O.
+AU  - Valencia, R.
+AU  - Thiele, A.
+AU  - Eriksson, J.
+AU  - Schuit, R. C.
+AU  - Lammertsma, A. A.
+AU  - Rinne, J. O.
+C1  - 1559-7016 Golla, Sandeep S V Boellaard, Ronald Oikonen, Vesa Hoffmann, Anja van Berckel, Bart N M Windhorst, Albert D Virta, Jere Haaparanta-Solin, Merja Luoto, Pauliina Savisto, Nina Solin, Olof Valencia, Ray Thiele, Andrea Eriksson, Jonas Schuit, Robert C Lammertsma, Adriaan A Rinne, Juha O Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2015/02/05 J Cereb Blood Flow Metab. 2015 May;35(5):766-72. doi: 10.1038/jcbfm.2014.261. Epub 2015 Feb 4. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2015-5
+DO  - doi:10.1038/jcbfm.2014.261
+IS  - 5
+KW  - Aged
+Aged, 80 and over
+*Alzheimer Disease/diagnostic imaging/metabolism
+Female
+*Fluorine Radioisotopes/administration & dosage/pharmacokinetics
+Humans
+Kinetics
+Male
+Middle Aged
+*Models, Biological
+*Positron-Emission Tomography
+*Pyrazoles/administration & dosage/adverse effects
+*Pyrimidines/administration & dosage/adverse effects
+Radiography
+Receptors, GABA/*metabolism
+Time Factors
+LA  - eng
+PY  - 2015
+SN  - 0271-678X (Print) 0271-678x
+SP  - 766-72
+ST  - Quantification of [18F]DPA-714 binding in the human brain: initial studies in healthy controls and Alzheimer's disease patients
+T2  - J Cereb Blood Flow Metab
+TI  - Quantification of [18F]DPA-714 binding in the human brain: initial studies in healthy controls and Alzheimer's disease patients
+VL  - 35
+ID  - 50842
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Dementia with Lewy bodies (DLB) is underrecognised in clinical settings. AIMS: To investigate whether performing a (123)I-ioflupane injection ((123)I-FP-CIT also called DaTSCAN™) single photon emission computed tomography (SPECT) scan in patients with possible DLB would lead to a more certain diagnosis (probable DLB or non-DLB dementia). METHOD: We randomised 187 patients with possible DLB 2:1 to have a scan or not (control group). The outcome measure was a change in diagnosis to probable DLB or non-DLB. RESULTS: There were 56 controls and 114 scanned patients, of whom 43% had an abnormal scan. More patients in the imaging group had a change in diagnosis compared with controls at 8 and 24 weeks (61% (n = 70) v. 4% (n = 2) and 71% (n = 77) v. 16% (n = 9); both P<0.0001). Clinicians were more likely to change the diagnosis if the scan was abnormal (82%) than if it was normal (46%). CONCLUSIONS: Imaging significantly contributed to a more certain diagnosis, proving to be a useful adjunct in the work-up of patients with possible DLB.
+AN  - rayyan-1277756659
+AU  - Walker, Z.
+AU  - Moreno, E.
+AU  - Thomas, A.
+AU  - Inglis, F.
+AU  - Tabet, N.
+AU  - Rainer, M.
+AU  - Pizzolato, G.
+AU  - Padovani, A.
+C1  - 1472-1465 Walker, Zuzana Moreno, Emilio Thomas, Alan Inglis, Fraser Tabet, Naji Rainer, Michael Pizzolato, Gilberto Padovani, Alessandro DaTSCAN DLB Phase 4 Study Group Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2014/11/29 Br J Psychiatry. 2015 Feb;206(2):145-52. doi: 10.1192/bjp.bp.114.148643. Epub 2014 Nov 27. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2015-2
+DO  - doi:10.1192/bjp.bp.114.148643
+IS  - 2
+KW  - Aged
+Brain/metabolism
+Dopamine Plasma Membrane Transport Proteins/*metabolism
+Female
+Humans
+Lewy Body Disease/*diagnostic imaging
+Male
+*Nortropanes
+Predictive Value of Tests
+*Tomography, Emission-Computed, Single-Photon
+LA  - eng
+PY  - 2015
+SN  - 0007-1250
+SP  - 145-52
+ST  - Clinical usefulness of dopamine transporter SPECT imaging with 123I-FP-CIT in patients with possible dementia with Lewy bodies: randomised study
+T2  - Br J Psychiatry
+TI  - Clinical usefulness of dopamine transporter SPECT imaging with 123I-FP-CIT in patients with possible dementia with Lewy bodies: randomised study
+VL  - 206
+ID  - 50843
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Doctors are unfamiliar with diagnostic accuracy parameters despite routine clinical use of diagnostic tests to estimate disease probability. METHODS: Trainee doctors completed a questionnaire exploring their understanding of diagnostic accuracy parameters; ability to calculate post-test probability of a common surgical condition (appendicitis) and their perceptions on training in this area. To determine whether the method of information provision altered interpretation, trainees were randomised to receive diagnostic test information in three ways: positive test only; positive test with specificity and sensitivity; positive test with positive likelihood ratio in layman terms. RESULTS: 326 candidates were recruited across 30 training sessions. Trainees scored a median of three out of seven in questions concerning knowledge of diagnostic accuracy parameters. This was affected neither by training level (P = 0.737) nor by experience in acute general surgery (P = 0.738). 30 (11.8%) candidates correctly estimated post-test probability; with 86.6% overestimating this value. Neither level of training (P = 0.180) nor experience (P = 0.242) influenced the accuracy of the estimate. Provision of the ultrasound scan results in different ways was not associated with likelihood of a correct response (P = 0.857). CONCLUSION: This study highlights the deficiencies in trainee doctors' understanding and application of diagnostic tests results. Most trainees over-estimated disease probability, increasing the risk of unnecessary intervention and treatment.
+AD  - Department of Oncology, University of Sheffield, EU35, E floor, Royal Hallamshire Hospital, Sheffield, S10 2JF, UK.
+Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK.
+Department of Oncology, University of Sheffield, EU35, E floor, Royal Hallamshire Hospital, Sheffield, S10 2JF, UK. tdrake@doctors.org.uk.
+Faculty of Medicine and Dentistry, University of Sheffield, Sheffield, UK. tdrake@doctors.org.uk.
+Faculty of Medicine and Dentistry, University of Sheffield, Sheffield, UK.
+Department of Oncology, University of Sheffield, EU35, E floor, Royal Hallamshire Hospital, Sheffield, S10 2JF, UK. s.p.balasubramanian@sheffield.ac.uk.
+Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK. s.p.balasubramanian@sheffield.ac.uk.
+AN  - 26306891
+AU  - Parker, V. L.
+AU  - Ritchie, J. E.
+AU  - Drake, T. M.
+AU  - Hookham, J.
+AU  - Balasubramanian, S. P.
+DA  - Jan
+DO  - 10.1007/s00268-015-3214-2
+DP  - NLM
+IS  - 1
+KW  - *Clinical Competence
+Cross-Sectional Studies
+Diagnostic Tests, Routine/*methods
+Education, Medical, Continuing/*methods
+Female
+Humans
+Male
+Physicians/*standards
+Probability
+*Surveys and Questionnaires
+United Kingdom
+Unnecessary Procedures/trends
+LA  - eng
+N1  - 1432-2323
+Parker, V L
+Ritchie, J E
+Drake, T M
+Hookham, J
+Balasubramanian, S P
+Journal Article
+Randomized Controlled Trial
+United States
+2015/08/27
+World J Surg. 2016 Jan;40(1):21-8. doi: 10.1007/s00268-015-3214-2.
+PY  - 2016
+SN  - 0364-2313
+SP  - 21-8
+ST  - A Randomised Assessment of Trainee Doctors' Understanding and Interpretation of Diagnostic Test Results
+T2  - World J Surg
+TI  - A Randomised Assessment of Trainee Doctors' Understanding and Interpretation of Diagnostic Test Results
+VL  - 40
+ID  - 50872
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To test the hypothesis that core and suggestive features in possible dementia with Lewy bodies (DLB) would vary in their ability to predict an abnormal dopamine transporter scan and therefore a follow-up diagnosis of probable DLB. A further objective was to assess the evolution of core and suggestive features in patients with possible DLB over time depending on the (123)I-FP-CIT SPECT scan result. METHODS: A total of 187 patients with possible DLB (dementia plus one core or one suggestive feature) were randomized to have dopamine transporter imaging or to follow-up without scan. DLB features were compared at baseline and at 6-month follow-up according to imaging results and follow-up diagnosis. RESULTS: For the whole cohort, the baseline frequency of parkinsonism was 30%, fluctuations 29%, visual hallucinations 24%, and REM sleep behavior disorder 17%. Clinician-rated presence of parkinsonism at baseline was significantly (p = 0.001) more frequent and Unified Parkinson's Disease Rating Scale (UPDRS) score at baseline was significantly higher (p = 0.02) in patients with abnormal imaging. There was a significant increase in UPDRS score in the abnormal scan group over time (p < 0.01). There was relatively little evolution of the rest of the DLB features regardless of the imaging result. CONCLUSIONS: In patients with possible DLB, apart from UPDRS score, there was no difference in the evolution of DLB clinical features over 6 months between cases with normal and abnormal imaging. Only parkinsonism and dopamine transporter imaging helped to differentiate DLB from non-DLB dementia.
+AN  - rayyan-1277757078
+AU  - Walker, Z.
+AU  - Moreno, E.
+AU  - Thomas, A.
+AU  - Inglis, F.
+AU  - Tabet, N.
+AU  - Stevens, T.
+AU  - Whitfield, T.
+AU  - Aarsland, D.
+AU  - Rainer, M.
+AU  - Padovani, A.
+C1  - 1526-632x Walker, Zuzana Moreno, Emilio Thomas, Alan Inglis, Fraser Tabet, Naji Stevens, Tim Whitfield, Tim Aarsland, Dag Rainer, Michael Padovani, Alessandro DaTSCAN DLB Phase 4 Study Group Clinical Trial, Phase IV Journal Article Multicenter Study Randomized Controlled Trial United States 2016/08/12 Neurology. 2016 Sep 6;87(10):1045-51. doi: 10.1212/WNL.0000000000003076. Epub 2016 Aug 10. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2016-9-6
+DO  - doi:10.1212/wnl.0000000000003076
+IS  - 10
+KW  - Aged
+Brain/diagnostic imaging
+Disease Progression
+Europe
+Female
+Follow-Up Studies
+Hallucinations/diagnostic imaging/epidemiology/physiopathology
+Humans
+Lewy Body Disease/*diagnostic imaging/epidemiology/*physiopathology
+Male
+Mental Status Schedule
+Parkinsonian Disorders/diagnostic imaging/epidemiology/physiopathology
+REM Sleep Behavior Disorder/diagnostic imaging/epidemiology/physiopathology
+Radiopharmaceuticals
+Severity of Illness Index
+Tomography, Emission-Computed, Single-Photon
+Tropanes
+LA  - eng
+PY  - 2016
+SN  - 0028-3878 (Print) 0028-3878
+SP  - 1045-51
+ST  - Evolution of clinical features in possible DLB depending on FP-CIT SPECT result
+T2  - Neurology
+TI  - Evolution of clinical features in possible DLB depending on FP-CIT SPECT result
+VL  - 87
+ID  - 50844
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Inadequate case detection results in high levels of undiagnosed tuberculosis in sub-Saharan Africa. Data for the effect of new diagnostic tools when used for community-based intensified case finding are not available, so we investigated whether the use of sputum Xpert-MTB/RIF and the Determine TB LAM urine test in two African communities could be effective. METHODS: In a pragmatic, randomised, parallel-group trial with individual randomisation stratified by country, we compared sputum Xpert-MTB/RIF, and if HIV-infected, the Determine TB LAM urine test (novel diagnostic group), with laboratory-based sputum smear microscopy (routine diagnostic group) for intensified case finding in communities with high tuberculosis and HIV prevalence in Cape Town, South Africa, and Harare, Zimbabwe. Participants were randomly assigned (1:1) to these groups with computer-generated allocation lists, using culture as the reference standard. In Cape Town, participants were randomised and tested at an Xpert-equipped mobile van, while in Harare, participants were driven to a local clinic where the same diagnostic tests were done. The primary endpoint was the proportion of culture-positive tuberculosis cases initiating tuberculosis treatment in each study group at 60 days. This trial is registered at ClinicalTrials.gov, number NCT01990274. FINDINGS: Between Oct 18, 2013, and March 31, 2015, 2261 individuals were screened and 875 (39%) of these met the criteria for diagnostic testing. 439 participants were randomly assigned to the novel group and 436 to the routine group. 74 (9%) of 875 participants had confirmed tuberculosis. If late culture-based treatment initiation was excluded, more patients with culture-positive tuberculosis were initiated on treatment in the novel group at 60 days (36 [86%] of 42 in the novel group vs 18 [56%] of 32 in the routine group). Thus the difference in the proportion initiating treatment between groups was 29% (95% CI 9-50, p=0·0047) and 53% more patients initiated therapy in the novel diagnostic group than in the routine diagnostic group. One culture-positive patient was treated based only on a positive LAM test. INTERPRETATION: Compared with traditional tools, Xpert-MTB/RIF for community-based intensified case finding in HIV and tuberculosis-endemic settings increased the proportion of patients initiating treatment. By contrast, urine LAM testing was not found to be useful for intensive case finding in this setting. FUNDING: European and Developing Countries Clinical Trials Partnership and South African Medical Research Council.
+AD  - Division of Pulmonology, Department of Medicine and UCT Lung Institute, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe; Lung Infection and Immunity Unit, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe.
+Department of Immunology, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe.
+Institute of Infectious Diseases and Molecular Medicine, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe; Division of Clinical Immunology and Allergology, Department of Medicine, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe.
+Lung Infection and Immunity Unit, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe; DST/NRF of Excellence for Biomedical Tuberculosis Research, and MRC Centre for Molecular and Cellular Biology, Division of Molecular Biology and Human Genetics, Faculty of Medicine and Health Sciences, Stellenbosch University, Tygerberg, South Africa.
+Lung Infection and Immunity Unit, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe.
+Mabvuku Polyclinic, Zimbabwe Ministry of Health and Child Care, Harare, Zimbabwe.
+Biomedical and Research Training Institute, Harare, Zimbabwe.
+Department of Medicine, Groote Schuur Hospital and University of Cape Town, Cape Town, South Africa.
+Division of Pulmonology, Department of Medicine and UCT Lung Institute, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe; Institute of Infectious Diseases and Molecular Medicine, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe; Lung Infection and Immunity Unit, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe; Division of Clinical Immunology and Allergology, Department of Medicine, University of Zimbabwe College of Health Sciences, Harare, Zimbabwe. Electronic address: keertan.dheda@uct.ac.za.
+AN  - 28063795
+AU  - Calligaro, G. L.
+AU  - Zijenah, L. S.
+AU  - Peter, J. G.
+AU  - Theron, G.
+AU  - Buser, V.
+AU  - McNerney, R.
+AU  - Bara, W.
+AU  - Bandason, T.
+AU  - Govender, U.
+AU  - Tomasicchio, M.
+AU  - Smith, L.
+AU  - Mayosi, B. M.
+AU  - Dheda, K.
+DA  - Apr
+DO  - 10.1016/s1473-3099(16)30384-x
+DP  - NLM
+ET  - 20170105
+IS  - 4
+KW  - Adult
+Africa South of the Sahara
+*Ambulatory Care Facilities
+Developing Countries
+Diagnostic Tests, Routine/*statistics & numerical data
+Female
+Humans
+Male
+Mycobacterium tuberculosis/isolation & purification
+Prevalence
+*Sensitivity and Specificity
+Sputum
+Time Factors
+Tuberculosis/*diagnosis/therapy/transmission
+LA  - eng
+N1  - 1474-4457
+Calligaro, Gregory L
+Zijenah, Lynn S
+Peter, Jonathan G
+Theron, Grant
+Buser, Virginia
+McNerney, Ruth
+Bara, Wilbert
+Bandason, Tsitsi
+Govender, Ureshnie
+Tomasicchio, Michele
+Smith, Liezel
+Mayosi, Bongani M
+Dheda, Keertan
+Journal Article
+Multicenter Study
+Pragmatic Clinical Trial
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+2017/01/09
+Lancet Infect Dis. 2017 Apr;17(4):441-450. doi: 10.1016/S1473-3099(16)30384-X. Epub 2017 Jan 5.
+PY  - 2017
+SN  - 1473-3099
+SP  - 441-450
+ST  - Effect of new tuberculosis diagnostic technologies on community-based intensified case finding: a multicentre randomised controlled trial
+T2  - Lancet Infect Dis
+TI  - Effect of new tuberculosis diagnostic technologies on community-based intensified case finding: a multicentre randomised controlled trial
+VL  - 17
+ID  - 50879
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The World Health Organisation (WHO) recommends parasitological diagnosis of malaria before treatment, but use of malaria rapid diagnostic tests (mRDTs) by community health workers (CHWs) has not been fully tested within health services in south and central Asia. mRDTs could allow CHWs to diagnose malaria accurately, improving treatment of febrile illness. METHODS: A cluster randomised trial in community health services was undertaken in Afghanistan. The primary outcome was the proportion of suspected malaria cases correctly treated for polymerase chain reaction (PCR)-confirmed malaria and PCR negative cases receiving no antimalarial drugs measured at the level of the patient. CHWs from 22 clusters (clinics) received standard training on clinical diagnosis and treatment of malaria; 11 clusters randomised to the intervention arm received additional training and were provided with mRDTs. CHWs enrolled cases of suspected malaria, and the mRDT results and treatments were compared to blind-read PCR diagnosis. RESULTS: In total, 256 CHWs enrolled 2400 patients with 2154 (89.8%) evaluated. In the intervention arm, 75.3% (828/1099) were treated appropriately vs. 17.5% (185/1055) in the control arm (cluster adjusted risk ratio: 3.72, 95% confidence interval 2.40-5.77; p < 0.001). In the control arm, 85.9% (164/191) with confirmed Plasmodium vivax received chloroquine compared to 45.1% (70/155) in the intervention arm (p < 0.001). Overuse of chloroquine in the control arm resulted in 87.6% (813/928) of those with no malaria (PCR negative) being treated vs. 10.0% (95/947) in the intervention arm, p < 0.001. In the intervention arm, 71.4% (30/42) of patients with P. falciparum did not receive artemisinin-based combination therapy, partly because operational sensitivity of the RDTs was low (53.2%, 38.1-67.9). There was high concordance between recorded RDT result and CHW prescription decisions: 826/950 (87.0%) with a negative test were not prescribed an antimalarial. Co-trimoxazole was prescribed to 62.7% of malaria negative patients in the intervention arm and 15.0% in the control arm. CONCLUSIONS: While introducing mRDT reduced overuse of antimalarials, this action came with risks that need to be considered before use at scale: an appreciable proportion of malaria cases will be missed by those using current mRDTs. Higher sensitivity tests could be used to detect all cases. Overtreatment with antimalarial drugs in the control arm was replaced with increased antibiotic prescription in the intervention arm, resulting in a probable overuse of antibiotics. TRIAL REGISTRATION: ClinicalTrials.gov, NCT01403350 . Prospectively registered.
+AD  - London School of Hygiene & Tropical Medicine, London, WC1H 7HT, UK. toby.leslie1@gmail.com.
+Health Protection and Research Organisation, Kabul, Afghanistan. toby.leslie1@gmail.com.
+London School of Hygiene & Tropical Medicine, London, WC1H 7HT, UK.
+Health Protection and Research Organisation, Kabul, Afghanistan.
+HealthNet-TPO, Kabul, Afghanistan.
+Merlin, Kunduz, Afghanistan.
+OR Diagnostics, Paris, France.
+AN  - 28683750
+AU  - Leslie, T.
+AU  - Rowland, M.
+AU  - Mikhail, A.
+AU  - Cundill, B.
+AU  - Willey, B.
+AU  - Alokozai, A.
+AU  - Mayan, I.
+AU  - Hasanzai, A.
+AU  - Baktash, S. H.
+AU  - Mohammed, N.
+AU  - Wood, M.
+AU  - Rahimi, H. U.
+AU  - Laurent, B.
+AU  - Buhler, C.
+AU  - Whitty, C. J. M.
+C1  - ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Ethics approval was granted by the Institutional Review Board, Ministry of Public Health, Kabul, Afghanistan (number 98182) and the Research Ethics Committee of the London School of Hygiene & Tropical Medicine (ref 5911). Patients gave written informed consent to participate in the study at enrolment. Community health workers gave written informed consent to participate following protocol training. COMPETING INTERESTS: The authors declare that they have no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+C2  - PMC5501368
+DA  - Jul 7
+DO  - 10.1186/s12916-017-0891-8
+DP  - NLM
+ET  - 20170707
+IS  - 1
+KW  - Adolescent
+Afghanistan
+Antimalarials/administration & dosage/therapeutic use
+Artemisinins/therapeutic use
+Child
+Child, Preschool
+Chloroquine/therapeutic use
+*Community Health Workers
+Diagnostic Tests, Routine
+Female
+Humans
+Infant
+Infant, Newborn
+Malaria/*diagnosis/drug therapy
+Malaria, Falciparum/drug therapy
+Male
+Plasmodium vivax
+Trimethoprim, Sulfamethoxazole Drug Combination/therapeutic use
+Cluster randomised trial
+Community health worker
+Malaria
+Rapid diagnostic test
+LA  - eng
+N1  - 1741-7015
+Leslie, Toby
+Rowland, Mark
+Mikhail, Amy
+Cundill, Bonnie
+Willey, Barbara
+Alokozai, Asif
+Mayan, Ismail
+Hasanzai, Anwar
+Baktash, Sayed Habibullah
+Mohammed, Nader
+Wood, Molly
+Rahimi, Habib-U-Rahman
+Laurent, Baptiste
+Buhler, Cyril
+Whitty, Christopher J M
+Journal Article
+Randomized Controlled Trial
+England
+2017/07/08
+BMC Med. 2017 Jul 7;15(1):124. doi: 10.1186/s12916-017-0891-8.
+PY  - 2017
+SN  - 1741-7015
+SP  - 124
+ST  - Use of malaria rapid diagnostic tests by community health workers in Afghanistan: cluster randomised trial
+T2  - BMC Med
+TI  - Use of malaria rapid diagnostic tests by community health workers in Afghanistan: cluster randomised trial
+VL  - 15
+ID  - 50882
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: The diagnosis of adult GH deficiency (AGHD) is challenging and often requires confirmation with a GH stimulation test (GHST). The insulin tolerance test (ITT) is considered the reference standard GHST but is labor intensive, can cause severe hypoglycemia, and is contraindicated for certain patients. Macimorelin, an orally active GH secretagogue, could be used to diagnose AGHD by measuring stimulated GH levels after an oral dose. MATERIALS AND METHODS: The present multicenter, open-label, randomized, two-way crossover trial was designed to validate the efficacy and safety of single-dose oral macimorelin for AGHD diagnosis compared with the ITT. Subjects with high (n = 38), intermediate (n = 37), and low (n = 39) likelihood for AGHD and healthy, matched controls (n = 25) were included in the efficacy analysis. RESULTS: After the first test, 99% of macimorelin tests and 82% of ITTs were evaluable. Using GH cutoff levels of 2.8 ng/mL for macimorelin and 5.1 ng/mL for ITTs, the negative agreement was 95.38% (95% CI, 87% to 99%), the positive agreement was 74.32% (95% CI, 63% to 84%), sensitivity was 87%, and specificity was 96%. On retesting, the reproducibility was 97% for macimorelin (n = 33). In post hoc analyses, a GH cutoff of 5.1 ng/mL for both tests resulted in 94% (95% CI, 85% to 98%) negative agreement, 82% (95% CI, 72% to 90%) positive agreement, 92% sensitivity, and 96% specificity. No serious adverse events were reported for macimorelin. CONCLUSIONS: Oral macimorelin is a simple, well-tolerated, reproducible, and safe diagnostic test for AGHD with accuracy comparable to that of the ITT. A GH cutoff of 5.1 ng/mL for the macimorelin test provides an excellent balance between sensitivity and specificity.
+AD  - Geriatric Research Education and Clinical Center, Veterans Affairs Puget Sound Health Care System, University of Washington and SIBCR, Seattle, Washington.
+Massachusetts General Hospital, Boston, Massachusetts.
+Barts and the London School of Medicine, Queen Mary University of London, London, United Kingdom.
+University of Belgrade Faculty of Medicine, Belgrade, Serbia.
+Vienna General Hospital - Medical University Campus, Vienna, Austria.
+Charité - Universitatsmedizin, Berlin, Germany.
+Service d'Endocrinologie et des Maladies de la Reproduction, Centre de Référence des Maladies Rares de l'Hypophyse, Assistance Publique-Hôpitaux de Paris, Hôpital de Bicêtre, Le Kremlin Bicêtre, France.
+Unité Mixte de Recherche S-1185, Faculté de Médecine Paris Sud, Université Paris Sud, Le Kremlin-Bicêtre, France.
+University of Novi Sad, Faculty of Medicine, Clinical Center of Vojvodina, Novi Sad, Serbia.
+Medizinische Klinik IV, Ludwig Maximilian University of Munich, Munich, Germany.
+Angelius Provita Medical Center, Katowice, Poland.
+Clinic for Endocrinology, University Clinical Center, Belgrade, Serbia.
+WroMedica, Wrocław, Poland.
+Medical University Wroclaw, Wrocław, Poland.
+Los Angeles Biomedical Research Institute, Harbor-UCLA Medical Center, Torrance, California.
+Texas Diabetes and Endocrinology, Austin, Texas.
+Baylor College of Medicine and Michael E. DeBakey Veterans Affairs Medical Center, Houston, Texas.
+Aeterna Zentaris GmbH, Frankfurt, Germany.
+Swedish Neuroscience Institute, Seattle, Washington.
+AN  - 29860473
+AU  - Garcia, J. M.
+AU  - Biller, B. M. K.
+AU  - Korbonits, M.
+AU  - Popovic, V.
+AU  - Luger, A.
+AU  - Strasburger, C. J.
+AU  - Chanson, P.
+AU  - Medic-Stojanoska, M.
+AU  - Schopohl, J.
+AU  - Zakrzewska, A.
+AU  - Pekic, S.
+AU  - Bolanowski, M.
+AU  - Swerdloff, R.
+AU  - Wang, C.
+AU  - Blevins, T.
+AU  - Marcelli, M.
+AU  - Ammer, N.
+AU  - Sachse, R.
+AU  - Yuen, K. C. J.
+DA  - Aug 1
+DO  - 10.1210/jc.2018-00665
+DP  - NLM
+IS  - 8
+KW  - Administration, Oral
+Adolescent
+Adult
+Age of Onset
+Aged
+Cross-Over Studies
+Diagnostic Tests, Routine/adverse effects/*methods
+Female
+Human Growth Hormone/*deficiency
+Humans
+Hypopituitarism/blood/*diagnosis/epidemiology
+Indoles/*administration & dosage/adverse effects
+Male
+Middle Aged
+Pituitary Function Tests/adverse effects/*methods
+Reproducibility of Results
+Sensitivity and Specificity
+Tryptophan/administration & dosage/adverse effects/*analogs & derivatives
+Young Adult
+LA  - eng
+N1  - 1945-7197
+Garcia, Jose M
+Biller, Beverly M K
+Korbonits, Márta
+Popovic, Vera
+Luger, Anton
+Strasburger, Christian J
+Chanson, Philippe
+Medic-Stojanoska, Milica
+Schopohl, Jochen
+Zakrzewska, Anna
+Pekic, Sandra
+Bolanowski, Marek
+Swerdloff, Ronald
+Wang, Christina
+Blevins, Thomas
+Marcelli, Marco
+Ammer, Nicola
+Sachse, Richard
+Yuen, Kevin C J
+Clinical Trial, Phase III
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+2018/06/04
+J Clin Endocrinol Metab. 2018 Aug 1;103(8):3083-3093. doi: 10.1210/jc.2018-00665.
+PY  - 2018
+SN  - 0021-972x
+SP  - 3083-3093
+ST  - Macimorelin as a Diagnostic Test for Adult GH Deficiency
+T2  - J Clin Endocrinol Metab
+TI  - Macimorelin as a Diagnostic Test for Adult GH Deficiency
+VL  - 103
+ID  - 50871
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Social comparison feedback is an increasingly popular strategy that uses performance report cards to modify physician behavior. Our objective was to test the effect of such feedback on the ordering of routine laboratory tests for hospitalized patients, a practice considered overused. METHODS: This was a single-blinded randomized controlled trial. Between January and June 2016, physicians on six general medicine teams at the Hospital of the University of Pennsylvania were cluster randomized with equal allocation to two arms: (1) those e-mailed a summary of their routine laboratory test ordering vs. the service average for the prior week, linked to a continuously updated personalized dashboard containing patient-level details, and snapshot of the dashboard and (2) those who did not receive the intervention. The primary outcome was the count of routine laboratory test orders placed by a physician per patient-day. We modeled the count of orders by each physician per patient-day after the intervention as a function of trial arm and the physician's order count before the intervention. The count outcome was modeled using negative binomial models with adjustment for clustering within teams. RESULTS: One hundred and fourteen interns and residents participated. We did not observe a statistically significant difference in adjusted reduction in routine laboratory ordering between the intervention and control physicians (physicians in the intervention group ordered 0.14 fewer tests per patient-day than physicians in the control group, 95% CI - 0.56 to 0.27, p = 0.50). Physicians whose absolute ordering rate deviated from the peer rate by more than 1.0 laboratory test per patient-day reduced their laboratory ordering by 0.80 orders per patient-day (95% CI - 1.58 to - 0.02, p = 0.04). CONCLUSIONS: Personalized social comparison feedback on routine laboratory ordering did not change targeted behavior among physicians, although there was a significant decrease in orders among participants who deviated more from the peer rate. TRIAL REGISTRATION: Clinicaltrials.gov registration: #NCT02330289.
+AD  - Division of General Internal Medicine, Department of Medicine, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA. ryskina@mail.med.upenn.edu.
+Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, USA. ryskina@mail.med.upenn.edu.
+Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, USA.
+Division of Pulmonary and Critical Care, Department of Medicine, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA.
+Penn Medicine Center for Health Care Innovation, Philadelphia, PA, USA.
+Corporal Michael J. Crescenz VA Medical Center, Philadelphia, PA, USA.
+Division of General Internal Medicine, Department of Medicine, University of Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA.
+AN  - 29790072
+AU  - Ryskina, K.
+AU  - Jessica Dine, C.
+AU  - Gitelman, Y.
+AU  - Leri, D.
+AU  - Patel, M.
+AU  - Kurtzman, G.
+AU  - Lin, L. Y.
+AU  - Epstein, A. J.
+C1  - Mitesh Patel is principal at Catalyst Health, a technology and behavior change consulting firm, and an advisory board member at Healthmine Services Inc. and Life.io. All other authors declare that they have no conflict of interest.
+C2  - PMC6153251
+DA  - Oct
+DO  - 10.1007/s11606-018-4482-y
+DP  - NLM
+ET  - 20180522
+IS  - 10
+KW  - Diagnostic Tests, Routine/*statistics & numerical data
+Female
+Hospitalization
+Humans
+*Knowledge of Results, Psychological
+Male
+Medical Overuse/*prevention & control/statistics & numerical data
+Medical Staff, Hospital/*psychology
+Peer Group
+Pennsylvania
+Practice Patterns, Physicians'/*statistics & numerical data
+Single-Blind Method
+LA  - eng
+N1  - 1525-1497
+Ryskina, Kira
+Jessica Dine, C
+Gitelman, Yevgeniy
+Leri, Damien
+Patel, Mitesh
+Kurtzman, Gregory
+Lin, Lisa Y
+Epstein, Andrew J
+K08 AG052572/AG/NIA NIH HHS/United States
+Journal Article
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2018/05/24
+J Gen Intern Med. 2018 Oct;33(10):1639-1645. doi: 10.1007/s11606-018-4482-y. Epub 2018 May 22.
+PY  - 2018
+SN  - 0884-8734 (Print)
+0884-8734
+SP  - 1639-1645
+ST  - Effect of Social Comparison Feedback on Laboratory Test Ordering for Hospitalized Patients: A Randomized Controlled Trial
+T2  - J Gen Intern Med
+TI  - Effect of Social Comparison Feedback on Laboratory Test Ordering for Hospitalized Patients: A Randomized Controlled Trial
+VL  - 33
+ID  - 50883
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Delirium affects > 15% of hospitalised patients but is grossly underdetected, contributing to poor care. The 4 'A's Test (4AT, www.the4AT.com ) is a short delirium assessment tool designed for routine use without special training. The primary objective was to assess the accuracy of the 4AT for delirium detection. The secondary objective was to compare the 4AT with another commonly used delirium assessment tool, the Confusion Assessment Method (CAM). METHODS: This was a prospective diagnostic test accuracy study set in emergency departments or acute medical wards involving acute medical patients aged ≥ 70. All those without acutely life-threatening illness or coma were eligible. Patients underwent (1) reference standard delirium assessment based on DSM-IV criteria and (2) were randomised to either the index test (4AT, scores 0-12; prespecified score of > 3 considered positive) or the comparator (CAM; scored positive or negative), in a random order, using computer-generated pseudo-random numbers, stratified by study site, with block allocation. Reference standard and 4AT or CAM assessments were performed by pairs of independent raters blinded to the results of the other assessment. RESULTS: Eight hundred forty-three individuals were randomised: 21 withdrew, 3 lost contact, 32 indeterminate diagnosis, 2 missing outcome, and 785 were included in the analysis. Mean age was 81.4 (SD 6.4) years. 12.1% (95/785) had delirium by reference standard assessment, 14.3% (56/392) by 4AT, and 4.7% (18/384) by CAM. The 4AT had an area under the receiver operating characteristic curve of 0.90 (95% CI 0.84-0.96). The 4AT had a sensitivity of 76% (95% CI 61-87%) and a specificity of 94% (95% CI 92-97%). The CAM had a sensitivity of 40% (95% CI 26-57%) and a specificity of 100% (95% CI 98-100%). CONCLUSIONS: The 4AT is a short, pragmatic tool which can help improving detection rates of delirium in routine clinical care. TRIAL REGISTRATION: International standard randomised controlled trial number (ISRCTN) 53388093 . Date applied 30/05/2014; date assigned 02/06/2014.
+AD  - Geriatric Medicine, Edinburgh Delirium Research Group, Royal Infirmary of Edinburgh, University of Edinburgh, Room S1642, Royal Infirmary of Edinburgh 51, Little France Crescent, Edinburgh, EH16 4SA, UK.
+Norwich Medical School, University of East Anglia, Norfolk, UK.
+Elderly Care and Rehabilitation and Institute of Health Sciences, University of Leeds, Leeds, UK.
+Department of Health Sciences, University of York, Hull York Medical School, Bradford District Care NHS Foundation Trust, Bradford, UK.
+School of Health and Related Research (ScHARR), University of Sheffield, Sheffield, UK.
+Academic Unit of Elderly Care and Rehabilitation, University of Leeds, Leeds, UK.
+Cardiovascular Sciences and Geriatric Medicine, University of Edinburgh, Edinburgh, UK.
+Emergency Medicine Research Group (EMERGE), NHS Lothian, Edinburgh, UK.
+Health and Social Care, Edinburgh Napier University, Edinburgh, UK.
+Edinburgh Clinical Trials Unit, Usher Institute of Population Health Sciences and Informatics, University of Edinburgh, Edinburgh, UK.
+Geriatric Medicine, Edinburgh Delirium Research Group, Royal Infirmary of Edinburgh, University of Edinburgh, Room S1642, Royal Infirmary of Edinburgh 51, Little France Crescent, Edinburgh, EH16 4SA, UK. a.maclullich@ed.ac.uk.
+AN  - 31337404
+AU  - Shenkin, S. D.
+AU  - Fox, C.
+AU  - Godfrey, M.
+AU  - Siddiqi, N.
+AU  - Goodacre, S.
+AU  - Young, J.
+AU  - Anand, A.
+AU  - Gray, A.
+AU  - Hanley, J.
+AU  - MacRaild, A.
+AU  - Steven, J.
+AU  - Black, P. L.
+AU  - Tieges, Z.
+AU  - Boyd, J.
+AU  - Stephen, J.
+AU  - Weir, C. J.
+AU  - MacLullich, A. M. J.
+C1  - AMJM led the design of the 4AT in 2011 (with others, see www.the4AT.com); note that 4AT is free to download and use. SDS and AA provided comments on its development. SG is chair of the NIHR HTA Clinical Evaluation and Trials Board and member of the NIHR HTA Funding Board Policy Group. The other authors declare no competing interests.
+C2  - PMC6651960
+DA  - Jul 24
+DO  - 10.1186/s12916-019-1367-9
+DP  - NLM
+ET  - 20190724
+IS  - 1
+KW  - Acute Disease
+Aged
+Aged, 80 and over
+Algorithms
+Checklist/methods/standards
+Confusion/*diagnosis
+Delirium/*diagnosis
+*Diagnostic Tests, Routine/methods/standards
+Diagnostic and Statistical Manual of Mental Disorders
+Emergency Service, Hospital
+Female
+Geriatric Assessment/methods
+Humans
+Inpatients
+Male
+*Neuropsychological Tests/standards
+Predictive Value of Tests
+Reproducibility of Results
+Sensitivity and Specificity
+4at
+Confusion assessment method (CAM)
+Delirium
+Diagnostic test accuracy
+Hospital
+Sensitivity
+Specificity
+LA  - eng
+N1  - 1741-7015
+Shenkin, Susan D
+Fox, Christopher
+Godfrey, Mary
+Siddiqi, Najma
+Goodacre, Steve
+Young, John
+Anand, Atul
+Gray, Alasdair
+Hanley, Janet
+MacRaild, Allan
+Steven, Jill
+Black, Polly L
+Tieges, Zoë
+Boyd, Julia
+Stephen, Jacqueline
+Weir, Christopher J
+MacLullich, Alasdair M J
+Orcid: 0000-0003-3159-9370
+PB-PG-0610-22068/DH_/Department of Health/United Kingdom
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+2019/07/25
+BMC Med. 2019 Jul 24;17(1):138. doi: 10.1186/s12916-019-1367-9.
+PY  - 2019
+SN  - 1741-7015
+SP  - 138
+ST  - Delirium detection in older acute medical inpatients: a multicentre prospective comparative diagnostic test accuracy study of the 4AT and the confusion assessment method
+T2  - BMC Med
+TI  - Delirium detection in older acute medical inpatients: a multicentre prospective comparative diagnostic test accuracy study of the 4AT and the confusion assessment method
+VL  - 17
+ID  - 50868
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The clinical utility of procalcitonin in the diagnosis and management of pneumonia remains controversial. METHODS: We assessed the clinical utility of procalcitonin in 2 prospective studies: first, a multicenter diagnostic study in patients presenting to the emergency department with acute dyspnea to directly compare the diagnostic accuracy of procalcitonin with that of interleukin 6 and C-reactive protein (CRP) in the diagnosis of pneumonia; second, a randomized management study of procalcitonin guidance in patients with acute heart failure and suspected pneumonia. Diagnostic accuracy for pneumonia as centrally adjudicated by 2 independent experts was quantified with the area under the ROC curve (AUC). RESULTS: Among 690 patients in the diagnostic study, 178 (25.8%) had an adjudicated final diagnosis of pneumonia. Procalcitonin, interleukin 6, and CRP were significantly higher in patients with pneumonia than in those without. When compared to procalcitonin (AUC = 0.75; 95% CI, 0.71-0.78), interleukin 6 (AUC = 0.80; 95% CI, 0.77-0.83) and CRP (AUC = 0.82; 95% CI, 0.79-0.85) had significantly higher diagnostic accuracy (P = 0.010 and P < 0.001, respectively). The management study was stopped early owing to the unexpectedly low AUC of procalcitonin in the diagnostic study. Among 45 randomized patients, the number of days on antibiotic therapy and the length of hospital stay were similar (both P = 0.39) in patients randomized to the procalcitonin-guided group (n = 25) and usual-care group (n = 20). CONCLUSIONS: In patients presenting with dyspnea, diagnostic accuracy of procalcitonin for pneumonia is only moderate and lower than that of interleukin 6 and CRP. The clinical utility of procalcitonin was lower than expected. SUMMARY: Pneumonia has diverse and often unspecific symptoms. As the role of biomarkers in the diagnosis of pneumonia remains controversial, it is often difficult to distinguish pneumonia from other illnesses causing shortness of breath. The current study prospectively enrolled unselected patients presenting with acute dyspnea and directly compared the diagnostic accuracy of procalcitonin, interleukin 6, and CRP for the diagnosis of pneumonia. In this setting, diagnostic accuracy of procalcitonin for pneumonia was lower as compared to interleukin 6 and CRP. The clinical utility of procalcitonin was lower than expected. CLINICALTRIALSGOV IDENTIFIER: NCT01831115.
+AD  - Cardiovascular Research Institute Basel (CRIB) and Department of Cardiology, University Hospital Basel, University of Basel, Switzerland.
+Department of Internal Medicine, University Hospital Basel, University of Basel, Switzerland.
+GREAT network.
+Emergency Department, INCOR, Sao Paulo, Brasil.
+Department of Cardiology, Hospital Linth, Uznach, Switzerland.
+Department of Endocrinology and Clinical Nutrition, University Hospital Zurich, Zurich, Switzerland.
+Division of Internal Medicine, University Psychiatry Clinic Zurich, Zurich, Switzerland.
+Department of Cardiology, University of Illinois, Chicago, IL.
+Department of Cardiac Surgery, University Hospital Basel, University of Basel, Basel, Switzerland.
+Department of Laboratory Medicine, University Hospital Zurich, Zurich, Switzerland.
+Cardiovascular Research Institute Basel (CRIB) and Department of Cardiology, University Hospital Basel, University of Basel, Switzerland; christian.mueller@usb.ch.
+AN  - 31615771
+AU  - Wussler, D.
+AU  - Kozhuharov, N.
+AU  - Tavares Oliveira, M.
+AU  - Bossa, A.
+AU  - Sabti, Z.
+AU  - Nowak, A.
+AU  - Murray, K.
+AU  - du Fay de Lavallaz, J.
+AU  - Badertscher, P.
+AU  - Twerenbold, R.
+AU  - Shrestha, S.
+AU  - Flores, D.
+AU  - Nestelberger, T.
+AU  - Walter, J.
+AU  - Boeddinghaus, J.
+AU  - Zimmermann, T.
+AU  - Koechlin, L.
+AU  - von Eckardstein, A.
+AU  - Breidthardt, T.
+AU  - Mueller, C.
+DA  - Dec
+DO  - 10.1373/clinchem.2019.306787
+DP  - NLM
+ET  - 20191015
+IS  - 12
+KW  - Aged
+Area Under Curve
+Biomarkers/blood/metabolism
+C-Reactive Protein/analysis
+Calcitonin
+Diagnostic Tests, Routine
+Dyspnea/diagnosis
+Female
+Heart Failure/diagnosis
+Humans
+Interleukin-6/analysis/blood
+Male
+Middle Aged
+Pneumonia/*diagnosis
+Procalcitonin/*analysis/metabolism
+Prospective Studies
+Protein Precursors/metabolism
+ROC Curve
+LA  - eng
+N1  - 1530-8561
+Wussler, Desiree
+Kozhuharov, Nikola
+Tavares Oliveira, Mucio
+Bossa, Aline
+Sabti, Zaid
+Nowak, Albina
+Murray, Karsten
+du Fay de Lavallaz, Jeanne
+Badertscher, Patrick
+Twerenbold, Raphael
+Shrestha, Samyut
+Flores, Dayana
+Nestelberger, Thomas
+Walter, Joan
+Boeddinghaus, Jasper
+Zimmermann, Tobias
+Koechlin, Luca
+von Eckardstein, Arnold
+Breidthardt, Tobias
+Mueller, Christian
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+2019/10/17
+Clin Chem. 2019 Dec;65(12):1532-1542. doi: 10.1373/clinchem.2019.306787. Epub 2019 Oct 15.
+PY  - 2019
+SN  - 0009-9147
+SP  - 1532-1542
+ST  - Clinical Utility of Procalcitonin in the Diagnosis of Pneumonia
+T2  - Clin Chem
+TI  - Clinical Utility of Procalcitonin in the Diagnosis of Pneumonia
+VL  - 65
+ID  - 50869
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: According to cognitive behavioural theory, cognitive factors (i.e. underlying general dysfunctional beliefs and (situation) specific illness beliefs) are theorized to lead to outcomes like anxiety and depression. In clinical practice, general dysfunctional beliefs are generally not tackled directly in short-term-therapy. AIMS: The goal of the present study was to investigate the associations of general versus specific illness beliefs on anxiety and depressive symptoms and psychiatric disorders among a subgroup of patients with inflammatory bowel disease (IBD) with poor mental quality of life (QoL). METHOD: This study concerns cross-sectional data, collected at baseline from a randomized clinical trial. One hundred and eighteen patients, recruited at four Dutch hospitals, with poor QoL (score ≤23 on the mental health subscale of the Short-Form 36-item Health-Survey; SF-36) were included. General dysfunctional beliefs were measured by the Dysfunctional Attitude Scale (DAS), specific illness beliefs by the Illness Perceptions Questionnaire-Revised (IPQ-R), anxiety and depressive symptoms by the Hospital Anxiety and Depression Scale (HADS), and psychiatric disorders by the Structured Clinical Interview for DSM-IV Axis-I Disorders (SCID-I). RESULTS: Univariate analyses showed associations between the level of anxiety and/or depression and general dysfunctional beliefs and four specific illness beliefs (consequences, personal control, emotional representations and treatment control). Among patients with IBD with psychiatric disorders, only the DAS was significantly associated with anxiety and depression (DAS added to IPQ-R and IPQ-R added to DAS). CONCLUSIONS: Psychological interventions may have to target general dysfunctional beliefs of patients with IBD with co-morbid psychiatric disorders to be effective. These patients with IBD are especially in need of psychological treatment.
+AN  - rayyan-1277758418
+AU  - Bennebroek Evertsz, F.
+AU  - Sprangers, M. A. G.
+AU  - de Vries, L. M.
+AU  - Sanderman, R.
+AU  - Stokkers, P. C. F.
+AU  - Verdam, M. G. E.
+AU  - Burger, H.
+AU  - Bockting, C. L. H.
+C1  - 1469-1833 Bennebroek Evertsz', Floor Sprangers, Mirjam A G de Vries, Laura M Sanderman, Robbert Stokkers, Pieter C F Verdam, Mathilde G E Burger, Huibert Bockting, Claudi L H Journal Article Randomized Controlled Trial United States 2019/08/20 Behav Cogn Psychother. 2020 Jan;48(1):91-102. doi: 10.1017/S1352465819000444. Epub 2019 Aug 19. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2020-1
+DO  - doi:10.1017/s1352465819000444
+IS  - 1
+KW  - Adult
+Anxiety Disorders/diagnosis/*psychology/therapy
+Cognitive Behavioral Therapy
+Colitis, Ulcerative/*psychology/therapy
+Combined Modality Therapy
+Comorbidity
+Crohn Disease/*psychology/therapy
+Cross-Sectional Studies
+*Culture
+Depressive Disorder/diagnosis/*psychology/therapy
+Female
+Humans
+Illness Behavior
+Male
+Middle Aged
+Quality of Life/*psychology
+*Self Concept
+Surveys and Questionnaires
+anxiety
+depression
+dysfunctional beliefs
+illness beliefs
+inflammatory bowel disease
+psychiatric disorders
+LA  - eng
+PY  - 2020
+SN  - 1352-4658
+SP  - 91-102
+ST  - I am a total failure: associations between beliefs and anxiety and depression in patients with inflammatory bowel disease with poor mental quality of life
+T2  - Behav Cogn Psychother
+TI  - I am a total failure: associations between beliefs and anxiety and depression in patients with inflammatory bowel disease with poor mental quality of life
+VL  - 48
+ID  - 50845
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To explore pregnant women's views of participation in a clinical research trial while pregnant. DESIGN: Prospective nested qualitative cohort study embedded within a national, multi-site randomized controlled trial of a diagnostic test for preeclampsia: Placental Growth Factor. One-to-one in-depth semi-structured interviews were undertaken with 19 women who had recently participated in the trial at a single recruiting site. The interviews were conducted in private, recorded digitally and transcribed verbatim. SETTING: Single tertiary maternity hospital currently recruiting eligible women onto an on-going randomized controlled trial (NCT02881073). PARTICIPANTS: Women who had participated in the PARROT Ireland randomized controlled trial during their recent pregnancy. METHODS: Thematic analysis was utilized. Each line of the transcribed interviews was coded into a category by two researchers. The resultant categories were reviewed, and those with similarities were pooled allowing the development of themes. MAIN OUTCOME MEASURES: Women's opinions and experience of participation in a randomized controlled trial of an interventional diagnostic test during their pregnancy. RESULTS: Four major themes were identified as follows: (a) Understanding of preeclampsia, (b) Motivators for clinical trial participation, (c) Barriers to decision making and (d) Influence of PARROT Ireland on pregnancy experience. CONCLUSIONS: Women are generally interested and positively inclined to participate in research during pregnancy. The potential of risk is an important consideration for eligible pregnant woman. Information and support by both researchers and clinicians are paramount in aiding women's understanding of a research trial.
+AD  - The Irish Centre for Fetal and Neonatal Translational Research (INFANT), University College Cork, Cork, Ireland.
+Cork University Maternity Hospital (CUMH), Cork, Ireland.
+National Perinatal Epidemiology Centre, University College Cork, Ireland.
+AN  - 31578808
+AU  - Hayes-Ryan, D.
+AU  - Meaney, S.
+AU  - Nolan, C.
+AU  - O'Donoghue, K.
+C1  - The authors report no conflicts of interest.
+C2  - PMC6978861
+DA  - Feb
+DO  - 10.1111/hex.12969
+DP  - NLM
+ET  - 20191002
+IS  - 1
+KW  - Adult
+*Diagnostic Tests, Routine
+Female
+Humans
+Interviews as Topic
+Ireland
+*Motivation
+*Patient Participation
+Placenta Growth Factor
+Pre-Eclampsia/*diagnosis
+Pregnancy
+Pregnant Women/*psychology
+Prospective Studies
+Qualitative Research
+diagnostic test
+preeclampsia
+qualitative
+randomized controlled trial
+research
+LA  - eng
+N1  - 1369-7625
+Hayes-Ryan, Deirdre
+Orcid: 0000-0003-2490-3661
+Meaney, Sarah
+Nolan, Caroline
+O'Donoghue, Keelin
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+England
+2019/10/04
+Health Expect. 2020 Feb;23(1):75-83. doi: 10.1111/hex.12969. Epub 2019 Oct 2.
+PY  - 2020
+SN  - 1369-6513 (Print)
+1369-6513
+SP  - 75-83
+ST  - An exploration of women's experience of taking part in a randomized controlled trial of a diagnostic test during pregnancy: A qualitative study
+T2  - Health Expect
+TI  - An exploration of women's experience of taking part in a randomized controlled trial of a diagnostic test during pregnancy: A qualitative study
+VL  - 23
+ID  - 50877
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: WHO recommends that men who have sex with men (MSM) receive gonorrhoea and chlamydia testing, but many evidence-based preventive services are unaffordable. The pay-it-forward strategy offers an individual a gift (eg, a test for sexually transmitted diseases) and then asks whether they would like to give a gift (eg, a future test) to another person. This study examined the effectiveness of a pay-it-forward programme to increase gonorrhoea and chlamydia testing among MSM in China. METHODS: We did a randomised controlled superiority trial at three HIV testing sites run by MSM community-based organisations in Guangzhou and Beijing, China. We included MSM aged 16 years or older who were seeking HIV testing and met indications for gonorrhoea and chlamydia testing. Restricted randomisation was done using computer-generated permuted blocks. 30 groups were randomised into three arms (1:1:1): a pay-it-forward arm in which men were offered free gonorrhoea and chlamydia testing and then asked whether they would like to donate for testing of prospective participants, a pay-what-you-want arm in which men were offered free testing and given the option to pay any desired amount for the test, and a standard-of-care arm in which testing was offered at ¥150 (US$22). There was no masking to arm assignment. The primary outcome was gonorrhoea and chlamydia test uptake ascertained by administrative records. We used generalised estimating equations to estimate intervention effects with one-sided 95% CIs and a prespecified superiority margin of 20%. The trial is registered with ClinicalTrials.gov, NCT03741725. FINDINGS: Between Dec 8, 2018, and Jan 19, 2019, 301 men were recruited and included in the analysis. 101 were randomly assigned to the pay-it-forward group, 100 to the pay-what-you-want group, and 100 to the standard-of-care group. Test uptake for gonorrhoea and chlamydia was 56% (57 of 101 participants) in the pay-it-forward arm, 46% (46 of 100 participants) in the pay-what-you-want arm, and 18% (18 of 100 participants) in the standard-of-care arm. The estimated difference in test uptake between the pay-it-forward and standard-of-care group was 38·4% (95% CI lower bound 28·4%). Among men in the pay-it-forward arm, 54 of 57 (95%) chose to donate to support testing for others. INTERPRETATION: The pay-it-forward strategy can increase gonorrhoea and chlamydia testing uptake among Chinese MSM and could be a useful tool for scaling up preventive services that carry a mandatory fee. FUNDING: US National Institute of Health; Special Programme for Research and Training in Tropical Diseases, sponsored by UNICEF, UNDP, World Bank, and WHO; the National Key Research and Development Program of China; Doris Duke Charitable Foundation; and Social Entrepreneurship to Spur Health.
+AD  - Dermatology Hospital of Southern Medical University, Guangzhou, China; University of North Carolina at Chapel Hill, Project-China, Guangzhou, China.
+University of North Carolina at Chapel Hill, Project-China, Guangzhou, China; Loyola University Chicago Stritch School of Medicine, Maywood, IL, USA.
+Central Clinical School, Monash University, Melbourne, VIC, Australia; London School of Hygiene and Tropical Medicine, London, UK.
+Yale Institute for Network Science, Yale University, New Haven, CT, USA.
+Yale Institute for Network Science, Yale University, New Haven, CT, USA; Department of Biostatistics, Yale School of Public Health, New Haven, CT, USA.
+University of North Carolina at Chapel Hill, Project-China, Guangzhou, China; Massachusetts General Hospital, Boston, MA, USA.
+Department of Biostatistics, University of North Carolina at Chapel Hill, NC, USA.
+Dermatology Hospital of Southern Medical University, Guangzhou, China.
+Blued, Beijing, China.
+University of North Carolina at Chapel Hill, Project-China, Guangzhou, China.
+Zhitong Guangzhou LGBT Center, Guangzhou, China.
+School of Social and Community Medicine, University of Bristol, Bristol, UK.
+University of North Carolina at Chapel Hill, Project-China, Guangzhou, China; London School of Hygiene and Tropical Medicine, London, UK.
+University of North Carolina at Chapel Hill, Project-China, Guangzhou, China; London School of Hygiene and Tropical Medicine, London, UK. Electronic address: jdtucker@med.unc.edu.
+AN  - 32530426
+AU  - Yang, F.
+AU  - Zhang, T. P.
+AU  - Tang, W.
+AU  - Ong, J. J.
+AU  - Alexander, M.
+AU  - Forastiere, L.
+AU  - Kumar, N.
+AU  - Li, K. T.
+AU  - Zou, F.
+AU  - Yang, L.
+AU  - Mi, G.
+AU  - Wang, Y.
+AU  - Huang, W.
+AU  - Lee, A.
+AU  - Zhu, W.
+AU  - Luo, D.
+AU  - Vickerman, P.
+AU  - Wu, D.
+AU  - Yang, B.
+AU  - Christakis, N. A.
+AU  - Tucker, J. D.
+C2  - PMC8957706
+C6  - NIHMS1633591
+DA  - Aug
+DO  - 10.1016/s1473-3099(20)30172-9
+DP  - NLM
+ET  - 20200428
+IS  - 8
+KW  - Adult
+China/epidemiology
+Chlamydia Infections/diagnosis/*epidemiology/microbiology
+Diagnostic Tests, Routine
+Gonorrhea/diagnosis/*epidemiology/microbiology
+*Homosexuality, Male
+Humans
+*Insurance, Health, Reimbursement
+Male
+Mass Screening
+Middle Aged
+Outcome Assessment, Health Care
+Sexually Transmitted Diseases/diagnosis/*epidemiology/microbiology
+Socioeconomic Factors
+Young Adult
+LA  - eng
+N1  - 1474-4457
+Yang, Fan
+Zhang, Tiange P
+Tang, Weiming
+Ong, Jason J
+Alexander, Marcus
+Forastiere, Laura
+Kumar, Navin
+Li, Katherine T
+Zou, Fei
+Yang, Ligang
+Mi, Guodong
+Wang, Yehua
+Huang, Wenting
+Lee, Amy
+Zhu, Weizan
+Luo, Danyang
+Vickerman, Peter
+Wu, Dan
+Yang, Bin
+Christakis, Nicholas A
+Tucker, Joseph D
+R34 MH119963/MH/NIMH NIH HHS/United States
+UL1 TR002489/TR/NCATS NIH HHS/United States
+P30 AI050410/AI/NIAID NIH HHS/United States
+K24 AI143471/AI/NIAID NIH HHS/United States
+P30 AG034420/AG/NIA NIH HHS/United States
+Journal Article
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2020/06/13
+Lancet Infect Dis. 2020 Aug;20(8):976-982. doi: 10.1016/S1473-3099(20)30172-9. Epub 2020 Apr 28.
+PY  - 2020
+SN  - 1473-3099 (Print)
+1473-3099
+SP  - 976-982
+ST  - Pay-it-forward gonorrhoea and chlamydia testing among men who have sex with men in China: a randomised controlled trial
+T2  - Lancet Infect Dis
+TI  - Pay-it-forward gonorrhoea and chlamydia testing among men who have sex with men in China: a randomised controlled trial
+VL  - 20
+ID  - 50884
+ER  - 
+
+TY  - JOUR
+AB  - An early and accurate diagnosis followed by prompt treatment is pre-requisite for the management of any disease. Malaria diagnosis is routinely performed by microscopy and rapid diagnostic tests (RDTs) in the field settings; however, their performance may vary across regions, age and asymptomatic status. Owing to this, we assessed the diagnostic performance of conventional and advanced molecular tools for malaria detection in low and high malaria-endemic settings. We performed mass blood surveys in low and high endemic regions of two North-Eastern districts from the states of Assam and Meghalaya. A total of 3322 individuals were screened for malaria using RDT, microscopy and PCR and measures of diagnostic accuracy were estimated. Out of 3322 individuals, 649 (19.5%) were detected with malaria parasite. Asymptomatic were 86.4% (2872/3322), of which 19.4% (557/2872) had Plasmodium infection. The sensitivity and specificity of microscopy were 42.7% and 99.3%, and RDT showed 49.9% and 90.4%, respectively, considering PCR as standard. RDT (AUC: 0.65 vs 0.74; p = 0.001) and microscopy (AUC: 0.64 vs 0.76; p < 0.0001) performances were significantly lower in low compared to high endemic areas. True positive rate was lower in asymptomatics but true negative rate was found similar to symptomatic individuals. The conventional diagnostic tools (RDT and microscopy) had detected malaria in children with nearly twofold greater sensitivity than in the adults (p < 0.05). To conclude, asymptomatics, adults and low malaria-endemic regions require major attention due to mediocre performance of conventional diagnostic tools in malaria detection.
+AD  - Parasite-Host Biology Group, ICMR-National Institute of Malaria Research, Sector-8, Dwarka, New Delhi, 110077, India.
+ICMR-National Institute of Malaria Research Field Unit, Guwahati, Assam, 781022, India.
+Parasite-Host Biology Group, ICMR-National Institute of Malaria Research, Sector-8, Dwarka, New Delhi, 110077, India. neelima1.nimr@gmail.com.
+AN  - 33772349
+AU  - Shankar, H.
+AU  - Singh, M. P.
+AU  - Phookan, S.
+AU  - Singh, K.
+AU  - Mishra, N.
+C1  - The authors declare/s no competing interests.
+C2  - PMC7997798
+DA  - Jun
+DO  - 10.1007/s00436-021-07125-8
+DP  - NLM
+ET  - 20210327
+IS  - 6
+KW  - Adolescent
+Adult
+Child
+Humans
+Young Adult
+*Diagnostic Tests, Routine
+India
+*Malaria/diagnosis
+*Microscopy
+*Polymerase Chain Reaction
+Sensitivity and Specificity
+Asymptomatic
+Diagnosis
+Endemicity
+Malaria
+Molecular method
+LA  - eng
+N1  - 1432-1955
+Shankar, Hari
+Singh, Mrigendra Pal
+Phookan, Sobhan
+Singh, Kuldeep
+Mishra, Neelima
+Orcid: 0000-0002-1736-368x
+NER/55/2015/ECD-I/Indian Council of Medical Research/
+Journal Article
+Randomized Controlled Trial
+Germany
+2021/03/28
+Parasitol Res. 2021 Jun;120(6):2251-2261. doi: 10.1007/s00436-021-07125-8. Epub 2021 Mar 27.
+PY  - 2021
+SN  - 0932-0113 (Print)
+0932-0113
+SP  - 2251-2261
+ST  - Diagnostic performance of rapid diagnostic test, light microscopy and polymerase chain reaction during mass survey conducted in low and high malaria-endemic areas from two North-Eastern states of India
+T2  - Parasitol Res
+TI  - Diagnostic performance of rapid diagnostic test, light microscopy and polymerase chain reaction during mass survey conducted in low and high malaria-endemic areas from two North-Eastern states of India
+VL  - 120
+ID  - 50874
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the proportion of small-for-gestational-age (SGA) infants detected by routine third-trimester ultrasound vs those detected by selective ultrasound based on serial symphysis-fundus height (SFH) measurements (standard care) in low-risk pregnancy. METHODS: This was an open-label randomized controlled trial conducted at a hospital in Kenya between May 2018 and February 2020. Low-risk pregnant women were randomly allocated (ratio of 1:1) to routine ultrasound for fetal growth assessment between 36 + 0 and 37 + 6 weeks' gestation (intervention group) or to standard care, which involved a selective growth scan on clinical suspicion of fetal growth abnormality based on serial SFH measurements (control group). During ultrasound examination, fetal growth was assessed by measurement of the abdominal circumference (AC), and AC < 10(th) centile was used to diagnose a SGA fetus. The main prespecified outcomes were the detection of neonatal SGA, defined as birth weight < 10(th) centile, and of severe neonatal SGA, defined as birth weight < 3(rd) centile. The predictive performance of routine third-trimester ultrasound and selective ultrasound based on serial SFH measurements was determined using receiver-operating-characteristics (ROC)-curve analysis. RESULTS: Of 566 women assessed for eligibility, 508 (89.8%) were randomized, of whom 253 were allocated to the intervention group and 255 to the control group. Thirty-six babies in the intervention group and 26 in the control group had a birth weight < 10(th) centile. The detection rate of SGA infants by routine third-trimester ultrasound vs that by standard care was 52.8% (19/36) vs 7.7% (2/26) (P < 0.001) and the specificity was 95.5% (191/200) and 97.9% (191/195), respectively (P = 0.08). The detection rate of severe SGA was 66.7% (12/18) by routine ultrasound vs 8.3% (1/12) by selective ultrasound based on SFH measurements (P < 0.001), with specificities of 91.7% (200/218) and 98.1% (205/209), respectively (P = 0.006). The area under the ROC curve of routine third-trimester ultrasound in prediction of SGA was significantly greater than that of selective ultrasound based on SFH measurements (0.92 (95% CI, 0.87-0.96) vs 0.68 (95% CI, 0.58-0.77); P < 0.001). CONCLUSIONS: In low-risk pregnancy, routine ultrasound performed between 36 + 0 and 37 + 6 weeks is superior to selective ultrasound based on serial SFH measurements for the detection of true SGA, with high specificity. © 2021 International Society of Ultrasound in Obstetrics and Gynecology.
+AD  - Department of Obstetrics and Gynaecology, Aga Khan University, Nairobi, Kenya.
+Department of Population Health Sciences, Aga Khan University, Nairobi, Kenya.
+Fetal Medicine Research Center, BCNatal, Barcelona Center for Maternal-Fetal and Neonatal Medicine, Hospital Clínic and Hospital Sant Joan de Déu, Institut Clínic de Ginecologia, Obstetrícia i Neonatologia, University of Barcelona, Barcelona, Spain.
+School of Nursing and Midwifery, Aga Khan University, Nairobi, Kenya.
+Department of Radiology and Imaging, Aga Khan University, Nairobi, Kenya.
+AN  - 33619823
+AU  - Wanyonyi, S. Z.
+AU  - Orwa, J.
+AU  - Ozelle, H.
+AU  - Martinez, J.
+AU  - Atsali, E.
+AU  - Vinayak, S.
+AU  - Temmerman, M.
+AU  - Figueras, F.
+DA  - Jun
+DO  - 10.1002/uog.23618
+DP  - NLM
+IS  - 6
+KW  - Adult
+Diagnostic Tests, Routine
+Female
+Fetal Growth Retardation/*diagnostic imaging
+Humans
+Infant, Newborn
+*Infant, Small for Gestational Age
+Predictive Value of Tests
+Pregnancy
+Pregnancy Trimester, Third
+ROC Curve
+*Ultrasonography, Prenatal
+fetal growth restriction
+low-risk pregnancy
+small-for-gestational age
+third-trimester ultrasound
+LA  - eng
+N1  - 1469-0705
+Wanyonyi, S Z
+Orcid: 0000-0001-6160-8720
+Orwa, J
+Ozelle, H
+Martinez, J
+Atsali, E
+Vinayak, S
+Temmerman, M
+Figueras, F
+172005PAED/University Research Council, Aga Khan University/
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+2021/02/24
+Ultrasound Obstet Gynecol. 2021 Jun;57(6):910-916. doi: 10.1002/uog.23618.
+PY  - 2021
+SN  - 0960-7692
+SP  - 910-916
+ST  - Routine third-trimester ultrasound for the detection of small-for-gestational age in low-risk pregnancies (ROTTUS study): randomized controlled trial
+T2  - Ultrasound Obstet Gynecol
+TI  - Routine third-trimester ultrasound for the detection of small-for-gestational age in low-risk pregnancies (ROTTUS study): randomized controlled trial
+VL  - 57
+ID  - 50885
+ER  - 
+
+TY  - JOUR
+AB  - AIM: The aim of this study is to evaluate the effect of education and counselling on prenatal screening and diagnostic tests on pregnant women's decisional conflict, anxiety levels and attitudes towards the tests. BACKGROUND: Clinical practice guidelines recommend prenatal genetic counselling for pregnant women before participation in the tests. METHODS: A total of 210 pregnant women participated in the study by completing the State-Trait Anxiety Inventory-I, Decisional Conflict Scale, SURE Scale, Knowledge Assessment Forms, Decision Satisfaction Form and Attitudes Scale between June 2017 and March 2018. In the first stage, pregnant women were evaluated who had only prenatal genetic screening tests and in the second stage, pregnant women who had been recommended to receive diagnostic tests. The intervention group received face-to-face individual education and counselling about prenatal genetic tests. Independent samples t test, t tests and Pearson correlation tests were used. RESULTS: Education and counselling for prenatal screening tests and diagnostic tests from the first weeks of pregnancy were effective in decreasing anxiety, decisional conflict, increasing attitudes towards tests and had positive effects on pregnant women's knowledge level and decision satisfaction (P < 0.005). CONCLUSION: Prenatal genetic counselling and education are more effective if provided from the first weeks of pregnancy. Decreasing anxiety, decisional conflict and increasing knowledge levels of pregnant women are important to make informed decisions.
+AD  - Health Sciences Faculty, Nursing Department, Izmir Katip Celebi University, Izmir, Turkey.
+Gülhane Faculty of Nursing, University of Health Sciences Turkey, Ankara, Turkey.
+AN  - 34374162
+AU  - Yeşilçinar, İ
+AU  - Güvenç, G.
+DA  - Oct
+DO  - 10.1111/ijn.13000
+DP  - NLM
+ET  - 20210809
+IS  - 5
+KW  - Counseling
+*Diagnostic Tests, Routine
+Female
+Genetic Counseling
+Humans
+Pregnancy
+*Pregnant Women
+Prenatal Diagnosis
+anxiety
+counselling
+education
+genetics
+nursing
+prenatal screening
+LA  - eng
+N1  - 1440-172x
+Yeşilçinar, İlknur
+Orcid: 0000-0003-2864-4935
+Güvenç, Gülten
+Orcid: 0000-0002-8330-9497
+Journal Article
+Randomized Controlled Trial
+Australia
+2021/08/11
+Int J Nurs Pract. 2021 Oct;27(5):e13000. doi: 10.1111/ijn.13000. Epub 2021 Aug 9.
+PY  - 2021
+SN  - 1322-7114
+SP  - e13000
+ST  - Counselling and education for prenatal screening and diagnostic tests for pregnant women: Randomized controlled trial
+T2  - Int J Nurs Pract
+TI  - Counselling and education for prenatal screening and diagnostic tests for pregnant women: Randomized controlled trial
+VL  - 27
+ID  - 50881
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Endometrial receptivity testing is purported to improve live birth following frozen embryo transfer by identifying the optimal embryo transfer time for an individual patient; however, data are conflicting. OBJECTIVE: To compare live birth from single euploid frozen embryo transfer according to endometrial receptivity testing vs standardized timing. DESIGN, SETTING, AND PARTICIPANTS: Double-blind, randomized clinical trial at 30 sites within a multicenter private fertility practice in the Eastern US. Enrollment was from May 2018 to September 2020; follow-up concluded in August 2021. Participants underwent in vitro fertilization, preimplantation genetic testing for aneuploidy, endometrial receptivity testing, and frozen embryo transfer. Those with euploid blastocyst(s) and an informative receptivity result were randomized. Exclusion criteria included recurrent pregnancy loss, recurrent implantation failure, surgically aspirated sperm, donor egg(s), and unmitigated anatomic uterine cavity defects. INTERVENTIONS: The intervention group (n = 381) underwent receptivity-timed frozen embryo transfer, with adjusted duration of progesterone exposure prior to transfer, if indicated by receptivity testing. The control group (n = 386) underwent transfer at standard timing, regardless of receptivity test results. MAIN OUTCOMES AND MEASURES: The primary outcome was live birth. There were 3 secondary outcomes, including biochemical pregnancy and clinical pregnancy. RESULTS: Among 767 participants who were randomized (mean age, 35 years), 755 (98%) completed the trial. All randomized participants were analyzed. The primary outcome of live birth occurred in 58.5% of transfers (223 of 381) in the intervention group vs 61.9% of transfers (239 of 386) in the control group (difference, -3.4% [95% CI, -10.3% to 3.5%]; rate ratio [RR], 0.95 [95% CI, 0.79 to 1.13]; P = .38). There were no significant differences in the intervention vs the control group for the prespecified secondary outcomes, including biochemical pregnancy rate (77.2% vs 79.5%, respectively; difference, -2.3% [95% CI, -8.2% to 3.5%]; RR, 0.97 [95% CI, 0.83 to 1.14]; P = .48) and clinical pregnancy rate (68.8% vs 72.8%, respectively; difference, -4.0% [95% CI, -10.4% to 2.4%]; RR, 0.94 [95% CI, 0.80 to 1.12]; P = .25). There were no reported adverse events. CONCLUSIONS AND RELEVANCE: Among patients for whom in vitro fertilization yielded a euploid blastocyst, the use of receptivity testing to guide the timing of frozen embryo transfer, compared with standard timing for transfer, did not significantly improve the rate of live birth. The findings do not support routine use of receptivity testing to guide the timing of embryo transfer during in vitro fertilization. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03558399.
+AD  - Shady Grove Fertility Center, Rockville, Maryland.
+Eunice Kennedy Shriver National Institute of Child Health and Human Development, Reproductive Endocrinology and Infertility Fellowship Program, National Institutes of Health, Bethesda, Maryland.
+AN  - 36472596
+AU  - Doyle, N.
+AU  - Jahandideh, S.
+AU  - Hill, M. J.
+AU  - Widra, E. A.
+AU  - Levy, M.
+AU  - Devine, K.
+C1  - Conflict of Interest Disclosures: Dr Hill reported receiving personal fees from Thread Robotics. Dr Widra reported serving on the scientific advisory board of Igenomix. No other disclosures were reported.
+C2  - PMC9856480
+DA  - Dec 6
+DO  - 10.1001/jama.2022.20438
+DP  - NLM
+IS  - 21
+KW  - Adult
+Female
+Humans
+Male
+Pregnancy
+*Embryo Transfer/methods
+*Live Birth
+Semen
+*Endometrium/physiology
+Time Factors
+*Diagnostic Techniques, Obstetrical and Gynecological
+*Fertilization in Vitro
+Diagnostic Tests, Routine
+LA  - eng
+N1  - 1538-3598
+Doyle, Nicole
+Jahandideh, Samad
+Hill, Micah J
+Widra, Eric A
+Levy, Michael
+Devine, Kate
+Comparative Study
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+United States
+2022/12/07
+JAMA. 2022 Dec 6;328(21):2117-2125. doi: 10.1001/jama.2022.20438.
+PY  - 2022
+SN  - 0098-7484 (Print)
+0098-7484
+SP  - 2117-2125
+ST  - Effect of Timing by Endometrial Receptivity Testing vs Standard Timing of Frozen Embryo Transfer on Live Birth in Patients Undergoing In Vitro Fertilization: A Randomized Clinical Trial
+T2  - Jama
+TI  - Effect of Timing by Endometrial Receptivity Testing vs Standard Timing of Frozen Embryo Transfer on Live Birth in Patients Undergoing In Vitro Fertilization: A Randomized Clinical Trial
+VL  - 328
+ID  - 50870
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Intermittent preventive treatment in pregnancy (IPTp) with sulfadoxine-pyrimethamine (SP) is an important malaria control strategy in sub-Saharan Africa. Indeed, it overcomes the risk of misdiagnosis due to low peripheral parasitemia during pregnancy by treating women with SP on predetermined schedules. However, over time, the spread of Plasmodium-resistant strains has threatened this strategy in many countries. As an alternative, the intermittent screening and treatment for pregnancy (ISTp) aims at a monthly screening of pregnant women, preferably by using very sensitive tests such as ultrasensitive rapid diagnostic tests (us-RDTs) and the treatment of positive cases with artemisinin-based combination therapy (ACT) regardless of the presence of symptoms. Unlike IPTp-SP, ISTp prevents overuse of antimalarials limiting the drug pressure on parasites, an advantage which can be potentiated by using an ACT like pyronaridine-artesunate (Pyramax®) that is not yet used in pregnant women in the field. METHODS: This study aims to compare the non-inferiority of ISTp using us-RDTs and Pyramax® versus IPTp-SP on malaria in pregnancy through a randomized clinical trial performed in Kisenso, Kinshasa, the Democratic Republic of the Congo, a malaria perennial transmission area. DISCUSSION: The results will be essential for the National Malaria Control Program to update the malaria prevention policy in pregnant women in the Democratic Republic of the Congo. TRIAL REGISTRATION: ClinicalTrials.gov NCT04783051.
+AD  - Department of Tropical Medicine, University of Kinshasa (UNIKIN), Kinshasa, Democratic Republic of the Congo. vmaketangoyi@gmail.com.
+Department of Tropical Medicine, University of Kinshasa (UNIKIN), Kinshasa, Democratic Republic of the Congo.
+Amsterdam University Medical Centres, Academic Medical Centre at the University of Amsterdam (AMC), Laboratory for Experimental Parasitology, Amsterdam Institute for Infection and Immunology, Amsterdam, Netherlands.
+Malaria Research and Training Center (MRTC), University of Sciences of Techniques and Technologies of Bamako (USTTB), Bamako, Mali.
+Institut de Recherche en Sciences de la Santé - Clinical Research Unit of Nanoro (IRSS-CRUN), Ouagadougou, Burkina Faso.
+AN  - 36443882
+AU  - Maketa, V.
+AU  - Kabalu, J.
+AU  - Kabena, M.
+AU  - Luzolo, F.
+AU  - Muhindo-Mavoko, H.
+AU  - Schallig, Hdfh
+AU  - Kayentao, K.
+AU  - Mens, P. F.
+AU  - Lutumba, P.
+AU  - Tinto, H.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC9706843
+DA  - Nov 28
+DO  - 10.1186/s13063-022-06884-8
+DP  - NLM
+ET  - 20221128
+IS  - 1
+KW  - Pregnancy
+Female
+Humans
+*Antimalarials/adverse effects
+Pregnant Women
+Diagnostic Tests, Routine
+Democratic Republic of the Congo/epidemiology
+*Malaria/diagnosis/drug therapy/epidemiology
+IPTp-SP
+ISTp
+Malaria
+Malaria indicators
+Ultra-sensitive RDTs
+LA  - eng
+N1  - 1745-6215
+Maketa, Vivi
+Orcid: 0000-0002-9007-1376
+Kabalu, Japhet
+Kabena, Melissa
+Luzolo, Flory
+Muhindo-Mavoko, Hypolite
+Schallig, Henk D F H
+Kayentao, Kassoum
+Mens, Petra F
+Lutumba, Pascal
+Tinto, Halidou
+Tma2019cdf-2699-ultrapyrapreg/edctp/
+TMA2019CDF-2699-ULTRAPYRAPREG/Novartis/
+Journal Article
+Randomized Controlled Trial
+England
+2022/11/30
+Trials. 2022 Nov 28;23(1):963. doi: 10.1186/s13063-022-06884-8.
+PY  - 2022
+SN  - 1745-6215
+SP  - 963
+ST  - Comparison of intermittent screening (using ultra-sensitive malaria rapid diagnostic test) and treatment (using a newly registered antimalarial pyronaridine-artesunate-PYRAMAX®) to standard intermittent preventive treatment with sulfadoxine-pyrimethamine for the prevention of malaria in pregnant women living in endemic areas: ULTRAPYRAPREG
+T2  - Trials
+TI  - Comparison of intermittent screening (using ultra-sensitive malaria rapid diagnostic test) and treatment (using a newly registered antimalarial pyronaridine-artesunate-PYRAMAX®) to standard intermittent preventive treatment with sulfadoxine-pyrimethamine for the prevention of malaria in pregnant women living in endemic areas: ULTRAPYRAPREG
+VL  - 23
+ID  - 50878
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: There are limited data from randomized trials to guide a specific follow-up surveillance approach after myocardial revascularization. Whether a follow-up strategy that includes routine functional testing improves clinical outcomes among high-risk patients who have undergone percutaneous coronary intervention (PCI) is uncertain. METHODS: We randomly assigned 1706 patients with high-risk anatomical or clinical characteristics who had undergone PCI to a follow-up strategy of routine functional testing (nuclear stress testing, exercise electrocardiography, or stress echocardiography) at 1 year after PCI or to standard care alone. The primary outcome was a composite of death from any cause, myocardial infarction, or hospitalization for unstable angina at 2 years. Key secondary outcomes included invasive coronary angiography and repeat revascularization. RESULTS: The mean age of the patients was 64.7 years, 21.0% had left main disease, 43.5% had bifurcation disease, 69.8% had multivessel disease, 70.1% had diffuse long lesions, 38.7% had diabetes, and 96.4% had been treated with drug-eluting stents. At 2 years, a primary-outcome event had occurred in 46 of 849 patients (Kaplan-Meier estimate, 5.5%) in the functional-testing group and in 51 of 857 (Kaplan-Meier estimate, 6.0%) in the standard-care group (hazard ratio, 0.90; 95% confidence interval [CI], 0.61 to 1.35; P = 0.62). There were no between-group differences with respect to the components of the primary outcome. At 2 years, 12.3% of the patients in the functional-testing group and 9.3% in the standard-care group had undergone invasive coronary angiography (difference, 2.99 percentage points; 95% CI, -0.01 to 5.99), and 8.1% and 5.8% of patients, respectively, had undergone repeat revascularization (difference, 2.23 percentage points; 95% CI, -0.22 to 4.68). CONCLUSIONS: Among high-risk patients who had undergone PCI, a follow-up strategy of routine functional testing, as compared with standard care alone, did not improve clinical outcomes at 2 years. (Funded by the CardioVascular Research Foundation and Daewoong Pharmaceutical; POST-PCI ClinicalTrials.gov number, NCT03217877.).
+AD  - From the Divisions of Cardiology (D.-W.P., D.-Y.K., J.-M.A., S.-J.P.) and Biostatistics (S.-C.Y.), Asan Medical Center, University of Ulsan College of Medicine, the Cardiovascular Center and Cardiology Division, Yeouido St. Mary's Hospital (C.S.P.), and the Division of Cardiology, Eulji General Hospital (J.W.C.), Seoul, the Division of Cardiology, Chungnam National University Sejong Hospital, Sejong (Y.-H.Y.), the Division of Cardiology, Keimyung University Dongsan Hospital (S.-H.H., C.H.L.), and the Division of Cardiology, Daegu Catholic University Medical Center (K.-S.K.), Daegu, the Division of Cardiology, CHA Bundang Medical Center (W.-J.K., S.H.K.), and the Cardiovascular Center, Seoul National University Bundang Hospital (J.-W.S.), Seongnam, the Division of Cardiology, Kangwon National University Hospital, Chuncheon (B.-K.L.), the Division of Cardiology, Wonju Severance Christian Hospital, Wonju (J.H.Y.), the Division of Cardiology, Chungnam National University Hospital, Daejeon (S.W.C.), and the Division of Cardiology, St. Vincent's Hospital, Suwon (S.N.L.) - all in South Korea.
+AN  - 36036496
+AU  - Park, D. W.
+AU  - Kang, D. Y.
+AU  - Ahn, J. M.
+AU  - Yun, S. C.
+AU  - Yoon, Y. H.
+AU  - Hur, S. H.
+AU  - Lee, C. H.
+AU  - Kim, W. J.
+AU  - Kang, S. H.
+AU  - Park, C. S.
+AU  - Lee, B. K.
+AU  - Suh, J. W.
+AU  - Yoon, J. H.
+AU  - Choi, J. W.
+AU  - Kim, K. S.
+AU  - Choi, S. W.
+AU  - Lee, S. N.
+AU  - Park, S. J.
+DA  - Sep 8
+DO  - 10.1056/NEJMoa2208335
+DP  - NLM
+ET  - 20220828
+IS  - 10
+KW  - Aftercare
+Coronary Artery Bypass/adverse effects
+*Coronary Artery Disease/diagnosis/diagnostic imaging/therapy
+Diagnostic Tests, Routine
+*Drug-Eluting Stents/adverse effects
+Humans
+Kaplan-Meier Estimate
+Middle Aged
+Myocardial Infarction/etiology
+*Percutaneous Coronary Intervention/adverse effects/methods
+Standard of Care
+Treatment Outcome
+LA  - eng
+N1  - 1533-4406
+Park, Duk-Woo
+Orcid: 0000-0001-6643-0239
+Kang, Do-Yoon
+Ahn, Jung-Min
+Yun, Sung-Cheol
+Yoon, Yong-Hoon
+Hur, Seung-Ho
+Lee, Cheol Hyun
+Kim, Won-Jang
+Kang, Se Hun
+Park, Chul Soo
+Lee, Bong-Ki
+Suh, Jung-Won
+Yoon, Jung Han
+Choi, Jae Woong
+Kim, Kee-Sik
+Choi, Si Wan
+Lee, Su Nam
+Park, Seung-Jung
+POST-PCI Investigators
+AMCCV2017-05/Daewoong Pharmaceutical Company/
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+2022/08/30
+N Engl J Med. 2022 Sep 8;387(10):905-915. doi: 10.1056/NEJMoa2208335. Epub 2022 Aug 28.
+PY  - 2022
+SN  - 0028-4793
+SP  - 905-915
+ST  - Routine Functional Testing or Standard Care in High-Risk Patients after PCI
+T2  - N Engl J Med
+TI  - Routine Functional Testing or Standard Care in High-Risk Patients after PCI
+VL  - 387
+ID  - 50875
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Amyloid positron emission tomography (PET) allows the direct assessment of amyloid deposition, one of the main hallmarks of Alzheimer disease. However, this technique is currently not widely reimbursed because of the lack of appropriately designed studies demonstrating its clinical effect. OBJECTIVE: To assess the clinical effect of amyloid PET in memory clinic patients. DESIGN, SETTING, AND PARTICIPANTS: The AMYPAD-DPMS is a prospective randomized clinical trial in 8 European memory clinics. Participants were allocated (using a minimization method) to 3 study groups based on the performance of amyloid PET: arm 1, early in the diagnostic workup (within 1 month); arm 2, late in the diagnostic workup (after a mean [SD] 8 [2] months); or arm 3, if and when the managing physician chose. Participants were patients with subjective cognitive decline plus (SCD+; SCD plus clinical features increasing the likelihood of preclinical Alzheimer disease), mild cognitive impairment (MCI), or dementia; they were assessed at baseline and after 3 months. Recruitment took place between April 16, 2018, and October 30, 2020. Data analysis was performed from July 2022 to January 2023. INTERVENTION: Amyloid PET. MAIN OUTCOME AND MEASURE: The main outcome was the difference between arm 1 and arm 2 in the proportion of participants receiving an etiological diagnosis with a very high confidence (ie, ≥90% on a 50%-100% visual numeric scale) after 3 months. RESULTS: A total of 844 participants were screened, and 840 were enrolled (291 in arm 1, 271 in arm 2, 278 in arm 3). Baseline and 3-month visit data were available for 272 participants in arm 1 and 260 in arm 2 (median [IQR] age: 71 [65-77] and 71 [65-77] years; 150/272 male [55%] and 135/260 male [52%]; 122/272 female [45%] and 125/260 female [48%]; median [IQR] education: 12 [10-15] and 13 [10-16] years, respectively). After 3 months, 109 of 272 participants (40%) in arm 1 had a diagnosis with very high confidence vs 30 of 260 (11%) in arm 2 (P < .001). This was consistent across cognitive stages (SCD+: 25/84 [30%] vs 5/78 [6%]; P < .001; MCI: 45/108 [42%] vs 9/102 [9%]; P < .001; dementia: 39/80 [49%] vs 16/80 [20%]; P < .001). CONCLUSION AND RELEVANCE: In this study, early amyloid PET allowed memory clinic patients to receive an etiological diagnosis with very high confidence after only 3 months compared with patients who had not undergone amyloid PET. These findings support the implementation of amyloid PET early in the diagnostic workup of memory clinic patients. TRIAL REGISTRATION: EudraCT Number: 2017-002527-21.
+AN  - rayyan-1277759655
+AU  - Altomare, D.
+AU  - Barkhof, F.
+AU  - Caprioglio, C.
+AU  - Collij, L. E.
+AU  - Scheltens, P.
+AU  - Lopes Alves, I.
+AU  - Bouwman, F.
+AU  - Berkhof, J.
+AU  - van Maurik, I. S.
+AU  - Garibotto, V.
+AU  - Moro, C.
+AU  - Delrieu, J.
+AU  - Payoux, P.
+AU  - Saint-Aubert, L.
+AU  - Hitzel, A.
+AU  - Molinuevo, J. L.
+AU  - Grau-Rivera, O.
+AU  - Gispert, J. D.
+AU  - Drzezga, A.
+AU  - Jessen, F.
+AU  - Zeyen, P.
+AU  - Nordberg, A.
+AU  - Savitcheva, I.
+AU  - Jelic, V.
+AU  - Walker, Z.
+AU  - Edison, P.
+AU  - Demonet, J. F.
+AU  - Gismondi, R.
+AU  - Farrar, G.
+AU  - Stephens, A. W.
+AU  - Frisoni, G. B.
+C1  - 2168-6157 Altomare, Daniele Barkhof, Frederik Caprioglio, Camilla Collij, Lyduine E Scheltens, Philip Lopes Alves, Isadora Bouwman, Femke Berkhof, Johannes van Maurik, Ingrid S Garibotto, Valentina Moro, Christian Delrieu, Julien Payoux, Pierre Saint-Aubert, Laure Hitzel, Anne Molinuevo, José Luis Grau-Rivera, Oriol Gispert, Juan Domingo Drzezga, Alexander Jessen, Frank Zeyen, Philip Nordberg, Agneta Savitcheva, Irina Jelic, Vesna Walker, Zuzana Edison, Paul Demonet, Jean-François Gismondi, Rossella Farrar, Gill Stephens, Andrew W Frisoni, Giovanni B Amyloid Imaging to Prevent Alzheimer’s Disease (AMYPAD) Consortium MRC_/Medical Research Council/United Kingdom Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2023/05/08 JAMA Neurol. 2023 Jun 1;80(6):548-557. doi: 10.1001/jamaneurol.2023.0997. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2023-6-1
+DO  - doi:10.1001/jamaneurol.2023.0997
+IS  - 6
+KW  - Humans
+Male
+Female
+Aged
+*Alzheimer Disease/psychology
+Brain/metabolism
+Prospective Studies
+Positron-Emission Tomography
+*Cognitive Dysfunction
+Amyloid/metabolism
+Amyloidogenic Proteins
+Amyloid beta-Peptides/metabolism
+LA  - eng
+PY  - 2023
+SN  - 2168-6149 (Print) 2168-6149
+SP  - 548-557
+ST  - Clinical Effect of Early vs Late Amyloid Positron Emission Tomography in Memory Clinic Patients: The AMYPAD-DPMS Randomized Clinical Trial
+T2  - JAMA Neurol
+TI  - Clinical Effect of Early vs Late Amyloid Positron Emission Tomography in Memory Clinic Patients: The AMYPAD-DPMS Randomized Clinical Trial
+VL  - 80
+ID  - 50846
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Kato et al. reported results of a 6-week, double-blind, randomized, placebo-controlled trial of lurasidone in adults with bipolar depression (BDep). AIM: We performed a post hoc analysis using data from the lurasidone trial to predict later responses from early improvements. METHODS: An early improvement was defined as a ≥20% reduction in Montgomery-Åsberg Depression Rating Scale (MADRS) total score at Week 2; response was defined as a ≥50% reduction in MADRS total score at Week 6; symptomatic remission were defined as a score of ≤8 on MADRS total score at Week 6. RESULTS: Both sensitivity and negative predictive value (NPV) were higher for the remission outcome than for the response outcome. The interpretation of sensitivity and NPV in the lurasidone group when remission is an outcome is as follows. It means (1) that, from all remitters at Week 6, 80.6% was identified as such at Week 2 on the basis of their early improvement and (2) that a patient showing non-improvement at 2 weeks had 93.5% probability of being a non-remitters at Week 6. However, the values of specificity for both response and remission in the lurasidone group were not high. CONCLUSION: Patients who did not show an early response at Week 2 cannot be predicted with a high probability to also show poor improvement at Week 6. In fact, some patients who did not show early response at 2 weeks might have marked improvement at 6 weeks.
+AD  - Department of Psychiatry, Fujita Health University School of Medicine, Toyoake, Japan.
+Medical Affairs, Sumitomo Pharma Co., Ltd., Tokyo, Japan.
+Department of Psychiatry and Behavioral Science, Juntendo University Graduate School of Medicine, Tokyo, Japan.
+AN  - 36632763
+AU  - Kishi, T.
+AU  - Nakamura, H.
+AU  - Kato, T.
+AU  - Iwata, N.
+C1  - HN is a full‐time employee of Sumitomo Pharma Co., Ltd. Other authors declare that there are no conflicts of interest in relation to this study. We declare the following interests within the past 3 years: TKishi, TKato, and NI. TKishi has received speaker's honoraria from Sumitomo, Eisai, Janssen, Otsuka, Meiji, Tanabe‐Mitsubishi, Viatris, and Takeda and research grants from Eisai, the Japanese Ministry of Health, Labour and Welfare, Grant‐in‐Aid for Scientific Research, and Japan Agency for Medical Research and Development. TKato reports grants and personal fees from Sumitomo Pharma Co., Ltd., Otsuka Pharmaceutical Co., Ltd., Meiji Seika Pharma Co., Ltd., Shionogi & Co., Ltd., Takeda Pharmaceutical Co., Ltd., and Eisai Co., Ltd., personal fees from Taisho Pharma Co., Ltd., Mochida Pharmaceutical Co., Janssen Pharmaceutical K.K., Janssen Asia Pacific, Yoshitomiyakuhin, MSD K.K., Kyowa Pharmaceutical Industry Co., Ltd., Taisho Pharmaceutical Co., Ltd., Teijin Pharma, Viatris, Mylan N.V., outside the submitted work. He is an Editor‐in‐Chief of Psychiatry and Clinical Neurosciences (Editor in Chief), and a chair of Bipolar Disorder Committee and a member of Treatment Guidelines Committee of the Japanese Society for Mood Disorders. NI has received speaker's honoraria from Sumitomo, Eisai, Eli Lilly, Janssen, Takeda, Meiji, Tanabe‐Mitsubishi, Otsuka, and Viatris and research grants from Daiichi Sankyo, Eisai, Takeda, Sumitomo, Meiji, Tanabe‐Mitsubishi, and Otsuka.
+C2  - PMC10009426
+DA  - Mar
+DO  - 10.1002/npr2.12319
+DP  - NLM
+ET  - 20230112
+IS  - 1
+KW  - Adult
+Humans
+*Lurasidone Hydrochloride
+*Bipolar Disorder/diagnosis
+Psychiatric Status Rating Scales
+Predictive Value of Tests
+Diagnostic Tests, Routine
+bipolar depression
+diagnostic test
+early improvement
+lurasidone
+LA  - eng
+N1  - 2574-173x
+Kishi, Taro
+Orcid: 0000-0002-9237-2236
+Nakamura, Hiroshi
+Kato, Tadafumi
+Orcid: 0000-0001-7856-3952
+Iwata, Nakao
+Journal Article
+Randomized Controlled Trial
+United States
+2023/01/13
+Neuropsychopharmacol Rep. 2023 Mar;43(1):137-140. doi: 10.1002/npr2.12319. Epub 2023 Jan 12.
+PY  - 2023
+SN  - 2574-173x
+SP  - 137-140
+ST  - A diagnostic test to examine early improvement as a predictor of later response to lurasidone in bipolar depression
+T2  - Neuropsychopharmacol Rep
+TI  - A diagnostic test to examine early improvement as a predictor of later response to lurasidone in bipolar depression
+VL  - 43
+ID  - 50873
+ER  - 
+
+TY  - JOUR
+AB  - Early detection and intervention can counteract mental disorders and risk behaviours among adolescents. However, help-seeking rates are low. School-based screenings are a promising tool to detect adolescents at risk for mental problems and to improve help-seeking behaviour. We assessed associations between the intervention "Screening by Professionals" (ProfScreen) and the use of mental health services and at-risk state at 12 month follow-up compared to a control group. School students (aged 15 ± 0.9 years) from 11 European countries participating in the "Saving and Empowering Young Lives in Europe" (SEYLE) study completed a self-report questionnaire on mental health problems and risk behaviours. ProfScreen students considered "at-risk" for mental illness or risk behaviour based on the screening were invited for a clinical interview with a mental health professional and, if necessary, referred for subsequent treatment. At follow-up, students completed another self-report, additionally reporting on service use. Of the total sample (N = 4,172), 61.9% were considered at-risk. 40.7% of the ProfScreen at-risk participants invited for the clinical interview attended the interview, and 10.1% of subsequently referred ProfScreen participants engaged in professional treatment. There were no differences between the ProfScreen and control group regarding follow-up service use and at-risk state. Attending the ProfScreen interview was positively associated with follow-up service use (OR = 1.783, 95% CI = 1.038-3.064), but had no effect on follow-up at-risk state. Service use rates of professional care as well as of the ProfScreen intervention itself were low. Future school-based interventions targeting help-seeking need to address barriers to intervention adherence.Clinical Trials Registration: The trial is registered at the US National Institute of Health (NIH) clinical trial registry (NCT00906620, registered on 21 May, 2009), and the German Clinical Trials Register (DRKS00000214, registered on 27 October, 2009).
+AN  - rayyan-1277759861
+AU  - Lustig, S.
+AU  - Kaess, M.
+AU  - Schnyder, N.
+AU  - Michel, C.
+AU  - Brunner, R.
+AU  - Tubiana, A.
+AU  - Kahn, J. P.
+AU  - Sarchiapone, M.
+AU  - Hoven, C. W.
+AU  - Barzilay, S.
+AU  - Apter, A.
+AU  - Balazs, J.
+AU  - Bobes, J.
+AU  - Saiz, P. A.
+AU  - Cozman, D.
+AU  - Cotter, P.
+AU  - Kereszteny, A.
+AU  - Podlogar, T.
+AU  - Postuvan, V.
+AU  - Värnik, A.
+AU  - Resch, F.
+AU  - Carli, V.
+AU  - Wasserman, D.
+C1  - 1435-165x Lustig, Sophia Kaess, Michael Orcid: 0000-0002-1937-1085 Schnyder, Nina Michel, Chantal Brunner, Romuald Tubiana, Alexandra Kahn, Jean-Pierre Sarchiapone, Marco Hoven, Christina W Barzilay, Shira Apter, Alan Balazs, Judit Bobes, Julio Saiz, Pilar Alejandra Cozman, Doina Cotter, Padraig Kereszteny, Agnes Podlogar, Tina Postuvan, Vita Värnik, Airi Resch, Franz Carli, Vladimir Wasserman, Danuta HEALTH-F2-2009-223091/Seventh Framework Programme/ Journal Article Randomized Controlled Trial Germany 2022/05/01 Eur Child Adolesc Psychiatry. 2023 Sep;32(9):1745-1754. doi: 10.1007/s00787-022-01990-z. Epub 2022 Apr 30. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2023-9
+DO  - doi:10.1007/s00787-022-01990-z
+IS  - 9
+KW  - Adolescent
+Humans
+Europe
+*Mental Disorders/diagnosis/epidemiology/therapy
+*Mental Health
+Risk-Taking
+Surveys and Questionnaires
+Adolescents
+Mental health problems
+Risk behaviours
+School-based screening
+Service use
+LA  - eng
+PY  - 2023
+SN  - 1018-8827 (Print) 1018-8827
+SP  - 1745-1754
+ST  - The impact of school-based screening on service use in adolescents at risk for mental health problems and risk-behaviour
+T2  - Eur Child Adolesc Psychiatry
+TI  - The impact of school-based screening on service use in adolescents at risk for mental health problems and risk-behaviour
+VL  - 32
+ID  - 50847
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Reducing the duration of untreated psychosis (DUP) is essential to improving outcomes for people with first-episode psychosis (FEP). Current US approaches are insufficient to reduce DUP to international standards of less than 90 days. OBJECTIVE: To determine whether population-based electronic screening in addition to standard targeted clinician education increases early detection of psychosis and decreases DUP, compared with clinician education alone. DESIGN, SETTING, AND PARTICIPANTS: This cluster randomized clinical trial included individuals aged 12 to 30 years presenting for services between March 2015 and September 2017 at participating sites that included community mental health clinics and school support and special education services. Eligible participants were referred to the Early Diagnosis and Preventative Treatment (EDAPT) Clinic. Data analyses were performed in September and October 2019 for the primary and secondary analyses, with the exploratory subgroup analyses completed in May 2021. INTERVENTIONS: All sites in both groups received targeted education about early psychosis for health care professionals. In the active screening group, clients also completed the Prodromal Questionnaire-Brief using tablets at intake; referrals were based on those scores and clinical judgment. In the group receiving treatment as usual (TAU), referrals were based on clinical judgment alone. MAIN OUTCOMES AND MEASURES: Primary outcomes included DUP, defined as the period from full psychosis onset to the date of the EDAPT diagnostic telephone interview, and the number of individuals identified with FEP or a psychosis spectrum disorder. Exploratory analyses examined differences by site type, completion rates between conditions, and days from service entry to telephone interview. RESULTS: Twenty-four sites agreed to participate, and 12 sites were randomized to either the active screening or TAU group. However, only 10 community clinics and 4 school sites were able to fully implement population screening and were included in the final analysis. The total potentially eligible population size within each study group was similar, with 2432 individuals entering at active screening group sites and 2455 at TAU group sites. A total of 303 diagnostic telephone interviews were completed (178 [58.7%] female individuals; mean [SD] age, 17.09 years [4.57]). Active screening sites reported a significantly higher detection rate of psychosis spectrum disorders (136 cases [5.6%], relative to 65 [2.6%]; P < .001) and referred a higher proportion of individuals with FEP and DUP less than 90 days (13 cases, relative to 4; odds ratio, 0.30; 95% CI, 0.10-0.93; P = .03). There was no difference in mean (SD) DUP between groups (active screening group, 239.0 days [207.4]; TAU group 262.3 days [170.2]). CONCLUSIONS AND RELEVANCE: In this cluster trial, population-based technology-enhanced screening across community settings detected more than twice as many individuals with psychosis spectrum disorders compared with clinical judgment alone but did not reduce DUP. Screening could identify people undetected in US mental health services. Significant DUP reduction may require interventions to reduce time to the first mental health contact. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT02841956.
+AN  - rayyan-1277759898
+AU  - Niendam, T. A.
+AU  - Loewy, R.
+AU  - Savill, M.
+AU  - Delucchi, K. L.
+AU  - Lesh, T. A.
+AU  - Ragland, J. D.
+AU  - Bolden, K.
+AU  - Skymba, H. V.
+AU  - Gobrial, S.
+AU  - Meyer, M. S.
+AU  - Pierce, K. M.
+AU  - Rosenthal, A.
+AU  - Fedechko, T. L.
+AU  - Tully, L. M.
+AU  - Tryon, V. L.
+AU  - Goldman, H.
+AU  - Cress, R. D.
+AU  - Kravitz, R. L.
+AU  - Carter, C. S.
+C1  - 2168-6238 Niendam, Tara A Loewy, Rachel Savill, Mark Delucchi, Kevin L Lesh, Tyler A Ragland, J Daniel Bolden, Khalima Skymba, Haley V Gobrial, Sarah Meyer, Monet S Pierce, Katherine M Rosenthal, Adi Fedechko, Taylor L Tully, Laura M Tryon, Valerie L Goldman, Howard Cress, Rosemary D Kravitz, Richard L Carter, Cameron S R01 MH104235/MH/NIMH NIH HHS/United States T32 MH018261/MH/NIMH NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural United States 2023/01/05 JAMA Psychiatry. 2023 Feb 1;80(2):119-126. doi: 10.1001/jamapsychiatry.2022.4436. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2023-2-1
+DO  - doi:10.1001/jamapsychiatry.2022.4436
+IS  - 2
+KW  - Humans
+Female
+Adolescent
+Male
+*Psychotic Disorders/diagnosis/therapy/psychology
+*Mental Health Services
+Educational Status
+Mental Health
+Schools
+LA  - eng
+PY  - 2023
+SN  - 2168-622X (Print) 2168-622x
+SP  - 119-126
+ST  - Effect of Technology-Enhanced Screening in Addition to Standard Targeted Clinician Education on the Duration of Untreated Psychosis: A Cluster Randomized Clinical Trial
+T2  - JAMA Psychiatry
+TI  - Effect of Technology-Enhanced Screening in Addition to Standard Targeted Clinician Education on the Duration of Untreated Psychosis: A Cluster Randomized Clinical Trial
+VL  - 80
+ID  - 50848
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Bile acid diarrhoea is often missed because gold standard nuclear medicine tauroselcholic [75-Se] acid (SeHCAT) testing has limited availability. Empirical treatment effect has unknown diagnostic performance, whereas plasma 7α-hydroxy-4-cholesten-3-one (C4) is inexpensive but lacks sensitivity. AIMS: To determine diagnostic characteristics of empirical treatment and explore improvements in diagnostics with potential better availability than SeHCAT. METHODS: This diagnostic accuracy study was part of a randomised, placebo-controlled trial of colesevelam. Consecutive patients with chronic diarrhoea attending SeHCAT had blood and stool sampled. Key thresholds were C4 > 46 ng/mL and SeHCAT retention ≤10%. A questionnaire recorded patient-reported empirical treatment effect. We analysed receiver operating characteristics and explored machine learning applied logistic regression and decision tree modelling with internal validation. RESULTS: Ninety-six (38%) of 251 patients had SeHCAT retention ≤10%. The effect of empirical treatment assessed with test results for bile acid studies blinded had 63% (95% confidence interval 44%-79%) sensitivity and 65% (47%-80%) specificity; C4 > 46 ng/mL had 47% (37%-57%) and 92% (87%-96%), respectively. A decision tree combining C4 ≥ 31 ng/mL with ≥1.1 daily watery stools (Bristol type 6 and 7) had 70% (51%-85%) sensitivity and 95% (83%-99%) specificity. The logistic regression model, including C4, the sum of measured stool bile acids and daily watery stools, had 77% (58%-90%) sensitivity and 93% (80%-98%) specificity. CONCLUSIONS: Diagnosis of bile acid diarrhoea using empirical treatment was inadequate. Exploration suggested considerable improvements in the sensitivity of C4-based testing, offering potential widely available diagnostics. Further validation is warranted. CLINICALTRIALS: gov: NCT03876717.
+AD  - Department of Internal Medicine, Zealand University Hospital, Køge, Køge, Denmark.
+Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark.
+Department of Medical Gastroenterology, Aalborg University Hospital, Aalborg, Denmark.
+Department of Gastroenterology and Hepatology, Aarhus University Hospital, Aarhus, Denmark.
+Unit of Medical and Surgical Gastroenterology, Hvidovre University Hospital, Hvidovre, Denmark.
+Department of Clinical Physiology and Nuclear Medicine, Hvidovre University Hospital, Hvidovre, Denmark.
+Department of Nuclear Medicine and PET, Aarhus University Hospital, Aarhus, Denmark.
+Department of Nuclear Medicine, Aalborg University Hospital, Aalborg, Denmark.
+Département de Métabolomique Clinique METOMICS, Hôpital Saint Antoine, Sorbonne University, Paris, France.
+Department of Clinical Biochemistry, Copenhagen University Hospital, Rigshospitalet, Copenhagen, Denmark.
+AN  - 37794830
+AU  - Borup, C.
+AU  - Vinter-Jensen, L.
+AU  - Jørgensen, S. P. G.
+AU  - Wildt, S.
+AU  - Graff, J.
+AU  - Gregersen, T.
+AU  - Zaremba, A.
+AU  - Andersen, T. B.
+AU  - Nøjgaard, C.
+AU  - Timm, H. B.
+AU  - Lamazière, A.
+AU  - Rainteau, D.
+AU  - Hansen, S. H.
+AU  - Rumessen, J. J.
+AU  - Munck, L. K.
+DA  - Jan
+DO  - 10.1111/apt.17739
+DP  - NLM
+ET  - 20231005
+IS  - 1
+KW  - Humans
+*Bile Acids and Salts
+*Diarrhea/diagnosis/drug therapy/etiology
+Taurocholic Acid
+Diagnostic Tests, Routine
+LA  - eng
+N1  - 1365-2036
+Borup, Christian
+Orcid: 0000-0001-9772-4272
+Vinter-Jensen, Lars
+Jørgensen, Søren Peter German
+Orcid: 0000-0002-6530-6655
+Wildt, Signe
+Graff, Jesper
+Gregersen, Tine
+Zaremba, Anna
+Andersen, Trine Borup
+Nøjgaard, Camilla
+Timm, Hans Bording
+Lamazière, Antonin
+Rainteau, Dominique
+Hansen, Svend Høime
+Rumessen, Jüri Johannes
+Munck, Lars Kristian
+Orcid: 0000-0002-5014-8260
+10-002035/Aase og Ejnar Danielsens Fond/
+2017-771/Axel Muusfeldts Fond/
+2017-1064/93/Civilingeniør H.C. Bechgaard og hustru Ella Mary Bechgaards Fond/
+NNF19OC0055844/Fabrikant Vilhelm Pedersen og hustrus mindelegat by recommendation from the Novo Nordisk Foundation/
+18-L-0394/A.P. Møller og Hustru and Chastine Mc-Kinney Møller Fond til almene Formaal/
+20795-24/Overlaege Johan Boserup og Lise Boserups Legat/
+6386 MT/IV/Prosektor Axel Emil Søeborg Ohlsen og aegtefaelles Mindelegat/
+R17A48B39/Region Sjaelland/
+RSSF2017000645/Region Sjaelland/
+Journal Article
+Randomized Controlled Trial
+England
+2023/10/05
+Aliment Pharmacol Ther. 2024 Jan;59(1):39-50. doi: 10.1111/apt.17739. Epub 2023 Oct 5.
+PY  - 2024
+SN  - 0269-2813
+SP  - 39-50
+ST  - Prospective comparison of diagnostic tests for bile acid diarrhoea
+T2  - Aliment Pharmacol Ther
+TI  - Prospective comparison of diagnostic tests for bile acid diarrhoea
+VL  - 59
+ID  - 50876
+ER  - 
+
+TY  - JOUR
+AB  - Huntington's disease (HD) is increasingly recognized for diverse pathology outside of the nervous system. To describe the biology of HD in relation to functional progression, we previously analyzed the plasma and CSF metabolome in a cross-sectional study of participants who had various degrees of functional impairment. Here, we carried out an exploratory study in plasma from HD individuals over a 3-year time frame to assess whether differences exist between those with fast or absent clinical progression. There were more differences in circulating metabolite levels for fast progressors compared to absent progressors (111 vs 20, nominal p < 0.05). All metabolite changes in faster progressors were decreases, whereas some metabolite concentrations increased in absent progressors. Many of the metabolite levels that decreased in the fast progressors were higher at Screening compared to absent progressors but ended up lower by Year 3. Changes in faster progression suggest greater oxidative stress and inflammation (kynurenine, diacylglycerides, cysteine), disturbances in nitric oxide and urea metabolism (arginine, citrulline, ornithine, GABR), lower polyamines (putrescine and spermine), elevated glucose, and deficient AMPK signaling. Metabolomic differences between fast and absent progressors suggest the possibility of predicting functional decline in HD, and possibly delaying it with interventions to augment arginine, polyamines, and glucose regulation.
+AN  - rayyan-1277760128
+AU  - McGarry, A.
+AU  - Hunter, K.
+AU  - Gaughan, J.
+AU  - Auinger, P.
+AU  - Ferraro, T. N.
+AU  - Pradhan, B.
+AU  - Ferrucci, L.
+AU  - Egan, J. M.
+AU  - Moaddel, R.
+C1  - 2045-2322 McGarry, Andrew Hunter, Krystal Gaughan, John Auinger, Peggy Ferraro, Thomas N Pradhan, Basant Ferrucci, Luigi Egan, Josephine M Moaddel, Ruin Z01 AG000297/ImNIH/Intramural NIH HHS/United States Journal Article Randomized Controlled Trial England 2024/01/12 Sci Rep. 2024 Jan 11;14(1):1101. doi: 10.1038/s41598-023-50553-y. | RAYYAN-INCLUSION: {"Benjamin"=>"Excluded"}
+DA  - 2024-1-11
+DO  - doi:10.1038/s41598-023-50553-y
+IS  - 1
+KW  - Humans
+*Huntington Disease/metabolism
+Cross-Sectional Studies
+Polyamines
+Arginine
+Glucose
+Disease Progression
+LA  - eng
+PY  - 2024
+SN  - 2045-2322
+SP  - 1101
+ST  - An exploratory metabolomic comparison of participants with fast or absent functional progression from 2CARE, a randomized, double-blind clinical trial in Huntington's disease
+T2  - Sci Rep
+TI  - An exploratory metabolomic comparison of participants with fast or absent functional progression from 2CARE, a randomized, double-blind clinical trial in Huntington's disease
+VL  - 14
+ID  - 50849
+ER  - 
+
