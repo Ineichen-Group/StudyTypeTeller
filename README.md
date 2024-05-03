@@ -16,7 +16,7 @@ y
 `esearch -db pubmed -query 'Central nervous system diseases[MeSH] OR Mental Disorders Psychiatric illness[MeSH]' | efetch -format uid > ./pubmed/cns_psychiatric_diseases_mesh.txt
 `
 
-On 27/11/2023 this query returns 2,788,345 PMIDs, out of which we sample 5000 in [Data_Preparation.ipynb](data%2FData_Preparation.ipynb).
+On 27/11/2023 this query returns 2,788,345 PMIDs, out of which we sample 5000 in [Data_Preparation_and_Postprocessing.ipynb](data%2FData_Preparation_and_Postprocessing.ipynb).
 
 Given this list (see [cns_psychiatric_diseases_mesh_5000_sample_pmids.txt](data%2Fpubmed%2Fcns_psychiatric_diseases_mesh_5000_sample_pmids.txt)).
 - Create a variable containing the list of PMIDs:
@@ -26,8 +26,12 @@ Given this list (see [cns_psychiatric_diseases_mesh_5000_sample_pmids.txt](data%
 
 `efetch -db pubmed -id $id_list -format xml | xtract -pattern PubmedArticle -tab '^' -def "N/A" -element MedlineCitation/PMID PubDate/Year Journal/Title ArticleTitle AbstractText -block ArticleId -if ArticleId@IdType -equals doi -element ArticleId > "./pubmed/pmid_contents_mesh_query.txt"
 `
+- With keywords
 
-The data is then cleaned and prepared for annotation with prodigy in [Data_Preparation.ipynb](data%2FData_Preparation.ipynb).
+`efetch -db pubmed -id $id_list -format xml | xtract -pattern PubmedArticle -tab '^' -def "N/A" -element MedlineCitation/PMID Journal/Title  -block KeywordList -element Keyword > "./pubmed/enriched_data_keywords.txt"
+`
+
+The data is then cleaned and prepared for annotation with prodigy in [Data_Preparation_and_Postprocessing.ipynb](data%2FData_Preparation_and_Postprocessing.ipynb).
 
 Relevant API documentation references:
 - https://www.ncbi.nlm.nih.gov/books/NBK179288/
