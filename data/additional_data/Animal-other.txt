@@ -1,0 +1,3117 @@
+﻿TY  - JOUR
+AB  - While passaging a recently isolated strain of poliomyelitis virus through a rhesus monkey, another virus was procured from its central nervous system. After intracerebral inoculation, the virus produced meningoencephalitis in monkeys, cotton rats, hamsters, guinea pigs, and rabbits; after intracutaneous inoculation a necrotic skin lesion was produced in the monkey and rabbit and this was often followed by myelitis. The virus could also be passed in newborn mice less than 48 hours old and in chick embryos by inoculation of the chorioallantoic membrane. Immunological and host range studies revealed this virus to be related to the B virus originally described by Sabin and Wright in 1934 (1). To our knowledge this is the first record of B virus having been isolated from a monkey, and lends support to the inclusion of this agent as the simian member of the herpes group. The infection is not uncommon in monkey stocks, as revealed by the finding of antibodies to the virus in their sera. In the present series 9 of 44 monkeys gave positive antibody tests. Gamma globulin prepared in the United States in 1945, 1951, and 1953, as well as a certain proportion of sera from normal individuals in Bombay, India, and elsewhere, showed neutralizing activity against the new strain of B virus, and also to herpes simplex virus. This may be the result of the partial crossing which exists between the two viruses.
+AN  - 13286422
+AU  - Melnick, J. L.
+AU  - Banker, D. D.
+C2  - PMC2136366
+DA  - Aug 1
+DO  - 10.1084/jem.100.2.181
+DP  - NLM
+IS  - 2
+KW  - Animals
+*Antibodies
+*Central Nervous System
+*Central Nervous System Diseases
+Chick Embryo
+Cricetinae
+Guinea Pigs
+*Haplorhini
+*Herpesviridae
+*Herpesviridae Infections
+*Herpesvirus 1, Cercopithecine
+Humans
+*Macaca mulatta
+Mice
+Rabbits
+Rats
+*Simplexvirus
+*Viruses
+*CENTRAL NERVOUS SYSTEM/diseases
+*HERPES/virus
+LA  - eng
+N1  - 1540-9538
+Melnick, j l
+Banker, d d
+Journal Article
+United States
+1954/08/01
+J Exp Med. 1954 Aug 1;100(2):181-94. doi: 10.1084/jem.100.2.181.
+PY  - 1954
+SN  - 0022-1007 (Print)
+0022-1007
+SP  - 181-94
+ST  - Isolation of B virus (herpes group) from the central nervous system of a rhesus monkey
+T2  - J Exp Med
+TI  - Isolation of B virus (herpes group) from the central nervous system of a rhesus monkey
+VL  - 100
+ID  - 51128
+ER  - 
+
+TY  - JOUR
+AB  - Despite recent advances in surgical technology, resection is not an option for many brainstem tumors. Experimental models have played essential roles in examining new approaches to therapy. The objective of the present study was to generate models by determining coordinates for safe inoculation into the brainstem of mice and rats, and to establish whether the implantation of heterotopic cells would create reproducible survival curves. Morbidity and survival studies were used to map stereotactic coordinates allowing successful inoculation of tumor cells. Survival studies were used to investigate the time course of tumor growth. Tumor location was examined by light microscopy and magnetic resonance imaging. Mice survived injections of 2 microL of saline at interaural, lateral, and depth coordinates of -2.5, 1.0, and 3.5 mm and -1.5, 1.0, and 3.5 mm. Rats survived injections at interaural, lateral, and depth coordinates of -2.0, 2.0, and 7.0 mm and -3.0, 0, and 7.0 mm. Median survival of mice challenged with 5 x 10(5) EMT6 and 10(4) B16 tumor cells was 11 and 10 days, respectively. Median survival for rats challenged with 10(4) 9L and F98 cells was 14 and 13 days, respectively. The present study demonstrates a feasible approach to preparing models of brainstem tumors. Limitations of these models are discussed.
+AD  - Division of Pediatric Neurosurgery and Hunterian Brain Tumor Laboratories, Johns Hopkins Neurological Surgery, Baltimore, MD 21287-8811, USA.
+AN  - 12014493
+AU  - Wu, Q.
+AU  - Tyler, B.
+AU  - Sukay, L.
+AU  - Rhines, L.
+AU  - DiMeco, F.
+AU  - Clatterbuck, R. E.
+AU  - Guarnieri, M.
+AU  - Carson, B. S., Sr.
+DA  - May
+DO  - 10.1354/vp.39-3-293
+DP  - NLM
+IS  - 3
+KW  - Animals
+Brain Stem Neoplasms/*pathology
+*Disease Models, Animal
+Female
+Magnetic Resonance Imaging
+Mice
+Mice, Inbred BALB C
+Mice, Inbred C57BL
+Rats
+Rats, Inbred F344
+Rats, Nude
+Survival Analysis
+Tumor Cells, Cultured/*transplantation
+LA  - eng
+N1  - Wu, Q
+Tyler, B
+Sukay, L
+Rhines, L
+DiMeco, F
+Clatterbuck, R E
+Guarnieri, M
+Carson, B S Sr
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2002/05/17
+Vet Pathol. 2002 May;39(3):293-9. doi: 10.1354/vp.39-3-293.
+PY  - 2002
+SN  - 0300-9858 (Print)
+0300-9858
+SP  - 293-9
+ST  - Experimental rodent models of brainstem tumors
+T2  - Vet Pathol
+TI  - Experimental rodent models of brainstem tumors
+VL  - 39
+ID  - 51133
+ER  - 
+
+TY  - JOUR
+AB  - Deficits in social interaction are important early markers for autism and related neurodevelopmental disorders with strong genetic components. Standardized behavioral assays that measure the preference of mice for initiating social interactions with novel conspecifics would be of great value for mutant mouse models of autism. We developed a new procedure to assess sociability and the preference for social novelty in mice. To quantitate sociability, each mouse was scored on measures of exploration in a central habituated area, a side chamber containing an unfamiliar conspecific (stranger 1) in a wire cage, or an empty side chamber. In a secondary test, preference for social novelty was quantitated by presenting the test mouse with a choice between the first, now-familiar, conspecific (stranger 1) in one side chamber, and a second unfamiliar mouse (stranger 2) in the other side chamber. Parameters scored included time spent in each chamber and number of entries into the chambers. Five inbred strains of mice were tested, C57BL/6J, DBA/2J, FVB/NJ, A/J and B6129PF2/J hybrids. Four strains showed significant levels of sociability (spend- ing more time in the chamber containing stranger 1 than in the empty chamber) and a preference for social novelty (spending more time in the chamber containing stranger 2 than in the chamber containing the now-familiar stranger 1). These social preferences were observed in both male and female mice, and in juveniles and adults. The exception was A/J, a strain that demonstrated a preference for the central chamber. Results are discussed in terms of potential applications of the new methods, and the proper controls for the interpretation of social behavior data, including assays for health, relevant sensory abilities and motor functions. This new standardized procedure to quantitate sociability and preference for social novelty in mice provides a method to assess tendencies for social avoidance in mouse models of autism.
+AD  - North Carolina STAART Center for Autism Research, Neurodevelopmental Disorders Research Center, University of North Carolina School of Medicine, Chapel Hill, NC 27599, USA. ssmoy@med.unc.edu
+AN  - 15344922
+AU  - Moy, S. S.
+AU  - Nadler, J. J.
+AU  - Perez, A.
+AU  - Barbaro, R. P.
+AU  - Johns, J. M.
+AU  - Magnuson, T. R.
+AU  - Piven, J.
+AU  - Crawley, J. N.
+DA  - Oct
+DO  - 10.1111/j.1601-1848.2004.00076.x
+DP  - NLM
+IS  - 5
+KW  - Age Factors
+Analysis of Variance
+Animals
+Autistic Disorder/physiopathology/*psychology
+Disease Models, Animal
+Exploratory Behavior/*physiology
+Female
+Locomotion/physiology
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Inbred DBA
+Mice, Inbred Strains
+Reproducibility of Results
+Rotarod Performance Test
+Sex Factors
+*Social Behavior
+Species Specificity
+LA  - eng
+N1  - Moy, S S
+Nadler, J J
+Perez, A
+Barbaro, R P
+Johns, J M
+Magnuson, T R
+Piven, J
+Crawley, J N
+P30 HD03110/HD/NICHD NIH HHS/United States
+U54 MH66418/MH/NIMH NIH HHS/United States
+Comparative Study
+Journal Article
+Research Support, U.S. Gov't, P.H.S.
+Validation Study
+England
+2004/09/04
+Genes Brain Behav. 2004 Oct;3(5):287-302. doi: 10.1111/j.1601-1848.2004.00076.x.
+PY  - 2004
+SN  - 1601-1848 (Print)
+1601-183x
+SP  - 287-302
+ST  - Sociability and preference for social novelty in five inbred strains: an approach to assess autistic-like behavior in mice
+T2  - Genes Brain Behav
+TI  - Sociability and preference for social novelty in five inbred strains: an approach to assess autistic-like behavior in mice
+VL  - 3
+ID  - 51094
+ER  - 
+
+TY  - JOUR
+AB  - Susceptibility to audiogenic seizures, which are reflex seizures provoked by loud noise, can be induced in rodents by acoustic priming (exposing animals to strong auditory stimuli at an early developmental stage). Some strains of mice and rats are susceptible to audiogenic seizures without priming and these have been used as good experimental models with which to study epilepsies. Here we identified Vlgr1d and Vlgr1e, novel alternatively-spliced variants of Vlgr1b/MGR1, which, upon sequence analysis, were shown to be transcripts from a locus previously characterized as mass1. Vlgr1 (Vlgr1b, Vlgr1d and Vlgr1e) mRNA is expressed predominantly in the neuroepithelium of the developing mouse brain. Our protein-tagged experiment suggested that Vlgr1d and Vlgr1e are secretory molecules, while Vlgr1b is a receptor. Knockout mice lacking exons 2-4 of Vlgr1 were susceptible to audiogenic seizures without priming, although there were no apparent histological abnormalities in their brains. Ninety-five percent of these knockout mice exhibited wild running, a feature typical of the preconvulsive phase of audiogenic seizures triggered by loud noise (11 kHz, 105 dB), and 68% exhibited tonic convulsions at 3 weeks after birth. Our monogenic mice, which have a unique genetic background, serve as a useful tool for further studies on seizures.
+AD  - Division of Cell Biology and Neuroscience, Department of Morphological and Physiological Sciences, Faculty of Medical Sciences, University of Fukui, Japan.
+AN  - 15606908
+AU  - Yagi, H.
+AU  - Takamura, Y.
+AU  - Yoneda, T.
+AU  - Konno, D.
+AU  - Akagi, Y.
+AU  - Yoshida, K.
+AU  - Sato, M.
+DA  - Jan
+DO  - 10.1111/j.1471-4159.2004.02875.x
+DP  - NLM
+IS  - 1
+KW  - Acoustic Stimulation/*methods
+Alternative Splicing/genetics
+Amino Acid Sequence
+Animals
+Brain Chemistry/genetics
+Epilepsy, Reflex/*genetics/*metabolism
+Female
+*Genetic Predisposition to Disease
+Mice
+Mice, Inbred C57BL
+Mice, Inbred DBA
+Mice, Inbred ICR
+Mice, Knockout
+Molecular Sequence Data
+Pregnancy
+Rats
+Rats, Wistar
+Receptors, G-Protein-Coupled/*deficiency/*genetics
+LA  - eng
+N1  - Yagi, Hideshi
+Takamura, Yoshihiro
+Yoneda, Takunari
+Konno, Daijiro
+Akagi, Yoshio
+Yoshida, Kazunori
+Sato, Makoto
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2004/12/21
+J Neurochem. 2005 Jan;92(1):191-202. doi: 10.1111/j.1471-4159.2004.02875.x.
+PY  - 2005
+SN  - 0022-3042 (Print)
+0022-3042
+SP  - 191-202
+ST  - Vlgr1 knockout mice show audiogenic seizure susceptibility
+T2  - J Neurochem
+TI  - Vlgr1 knockout mice show audiogenic seizure susceptibility
+VL  - 92
+ID  - 51139
+ER  - 
+
+TY  - JOUR
+AB  - OBJECT: Diffuse brainstem tumors are the most difficult type of pediatric CNS malignancy to treat. These inoperable lesions are treated with radiation alone or in combination with chemotherapy, and the survival rate is less than 10%. It is therefore essential to develop a reliable animal model to screen new therapeutic agents for the treatment of this type of tumor. METHODS: A multipotent human glioblastoma stemlike neurosphere line, 060919, was established from a surgically resected glioblastoma specimen; when cells were implanted intracranially into athymic nude mice, they formed invasive, vascular tumors that exhibited the features of glioblastoma. Ten female Fischer 344 rats received an injection of 75,000 F98 rat glioma cells and 10 female athymic nude rats received an injection of 75,000 060919 human glioblastoma stemlike cells in the pontine tegmentum of the brainstem. A control group of 5 female Fischer rats received an injection of saline in the same location as the animals in the tumor groups. Kaplan-Meier curves were generated for survival, and brains were processed postmortem for histopathological investigation. RESULTS: Both F98 cells and 060919 cells grew in 100% of the animals injected. Median survival of animals injected with F98 was 15 days, consistent with the authors' previous reports on the establishment of the brainstem tumor model using the F98 rat glioma line. Median survival of animals injected with 060919 was 31 days. Histopathological analysis of the tumors confirmed the presence of brainstem lesions in animals that received brainstem injections of F98 and in animals that received brainstem injections of 060919. The 060919 brainstem tumors histologically resembled glioblastoma. CONCLUSIONS: Tumor take and median survival were consistent for animals injected in the brainstem with either the established F98 rat glioma cell line or the 060919 human glioblastoma stemlike neurosphere line. Histopathological features of the 060919 brainstem tumors resembled glioblastoma. Establishment of this human glioblastoma stemlike brainstem animal model will improve the evaluation and identification of more efficacious agents for the treatment of high-grade brainstem tumors.
+AD  - Departments of Neurosurgery, Johns Hopkins School of Medicine, Baltimore, Maryland 21287, USA.
+AN  - 20593994
+AU  - Siu, I. M.
+AU  - Tyler, B. M.
+AU  - Chen, J. X.
+AU  - Eberhart, C. G.
+AU  - Thomale, U. W.
+AU  - Olivi, A.
+AU  - Jallo, G. I.
+AU  - Riggins, G. J.
+AU  - Gallia, G. L.
+DA  - Jul
+DO  - 10.3171/2010.3.Peds09366
+DP  - NLM
+IS  - 1
+KW  - Animals
+Brain Stem/pathology
+Brain Stem Neoplasms/*pathology
+Cell Line, Tumor
+Child
+*Disease Models, Animal
+Female
+Glioblastoma/*pathology
+Glioma/pathology
+Humans
+Mice
+Mice, Nude
+Multipotent Stem Cells/*pathology
+Neoplasm Transplantation
+Neoplastic Stem Cells/*pathology
+Rats
+Rats, Inbred F344
+Rats, Nude
+Spheroids, Cellular/pathology
+LA  - eng
+N1  - 1933-0715
+Siu, I-Mei
+Tyler, Betty M
+Chen, James X
+Eberhart, Charles G
+Thomale, Ulrich-Wilhelm
+Olivi, Alessandro
+Jallo, George I
+Riggins, Gregory J
+Gallia, Gary L
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2010/07/03
+J Neurosurg Pediatr. 2010 Jul;6(1):92-7. doi: 10.3171/2010.3.PEDS09366.
+PY  - 2010
+SN  - 1933-0707
+SP  - 92-7
+ST  - Establishment of a human glioblastoma stemlike brainstem rodent tumor model
+T2  - J Neurosurg Pediatr
+TI  - Establishment of a human glioblastoma stemlike brainstem rodent tumor model
+VL  - 6
+ID  - 51127
+ER  - 
+
+TY  - JOUR
+AB  - Use of genetically manipulated mice facilitates understanding pathological mechanisms in many diseases and contributes to therapy development. However, there is no practical and clinically relevant mouse model available for spinal cord ischemia. This report introduces a simplified long-term outcome mouse model of spinal cord ischemia. Male C57Bl/6J mice were anesthetized with isoflurane and endotracheally intubated. The middle segment of the thoracic aorta was clamped for 0, 8, 10 or 12 min via left lateral thoracotomy. Rectal temperature was maintained at 37.0+/-0.5 degrees C. A laser Doppler probe was used to measure lumbar spinal cord blood flow during thoracic aorta cross-clamping. Open field locomotor function and rotarod performance were evaluated at 1h and 1, 3, 5, and 7 days post-injury. Surviving neurons in the lumbar ventral horn were counted at 7 days post-injury. Cross-clamping the middle segment of the thoracic aorta resulted in approximately 90% blood flow reduction in the lumbar spinal cord. Neurological deficit and neuronal cell death were associated with ischemia duration. Another set of mice were subjected to 10 min aortic clamping or sham surgery and neurological function was examined at 1h and 1, 3, 5, 7, 14, and 28 days. Four of 5 mice (80%) in the injured group survived 28 days and had significant neurological deficit. This study indicates that cross-clamping of the aorta via left thoracotomy is a simple and reliable method to induce spinal cord ischemia in mice allowing definition of long-term outcome.
+AD  - Department of Neurosurgery, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, PR China.
+AN  - 20394775
+AU  - Wang, Z.
+AU  - Yang, W.
+AU  - Britz, G. W.
+AU  - Lombard, F. W.
+AU  - Warner, D. S.
+AU  - Sheng, H.
+C2  - PMC2878861
+C6  - NIHMS196055
+DA  - Jun 15
+DO  - 10.1016/j.jneumeth.2010.04.003
+DP  - NLM
+ET  - 20100413
+IS  - 2
+KW  - Animals
+Aorta, Thoracic
+Cell Death
+*Disease Models, Animal
+Locomotion
+Male
+Mice
+Mice, Inbred C57BL
+Neurons/pathology
+Random Allocation
+Regional Blood Flow
+Rotarod Performance Test
+Spinal Cord/blood supply/pathology
+*Spinal Cord Ischemia/pathology
+Surgical Instruments
+Thoracotomy/methods
+Time Factors
+LA  - eng
+N1  - 1872-678x
+Wang, Zhengfeng
+Yang, Wei
+Britz, Gavin W
+Lombard, Frederick W
+Warner, David S
+Sheng, Huaxin
+R21 NS058321-02/NS/NINDS NIH HHS/United States
+R21 NS063108/NS/NINDS NIH HHS/United States
+R21NS063108/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Netherlands
+2010/04/17
+J Neurosci Methods. 2010 Jun 15;189(2):246-51. doi: 10.1016/j.jneumeth.2010.04.003. Epub 2010 Apr 13.
+PY  - 2010
+SN  - 0165-0270 (Print)
+0165-0270
+SP  - 246-51
+ST  - Development of a simplified spinal cord ischemia model in mice
+T2  - J Neurosci Methods
+TI  - Development of a simplified spinal cord ischemia model in mice
+VL  - 189
+ID  - 51137
+ER  - 
+
+TY  - JOUR
+AB  - To determine the suitability of mouse models of disease for therapeutic trials, the models must be characterised to determine their similarity to the human condition, and utility for specific therapeutic approaches. The YAC128 mouse model of HD has been bred on to C57BL/6J background in order to provide a mouse model of the disease better suited to behavioural testing, than the visually impaired original line on the FVB background. In the present study, the C57BL/6J YAC128 mice were assessed on several behavioural tasks bi-monthly between 4 and 24 months of age. On the rotarod early and stable deficits were demonstrated in the YAC128 mice from 4 months of age indicating an early abnormality in motor coordination. Early and stable deficits were also found on the balance beam measures of latency to orientate towards the beam and time to traverse it. Measures of fore and hind limb footslips on the balance beam demonstrated early and progressive limb use deficits in the YAC128 mice. On a 3-stage Morris water maze protocol, the YAC128 mice took longer and travelled further to find the hidden platform in each of the 3 locations, indicative of a spatial learning deficit. The YAC128 mice were also less reactive to the primary startle stimuli and the effects of the prepulse which may suggest striatal dysfunction. As a measure of general well being, the body weights of the mice were recorded and demonstrated increased weight in the YAC128 mice until 14 months of age, when they became comparable to that of their wildtype littermates. The YAC128 mouse on the C57BL/6J background has an early, robust and severe behavioural phenotype that shares some similarity to human HD symptomatology.
+AD  - Brain Repair Group, School of Biosciences, Cardiff University, Wales, UK. brookssp@cardiff.ac.uk
+AN  - 20460143
+AU  - Brooks, S.
+AU  - Higgs, G.
+AU  - Janghra, N.
+AU  - Jones, L.
+AU  - Dunnett, S. B.
+DA  - Jun 1
+DO  - 10.1016/j.brainresbull.2010.05.005
+DP  - NLM
+ET  - 20100510
+IS  - 2-3
+KW  - Animals
+*Behavior, Animal
+Corpus Striatum/metabolism/physiopathology
+Disease Models, Animal
+Female
+Genotype
+Huntington Disease/genetics/*pathology/*physiopathology
+Longitudinal Studies
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Motor Activity/genetics/physiology
+Phenotype
+Rotarod Performance Test
+LA  - eng
+N1  - 1873-2747
+Brooks, Simon
+Higgs, Gemma
+Janghra, Nari
+Jones, Lesley
+Dunnett, Stephen B
+G1001257/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2010/05/13
+Brain Res Bull. 2012 Jun 1;88(2-3):113-20. doi: 10.1016/j.brainresbull.2010.05.005. Epub 2010 May 10.
+PY  - 2012
+SN  - 0361-9230
+SP  - 113-20
+ST  - Longitudinal analysis of the behavioural phenotype in YAC128 (C57BL/6J) Huntington's disease transgenic mice
+T2  - Brain Res Bull
+TI  - Longitudinal analysis of the behavioural phenotype in YAC128 (C57BL/6J) Huntington's disease transgenic mice
+VL  - 88
+ID  - 51141
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: There is an increasing need for animal disease models for pathophysiological research and efficient drug screening. However, one of the technical barriers to the effective use of the models is the difficulty of non-invasive and sequential monitoring of the same animals. Micro-CT is a powerful tool for serial diagnostic imaging of animal models. However, soft tissue contrast resolution, particularly in the brain, is insufficient for detailed analysis, unlike the current applications of CT in the clinical arena. We address the soft tissue contrast resolution issue in this report. METHODOLOGY: We performed contrast-enhanced CT (CECT) on mouse models of experimental cerebral infarction and hepatic ischemia. Pathological changes in each lesion were quantified for two weeks by measuring the lesion volume or the ratio of high attenuation area (%HAA), indicative of increased vascular permeability. We also compared brain images of stroke rats and ischemic mice acquired with micro-CT to those acquired with 11.7-T micro-MRI. Histopathological analysis was performed to confirm the diagnosis by CECT. PRINCIPAL FINDINGS: In the models of cerebral infarction, vascular permeability was increased from three days through one week after surgical initiation, which was also confirmed by Evans blue dye leakage. Measurement of volume and %HAA of the liver lesions demonstrated differences in the recovery process between mice with distinct genetic backgrounds. Comparison of CT and MR images acquired from the same stroke rats or ischemic mice indicated that accuracy of volumetric measurement, as well as spatial and contrast resolutions of CT images, was comparable to that obtained with MRI. The imaging results were also consistent with the histological data. CONCLUSIONS: This study demonstrates that the CECT scanning method is useful in rodents for both quantitative and qualitative evaluations of pathologic lesions in tissues/organs including the brain, and is also suitable for longitudinal observation of the same animals.
+AD  - Department of Anatomy and Neurobiology, Kinki University School of Medicine, Osaka-Sayama, Osaka, Japan. hayasaka@med.kindai.ac.jp
+AN  - 22384223
+AU  - Hayasaka, N.
+AU  - Nagai, N.
+AU  - Kawao, N.
+AU  - Niwa, A.
+AU  - Yoshioka, Y.
+AU  - Mori, Y.
+AU  - Shigeta, H.
+AU  - Kashiwagi, N.
+AU  - Miyazawa, M.
+AU  - Satou, T.
+AU  - Higashino, H.
+AU  - Matsuo, O.
+AU  - Murakami, T.
+C1  - Competing Interests: The authors have read the journal's policy and have the following conflicts: Hiroshi Shigeta is an employee of Hitachi Aloka Medical Co. Ltd, whose micro-CT was used for the study. There are no patents, products in development or marketed products to declare. This does not alter the authors' adherence to all the PLoS ONE policies on sharing data and materials, as detailed online in the guide for authors.
+C2  - PMC3285673
+DO  - 10.1371/journal.pone.0032342
+DP  - NLM
+ET  - 20120223
+IS  - 2
+KW  - Animals
+Blood Pressure
+Brain/*pathology
+Brain Ischemia/*pathology
+Contrast Media/pharmacology
+Disease Models, Animal
+Hypertensive Encephalopathy
+Ischemia/*pathology
+Liver/*pathology
+Male
+Mice
+Mice, Inbred BALB C
+Permeability
+Rats
+Stroke/*pathology
+Time Factors
+X-Ray Microtomography/*methods
+LA  - eng
+N1  - 1932-6203
+Hayasaka, Naoto
+Nagai, Nobuo
+Kawao, Naoyuki
+Niwa, Atsuko
+Yoshioka, Yoshichika
+Mori, Yuki
+Shigeta, Hiroshi
+Kashiwagi, Nobuo
+Miyazawa, Masaaki
+Satou, Takao
+Higashino, Hideaki
+Matsuo, Osamu
+Murakami, Takamichi
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2012/03/03
+PLoS One. 2012;7(2):e32342. doi: 10.1371/journal.pone.0032342. Epub 2012 Feb 23.
+PY  - 2012
+SN  - 1932-6203
+SP  - e32342
+ST  - In vivo diagnostic imaging using micro-CT: sequential and comparative evaluation of rodent models for hepatic/brain ischemia and stroke
+T2  - PLoS One
+TI  - In vivo diagnostic imaging using micro-CT: sequential and comparative evaluation of rodent models for hepatic/brain ischemia and stroke
+VL  - 7
+ID  - 51129
+ER  - 
+
+TY  - JOUR
+AB  - Olfactory dysfunction, including structural abnormalities of the olfactory epithelium, the olfactory bulb and the central olfactory cortices is recognized as an early feature of Alzheimer disease (AD), the most prevalent neurodegenerative disease in aged population characterized by intracellular neurofibrillary tangles (NFTs). How olfactory deficits are linked with AD-like neuropathological changes is still unknown. Here, by using two anosmia animal models, bilateral olfactory bulbectomy (OBX) rats and Cnga2(-/Y) mice, which lack intact olfactory CNG channels, we found the immunoreactivity of phosphorylated neurofilament (NF) are highly increased in the neurites at both the hippocampus and the cortex. As hyperphosphorylated NF is one of the main components of NFTs, our study strongly suggested the underlying correlation of olfactory deficits with AD-like pathological impairments.
+AD  - Department of Pathophysiology, Key Laboratory of Neurological Disease of Education Committee of China, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.
+AN  - 22094386
+AU  - Hu, J.
+AU  - Wang, X.
+AU  - Liu, D.
+AU  - Wang, Q.
+AU  - Zhu, L. Q.
+DA  - Jan 11
+DO  - 10.1016/j.neulet.2011.10.076
+DP  - NLM
+ET  - 20111106
+IS  - 2
+KW  - Alzheimer Disease/complications/metabolism/pathology
+Animals
+Blotting, Western
+Brain/*metabolism/pathology
+Disease Models, Animal
+Immunohistochemistry
+Male
+Mice
+Mice, Knockout
+Neurofilament Proteins/*metabolism
+Olfaction Disorders/etiology/*metabolism/*pathology
+Phosphorylation
+Rats
+Rats, Sprague-Dawley
+LA  - eng
+N1  - 1872-7972
+Hu, Juan
+Wang, Xiang
+Liu, Dan
+Wang, Qun
+Zhu, Ling-Qiang
+Journal Article
+Research Support, Non-U.S. Gov't
+Ireland
+2011/11/19
+Neurosci Lett. 2012 Jan 11;506(2):180-3. doi: 10.1016/j.neulet.2011.10.076. Epub 2011 Nov 6.
+PY  - 2012
+SN  - 0304-3940
+SP  - 180-3
+ST  - Olfactory deficits induce neurofilament hyperphosphorylation
+T2  - Neurosci Lett
+TI  - Olfactory deficits induce neurofilament hyperphosphorylation
+VL  - 506
+ID  - 51118
+ER  - 
+
+TY  - JOUR
+AB  - Deficits in motor function are debilitating features in disorders affecting neurological, neuromuscular and musculoskeletal systems. Although these disorders can vary greatly with respect to age of onset, symptomatic presentation, rate of progression and severity, the study of these disease models in mice is confined to the use of a small number of tests, most commonly the rotarod test. To expand the repertoire of meaningful motor function tests in mice, we tested, optimised and validated an automated home-cage-based running-wheel system, incorporating a conventional wheel with evenly spaced rungs and a complex wheel with particular rungs absent. The system enables automated assessment of motor function without handler interference, which is desirable in longitudinal studies involving continuous monitoring of motor performance. In baseline studies at two test centres, consistently significant differences in performance on both wheels were detectable among four commonly used inbred strains. As further validation, we studied performance in mutant models of progressive neurodegenerative diseases--Huntington's disease [TgN(HD82Gln)81Dbo; referred to as HD mice] and amyotrophic lateral sclerosis [Tg(SOD1G93A)(dl)1/GurJ; referred to as SOD1 mice]--and in a mutant strain with subtle gait abnormalities, C-Snap25(Bdr)/H (Blind-drunk, Bdr). In both models of progressive disease, as with the third mutant, we could reliably and consistently detect specific motor function deficits at ages far earlier than any previously recorded symptoms in vivo: 7-8 weeks for the HD mice and 12 weeks for the SOD1 mice. We also conducted longitudinal analysis of rotarod and grip strength performance, for which deficits were still not detectable at 12 weeks and 23 weeks, respectively. Several new parameters of motor behaviour were uncovered using principal component analysis, indicating that the wheel-running assay could record features of motor function that are independent of rotarod performance. This represents a powerful new method to detect motor deficits at pre-symptomatic stages in mouse disease models and should be considered as a valid tool to investigate the efficacy of therapeutic agents.
+AD  - CNR - Institute of Cell Biology and Neurobiology - EMMA, 00015 Monterotondo Scalo, Italy.
+AN  - 24423792
+AU  - Mandillo, S.
+AU  - Heise, I.
+AU  - Garbugino, L.
+AU  - Tocchini-Valentini, G. P.
+AU  - Giuliani, A.
+AU  - Wells, S.
+AU  - Nolan, P. M.
+C2  - PMC3944499
+DA  - Mar
+DO  - 10.1242/dmm.013946
+DP  - NLM
+ET  - 20140113
+IS  - 3
+KW  - Animals
+Automation
+Behavior, Animal
+*Disease Models, Animal
+Humans
+Huntington Disease/*physiopathology
+*Laboratories
+Male
+Mice, Inbred C57BL
+Mice, Neurologic Mutants
+Mice, Transgenic
+*Motor Activity
+*Physical Conditioning, Animal
+Principal Component Analysis
+Reference Standards
+Reproducibility of Results
+Rotarod Performance Test
+*Running
+Superoxide Dismutase/metabolism
+Complex wheel
+Motor function
+Neurodegenerative disease
+LA  - eng
+N1  - 1754-8411
+Mandillo, Silvia
+Heise, Ines
+Garbugino, Luciana
+Tocchini-Valentini, Glauco P
+Giuliani, Alessandro
+Wells, Sara
+Nolan, Patrick M
+MC_U142684173/MRC_/Medical Research Council/United Kingdom
+MC_UP_1502/1/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+Validation Study
+England
+2014/01/16
+Dis Model Mech. 2014 Mar;7(3):397-407. doi: 10.1242/dmm.013946. Epub 2014 Jan 13.
+PY  - 2014
+SN  - 1754-8403 (Print)
+1754-8403
+SP  - 397-407
+ST  - Early motor deficits in mouse disease models are reliably uncovered using an automated home-cage wheel-running system: a cross-laboratory validation
+T2  - Dis Model Mech
+TI  - Early motor deficits in mouse disease models are reliably uncovered using an automated home-cage wheel-running system: a cross-laboratory validation
+VL  - 7
+ID  - 51130
+ER  - 
+
+TY  - JOUR
+AB  - The validation of rodent models for restless legs syndrome (Willis-Ekbom disease) and periodic limb movements during sleep requires knowledge of physiological limb motor activity during sleep in rodents. This study aimed to determine the physiological time structure of tibialis anterior activity during sleep in mice and rats, and compare it with that of healthy humans. Wild-type mice (n = 9) and rats (n = 8) were instrumented with electrodes for recording the electroencephalogram and electromyogram of neck muscles and both tibialis anterior muscles. Healthy human subjects (31 ± 1 years, n = 21) underwent overnight polysomnography. An algorithm for automatic scoring of tibialis anterior electromyogram events of mice and rats during non-rapid eye movement sleep was developed and validated. Visual scoring assisted by this algorithm had inter-rater sensitivity of 92-95% and false-positive rates of 13-19% in mice and rats. The distribution of the time intervals between consecutive tibialis anterior electromyogram events during non-rapid eye movement sleep had a single peak extending up to 10 s in mice, rats and human subjects. The tibialis anterior electromyogram events separated by intervals <10 s mainly occurred in series of two-three events, their occurrence rate in humans being lower than in mice and similar to that in rats. In conclusion, this study proposes reliable rules for scoring tibialis anterior electromyogram events during non-rapid eye movement sleep in mice and rats, demonstrating that their physiological time structure is similar to that of healthy young human subjects. These results strengthen the basis for translational rodent models of periodic limb movements during sleep and restless legs syndrome/Willis-Ekbom disease.
+AD  - PRISM Laboratory Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy.
+Experimental Laboratory for Biomedical Neurosciences and Sleep and Epilepsy Center, Neurocenter of Southern Switzerland, Civic Hospital of Lugano, Lugano, Switzerland.
+Sleep Research Center, Department of Neurology I.C., Oasi Research Institute, Troina, Italy.
+Center for Experimental Neurology and Department of Neurology, Inselspital, Bern, Switzerland.
+AN  - 26118726
+AU  - Silvani, A.
+AU  - Lo Martire, V.
+AU  - Salvadè, A.
+AU  - Bastianini, S.
+AU  - Ferri, R.
+AU  - Berteotti, C.
+AU  - Baracchi, F.
+AU  - Pace, M.
+AU  - Bassetti, C. L.
+AU  - Zoccoli, G.
+AU  - Manconi, M.
+DA  - Dec
+DO  - 10.1111/jsr.12319
+DP  - NLM
+ET  - 20150625
+IS  - 6
+KW  - Adult
+Algorithms
+Animals
+Disease Models, Animal
+Electroencephalography
+Electromyography
+Female
+Healthy Volunteers
+Humans
+Leg/*physiology
+Male
+Mice
+Mice, Inbred C57BL
+Movement/*physiology
+Muscle, Skeletal/*physiology
+Polysomnography
+Rats
+Rats, Sprague-Dawley
+Restless Legs Syndrome/physiopathology
+Sleep/*physiology
+Time Factors
+animal
+computer-assisted detection
+nocturnal myoclonus
+normative data
+sleep related movement disorders
+LA  - eng
+N1  - 1365-2869
+Silvani, Alessandro
+Lo Martire, Viviana
+Salvadè, Agnese
+Bastianini, Stefano
+Ferri, Raffaele
+Berteotti, Chiara
+Baracchi, Francesca
+Pace, Marta
+Bassetti, Claudio L
+Zoccoli, Giovanna
+Manconi, Mauro
+Comparative Study
+Journal Article
+Research Support, Non-U.S. Gov't
+Validation Study
+England
+2015/06/30
+J Sleep Res. 2015 Dec;24(6):695-701. doi: 10.1111/jsr.12319. Epub 2015 Jun 25.
+PY  - 2015
+SN  - 0962-1105
+SP  - 695-701
+ST  - Physiological time structure of the tibialis anterior motor activity during sleep in mice, rats and humans
+T2  - J Sleep Res
+TI  - Physiological time structure of the tibialis anterior motor activity during sleep in mice, rats and humans
+VL  - 24
+ID  - 51125
+ER  - 
+
+TY  - JOUR
+AB  - The 3xTg-AD mouse has high validity as a model of Alzheimer's disease (AD) because it develops both amyloid beta plaques and neurofibrillary tangles. Human patients with AD typically develop motor deficits, which worsen as the disease progresses, but 3xTg-AD mice have been reported to show enhanced motor abilities. We investigated the motor behaviour phenotype of male and female 3xTg-AD and B6129SF2 wildtype mice on a battery of motor behaviours at 6 months of age. Compared to wildtype mice, the 3xTg-AD mice had enhanced motor performance on the Rotarod, but worse performance on the grid suspension task. In gait analysis 3xTg-AD mice had a longer stride length and made more foot slips on the balance beam than wildtype mice. There was no overall difference in voluntary wheel-running activity between genotypes, but there was a disruption in circadian activity rhythm in 3xTg-AD mice. In some motor tasks, such as the Rotarod and balance beam, females appeared to perform better than males, but this sex differences was accounted for by differences in body weight. Our results indicate that while the 3xTg-AD mice show enhanced performance on the Rotarod, they have poorer performance on other motor behaviour tasks, indicating that their motor behaviour phenotype is more complex than previously reported. The presence of the P301L transgene may explain the enhancement of Rotarod performance but the poorer performance on other motor behaviour tasks may be due to other transgenes.
+AD  - Department of Psychology and Neuroscience, Dalhousie University, PO Box 1500, Halifax, NS B3H 4R2, Canada.
+Department of Psychology and Neuroscience, Dalhousie University, PO Box 1500, Halifax, NS B3H 4R2, Canada. Electronic address: REBrown@Dal.ca.
+AN  - 25486177
+AU  - Stover, K. R.
+AU  - Campbell, M. A.
+AU  - Van Winssen, C. M.
+AU  - Brown, R. E.
+DA  - Mar 15
+DO  - 10.1016/j.bbr.2014.11.046
+DP  - NLM
+ET  - 20141205
+KW  - Alzheimer Disease/*physiopathology/*psychology
+Animals
+Body Weight
+Disease Models, Animal
+Female
+*Gait
+Male
+Mice
+Mice, 129 Strain
+Mice, Transgenic
+*Motor Activity
+Rotarod Performance Test/methods
+3xTg-AD
+Alzheimer's disease
+Motor Behaviour
+Mouse Model
+LA  - eng
+N1  - 1872-7549
+Stover, Kurt R
+Campbell, Mackenzie A
+Van Winssen, Christine M
+Brown, Richard E
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2014/12/09
+Behav Brain Res. 2015 Mar 15;281:16-23. doi: 10.1016/j.bbr.2014.11.046. Epub 2014 Dec 5.
+PY  - 2015
+SN  - 0166-4328
+SP  - 16-23
+ST  - Analysis of motor function in 6-month-old male and female 3xTg-AD mice
+T2  - Behav Brain Res
+TI  - Analysis of motor function in 6-month-old male and female 3xTg-AD mice
+VL  - 281
+ID  - 51134
+ER  - 
+
+TY  - JOUR
+AB  - The goal of the present protocol is to describe the forced swim test (FST), which is one of the most commonly used assays for the study of depressive-like behavior in rodents. The FST is based on the assumption that when placing an animal in a container filled with water, it will first make efforts to escape but eventually will exhibit immobility that may be considered to reflect a measure of behavioral despair. This test has been extensively used because it involves the exposure of the animals to stress, which was shown to have a role in the tendency for major depression. Additionally, the FST has been shown to share some of the factors that are influenced or altered by depression in humans, including changes in food consumption, sleep abnormalities and drug-withdrawal-induced anhedonia. The main advantages of this procedure are that it is relatively easy to perform and that its results are easily and quickly analyzed. Moreover, its sensitivity to a broad range of antidepressant drugs that makes it a suitable screening test is one of the most important features leading to its high predictive validity. Despite its appeal, this model has a number of disadvantages. First, the issue of chronic augmentation is problematic in this test because in real life patients need to be treated for at least several weeks before they experience any relief from their symptoms. Last, due to the aversiveness of the FST, it is important to take into account possible influences it might have on brain structure/function if brain analyses are to be carried out following this procedure.
+AD  - School of Psychological Sciences, Tel-Aviv University; School of Behavioral Sciences, Academic College of Tel Aviv-Yaffo.
+School of Behavioral Sciences, Academic College of Tel Aviv-Yaffo.
+School of Behavioral Sciences, Academic College of Tel Aviv-Yaffo; Department of Education and Psychology, The Open University of Israel; School of Health and Life Sciences, Hadassah Academic College; raviddor@gmail.com.
+AN  - 25867960
+AU  - Yankelevitch-Yahav, R.
+AU  - Franko, M.
+AU  - Huly, A.
+AU  - Doron, R.
+C2  - PMC4401172
+DA  - Mar 2
+DO  - 10.3791/52587
+DP  - NLM
+ET  - 20150302
+IS  - 97
+KW  - Animals
+Behavior, Animal
+Depression/*etiology
+Depressive Disorder/*etiology
+*Disease Models, Animal
+Female
+Male
+Mice
+Mice, Inbred ICR
+Rats
+Swimming/*psychology
+LA  - eng
+N1  - 1940-087x
+Yankelevitch-Yahav, Roni
+Franko, Motty
+Huly, Avrham
+Doron, Ravid
+Journal Article
+Research Support, Non-U.S. Gov't
+Video-Audio Media
+United States
+2015/04/14
+J Vis Exp. 2015 Mar 2;(97):52587. doi: 10.3791/52587.
+PY  - 2015
+SN  - 1940-087x
+ST  - The forced swim test as a model of depressive-like behavior
+T2  - J Vis Exp
+TI  - The forced swim test as a model of depressive-like behavior
+ID  - 51093
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND PURPOSE: The D1CT-7 mouse is one of the best known animal models of Tourette syndrome (TS), featuring spontaneous tic-like behaviours sensitive to standard TS therapies; these characteristics ensure a high face and predictive validity of this model, yet its construct validity remains elusive. To address this issue, we studied the responses of D1CT-7 mice to two critical components of TS pathophysiology: the exacerbation of tic-like behaviours in response to stress and the presence of sensorimotor gating deficits, which are thought to reflect the perceptual alterations causing the tics. EXPERIMENTAL APPROACH: D1CT-7 and wild-type (WT) littermates were subjected to a 20 min session of spatial confinement (SC) within an inescapable, 10 cm wide cylindrical enclosure. Changes in plasma corticosterone levels, tic-like behaviours and other spontaneous responses were measured. SC-exposed mice were also tested for the prepulse inhibition (PPI) of the startle response (a sensorimotor gating index) and other TS-related behaviours, including open-field locomotion, novel object exploration and social interaction and compared with non-confined counterparts. KEY RESULTS: SC produced a marked increase in corticosterone concentrations in both D1CT-7 and WT mice. In D1CT-7, but not WT mice, SC exacerbated tic-like and digging behaviours, and triggered PPI deficits and aggressive responses. Conversely, SC did not modify locomotor activity or novel object exploration in D1CT-7 mice. Both tic-like behaviours and PPI impairments in SC-exposed D1CT-7 mice were inhibited by standard TS therapies and D1 dopamine receptor antagonism. CONCLUSIONS AND IMPLICATIONS: These findings collectively support the translational and construct validity of D1CT-7 mice with respect to TS. LINKED ARTICLES: This article is part of a themed section on Updating Neuropathology and Neuropharmacology of Monoaminergic Systems. To view the other articles in this section visit http://onlinelibrary.wiley.com/doi/10.1111/bph.v173.13/issuetoc.
+AD  - Department of Pharmacology and Toxicology, School of Pharmacy, University of Kansas, Lawrence, KS, USA.
+Department of Pharmacology and Pharmaceutical Sciences, University of Southern California, Los Angeles, CA, USA.
+Consortium for Translational Research on Aggression and Drug Abuse (ConTRADA), University of Kansas, Lawrence, KS, USA.
+Problem Gambling Research Studies (ProGResS) Network, University of Kansas, Lawrence, KS, USA.
+AN  - 26171666
+AU  - Godar, S. C.
+AU  - Mosher, L. J.
+AU  - Strathman, H. J.
+AU  - Gochi, A. M.
+AU  - Jones, C. M.
+AU  - Fowler, S. C.
+AU  - Bortolato, M.
+C2  - PMC4908200
+DA  - Jul
+DO  - 10.1111/bph.13243
+DP  - NLM
+ET  - 20150810
+IS  - 13
+KW  - Animals
+*Behavior, Animal
+*Confined Spaces
+*Disease Models, Animal
+Male
+Mice
+Mice, Inbred BALB C
+Mice, Transgenic
+*Sensory Gating
+Tourette Syndrome/*physiopathology
+LA  - eng
+N1  - 1476-5381
+Godar, Sean C
+Mosher, Laura J
+Strathman, Hunter J
+Gochi, Andrea M
+Jones, Cori M
+Fowler, Stephen C
+Bortolato, Marco
+P20 GM103418/GM/NIGMS NIH HHS/United States
+UL1 RR033179/RR/NCRR NIH HHS/United States
+UL1 TR000001/TR/NCATS NIH HHS/United States
+P20 GM103638/GM/NIGMS NIH HHS/United States
+R01 MH104603/MH/NIMH NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2015/07/15
+Br J Pharmacol. 2016 Jul;173(13):2111-21. doi: 10.1111/bph.13243. Epub 2015 Aug 10.
+PY  - 2016
+SN  - 0007-1188 (Print)
+0007-1188
+SP  - 2111-21
+ST  - The D1CT-7 mouse model of Tourette syndrome displays sensorimotor gating deficits in response to spatial confinement
+T2  - Br J Pharmacol
+TI  - The D1CT-7 mouse model of Tourette syndrome displays sensorimotor gating deficits in response to spatial confinement
+VL  - 173
+ID  - 51135
+ER  - 
+
+TY  - JOUR
+AB  - Behavioral data were collected from several hundred mice and rats using a variety of experimental models of brain injury. The use of consistent protocols allowed compilation of these data, facilitating analyses of animal behaviors across experimental models, species, and gender. Spatial learning and sensorimotor/coordination data are presented, suggesting that, in general, rats performed better than mice both in the water maze and on the rotarod. Compared with females, males performed slightly better in the water maze and slightly worse on the rotarod. However, gender by species interactions accounted for both of these differences. Male rats performed better in the water maze than female rats, male mice, and female mice, which did not differ. Male mice performed worse on the rotarod than female mice, male rats, and female rats, which performed similarly. Furthermore, animals with subcortical injury were impaired in the water maze, but performed better than animals with cortical injuries. However, only animals with cortical injuries were impaired on the rotarod. Additional covariates, such as edema and lesion size, may further clarify these phenotypes. Overall, we provide evidence that abbreviated test batteries can be specifically designed to test deficits, depending on the species, gender, and model.
+AD  - Behavioral Neuroscience Laboratory, Department of Psychology, School of Behavioral Health, Loma Linda University, 11130 Anderson St., Loma Linda, CA, 92354, USA. behavioralneuroscience@gmail.com.
+Behavioral Neuroscience Laboratory, Department of Psychology, School of Behavioral Health, Loma Linda University, 11130 Anderson St., Loma Linda, CA, 92354, USA.
+AN  - 26463925
+AU  - Hartman, R. E.
+AU  - Thorndyke, E. C., 3rd
+DO  - 10.1007/978-3-319-18497-5_12
+DP  - NLM
+KW  - Animals
+*Behavior, Animal
+Brain Injuries, Traumatic/*physiopathology
+Cerebral Cortex/*injuries/physiopathology
+*Disease Models, Animal
+Female
+Male
+*Maze Learning
+*Mice
+*Rats
+*Rotarod Performance Test
+Sex Factors
+Brain injury
+Gender
+Phenotype
+Rotarod
+Sensorimotor
+Spatial learning
+Species
+Water maze
+LA  - eng
+N1  - Hartman, Richard E
+Thorndyke, Earl C 3rd
+Comparative Study
+Journal Article
+Austria
+2015/10/16
+Acta Neurochir Suppl. 2016;121:71-5. doi: 10.1007/978-3-319-18497-5_12.
+PY  - 2016
+SN  - 0065-1419 (Print)
+0065-1419
+SP  - 71-5
+ST  - Patterns of Behavioral Deficits in Rodents Following Brain Injury Across Species, Gender, and Experimental Model
+T2  - Acta Neurochir Suppl
+TI  - Patterns of Behavioral Deficits in Rodents Following Brain Injury Across Species, Gender, and Experimental Model
+VL  - 121
+ID  - 51136
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) is histopathologically characterized by neurodegeneration, the formation of intracellular neurofibrillary tangles and extracellular Aβ deposits that derive from proteolytic processing of the amyloid precursor protein (APP). As rodents do not normally develop Aβ pathology, various transgenic animal models of AD were designed to overexpress human APP with mutations favouring its amyloidogenic processing. However, these mouse models display tremendous differences in the spatial and temporal appearance of Aβ deposits, synaptic dysfunction, neurodegeneration and the manifestation of learning deficits which may be caused by age-related and brain region-specific differences in APP transgene levels. Consequentially, a comparative temporal and regional analysis of the pathological effects of Aβ in mouse brains is difficult complicating the validation of therapeutic AD treatment strategies in different mouse models. To date, no antibodies are available that properly discriminate endogenous rodent and transgenic human APP in brains of APP-transgenic animals. Here, we developed and characterized rat monoclonal antibodies by immunohistochemistry and Western blot that detect human but not murine APP in brains of three APP-transgenic mouse and one APP-transgenic rat model. We observed remarkable differences in expression levels and brain region-specific expression of human APP among the investigated transgenic mouse lines. This may explain the differences between APP-transgenic models mentioned above. Furthermore, we provide compelling evidence that our new antibodies specifically detect endogenous human APP in immunocytochemistry, FACS and immunoprecipitation. Hence, we propose these antibodies as standard tool for monitoring expression of endogenous or transfected APP in human cells and APP expression in transgenic animals.
+AD  - Paul Flechsig Institute for Brain Research, University of Leipzig, Leipzig, Germany.
+Department of Neuroscience, IRCCS, Istituto di Ricerche Farmacologiche Mario Negri, Milano, Italy.
+German Center for Neurodegenerative Diseases (DZNE), Munich, Germany.
+Institute for Advanced Study, Technische Universität München, Garching, Germany.
+Institut für Pathologie und Pathologische Anatomie, Technische Universität München, Munich, Germany.
+Department of Experimental Therapy, Präklinisches Experimentelles Tierzentrum (PETZ), Universitätsklinikum Erlangen, Erlangen, Germany.
+Helmholtz Zentrum München, German Research Center for Environmental Health, Institute of Molecular Immunology, Munich, Germany.
+Neuroproteomics, Klinikum rechts der Isar, Technische Universität München, Munich, Germany.
+Munich Cluster for Systems Neurology (SyNergy), Munich, Germany.
+AN  - 27470171
+AU  - Höfling, C.
+AU  - Morawski, M.
+AU  - Zeitschel, U.
+AU  - Zanier, E. R.
+AU  - Moschke, K.
+AU  - Serdaroglu, A.
+AU  - Canneva, F.
+AU  - von Hörsten, S.
+AU  - De Simoni, M. G.
+AU  - Forloni, G.
+AU  - Jäger, C.
+AU  - Kremmer, E.
+AU  - Roßner, S.
+AU  - Lichtenthaler, S. F.
+AU  - Kuhn, P. H.
+C2  - PMC5013031
+DA  - Oct
+DO  - 10.1111/acel.12508
+DP  - NLM
+ET  - 20160729
+IS  - 5
+KW  - Alzheimer Disease/*genetics/*immunology
+Amyloid beta-Protein Precursor/*immunology
+Animals
+Antibodies/*immunology
+Antibody Specificity/*immunology
+Disease Models, Animal
+*Gene Expression
+Humans
+Immunohistochemistry
+Mice, Inbred C57BL
+Mice, Transgenic
+Rats
+Reproducibility of Results
+Transgenes/*genetics
+Alzheimer's disease
+amyloid precursor protein
+monoclonal antibody
+neuropathology
+transgenic animal models
+LA  - eng
+N1  - 1474-9726
+Höfling, Corinna
+Morawski, Markus
+Zeitschel, Ulrike
+Zanier, Elisa R
+Moschke, Katrin
+Serdaroglu, Alperen
+Canneva, Fabio
+von Hörsten, Stephan
+De Simoni, Maria-Grazia
+Forloni, Gianluigi
+Jäger, Carsten
+Kremmer, Elisabeth
+Roßner, Steffen
+Lichtenthaler, Stefan F
+Kuhn, Peer-Hendrik
+P30 AG019610/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2016/07/30
+Aging Cell. 2016 Oct;15(5):953-63. doi: 10.1111/acel.12508. Epub 2016 Jul 29.
+PY  - 2016
+SN  - 1474-9718 (Print)
+1474-9718
+SP  - 953-63
+ST  - Differential transgene expression patterns in Alzheimer mouse models revealed by novel human amyloid precursor protein-specific antibodies
+T2  - Aging Cell
+TI  - Differential transgene expression patterns in Alzheimer mouse models revealed by novel human amyloid precursor protein-specific antibodies
+VL  - 15
+ID  - 51131
+ER  - 
+
+TY  - JOUR
+AB  - Attention-deficit/hyperactivity disorder (ADHD) is a common neurodevelopmental disorder characterized by impaired attention, impulsivity and hyperactivity. The "neonatal 6-hydroxydopamine" (6-OHDA) lesion is a commonly used model of ADHD in rat. However, a comprehensive assessment of ADHD-like symptoms is still missing, and data in mouse remain largely unavailable. Our aim was to analyse symptoms of ADHD in the mouse neonatal 6-OHDA model. 6-OHDA mice exhibited the major ADHD-like symptoms, i.e. hyperactivity (open field), attention deficit and impulsivity (five-choice serial reaction time task). Further, the model revealed discrete co-existing symptoms, i.e. anxiety-like (elevated plus maze test) and antisocial (social interaction) behaviours and decreased cognitive functioning (novel object recognition). The efficacy of methylphenidate, a classical psychostimulant used in the treatment of ADHD, was also evaluated. A histological analysis further supports the model validity by indicating dopamine depletion, changes in cortical thickness and abnormalities in anterior cingulate cortex neurons. A principal component analysis of the behaviour profile confirms that the 6-OHDA mouse model displayed good face and predictive validity. We conclude that neonatal dopamine depletion results in behavioural and morphological changes similar to those seen in patients and therefore could be used as a model for studying ADHD pathophysiological mechanisms and identifying therapeutic targets.
+AD  - Laboratory of Pharmacology, Neurobiology and Behavior (URAC-37), Faculty of Sciences, Cadi Ayyad University, Marrakesh, Morocco.
+Bordeaux University, Bordeaux, France.
+Interdisciplinary Institute of Neuroscience, CNRS UMR 5297, Centre Paul Broca-Nouvelle Aquitaine, Bordeaux, France.
+Department of Health Sciences, University West, Trollhättan, Sweden.
+Bordeaux University, Bordeaux, France. marc.landry@u-bordeaux.fr.
+Interdisciplinary Institute of Neuroscience, CNRS UMR 5297, Centre Paul Broca-Nouvelle Aquitaine, Bordeaux, France. marc.landry@u-bordeaux.fr.
+AN  - 30337626
+AU  - Bouchatta, O.
+AU  - Manouze, H.
+AU  - Bouali-Benazzouz, R.
+AU  - Kerekes, N.
+AU  - Ba-M'hamed, S.
+AU  - Fossat, P.
+AU  - Landry, M.
+AU  - Bennis, M.
+C1  - The authors declare no competing interests.
+C2  - PMC6193955
+DA  - Oct 18
+DO  - 10.1038/s41598-018-33778-0
+DP  - NLM
+ET  - 20181018
+IS  - 1
+KW  - Animals
+Animals, Newborn
+*Attention Deficit Disorder with Hyperactivity/chemically induced/physiopathology
+Behavior, Animal/*drug effects
+*Disease Models, Animal
+Male
+Maze Learning/*drug effects
+Mice
+Oxidopamine/*toxicity
+Rats
+*Social Behavior
+LA  - eng
+N1  - 2045-2322
+Bouchatta, Otmane
+Manouze, Houria
+Bouali-Benazzouz, Rabia
+Kerekes, Nóra
+Orcid: 0000-0002-8854-0399
+Ba-M'hamed, Saadia
+Fossat, Pascal
+Orcid: 0000-0001-5117-0817
+Landry, Marc
+Orcid: 0000-0003-3936-324x
+Bennis, Mohamed
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2018/10/20
+Sci Rep. 2018 Oct 18;8(1):15349. doi: 10.1038/s41598-018-33778-0.
+PY  - 2018
+SN  - 2045-2322
+SP  - 15349
+ST  - Neonatal 6-OHDA lesion model in mouse induces Attention-Deficit/ Hyperactivity Disorder (ADHD)-like behaviour
+T2  - Sci Rep
+TI  - Neonatal 6-OHDA lesion model in mouse induces Attention-Deficit/ Hyperactivity Disorder (ADHD)-like behaviour
+VL  - 8
+ID  - 51123
+ER  - 
+
+TY  - JOUR
+AB  - In the nervous system, Kirrel3 is involved in neuronal migration, axonal fasciculation, and synapse formation. Recently, genetic links have been reported between mutations in the KIRREL3 gene and increased risk of neurodevelopmental disorders, including autism spectrum disorder (ASD) and intellectual disability. To elucidate the causal relationship between KIRREL3 deficiency and behavioural abnormalities relevant to neurodevelopmental disorders, we generated global Kirrel3-knockout (Kirrel3(-/-)) mice and investigated the detailed behavioural phenotypes. In the three-chambered social approach test, Kirrel3(-/-) mice displayed a significant preference for a mouse over a non-social object but no significant preference for a stranger mouse over a familiar mouse. Ultrasonic communications, including pup-to-mother calls, male-female courtship vocalisation and resident responses to intruder, were significantly impaired in Kirrel3(-/-) mice. Significant increases in locomotor activity and repetitive rearing were also observed in Kirrel3(-/-) mice. Furthermore, the performance of Kirrel3(-/-) mice in the rotarod test was significantly better than that of wild-type mice. In the acoustic startle test, Kirrel3(-/-) mice were significantly hypersensitive to acoustic stimuli. Anxiety-related behaviours and spatial or fear memory acquisition were normal in Kirrel3(-/-) mice. These findings suggest that Kirrel3(-/-) mice exhibit autistic-like behaviours, including social and communicative deficits, repetitive behaviours, and sensory abnormalities, as well as hyperactivity.
+AD  - Department of Anatomy and Neurobiology, Wakayama Medical University, 811-1 Kimiidera, Wakayama, 641-8509, Japan.
+Division of Cellular Therapy, Advanced Clinical Research Center, The Institute of Medical Science, The University of Tokyo, 4-6-1 Shirokanedai, Minato-ku, Tokyo, 108-8639, Japan.
+Department of Anatomy and Neurobiology, Wakayama Medical University, 811-1 Kimiidera, Wakayama, 641-8509, Japan. yoshim@wakayama-med.ac.jp.
+AN  - 29362445
+AU  - Hisaoka, T.
+AU  - Komori, T.
+AU  - Kitamura, T.
+AU  - Morikawa, Y.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC5780462
+DA  - Jan 23
+DO  - 10.1038/s41598-018-19844-7
+DP  - NLM
+ET  - 20180123
+IS  - 1
+KW  - Animals
+Behavior, Animal/*physiology
+Disease Models, Animal
+Female
+Male
+Membrane Proteins/*genetics/metabolism
+Mice, Knockout
+Neurodevelopmental Disorders/*genetics/physiopathology
+Rotarod Performance Test
+Spatial Memory
+LA  - eng
+N1  - 2045-2322
+Hisaoka, Tomoko
+Komori, Tadasuke
+Kitamura, Toshio
+Morikawa, Yoshihiro
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2018/01/25
+Sci Rep. 2018 Jan 23;8(1):1408. doi: 10.1038/s41598-018-19844-7.
+PY  - 2018
+SN  - 2045-2322
+SP  - 1408
+ST  - Abnormal behaviours relevant to neurodevelopmental disorders in Kirrel3-knockout mice
+T2  - Sci Rep
+TI  - Abnormal behaviours relevant to neurodevelopmental disorders in Kirrel3-knockout mice
+VL  - 8
+ID  - 51111
+ER  - 
+
+TY  - JOUR
+AB  - This study was conducted to evaluate the potential of cyst production by Toxoplasma (T.) gondii, RH strain, in Wistar rat and BALB/c mouse and the purpose of this study was to introduce an animal model suitable for congenital, cerebral, and ocular toxoplasmosis. The mice and rats, considered as cerebral and ocular toxoplasmosis models, were intraperitoneally infected by different number of the parasite and their eyes and brain were evaluated for the presence of T. gondii cyst using the microscopic examination and the bioassay method. Moreover, the pregnant mice and rats, considered as congenital toxoplasmosis models, were intraperitoneally infected by different number of the parasite and their infants were examined by the method mentioned above. The best result for the cerebral toxoplasmosis model was observed in the rats infected with the 107 parasites, so that all infants (100%) were infected with the parasite when examined using the bioassay method. Furthermore, the best result was observed for the congenital cerebral toxoplasmosis model with 100% infection rate in the infants born to mothers infected with the 107 parasites. Overall, just few the ocular samples were positive using bioassay method. The best result in the current study was for the congenital cerebral toxoplasmosis model where the pregnant rats were infected with the 107 parasites and all infants were infected (100%). Therefore, these infants can be used as a congenital cerebral toxoplasmosis model when they are in the fetal stage, and can be used as a cerebral toxoplasmosis model one month after birth.
+AD  - Toxoplasmosis Research Center, Mazandaran University of Medical Sciences, Sari, Iran.
+Student Research Committee, Mazandaran University of Medical Sciences, Sari, Iran.
+Department of Parasitology and Mycology, School of Medicine, Mazandaran University of Medical Sciences, Sari, Iran.
+Infectious Diseases Research Center, Golestan University of Medical Sciences, Gorgan, Iran.
+AN  - 30367763
+AU  - Sharif, M.
+AU  - Faridnia, R.
+AU  - Sarvi, S.
+AU  - Gholami, S.
+AU  - Kalani, H.
+AU  - Daryani, A.
+DA  - Dec 19
+DO  - 10.1515/ap-2018-0098
+DP  - NLM
+IS  - 4
+KW  - Animals
+Biological Assay
+Brain/parasitology
+*Disease Models, Animal
+Eye/parasitology
+Female
+Mice
+*Mice, Inbred BALB C
+Pregnancy
+Rats
+*Rats, Wistar
+Toxoplasma/isolation & purification
+Toxoplasmosis, Animal
+*Toxoplasmosis, Cerebral
+*Toxoplasmosis, Congenital
+*Toxoplasmosis, Ocular
+BALB/c mouse
+Wistar rat
+congenital, cerebral
+ocular
+toxoplasmosis model
+LA  - eng
+N1  - 1896-1851
+Sharif, Mehdi
+Faridnia, Roghiyeh
+Sarvi, Shahabeddin
+Gholami, Shirzad
+Kalani, Hamed
+Daryani, Ahmad
+Evaluation Study
+Journal Article
+Switzerland
+2018/10/28
+Acta Parasitol. 2018 Dec 19;63(4):808-813. doi: 10.1515/ap-2018-0098.
+PY  - 2018
+SN  - 1230-2821
+SP  - 808-813
+ST  - Evaluating of Wistar rat and BALB/c mouse as animal models for congenital, cerebral and ocular toxoplasmosis
+T2  - Acta Parasitol
+TI  - Evaluating of Wistar rat and BALB/c mouse as animal models for congenital, cerebral and ocular toxoplasmosis
+VL  - 63
+ID  - 51103
+ER  - 
+
+TY  - JOUR
+AB  - Pathogenic variants of the huntingtin (HTT) protein and their aggregation have been investigated in great detail in brains of Huntington's disease patients and HTT-transgenic animals. However, little is known about the physiological brain region- and cell type-specific HTT expression pattern in wild type mice and a potential recruitment of endogenous HTT to other pathogenic protein aggregates such as amyloid plaques in cross seeding events. Employing a monoclonal anti-HTT antibody directed against the HTT mid-region and using brain tissue of three different mouse strains, we detected prominent immunoreactivity in a number of brain areas, particularly in cholinergic cranial nerve nuclei, while ubiquitous neuronal staining appeared faint. The region-specific distribution of endogenous HTT was found to be comparable in wild type rat and hamster brain. In human amyloid precursor protein transgenic Tg2576 mice with amyloid plaque pathology, similar neuronal HTT expression patterns and a distinct association of HTT with Abeta plaques were revealed by immunohistochemical double labelling. Additionally, the localization of HTT in reactive astrocytes was demonstrated for the first time in a transgenic Alzheimer's disease animal model. Both, plaque association of HTT and occurrence in astrocytes appeared to be age-dependent. Astrocytic HTT gene and protein expression was confirmed in primary cultures by RT-qPCR and by immunocytochemistry. We provide the first detailed analysis of physiological HTT expression in rodent brain and, under pathological conditions, demonstrate HTT aggregation in proximity to Abeta plaques and Abeta-induced astrocytic expression of endogenous HTT in Tg2576 mice.
+AD  - Paul Flechsig Institute for Brain Research, University of Leipzig, Leipzig, Germany.
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Preclinical Experimental Center, Erlangen, Germany.
+Fraunhofer Institute for Cell Therapy and Immunology, Department of Molecular Drug Design and Target Validation, Halle (Saale), Germany.
+Paul Flechsig Institute for Brain Research, University of Leipzig, Leipzig, Germany. steffen.rossner@medizin.uni-leipzig.de.
+AN  - 31109380
+AU  - Hartlage-Rübsamen, M.
+AU  - Ratz, V.
+AU  - Zeitschel, U.
+AU  - Finzel, L.
+AU  - Machner, L.
+AU  - Köppen, J.
+AU  - Schulze, A.
+AU  - Demuth, H. U.
+AU  - von Hörsten, S.
+AU  - Höfling, C.
+AU  - Roßner, S.
+C1  - The authors declare that they have no competing interests.
+C2  - PMC6526682
+DA  - May 20
+DO  - 10.1186/s40478-019-0726-2
+DP  - NLM
+ET  - 20190520
+IS  - 1
+KW  - Alzheimer Disease/*metabolism
+Amyloid beta-Peptides/*metabolism
+Animals
+Astrocytes/*metabolism
+Brain/metabolism
+Cranial Nerves/*metabolism
+Cricetinae
+Disease Models, Animal
+Huntingtin Protein/*metabolism
+Mice, Inbred BALB C
+Mice, Inbred C57BL
+Neurons/metabolism
+Plaque, Amyloid/*metabolism
+Protein Aggregation, Pathological
+Rats, Wistar
+Alzheimer’s disease
+Amyloid precursor protein
+Animal model
+Astrocytes
+Cranial nerve nuclei
+Huntingtin
+LA  - eng
+N1  - 2051-5960
+Hartlage-Rübsamen, Maike
+Ratz, Veronika
+Zeitschel, Ulrike
+Finzel, Lukas
+Machner, Lisa
+Köppen, Janett
+Schulze, Anja
+Demuth, Hans-Ulrich
+von Hörsten, Stephan
+Höfling, Corinna
+Roßner, Steffen
+Orcid: 0000-0002-9959-283x
+01ED1501A/Bundesministerium für Bildung und Forschung/International
+01ED1501B/Bundesministerium für Bildung und Forschung/International
+01ED1501C/Bundesministerium für Bildung und Forschung/International
+AFI #16004/Alzheimer Forschung Initiative/International
+Open Access Publishing/Deutsche Forschungsgemeinschaft/International
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2019/05/22
+Acta Neuropathol Commun. 2019 May 20;7(1):79. doi: 10.1186/s40478-019-0726-2.
+PY  - 2019
+SN  - 2051-5960
+SP  - 79
+ST  - Endogenous mouse huntingtin is highly abundant in cranial nerve nuclei, co-aggregates to Abeta plaques and is induced in reactive astrocytes in a transgenic mouse model of Alzheimer's disease
+T2  - Acta Neuropathol Commun
+TI  - Endogenous mouse huntingtin is highly abundant in cranial nerve nuclei, co-aggregates to Abeta plaques and is induced in reactive astrocytes in a transgenic mouse model of Alzheimer's disease
+VL  - 7
+ID  - 51121
+ER  - 
+
+TY  - JOUR
+AB  - Clusterin (CLU), or apolipoprotein J (ApoJ), is the third most predominant genetic risk factor associated with late-onset Alzheimer's disease (LOAD). In this study, we use multiple rodent and human brain tissue and neural cell models to demonstrate that CLU is expressed as multiple isoforms that have distinct cellular or subcellular localizations in the brain. Of particular significance, we identify a non-glycosylated 45 kDa CLU isoform (mitoCLU) that is localized to the mitochondrial matrix and expressed in both rodent and human neurons and astrocytes. In addition, we show that rodent mitoCLU is translated from a non-canonical CUG (Leu) start site in Exon 3, a site that coincides with an AUG (Met) in human CLU. Last, we reveal that mitoCLU is present at the gene and protein level in the currently available CLU(-/-) mouse model. Collectively, these data provide foundational knowledge that is integral in elucidating the relationship between CLU and the development of LOAD.
+AD  - Department of Pharmacology and Toxicology, School of Pharmacy, University of Kansas, Lawrence, United States.
+Neuroscience Graduate Program, University of Kansas, Lawrence, United States.
+AN  - 31738162
+AU  - Herring, S. K.
+AU  - Moon, H. J.
+AU  - Rawal, P.
+AU  - Chhibber, A.
+AU  - Zhao, L.
+C1  - SH, HM, PR, AC, LZ No competing interests declared
+C2  - PMC6860991
+DA  - Nov 18
+DO  - 10.7554/eLife.48255
+DP  - NLM
+ET  - 20191118
+KW  - Alzheimer Disease/metabolism
+Animals
+Brain/metabolism
+Clusterin/*metabolism
+Female
+Mice
+Mice, Inbred C57BL
+Mitochondria/*metabolism
+Pregnancy
+Protein Isoforms/*metabolism
+Rats
+Rats, Sprague-Dawley
+apolipoprotein J (ApoJ)
+clusterin (CLU)
+human
+late-onset Alzheimer's disease (LOAD)
+mitochondria
+mouse
+neuroscience
+LA  - eng
+N1  - 2050-084x
+Herring, Sarah K
+Moon, Hee-Jung
+Rawal, Punam
+Chhibber, Anindit
+Zhao, Liqin
+Orcid: 0000-0002-0491-6943
+R21AG055964/NH/NIH HHS/United States
+R01 AG061038/AG/NIA NIH HHS/United States
+P30 AG035982/AG/NIA NIH HHS/United States
+P20GM103418 Pilot Project/NH/NIH HHS/United States
+P20 GM103418/GM/NIGMS NIH HHS/United States
+R21 AG055964/AG/NIA NIH HHS/United States
+P30AG035982 Pilot Project/NH/NIH HHS/United States
+R21 AG059177/AG/NIA NIH HHS/United States
+R01AG061038/NH/NIH HHS/United States
+P30 AG072973/AG/NIA NIH HHS/United States
+R21AG059177/NH/NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2019/11/19
+Elife. 2019 Nov 18;8:e48255. doi: 10.7554/eLife.48255.
+PY  - 2019
+SN  - 2050-084x
+ST  - Brain clusterin protein isoforms and mitochondrial localization
+T2  - Elife
+TI  - Brain clusterin protein isoforms and mitochondrial localization
+VL  - 8
+ID  - 51107
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Preclinical Alzheimer's disease (AD) research strongly depends on transgenic mouse models that display major symptoms of the disease. Although several AD mouse models have been developed representing relevant pathologies, only a fraction of available mouse models, like the Tg4-42 mouse model, display hippocampal atrophy caused by the death of neurons as the key feature of AD. The Tg4-42 mouse model is therefore very valuable for use in preclinical research. Furthermore, metabolic biomarkers which have the potential to detect biochemical changes, are crucial to gain deeper insights into the pathways, the underlying pathological mechanisms and disease progression. OBJECTIVE: We thus performed an in-depth characterization of Tg4-42 mice by using an integrated approach to analyze alterations of complex biological networks in this AD in vivo model. METHODS: Therefore, untargeted NMR-based metabolomic phenotyping was combined with behavioral tests and immunohistological and biochemical analyses. RESULTS: Our in vivo experiments demonstrate a loss of body weight increase in homozygous Tg4-42 mice over time as well as severe impaired learning behavior and memory deficits in the Morris water maze behavioral test. Furthermore, we found significantly altered metabolites in two different brain regions and metabolic changes of the glutamate/4-aminobutyrate-glutamine axis. Based on these results, downstream effects were analyzed showing increased Aβ42 levels, increased neuroinflammation as indicated by increased astro- and microgliosis as well as neuronal degeneration and neuronal loss in homozygous Tg4-42 mice. CONCLUSION: Our study provides a comprehensive characterization of the Tg4-42 mouse model which could lead to a deeper understanding of pathological features of AD. Additionally this study reveals changes in metabolic biomarker which set the base for future preclinical studies or drug development.
+AD  - QPS Austria GmbH, Grambach, Austria.
+Gottfried Schatz Research Center (for Cell Signaling, Metabolism and Aging), Division of Molecular Biology and Biochemistry, Medical University of Graz, Graz, Austria.
+Department of Psychiatry and Psychotherapy, Division of Molecular Psychiatry, University Medical Center, Göttingen (UMG), Göttingen, Germany.
+BioTechMed-Graz, Graz, Austria.
+AN  - 33646155
+AU  - Hinteregger, B.
+AU  - Loeffler, T.
+AU  - Flunkert, S.
+AU  - Neddens, J.
+AU  - Bayer, T. A.
+AU  - Madl, T.
+AU  - Hutter-Paier, B.
+C1  - Authors’ disclosures available online (https://www.j-alz.com/manuscript-disclosures/20-1204r2).
+C2  - PMC8150512
+DO  - 10.3233/jad-201204
+DP  - NLM
+IS  - 3
+KW  - Alzheimer Disease/*metabolism/*pathology
+Amyloid beta-Peptides/*genetics
+Animals
+*Disease Models, Animal
+Humans
+Male
+Mice
+Mice, Inbred C57BL
+Mice, Transgenic
+Phenotype
+Alzheimer’s disease
+behavior
+biomarkers
+neuroinflammation
+neuronal degeneration
+nuclear magnetic resonance
+LA  - eng
+N1  - 1875-8908
+Hinteregger, Barbara
+Loeffler, Tina
+Flunkert, Stefanie
+Neddens, Joerg
+Bayer, Thomas A
+Madl, Tobias
+Hutter-Paier, Birgit
+W 1226/FWF_/Austrian Science Fund FWF/Austria
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2021/03/02
+J Alzheimers Dis. 2021;80(3):1151-1168. doi: 10.3233/JAD-201204.
+PY  - 2021
+SN  - 1387-2877 (Print)
+1387-2877
+SP  - 1151-1168
+ST  - Metabolic, Phenotypic, and Neuropathological Characterization of the Tg4-42 Mouse Model for Alzheimer's Disease
+T2  - J Alzheimers Dis
+TI  - Metabolic, Phenotypic, and Neuropathological Characterization of the Tg4-42 Mouse Model for Alzheimer's Disease
+VL  - 80
+ID  - 51106
+ER  - 
+
+TY  - JOUR
+AB  - Imaging of small laboratory animals in clinical MRI scanners is feasible but challenging. Compared with dedicated preclinical systems, clinical scanners have relatively low B(0) field (1.5-3.0 T) and gradient strength (40-60 mT/m). This work explored the use of wireless inductively coupled coils (ICCs) combined with appropriate pulse sequence parameters to overcome these two drawbacks, with a special emphasis on the optimization of the coil passive detuning circuit for this application. A Bengal rose photothrombotic stroke model was used to induce cortical infarction in rats and mice. Animals were imaged in a 3T scanner using T2 and T1-weighted sequences. In all animals, the ICCs allowed acquisition of high-quality images of the infarcted brain at acute and chronic stages. Images obtained with the ICCs showed a substantial increase in SNR compared to clinical coils (by factors of 6 in the rat brain and 16-17 in the mouse brain), and the absence of wires made the animal preparation workflow straightforward.
+AD  - Neuroscience Program, CIMA, University of Navarra, Pamplona, Spain.
+IdiSNA, Navarra Institute for Health Research, Pamplona, Spain.
+Neos Biotec, Pamplona, Spain.
+Radiology Department, Clínica Universidad de Navarra, Pio XII, 36, 31008, Pamplona, Spain.
+IdiSNA, Navarra Institute for Health Research, Pamplona, Spain. mfseara@unav.es.
+Radiology Department, Clínica Universidad de Navarra, Pio XII, 36, 31008, Pamplona, Spain. mfseara@unav.es.
+AN  - 32918104
+AU  - Iñigo-Marco, I.
+AU  - Istúriz, J.
+AU  - Fernández, M.
+AU  - Nicolas, M. J.
+AU  - Domínguez, P.
+AU  - Bastarrika, G.
+AU  - Valencia, M.
+AU  - Fernández-Seara, M. A.
+DA  - Feb
+DO  - 10.1007/s10439-020-02610-0
+DP  - NLM
+ET  - 20200911
+IS  - 2
+KW  - Animals
+Brain/*diagnostic imaging
+Equipment Design
+Female
+Magnetic Resonance Imaging/*instrumentation
+Male
+Mice, Inbred C57BL
+Rats, Sprague-Dawley
+Stroke/*diagnostic imaging
+Mice
+Rats
+Clinical scanner
+Inductively coupled coil
+Preclinical imaging
+Stroke
+Wireless coil
+LA  - eng
+N1  - 1573-9686
+Iñigo-Marco, Ignacio
+Istúriz, Javier
+Fernández, Miguel
+Nicolas, Maria J
+Domínguez, Pablo
+Bastarrika, Gorka
+Valencia, Miguel
+Fernández-Seara, María A
+Orcid: 0000-0001-8536-6295
+0011-1365-2017-000114/Government of Navarra/
+Journal Article
+United States
+2020/09/13
+Ann Biomed Eng. 2021 Feb;49(2):746-756. doi: 10.1007/s10439-020-02610-0. Epub 2020 Sep 11.
+PY  - 2021
+SN  - 0090-6964
+SP  - 746-756
+ST  - Imaging of Stroke in Rodents Using a Clinical Scanner and Inductively Coupled Specially Designed Receiver Coils
+T2  - Ann Biomed Eng
+TI  - Imaging of Stroke in Rodents Using a Clinical Scanner and Inductively Coupled Specially Designed Receiver Coils
+VL  - 49
+ID  - 51132
+ER  - 
+
+TY  - JOUR
+AB  - Amyloid plaques are a hallmark of Alzheimer's disease (AD) that develop in its earliest stages. Thus, non-invasive detection of these plaques would be invaluable for diagnosis and the development and monitoring of treatments, but this remains a challenge due to their small size. Here, we investigated the utility of manganese-enhanced MRI (MEMRI) for visualizing plaques in transgenic rodent models of AD across two species: 5xFAD mice and TgF344-AD rats. Animals were given subcutaneous injections of MnCl(2) and imaged in vivo using a 9.4 T Bruker scanner. MnCl(2) improved signal-to-noise ratio but was not necessary to detect plaques in high-resolution images. Plaques were visible in all transgenic animals and no wild-types, and quantitative susceptibility mapping showed that they were more paramagnetic than the surrounding tissue. This, combined with beta-amyloid and iron staining, indicate that plaque MR visibility in both animal models was driven by plaque size and iron load. Longitudinal relaxation rate mapping revealed increased manganese uptake in brain regions of high plaque burden in transgenic animals compared to their wild-type littermates. This was limited to the rhinencephalon in the TgF344-AD rats, while it was most significantly increased in the cortex of the 5xFAD mice. Alizarin Red staining suggests that manganese bound to plaques in 5xFAD mice but not in TgF344-AD rats. Multi-parametric MEMRI is a simple, viable method for detecting amyloid plaques in rodent models of AD. Manganese-induced signal enhancement can enable higher-resolution imaging, which is key to visualizing these small amyloid deposits. We also present the first in vivo evidence of manganese as a potential targeted contrast agent for imaging plaques in the 5xFAD model of AD.
+AD  - BRAIN Centre (Biomarker Research and Imaging for Neuroscience), Department of Neuroimaging, King's College London, The James Black Centre, 125 Coldharbour Lane, London, SE5 9NU, UK. eugene.kim@kcl.ac.uk.
+Department of Life, Health and Environmental Sciences, University of L'Aquila, Piazzale Salvatore Tommasi 1, 67100, L'Aquila, Italy.
+Department of Old Age Psychiatry, Institute of Psychiatry, Psychology & Neuroscience, King's College London, 16 De Crespigny Park, London, SE5 8AF, UK.
+BRAIN Centre (Biomarker Research and Imaging for Neuroscience), Department of Neuroimaging, King's College London, The James Black Centre, 125 Coldharbour Lane, London, SE5 9NU, UK.
+The University of Exeter Medical School, Medical School Building, St. Luke's Campus, Magdalen Road, Exeter, EX1 2LU, UK.
+Division of Neuroscience and Experimental Psychology, Faculty of Biology Medicine and Health, Geoffrey Jefferson Brain Research Centre, Manchester Academic Health Science Centre, The University of Manchester, Stopford Building, 99 Oxford Road, Manchester, M13 9PG, UK.
+Department of Neuroimaging, Centre for Neuroimaging Sciences, King's College London, De Crespigny Park, London, SE5 8AF, UK.
+AN  - 34127752
+AU  - Kim, E.
+AU  - Di Censo, D.
+AU  - Baraldo, M.
+AU  - Simmons, C.
+AU  - Rosa, I.
+AU  - Randall, K.
+AU  - Ballard, C.
+AU  - Dickie, B. R.
+AU  - Williams, S. C. R.
+AU  - Killick, R.
+AU  - Cash, D.
+C1  - The authors declare no competing interests.
+C2  - PMC8203664
+DA  - Jun 14
+DO  - 10.1038/s41598-021-91899-5
+DP  - NLM
+ET  - 20210614
+IS  - 1
+KW  - Alzheimer Disease/*diagnosis/pathology
+Amyloid beta-Peptides/analysis
+Animals
+Cerebral Cortex/chemistry/*diagnostic imaging/pathology
+Chlorides/*administration & dosage
+Disease Models, Animal
+Female
+Humans
+Injections, Subcutaneous
+Iron/analysis
+Male
+Manganese Compounds/*administration & dosage
+Mice
+Mice, Transgenic
+Multiparametric Magnetic Resonance Imaging/*methods
+Plaque, Amyloid/*diagnosis/pathology
+Rats
+Rats, Transgenic
+LA  - eng
+N1  - 2045-2322
+Kim, Eugene
+Di Censo, Davide
+Baraldo, Mattia
+Simmons, Camilla
+Rosa, Ilaria
+Randall, Karen
+Ballard, Clive
+Dickie, Ben R
+Williams, Steven C R
+Killick, Richard
+Cash, Diana
+WT_/Wellcome Trust/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2021/06/16
+Sci Rep. 2021 Jun 14;11(1):12419. doi: 10.1038/s41598-021-91899-5.
+PY  - 2021
+SN  - 2045-2322
+SP  - 12419
+ST  - In vivo multi-parametric manganese-enhanced MRI for detecting amyloid plaques in rodent models of Alzheimer's disease
+T2  - Sci Rep
+TI  - In vivo multi-parametric manganese-enhanced MRI for detecting amyloid plaques in rodent models of Alzheimer's disease
+VL  - 11
+ID  - 51124
+ER  - 
+
+TY  - JOUR
+AB  - Social withdrawal and agitation/aggression are common behavioral and psychological symptoms of dementia presented by Alzheimer's disease (AD) patients, with males exhibiting more aggressive behaviors than females. Some transgenic mouse models of AD also exhibit social withdrawal and aggression, but many of these models only recapitulate the early stages of the disease. By comparison, the 5xFAD mouse model of AD exhibits rapid, progressive neurodegeneration, and is suitable for modeling cognitive and behavioral deficits at early, mid-, and late-stage disease progression. Anecdotal reports suggest that transgenic 5xFAD males exhibit high levels of aggression compared to wild-type controls, but to date, indirect genetic effects in this strain have not been studied. We measured home-cage behaviors in 5xFAD males housed in three different group-housing conditions (transgenic-only, wild-type only, and mixed-genotype) and social approach behaviors when exposed to a novel free-roaming or restrained, wild-type or transgenic conspecific. Transgenic-only home cages required earlier separation due to injuries arising from aggression compared to wild-type-only or mixed-genotype cages, despite no obvious increase in the frequency of aggressive behaviors. Transgenic 5xFAD males and females also spent less time investigating free-roaming conspecifics compared to wild-type controls, but they showed normal investigation of restrained conspecifics; the genotype of the conspecific did not affect approach behavior, and there was no aggression observed in transgenic males. These findings provide evidence in an animal model that amyloid pathology ultimately leads to avoidance of novel social stimuli, and that frequent interactions between individuals exhibiting an AD phenotype further exacerbates aggressive behaviors.
+AD  - The Social Lab, Department of Psychology and Neuroscience, Dalhousie University, Halifax, NS, Canada.
+AN  - 31912571
+AU  - Kosel, F.
+AU  - Hamilton, J. S.
+AU  - Harrison, S. L.
+AU  - Godin, V.
+AU  - Franklin, T. B.
+DA  - Jan
+DO  - 10.1002/jnr.24578
+DP  - NLM
+ET  - 20200107
+IS  - 1
+KW  - *Aggression
+*Alzheimer Disease
+Animals
+*Behavior, Animal
+*Disease Models, Animal
+Female
+Male
+Mice
+Mice, Transgenic
+*Social Behavior
+5xFAD
+Alzheimer's disease
+aggression
+social approach
+transgenic mice
+LA  - eng
+N1  - 1097-4547
+Kosel, Filip
+Orcid: 0000-0002-7488-684x
+Hamilton, Jacob S
+Harrison, Sarah L
+Orcid: 0000-0003-0305-8868
+Godin, Victoria
+Franklin, Tamara B
+Orcid: 0000-0002-8733-8228
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2020/01/09
+J Neurosci Res. 2021 Jan;99(1):209-222. doi: 10.1002/jnr.24578. Epub 2020 Jan 7.
+PY  - 2021
+SN  - 0360-4012
+SP  - 209-222
+ST  - Reduced social investigation and increased injurious behavior in transgenic 5xFAD mice
+T2  - J Neurosci Res
+TI  - Reduced social investigation and increased injurious behavior in transgenic 5xFAD mice
+VL  - 99
+ID  - 51105
+ER  - 
+
+TY  - JOUR
+AB  - Aggregated tau protein is a core pathology present in several neurodegenerative diseases. Therefore, the development and application of positron emission tomography (PET) imaging radiotracers that selectively bind to aggregated tau in fibril form is of importance in furthering the understanding of these disorders. While radiotracers used in human PET studies offer invaluable insight, radiotracers that are also capable of visualizing tau fibrils in animal models are important tools for translational research into these diseases. Herein, we report the synthesis and characterization of a novel library of compounds based on the phenyl/pyridinylbutadienylbenzothiazoles/benzothiazolium (PBB3) backbone developed for this application. From this library, we selected the compound LM229, which binds to recombinant tau fibrils with high affinity (K(d) = 3.6 nM) and detects with high specificity (a) pathological 4R tau aggregates in living cultured neurons and mouse brain sections from transgenic human P301S tau mice, (b) truncated human 151-351 3R (SHR24) and 4R (SHR72) tau aggregates in transgenic rat brain sections, and (c) tau neurofibrillary tangles in brain sections from Alzheimer's disease (3R/4R tau) and progressive supranuclear palsy (4R tau). With LM229 also shown to cross the blood-brain barrier in vivo and its effective radiolabeling with the radioisotope carbon-11, we have established a novel platform for PET translational studies using rodent transgenic tau models.
+AD  - Molecular Imaging Chemistry Laboratory, Wolfson Brain Imaging Centre, University of Cambridge, Cambridge CB2 0QQ, United Kingdom.
+MRC Laboratory of Molecular Biology, Cambridge CB2 0QH, United Kingdom.
+Department of Clinical Neurosciences, University of Cambridge, Cambridge CB2 0QQ, United Kingdom.
+Axon Neuroscience R&D Services SE, Bratislava, Slovak Republic 811 02.
+AN  - 33689290
+AU  - McMurray, L.
+AU  - Macdonald, J. A.
+AU  - Ramakrishnan, N. K.
+AU  - Zhao, Y.
+AU  - Williamson, D. W.
+AU  - Tietz, O.
+AU  - Zhou, X.
+AU  - Kealey, S.
+AU  - Fagan, S. G.
+AU  - Smolek, T.
+AU  - Cubinkova, V.
+AU  - Žilka, N.
+AU  - Spillantini, M. G.
+AU  - Tolkovsky, A. M.
+AU  - Goedert, M.
+AU  - Aigbirhio, F. I.
+C1  - The authors declare no competing financial interest.
+C2  - PMC8176454
+DA  - Jun 2
+DO  - 10.1021/acschemneuro.0c00790
+DP  - NLM
+ET  - 20210310
+IS  - 11
+KW  - *Alzheimer Disease/diagnostic imaging
+Animals
+Brain/diagnostic imaging/metabolism
+Mice
+Mice, Transgenic
+Neurofibrillary Tangles/metabolism
+Positron-Emission Tomography
+Rats
+Rats, Transgenic
+*tau Proteins/metabolism
+Pet
+imaging
+mouse
+neurodegeneration
+rat
+tau
+LA  - eng
+N1  - 1948-7193
+McMurray, Lindsay
+Macdonald, Jennifer A
+Ramakrishnan, Nisha Kuzhuppilly
+Zhao, Yanyan
+Williamson, David W
+Tietz, Ole
+Zhou, Xiaoyun
+Kealey, Steven
+Fagan, Steven G
+Smolek, Tomáš
+Cubinkova, Veronika
+Žilka, Norbert
+Spillantini, Maria Grazia
+Tolkovsky, Aviva M
+Goedert, Michel
+Aigbirhio, Franklin I
+Orcid: 0000-0001-9453-5257
+MC_U105184291/MRC_/Medical Research Council/United Kingdom
+MR/K02308X/1/MRC_/Medical Research Council/United Kingdom
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/03/11
+ACS Chem Neurosci. 2021 Jun 2;12(11):1885-1893. doi: 10.1021/acschemneuro.0c00790. Epub 2021 Mar 10.
+PY  - 2021
+SN  - 1948-7193
+SP  - 1885-1893
+ST  - Synthesis and Assessment of Novel Probes for Imaging Tau Pathology in Transgenic Mouse and Rat Models
+T2  - ACS Chem Neurosci
+TI  - Synthesis and Assessment of Novel Probes for Imaging Tau Pathology in Transgenic Mouse and Rat Models
+VL  - 12
+ID  - 51101
+ER  - 
+
+TY  - JOUR
+AB  - The CNTNAP2 gene has been implicated in several neuropsychological disorders, including autism spectrum disorder (ASD) and schizophrenia. The CNTNAP2 knockout (KO) rat model, rats without the CNTNAP2 gene, exhibits deficits in social interaction and increases in both repetitive and anxiety-like behaviors. However, deficits in time perception that may underlie several of the neuropsychological disorders implicated have not been investigated. The current study investigated timing in CNTNAP2 KO rats compared to control rats using a discrete-trial temporal bisection task. Results suggested deficits in the timing of relatively long durations in the CNTNAP2 KO rats. This finding is consistent with similar findings previously reported in humans diagnosed with ASD, and is promising for understanding the role that the CNTNAP2 gene may play in timing in certain neuropsychological disorders, and for developing targeted clinical therapies.
+AD  - Department of Psychology and Program in Neuroscience, St. Lawrence University, United States.
+Department of Psychology and Program in Neuroscience, St. Lawrence University, United States. Electronic address: afox@stlawu.edu.
+AN  - 34175409
+AU  - Poulin, C. J.
+AU  - Fox, A. E.
+DA  - Sep
+DO  - 10.1016/j.beproc.2021.104449
+DP  - NLM
+ET  - 20210624
+KW  - Animals
+Anxiety
+*Autism Spectrum Disorder
+Membrane Proteins/genetics
+Mice
+Mice, Knockout
+Nerve Tissue Proteins/genetics
+Rats
+*Schizophrenia
+Autism spectrum disorder (ASD)
+Cntnap2
+Time perception
+Timing
+LA  - eng
+N1  - 1872-8308
+Poulin, Cole J
+Fox, Adam E
+Journal Article
+Netherlands
+2021/06/28
+Behav Processes. 2021 Sep;190:104449. doi: 10.1016/j.beproc.2021.104449. Epub 2021 Jun 24.
+PY  - 2021
+SN  - 0376-6357
+SP  - 104449
+ST  - Preliminary evidence for timing abnormalities in the CNTNAP2 knockout rat
+T2  - Behav Processes
+TI  - Preliminary evidence for timing abnormalities in the CNTNAP2 knockout rat
+VL  - 190
+ID  - 51113
+ER  - 
+
+TY  - JOUR
+AB  - Genome-scale metabolic models (GEMs) are used extensively for analysis of mechanisms underlying human diseases and metabolic malfunctions. However, the lack of comprehensive and high-quality GEMs for model organisms restricts translational utilization of omics data accumulating from the use of various disease models. Here we present a unified platform of GEMs that covers five major model animals, including Mouse1 (Mus musculus), Rat1 (Rattus norvegicus), Zebrafish1 (Danio rerio), Fruitfly1 (Drosophila melanogaster), and Worm1 (Caenorhabditis elegans). These GEMs represent the most comprehensive coverage of the metabolic network by considering both orthology-based pathways and species-specific reactions. All GEMs can be interactively queried via the accompanying web portal Metabolic Atlas. Specifically, through integrative analysis of Mouse1 with RNA-sequencing data from brain tissues of transgenic mice we identified a coordinated up-regulation of lysosomal GM2 ganglioside and peptide degradation pathways which appears to be a signature metabolic alteration in Alzheimer's disease (AD) mouse models with a phenotype of amyloid precursor protein overexpression. This metabolic shift was further validated with proteomics data from transgenic mice and cerebrospinal fluid samples from human patients. The elevated lysosomal enzymes thus hold potential to be used as a biomarker for early diagnosis of AD. Taken together, we foresee that this evolving open-source platform will serve as an important resource to facilitate the development of systems medicines and translational biomedical applications.
+AD  - Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden.
+Department of Biology and Biological Engineering, National Bioinformatics Infrastructure Sweden, Science for Life Laboratory, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden.
+Wallenberg Center for Molecular and Translational Medicine, University of Gothenburg, 405 30 Gothenburg, Sweden.
+Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, Sahlgrenska Academy at University of Gothenburg, 431 30 Mölndal, Sweden.
+Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark.
+Department of Protein Science, Science for Life Laboratory, KTH-Royal Institute of Technology, SE-100 44 Stockholm, Sweden.
+Wallenberg Center for Protein Research, KTH-Royal Institute of Technology, SE-100 44 Stockholm, Sweden.
+Clinical Neurochemistry Laboratory, Sahlgrenska University Hospital, 431 30 Mölndal, Sweden.
+Department of Neurodegenerative Disease, University College London Queen Square Institute of Neurology, London WC1E 6BT, United Kingdom.
+UK Dementia Research Institute, University College London, London WC1E 6BT, United Kingdom.
+Department of Biology and Biological Engineering, Chalmers University of Technology, SE-412 96 Gothenburg, Sweden; nielsenj@chalmers.se.
+BioInnovation Institute, DK2200 Copenhagen, Denmark.
+AN  - 34282017
+AU  - Wang, H.
+AU  - Robinson, J. L.
+AU  - Kocabas, P.
+AU  - Gustafsson, J.
+AU  - Anton, M.
+AU  - Cholley, P. E.
+AU  - Huang, S.
+AU  - Gobom, J.
+AU  - Svensson, T.
+AU  - Uhlen, M.
+AU  - Zetterberg, H.
+AU  - Nielsen, J.
+C1  - The authors declare no competing interest.
+C2  - PMC8325244
+DA  - Jul 27
+DO  - 10.1073/pnas.2102344118
+DP  - NLM
+IS  - 30
+KW  - Alzheimer Disease/genetics/metabolism/*pathology
+Animals
+Biomarkers/*analysis
+Caenorhabditis elegans
+*Disease Models, Animal
+Drosophila melanogaster
+*Gene Regulatory Networks
+Genome
+Humans
+*Metabolic Networks and Pathways
+Mice
+Mice, Transgenic
+*Proteome
+Rats
+*Transcriptome
+Zebrafish
+Alzheimer’s disease
+Aβ deposition
+animal model
+genome-scale model
+translational medicine
+LA  - eng
+N1  - 1091-6490
+Wang, Hao
+Orcid: 0000-0001-7475-0136
+Robinson, Jonathan L
+Orcid: 0000-0001-8567-5960
+Kocabas, Pinar
+Orcid: 0000-0001-9788-2019
+Gustafsson, Johan
+Orcid: 0000-0001-5072-2659
+Anton, Mihail
+Orcid: 0000-0002-7753-9042
+Cholley, Pierre-Etienne
+Huang, Shan
+Gobom, Johan
+Svensson, Thomas
+Orcid: 0000-0002-9190-2979
+Uhlen, Mattias
+Zetterberg, Henrik
+Orcid: 0000-0003-3930-4354
+Nielsen, Jens
+Orcid: 0000-0002-9955-6003
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/07/21
+Proc Natl Acad Sci U S A. 2021 Jul 27;118(30):e2102344118. doi: 10.1073/pnas.2102344118.
+PY  - 2021
+SN  - 0027-8424 (Print)
+0027-8424
+ST  - Genome-scale metabolic network reconstruction of model animals as a platform for translational research
+T2  - Proc Natl Acad Sci U S A
+TI  - Genome-scale metabolic network reconstruction of model animals as a platform for translational research
+VL  - 118
+ID  - 51117
+ER  - 
+
+TY  - JOUR
+AB  - Multiple sclerosis (MS) is a chronic autoimmune disease of the central nervous system. Recent clinical study suggested that MS patient exhibited acute heart failure. Further, 12-lead electrocardiographic study showed a longer QTc interval in both MS patient and experimental autoimmune encephalomyelitis (EAE) Lewis rat. However, there is limited study regarding the effect of sex on cardiac injury in EAE. To our knowledge, sex effect on cardiac damage in mice with EAE has not yet been published. Herein, we examined the role of the immune system in mediating cardiac dysfunction after EAE in female and male mice. Neurological function was subsequently evaluated and cardiac function was assessed by echocardiography at multiple time points after EAE. EAE mice exhibited severe neurological deficit and significant cardiac dysfunction, including decreased left ventricular ejection fraction (LVEF) and left ventricular fractional shortening (LVFS) at 1 and 2 months after EAE induction. Meanwhile male EAE presented increased expression of the oxidative stress (e.g., nicotinamaide adenine dinucleotide phosphate oxidase-2; NOX-2) in heart, as well as cardiac hypertrophy, increased left ventricle (LV) mass and more severe cardiac fibrosis compared with male control mice. In addition, male EAE mice showed significantly increased cardiac canonical inflammatory mediator (e.g., monocyte chemoattractant protein-1; MCP-1, transforming growth factor-β; TGF-β and toll-like receptor 2; TLR-2) compared with female EAE mice at 2 months after EAE induction. In conclusion, EAE increases inflammatory factor expression and aggravates cardiac dysfunction in male mice compared with female mice, which may contribute to different cardiac outcome in EAE mice.
+AD  - Department of Geriatrics, Tianjin Medical University General Hospital, Tianjin, China.
+Department of Neurology, Tianjin Medical University General Hospital, Tianjin Neurological Institute, Key Laboratory of Post Neurotrauma Neurorepair and Regeneration in Central Nervous System, Ministry of Education and Tianjin City, Tianjin, China.
+AN  - 33541127
+AU  - Wu, R.
+AU  - Su, Y.
+AU  - Yuan, Q.
+AU  - Li, L.
+AU  - Wuri, J.
+AU  - Liu, X.
+AU  - Yan, T.
+C1  - Declaration of Conflicting Interests: The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+C2  - PMC7868497
+DA  - Jan-Dec
+DO  - 10.1177/1759091421991771
+DP  - NLM
+KW  - Animals
+*Encephalomyelitis, Autoimmune, Experimental/complications
+Female
+Humans
+Male
+Mice
+Mice, Inbred C57BL
+*Multiple Sclerosis
+Rats
+Rats, Inbred Lew
+Stroke Volume
+Ventricular Function, Left
+cardiac dysfunction
+cardiac fibrosis
+cardiomyocyte hypertrophy
+experimental autoimmune encephalomyelitis (EAE)
+inflammatory mediator
+sex
+LA  - eng
+N1  - 1759-0914
+Wu, Ruixia
+Su, Yue
+Yuan, Quan
+Li, Linlin
+Wuri, Jimusi
+Liu, Xiaoxuan
+Yan, Tao
+Orcid: 0000-0003-3138-4468
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2021/02/06
+ASN Neuro. 2021 Jan-Dec;13:1759091421991771. doi: 10.1177/1759091421991771.
+PY  - 2021
+SN  - 1759-0914
+SP  - 1759091421991771
+ST  - Sex Effect on Cardiac Damage in Mice With Experimental Autoimmune Encephalomyelitis
+T2  - ASN Neuro
+TI  - Sex Effect on Cardiac Damage in Mice With Experimental Autoimmune Encephalomyelitis
+VL  - 13
+ID  - 51104
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Angiostrongylus cantonensis (A. cantonensis), is a food-borne zoonotic parasite that can cause central nervous system (CNS) injury characterized by eosinophilic meningitis. However, the pathogenesis of angiostrongylosis remains elusive. Natural killer cells (NK cells) are unique innate lymphocytes important in early defense against pathogens. The aim of this study was to investigate the role of NK cells in A. cantonensis infection and to elucidate the key factors that recruit NK cells into the CNS. METHODS: Mouse model of A. cantonensis infection was established by intragastric administration of third-stage larvae. The expression of cytokines and chemokines at gene and protein levels was analyzed by qRT-PCR and ELISA. Distribution of NK cells was observed by immunohistochemistry and flow cytometry. NK cell-mediated cytotoxicity against YAC-1 cells was detected by LDH release assay. The ability of NK cells to secrete cytokines was determined by intracellular flow cytometry and ELISA. Depletion and adoptive transfer of NK cells in vivo was induced by tail vein injection of anti-asialo GM1 rabbit serum and purified splenic NK cells, respectively. CX(3)CL1 neutralization experiment was performed by intraperitoneal injection of anti-CX(3)CL1 rat IgG. RESULTS: The infiltration of NK cells in the CNS of A. cantonensis-infected mice was observed from 14 dpi and reached the peak on 18 and 22 dpi. Compared with uninfected splenic NK cells, the CNS-infiltrated NK cells of infected mice showed enhanced cytotoxicity and increased IFN-γ and TNF-α production ability. Depletion of NK cells alleviated brain injury, whereas adoptive transfer of NK cells exacerbated brain damage in A. cantonensis-infected mice. The expression of CX(3)CL1 in the brain tissue and its receptor CX(3)CR1 on the CNS-infiltrated NK cells were both elevated after A. cantonensis infection. CX(3)CL1 neutralization reduced the percentage and absolute number of the CNS-infiltrated NK cells and relieved brain damage caused by A. cantonensis infection. CONCLUSIONS: Our results demonstrate that the up-regulated CX(3)CL1 in the brain tissue recruits NK cells into the CNS and aggravates brain damage caused by A. cantonensis infection. The findings improve the understanding of the pathogenesis of angiostrongyliasis and expand the therapeutic intervention in CNS disease.
+AD  - Experimental Teaching Center of Basic Medicine, Nanjing Medical University, Nanjing, China.
+Department of Pathogen Biology, Key Laboratory of Pathogen Biology of Jiangsu Province, Nanjing Medical University, Nanjing, China.
+Translational Medicine Laboratory, Research Institute for Reproductive Health and Genetic Diseases, The Affiliated Wuxi Maternity and Child Health Care Hospital of Nanjing Medical University, Wuxi, China.
+AN  - 34017692
+AU  - Zhang, R.
+AU  - Miao, T.
+AU  - Qin, M.
+AU  - Zhao, C.
+AU  - Wang, W.
+AU  - Zhang, C.
+AU  - Liu, X.
+AU  - Chen, Y.
+AU  - Chen, A.
+AU  - Wang, Y.
+C1  - The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+C2  - PMC8129578
+DO  - 10.3389/fcimb.2021.672720
+DP  - NLM
+ET  - 20210504
+KW  - Animals
+Brain
+*Brain Injuries
+Central Nervous System
+Killer Cells, Natural
+Mice
+Rabbits
+Rats
+*Strongylida Infections
+Angiostrongylus cantonensis
+Cx3cl1
+NK cells
+brain injury
+central nervous system
+infection
+LA  - eng
+N1  - 2235-2988
+Zhang, Rong
+Miao, Tingting
+Qin, Min
+Zhao, Chengsi
+Wang, Wei
+Zhang, Chengcheng
+Liu, Xinjian
+Chen, Ying
+Chen, Ailing
+Wang, Yong
+Journal Article
+Research Support, Non-U.S. Gov't
+Switzerland
+2021/05/22
+Front Cell Infect Microbiol. 2021 May 4;11:672720. doi: 10.3389/fcimb.2021.672720. eCollection 2021.
+PY  - 2021
+SN  - 2235-2988
+SP  - 672720
+ST  - CX(3)CL1 Recruits NK Cells Into the Central Nervous System and Aggravates Brain Injury of Mice Caused by Angiostrongylus cantonensis Infection
+T2  - Front Cell Infect Microbiol
+TI  - CX(3)CL1 Recruits NK Cells Into the Central Nervous System and Aggravates Brain Injury of Mice Caused by Angiostrongylus cantonensis Infection
+VL  - 11
+ID  - 51114
+ER  - 
+
+TY  - JOUR
+AB  - The 5xFAD mouse model of Alzheimer's disease (AD) develops age-related neuropathology and sensory, motor, and cognitive impairments. The purpose of this study was to examine whether age-related changes in motor function affected working memory performance in 5xFAD mice in the Hebb-Williams Maze (HWM). At 6 months of age, the 5xFAD mice performed better than the WT (B6SJL) mice on the accelerating rotarod, but much worse at 12 months of age. The 5xFAD and WT mice did not differ in days to acquisition in the HWM at 6 months of age, but the WT mice took longer at 12 months of age. The number of errors increased with maze difficulty and at 6 months of age, the 5xFAD mice made more errors than the WT mice only on difficult problems. At 12 months of age 5xFAD mice made more errors than WT mice at each level of problem difficulty. The latency to solve the problems was higher for the 5xFAD mice than the WT mice in the difficult problems at 6 months of age and in the intermediate problems at 12 months of age. Although body weight had some effect on rotarod performance, there were no systematic effects of motor deficits on either errors or latency measures in the test trials of the HWM. These results indicate that the 5xFAD mice had deficits in working memory in the HWM and that these deficits were not confounded by impaired motor performance.
+AD  - Department of Psychology and Neuroscience, Dalhousie University, Halifax B3H 4R2, Nova Scotia, Canada.
+Department of Psychology and Neuroscience, Dalhousie University, Halifax B3H 4R2, Nova Scotia, Canada. Electronic address: rebrown@dal.ca.
+AN  - 35183618
+AU  - Fertan, E.
+AU  - Brown, R. E.
+DA  - Apr 29
+DO  - 10.1016/j.bbr.2022.113806
+DP  - NLM
+ET  - 20220217
+KW  - *Alzheimer Disease
+Animals
+Disease Models, Animal
+*Memory, Short-Term
+Mice
+Mice, Transgenic
+Alzheimer's disease
+Hebb-Williams maze
+Long-term memoryAmyloid beta
+Motor deficits
+Mouse model
+Rotarod
+Working memory
+LA  - eng
+N1  - 1872-7549
+Fertan, Emre
+Brown, Richard E
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2022/02/21
+Behav Brain Res. 2022 Apr 29;424:113806. doi: 10.1016/j.bbr.2022.113806. Epub 2022 Feb 17.
+PY  - 2022
+SN  - 0166-4328
+SP  - 113806
+ST  - Age-related deficits in working memory in 5xFAD mice in the Hebb-Williams maze
+T2  - Behav Brain Res
+TI  - Age-related deficits in working memory in 5xFAD mice in the Hebb-Williams maze
+VL  - 424
+ID  - 51100
+ER  - 
+
+TY  - JOUR
+AB  - Traumatic brain injury (TBI) is a leading cause of acquired epilepsy referred to as post-traumatic epilepsy (PTE), characterized by spontaneous recurrent seizures (SRS) that start in the months or years following TBI. There is a critical need to develop small animal models for advancing the neurotherapeutics of PTE, which accounts for 20% of all acquired epilepsy cases. Despite many previous attempts, there are few PTE models with demonstrated consistency or longitudinal incidence of SRS, a critical feature for creating models for investigation of novel therapeutics for preventing PTE. Over the past few years, we have made in-depth updates and several advances to our mouse model of TBI in which SRS consistently occurs upon 24/7 monitoring for 4 months. Here, we show that an advanced cortical contusion damage in mice elicits a chronic state of PTE with SRS and robust epileptiform activity, along with cognitive comorbidities. We observed SRS in 33% and 87% of moderate and severe injury cohorts, respectively. Though incidence was higher in the severe cohort, moderate injury elicited a robust epileptogenesis. Progressive neuronal damage, neurodegeneration, and inflammation signals were evident in many brain regions; comorbid behavior and cognitive deficits were observed for up to 4-months. SRS onset was correlated with the inception of interneuron loss after TBI. Contralateral hippocampal sclerosis was unique and well correlated with SRS, confirming a potential network basis for epileptogenesis. Collectively, this mouse model exhibits a number of hallmark TBI sequelae reminiscent of human PTE. This model provides a vital tool for probing molecular pathological mechanisms and therapeutic interventions for post-traumatic epileptogenesis. SIGNIFICANCE STATEMENT: TBI is a leading cause of post-traumatic epilepsy (PTE). Despite many attempts to create PTE in animals, success has been limited due to a lack of consistent spontaneous "epileptic" seizures after TBI. We present a comprehensive phenotype of PTE after contusion brain injury in mice, which exhibits robust spontaneous seizures along with neuronal loss, inflammation, and cognitive dysfunction. Our broad profiling of a TBI mouse reveals features of progressive, long-lasting epileptic activity, unique contralateral hippocampal sclerosis, and comorbid mood and memory deficits. The PTE mouse shows a striking consistency in recapitulating major pathological sequelae of human PTE. This mouse model will be helpful in assessing mechanisms and interventions for TBI-induced epilepsy and mood dysfunction.
+AD  - Department of Neuroscience and Experimental Therapeutics, College of Medicine, Texas A&M University Health Science Center, Bryan, TX, USA.
+Department of Neuroscience and Experimental Therapeutics, College of Medicine, Texas A&M University Health Science Center, Bryan, TX, USA. Electronic address: sambareddy@tamu.edu.
+AN  - 34896334
+AU  - Golub, V. M.
+AU  - Reddy, D. S.
+DA  - Feb
+DO  - 10.1016/j.expneurol.2021.113946
+DP  - NLM
+ET  - 20211210
+KW  - Animals
+Brain Injuries, Traumatic/pathology/*physiopathology/psychology
+*Disease Models, Animal
+Electroencephalography/methods
+Epilepsy, Post-Traumatic/pathology/*physiopathology/psychology
+Hippocampus/pathology/*physiopathology
+Longitudinal Studies
+Male
+Maze Learning/physiology
+Mental Disorders/pathology/*physiopathology
+Mice
+Mice, 129 Strain
+Mice, Inbred C57BL
+Neurodegenerative Diseases/pathology/physiopathology/psychology
+Rotarod Performance Test/methods
+Sclerosis
+Brain injury
+Cci
+HFOs
+Hippocampus
+Microgliosis
+Post-traumatic epilepsy
+Seizure
+LA  - eng
+N1  - 1090-2430
+Golub, Victoria M
+Reddy, Doodipala Samba
+Journal Article
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+United States
+2021/12/14
+Exp Neurol. 2022 Feb;348:113946. doi: 10.1016/j.expneurol.2021.113946. Epub 2021 Dec 10.
+PY  - 2022
+SN  - 0014-4886
+SP  - 113946
+ST  - Contusion brain damage in mice for modelling of post-traumatic epilepsy with contralateral hippocampus sclerosis: Comprehensive and longitudinal characterization of spontaneous seizures, neuropathology, and neuropsychiatric comorbidities
+T2  - Exp Neurol
+TI  - Contusion brain damage in mice for modelling of post-traumatic epilepsy with contralateral hippocampus sclerosis: Comprehensive and longitudinal characterization of spontaneous seizures, neuropathology, and neuropsychiatric comorbidities
+VL  - 348
+ID  - 51110
+ER  - 
+
+TY  - JOUR
+AB  - Traumatic brain injury (TBI) results in a cascade of cellular responses, which produce neuroinflammation, partly due to the activation of microglia. Accurate identification of microglial populations is key to understanding therapeutic approaches that modify microglial responses to TBI and improve long-term outcome measures. Notably, previous studies often utilized an outdated convention to describe microglial phenotypes. We conducted a temporal analysis of the response to controlled cortical impact (CCI) in rat microglia between ipsilateral and contralateral hemispheres across seven time points, identified microglia through expression of activation markers including CD45, CD11b/c, and p2y12 receptor and evaluated their activation state using additional markers of CD32, CD86, RT1B, CD200R, and CD163. We identified unique sub-populations of microglial cells that express individual or combination of activation markers across time points. We further portrayed how the size of these sub-populations changes through time, corresponding to stages in TBI response. We described longitudinal changes in microglial population after CCI in two different locations using activation markers, showing clear separation into cellular sub-populations that feature different temporal patterns of markers after injury. These changes may aid in understanding the symptomatic progression following TBI and help define microglial subpopulations beyond the outdated M1/M2 paradigm.
+AD  - Center for Precision Health, School of Biomedical Informatics, University of Texas Health Science Center, Houston, TX, 77030, USA. Assaf.Gottlieb@uth.tmc.edu.
+Department of Pediatric Surgery, McGovern School of Medicine, University of Texas Health Science Center at Houston, 6431 Fannin St., Houston, TX, 77030, USA.
+Department of Pediatric Surgery, McGovern School of Medicine, University of Texas Health Science Center at Houston, 6431 Fannin St., Houston, TX, 77030, USA. Scott.D.Olson@uth.tmc.edu.
+AN  - 35428862
+AU  - Gottlieb, A.
+AU  - Toledano-Furman, N.
+AU  - Prabhakara, K. S.
+AU  - Kumar, A.
+AU  - Caplan, H. W.
+AU  - Bedi, S.
+AU  - Cox, C. S., Jr.
+AU  - Olson, S. D.
+C1  - The authors declare no competing interests.
+C2  - PMC9012748
+DA  - Apr 15
+DO  - 10.1038/s41598-022-10419-1
+DP  - NLM
+ET  - 20220415
+IS  - 1
+KW  - Animals
+Biomarkers/metabolism
+*Brain Injuries, Traumatic/metabolism
+Disease Models, Animal
+Mice
+Mice, Inbred C57BL
+*Microglia/metabolism
+Rats
+LA  - eng
+N1  - 2045-2322
+Gottlieb, Assaf
+Toledano-Furman, Naama
+Prabhakara, Karthik S
+Kumar, Akshita
+Caplan, Henry W
+Bedi, Supinder
+Cox, Charles S Jr
+Olson, Scott D
+R21 NS116302/NS/NINDS NIH HHS/United States
+GM0879201-11A/GM/NIGMS NIH HHS/United States
+R21NS116302/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+England
+2022/04/17
+Sci Rep. 2022 Apr 15;12(1):6289. doi: 10.1038/s41598-022-10419-1.
+PY  - 2022
+SN  - 2045-2322
+SP  - 6289
+ST  - Time dependent analysis of rat microglial surface markers in traumatic brain injury reveals dynamics of distinct cell subpopulations
+T2  - Sci Rep
+TI  - Time dependent analysis of rat microglial surface markers in traumatic brain injury reveals dynamics of distinct cell subpopulations
+VL  - 12
+ID  - 51140
+ER  - 
+
+TY  - JOUR
+AB  - Activity-dependent myelination can fine-tune neural network dynamics. Conversely, aberrant neuronal activity, as occurs in disorders of recurrent seizures (epilepsy), could promote maladaptive myelination, contributing to pathogenesis. In this study, we tested the hypothesis that activity-dependent myelination resulting from absence seizures, which manifest as frequent behavioral arrests with generalized electroencephalography (EEG) spike-wave discharges, promote thalamocortical network hypersynchrony and contribute to epilepsy progression. We found increased oligodendrogenesis and myelination specifically within the seizure network in two models of generalized epilepsy with absence seizures (Wag/Rij rats and Scn8a(+/mut) mice), evident only after epilepsy onset. Aberrant myelination was prevented by pharmacological seizure inhibition in Wag/Rij rats. Blocking activity-dependent myelination decreased seizure burden over time and reduced ictal synchrony as assessed by EEG coherence. These findings indicate that activity-dependent myelination driven by absence seizures contributes to epilepsy progression; maladaptive myelination may be pathogenic in some forms of epilepsy and other neurological diseases.
+AD  - Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA. Jkk1@stanford.edu.
+Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA.
+Ph.D. Program in Human Biology, School of Integrative and Global Majors, University of Tsukuba, Tsukuba, Japan.
+Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA. john.huguenard@stanford.edu.
+Department of Neurology and Neurological Sciences, Stanford University, Stanford, CA, USA. mmonje@stanford.edu.
+Howard Hughes Medical Institute, Stanford University, Stanford, CA, USA. mmonje@stanford.edu.
+AN  - 35501379
+AU  - Knowles, J. K.
+AU  - Xu, H.
+AU  - Soane, C.
+AU  - Batra, A.
+AU  - Saucedo, T.
+AU  - Frost, E.
+AU  - Tam, L. T.
+AU  - Fraga, D.
+AU  - Ni, L.
+AU  - Villar, K.
+AU  - Talmi, S.
+AU  - Huguenard, J. R.
+AU  - Monje, M.
+C1  - M.M. is on the Scientific Advisory Board of Cygnal Therapeutics. The authors declare no other competing interests.
+C2  - PMC9076538
+DA  - May
+DO  - 10.1038/s41593-022-01052-2
+DP  - NLM
+ET  - 20220502
+IS  - 5
+KW  - Animals
+Disease Models, Animal
+Electroencephalography
+*Epilepsy, Absence
+*Epilepsy, Generalized/genetics
+Mice
+NAV1.6 Voltage-Gated Sodium Channel
+Rats
+Rats, Wistar
+Seizures
+LA  - eng
+N1  - 1546-1726
+Knowles, Juliet K
+Orcid: 0000-0002-9214-2991
+Xu, Haojun
+Soane, Caroline
+Batra, Ankita
+Saucedo, Tristan
+Frost, Eleanor
+Tam, Lydia T
+Orcid: 0000-0002-9900-3249
+Fraga, Danielle
+Ni, Lijun
+Villar, Katlin
+Talmi, Sydney
+Orcid: 0000-0002-9711-5650
+Huguenard, John R
+Orcid: 0000-0002-6950-1191
+Monje, Michelle
+Orcid: 0000-0002-3547-237x
+DP1 NS111132/NS/NINDS NIH HHS/United States
+R01 NS092597/NS/NINDS NIH HHS/United States
+HHMI/Howard Hughes Medical Institute/United States
+R01 NS034774/NS/NINDS NIH HHS/United States
+K08 NS119800/NS/NINDS NIH HHS/United States
+K12 NS098482/NS/NINDS NIH HHS/United States
+R01 NS117150/NS/NINDS NIH HHS/United States
+CRUK_/Cancer Research UK/United Kingdom
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2022/05/03
+Nat Neurosci. 2022 May;25(5):596-606. doi: 10.1038/s41593-022-01052-2. Epub 2022 May 2.
+PY  - 2022
+SN  - 1097-6256 (Print)
+1097-6256
+SP  - 596-606
+ST  - Maladaptive myelination promotes generalized epilepsy progression
+T2  - Nat Neurosci
+TI  - Maladaptive myelination promotes generalized epilepsy progression
+VL  - 25
+ID  - 51092
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) is associated with senile plaques of beta-amyloid (Aβ) that affect the function of neurons and astrocytes. Brain activity results from the coordinated function of neurons and astrocytes in astroglial-neuronal networks. However, the effects of Aβ on astroglial and neuronal network function remains unknown. Simultaneously monitoring astrocyte calcium and electric neuronal activities, we quantified the impact of Aβ on sensory-evoked cortical activity in a mouse model of AD. At rest, cortical astrocytes displayed spontaneous hyperactivity that was related to Aβ density. Sensory-evoked astrocyte responsiveness was diminished in AD mice, depending on the density and distance of Aβ, and the responses showed altered calcium dynamics. Hence, astrocytes were spontaneously hyperactive but hypo-responsive to sensory stimulation. Finally, AD mice showed sensory-evoked electrical cortical hyperresponsiveness associated with altered astrocyte-neuronal network interplay. Our findings suggest dysfunction of astrocyte networks in AD mice may dysregulate cortical electrical activity and contribute to cognitive decline.
+AD  - Department of Neuroscience, University of Minnesota, Minneapolis, Minnesota, USA.
+Instituto Cajal, CSIC, Madrid, Spain.
+Experimental Neurophysiology and Neuronal Circuits, Hospital Nacional de Parapléjicos, SESCAM, Toledo, Spain.
+AN  - 34726298
+AU  - Lines, J.
+AU  - Baraibar, A. M.
+AU  - Fang, C.
+AU  - Martin, E. D.
+AU  - Aguilar, J.
+AU  - Lee, M. K.
+AU  - Araque, A.
+AU  - Kofuji, P.
+C1  - Conflict of Interests The authors declare no competing interests.
+C2  - PMC8665078
+C6  - NIHMS1751218
+DA  - Feb
+DO  - 10.1002/glia.24112
+DP  - NLM
+ET  - 20211102
+IS  - 2
+KW  - *Alzheimer Disease
+Amyloid beta-Peptides/pharmacology
+Animals
+Astrocytes
+Disease Models, Animal
+Mice
+Mice, Transgenic
+Neurons
+Plaque, Amyloid
+App/ps1
+Alzheimer's disease
+astrocyte
+astrogliosis
+beta amyloid
+cortex
+LA  - eng
+N1  - 1098-1136
+Lines, Justin
+Orcid: 0000-0002-5316-3933
+Baraibar, Andrés M
+Fang, Cenxiao
+Martin, Eduardo D
+Orcid: 0000-0003-1768-3488
+Aguilar, Juan
+Lee, Michael K
+Araque, Alfonso
+Orcid: 0000-0003-3840-1144
+Kofuji, Paulo
+Orcid: 0000-0002-4840-9986
+R01 MH119355/MH/NIMH NIH HHS/United States
+F31 AG057155/AG/NIA NIH HHS/United States
+RF1 AG062135/AG/NIA NIH HHS/United States
+R01 DA048822/DA/NIDA NIH HHS/United States
+R01 NS097312/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2021/11/03
+Glia. 2022 Feb;70(2):368-378. doi: 10.1002/glia.24112. Epub 2021 Nov 2.
+PY  - 2022
+SN  - 0894-1491 (Print)
+0894-1491
+SP  - 368-378
+ST  - Astrocyte-neuronal network interplay is disrupted in Alzheimer's disease mice
+T2  - Glia
+TI  - Astrocyte-neuronal network interplay is disrupted in Alzheimer's disease mice
+VL  - 70
+ID  - 51120
+ER  - 
+
+TY  - JOUR
+AB  - Although Alzheimer's disease is most often studied in terms of memory impairments, olfactory dysfunction begins in the early stages. We tested olfactory learning, sensitivity, and response bias using signal detection methods in 12-month-old male and female 5xFAD mice and their wildtype controls in the operant olfactometer. Odor detection was not reduced in the 5xFAD mice, but learning was, which was worse in female 5xFAD mice than in males. Female mice were more conservative in their response strategy. Signal detection analysis allows us to discriminate between cognitive and sensory deficits of male and female mouse models of AD.
+AD  - Department of Psychology and Neuroscience, Dalhousie University, Halifax, NS, Canada.
+AN  - 35599484
+AU  - Roddick, K. M.
+AU  - Fertan, E.
+AU  - Schellinck, H. M.
+AU  - Brown, R. E.
+DO  - 10.3233/jad-220049
+DP  - NLM
+IS  - 1
+KW  - *Alzheimer Disease/psychology
+Animals
+Disease Models, Animal
+Female
+Male
+Mice
+Mice, Transgenic
+*Signal Detection, Psychological
+Smell
+Accuracy
+Alzheimer model mice
+false alarms
+olfactory learning
+response bias
+sensitivity
+signal detection
+LA  - eng
+N1  - 1875-8908
+Roddick, Kyle M
+Fertan, Emre
+Schellinck, Heather M
+Brown, Richard E
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2022/05/24
+J Alzheimers Dis. 2022;88(1):37-44. doi: 10.3233/JAD-220049.
+PY  - 2022
+SN  - 1387-2877
+SP  - 37-44
+ST  - A Signal Detection Analysis of Olfactory Learning in 12-Month-Old 5xFAD Mice
+T2  - J Alzheimers Dis
+TI  - A Signal Detection Analysis of Olfactory Learning in 12-Month-Old 5xFAD Mice
+VL  - 88
+ID  - 51109
+ER  - 
+
+TY  - JOUR
+AB  - Huntington disease (HD), a hereditary neurodegenerative disorder, manifests as progressively impaired movement and cognition. Although early abnormalities of neuronal activity in striatum are well established in HD models, there are fewer in vivo studies of the cortex. Here, we record local field potentials (LFPs) in YAC128 HD model mice versus wild-type mice. In multiple cortical areas, limb sensory stimulation evokes a greater change in LFP power in YAC128 mice. Mesoscopic imaging using voltage-sensitive dyes reveals more extensive spread of evoked sensory signals across the cortical surface in YAC128 mice. YAC128 layer 2/3 sensory cortical neurons ex vivo show increased excitatory events, which could contribute to enhanced sensory responses in vivo. Cortical LFP responses to limb stimulation, visual and auditory input are also significantly increased in zQ175 HD mice. Results presented here extend knowledge of HD beyond ex vivo studies of individual neurons to the intact cortical network.
+AD  - Department of Psychiatry and Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC V6T1Z3, Canada.
+Canadian Center for Behavioural Neuroscience, University of Lethbridge, Lethbridge T1K 3M4, Canada.
+Department of Psychiatry, University of Alberta, Edmonton, AB, Canada.
+Department of Psychiatry and Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BC V6T1Z3, Canada. Electronic address: lynn.raymond@ubc.ca.
+AN  - 35460870
+AU  - Sepers, M. D.
+AU  - Mackay, J. P.
+AU  - Koch, E.
+AU  - Xiao, D.
+AU  - Mohajerani, M. H.
+AU  - Chan, A. W.
+AU  - Smith-Dijak, A. I.
+AU  - Ramandi, D.
+AU  - Murphy, T. H.
+AU  - Raymond, L. A.
+DA  - Jul
+DO  - 10.1016/j.nbd.2022.105740
+DP  - NLM
+ET  - 20220420
+KW  - Animals
+Corpus Striatum
+Disease Models, Animal
+*Huntington Disease
+Mice
+Mice, Transgenic
+Neurons/physiology
+Cortex
+Electrophysiology
+Huntington disease
+In vivo
+Mesoscopic imaging
+Mouse model
+Nmda
+Sensory input
+LA  - eng
+N1  - 1095-953x
+Sepers, Marja D
+Mackay, James P
+Koch, Ellen
+Xiao, Dongsheng
+Mohajerani, Majid H
+Chan, Allen W
+Smith-Dijak, Amy I
+Ramandi, Daniel
+Murphy, Timothy H
+Raymond, Lynn A
+FDN 143210/CIHR/Canada
+FDN 143209/CIHR/Canada
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2022/04/24
+Neurobiol Dis. 2022 Jul;169:105740. doi: 10.1016/j.nbd.2022.105740. Epub 2022 Apr 20.
+PY  - 2022
+SN  - 0969-9961
+SP  - 105740
+ST  - Altered cortical processing of sensory input in Huntington disease mouse models
+T2  - Neurobiol Dis
+TI  - Altered cortical processing of sensory input in Huntington disease mouse models
+VL  - 169
+ID  - 51115
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease is the most frequent form of dementia in elderly people. The triple transgenic (3xTg-AD) mouse model of Alzheimer's Disease is important in biomedical research as these mice develop both neuropathological and behavioural phenotypes. However, their behavioural phenotype is variable, with findings depending on the specific task, as well as the age and sex of the mice. Whisker movements show motor, sensory and cognitive deficits in mouse models of neurodegenerative disease. Therefore, we examined whisker movements in 3, 12.5 and 17-month-old female 3xTg-AD mice and their B6129S/F2 wildtype controls. Mice were filmed using a high-speed video camera (500 fps) in an open arena during a novel object exploration task. Genotype and age differences were found in mice exploring the arena prior to object contact. Prior to whisker contact, the 3-month-old 3xTg-AD mice had smaller whisker angles compared with the wildtype controls, suggesting an early motor phenotype in these mice. Pre-contact mean angular position at 3 months and whisking amplitude at 17 months of age differed between the 3xTg-AD and wildtype mice. During object contact 3xTg-AD mice did not reduce whisker spread as frequently as the wildtype mice at 12.5 and 17 months, which may suggest sensory or attentional deficits. We show that whisker movements are a powerful behavioural measurement tool for capturing behavioural deficits in mouse models that show complex phenotypes, such as the 3xTg-AD mouse model.
+AD  - Department of Natural Sciences, Manchester Metropolitan University, Manchester, UK.
+Department of Psychology and Neuroscience, Dalhousie University, Halifax, Nova Scotia, Canada.
+AN  - 35733405
+AU  - Simanaviciute, U.
+AU  - Brown, R. E.
+AU  - Wong, A.
+AU  - Fertan, E.
+AU  - Grant, R. A.
+C2  - PMC9744487
+DA  - Nov
+DO  - 10.1111/gbb.12813
+DP  - NLM
+ET  - 20220622
+IS  - 8
+KW  - Mice
+Female
+Animals
+*Alzheimer Disease/genetics/psychology
+Mice, Transgenic
+Vibrissae
+*Neurodegenerative Diseases
+Disease Models, Animal
+Mice, Inbred C57BL
+Alzheimer's
+animal behaviour
+disease model
+mouse model
+neurodegeneration
+rodent
+sensorimotor
+transgenic
+whisker
+LA  - eng
+N1  - 1601-183x
+Simanaviciute, Ugne
+Orcid: 0000-0001-9290-8101
+Brown, Richard E
+Wong, Aimee
+Fertan, Emre
+Grant, Robyn A
+Orcid: 0000-0002-3968-8370
+Journal Article
+Research Support, Non-U.S. Gov't
+England
+2022/06/24
+Genes Brain Behav. 2022 Nov;21(8):e12813. doi: 10.1111/gbb.12813. Epub 2022 Jun 22.
+PY  - 2022
+SN  - 1601-1848 (Print)
+1601-183x
+SP  - e12813
+ST  - Abnormal whisker movements in the 3xTg-AD mouse model of Alzheimer's disease
+T2  - Genes Brain Behav
+TI  - Abnormal whisker movements in the 3xTg-AD mouse model of Alzheimer's disease
+VL  - 21
+ID  - 51098
+ER  - 
+
+TY  - JOUR
+AB  - Depression is a mental disorder affecting more than 300 million people in the world. Abnormalities in white matter are associated with the development of depression. Here, the authors show that mice with oligodendrocyte-specific deletion of Nerve injury-induced protein 2 （Ninj2) exhibit depressive-like behaviors. Loss of Ninj2 in oligodendrocytes inhibits oligodendrocyte development and myelination, and impairs neuronal structure and activities. Ninj2 competitively inhibits TNFα/TNFR1 signaling pathway by directly binding to TNFR1 in oligodendrocytes. Loss of Ninj2 activates TNFα-induced necroptosis, and increases C-C Motif Chemokine Ligand 2 (Ccl2) production, which might mediate the signal transduction from oligodendrocyte to neurons. Inhibition of necroptosis by Nec-1s administration synchronously restores oligodendrocyte development, improves neuronal excitability, and alleviates depressive-like behaviors. This study thus illustrates the role of Ninj2 in the development of depression and myelination, reveals the relationship between oligodendrocytes and neurons, and provides a potential therapeutic target for depression.
+AD  - State Key Laboratory of Cellular Stress Biology, School of Life Sciences, Xiamen University, Xiamen, Fujian, 361005, China.
+Shanghai Key Laboratory of Metabolic Remodeling and Health, Institute of Metabolism and Integrative Biology, Zhongshan Hospital, Fudan University, Shanghai, 200438, China.
+Department of Endocrinology and Diabetes, The First Affiliated Hospital of Xiamen University, Fujian Province Key Laboratory of Diabetes Translational Medicine, Xiamen, Fujian, 361101, China.
+AN  - 34787377
+AU  - Sun, Y.
+AU  - Chen, X.
+AU  - Ou, Z.
+AU  - Wang, Y.
+AU  - Chen, W.
+AU  - Zhao, T.
+AU  - Liu, C.
+AU  - Chen, Y.
+C1  - The authors declare no conflict of interest.
+C2  - PMC8787401
+DA  - Jan
+DO  - 10.1002/advs.202103065
+DP  - NLM
+ET  - 20211117
+IS  - 3
+KW  - Animals
+Cell Adhesion Molecules, Neuronal/*metabolism
+Demyelinating Diseases/*complications/*metabolism/psychology
+Depressive Disorder/*complications/*metabolism/psychology
+Disease Models, Animal
+Mice
+Mice, Knockout
+Oligodendroglia/*metabolism
+Rats
+Rats, Sprague-Dawley
+Signal Transduction
+Ninj2
+depression
+necroptosis
+oligodendrocytes
+LA  - eng
+N1  - 2198-3844
+Sun, Yuxia
+Chen, Xiang
+Ou, Zhimin
+Wang, Yue
+Chen, Wenjing
+Zhao, Tongjin
+Liu, Changqin
+Chen, Ying
+Orcid: 0000-0001-5675-1928
+31771122/National Natural Science Foundation of China/
+32070966/National Natural Science Foundation of China/
+81870611/National Natural Science Foundation of China/
+Journal Article
+Research Support, Non-U.S. Gov't
+Germany
+2021/11/18
+Adv Sci (Weinh). 2022 Jan;9(3):e2103065. doi: 10.1002/advs.202103065. Epub 2021 Nov 17.
+PY  - 2022
+SN  - 2198-3844
+SP  - e2103065
+ST  - Dysmyelination by Oligodendrocyte-Specific Ablation of Ninj2 Contributes to Depressive-Like Behaviors
+T2  - Adv Sci (Weinh)
+TI  - Dysmyelination by Oligodendrocyte-Specific Ablation of Ninj2 Contributes to Depressive-Like Behaviors
+VL  - 9
+ID  - 51116
+ER  - 
+
+TY  - JOUR
+AB  - AIMS: To investigate the regulation and functional role of Gnao1 in the brain of diabetic encephalopathy (DE) in various animal models. RESULTS: Data from the biochemical and behavioral studies showed that DE models were successful induced in streptozotocin treatment animals and KK-Ay mice. Gnao1 was down regulated in the brain tissues of these two diabetes animal models with significant cognition deficiency. It suggested that the changes in DE are also related to dementia such as Alzheimer's disease (AD). Our study also showed that the expression of adrenergic α2 receptor (Adr-α2R), the upstream protein of Gnao1, was decreased in DE animal models. Furthermore, many downstream proteins of Gnao1 also altered, among which cAMP and PKA proteins were increased, CREB and BDNF proteins were decreased both in animal models and in the cell levels. In addition, Gnao1 silencing leads to the increase of reactive oxygen species (ROS) and the decreased proliferation in cultured primary astrocytes, which means that the deficiency of Gnao1 might not be benefit for DE. CONCLUSION: Our findings demonstrated the importance of Gnao1 in DE and suggested Gnao1 as a novel marker and a promising therapeutic target for DE and dementia in animal models.
+AD  - State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, Department of Pharmacology, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.
+State Key Laboratory of Bioactive Substances and Functions of Natural Medicines, Department of Pharmacology, Institute of Materia Medica, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China. Electronic address: wangxl@imm.ac.cn.
+AN  - 35839930
+AU  - Xu, S.
+AU  - Yu, W.
+AU  - Zhang, X.
+AU  - Wang, W.
+AU  - Wang, X.
+DA  - Oct 1
+DO  - 10.1016/j.brainres.2022.148012
+DP  - NLM
+ET  - 20220712
+KW  - Animals
+Mice
+Rats
+*Brain Diseases
+*Dementia
+*Diabetes Mellitus, Experimental/metabolism
+GTP-Binding Protein alpha Subunits, Gi-Go/metabolism
+Streptozocin
+Creb
+Diabetic encephalopathy
+Gi protein
+Gnao1
+Type 2 diabetes mellitus
+cAMP
+LA  - eng
+N1  - 1872-6240
+Xu, Shuhong
+Yu, Wenwen
+Zhang, Xiang
+Wang, Weiping
+Wang, Xiaoliang
+Journal Article
+Netherlands
+2022/07/16
+Brain Res. 2022 Oct 1;1792:148012. doi: 10.1016/j.brainres.2022.148012. Epub 2022 Jul 12.
+PY  - 2022
+SN  - 0006-8993
+SP  - 148012
+ST  - The regulatory role of Gnao1 protein in diabetic encephalopathy in KK-Ay mice and streptozotocin-induced diabetic rats
+T2  - Brain Res
+TI  - The regulatory role of Gnao1 protein in diabetic encephalopathy in KK-Ay mice and streptozotocin-induced diabetic rats
+VL  - 1792
+ID  - 51099
+ER  - 
+
+TY  - JOUR
+AB  - The analysis of mouse behavior is used in biomedical research to study brain function in health and disease. Well-established rapid assays allow for high-throughput analyses of behavior but have several drawbacks, including measurements of daytime behaviors in nocturnal animals, effects of animal handling, and the lack of an acclimation period in the testing apparatus. We developed a novel 8-cage imaging system, with animated visual stimuli, for automated analyses of mouse behavior in 22-h overnight recordings. Software for image analysis was developed in two open-source programs, ImageJ and DeepLabCut. The imaging system was tested using 4-5 month-old female wild-type mice and 3xTg-AD mice, a widely-used model to study Alzheimer's disease (AD). The overnight recordings provided measurements of multiple behaviors including acclimation to the novel cage environment, day and nighttime activity, stretch-attend postures, location in various cage areas, and habituation to animated visual stimuli. The behavioral profiles were different in wild-type and 3xTg-AD mice. AD-model mice displayed reduced acclimation to the novel cage environment, were hyperactive during the first hour of darkness, and spent less time at home in comparison to wild-type mice. We propose that the imaging system may be used to study various neurological and neurodegenerative disorders, including Alzheimer's disease.
+AD  - Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, Providence, RI, USA.
+Department of Molecular Biology, Cell Biology and Biochemistry, Brown University, Providence, RI, USA. Robbert_Creton@brown.edu.
+AN  - 37208415
+AU  - Del Rosario Hernández, T.
+AU  - Joshi, N. R.
+AU  - Gore, S. V.
+AU  - Kreiling, J. A.
+AU  - Creton, R.
+C1  - The authors declare no competing interests.
+C2  - PMC10199054
+DA  - May 19
+DO  - 10.1038/s41598-023-35322-1
+DP  - NLM
+ET  - 20230519
+IS  - 1
+KW  - Mice
+Animals
+Female
+*Alzheimer Disease/diagnostic imaging
+Mice, Transgenic
+Motor Activity
+Behavior, Animal
+Software
+Disease Models, Animal
+Mice, Inbred C57BL
+LA  - eng
+N1  - 2045-2322
+Del Rosario Hernández, Thaís
+Joshi, Narendra R
+Gore, Sayali V
+Kreiling, Jill A
+Creton, Robbert
+R01 GM136906/GM/NIGMS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+England
+2023/05/20
+Sci Rep. 2023 May 19;13(1):8113. doi: 10.1038/s41598-023-35322-1.
+PY  - 2023
+SN  - 2045-2322
+SP  - 8113
+ST  - An 8-cage imaging system for automated analyses of mouse behavior
+T2  - Sci Rep
+TI  - An 8-cage imaging system for automated analyses of mouse behavior
+VL  - 13
+ID  - 51097
+ER  - 
+
+TY  - JOUR
+AB  - Tauopathies, including frontotemporal dementia (FTD) and Alzheimer's disease (AD), clinically present with progressive cognitive decline and the deposition of neurofibrillary tangles (NFTs) in the brain. Neurovascular compromise is also prevalent in AD and FTD however the relationship between tau and the neurovascular unit is less understood relative to other degenerative phenotypes. Current animal models confer the ability to recapitulate aspects of the CNS tauopathies, however, existing models either display overaggressive phenotypes, or do not develop neuronal loss or genuine neurofibrillary lesions. In this report, we communicate the longitudinal characterization of brain tauopathy in a novel transgenic rat model, coded McGill-R955-hTau. The model expresses the longest isoform of human P301S tau. Homozygous R955-hTau rats displayed a robust, progressive accumulation of mutated human tau leading to the detection of tau hyperphosphorylation and cognitive deficits accelerating from 14 months of age. This model features extensive tau hyperphosphorylation with endogenous tau recruitment, authentic neurofibrillary lesions, and tau-associated neuronal loss, ventricular dilation, decreased brain volume, and gliosis in aged rats. Further, we demonstrate how neurovascular integrity becomes compromised at aged life stages using a combination of electron microscopy, injection of the tracer horseradish peroxidase and immunohistochemical approaches.
+AD  - Department of Pharmacology & Therapeutics, McGill University, Montreal H3G1Y6, Canada.
+Department of Biochemistry, McGill University, Montreal H3A 0C7, Canada.
+Integrated Program in Neuroscience, McGill University, Montreal H3A 1A1, Canada.
+Department of Anatomy and Cell Biology, McGill University, Montreal H3A 0C7, Canada.
+Department of Pharmacology & Therapeutics, McGill University, Montreal H3G1Y6, Canada; Integrated Program in Neuroscience, McGill University, Montreal H3A 1A1, Canada; Department of Pharmacology, Oxford University, Oxford OX13QT, UK. Electronic address: claudio.cuello@mcgill.ca.
+AN  - 37454780
+AU  - Emmerson, J. T.
+AU  - Do Carmo, S.
+AU  - Liu, Y.
+AU  - Shalhoub, A.
+AU  - Liu, A.
+AU  - Bonomo, Q.
+AU  - Malcolm, J. C.
+AU  - Breuillaud, L.
+AU  - Cuello, A. C.
+C1  - Declaration of Competing Interest The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+DA  - Aug
+DO  - 10.1016/j.nbd.2023.106227
+DP  - NLM
+ET  - 20230716
+KW  - Mice
+Humans
+Rats
+Animals
+Aged
+Rats, Transgenic
+tau Proteins/genetics
+*Frontotemporal Dementia/pathology
+Mice, Transgenic
+*Tauopathies/pathology
+*Alzheimer Disease/pathology
+Neurofibrillary Tangles/pathology
+*Pick Disease of the Brain
+Disease Models, Animal
+human tauopathy
+neurofibrillary tangles
+neurovascular compromise
+transgenic rat model
+LA  - eng
+N1  - 1095-953x
+Emmerson, Joshua T
+Do Carmo, Sonia
+Liu, Yingying
+Shalhoub, Ali
+Liu, Ai
+Bonomo, Quentin
+Malcolm, Janice C
+Breuillaud, Lionel
+Cuello, A Claudio
+CIHR/Canada
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2023/07/17
+Neurobiol Dis. 2023 Aug;184:106227. doi: 10.1016/j.nbd.2023.106227. Epub 2023 Jul 16.
+PY  - 2023
+SN  - 0969-9961
+SP  - 106227
+ST  - Progressive human-like tauopathy with downstream neurodegeneration and neurovascular compromise in a transgenic rat model
+T2  - Neurobiol Dis
+TI  - Progressive human-like tauopathy with downstream neurodegeneration and neurovascular compromise in a transgenic rat model
+VL  - 184
+ID  - 51112
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) exerts a tremendous socio-economic burden worldwide. Although reduced cerebral blood flow is an early and persistent symptom that precedes the loss of cognitive function in AD, the underlying molecular and cellular mechanisms remain unclear. The present study investigated whether capillary endothelial inward rectifier potassium 2 (Kir2.1) expression is reduced in TgF344-AD (AD) rats and contributes to neurovascular uncoupling and cognitive deficits in AD. Three- to fourteen-month-old AD rats expressing mutant human APP and PS1 and age-matched wild-type (WT) F344 rats were studied. AD rats exhibited higher amyloid beta (Aβ) expression in the brain as early as 3 months of age and amyloid plaques by 4 months of age. Functional hyperemic responses induced by whisker stimulation were impaired at 4 months of age, which were exacerbated in 6-month- and 14-month-old AD rats. The expression of Kir2.1 protein was significantly lower in the brains of 6-month-old AD versus WT rats, and Kir2.1 coverage was lower in the cerebral microvasculature of AD than in WT rats. Aβ1-42 reduced the Kir2.1 expression in cultured capillary endothelial cells. Cerebral parenchymal arterioles with attached capillaries exhibited a reduced vasodilator in response to 10 mM K(+) applied to capillaries, and constricted less following administration of a Kir2.1 channel blocker, compared to WT vessels. These results indicate that capillary endothelial Kir2.1 expression is reduced and contributes to impaired functional hyperemia in AD rats at early ages, perhaps secondary to elevated Aβ expression.
+AD  - Department of Pharmacology and Toxicology, University of Mississippi Medical Center, 2500 North State Street, Jackson, MS, 39216, USA.
+Department of Physiology, Medical College of Georgia, Augusta University, 1462 Laney Walker Blvd, Augusta, GA, 30912, USA. FFan@augusta.edu.
+Department of Pharmacology and Toxicology, University of Mississippi Medical Center, 2500 North State Street, Jackson, MS, 39216, USA. rroman@umc.edu.
+AN  - 37326915
+AU  - Fang, X.
+AU  - Border, J. J.
+AU  - Rivers, P. L.
+AU  - Zhang, H.
+AU  - Williams, J. M.
+AU  - Fan, F.
+AU  - Roman, R. J.
+C1  - The authors declare no competing interests.
+C2  - PMC10643802
+DA  - Oct
+DO  - 10.1007/s11357-023-00841-2
+DP  - NLM
+ET  - 20230616
+IS  - 5
+KW  - Mice
+Rats
+Humans
+Animals
+*Alzheimer Disease
+Amyloid beta-Peptides/metabolism
+Amyloid beta-Protein Precursor/metabolism
+Capillaries/metabolism
+Endothelial Cells
+Mice, Transgenic
+Rats, Inbred F344
+Alzheimer’s disease
+Brain hypoperfusion
+Cognitive impairment
+Kir2.1
+Neurovascular coupling
+LA  - eng
+N1  - 2509-2723
+Fang, Xing
+Border, Jane J
+Rivers, Patrice L
+Zhang, Huawei
+Williams, Jan Michael
+Fan, Fan
+Roman, Richard J
+Orcid: 0000-0002-5581-0217
+R01 AG057842/AG/NIA NIH HHS/United States
+R01 HL138685/HL/NHLBI NIH HHS/United States
+RF1 AG079336/AG/NIA NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Switzerland
+2023/06/16
+Geroscience. 2023 Oct;45(5):2909-2926. doi: 10.1007/s11357-023-00841-2. Epub 2023 Jun 16.
+PY  - 2023
+SN  - 2509-2715 (Print)
+2509-2723
+SP  - 2909-2926
+ST  - Amyloid beta accumulation in TgF344-AD rats is associated with reduced cerebral capillary endothelial Kir2.1 expression and neurovascular uncoupling
+T2  - Geroscience
+TI  - Amyloid beta accumulation in TgF344-AD rats is associated with reduced cerebral capillary endothelial Kir2.1 expression and neurovascular uncoupling
+VL  - 45
+ID  - 51102
+ER  - 
+
+TY  - JOUR
+AB  - Our previous work has established a knockin (KI) pig model of Huntington's disease (HD) that can replicate the typical pathological features of HD, including selective striatal neuronal loss, reactive gliosis, and axonal degeneration. However, HD KI mice exhibit milder neuropathological phenotypes and lack overt neurodegeneration. By performing RNA sequencing to compare the gene expression profiles between HD KI pigs and mice, we find that genes related to interleukin-17 (IL-17) signaling are upregulated in the HD pig brains compared to the mouse brains. Delivery of IL-17 into the brain striatum of HD KI mice causes greater reactive gliosis and synaptic deficiency compared to HD KI mice that received PBS. These findings suggest that the upregulation of genes related to IL-17 signaling in HD pig brains contributes to severe glial pathology in HD and identify this as a potential therapeutic target for treating HD.
+AD  - Guangdong Key Laboratory of Non-human Primate Research, Key Laboratory of CNS Regeneration (Ministry of Education), Guangdong-Hongkong-Macau Institute of CNS Regeneration, Jinan University, Guangzhou 510632, China.
+Guangdong Key Laboratory of Non-human Primate Research, Key Laboratory of CNS Regeneration (Ministry of Education), Guangdong-Hongkong-Macau Institute of CNS Regeneration, Jinan University, Guangzhou 510632, China; Department of Neurology, Affiliated Hospital of North Sichuan Medical College, Institute of Neurological Diseases, North Sichuan Medical College, Nanchong 637000, China.
+The Second Affiliated Hospital, The State Key Laboratory of Respiratory Disease, Guangdong Provincial Key Laboratory of Allergy and Clinical Immunology, Guangzhou Medical University, Guangzhou 510260, China.
+School of Basic Medical Sciences, Guangzhou Medical University, Guangzhou 510260, China.
+Guangdong Key Laboratory of Non-human Primate Research, Key Laboratory of CNS Regeneration (Ministry of Education), Guangdong-Hongkong-Macau Institute of CNS Regeneration, Jinan University, Guangzhou 510632, China. Electronic address: 231yansen@163.com.
+Guangdong Key Laboratory of Non-human Primate Research, Key Laboratory of CNS Regeneration (Ministry of Education), Guangdong-Hongkong-Macau Institute of CNS Regeneration, Jinan University, Guangzhou 510632, China. Electronic address: lishihuaLIS@jnu.edu.cn.
+Guangdong Key Laboratory of Non-human Primate Research, Key Laboratory of CNS Regeneration (Ministry of Education), Guangdong-Hongkong-Macau Institute of CNS Regeneration, Jinan University, Guangzhou 510632, China. Electronic address: xjli33@jnu.edu.cn.
+Guangdong Key Laboratory of Non-human Primate Research, Key Laboratory of CNS Regeneration (Ministry of Education), Guangdong-Hongkong-Macau Institute of CNS Regeneration, Jinan University, Guangzhou 510632, China. Electronic address: yinpeng177@163.com.
+AN  - 37979175
+AU  - Jia, Q.
+AU  - Bai, D.
+AU  - Zheng, X.
+AU  - Zhu, L.
+AU  - Ou, K.
+AU  - Wang, X.
+AU  - Tong, H.
+AU  - Zhang, Y.
+AU  - Wang, J.
+AU  - Zeng, J.
+AU  - Yan, S.
+AU  - Li, S.
+AU  - Li, X. J.
+AU  - Yin, P.
+C1  - Declaration of interests The authors declare no competing interests.
+DA  - Dec 26
+DO  - 10.1016/j.celrep.2023.113443
+DP  - NLM
+ET  - 20231120
+IS  - 12
+KW  - Animals
+Mice
+Corpus Striatum/metabolism
+Disease Models, Animal
+Gliosis/pathology
+*Huntington Disease/metabolism
+Interleukin-17/genetics/metabolism
+Mice, Transgenic
+Neurons/metabolism
+Swine
+CP: Immunology
+CP: Neuroscience
+Huntington's disease
+animal models
+glial pathology
+interleukin-17
+LA  - eng
+N1  - 2211-1247
+Jia, Qingqing
+Bai, Dazhang
+Zheng, Xiao
+Zhu, Longhong
+Ou, Kaili
+Wang, Xiang
+Tong, Huichun
+Zhang, Yiran
+Wang, Jing
+Zeng, Jun
+Yan, Sen
+Li, Shihua
+Li, Xiao-Jiang
+Yin, Peng
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2023/11/18 22:52
+Cell Rep. 2023 Dec 26;42(12):113443. doi: 10.1016/j.celrep.2023.113443. Epub 2023 Nov 20.
+PY  - 2023
+SP  - 113443
+ST  - Comparing HD knockin pigs and mice reveals the pathological role of IL-17
+T2  - Cell Rep
+TI  - Comparing HD knockin pigs and mice reveals the pathological role of IL-17
+VL  - 42
+ID  - 51096
+ER  - 
+
+TY  - JOUR
+AB  - Methylated CpG binding protein 2 (MeCP2) plays an important role in the development and normal function of the neural system. Abnormally high expression of MECP2 leads to a subtype of autism called MECP2 duplication syndrome and MECP2 is considered one of the key pathogenic genes for autism spectrum disorders. However, the effect of MECP2 overexpression on neural activity is still not fully understood. Thus, transgenic (TG) animals that abnormally overexpress MeCP2 are important disease models in research on neurological function and autism. To create an animal model with a stronger and more stable autism phenotype, this study established a human MECP2 TG rat model and evaluated its movement ability, anxiety, and social behavior through behavioral tests. The results showed that MECP2 TG rats had an abnormally increased anxiety phenotype and social deficits in terms of abnormal social approach and social novelty preference, but no movement disorder. These autism-like behavioral phenotypes suggest that human MECP2 TG rats are suitable models for studying autism as they show more severe social deficit phenotypes and without interference from movement disorders affecting other phenotypes, which is an issue for mouse models with MECP2 duplication. In addition, this study performed preliminary exploration of the influence of the human MECP2 transgene on neural oscillation stability of the medial prefrontal cortex (mPFC), which is an important brain region for social interactions. Oscillation stability in MECP2 TG rats showed abnormal responses to social conditions. Overall, the results of this study provide a new research tool for understanding the mechanism of social impairment and treatment of autism. The results also provide evidence for the influence of MECP2 duplication on mPFC neural activity.
+AD  - Institute of Intelligent Robotics, Academy for Engineering and Technology, Fudan University, Shanghai, China; Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, Shanghai, China.
+Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, Shanghai, China.
+School of Medicine, Shanghai Jiao Tong University, Shanghai, China; Center for Excellence in Brain Science and Intelligence Technology, Institute of Neuroscience, Chinese Academy of Sciences, Shanghai, China; National Clinical Research Center for Aging and Medicine, Huashan Hospital, Fudan University, Shanghai, China. Electronic address: zqiu@ion.ac.cn.
+Institute of Intelligent Robotics, Academy for Engineering and Technology, Fudan University, Shanghai, China; Institute of Science and Technology for Brain-Inspired Intelligence, Fudan University, Shanghai, China; MOE Frontiers Center for Brain Science, Fudan University, Shanghai, China. Electronic address: shouyan@fudan.edu.cn.
+AN  - 36724557
+AU  - Li, X.
+AU  - Nie, Y.
+AU  - Qiu, Z.
+AU  - Wang, S.
+C1  - Declaration of competing interest The authors report no biomedical financial interests or potential conflicts of interest.
+DA  - Mar 12
+DO  - 10.1016/j.bbrc.2023.01.057
+DP  - NLM
+ET  - 20230120
+KW  - Animals
+Humans
+Mice
+Rats
+Anxiety/genetics
+*Autistic Disorder/genetics
+Brain/metabolism
+Disease Models, Animal
+*Mental Retardation, X-Linked/genetics
+*Methyl-CpG-Binding Protein 2/genetics/metabolism
+Mice, Transgenic
+Rats, Transgenic
+Axiety
+Mecp2
+Neural oscillation
+Social deficit
+Transgenic rat
+LA  - eng
+N1  - 1090-2104
+Li, Xiao
+Nie, Yingnan
+Qiu, Zilong
+Wang, Shouyan
+Journal Article
+Research Support, Non-U.S. Gov't
+United States
+2023/02/02
+Biochem Biophys Res Commun. 2023 Mar 12;648:28-35. doi: 10.1016/j.bbrc.2023.01.057. Epub 2023 Jan 20.
+PY  - 2023
+SN  - 0006-291x
+SP  - 28-35
+ST  - Human MECP2 transgenic rats show increased anxiety, severe social deficits, and abnormal prefrontal neural oscillation stability
+T2  - Biochem Biophys Res Commun
+TI  - Human MECP2 transgenic rats show increased anxiety, severe social deficits, and abnormal prefrontal neural oscillation stability
+VL  - 648
+ID  - 51108
+ER  - 
+
+TY  - JOUR
+AB  - Neurocysticercosis is a heterogeneous disease, and the patient's sex seems to play a role in this heterogeneity. Hosts' sexual dimorphism in cysticercosis has been largely explored in the murine model of intraperitoneal Taenia crassiceps cysticercosis. In this study, we investigated the sexual dimorphism of inflammatory responses in a rat model of extraparenchymal neurocysticercosis caused by T. crassiceps. T. crassiceps cysticerci were inoculated in the subarachnoid space of Wistar rats (25 females, 22 males). Ninety days later, the rats were euthanized for histologic, immunohistochemistry, and cytokines studies. Ten animals also underwent a 7-T magnetic resonance imaging (MRI). Female rats presented a higher concentration of immune cells in the arachnoid-brain interface, reactive astrogliosis in the periventricular region, in situ pro-inflammatory cytokine (interleukin [IL]-6) and anti-inflammatory cytokine (IL-10), and more intense hydrocephalus on MRI than males. Intracranial hypertension signals were not observed during the observational period. Overall, these results suggest sexual dimorphism in the intracranial inflammatory response that accompanied T. crassiceps extraparenchymal neurocysticercosis.
+AD  - Department of Neurology, Psychology and Psychiatry, Botucatu Medical School. UNESP - São Paulo State University, Distrito de Rubião Jr, s/n, CEP 18606-986, Botucatu, São Paulo, Brazil.
+School of Veterinary Medicine and Animal Sciences, UNESP - São Paulo State University, Botucatu, Brazil.
+Ribeirão Preto Medical School, USP - São Paulo University, Ribeirão Preto, Brazil.
+Institute of Biomedical Investigations, UNAM - National Autonomous University of Mexico, Mexico City, Mexico.
+Instituto Nacional de Neurología y Neurocirurgía, Mexico City, Mexico.
+Department of Neurology, Psychology and Psychiatry, Botucatu Medical School. UNESP - São Paulo State University, Distrito de Rubião Jr, s/n, CEP 18606-986, Botucatu, São Paulo, Brazil. pedro.hamamoto@unesp.br.
+AN  - 37428312
+AU  - Moreira, C. A. A.
+AU  - Murayama, L. H. V.
+AU  - Martins, T. C.
+AU  - Oliveira, V. T.
+AU  - Generoso, D.
+AU  - Machado, V. M. V.
+AU  - Batah, S. S.
+AU  - Fabro, A. T.
+AU  - Bazan, R.
+AU  - Zanini, M. A.
+AU  - Sciutto, E.
+AU  - Fleury, A.
+AU  - Hamamoto Filho, P. T.
+DA  - Sep
+DO  - 10.1007/s00436-023-07913-4
+DP  - NLM
+ET  - 20230710
+IS  - 9
+KW  - Male
+Mice
+Female
+Rats
+Animals
+*Neurocysticercosis/diagnostic imaging/pathology
+Disease Models, Animal
+Sex Characteristics
+Rats, Wistar
+*Cysticercosis
+*Taenia
+Cytokines
+Interleukin-6
+Mice, Inbred BALB C
+Hydrocephalus
+Inflammation
+Neurocysticercosis
+Sex dimorphism
+Taenia crassiceps
+LA  - eng
+N1  - 1432-1955
+Moreira, Carlos Alexandre Aguiar
+Murayama, Luis Henrique Vallesquino
+Martins, Tatiane de Camargo
+Oliveira, Vinicius Tadeu
+Generoso, Diego
+Machado, Vania Maria de Vasconcelos
+Batah, Sabrina Setembre
+Fabro, Alexandre Todorovic
+Bazan, Rodrigo
+Zanini, Marco Antônio
+Sciutto, Edda
+Fleury, Agnès
+Hamamoto Filho, Pedro Tadao
+Journal Article
+Germany
+2023/07/10
+Parasitol Res. 2023 Sep;122(9):2147-2154. doi: 10.1007/s00436-023-07913-4. Epub 2023 Jul 10.
+PY  - 2023
+SN  - 0932-0113
+SP  - 2147-2154
+ST  - Sexual dimorphism in the murine model of extraparenchymal neurocysticercosis
+T2  - Parasitol Res
+TI  - Sexual dimorphism in the murine model of extraparenchymal neurocysticercosis
+VL  - 122
+ID  - 51119
+ER  - 
+
+TY  - JOUR
+AB  - Interictal epileptiform discharges (IEDs) are transient abnormal electrophysiological events commonly observed in epilepsy patients but are also present in other neurological diseases, such as Alzheimer's disease (AD). Understanding the role IEDs have on the hippocampal circuit is important for our understanding of the cognitive deficits seen in epilepsy and AD. We characterize and compare the IEDs of human epilepsy patients from microwire hippocampal recording with those of AD transgenic mice with implanted multilayer hippocampal silicon probes. Both the local field potential features and firing patterns of pyramidal cells and interneurons were similar in the mouse and human. We found that as IEDs emerged from the CA3-1 circuits, they recruited pyramidal cells and silenced interneurons, followed by post-IED suppression. IEDs suppressed the incidence and altered the properties of physiological sharp-wave ripples, altered their physiological properties, and interfered with the replay of place field sequences in a maze. In addition, IEDs in AD mice inversely correlated with daily memory performance. Together, our work implies that IEDs may present a common and epilepsy-independent phenomenon in neurodegenerative diseases that perturbs hippocampal-cortical communication and interferes with memory.
+AD  - Neuroscience Institute, Langone Medical Center, New York University, New York, NY 10016.
+Department of Neurosurgery, Erlangen University Hospital, Friedrich Alexander University Erlangen-Nuremberg, 91054 Erlangen, Germany.
+Department of Neurobiology and Behavior, Cornell University, Ithaca, NY 14853.
+Hospital del Mar Medical Research Institute, Barcelona Biomedical Research Park, Barcelona 08003, Spain.
+Department of Neurology, Epilepsy Center, Erlangen University Hospital, Friedrich Alexander University Erlangen-Nuremberg, 91054 Erlangen, Germany.
+Department of Physiology and Neuroscience, Langone Medical Center, New York University, New York, NY 10016.
+Department of Neurology, Langone Medical Center, New York University, New York, NY 10016.
+AN  - 37590406
+AU  - Soula, M.
+AU  - Maslarova, A.
+AU  - Harvey, R. E.
+AU  - Valero, M.
+AU  - Brandner, S.
+AU  - Hamer, H.
+AU  - Fernández-Ruiz, A.
+AU  - Buzsáki, G.
+C1  - The authors declare no competing interest.
+C2  - PMC10450667
+DA  - Aug 22
+DO  - 10.1073/pnas.2302676120
+DP  - NLM
+ET  - 20230817
+IS  - 34
+KW  - Humans
+Animals
+Mice
+*Alzheimer Disease/genetics
+*Body Fluids
+Cognition
+*Cognition Disorders
+Disease Models, Animal
+Mice, Transgenic
+Alzheimer model
+interictal epileptiform discharges
+memory
+replay
+sharp wave ripples
+LA  - eng
+N1  - 1091-6490
+Soula, Marisol
+Maslarova, Anna
+Harvey, Ryan E
+Valero, Manuel
+Brandner, Sebastian
+Orcid: 0000-0002-8635-7195
+Hamer, Hajo
+Orcid: 0000-0003-1709-8617
+Fernández-Ruiz, Antonio
+Buzsáki, György
+Orcid: 0000-0002-3100-4800
+R01 MH122391/MH/NIMH NIH HHS/United States
+TL1 TR001447/TR/NCATS NIH HHS/United States
+U19 NS104590/NS/NINDS NIH HHS/United States
+U19 NS107616/NS/NINDS NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+United States
+2023/08/17
+Proc Natl Acad Sci U S A. 2023 Aug 22;120(34):e2302676120. doi: 10.1073/pnas.2302676120. Epub 2023 Aug 17.
+PY  - 2023
+SN  - 0027-8424 (Print)
+0027-8424
+SP  - e2302676120
+ST  - Interictal epileptiform discharges affect memory in an Alzheimer's disease mouse model
+T2  - Proc Natl Acad Sci U S A
+TI  - Interictal epileptiform discharges affect memory in an Alzheimer's disease mouse model
+VL  - 120
+ID  - 51095
+ER  - 
+
+TY  - JOUR
+AB  - Although Alzheimer's disease (AD) is characterized by distinct pathological changes, their precise impact on cortical functions are not well understood. Here we used TASTPM mice as an AD model and asked whether the development of neurodegenerative changes has an impact on the extracellular space (ECS) and neuronal excitability, in particular cortical spreading depolarization (CSD) which requires intact neuron and glial functions. We studied wildtype (WT) and TASTPM mice (3, 6, and 12 months old). TASTPM mice showed progressive proliferation of neocortical Amyloid-beta (Aβ) plaques between 3 and 12 months (more deposits in females than in males) and Aβ accumulation in cortical vessels. As plaques proliferated, neuroinflammatory microglial reaction (CD68, CD39 and Galectin-3) and astrogliosis (GFAP) developed progressively. The cortical ECS volume shrank significantly to about half the size of the WT. CSD in both WT and TASTPM mice showed considerable heterogeneity but did not correlate with the histological changes. However, CSDs were easier to elicit in TASTPM than in WT mice at 3 months, and also compared to older TASTPM mice. Moreover, TASTPM mice showed more hyperexcitability manifested as clonic-tonic behavior after sodium thiopental anesthesia. Thus, AD pathology was associated with abnormal hyperexcitability but did not homogenously alter CSD susceptibility.
+AD  - Institute of Physiology 1/Neurophysiology, Jena University Hospital, 07740, Jena, Germany.
+Department of Trauma, Hand and Reconstructive Surgery, Experimental Trauma Surgery, Jena University Hospital, 07740, Jena, Germany.
+Institute of Molecular Cell Biology, CMB-Center for Molecular Biomedicine, Jena University Hospital, 07740, Jena, Germany.
+Institute of Physiology 1/Neurophysiology, Jena University Hospital, 07740, Jena, Germany. Frank.Richter@med.uni-jena.de.
+AN  - 38538761
+AU  - Gimeno-Ferrer, F.
+AU  - Eitner, A.
+AU  - Noora, N.
+AU  - Bauer, R.
+AU  - Schmidt-Hieber, C.
+AU  - Schaible, H. G.
+AU  - Richter, F.
+C1  - The authors declare no competing interests.
+C2  - PMC10973448
+DA  - Mar 27
+DO  - 10.1038/s41598-024-57868-4
+DP  - NLM
+ET  - 20240327
+IS  - 1
+KW  - Male
+Female
+Mice
+Animals
+*Alzheimer Disease/pathology
+Amyloid beta-Protein Precursor
+Mice, Transgenic
+Mice, Inbred C57BL
+Amyloid beta-Peptides
+Disease Models, Animal
+LA  - eng
+N1  - 2045-2322
+Gimeno-Ferrer, Fátima
+Eitner, Annett
+Noora, Noor
+Bauer, Reinhard
+Schmidt-Hieber, Christoph
+Schaible, Hans-Georg
+Richter, Frank
+Marie Skłodowska-Curie grant agreement No 764860/European Union's Horizon 2020 research and innovation programme/
+Journal Article
+England
+2024/03/28
+Sci Rep. 2024 Mar 27;14(1):7224. doi: 10.1038/s41598-024-57868-4.
+PY  - 2024
+SN  - 2045-2322
+SP  - 7224
+ST  - Neuropathological changes in the TASTPM mouse model of Alzheimer's disease and their relation to hyperexcitability and cortical spreading depolarization
+T2  - Sci Rep
+TI  - Neuropathological changes in the TASTPM mouse model of Alzheimer's disease and their relation to hyperexcitability and cortical spreading depolarization
+VL  - 14
+ID  - 51126
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In humans, Alzheimer's disease (AD) is typically sporadic in nature, and its pathology is usually influenced by extensive factors. The study established a rat model based on the genetic-environmental interaction. METHODS: A rat model was established by transduction of an adeno-associated virus combined with acrolein treatment. Rats were assigned to the normal control (NC), acrolein group, AAV (-) group, AAV-APP group, and AAV-APP/acrolein group. The success of model construction was verified in multiple ways, including by assessing cognitive function, examining microstructural changes in the brain in vivo, and performing immunohistochemistry. The contribution of genetic (APP mutation) and environmental (acrolein) factors to AD-like phenotypes in the model was explored by factorial analysis. RESULTS: 1) The AAV-APP/acrolein group showed a decline in cognitive function, as indicated by a reduced gray matter volume in key cognition-related brain areas, lower FA values in the hippocampus and internal olfactory cortex, and Aβ deposition in the cortex and hippocampus. 2) The AAV-APP group also showed a decline in cognitive function, although the group exhibited atypical brain atrophy in the gray matter and insignificant Aβ deposition. 3) The acrolein group did not show any significant changes in Aβ levels, gray matter volume, or cognitive function. 4) The genetic factor (APP mutation) explained 39.74% of the AD-like phenotypes in the model factors, and the environmental factor (acrolein exposure) explained 33.3%. CONCLUSIONS: The genetic-environmental interaction rat model exhibited a phenotype that resembled the features of human AD and will be useful for research on AD.
+AD  - Department of Imaging, The Fifth People's Hospital of Shanghai, Fudan University, Shanghai 200000, China.
+Department of Imaging, The Fifth People's Hospital of Shanghai, Fudan University, Shanghai 200000, China. Electronic address: xhzhao999@263.net.
+AN  - 37918702
+AU  - Lin, X.
+AU  - Feng, T.
+AU  - Cui, E.
+AU  - Li, Y.
+AU  - Qin, Z.
+AU  - Zhao, X.
+C1  - Declaration of Competing Interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+DA  - Jan 1
+DO  - 10.1016/j.brainres.2023.148663
+DP  - NLM
+ET  - 20231102
+KW  - Humans
+Rats
+Animals
+Mice
+*Alzheimer Disease/pathology
+Amyloid beta-Protein Precursor/metabolism
+Acrolein
+Brain/metabolism
+*Cognition Disorders
+Amyloid beta-Peptides/metabolism
+Disease Models, Animal
+Mice, Transgenic
+Alzheimer's disease
+Interaction
+Mri
+Rat model
+LA  - eng
+N1  - 1872-6240
+Lin, Xiaomei
+Feng, Tianyuyi
+Cui, Erheng
+Li, Yunfei
+Qin, Zhang
+Zhao, Xiaohu
+Journal Article
+Research Support, Non-U.S. Gov't
+Netherlands
+2023/11/03
+Brain Res. 2024 Jan 1;1822:148663. doi: 10.1016/j.brainres.2023.148663. Epub 2023 Nov 2.
+PY  - 2024
+SN  - 0006-8993
+SP  - 148663
+ST  - A rat model established by simulating genetic-environmental interactions recapitulates human Alzheimer's disease pathology
+T2  - Brain Res
+TI  - A rat model established by simulating genetic-environmental interactions recapitulates human Alzheimer's disease pathology
+VL  - 1822
+ID  - 51142
+ER  - 
+
+TY  - JOUR
+AB  - Fragile X syndrome (FXS) is the most common cause of inherited intellectual disabilities and the most prevalent monogenic cause of autism. Although the knockout (KO) of the Fmr1 gene homolog in mice is primarily used for elucidating the neurobiological substrate of FXS, there is limited association of the experimental data with the pathophysiological condition in humans. The use of Fmr1 KO rats offers additional translational validity in this regard. Therefore, we employed a multi-level approach to study the behavioral profile and the glutamatergic and GABAergic neurotransmission status in pathophysiology-associated brain structures of Fmr1 KO rats, including the recordings of evoked and spontaneous field potentials from hippocampal slices, paralleled with next-generation RNA sequencing (RNA-seq). We found that these rats exhibit hyperactivity and cognitive deficits, along with characteristic bidirectional glutamatergic and GABAergic alterations in the prefrontal cortex and the hippocampus. These results are coupled to affected excitability and local inhibitory processes in the hippocampus, along with a specific transcriptional profile, highlighting dysregulated hippocampal network activity in KO rats. Overall, our data provide novel insights concerning the biobehavioral profile of FmR1 KO rats and translationally upscales our understanding on pathophysiology and symptomatology of FXS syndrome.
+AD  - Department of Pharmacology, Faculty of Medicine, School of Health Sciences University of Ioannina, Ioannina, Greece.
+Laboratory of Neurophysiology, Department of Medicine, University of Patras, Rion, Greece.
+Center of Basic Research, Biomedical Research Foundation of the Academy of Athens, Athens, Greece.
+Center of Clinical, Experimental Surgery and Translational Research, Biomedical Research Foundation of the Academy of Athens, Athens, Greece.
+Department of Pharmacology, Faculty of Medicine, School of Health Sciences University of Ioannina, Ioannina, Greece. kantoniou@uoi.gr.
+AN  - 38378836
+AU  - Ntoulas, G.
+AU  - Brakatselos, C.
+AU  - Nakas, G.
+AU  - Asprogerakas, M. Z.
+AU  - Delis, F.
+AU  - Leontiadis, L. J.
+AU  - Trompoukis, G.
+AU  - Papatheodoropoulos, C.
+AU  - Gkikas, D.
+AU  - Valakos, D.
+AU  - Vatsellas, G.
+AU  - Politis, P. K.
+AU  - Polissidis, A.
+AU  - Antoniou, K.
+C1  - The authors declare that the research was conducted without any commercial or financial relationships that could be construed as a potential conflict of interest.
+C2  - PMC10879511
+DA  - Feb 20
+DO  - 10.1038/s41398-024-02815-0
+DP  - NLM
+ET  - 20240220
+IS  - 1
+KW  - Rats
+Mice
+Animals
+Humans
+Mice, Knockout
+Hippocampus/metabolism
+Brain/metabolism
+*Cognition Disorders
+*Cognitive Dysfunction
+*Fragile X Syndrome/genetics
+Fragile X Mental Retardation Protein/genetics
+Disease Models, Animal
+LA  - eng
+N1  - 2158-3188
+Ntoulas, George
+Orcid: 0009-0007-9389-6115
+Brakatselos, Charalampos
+Nakas, Gerasimos
+Asprogerakas, Michail-Zois
+Delis, Foteini
+Leontiadis, Leonidas J
+Trompoukis, George
+Papatheodoropoulos, Costas
+Gkikas, Dimitrios
+Valakos, Dimitrios
+Vatsellas, Giannis
+Orcid: 0000-0002-1631-1060
+Politis, Panagiotis K
+Polissidis, Alexia
+Antoniou, Katerina
+Orcid: 0000-0002-2876-207x
+T2EDK-02075/General Secretariat for Research and Technology (GSRT)/
+Journal Article
+United States
+2024/02/21
+Transl Psychiatry. 2024 Feb 20;14(1):104. doi: 10.1038/s41398-024-02815-0.
+PY  - 2024
+SN  - 2158-3188
+SP  - 104
+ST  - Multi-level profiling of the Fmr1 KO rat unveils altered behavioral traits along with aberrant glutamatergic function
+T2  - Transl Psychiatry
+TI  - Multi-level profiling of the Fmr1 KO rat unveils altered behavioral traits along with aberrant glutamatergic function
+VL  - 14
+ID  - 51138
+ER  - 
+

@@ -1,0 +1,1953 @@
+﻿TY  - JOUR
+AB  - In a study designed to compare two types of treatment of cerebral concussion, 178 patients were allocated to a routine treatment or to an active treatment group; in the latter a good prognosis was emphasized, the patient was mobilized early and given physiotherapy. In the routine treatment group the average time off work was 32 days compared with 18 days in the active treatment group. Physiotherapy seemed to be particularly valuable in old patients and in those with exaggerated fears about their condition. It is suggested that throughout their illness and follow-up, patients with cerebral concussion should be under the care of one doctor, one who is particularly interested in the subject and that more propaganda is needed
+AN  - rayyan-1277750203
+AU  - Relander, M.
+AU  - Troupp, H.
+AU  - Af Björkesten, G.
+C1  - Relander, M Troupp, H Af Björkesten, G Clinical Trial Journal Article Randomized Controlled Trial England 1972/12/30 Br Med J. 1972 Dec 30;4(5843):777-9. doi: 10.1136/bmj.4.5843.777. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1972-12-30
+DO  - doi:10.1136/bmj.4.5843.777
+IS  - 5843
+KW  - Absenteeism
+Amnesia/etiology
+Brain Concussion/complications/*rehabilitation/therapy
+Follow-Up Studies
+Humans
+Occupations
+Rest
+Skull Fractures/complications
+Time Factors
+Wounds and Injuries/complications
+LA  - eng
+PY  - 1972
+SN  - 0007-1447 (Print) 0007-1447
+SP  - 777-9
+ST  - Controlled trial of treatment for cerebral concussion
+T2  - Br Med J
+TI  - Controlled trial of treatment for cerebral concussion
+VL  - 4
+ID  - 50720
+ER  - 
+
+TY  - JOUR
+AB  - This pilot study compared the results of facilitation and functional treatment approaches on the overall development of 12 cerebral-palsied children aged 1 to 5 years. The Denver Developmental Screening Test and the Bayley Motor Scale were used to evaluate the subjects. Pairs of children with similar developmental ages were identified and randomly assigned to the two treatment programs. Posttests and subsequent statistical analyses indicated that the group of children receiving the facilitation treatment approach showed significant improvement then did the group receiving the functional treatment approach in computed developmental age. Results suggest that comparative and evaluative studies should be continued on these approaches, as well as on other areas of clinical practice, to validate the effectiveness of occupational therapy treatment.
+AN  - rayyan-1277750218
+AU  - Carlsen, P. N.
+C1  - Carlsen, P N Clinical Trial Comparative Study Journal Article Randomized Controlled Trial United States 1975/05/01 Am J Occup Ther. 1975 May-Jun;29(5):267-72. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1975-5
+DO  - doi:
+IS  - 5
+KW  - Cerebral Palsy/*therapy
+Child, Preschool
+Developmental Disabilities/*therapy
+Evaluation Studies as Topic
+Humans
+Infant
+Methods
+*Occupational Therapy
+Pilot Projects
+Social Facilitation
+LA  - eng
+PY  - 1975
+SN  - 0272-9490 (Print) 0272-9490
+SP  - 267-72
+ST  - Comparison of two occupational therapy approaches for treating the young cerebral-palsied child
+T2  - Am J Occup Ther
+TI  - Comparison of two occupational therapy approaches for treating the young cerebral-palsied child
+VL  - 29
+ID  - 50721
+ER  - 
+
+TY  - JOUR
+AB  - Eighty-four geriatirc ward patients were randomly assigned to groups targeted for outplacement planning or inpatient care. During the following year, half of the former were placed in community settings while nearly all of the latter remained in the hospital. Neither the physical health, level of self-care, or psychiatric condition ratings of the two groups changed differentially over that time. However, the mean Morale Inventory score of the outplacement sample improved while that of the in-patient group remained static. Additional analyses were run between three groups - outplacement planning subjects who were released, those who were not released, and inpatient planning men who were not released. These results confirmed those of the first analyses; the only significant difference appeared on the Morale Inventory, the patients who left showing more improvement than the other two groups. The results argue for an increased emphasis on outplacement programs among geriatric patients.
+AN  - rayyan-1277750233
+AU  - Watson, C. G.
+C1  - Watson, C G Clinical Trial Comparative Study Journal Article Randomized Controlled Trial United States 1976/09/01 J Gerontol. 1976 Sep;31(5):611-6. doi: 10.1093/geronj/31.5.611. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1976-9
+DO  - doi:10.1093/geronj/31.5.611
+IS  - 5
+KW  - Activities of Daily Living
+Aged
+Health Status Indicators
+*Hospitalization
+*Hospitals, Psychiatric
+Humans
+Male
+Mental Disorders/rehabilitation/*therapy
+Morale
+Mortality
+Nursing Homes
+*Residential Facilities
+LA  - eng
+PY  - 1976
+SN  - 0022-1422 (Print) 0022-1422
+SP  - 611-6
+ST  - Inpatient care or outplacement: which is better for the psychiatric medically infirm patient?
+T2  - J Gerontol
+TI  - Inpatient care or outplacement: which is better for the psychiatric medically infirm patient?
+VL  - 31
+ID  - 50722
+ER  - 
+
+TY  - JOUR
+AB  - The effectiveness of community-based treatment stressing home care was compared with hospital-based psychiatric care. One hundred and fifty-five patients destined for inpatient psychiatric care were randomly assigned to Home Care (76 patients) and to Hospital Care (79 patients). Symptoms, role functioning, and psychosocial burden on the family were similar at admission, one month, three months, six months, and one year. The mean in-hospital stay of Hospital Care patients was 41.7 days compared with a mean stay of 14.5 days for Home Care patients. The difference in the amount of ambulatory care received by patients in the two groups was not significant. The evidence is consistent: community-based psychiatric care is an effective alternative to hospital-based care for many but not all severely disabled patients. The active ingredients of successful community treatment are known, yet the lag in implementing these programs persists.
+AN  - rayyan-1277750255
+AU  - Fenton, F. R.
+AU  - Tessier, L.
+AU  - Struening, E. L.
+C1  - Fenton, F R Tessier, L Struening, E L Clinical Trial Comparative Study Journal Article Randomized Controlled Trial United States 1979/09/01 Arch Gen Psychiatry. 1979 Sep;36(10):1073-9. doi: 10.1001/archpsyc.1979.01780100043003. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1979-9
+DO  - doi:10.1001/archpsyc.1979.01780100043003
+IS  - 10
+KW  - Adolescent
+Adult
+Ambulatory Care
+Community Mental Health Services
+Family
+Female
+*Home Nursing
+Humans
+Male
+Mental Disorders/psychology/*rehabilitation
+Middle Aged
+Neurotic Disorders/rehabilitation
+*Psychiatric Department, Hospital
+Psychiatric Status Rating Scales
+Psychotic Disorders/rehabilitation
+Schizophrenia/rehabilitation
+Social Adjustment
+LA  - eng
+PY  - 1979
+SN  - 0003-990X (Print) 0003-990x
+SP  - 1073-9
+ST  - A comparative trial of home and hospital psychiatric care. One-year follow-up
+T2  - Arch Gen Psychiatry
+TI  - A comparative trial of home and hospital psychiatric care. One-year follow-up
+VL  - 36
+ID  - 50723
+ER  - 
+
+TY  - JOUR
+AB  - Between 1966 and 1970, infants with birthweights between 1000 and 1500g entered a randomized controlled trial to determine the short-term and long-term results of neonatal intensive care. Of 158 long-term survivors, five were lost to follow-up, but the multidisciplinary research team prospectively followed 143 children up to the age of eight years. Useful data were available for the other 10 children. Of the long-term survivors 74 had received routine, and 84 had received intensive nursery care. At eight years of age there were no statistically significant differences in the frequencies of a variety of individual abnormalities; fewer of the intensively managed children had cerebral palsy, but sensorineural deafness and ocular abnormalities occurred more frequently. Individual children were graded into four carefully defined groups: (a) profound handicap (4.4 per cent of entire study group); (b) severe handicap (10.1 per cent); (c) significant handicap (37.3 per cent); and (d) trivial or no handicap (41.8 per cent). Inadequate data were available for 6.3 per cent of the children. It was apparent that the improved survival attributed to intensive neonatal care was achieved at the expense of additional severely handicapped children, and this feature is discussed.
+AN  - rayyan-1277750259
+AU  - Kitchen, W. H.
+AU  - Richards, A.
+AU  - Ryan, M. M.
+AU  - McDougall, A. B.
+AU  - Billson, F. A.
+AU  - Keir, E. H.
+AU  - Naylor, F. D.
+C1  - Kitchen, W H Richards, A Ryan, M M McDougall, A B Billson, F A Keir, E H Naylor, F D Clinical Trial Journal Article Randomized Controlled Trial England 1979/10/01 Dev Med Child Neurol. 1979 Oct;21(5):582-9. doi: 10.1111/j.1469-8749.1979.tb01673.x. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1979-10
+DO  - doi:10.1111/j.1469-8749.1979.tb01673.x
+IS  - 5
+KW  - Cerebral Palsy/prevention & control
+Clinical Trials as Topic
+Critical Care
+*Disabled Persons
+Dyslexia/prevention & control
+Eye Diseases/prevention & control
+Follow-Up Studies
+Hearing Loss, Sensorineural/prevention & control
+Humans
+Infant, Newborn
+*Infant, Small for Gestational Age
+Intellectual Disability/prevention & control
+Longitudinal Studies
+*Postnatal Care
+Random Allocation
+LA  - eng
+PY  - 1979
+SN  - 0012-1622 (Print) 0012-1622
+SP  - 582-9
+ST  - A longitudinal study of very low-birthweight infants. II: Results of controlled trial of intensive care and incidence of handicaps
+T2  - Dev Med Child Neurol
+TI  - A longitudinal study of very low-birthweight infants. II: Results of controlled trial of intensive care and incidence of handicaps
+VL  - 21
+ID  - 50724
+ER  - 
+
+TY  - JOUR
+AB  - This study reports the results of a randomized trial of a psychiatric consultation intervention with distressed, high utilizing patients of 18 physicians in two primary care clinics. Psychiatric consultation was associated with a significant increase in the use of antidepressants in intervention patients compared with controls in the first 6 months after intervention. Intervention patients were also significantly more likely to continue antidepressant treatment than control patients. The primary care physicians receiving psychiatric consultations increased the rate of prescribing antidepressant medications in their practice from 32 prescriptions filled per 1,000 visits before their participation in four consultations to 44 new prescriptions per 1,000 visits in the 12-month period after. There were no significant differences between intervention patients and controls at 6 and 12 months after randomization in psychiatric distress, functional disability, or utilization of health care (ambulatory visits, radiographic and laboratory testing services, admissions to inpatient medical care).
+AN  - rayyan-1277750766
+AU  - Katon, W.
+AU  - Von Korff, M.
+AU  - Lin, E.
+AU  - Bush, T.
+AU  - Russo, J.
+AU  - Lipscomb, P.
+AU  - Wagner, E.
+C1  - Katon, W Von Korff, M Lin, E Bush, T Russo, J Lipscomb, P Wagner, E MH41739-03/MH/NIMH NIH HHS/United States Clinical Trial Journal Article Randomized Controlled Trial Research Support, U.S. Gov't, P.H.S. United States 1992/03/01 Gen Hosp Psychiatry. 1992 Mar;14(2):86-98. doi: 10.1016/0163-8343(92)90033-7. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1992-3
+DO  - doi:10.1016/0163-8343(92)90033-7
+IS  - 2
+KW  - Ambulatory Care/economics/*statistics & numerical data
+Anxiety Disorders/psychology/therapy
+Cost Control/trends
+Depressive Disorder/psychology/therapy
+Follow-Up Studies
+Health Maintenance Organizations/economics/statistics & numerical data
+Health Services Misuse/*economics
+Humans
+Mental Disorders/psychology/*therapy
+Patient Care Team/economics/*statistics & numerical data
+Primary Health Care/economics/statistics & numerical data
+Psychophysiologic Disorders/psychology/therapy
+Referral and Consultation/economics/statistics & numerical data
+Somatoform Disorders/psychology/therapy
+Washington
+LA  - eng
+PY  - 1992
+SN  - 0163-8343 (Print) 0163-8343
+SP  - 86-98
+ST  - A randomized trial of psychiatric consultation with distressed high utilizers
+T2  - Gen Hosp Psychiatry
+TI  - A randomized trial of psychiatric consultation with distressed high utilizers
+VL  - 14
+ID  - 50725
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Because previous studies of day treatment as an alternative to inpatient treatment had major disadvantages or methodological shortcomings, the authors conducted a randomized controlled trial to estimate and predict the extent to which day treatment is feasible for unselected patients referred for inpatient treatment. METHOD: Of 160 patients, 57 were randomly assigned to the control condition and 103 were assigned to the experimental condition. Control patients received standard clinical care. In the experimental condition, day treatment was attempted as soon as the patient's condition permitted. The average number of nights per week that experimental patients spent away from the hospital was compared to the average number of nights away for patients under standard care. RESULTS: Day treatment was satisfactory for 40% of the experimental patients but was completely infeasible for another 40%. The level of surveillance needed in the first week, physical illness, number of previous admissions, depressive symptoms, and treatment by qualified psychiatrists versus registrars were variables predictive of these differences. CONCLUSIONS: In this unselected group of patients, no absolute contraindications against day treatment were found. This suggests that the selection criteria applied in nearly all other controlled studies on the subject were unwarranted. The approach used in this study facilitated treatment in the least restrictive environment possible.
+AN  - rayyan-1277750770
+AU  - Kluiter, H.
+AU  - Giel, R.
+AU  - Nienhuis, F. J.
+AU  - Rüphan, M.
+AU  - Wiersma, D.
+C1  - Kluiter, H Giel, R Nienhuis, F J Rüphan, M Wiersma, D Clinical Trial Journal Article Randomized Controlled Trial United States 1992/09/01 Am J Psychiatry. 1992 Sep;149(9):1199-205. doi: 10.1176/ajp.149.9.1199. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1992-9
+DO  - doi:10.1176/ajp.149.9.1199
+IS  - 9
+KW  - Adolescent
+Adult
+Aged
+*Day Care, Medical
+Feasibility Studies
+Female
+Hospitalization
+Hospitals, Psychiatric
+Humans
+Length of Stay
+Male
+Mental Disorders/psychology/*therapy
+Middle Aged
+Probability
+Referral and Consultation
+Regression Analysis
+LA  - eng
+PY  - 1992
+SN  - 0002-953X (Print) 0002-953x
+SP  - 1199-205
+ST  - Predicting feasibility of day treatment for unselected patients referred for inpatient psychiatric treatment: results of a randomized trial
+T2  - Am J Psychiatry
+TI  - Predicting feasibility of day treatment for unselected patients referred for inpatient psychiatric treatment: results of a randomized trial
+VL  - 149
+ID  - 50726
+ER  - 
+
+TY  - JOUR
+AB  - Psychotropic drug-free hospitalized veterans with nonseasonal major depressive disorders or depressed forms of bipolar disorder were treated with light for 1 week. Twenty-five patients were randomly assigned to bright white light treatment (2000-3000 lux), and 26 patients were randomized to dim red light placebo control treatment. Unlike those treated with dim red light, those treated with bright white light showed declines in three measures of depression during treatment. Partial relapse appeared within 2 days. A global depression score showed a statistically significant (p = 0.02) difference favoring bright white light treatment. Two bright-light-treated patients became mildly hypomanic, but side effects were mild. Improvement was not correlated with patient expectations; indeed, patients expected somewhat greater benefit from the placebo. Patients treated in summer responded as well as those treated in winter. Baseline electroencephalogram (EEG) sleep stage data (e.g., rapid eye movement; REM latency) did not predict treatment responses. These 1-week treatment results suggest that bright light might produce benefits for patients with nonseasonal depression. Bright light should not be recommended for routine clinical application before additional assessments with longer treatment durations are done.
+AN  - rayyan-1277750772
+AU  - Kripke, D. F.
+AU  - Mullaney, D. J.
+AU  - Klauber, M. R.
+AU  - Risch, S. C.
+AU  - Gillin, J. C.
+C1  - Kripke, D F Mullaney, D J Klauber, M R Risch, S C Gillin, J C MH00117/MH/NIMH NIH HHS/United States MH30914/MH/NIMH NIH HHS/United States MH38822/MH/NIMH NIH HHS/United States Clinical Trial Journal Article Randomized Controlled Trial Research Support, U.S. Gov't, Non-P.H.S. Research Support, U.S. Gov't, P.H.S. United States 1992/01/15 Biol Psychiatry. 1992 Jan 15;31(2):119-34. doi: 10.1016/0006-3223(92)90199-a. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1992-1-15
+DO  - doi:10.1016/0006-3223(92)90199-a
+IS  - 2
+KW  - Adult
+Aged
+Bipolar Disorder/therapy
+Depressive Disorder/physiopathology/psychology/*therapy
+Electroencephalography
+Female
+Humans
+Male
+*Phototherapy
+Psychiatric Status Rating Scales
+Sleep, REM/physiology
+LA  - eng
+PY  - 1992
+SN  - 0006-3223 (Print) 0006-3223
+SP  - 119-34
+ST  - Controlled trial of bright light for nonseasonal major depressive disorders
+T2  - Biol Psychiatry
+TI  - Controlled trial of bright light for nonseasonal major depressive disorders
+VL  - 31
+ID  - 50727
+ER  - 
+
+TY  - JOUR
+AB  - This 3-year randomized clinical trial tested the effectiveness of an interdisciplinary psychoeducational family group intervention in decreasing the caregivers' perceptions of the frequency and severity of behavioral problems in persons with dementia and their reactions to those problems, and in decreasing caregiver burden and depression. The intervention consisted of seven weekly, 2-hour multimedia training sessions that included education, family support, and skills training for 94 primary caregivers and their families. Repeated measures ANOVA was used to test for significant differences between the intervention and waiting list control groups over a 5-month period. The intervention was successful in reducing caregivers' negative reactions to disruptive behaviors and in reducing caregiver burden over time.
+AN  - rayyan-1277751709
+AU  - Ostwald, S. K.
+AU  - Hepburn, K. W.
+AU  - Caron, W.
+AU  - Burns, T.
+AU  - Mantell, R.
+C1  - Ostwald, S K Hepburn, K W Caron, W Burns, T Mantell, R NR02971/NR/NINR NIH HHS/United States Clinical Trial Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, P.H.S. United States 1999/07/09 Gerontologist. 1999 Jun;39(3):299-309. doi: 10.1093/geront/39.3.299. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1999-6
+DO  - doi:10.1093/geront/39.3.299
+IS  - 3
+KW  - Aged
+Aged, 80 and over
+Caregivers/*education/*psychology
+Cognition
+Dementia/*nursing/psychology
+Depression/etiology
+Family
+Female
+Humans
+Male
+Middle Aged
+LA  - eng
+PY  - 1999
+SN  - 0016-9013 (Print) 0016-9013
+SP  - 299-309
+ST  - Reducing caregiver burden: a randomized psychoeducational intervention for caregivers of persons with dementia
+T2  - Gerontologist
+TI  - Reducing caregiver burden: a randomized psychoeducational intervention for caregivers of persons with dementia
+VL  - 39
+ID  - 50728
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the effectiveness of behavioral family systems therapy (BFST) with that of ego-oriented individual therapy (EOIT) as treatments for adolescents with anorexia nervosa. METHOD: Thirty-seven adolescents meeting DSM-III-R criteria for anorexia nervosa were randomly assigned to receive BFST or EOIT, in addition to a common medical and dietary regimen. In BFST, the family was seen conjointly, the parents were placed in control of the adolescent's eating, distorted beliefs were targeted through cognitive restructuring, and strategic/behavioral interventions were used to change family interactions. In EOIT, the adolescent was seen individually, with an emphasis on building ego strength and uncovering the dynamics blocking eating; parents were seen collaterally. Measures administered before, after, and at 1-year follow-up tapped body mass index, menstruation, eating attitudes, ego functioning, depression, and family interactions. RESULTS: BFST produced greater weight gain and higher rates of resumption of menstruation than EOIT. Both treatments produced comparably large improvements in eating attitudes, depression, and eating-related family conflict, but very few changes occurred on ego functioning. CONCLUSIONS: BFST and EOIT proved to be effective treatments for adolescents with anorexia nervosa, but BFST produced a faster return to health.
+AN  - rayyan-1277751721
+AU  - Robin, A. L.
+AU  - Siegel, P. T.
+AU  - Moye, A. W.
+AU  - Gilroy, M.
+AU  - Dennis, A. B.
+AU  - Sikand, A.
+C1  - Robin, A L Siegel, P T Moye, A W Gilroy, M Dennis, A B Sikand, A R01MH41773/MH/NIMH NIH HHS/United States Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, U.S. Gov't, P.H.S. United States 1999/12/22 J Am Acad Child Adolesc Psychiatry. 1999 Dec;38(12):1482-9. doi: 10.1097/00004583-199912000-00008. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 1999-12
+DO  - doi:10.1097/00004583-199912000-00008
+IS  - 12
+KW  - Adolescent
+Anorexia Nervosa/complications/diagnosis/*therapy
+Anxiety Disorders/complications/diagnosis
+Body Mass Index
+Family Relations
+Family Therapy/*methods
+Female
+Follow-Up Studies
+Humans
+Male
+Mood Disorders/complications/diagnosis
+Parents/psychology
+Psychiatric Status Rating Scales
+Self Concept
+Treatment Outcome
+LA  - eng
+PY  - 1999
+SN  - 0890-8567 (Print) 0890-8567
+SP  - 1482-9
+ST  - A controlled comparison of family versus individual therapy for adolescents with anorexia nervosa
+T2  - J Am Acad Child Adolesc Psychiatry
+TI  - A controlled comparison of family versus individual therapy for adolescents with anorexia nervosa
+VL  - 38
+ID  - 50729
+ER  - 
+
+TY  - JOUR
+AB  - Recent advances in the understanding of worry have led to the development of treatments for generalized anxiety disorder (GAD). The present study tested a GAD treatment that targeted intolerance of uncertainty, erroneous beliefs about worry, poor problem orientation, and cognitive avoidance. Twenty-six primary GAD patients were randomly allocated to a treatment condition (n = 14) or a delayed treatment control condition (n = 12). Self-report, clinician, and significant other ratings assessed GAD and associated symptoms. The results show that the treatment led to statistically and clinically significant change at posttest and that gains were maintained at 6- and 12-month follow-ups. Furthermore, 20 of 26 participants (77%) no longer met GAD diagnostic criteria following treatment. With regard to the treatment's underlying model, the results show that intolerance of uncertainty significantly decreased over treatment and that gains were maintained at both follow-ups. Although nonspecific factors were not significant predictors of treatment outcome, their role in the treatment of GAD requires further investigation.
+AN  - rayyan-1277751843
+AU  - Ladouceur, R.
+AU  - Dugas, M. J.
+AU  - Freeston, M. H.
+AU  - Léger, E.
+AU  - Gagnon, F.
+AU  - Thibodeau, N.
+C1  - Ladouceur, R Dugas, M J Freeston, M H Léger, E Gagnon, F Thibodeau, N Clinical Trial Evaluation Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2001/01/06 J Consult Clin Psychol. 2000 Dec;68(6):957-64. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2000-12
+DO  - doi:
+IS  - 6
+KW  - Adult
+Anxiety Disorders/diagnosis/psychology/*therapy
+*Cognitive Behavioral Therapy
+Female
+Follow-Up Studies
+Humans
+Male
+Middle Aged
+Personality Inventory
+Treatment Outcome
+LA  - eng
+PY  - 2000
+SN  - 0022-006X (Print) 0022-006x
+SP  - 957-64
+ST  - Efficacy of a cognitive-behavioral treatment for generalized anxiety disorder: evaluation in a controlled clinical trial
+T2  - J Consult Clin Psychol
+TI  - Efficacy of a cognitive-behavioral treatment for generalized anxiety disorder: evaluation in a controlled clinical trial
+VL  - 68
+ID  - 50730
+ER  - 
+
+TY  - JOUR
+AB  - Fear of flying (FOF) affects an estimated 10-25% of the population. Patients with FOF (N = 49) were randomly assigned to virtual reality exposure (VRE) therapy, standard exposure (SE) therapy, or a wait-list (WL) control. Treatment consisted of 8 sessions over 6 weeks, with 4 sessions of anxiety management training followed by either exposure to a virtual airplane (VRE) or exposure to an actual airplane at the airport (SE). A posttreatment flight on a commercial airline measured participants' willingness to fly and anxiety during flight immediately after treatment. The results indicated that VRE and SE were both superior to WL, with no differences between VRE and SE. The gains observed in treatment were maintained at a 6-month follow up. By 6 months posttreatment, 93% of VRE participants and 93% of SE participants had flown. VRE therapy and SE therapy for treatment of FOF were unequivocally supported in this controlled study.
+AN  - rayyan-1277751875
+AU  - Rothbaum, B. O.
+AU  - Hodges, L.
+AU  - Smith, S.
+AU  - Lee, J. H.
+AU  - Price, L.
+C1  - Rothbaum, B O Hodges, L Smith, S Lee, J H Price, L 1-R41-MH58493-01/MH/NIMH NIH HHS/United States Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, P.H.S. United States 2001/01/06 J Consult Clin Psychol. 2000 Dec;68(6):1020-6. doi: 10.1037//0022-006x.68.6.1020. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2000-12
+DO  - doi:10.1037//0022-006x.68.6.1020
+IS  - 6
+KW  - Adult
+Aged
+Agoraphobia/psychology/therapy
+*Aircraft
+Desensitization, Psychologic/*methods
+*Fear
+Female
+Humans
+Male
+Middle Aged
+Panic Disorder/psychology/therapy
+Phobic Disorders/psychology/*therapy
+Treatment Outcome
+*User-Computer Interface
+LA  - eng
+PY  - 2000
+SN  - 0022-006X (Print) 0022-006x
+SP  - 1020-6
+ST  - A controlled study of virtual reality exposure therapy for the fear of flying
+T2  - J Consult Clin Psychol
+TI  - A controlled study of virtual reality exposure therapy for the fear of flying
+VL  - 68
+ID  - 50731
+ER  - 
+
+TY  - JOUR
+AB  - Assisted walking and walking combined with conversation were compared to a conversation-only intervention in nursing home residents with Alzheimer disease. Sixty-five subjects randomly assigned to treatment group were tested at baseline and end of treatment. Subjects' mean Mini-Mental State Examination score was 10.83; mean age was 87. Treatment was given for 30 minutes three times a week for 16 weeks. Subjects in the assisted walking group declined 20.9% in functional mobility; the conversation group declined 18.8%. The combined walking and conversation treatment group declined only 2.5%. These differences in outcome were significant and appear to have been affected by differences in treatment fidelity. Subjects in the conversation treatment group completed 90% of intended treatment compared with 75% in the combined group and only 57% in the assisted walking group. Failure to treat was due to subject refusal and physical illness. The conversation component of the combined walking and conversation treatment intervention appears to have improved compliance with the intervention, thereby improving treatment outcome. Results indicate that assisted walking with conversation can contribute to maintenance of functional mobility in institutionalized populations with Alzheimer disease. Staff assigned to this task should be prepared to use effective communication strategies to gain acceptance of the intervention.
+AN  - rayyan-1277751887
+AU  - Tappen, R. M.
+AU  - Roach, K. E.
+AU  - Applegate, E. B.
+AU  - Stowell, P.
+C1  - Tappen, R M Roach, K E Applegate, E B Stowell, P R01 NR003322-04/NR/NINR NIH HHS/United States R01-NR03322/NR/NINR NIH HHS/United States Clinical Trial Journal Article Randomized Controlled Trial Research Support, U.S. Gov't, P.H.S. United States 2001/02/24 Alzheimer Dis Assoc Disord. 2000 Oct-Dec;14(4):196-201. doi: 10.1097/00002093-200010000-00002. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2000-10
+DO  - doi:10.1097/00002093-200010000-00002
+IS  - 4
+KW  - Aged
+Alzheimer Disease/physiopathology/*therapy
+*Communication
+Frail Elderly
+Humans
+*Interpersonal Relations
+*Nursing Homes
+Treatment Outcome
+*Walking
+LA  - eng
+PY  - 2000
+SN  - 0893-0341 (Print) 0893-0341
+SP  - 196-201
+ST  - Effect of a combined walking and conversation intervention on functional mobility of nursing home residents with Alzheimer disease
+T2  - Alzheimer Dis Assoc Disord
+TI  - Effect of a combined walking and conversation intervention on functional mobility of nursing home residents with Alzheimer disease
+VL  - 14
+ID  - 50732
+ER  - 
+
+TY  - JOUR
+AB  - In a randomized controlled study, positive effects were found of a support program for caregivers of dementia patients. The aim of this study is to identify in a secondary analysis the prognostic factors of success of the support program by comparing characteristics of patients and primary caregivers for whom the support program was effective with those for whom the program was not effective (n = 49 pairs of patients and caregivers). The theoretically based individualized support program which is presented in this article, was most effective with regard to primary caregivers' sense of competence for females sharing a household with the dementia patient. The program was most effective in reducing the number of patient admissions when patients did not receive support from a district nurse and the primary caregivers experienced less emotional support from the informal network. A proactive approach by offering this flexible support before caregivers ask for support may prolong the stage in which they feel able to care for patients at home. Offering this support to females, who usually are supposed to care for the patient without assistance, may be both effective and efficient.
+AN  - rayyan-1277751902
+AU  - Vernooij-Dassen, M.
+AU  - Lamers, C.
+AU  - Bor, J.
+AU  - Felling, A.
+AU  - Grol, R.
+C1  - Vernooij-Dassen, M Lamers, C Bor, J Felling, A Grol, R Clinical Trial Evaluation Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2001/03/15 Int J Aging Hum Dev. 2000;51(4):259-74. doi: 10.2190/P8L1-N8QD-VTJ4-EURT. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2000
+DO  - doi:10.2190/p8l1-n8qd-vtj4-eurt
+IS  - 4
+KW  - Adult
+Aged
+*Caregivers
+*Dementia/diagnosis
+Female
+*Guidelines as Topic
+Humans
+Male
+Mental Health Services/standards
+Middle Aged
+*Program Evaluation
+Severity of Illness Index
+*Social Support
+LA  - eng
+PY  - 2000
+SN  - 0091-4150 (Print) 0091-4150
+SP  - 259-74
+ST  - Prognostic factors of effectiveness of a support program for caregivers of dementia patients
+T2  - Int J Aging Hum Dev
+TI  - Prognostic factors of effectiveness of a support program for caregivers of dementia patients
+VL  - 51
+ID  - 50733
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: The number of older patients with chronic schizophrenia is increasing. There is a need for empirically validated psychotherapy interventions for these patients. Cognitive behavioral social skills training teaches cognitive and behavioral coping techniques, social functioning skills, problem solving, and compensatory aids for neurocognitive impairments. The authors compared treatment as usual with the combination of treatment as usual plus cognitive behavioral social skills training. METHOD: The randomized, controlled trial included 76 middle-aged and older outpatients with chronic schizophrenia, who were assigned to either treatment as usual or combined treatment. Cognitive behavioral social skills training was administered over 24 weekly group sessions. Blind raters assessed social functioning, psychotic and depressive symptoms, cognitive insight, and skill mastery. RESULTS: After treatment, the patients receiving combined treatment performed social functioning activities significantly more frequently than the patients in treatment as usual, although general skill at social functioning activities did not differ significantly. Patients receiving cognitive behavioral social skills training achieved significantly greater cognitive insight, indicating more objectivity in reappraising psychotic symptoms, and demonstrated greater skill mastery. The overall group effect was not significant for symptoms, but the greater increase in cognitive insight with combined treatment was significantly correlated with greater reduction in positive symptoms. CONCLUSIONS: With cognitive behavioral social skills training, middle-aged and older outpatients with chronic schizophrenia learned coping skills, evaluated anomalous experiences with more objectivity (achieved greater cognitive insight), and improved social functioning. Additional research is needed to determine whether cognitive insight mediates psychotic symptom change in cognitive behavior therapy for psychosis.
+AN  - rayyan-1277752776
+AU  - Granholm, E.
+AU  - McQuaid, J. R.
+AU  - McClure, F. S.
+AU  - Auslander, L. A.
+AU  - Perivoliotis, D.
+AU  - Pedrelli, P.
+AU  - Patterson, T.
+AU  - Jeste, D. V.
+C1  - Granholm, Eric McQuaid, John R McClure, Fauzia Simjee Auslander, Lisa A Perivoliotis, Dimitri Pedrelli, Paola Patterson, Thomas Jeste, Dilip V 1P30 MH-066248/MH/NIMH NIH HHS/United States R01 MH-61381/MH/NIMH NIH HHS/United States Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, Non-P.H.S. Research Support, U.S. Gov't, P.H.S. United States 2005/03/03 Am J Psychiatry. 2005 Mar;162(3):520-9. doi: 10.1176/appi.ajp.162.3.520. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2005-3
+DO  - doi:10.1176/appi.ajp.162.3.520
+IS  - 3
+KW  - Activities of Daily Living/psychology
+Adaptation, Psychological
+Age Factors
+Aged
+Ambulatory Care
+Cognitive Behavioral Therapy/*methods
+Female
+Humans
+Interpersonal Relations
+Male
+Middle Aged
+Psychiatric Status Rating Scales
+Psychotherapy, Group/methods
+Psychotic Disorders/psychology/rehabilitation/therapy
+Schizophrenia/rehabilitation/*therapy
+*Schizophrenic Psychology
+*Social Adjustment
+Treatment Outcome
+LA  - eng
+PY  - 2005
+SN  - 0002-953X (Print) 0002-953x
+SP  - 520-9
+ST  - A randomized, controlled trial of cognitive behavioral social skills training for middle-aged and older outpatients with chronic schizophrenia
+T2  - Am J Psychiatry
+TI  - A randomized, controlled trial of cognitive behavioral social skills training for middle-aged and older outpatients with chronic schizophrenia
+VL  - 162
+ID  - 50734
+ER  - 
+
+TY  - JOUR
+AB  - This study was an attempt to improve the quality of the relationship between dementia caregivers and their loved ones by decreasing the gap between caregivers' expectations and patients' actual functional abilities and by teaching supportive skills. Although a group of 49 caregiver-patient dyads were recruited, the outcome measures of only those dyads (47) that completed the week seven session were used for analysis. Half of the dyads were randomized to an intervention group and the other half to a waiting list. The intervention group (N = 24) completed a four-session caregiver training program in which caregivers first watched investigators administering to their loved ones the Texas Functional Living Scale and later progressed to helping their loved ones by appropriate cueing to perform the tasks involved. Comparisons were made between baseline scores, scores at seven weeks, and scores at the end of 17 weeks on the congruence between caregiver estimates and patients' actual performance on the Independent Living Scale and measures of cognition, function, preillness quality of relationship, caregiver mood, feeling of self-efficacy, and several other measures. We were not able to increase the congruence between caregiver estimates and patients' actual performance and found no change in any other measure. We didfind the expected relationship between depression and caregiver sense of self-efficacy.
+AN  - rayyan-1277752825
+AU  - Martin-Cook, K.
+AU  - Davis, B. A.
+AU  - Hynan, L. S.
+AU  - Weiner, M. F.
+C1  - 1938-2731 Martin-Cook, Kristin Davis, Barbara A Hynan, Linda S Weiner, Myron F Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2005/09/03 Am J Alzheimers Dis Other Demen. 2005 Jul-Aug;20(4):204-10. doi: 10.1177/153331750502000411. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2005-7
+DO  - doi:10.1177/153331750502000411
+IS  - 4
+KW  - *Activities of Daily Living
+Aged
+Alzheimer Disease/*therapy
+Caregivers/*education
+Female
+Humans
+Interpersonal Relations
+Male
+Power, Psychological
+Program Development
+Self Efficacy
+*Social Support
+Surveys and Questionnaires
+Teaching/*methods
+LA  - eng
+PY  - 2005
+SN  - 1533-3175 (Print) 1533-3175
+SP  - 204-10
+ST  - A randomized, controlled study of an Alzheimer's caregiver skills training program
+T2  - Am J Alzheimers Dis Other Demen
+TI  - A randomized, controlled study of an Alzheimer's caregiver skills training program
+VL  - 20
+ID  - 50735
+ER  - 
+
+TY  - JOUR
+AB  - Contingency management (CM) interventions usually use vouchers as reinforcers, but a new technique awards chances of winning prizes. This study compares these approaches. In community treatment centers, 142 cocaine- or heroin-dependent outpatients were randomly assigned to standard treatment (ST), ST with vouchers, or ST with prizes for 12 weeks. CM patients remained in treatment longer and achieved greater durations of objectively confirmed abstinence than did ST patients; CM conditions did not differ significantly. Although abstinence at 6- and 9-month follow-ups did not differ by group, the best predictor of abstinence was longest duration of abstinence achieved during treatment. Thus, prize and voucher CM systems are equally efficacious in promoting long durations of abstinence, which in turn are associated with benefits posttreatment.
+AN  - rayyan-1277752857
+AU  - Petry, N. M.
+AU  - Alessi, S. M.
+AU  - Marx, J.
+AU  - Austin, M.
+AU  - Tardif, M.
+C1  - Petry, Nancy M Alessi, Sheila M Marx, Jacqueline Austin, Mark Tardif, Michelle R01 DA013444/DA/NIDA NIH HHS/United States P50 AA003510/AA/NIAAA NIH HHS/United States R01 DA014618/DA/NIDA NIH HHS/United States M01-RR06192/RR/NCRR NIH HHS/United States P50-AA03510/AA/NIAAA NIH HHS/United States R01 DA016855/DA/NIDA NIH HHS/United States R01-DA14618/DA/NIDA NIH HHS/United States R01-DA016855/DA/NIDA NIH HHS/United States R01-DA13444/DA/NIDA NIH HHS/United States P50-DA09241/DA/NIDA NIH HHS/United States Comparative Study Journal Article Multicenter Study Randomized Controlled Trial Research Support, N.I.H., Extramural United States 2006/01/06 J Consult Clin Psychol. 2005 Dec;73(6):1005-14. doi: 10.1037/0022-006X.73.6.1005. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2005-12
+DO  - doi:10.1037/0022-006x.73.6.1005
+IS  - 6
+KW  - Adult
+*Awards and Prizes
+*Community Mental Health Services
+Female
+Humans
+Male
+Substance-Related Disorders/epidemiology/*psychology/*rehabilitation
+*Token Economy
+LA  - eng
+PY  - 2005
+SN  - 0022-006X (Print) 0022-006x
+SP  - 1005-14
+ST  - Vouchers versus prizes: contingency management treatment of substance abusers in community settings
+T2  - J Consult Clin Psychol
+TI  - Vouchers versus prizes: contingency management treatment of substance abusers in community settings
+VL  - 73
+ID  - 50736
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Memory complaints and decline in cognitive function are common in the elderly. Cognitive intervention has been shown to be beneficial in Alzheimer's disease (AD). However, few community-based cognitive intervention programs are available in Hong Kong. The aim of this project is to examine and compare the feasibility, acceptability, and clinical outcome of a cognitive intervention program for older patients with mild cognitive impairment and mild dementia using telemedicine versus a conventional face-to-face method. METHODS: Community-dwelling older subjects with mild dementia or mild cognitive impairments were recruited from a community center. A total of 12 sessions of assessment and cognitive intervention were conducted via videoconferencing or by face-to-face method. Assessment included: Cantonese version of Mini Mental State Examination (C-MMSE), Cantonese version of Rivermead Behavioural Memory test (C-RBMT) and Hierarchic Dementia Scale (HDS). RESULTS: Twenty-two clients were recruited. There was significant and comparable cognitive improvement in clients in both treatment arms. The videoconference arm was highly accepted by the clients and the community center. Overall compliance rate of participants was above 95%. CONCLUSIONS: Telemedicine was a feasible, effective and acceptable means in providing cognitive assessment and intervention to older persons with mild cognitive deficits. Promoting such a program to other community settings would further enhance the accessibility of dementia service to the community.
+AN  - rayyan-1277752861
+AU  - Poon, P.
+AU  - Hui, E.
+AU  - Dai, D.
+AU  - Kwok, T.
+AU  - Woo, J.
+C1  - Poon, Patricia Hui, Elsie Dai, David Kwok, Timothy Woo, Jean Clinical Trial Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2005/02/18 Int J Geriatr Psychiatry. 2005 Mar;20(3):285-6. doi: 10.1002/gps.1282. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2005-3
+DO  - doi:10.1002/gps.1282
+IS  - 3
+KW  - Aged
+Cognition Disorders/complications/*therapy
+Cognitive Behavioral Therapy/*methods
+Community Health Services/methods
+Dementia/*therapy
+Feasibility Studies
+Humans
+Memory Disorders/complications/*therapy
+Patient Compliance/psychology
+Patient Satisfaction
+Remote Consultation/*methods
+Videoconferencing
+LA  - eng
+PY  - 2005
+SN  - 0885-6230 (Print) 0885-6230
+SP  - 285-6
+ST  - Cognitive intervention for community-dwelling older persons with memory problems: telemedicine versus face-to-face treatment
+T2  - Int J Geriatr Psychiatry
+TI  - Cognitive intervention for community-dwelling older persons with memory problems: telemedicine versus face-to-face treatment
+VL  - 20
+ID  - 50737
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Evidence has emerged which indicates that the post-treatment relapse rate for alcohol-dependent patients with a comorbid anxiety disorder is higher than for alcohol-dependent patients without a comorbid anxiety disorder. The question raised by this evidence is whether the relapse rate in these dually diagnosed patients could be reduced if they were given additional treatment for the comorbid anxiety disorder. We attempted to answer this question by conducting a trial among patients with a double diagnosis of alcohol dependence and agoraphobia or social phobia. METHOD: We conducted a 32-week randomized controlled trial among 96 abstinent patients with a primary diagnosis of alcohol dependence and a comorbid anxiety disorder involving agoraphobia or social phobia. The patients were randomly assigned to an intensive psychosocial relapse-prevention program on its own (n = 49) or in combination with an anxiety treatment program comprising cognitive behavioral therapy (CBT) and optional pharmacotherapy consisting of an SSRI (n = 47). The primary outcome measure was the percentage of patients who suffered an alcohol relapse during a 32-week period. The secondary outcome measures were total abstinence, a reduction in the days of heavy drinking, and less severe anxiety symptoms. RESULTS: Although the additional therapy clearly reduced the anxiety symptoms, it had no significant effect on the alcohol relapse rates. CONCLUSION: Anxiety treatment for alcohol-dependent patients with a comorbid anxiety disorder can alleviate anxiety symptoms, but it has no significant effect on the outcome of alcohol treatment programs.
+AN  - rayyan-1277752884
+AU  - Schadé, A.
+AU  - Marquenie, L. A.
+AU  - van Balkom, A. J.
+AU  - Koeter, M. W.
+AU  - de Beurs, E.
+AU  - van den Brink, W.
+AU  - van Dyck, R.
+C1  - Schadé, Annemiek Marquenie, Loes A van Balkom, Anton J L M Koeter, Maarten W J de Beurs, Edwin van den Brink, Wim van Dyck, Richard Clinical Trial Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2005/05/18 Alcohol Clin Exp Res. 2005 May;29(5):794-800. doi: 10.1097/01.alc.0000163511.24583.33. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2005-5
+DO  - doi:10.1097/01.alc.0000163511.24583.33
+IS  - 5
+KW  - Adult
+Agoraphobia/*complications/psychology/therapy
+Alcoholism/*complications/psychology/therapy
+Anxiety/*complications/psychology/*therapy
+Cognitive Behavioral Therapy
+Diagnosis, Dual (Psychiatry)
+Female
+Humans
+Male
+Patient Compliance
+Psychiatric Status Rating Scales
+Secondary Prevention
+Temperance
+Treatment Outcome
+LA  - eng
+PY  - 2005
+SN  - 0145-6008 (Print) 0145-6008
+SP  - 794-800
+ST  - The effectiveness of anxiety treatment on alcohol-dependent patients with a comorbid phobic disorder: a randomized controlled trial
+T2  - Alcohol Clin Exp Res
+TI  - The effectiveness of anxiety treatment on alcohol-dependent patients with a comorbid phobic disorder: a randomized controlled trial
+VL  - 29
+ID  - 50738
+ER  - 
+
+TY  - JOUR
+AB  - Nightmares and sleep disturbance are fundamental concerns for victims of trauma. This study examined the efficacy of a manualized cognitive-behavioral treatment (CBT) for chronic nightmares in trauma-exposed individuals via a randomized clinical trial. Participants were randomly assigned to a treatment group or wait-list control group, with 27 participants completing the treatment. At the 6-month follow-up assessment, 84% of treated participants reported an absence of nightmares in the previous week. Significant decreases were also reported in symptoms of depression and posttraumatic stress, fear of sleep, and number of sleep problems, while sleep quality and quantity improved. The present study adds to the growing literature indicating this brief CBT as a first-line treatment for trauma-exposed individuals with chronic nightmares.
+AN  - rayyan-1277753274
+AU  - Davis, J. L.
+AU  - Wright, D. C.
+C1  - Davis, Joanne L Wright, David C Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2007/04/13 J Trauma Stress. 2007 Apr;20(2):123-33. doi: 10.1002/jts.20199. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2007-4
+DO  - doi:10.1002/jts.20199
+IS  - 2
+KW  - Adult
+Analysis of Variance
+*Cognitive Behavioral Therapy/methods
+*Dreams/psychology
+Female
+Humans
+Male
+Sleep Initiation and Maintenance Disorders/psychology/*therapy
+Stress Disorders, Post-Traumatic/psychology/*therapy
+LA  - eng
+PY  - 2007
+SN  - 0894-9867 (Print) 0894-9867
+SP  - 123-33
+ST  - Randomized clinical trial for treatment of chronic nightmares in trauma-exposed adults
+T2  - J Trauma Stress
+TI  - Randomized clinical trial for treatment of chronic nightmares in trauma-exposed adults
+VL  - 20
+ID  - 50739
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Bulimia nervosa (BN) is often associated with depressive symptoms and treatment with antidepressants has shown positive effects. A shared deficient serotonergic transmission was postulated for both syndromes. The left dorsolateral prefrontal cortex was argued to regulate eating behaviour and to be dysfunctional in eating disorders. METHODS: Fourteen women meeting DSM-IV criteria for BN were included in a randomised placebo-controlled double-blind trial. In order to exclude patients highly responsive to placebo, all patients were first submitted to a one-week sham treatment. Randomisation was followed by 3 weeks of active treatment or sham stimulation. As the main outcome criterion we defined the change in binges and purges. Secondary outcome variables were the decrease of the Hamilton Depression Rating Scale (HDRS), the Beck Depression Inventory (BDI) and the Yale-Brown Obsessive Compulsive Scale (YBOCS) over time. RESULTS: The average number of binges per day declined significantly between baseline and the end of treatment in the two groups. There was no significant difference between sham and active stimulation in terms of purge behaviour, BDI, HDRS and YBOCS over time. CONCLUSION: These preliminary results indicate that repetitive transcranial magnetic stimulation (rTMS) in the treatment of BN does not exert additional benefit over placebo. A larger number of patients might clarify a further role of rTMS in the treatment of BN.
+AN  - rayyan-1277753879
+AU  - Walpoth, M.
+AU  - Hoertnagl, C.
+AU  - Mangweth-Matzek, B.
+AU  - Kemmler, G.
+AU  - Hinterhölzl, J.
+AU  - Conca, A.
+AU  - Hausmann, A.
+C1  - 1423-0348 Walpoth, M Hoertnagl, C Mangweth-Matzek, B Kemmler, G Hinterhölzl, J Conca, A Hausmann, A Journal Article Randomized Controlled Trial Switzerland 2007/12/19 Psychother Psychosom. 2008;77(1):57-60. doi: 10.1159/000110061. Epub 2007 Dec 14. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2008
+DO  - doi:10.1159/000110061
+IS  - 1
+KW  - Adult
+Ambulatory Care
+Bulimia Nervosa/diagnosis/physiopathology/psychology/*therapy
+Depressive Disorder/diagnosis/physiopathology/psychology/therapy
+Dominance, Cerebral/physiology
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Personality Inventory
+Prefrontal Cortex/physiopathology
+*Transcranial Magnetic Stimulation
+Treatment Outcome
+LA  - eng
+PY  - 2008
+SN  - 0033-3190
+SP  - 57-60
+ST  - Repetitive transcranial magnetic stimulation in bulimia nervosa: preliminary results of a single-centre, randomised, double-blind, sham-controlled trial in female outpatients
+T2  - Psychother Psychosom
+TI  - Repetitive transcranial magnetic stimulation in bulimia nervosa: preliminary results of a single-centre, randomised, double-blind, sham-controlled trial in female outpatients
+VL  - 77
+ID  - 50740
+ER  - 
+
+TY  - JOUR
+AB  - The purpose of this study was to compare the effects of 16 weeks of a comprehensive exercise routine to supervised walking and social conversation on depression in nursing home residents with Alzheimer's disease (AD). METHOD: This study was a three-group, repeated-measures design with random assignment to treatment group. Forty-five nursing home residents with moderate to severe AD were randomly assigned to a 16-week programme of comprehensive exercise, supervised walking or social conversation. Raters were blinded to treatment group assignment. Major outcome variables were depression measured by the Cornell Scale for Depression in Dementia, mood measured by the Dementia Mood Assessment Scale and the Alzheimer's Mood Scale, and affect measured by the Observed Affect Scale. Depression was reduced in all three groups with some evidence of superior benefit from exercise. Depression is a common problem with serious and costly consequences for nursing home residents with AD. Exercise as a behavioural approach to treatment of depression in nursing home residents with severe AD evidenced a clear benefit to participants in this study. More research is needed to clarify the relative benefits of different types of exercise in conjunction with or without pharmacological intervention.
+AN  - rayyan-1277753889
+AU  - Williams, C. L.
+AU  - Tappen, R. M.
+C1  - Williams, C L Tappen, R M R15 NR004455-01A1S1/NR/NINR NIH HHS/United States R01 NR004176-04/NR/NINR NIH HHS/United States R15 NR04455-01A1S1/NR/NINR NIH HHS/United States R01 NR007744/NR/NINR NIH HHS/United States 5R01-NR04176-04/NR/NINR NIH HHS/United States Comparative Study Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural England 2008/02/26 Aging Ment Health. 2008 Jan;12(1):72-80. doi: 10.1080/13607860701529932. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2008-1
+DO  - doi:10.1080/13607860701529932
+IS  - 1
+KW  - Aged
+Alzheimer Disease/*psychology/therapy
+Attention
+Depression/*therapy
+*Exercise Therapy
+Female
+Humans
+Interpersonal Relations
+Male
+Nursing Homes
+Walking
+LA  - eng
+PY  - 2008
+SN  - 1360-7863 (Print) 1360-7863
+SP  - 72-80
+ST  - Exercise training for depressed older adults with Alzheimer's disease
+T2  - Aging Ment Health
+TI  - Exercise training for depressed older adults with Alzheimer's disease
+VL  - 12
+ID  - 50741
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: We examined child and parent outcomes of training providers to engage families efficiently and to reduce common symptoms of a range of mental health problems and disorders. METHODS: Training involved three 1-hour discussions structured around video examples of family/provider communication skills, each followed by practice with standardized patients and self-evaluation. Skills targeted eliciting parent and child concerns, partnering with families, and increasing expectations that treatment would be helpful. We tested the training with providers at 13 sites in rural New York, urban Maryland, and Washington, DC. Children (5-16 years of age) making routine visits were enrolled if they screened "possible" or "probable" for mental disorders with the Strengths and Difficulties Questionnaire or if their provider said they were likely to have an emotional or behavioral problem. Children and their parents were then monitored for 6 months, to assess changes in parent-rated symptoms and impairment and parent symptoms. RESULTS: Fifty-eight providers (31 trained and 27 control) and 418 children (248 patients of trained providers and 170 patients of control providers) participated. Among the children, 72% were in the possible or probable categories. Approximately one half (54%) were white, 30% black, 12% Latino, and 4% other ethnicities. Eighty-eight percent (367 children) completed follow-up monitoring. At 6 months, minority children cared for by trained providers had greater reduction in impairment (-0.91 points) than did those cared for by control providers but no greater reduction in symptoms. Seeing a trained provider did not have an impact on symptoms or impairment among white children. Parents of children cared for by trained providers experienced greater reduction in symptoms (-1.7 points) than did those cared for by control providers. CONCLUSION: Brief provider communication training had a positive impact on parent mental health symptoms and reduced minority children's impairment across a range of problems.
+AN  - rayyan-1277753892
+AU  - Wissow, L. S.
+AU  - Gadomski, A.
+AU  - Roter, D.
+AU  - Larson, S.
+AU  - Brown, J.
+AU  - Zachary, C.
+AU  - Bartlett, E.
+AU  - Horn, I.
+AU  - Luo, X.
+AU  - Wang, M. C.
+C1  - 1098-4275 Wissow, Lawrence Sagin Gadomski, Anne Roter, Debra Larson, Susan Brown, Jonathan Zachary, Ciara Bartlett, Edward Horn, Ivor Luo, Xianghua Wang, Mei-Cheng F31MH75531/MH/NIMH NIH HHS/United States R01MH62469/MH/NIMH NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural United States 2008/02/05 Pediatrics. 2008 Feb;121(2):266-75. doi: 10.1542/peds.2007-0418. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2008-2
+DO  - doi:10.1542/peds.2007-0418
+IS  - 2
+KW  - Adolescent
+Adult
+Aged
+Child
+Child, Preschool
+*Communication
+Education, Continuing/methods
+Female
+Humans
+Male
+Mental Disorders/psychology/therapy
+*Mental Health
+Middle Aged
+Parents/*psychology
+Pediatrics/*education
+*Primary Health Care
+*Professional-Family Relations
+Surveys and Questionnaires
+LA  - eng
+PY  - 2008
+SN  - 0031-4005
+SP  - 266-75
+ST  - Improving child and parent mental health in primary care: a cluster-randomized trial of communication skills training
+T2  - Pediatrics
+TI  - Improving child and parent mental health in primary care: a cluster-randomized trial of communication skills training
+VL  - 121
+ID  - 50742
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To investigate the effect of direct contact person-to-person prayer on depression, anxiety, positive emotions, and salivary cortisol levels. DESIGN, SETTING, AND PARTICIPANTS: Cross-over clinical trial with depression or anxiety conducted in an office setting. Following randomization to the prayer intervention or control groups, subjects (95% women) completed Hamilton Rating Scales for Depression and Anxiety, Life Orientation Test, Daily Spiritual Experiences Scale, and underwent measurement of cortisol levels. Individuals in the direct person-to-person prayer contact intervention group received six weekly 1-hour prayer sessions while those in the control group received none. Rating scales and cortisol levels were repeated for both groups after completion of the prayer sessions, and a month later. ANOVAs were used to compare pre- and post-prayer measures for each group. RESULTS: At the completion of the trial, participants receiving the prayer intervention showed significant improvement of depression and anxiety, as well as increases of daily spiritual experiences and optimism compared to controls (p < 0.01 in all cases). Subjects in the prayer group maintained these significant improvements (p < 0.01 in all cases) for a duration of at least 1 month after the final prayer session. Participants in the control group did not show significant changes during the study. Cortisol levels did not differ significantly between intervention and control groups, or between pre- and post-prayer conditions. CONCLUSIONS: Direct contact person-to-person prayer may be useful as an adjunct to standard medical care for patients with depression and anxiety. Further research in this area is indicated.
+AN  - rayyan-1277753937
+AU  - Boelens, P. A.
+AU  - Reeves, R. R.
+AU  - Replogle, W. H.
+AU  - Koenig, H. G.
+C1  - Boelens, Peter A Reeves, Roy R Replogle, William H Koenig, Harold G Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2009/01/01 Int J Psychiatry Med. 2009;39(4):377-92. doi: 10.2190/PM.39.4.c. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2009
+DO  - doi:10.2190/PM.39.4.c
+IS  - 4
+KW  - Adult
+Anxiety Disorders/psychology/*therapy
+*Christianity
+Depressive Disorder/psychology/*therapy
+Female
+Humans
+Male
+Middle Aged
+Personality Inventory
+*Religion
+*Religion and Psychology
+LA  - eng
+PY  - 2009
+SN  - 0091-2174 (Print) 0091-2174
+SP  - 377-92
+ST  - A randomized trial of the effect of prayer on depression and anxiety
+T2  - Int J Psychiatry Med
+TI  - A randomized trial of the effect of prayer on depression and anxiety
+VL  - 39
+ID  - 50743
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Repetitive transcranial magnetic stimulation (rTMS) has been investigated for its treatment efficacy for the negative symptoms of schizophrenia. Previous studies have targeted the dorsolateral prefrontal cortex (DLPFC), which is associated with the pathophysiology of this disorder. Several rTMS parameters have been explored in the treatment of negative symptoms and include stimulating the left and bilateral DLPFC at several different frequencies and number of sessions. Results of such studies have been inconsistent, while high-frequency rTMS has shown greatest promise. OBJECTIVE/HYPOTHESIS: The objective of this study was to evaluate the efficacy of bilateral high-frequency rTMS in the treatment of negative symptoms in schizophrenia. It was hypothesized rTMS would alleviate negative symptoms in schizophrenia. METHODS: Twenty-five patients were enrolled in this double-blind placebo-controlled randomized trial. Bilateral 20 Hz rTMS was MRI-targeted to the DLPFC at 90% RMT administered daily for 4 weeks for a total of 20 treatments. Negative symptoms were assessed with the Scale for the Assessment of Negative Symptoms (SANS), the Positive and Negative symptom scale (PANSS), and controlling for depression as measured with the Calgary Depression Scale (CDS) at baseline, 1, 2, 3, 4, and 2 weeks after the treatment course. RESULTS: No significant group or time differences were found on negative symptoms or depressive symptoms after rTMS. Bilateral high-frequency rTMS did not alleviate negative symptoms in patients with schizophrenia. CONCLUSIONS: These findings indicate that such symptoms are unresponsive to rTMS treatment or that more optimized parameters are needed to achieve improved therapeutic efficacy.
+AN  - rayyan-1277754934
+AU  - Barr, M. S.
+AU  - Farzan, F.
+AU  - Tran, L. C.
+AU  - Fitzgerald, P. B.
+AU  - Daskalakis, Z. J.
+C1  - 1876-4754 Barr, Mera S Farzan, Faranak Tran, Lisa C Fitzgerald, Paul B Daskalakis, Zafiris J Canadian Institutes of Health Research/Canada Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2011/07/26 Brain Stimul. 2012 Jul;5(3):337-346. doi: 10.1016/j.brs.2011.06.003. Epub 2011 Jul 13. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2012-7
+DO  - doi:10.1016/j.brs.2011.06.003
+IS  - 3
+KW  - Adult
+Double-Blind Method
+Female
+Humans
+Negativism
+Passive-Aggressive Personality Disorder/complications/*diagnosis/*therapy
+Placebo Effect
+*Prefrontal Cortex
+Schizophrenia/complications/*diagnosis/*therapy
+Transcranial Magnetic Stimulation/*methods
+Treatment Outcome
+LA  - eng
+PY  - 2012
+SN  - 1876-4754
+SP  - 337-346
+ST  - A randomized controlled trial of sequentially bilateral prefrontal cortex repetitive transcranial magnetic stimulation in the treatment of negative symptoms in schizophrenia
+T2  - Brain Stimul
+TI  - A randomized controlled trial of sequentially bilateral prefrontal cortex repetitive transcranial magnetic stimulation in the treatment of negative symptoms in schizophrenia
+VL  - 5
+ID  - 50744
+ER  - 
+
+TY  - JOUR
+AB  - Although some studies point to cognitive stimulation as a beneficial therapy for older adults with cognitive impairments, this area of research and practice is still lacking dissemination and is underrepresented in many countries. Moreover, the comparative effects of different intervention durations remain to be established and, besides cognitive effects, pragmatic parameters, such as cost-effectiveness and experiential relevance to participants, are seldom explored. In this work, we present a randomized controlled wait-list trial evaluating 2 different intervention durations (standard = 17 vs brief = 11 sessions) of a cognitive stimulation program developed for older adults with cognitive impairments with or without dementia. 20 participants were randomly assigned to the standard duration intervention program (17 sessions, 1.5 months) or to a wait-list group. At postintervention of the standard intervention group, the wait-list group crossed over to receive the brief intervention program (11 sessions, 1 month). Changes in neuropsychological, functionality, quality of life, and caregiver outcomes were evaluated. Experience during intervention and costs and feasibility were also evaluated. The current cognitive stimulation programs (ie, standard and brief) showed high values of experiential relevance for both intervention durations. High adherence, completion rates, and reasonable costs were found for both formats. Further studies are needed to definitively establish the potential efficacy, optimal duration, cost-effectiveness, and experiential relevance for participants of cognitive intervention approaches.
+AN  - rayyan-1277755760
+AU  - Alves, J.
+AU  - Alves-Costa, F.
+AU  - Magalhães, R.
+AU  - Gonçalves, O. F.
+AU  - Sampaio, A.
+C1  - 1938-2731 Alves, Jorge Alves-Costa, Filipa Magalhães, Rosana Gonçalves, Oscar F Sampaio, Adriana Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2014/02/15 Am J Alzheimers Dis Other Demen. 2014 Sep;29(6):503-12. doi: 10.1177/1533317514522541. Epub 2014 Feb 13. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-9
+DO  - doi:10.1177/1533317514522541
+IS  - 6
+KW  - Aged
+Aged, 80 and over
+Caregivers
+Cognition Disorders/*therapy
+*Cognitive Behavioral Therapy
+Dementia/psychology/*therapy
+Feasibility Studies
+Female
+Humans
+Male
+Quality of Life
+Treatment Outcome
+cognitive intervention
+cognitive stimulation
+dementia
+mild cognitive impairment (MCI)
+LA  - eng
+PY  - 2014
+SN  - 1533-3175 (Print) 1533-3175
+SP  - 503-12
+ST  - Cognitive stimulation for Portuguese older adults with cognitive impairment: a randomized controlled trial of efficacy, comparative duration, feasibility, and experiential relevance
+T2  - Am J Alzheimers Dis Other Demen
+TI  - Cognitive stimulation for Portuguese older adults with cognitive impairment: a randomized controlled trial of efficacy, comparative duration, feasibility, and experiential relevance
+VL  - 29
+ID  - 50745
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In a health-care service with the emphasis on improvement related to functioning and well-being, the communication process between patient and professionals is essential. There is a lack of research on this matter. AIM: The aim was to investigate, in a group of severely mentally ill persons, whether the use of a simple communication tool could influence the sense of empowerment, satisfaction with care, therapeutic alliance and unmet needs. METHOD: The study had a cluster randomized design. The intervention was a communication tool (2-COM) applied in two teams during one year. In a comparison group of two other teams, the treatment was as usual. At baseline, after six months, and after one year, assessments were made. RESULTS: After one year the 2-COM groups seemed to have a larger reduction in unmet needs compared to the treatment-as-usual group. However, there were large problems with attrition in the study, and it was not possible to draw relevant conclusions. CONCLUSIONS: The methodological problems were substantial, and the study may be considered as a pilot study. In a main study the researchers ought to take control over the selection of patients on the basis of the experiences from this study.
+AN  - rayyan-1277755769
+AU  - Arvidsson, H.
+AU  - Olin, E.
+AU  - Strand, J.
+AU  - Tidefors, I.
+C1  - 1741-2854 Arvidsson, Hans Olin, Elisabeth Strand, Jennifer Tidefors, Inga Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2012/12/26 Int J Soc Psychiatry. 2014 Feb;60(1):95-102. doi: 10.1177/0020764012467145. Epub 2012 Dec 24. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-2
+DO  - doi:10.1177/0020764012467145
+IS  - 1
+KW  - Adult
+Aged
+Ambulatory Care Facilities
+Bipolar Disorder/psychology/*therapy
+*Checklist
+*Communication
+Female
+Humans
+Male
+Mental Disorders/psychology/*therapy
+Middle Aged
+Needs Assessment
+Patient Care Team
+Patient Participation
+Physician-Patient Relations
+*Professional-Patient Relations
+Psychotic Disorders/*psychology/*therapy
+Sweden
+Communication
+cluster randomized study
+intervention
+needs
+severely mentally ill
+LA  - eng
+PY  - 2014
+SN  - 0020-7640
+SP  - 95-102
+ST  - Effects of the two-way communication checklist (2-COM): a one-year cluster randomized study in a group of severely mentally ill persons
+T2  - Int J Soc Psychiatry
+TI  - Effects of the two-way communication checklist (2-COM): a one-year cluster randomized study in a group of severely mentally ill persons
+VL  - 60
+ID  - 50746
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine the efficacy of 2 different interventions (cognitive behavioral therapy [CBT] and supportive psychotherapy [SPT]) to treat post-traumatic brain injury (TBI) depression. PARTICIPANTS: A sample of 77 community-dwelling individuals with a TBI, and a diagnosis of depression. Participants were randomized into treatment conditions either CBT or SPT and received up to 16 sessions of individual psychotherapy. MEASURES: Participants completed the Structured Clinical Interview for DSM-IV and self-report measures of depression (Beck Depression Inventory-Second Edition), anxiety (State-Trait Anxiety Inventory), perceived social support (Interpersonal Support Evaluation List), stressful life events (Life Experiences Survey), and quality of life (QOL) before beginning and immediately following treatment. RESULTS: No significant differences were found at baseline between CBT and SPT groups on demographic factors (sex, age, education, race, and time since injury) or baseline measures of depression, anxiety, participation, perceived social support, stressful life events, or QOL. Analyses of variance revealed significant time effects for the Beck Depression Inventory-Second Edition, State-Trait Anxiety Inventory, and QOL outcome measures but no group effects. Intention-to-treat mixed effects analyses did not find any significant difference in patterns of scores of the outcome measures between the CBT and SPT intervention groups. CONCLUSIONS: Both forms of psychotherapy were efficacious in improving diagnoses of depression and anxiety and reducing depressive symptoms. These findings suggest that in this sample of individuals with TBI, CBT was not more effective in treating depression than SPT, though further research is needed with larger sample sizes to identify different components of these interventions that may be effective with different TBI populations. ClinicalTrials.gov Identifier: NCT00211835.
+AN  - rayyan-1277755770
+AU  - Ashman, T.
+AU  - Cantor, J. B.
+AU  - Tsaousides, T.
+AU  - Spielman, L.
+AU  - Gordon, W.
+C1  - 1550-509x Ashman, Teresa Cantor, Joshua B Tsaousides, Theodore Spielman, Lisa Gordon, Wayne Comparative Study Journal Article Randomized Controlled Trial Research Support, U.S. Gov't, Non-P.H.S. United States 2014/11/06 J Head Trauma Rehabil. 2014 Nov-Dec;29(6):467-78. doi: 10.1097/HTR.0000000000000098. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-11
+DO  - doi:10.1097/htr.0000000000000098
+IS  - 6
+KW  - Adult
+Brain Injuries/complications/epidemiology/psychology/*rehabilitation
+Depressive Disorder/complications/*therapy
+Female
+Humans
+Male
+Middle Aged
+*Psychotherapy
+Quality of Life
+Social Support
+Treatment Outcome
+LA  - eng
+PY  - 2014
+SN  - 0885-9701
+SP  - 467-78
+ST  - Comparison of cognitive behavioral therapy and supportive psychotherapy for the treatment of depression following traumatic brain injury: a randomized controlled trial
+T2  - J Head Trauma Rehabil
+TI  - Comparison of cognitive behavioral therapy and supportive psychotherapy for the treatment of depression following traumatic brain injury: a randomized controlled trial
+VL  - 29
+ID  - 50747
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: To examine the effects of complex cognitive (mahjong) and physical (Tai Chi) activities on dementia severity in nursing home residents with dementia. METHODS: Cluster-randomized open-label controlled design. 110 residents were randomized by nursing home into three conditions: mahjong, Tai Chi, and simple handicrafts (control). Activities were conducted three times a week for 12 weeks. Clinical Dementia Rating (CDR) was taken at 0 (baseline), 3 (post-treatment), 6, and 9 months. The outcome measure was CDR sum-of-box, which is a composite measure of both cognitive and functional deterioration in dementia. RESULTS: Intent-to-treat analyses were performed using multilevel regression models. Apolipoprotein E ε4 allele and education were included as covariates. Neither treatments had effects on the cognitive and functional components of the CDR, but mahjong had a significant interaction with time on the CDR sum-of-box total, suggesting a slower rate of global deterioration in the mahjong group as compared with the control group. CONCLUSIONS: Mahjong led to a gradual improvement in global functioning and a slightly slower rate of dementia progression over time. The effect was generalized and was not specific to cognition or daily functioning.
+AN  - rayyan-1277755809
+AU  - Cheng, S. T.
+AU  - Chow, P. K.
+AU  - Song, Y. Q.
+AU  - Yu, E. C.
+AU  - Lam, J. H.
+C1  - 1741-203x Cheng, Sheung-Tak Chow, Pizza K Song, You-Qiang Yu, Edwin C S Lam, John H M Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2014/01/15 Int Psychogeriatr. 2014 Apr;26(4):637-43. doi: 10.1017/S1041610213002524. Epub 2014 Jan 10. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-4
+DO  - doi:10.1017/s1041610213002524
+IS  - 4
+KW  - Aged
+Alleles
+Apolipoproteins E
+Cluster Analysis
+Cognition/*physiology
+Cognition Disorders/*physiopathology
+Dementia/physiopathology/psychology/*therapy
+Disease Progression
+Exercise/physiology
+Female
+Humans
+*Leisure Activities
+Male
+Neuropsychological Tests
+Nursing Homes
+Outcome Assessment, Health Care
+Severity of Illness Index
+Tai Ji/psychology
+LA  - eng
+PY  - 2014
+SN  - 1041-6102
+SP  - 637-43
+ST  - Can leisure activities slow dementia progression in nursing home residents? A cluster-randomized controlled trial
+T2  - Int Psychogeriatr
+TI  - Can leisure activities slow dementia progression in nursing home residents? A cluster-randomized controlled trial
+VL  - 26
+ID  - 50748
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Biomedical treatment options for autism spectrum disorder (ASD) are extremely limited. Repetitive transcranial magnetic stimulation (rTMS) is a safe and efficacious technique when targeting specific areas of cortical dysfunction in major depressive disorder, and a similar approach could yield therapeutic benefits in ASD, if applied to relevant cortical regions. OBJECTIVE: The aim of this study was to examine whether deep rTMS to bilateral dorsomedial prefrontal cortex improves social relating in ASD. METHODS: 28 adults diagnosed with either autistic disorder (high-functioning) or Asperger's disorder completed a prospective, double-blind, randomized, placebo-controlled design with 2 weeks of daily weekday treatment. This involved deep rTMS to bilateral dorsomedial prefrontal cortex (5 Hz, 10-s train duration, 20-s inter-train interval) for 15 min (1500 pulses per session) using a HAUT-Coil. The sham rTMS coil was encased in the same helmet of the active deep rTMS coil, but no effective field was delivered into the brain. Assessments were conducted before, after, and one month following treatment. RESULTS: Participants in the active condition showed a near significant reduction in self-reported social relating symptoms from pre-treatment to one month follow-up, and a significant reduction in social relating symptoms (relative to sham participants) for both post-treatment assessments. Those in the active condition also showed a reduction in self-oriented anxiety during difficult and emotional social situations from pre-treatment to one month follow-up. There were no changes for those in the sham condition. CONCLUSION: Deep rTMS to bilateral dorsomedial prefrontal cortex yielded a reduction in social relating impairment and socially-related anxiety. Further research in this area should employ extended rTMS protocols that approximate those used in depression in an attempt to replicate and amplify the clinical response.
+AN  - rayyan-1277755864
+AU  - Enticott, P. G.
+AU  - Fitzgibbon, B. M.
+AU  - Kennedy, H. A.
+AU  - Arnold, S. L.
+AU  - Elliot, D.
+AU  - Peachey, A.
+AU  - Zangen, A.
+AU  - Fitzgerald, P. B.
+C1  - 1876-4754 Enticott, Peter G Fitzgibbon, Bernadette M Kennedy, Hayley A Arnold, Sara L Elliot, David Peachey, Amy Zangen, Abraham Fitzgerald, Paul B Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2013/11/28 Brain Stimul. 2014 Mar-Apr;7(2):206-11. doi: 10.1016/j.brs.2013.10.004. Epub 2013 Oct 27. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-3
+DO  - doi:10.1016/j.brs.2013.10.004
+IS  - 2
+KW  - Adolescent
+Adult
+Asperger Syndrome/physiopathology/psychology/*therapy
+Autistic Disorder/physiopathology/psychology/*therapy
+Double-Blind Method
+Female
+Humans
+Male
+Middle Aged
+Prefrontal Cortex/*physiopathology
+Prospective Studies
+*Social Adjustment
+Transcranial Magnetic Stimulation/*methods
+Treatment Outcome
+Young Adult
+Autism spectrum disorder
+Deep rTMS
+Medial prefrontal cortex
+Mentalizing
+Social relating
+LA  - eng
+PY  - 2014
+SN  - 1876-4754
+SP  - 206-11
+ST  - A double-blind, randomized trial of deep repetitive transcranial magnetic stimulation (rTMS) for autism spectrum disorder
+T2  - Brain Stimul
+TI  - A double-blind, randomized trial of deep repetitive transcranial magnetic stimulation (rTMS) for autism spectrum disorder
+VL  - 7
+ID  - 50749
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: We tested the hypothesis that sleep training would improve emotional, social and behavioural functioning in children with attention-deficit/hyperactivity disorder (ADHD) compared to children with ADHD without such intervention and to healthy controls. METHODS: Forty children with ADHD were randomly assigned to intervention and control conditions. Parents of 20 children with ADHD were instructed and thoroughly supervised in improving their children's sleep schedules and sleep behaviour. Parents of the other 20 children with ADHD and parents of 20 healthy children received general information about sleep hygiene. At baseline and 12 weeks later, parents and children completed questionnaires related to children's sleep and psychological functioning. RESULTS: Relative to the control groups, children in the intervention group improved sleep quantitatively and qualitatively (F values < 3.33, P values < 0.05). The intervention group children reported improvements in mood, emotions, and relationships (F values < 2.99, P values < 0.05). Parents reported that their children improved in physical and psychological wellbeing, mood, emotions, relationships, and social acceptance (F values < 3.02, P values < 0.05). CONCLUSIONS: Training and monitoring parents of children with ADHD in regulating and supervising children's sleep schedules leads to positive changes in the emotions, behaviour and social lives of these children.
+AN  - rayyan-1277755950
+AU  - Keshavarzi, Z.
+AU  - Bajoghli, H.
+AU  - Mohamadi, M. R.
+AU  - Salmanian, M.
+AU  - Kirov, R.
+AU  - Gerber, M.
+AU  - Holsboer-Trachsler, E.
+AU  - Brand, S.
+C1  - 1814-1412 Keshavarzi, Zahra Bajoghli, Hafez Mohamadi, Mohammad Reza Salmanian, Maryam Kirov, Roumen Gerber, Markus Holsboer-Trachsler, Edith Brand, Serge Journal Article Randomized Controlled Trial England 2014/06/25 World J Biol Psychiatry. 2014 Dec;15(8):609-19. doi: 10.3109/15622975.2014.922698. Epub 2014 Jun 24. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-12
+DO  - doi:10.3109/15622975.2014.922698
+IS  - 8
+KW  - Adolescent
+Attention Deficit Disorder with Hyperactivity/complications/psychology/*therapy
+Case-Control Studies
+Child
+Female
+Humans
+Male
+Parents
+Sleep
+Sleep Wake Disorders/complications/psychology/*therapy
+Treatment Outcome
+Adhd
+behaviour
+emotions
+intervention
+LA  - eng
+PY  - 2014
+SN  - 1562-2975
+SP  - 609-19
+ST  - In a randomized case-control trial with 10-years olds suffering from attention deficit/hyperactivity disorder (ADHD) sleep and psychological functioning improved during a 12-week sleep-training program
+T2  - World J Biol Psychiatry
+TI  - In a randomized case-control trial with 10-years olds suffering from attention deficit/hyperactivity disorder (ADHD) sleep and psychological functioning improved during a 12-week sleep-training program
+VL  - 15
+ID  - 50750
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To compare the effects of right unilateral (RUL) electroconvulsive therapy (ECT) and algorithm-based pharmacologic treatment (APT) on neurocognitive function in treatment-resistant bipolar disorder depression. METHOD: Inpatients with DSM-IV-TR-diagnosed, treatment-resistant bipolar depression, who were acutely admitted to 1 of the 7 clinical study centers in Norway, were recruited from May 2008 to April 2011 into a prospective, randomized controlled, 6-week acute treatment trial. General neurocognitive function was assessed with the MATRICS Consensus Cognitive Battery (MCCB), and retrograde memory for autobiographical events was assessed with the Autobiographical Memory Interview-Short Form (AMI-SF) before and shortly after (mean = 23.5 days) a trial with either RUL brief-pulse ECT (mean dose = 233.3 mC) or APT. RESULTS: Seventy-three patients entered, and 39 (nECT = 19, nAPT = 20) completed. Both groups showed improvements in all MCCB domain scores, with no significant differences between the study groups (no interaction effect: F₁,₃₇ = 1.52, P = NS). Improvements in neurocognitive performance were significantly correlated with reductions in depression ratings posttreatment. The AMI-SF score was significantly lower (based on consistent answers from pre- to posttreatment) in the ECT group (72.9%) than in the APT group (80.8%, P = .025), indicating reduced consistency in autobiographical memory after ECT. CONCLUSIONS: General neurocognitive function was unaffected by RUL brief-pulse ECT treatment and positively related to improved mood in bipolar depression. Autobiographical memory consistency was reduced in patients treated with ECT. The results suggest that ECT can be used in treatment-resistant bipolar depression without compromising general neurocognitive function. The clinical relevance of reduced autobiographical memory consistency in the ECT group requires further investigation. TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT00664976.
+AN  - rayyan-1277755951
+AU  - Kessler, U.
+AU  - Schoeyen, H. K.
+AU  - Andreassen, O. A.
+AU  - Eide, G. E.
+AU  - Malt, U. F.
+AU  - Oedegaard, K. J.
+AU  - Morken, G.
+AU  - Sundet, K.
+AU  - Vaaler, A. E.
+C1  - 1555-2101 Kessler, Ute Schoeyen, Helle K Andreassen, Ole A Eide, Geir E Malt, Ulrik F Oedegaard, Ketil J Morken, Gunnar Sundet, Kjetil Vaaler, Arne E Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2014/12/04 J Clin Psychiatry. 2014 Nov;75(11):e1306-13. doi: 10.4088/JCP.13m08960. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-11
+DO  - doi:10.4088/JCP.13m08960
+IS  - 11
+KW  - Adult
+Algorithms
+Bipolar Disorder/drug therapy/*therapy
+Cognition Disorders/diagnosis/*etiology
+Depressive Disorder, Treatment-Resistant/drug therapy/*therapy
+Electroconvulsive Therapy/*adverse effects/methods
+Female
+Humans
+Male
+Memory, Episodic
+Middle Aged
+Treatment Outcome
+LA  - eng
+PY  - 2014
+SN  - 0160-6689
+SP  - e1306-13
+ST  - The effect of electroconvulsive therapy on neurocognitive function in treatment-resistant bipolar disorder depression
+T2  - J Clin Psychiatry
+TI  - The effect of electroconvulsive therapy on neurocognitive function in treatment-resistant bipolar disorder depression
+VL  - 75
+ID  - 50751
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Most evidence in the UK on the effectiveness of brief therapy for depression concerns cognitive behaviour therapy (CBT). In a trial published in 2000, we showed that non-directive counselling and CBT were equally effective in general practice for patients with depression and mixed anxiety and depression. Our results were criticized for including patients not meeting diagnostic criteria for a depressive disorder. In this reanalysis we aimed to compare the effectiveness of the two therapies for patients with an ICD-10 depressive episode. METHOD: Patients with an ICD-10 depressive episode or mixed anxiety and depression were randomized to counselling, CBT or usual general practitioner (GP) care. Counsellors provided nondirective, interpersonal counselling following a manual that we developed based on the work of Carl Rogers. Cognitive behaviour therapists provided CBT also guided by a manual. Modelling was carried out using generalized estimating equations with the multiply imputed datasets. Outcomes were mean scores on the Beck Depression Inventory, Brief Symptom Inventory, and Social Adjustment Scale at 4 and 12 months. RESULTS: A total of 134 participants were randomized to CBT, 126 to counselling and 67 to usual GP care. We undertook (1) an interaction analysis using all 316 patients who were assigned a diagnosis and (2) a head-to-head comparison using only those 130 (41%) participants who had an ICD-10 depressive episode at baseline. CBT and counselling were both superior to GP care at 4 months but not at 12 months. There was no difference in the effectiveness of the two psychological therapies. CONCLUSIONS: We recommend that national clinical guidelines take our findings into consideration in recommending effective alternatives to CBT.
+AN  - rayyan-1277755955
+AU  - King, M.
+AU  - Marston, L.
+AU  - Bower, P.
+C1  - 1469-8978 King, M Marston, L Bower, P Comparative Study Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2013/10/10 Psychol Med. 2014 Jul;44(9):1835-44. doi: 10.1017/S0033291713002377. Epub 2013 Oct 8. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-7
+DO  - doi:10.1017/s0033291713002377
+IS  - 9
+KW  - Adult
+Anxiety Disorders/epidemiology/*therapy
+Cognitive Behavioral Therapy/*methods
+Comorbidity
+Counseling/*methods
+Depressive Disorder/epidemiology/*therapy
+Female
+General Practice
+Humans
+International Classification of Diseases
+Male
+Middle Aged
+Treatment Outcome
+LA  - eng
+PY  - 2014
+SN  - 0033-2917
+SP  - 1835-44
+ST  - Comparison of non-directive counselling and cognitive behaviour therapy for patients presenting in general practice with an ICD-10 depressive episode: a randomized control trial
+T2  - Psychol Med
+TI  - Comparison of non-directive counselling and cognitive behaviour therapy for patients presenting in general practice with an ICD-10 depressive episode: a randomized control trial
+VL  - 44
+ID  - 50752
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: To determine whether cumulative anodal transcranial direct current stimulation (A-tDCS) of the left dorsolateral prefrontal cortex (DLPFC) could enhance rehabilitation of memory and attention in patients with traumatic brain injury (TBI). SETTING: Inpatient and outpatient neurorehabilitation unit. PARTICIPANTS: Twenty-three adult patients, 4- to 92- months post severe TBI. DESIGN: Participants were randomly allocated to 2 groups. The experimental group received A-tDCS (10 minutes; 1 mA; in the DLPFC), followed by rehabilitative cognitive training, daily for 15 days. Controls received A-tDCS for 25 seconds (sham condition) with the same rehabilitation. MAIN MEASURES: Battery of memory and attention tests, which included visual and auditory modalities. Participants were tested twice before beginning rehabilitation (to control for spontaneous recovery), after rehabilitation completion, and 4 months later. RESULTS: Tests scores in both groups were similar at 3 weeks before and immediately before treatment. After treatment, the experimental group exhibited larger effect sizes in 6 of 8 cognitive outcome measures, but they were not significantly different from controls. At follow-up, differences remained insignificant. CONCLUSION: In contrast to previous studies, our study did not provide sufficient evidence to support the efficacy of repeated A-tDCS for enhancing rehabilitation of memory and attention in patients after severe TBI.
+AN  - rayyan-1277755988
+AU  - Leśniak, M.
+AU  - Polanowska, K.
+AU  - Seniów, J.
+AU  - Członkowska, A.
+C1  - 1550-509x Leśniak, Marcin Polanowska, Katarzyna Seniów, Joanna Członkowska, Anna Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2013/06/13 J Head Trauma Rehabil. 2014 May-Jun;29(3):E20-9. doi: 10.1097/HTR.0b013e318292a4c2. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-5
+DO  - doi:10.1097/HTR.0b013e318292a4c2
+IS  - 3
+KW  - Adolescent
+Adult
+Attention/*physiology
+Brain Injuries/physiopathology/*rehabilitation
+Cognition Disorders/physiopathology/rehabilitation
+Electric Stimulation Therapy/*methods
+Female
+Glasgow Coma Scale
+Humans
+Male
+Memory Disorders/physiopathology/*rehabilitation
+Neuropsychological Tests
+Pilot Projects
+Prefrontal Cortex/*physiopathology
+Young Adult
+LA  - eng
+PY  - 2014
+SN  - 0885-9701
+SP  - E20-9
+ST  - Effects of repeated anodal tDCS coupled with cognitive training for patients with severe traumatic brain injury: a pilot randomized controlled trial
+T2  - J Head Trauma Rehabil
+TI  - Effects of repeated anodal tDCS coupled with cognitive training for patients with severe traumatic brain injury: a pilot randomized controlled trial
+VL  - 29
+ID  - 50753
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: In Parkinson's Disease (PD), cognitive dysfunctions which can reduce patients' quality of life occur frequently. Data on non-pharmacological intervention effects on cognitive functions in patients with PD are rare. The aim of this study was to examine the effects of different cognitive group trainings (structured vs. unstructured) on cognition, depression, and quality of life in non-demented PD patients. METHODS: In this randomized controlled trial, 65 non-demented patients with PD according to UK Brain Bank criteria (Hoehn & Yahr I-III) were allocated to one of two cognitive multi-component treatments ("NEUROvitalis", a structured training, or the unstructured training "Mentally fit" with randomly assembled cognitive tasks, each including 12 group-sessions à 90 min over 6 weeks) or a waiting list control group (CG). A neuropsychological test battery was performed before and after the training. RESULTS: Compared to the CG, patients from the "NEUROvitalis" group improved in short-term memory (word list learning "Memo": p < .01) and working memory (digit span reverse from "DemTect": p < .05), whereas depression scores where reduced in the "Mentally fit" group (Beck Depression Inventory-II: p < .05). The "NEUROvitalis" group improved significantly more in working memory than the "Mentally fit" group (DemTect: p < .05). DISCUSSION: Cognitive and affective functions can be improved by cognitive trainings in PD patients. Specific effects (e.g. on memory and working memory versus depression) seem to be dependent on the type of training. Further research is needed to define long-term effects and the efficacy in PD patients with different extent of cognitive and neuropsychiatric symptoms.
+AN  - rayyan-1277756074
+AU  - Petrelli, A.
+AU  - Kaesberg, S.
+AU  - Barbe, M. T.
+AU  - Timmermann, L.
+AU  - Fink, G. R.
+AU  - Kessler, J.
+AU  - Kalbe, E.
+C1  - 1873-5126 Petrelli, Annette Kaesberg, Stephanie Barbe, Michael T Timmermann, Lars Fink, Gereon R Kessler, Josef Kalbe, Elke Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2014/09/23 Parkinsonism Relat Disord. 2014 Nov;20(11):1196-202. doi: 10.1016/j.parkreldis.2014.08.023. Epub 2014 Sep 16. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-11
+DO  - doi:10.1016/j.parkreldis.2014.08.023
+IS  - 11
+KW  - Aged
+Attention
+Cognition Disorders/*etiology/*rehabilitation
+Cognitive Behavioral Therapy/*methods
+Executive Function
+Female
+Humans
+Male
+Memory, Short-Term
+Middle Aged
+Neuropsychological Tests
+Parkinson Disease/*complications
+Cognitive training
+Depression
+Intervention
+Parkinson's disease
+LA  - eng
+PY  - 2014
+SN  - 1353-8020
+SP  - 1196-202
+ST  - Effects of cognitive training in Parkinson's disease: a randomized controlled trial
+T2  - Parkinsonism Relat Disord
+TI  - Effects of cognitive training in Parkinson's disease: a randomized controlled trial
+VL  - 20
+ID  - 50754
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The possibility of living well with a long-term condition has been identified as centrally relevant to the needs of people living with dementia. Growing numbers of people with early-stage dementia are contributing accounts that emphasise the benefits of actively engaging in managing the condition. Self-management interventions share the common objectives of educating about the condition, optimising well-being, enhancing control over the situation and enabling people to take more responsibility for managing the condition. Benefits of such an approach can include improved knowledge, self-efficacy, health status, and better performance of self-management behaviours. However, there is only preliminary evidence that people with early-stage dementia can benefit from such interventions. METHODS: This feasibility study involves the development of a self-management group intervention for people with early-stage Alzheimer's disease, vascular dementia or mixed Alzheimer's and vascular dementia. This study is a single-site pilot randomised-controlled trial. Forty-two people with early stage dementia, each with a caregiver (family member/friend), will be randomised to either the self-management group intervention or to treatment as usual.The self-management group intervention will involve eight weekly sessions, each lasting 90 minutes, held at a memory clinic in North Wales. All participants will be re-assessed three and six months post-randomisation. This study is intended to supply an early evaluation of the self-management intervention so that a full scale trial may be powered from the best available evidence. It will assess the feasibility of the intervention, the study design and the recruitment strategies. It will estimate the parameters and confidence intervals for the research questions of interest. The primary outcome of interest is the self-efficacy score of the person with dementia at three months post-randomisation. Secondary outcomes for the person with dementia are self-efficacy at six months post-randomisation and cognitive ability, mood and well-being at three and six months post-randomisation. Secondary outcomes for caregivers are their distress and stress at three and six months post-randomisation. The cost-effectiveness of the intervention will also be examined. DISCUSSION: This study will provide preliminary information about the feasibility, efficacy and cost-effectiveness of a self-management group intervention for people in the early stages of dementia. TRIAL REGISTRATION: Current Controlled Trials, ISRCTN02023181.
+AN  - rayyan-1277756081
+AU  - Quinn, C.
+AU  - Anderson, D.
+AU  - Toms, G.
+AU  - Whitaker, R.
+AU  - Edwards, R. T.
+AU  - Jones, C.
+AU  - Clare, L.
+C1  - 1745-6215 Quinn, Catherine Anderson, Daniel Toms, Gill Whitaker, Rhiannon Edwards, Rhiannon Tudor Jones, Carys Clare, Linda Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2014/03/13 Trials. 2014 Mar 8;15:74. doi: 10.1186/1745-6215-15-74. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-3-8
+DO  - doi:10.1186/1745-6215-15-74
+KW  - Affect
+Caregivers/psychology
+Clinical Protocols
+Cognition
+Cost-Benefit Analysis
+Dementia/diagnosis/economics/psychology/*therapy
+Feasibility Studies
+*Group Processes
+Health Behavior
+Health Care Costs
+Health Knowledge, Attitudes, Practice
+Humans
+Patient Education as Topic
+Pilot Projects
+Psychiatric Status Rating Scales
+*Research Design
+Self Care/*methods
+Self Efficacy
+Surveys and Questionnaires
+Time Factors
+Treatment Outcome
+Wales
+LA  - eng
+PY  - 2014
+SN  - 1745-6215
+SP  - 74
+ST  - Self-management in early-stage dementia: a pilot randomised controlled trial of the efficacy and cost-effectiveness of a self-management group intervention (the SMART study)
+T2  - Trials
+TI  - Self-management in early-stage dementia: a pilot randomised controlled trial of the efficacy and cost-effectiveness of a self-management group intervention (the SMART study)
+VL  - 15
+ID  - 50755
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: To assess whether a dementia care coordination intervention delays time to transition from home and reduces unmet needs in elders with memory disorders. DESIGN: 18-month randomized controlled trial of 303 community-living elders. SETTING: 28 postal code areas of Baltimore, MD. PARTICIPANTS: Age 70+ years, with a cognitive disorder, community-living, English-speaking, and having a study partner available. INTERVENTION: 18-month care coordination intervention to systematically identify and address dementia-related care needs through individualized care planning; referral and linkage to services; provision of dementia education and skill-building strategies; and care monitoring by an interdisciplinary team. MEASUREMENTS: Primary outcomes were time to transfer from home and total percent of unmet care needs at 18 months. RESULTS: Intervention participants had a significant delay in time to all-cause transition from home and the adjusted hazard of leaving the home was decreased by 37% (Hazard ratio: 0.63, 95% Confidence Interval: 0.42-0.94) compared with control participants. Although there was no significant group difference in reduction of total percent of unmet needs from baseline to 18 months, the intervention group had significant reductions in the proportion of unmet needs in safety and legal/advance care domains relative to controls. Intervention participants had a significant improvement in self-reported quality of life (QOL) relative to control participants. No group differences were found in proxy-rated QOL, neuropsychiatric symptoms, or depression. CONCLUSIONS: A home-based dementia care coordination intervention delivered by non-clinical community workers trained and overseen by geriatric clinicians led to delays in transition from home, reduced unmet needs, and improved self-reported QOL.
+AN  - rayyan-1277756114
+AU  - Samus, Q. M.
+AU  - Johnston, D.
+AU  - Black, B. S.
+AU  - Hess, E.
+AU  - Lyman, C.
+AU  - Vavilikolanu, A.
+AU  - Pollutra, J.
+AU  - Leoutsakos, J. M.
+AU  - Gitlin, L. N.
+AU  - Rabins, P. V.
+AU  - Lyketsos, C. G.
+C1  - 1545-7214 Samus, Quincy M Johnston, Deirdre Black, Betty S Hess, Edward Lyman, Christopher Vavilikolanu, Amrita Pollutra, Jane Leoutsakos, Jeannie-Marie Gitlin, Laura N Rabins, Peter V Lyketsos, Constantine G K01 MH085142/MH/NIMH NIH HHS/United States P50 AG005146/AG/NIA NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't England 2014/02/08 Am J Geriatr Psychiatry. 2014 Apr;22(4):398-414. doi: 10.1016/j.jagp.2013.12.175. Epub 2014 Jan 4. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2014-4
+DO  - doi:10.1016/j.jagp.2013.12.175
+IS  - 4
+KW  - Aged
+Aged, 80 and over
+Dementia/*therapy
+Female
+*Home Care Services
+Hospitalization/*statistics & numerical data
+Humans
+*Independent Living
+Long-Term Care/statistics & numerical data
+Male
+Memory Disorders/*therapy
+Nursing Homes/*statistics & numerical data
+Patient Care Management/*methods
+Pilot Projects
+Proportional Hazards Models
+Single-Blind Method
+Time Factors
+Dementia
+care coordination
+care management
+community
+intervention
+memory disorders
+LA  - eng
+PY  - 2014
+SN  - 1064-7481 (Print) 1064-7481
+SP  - 398-414
+ST  - A multidimensional home-based care coordination intervention for elders with memory disorders: the maximizing independence at home (MIND) pilot randomized trial
+T2  - Am J Geriatr Psychiatry
+TI  - A multidimensional home-based care coordination intervention for elders with memory disorders: the maximizing independence at home (MIND) pilot randomized trial
+VL  - 22
+ID  - 50756
+ER  - 
+
+TY  - JOUR
+AB  - We developed and evaluated the effect of Multimodal Cognitive Enhancement Therapy (MCET) consisting of cognitive training, cognitive stimulations, reality orientation, physical therapy, reminiscence therapy, and music therapy in combination in older people with mild cognitive impairment (MCI) or mild dementia. This study was a multi-center, double-blind, randomized, placebo-controlled, two-period cross-over study (two 8-week treatment phases separated by a 4-week wash-out period). Sixty-four participants with MCI or dementia whose Clinical Dementia Rating was 0.5 or 1 were randomized to the MCET group or the mock-therapy (placebo) group. Outcomes were measured at baseline, week 9, and week 21. Fifty-five patients completed the study. Mini-Mental State Examination (effect size = 0.47, p = 0.013) and Alzheimer's Disease Assessment Scale-Cognitive Subscale (effect size = 0.35, p = 0.045) scores were significantly improved in the MCET compared with mock-therapy group. Revised Memory and Behavior Problems Checklist frequency (effect size = 0.38, p = 0.046) and self-rated Quality of Life - Alzheimer's Disease (effect size = 0.39, p = 0.047) scores were significantly improved in the MCET compared with mock-therapy. MCET improved cognition, behavior, and quality of life in people with MCI or mild dementia more effectively than conventional cognitive enhancing activities did.
+AN  - rayyan-1277757255
+AU  - Han, J. W.
+AU  - Lee, H.
+AU  - Hong, J. W.
+AU  - Kim, K.
+AU  - Kim, T.
+AU  - Byun, H. J.
+AU  - Ko, J. W.
+AU  - Youn, J. C.
+AU  - Ryu, S. H.
+AU  - Lee, N. J.
+AU  - Pae, C. U.
+AU  - Kim, K. W.
+C1  - 1875-8908 Han, Ji Won Lee, Hyeonggon Hong, Jong Woo Kim, Kayoung Kim, Taehyun Byun, Hye Jin Ko, Ji Won Youn, Jong Chul Ryu, Seung-Ho Lee, Nam-Jin Pae, Chi-Un Kim, Ki Woong Journal Article Multicenter Study Randomized Controlled Trial Netherlands 2016/11/02 J Alzheimers Dis. 2017;55(2):787-796. doi: 10.3233/JAD-160619. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2017
+DO  - doi:10.3233/jad-160619
+IS  - 2
+KW  - Aged
+Aged, 80 and over
+Cognitive Behavioral Therapy/*methods
+Cognitive Dysfunction/*rehabilitation
+Cross-Over Studies
+Dementia/*rehabilitation
+Double-Blind Method
+Female
+Follow-Up Studies
+Humans
+Male
+Outcome Assessment, Health Care
+Psychiatric Status Rating Scales
+Time Factors
+Cognitive interventions
+cognitive therapy
+cognitive training
+dementia
+mild cognitive impairment
+mild dementia
+multimodal cognitive enhancement therapy
+non-pharmacologic treatment
+randomized controlled trials
+LA  - eng
+PY  - 2017
+SN  - 1387-2877
+SP  - 787-796
+ST  - Multimodal Cognitive Enhancement Therapy for Patients with Mild Cognitive Impairment and Mild Dementia: A Multi- Center, Randomized, Controlled, Double-Blind, Crossover Trial
+T2  - J Alzheimers Dis
+TI  - Multimodal Cognitive Enhancement Therapy for Patients with Mild Cognitive Impairment and Mild Dementia: A Multi- Center, Randomized, Controlled, Double-Blind, Crossover Trial
+VL  - 55
+ID  - 50757
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: Women with epilepsy (WWE) frequently experience sexual problems, including sexual dysfunction and sexual distress. Therefore, this study aimed to examine the efficacy of a mindfulness-based cognitive therapy for sexuality (MBCT-S) on sexual function and intimacy among older adult WWE in Iran. METHODS: A multicenter randomized controlled trial was conducted at 15 neurology clinics in three Iranian cities. WWE together with their partners and healthcare providers were randomly assigned in patient and partner (PP; n = 220), patient, partner, and healthcare provider (PPHP; n = 220), or treatment as usual (TAU; n = 220) group. WWE and their partners in both the PP and PPHP groups received eight weeks of MBCT-S sessions. In the PPHP group, three individual sessions on sexual counseling were added for healthcare providers. Self-assessment scales were used at baseline, one month and six months after completing the intervention. Mixed linear regression models were developed to determine differences among the three groups. Multilevel mediation analyses were conducted to understand the mediating effects of mindfulness, intimacy, patient-physicians relationship and sexual counseling barriers. RESULTS: Improvements in sexual function, sexual distress, and intimacy were found in both the PP and PPHP groups at one-month and six-month follow-ups. The PPHP group compared with the PP group had greater improvement in intimacy at both follow-ups. Regarding sexual function, the PPHP group performed better than the PP group at the six-month follow-up. CONCLUSIONS: The MBCT-S appears efficacious in enhancing sexual function and reducing sex-related distress in Iranian older adult WWE. Future studies should examine its efficacy in other populations.
+AN  - rayyan-1277758179
+AU  - Lin, C. Y.
+AU  - Potenza, M. N.
+AU  - Broström, A.
+AU  - Blycker, G. R.
+AU  - Pakpour, A. H.
+C1  - 1532-2688 Lin, Chung-Ying Potenza, Marc N Broström, Anders Blycker, Gretchen R Pakpour, Amir H Journal Article Multicenter Study Randomized Controlled Trial England 2019/11/24 Seizure. 2019 Dec;73:64-74. doi: 10.1016/j.seizure.2019.10.010. Epub 2019 Nov 9. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2019-12
+DO  - doi:10.1016/j.seizure.2019.10.010
+KW  - Aged
+Cognitive Behavioral Therapy/methods
+Epilepsy/*complications
+Female
+Humans
+Middle Aged
+Mindfulness/*methods
+Sexual Dysfunction, Physiological/etiology/*therapy
+Sexual Dysfunctions, Psychological/etiology/*therapy
+Treatment Outcome
+Intimacy
+Mindfulness
+Seizure
+Sex
+LA  - eng
+PY  - 2019
+SN  - 1059-1311
+SP  - 64-74
+ST  - Mindfulness-based cognitive therapy for sexuality (MBCT-S) improves sexual functioning and intimacy among older women with epilepsy: A multicenter randomized controlled trial
+T2  - Seizure
+TI  - Mindfulness-based cognitive therapy for sexuality (MBCT-S) improves sexual functioning and intimacy among older women with epilepsy: A multicenter randomized controlled trial
+VL  - 73
+ID  - 50758
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: Children with epilepsy experience cognitive deficits and well-being issues that have detrimental effects on their development. Pharmacotherapy is the standard of care in epilepsy; however, few interventions exist to promote cognitive development and to mitigate disease burden. We aimed to examine the impact of two different modalities of neurofeedback (NFB) on cognitive functioning and quality-of-life (QOL) measurements in children and adolescents with controlled focal epilepsy. The study also explored the effects of NFB on clinical outcomes and electroencephalography (EEG) quantitative analysis. METHODS: Participants (n = 44) with controlled focal epilepsy were randomized to one of three arms: sensorimotor rhythm (SMR) NFB (n = 15), slow cortical potentials (SCP) NFB (n = 16), or sham NFB (n = 13). All participants received 25 sessions of intervention. The attention switching task (AST), Liverpool Seizure Severity Scale (LSSS), seizure frequency (SF), EEG power spectrum, and coherence were measured at baseline, postintervention, and at 3-month follow-up. RESULTS: In children and adolescents with controlled focal epilepsy, SMR training significantly reduced reaction time in the AST (p = 0.006), and this was correlated with the difference of change for theta power on EEG (p = 0.03); only the SMR group showed a significant decrease in beta coherence (p = 0.03). All groups exhibited improvement in QOL (p = <0.05). CONCLUSIONS: This study provides the first data on two NFB modalities (SMR and SCP) including cognitive, neurophysiological, and clinical outcomes in pediatric epilepsy. Sensorimotor rhythm NFB improved cognitive functioning, while all the interventions showed improvements in QOL, demonstrating a powerful placebo effect in the sham group.
+AN  - rayyan-1277758224
+AU  - Morales-Quezada, L.
+AU  - Martinez, D.
+AU  - El-Hagrassy, M. M.
+AU  - Kaptchuk, T. J.
+AU  - Sterman, M. B.
+AU  - Yeh, G. Y.
+C1  - 1525-5069 Morales-Quezada, Leon Martinez, Diana El-Hagrassy, Mirret M Kaptchuk, Ted J Sterman, M Barry Yeh, Gloria Y K24 AT009465/AT/NCCIH NIH HHS/United States T32 AT000051/AT/NCCIH NIH HHS/United States Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't United States 2019/11/11 Epilepsy Behav. 2019 Dec;101(Pt A):106570. doi: 10.1016/j.yebeh.2019.106570. Epub 2019 Nov 8. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2019-12
+DO  - doi:10.1016/j.yebeh.2019.106570
+KW  - Adolescent
+Child
+Cognition/physiology
+Cognitive Dysfunction/*psychology/*therapy
+Double-Blind Method
+Electroencephalography/methods
+Epilepsies, Partial/*psychology/*therapy
+Female
+Humans
+Male
+Neurofeedback/*methods/physiology
+Placebo Effect
+Quality of Life/*psychology
+Treatment Outcome
+Cognition
+Neurofeedback
+Pediatric focal epilepsy
+Quality of life
+LA  - eng
+PY  - 2019
+SN  - 1525-5050 (Print) 1525-5050
+SP  - 106570
+ST  - Neurofeedback impacts cognition and quality of life in pediatric focal epilepsy: An exploratory randomized double-blinded sham-controlled trial
+T2  - Epilepsy Behav
+TI  - Neurofeedback impacts cognition and quality of life in pediatric focal epilepsy: An exploratory randomized double-blinded sham-controlled trial
+VL  - 101
+ID  - 50759
+ER  - 
+
+TY  - JOUR
+AB  - This pilot randomized controlled trial evaluated the combined effect of individual and group aerobic exercises (AEs) on cognition in schizophrenia. Among 32 randomized patients, 31 were included in the intent-to-treat population: 16 in treatment as usual (TAU) + AE and 15 in TAU groups. Over 12 weeks, patients were given a dose of 2 exercise sessions per week, including 1 individual session and 1 group session. TAU + AE patients showed significant improvements in cognition, intrinsic motivation, psychiatric symptoms, and interpersonal relations. These encouraging findings support the promise of integrated individual and group AEs to improve cognition and other outcomes in schizophrenia.
+AN  - rayyan-1277758295
+AU  - Shimada, T.
+AU  - Ito, S.
+AU  - Makabe, A.
+AU  - Yamanushi, A.
+AU  - Takenaka, A.
+AU  - Kobayashi, M.
+C1  - 1872-7123 Shimada, Takeshi Ito, Shoko Makabe, Aya Yamanushi, Ayumi Takenaka, Ami Kobayashi, Masayoshi Journal Article Randomized Controlled Trial Ireland 2019/11/07 Psychiatry Res. 2019 Dec;282:112638. doi: 10.1016/j.psychres.2019.112638. Epub 2019 Nov 1. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2019-12
+DO  - doi:10.1016/j.psychres.2019.112638
+KW  - Adult
+Cognitive Dysfunction/etiology/*rehabilitation
+*Exercise
+Exercise Therapy/*methods
+Female
+Humans
+Male
+Middle Aged
+Pilot Projects
+Schizophrenia/complications/*rehabilitation
+Treatment Outcome
+Young Adult
+Aerobic exercise
+Cognition
+Rehabilitation
+Schizophrenia
+LA  - eng
+PY  - 2019
+SN  - 0165-1781
+SP  - 112638
+ST  - Aerobic exercise and cognitive functioning in schizophrenia: A pilot randomized controlled trial
+T2  - Psychiatry Res
+TI  - Aerobic exercise and cognitive functioning in schizophrenia: A pilot randomized controlled trial
+VL  - 282
+ID  - 50760
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVE: (1) To evaluate the feasibility of conducting a randomized controlled trial (RCT) of the Safety, Meaning, Activation and Resilience Training (SMART) intervention vs nondirective supportive psychotherapy (NDSP) in an acutely hospitalized adult survivor of burn injury sample; and (2) to assess the preliminary effect of SMART on acute stress disorder (ASD), posttraumatic stress disorder (PTSD), and major depressive disorder (MDD) symptom reduction as secondary prevention. DESIGN: Proof-of-concept, parallel group RCT design. SETTING: Regional burn center. PARTICIPANTS: Acutely injured, hospitalized adult survivors of burn injury (N=50) were randomly assigned to SMART (n=28) or nondirective supportive psychotherapy (n=22). Due to dropout and missing data, final sample size was 40, SMART (n=21) and nondirective supportive psychotherapy (n=19). INTERVENTIONS: SMART is a manualized, 4-session cognitive behavioral therapy-based psychological intervention targeting ASD, PTSD, and MDD symptoms. NDSP is a manualized, 4-session protocol. MAIN OUTCOME MEASURES: Davidson Trauma Scale ([DTS]; diagnostic proxy for ASD and PTSD; clinical cutoff=40, with higher score=higher severity) and the Patient Health Questionnaire-9 ([PHQ-9]; diagnostic proxy for MDD; clinical cutoff=10, with higher score=higher severity) at pretreatment, immediate posttreatment, and 1 month posttreatment. RESULTS: At baseline, median DTS scores and PHQ-9 scores were above clinical cutoffs and did not differ across groups. At 1 week and 1 month posttreatment, median DTS and PHQ-9 scores were beneath clinical cutoffs in the SMART group; scores remained above clinical cutoffs in the NDSP group at these time points. CONCLUSIONS: It is feasible to conduct an RCT of SMART in hospitalized adult survivors of burn injury. SMART has the potential to yield clinically significant outcomes. Additional studies are needed to replicate and extend these findings.
+AN  - rayyan-1277758490
+AU  - Fauerbach, J. A.
+AU  - Gehrke, A. K.
+AU  - Mason, S. T.
+AU  - Gould, N. F.
+AU  - Milner, S. M.
+AU  - Caffrey, J.
+C1  - 1532-821x Fauerbach, James A Gehrke, Amanda K Mason, Shawn T Gould, Neda F Milner, Stephen M Caffrey, Julie Journal Article Randomized Controlled Trial Research Support, N.I.H., Extramural United States 2019/02/19 Arch Phys Med Rehabil. 2020 Jan;101(1S):S16-S25. doi: 10.1016/j.apmr.2018.11.027. Epub 2019 Feb 15. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2020-1
+DO  - doi:10.1016/j.apmr.2018.11.027
+IS  - 1
+KW  - Adolescent
+Adult
+Burns/*psychology
+Depressive Disorder, Major/*prevention & control/psychology
+Female
+Hospitalization
+Humans
+Male
+Middle Aged
+Psychotherapy/*methods
+Resilience, Psychological
+Stress Disorders, Post-Traumatic/*psychology/*therapy
+Trauma Severity Indices
+Young Adult
+Acute stress disorder
+Cognitive behavioral therapy
+Depression
+Depressive disorder
+Rehabilitation
+Stress disorders, post-traumatic
+Stress disorders, traumatic, acute
+LA  - eng
+PY  - 2020
+SN  - 0003-9993
+SP  - S16-s25
+ST  - Cognitive Behavioral Treatment for Acute Posttrauma Distress: A Randomized, Controlled Proof-of-Concept Study Among Hospitalized Adults With Burns
+T2  - Arch Phys Med Rehabil
+TI  - Cognitive Behavioral Treatment for Acute Posttrauma Distress: A Randomized, Controlled Proof-of-Concept Study Among Hospitalized Adults With Burns
+VL  - 101
+ID  - 50761
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: The therapeutic effects of outdoor cycling (OC) and its benefits on physical activity (PA) were investigated in people with schizophrenia. METHODS: Sixty patients with schizophrenia were randomly assigned to 16-weeks of Outdoor Cycling (OC) (n = 30, 50% male; mean age, 38.7 ± 10.1) or Occupational Therapy (OT) (n = 30, 50% male; mean age, 39.0 ± 8.6). OC and OT involved one 90-min group session per week. OC consisted of structured exercise programs and OT addressed daily living skills. Primary outcome measurements were mental health variables, such as Brief Psychiatric Rating Scale, Beck's Depression Inventory, State and Trait Anxiety Inventory, Rosenberg Self-Esteem Scale, Global Assessment of Functioning and executive function (Wisconsin Card Sorting Test, WCST). Secondary measures were the adherence and PA. PA was measured by responding to the Physical Activity Scale (K-PASE) and wearing a pedometer for 2 days. RESULTS: Repeated measures ANOVA revealed improved psychotic symptoms (p = .014), depression (p = .007), state (p = .031) and trait anxiety (p = .002) and global functions (p = .024) in the OC group compared with OT group. The OC group showed increased correct rates (p = .022) and categories completed (p = .033) in the WCST. There was no difference in total K-PASE score between groups; however, there was a significant improvement in the number of daily steps in the OC group compared with the OT group (p = .030). CONCLUSION: OC significantly improved mental health and executive function in individuals with schizophrenia. Further, OC significantly increased PA measured by the pedometers. These findings suggest that OC offers a safe and attrition-lowering intervention promoting mental health and PA. TRIAL REGISTRATION: cris.nih.go.kr identifier: KCT-0000873.
+AN  - rayyan-1277758678
+AU  - Ryu, J.
+AU  - Jung, J. H.
+AU  - Kim, J.
+AU  - Kim, C. H.
+AU  - Lee, H. B.
+AU  - Kim, D. H.
+AU  - Lee, S. K.
+AU  - Shin, J. H.
+AU  - Roh, D.
+C1  - 1879-1379 Ryu, Jehkwang Jung, Jae Hoon Kim, Jiheon Kim, Chan-Hyung Lee, Hwa-Bock Kim, Do-Hoon Lee, Sang-Kyu Shin, Ji-Hyeon Roh, Daeyoung Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't England 2019/11/05 J Psychiatr Res. 2020 Jan;120:144-153. doi: 10.1016/j.jpsychires.2019.10.015. Epub 2019 Oct 21. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2020-1
+DO  - doi:10.1016/j.jpsychires.2019.10.015
+KW  - Adult
+Bicycling/*physiology
+Cognitive Dysfunction/etiology/*physiopathology/therapy
+Executive Function/*physiology
+Exercise/*physiology
+*Exercise Therapy
+Female
+Humans
+Male
+Middle Aged
+Outcome Assessment, Health Care
+Schizophrenia/complications/*physiopathology/*therapy
+Single-Blind Method
+Executive function
+Outdoor cycling
+Pedometer
+Physical activity
+Schizophrenia
+Symptom
+LA  - eng
+PY  - 2020
+SN  - 0022-3956
+SP  - 144-153
+ST  - Outdoor cycling improves clinical symptoms, cognition and objectively measured physical activity in patients with schizophrenia: A randomized controlled trial
+T2  - J Psychiatr Res
+TI  - Outdoor cycling improves clinical symptoms, cognition and objectively measured physical activity in patients with schizophrenia: A randomized controlled trial
+VL  - 120
+ID  - 50762
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Integrating evidence-based music-with-movement into routine practices for people with dementia requires effective implementation strategies. The objectives of this study were to evaluate the clinical efficacy of the intervention and to examine the effectiveness of the implementation strategies in promoting home-based adoption. METHODS: This was a cluster randomized controlled trial adopting a clinical effectiveness-implementation hybrid design. The 12-week music-with-movement intervention aims to promote the well-being of people with dementia and their caregivers. Clinical outcomes were assessed to evaluate the efficacy of the intervention. These included the symptoms of anxiety and depression of people with dementia; caregivers' perception of their stress and the positive aspects of caregiving; and the quality of the dyadic relationship. Caregivers, staff, and volunteers were interviewed and objective figures on reach and adoption were collected to reflect the outcomes of the implementation. RESULTS: Compared to the waitlist control, there was a significant reduction in the anxiety and the symptoms of depression of those in the intervention group. There was also a significant reduction in the perceived stress level of the caregivers. Six focus group interviews were conducted. The intervention and the appropriateness of the implementation strategies were perceived positively by the dyad participants, the staff of the centres, and volunteers. Of the collaborating centres, 57% continued to use the intervention and, after six months, served six times more people than were recruited in this study. Over half of the participating families continued to use the intervention for at least six more months. CONCLUSION: Music-with-movement interventions showed promise for improving the well-being of people with dementia and their caregivers. Effective strategies facilitated the implementation process, such as integrating communication technology to provide instant support and involving volunteers in engaging the collaborating centres and families. This study sheds light on perceptions of the intervention, and on its scalability for a broader population. TRIAL REGISTRATION: NCT03575026, Registered 2 July 2018.
+AN  - rayyan-1277759246
+AU  - Cheung, D. S. K.
+AU  - Ho, L. Y. W.
+AU  - Chan, L. C. K.
+AU  - Kwok, R. K. H.
+AU  - Lai, C. K. Y.
+C1  - 1178-1998 Cheung, Daphne Sze Ki Orcid: 0000-0001-5651-9352 Ho, Lily Yuen Wah Orcid: 0000-0001-8967-8763 Chan, Liliane Chui King Orcid: 0000-0001-7426-7603 Kwok, Robin Ka Ho Orcid: 0000-0003-3841-9715 Lai, Claudia Kam Yuk Orcid: 0000-0001-8503-5429 Journal Article Randomized Controlled Trial New Zealand 2022/08/19 Clin Interv Aging. 2022 Aug 11;17:1199-1216. doi: 10.2147/CIA.S370661. eCollection 2022. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2022
+DO  - doi:10.2147/cia.S370661
+KW  - Caregivers
+*Dementia/therapy
+Focus Groups
+Humans
+*Music
+Quality of Life
+Treatment Outcome
+acceptability
+dementia
+implementation
+music
+well-being
+LA  - eng
+PY  - 2022
+SN  - 1176-9092 (Print) 1176-9092
+SP  - 1199-1216
+ST  - A Home-Based Dyadic Music-with-Movement Intervention for People with Dementia and Caregivers: A Hybrid Type 2 Cluster-Randomized Effectiveness-Implementation Design
+T2  - Clin Interv Aging
+TI  - A Home-Based Dyadic Music-with-Movement Intervention for People with Dementia and Caregivers: A Hybrid Type 2 Cluster-Randomized Effectiveness-Implementation Design
+VL  - 17
+ID  - 50763
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Computer-based cognitive training programs have been developed with promising results on the maintenance/improvement of cognitive performance in people with dementia. OBJECTIVE: The objective was to evaluate the effectiveness of the cognitive rehabilitation program "GRADIOR" in people with mild cognitive impairment and mild dementia. METHOD: This study was a single-blind multicenter randomized clinical trial. Participants were recruited from hospitals/day centers. The experimental group (EG) and control group (CG) received computer-based cognitive training (CCT) and routine daily care, respectively. Outcome measures at T0: baseline, T1: at 4 months, T2: at 12 months were compared within and between-groups. RESULTS: Significant differences or important effect sizes were detected at the intragroup and intergroup level for most variables, observing a trend of improvement and/or maintenance at 4 months by Visual Reasoning of Cambridge Cognitive Examination (CAMCOG), Digit and Arithmetic of WAIS-III, Semantic Verbal Fluency, Mini-Mental State Exam (MMSE), Trail Making Test (TMT)-A-Mistakes and at 12 months by Visual Reasoning of CAMCOG, Digit Symbol of WAIS-III, TMT-B-mistakes, Visual Memory of Rivermead Behavioural Memory Test, Lexical Verbal Fluency-P, Yesavage's Geriatric Depression Scale (GDS), TMT-A-time scales whose objective was to evaluate some executive functions and/or the memory. The CG presented a worsening trend for most of the measures towards 12 months. There was also a significant interaction between "time and group" for MMSE (F = 8.971; p = 0.03; η2 = 0.019) and the GDS (F = 3.414; p = 0.04; η2 = 0.041), as well as small effect sizes for TMT-A-time (F = 1.641; p = 0.21; η2 = 0.021) and TMT-A-mistakes (F = 0.908; p = 0.41; η2 = 0.019). CONCLUSION: CCT with GRADIOR has been proved to benefit cognitive functions (ISRCTN:15742788).
+AN  - rayyan-1277759268
+AU  - Diaz Baquero, A. A.
+AU  - Franco-Martín, M. A.
+AU  - Parra Vidales, E.
+AU  - Toribio-Guzmán, J. M.
+AU  - Bueno-Aguado, Y.
+AU  - Martínez Abad, F.
+AU  - Perea Bartolomé, M. V.
+AU  - Asl, A. M.
+AU  - van der Roest, H. G.
+C1  - 1875-8908 Diaz Baquero, Angie A Franco-Martín, Manuel A Parra Vidales, Esther Toribio-Guzmán, José Miguel Bueno-Aguado, Yolanda Martínez Abad, Fernando Perea Bartolomé, María V Asl, Aysan Mahmoudi van der Roest, Henriëtte G Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't Netherlands 2022/02/07 J Alzheimers Dis. 2022;86(2):711-727. doi: 10.3233/JAD-215350. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2022
+DO  - doi:10.3233/jad-215350
+IS  - 2
+KW  - Aged
+Cognition
+*Cognitive Dysfunction/psychology
+*Dementia/psychology
+Executive Function
+Humans
+Neuropsychological Tests
+Single-Blind Method
+Treatment Outcome
+Cognitive training
+dementia
+mild cognitive impairment
+randomized controlled trial
+rehabilitation
+LA  - eng
+PY  - 2022
+SN  - 1387-2877 (Print) 1387-2877
+SP  - 711-727
+ST  - The Effectiveness of GRADIOR: A Neuropsychological Rehabilitation Program for People with Mild Cognitive Impairment and Mild Dementia. Results of a Randomized Controlled Trial After 4 and 12 Months of Treatment
+T2  - J Alzheimers Dis
+TI  - The Effectiveness of GRADIOR: A Neuropsychological Rehabilitation Program for People with Mild Cognitive Impairment and Mild Dementia. Results of a Randomized Controlled Trial After 4 and 12 Months of Treatment
+VL  - 86
+ID  - 50764
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: Family caregivers of patients with dementia suffer a high burden of depression and reduced positive emotions. Mentalizing imagery therapy (MIT) provides mindfulness and guided imagery skills training to improve balanced mentalizing and emotion regulation. OBJECTIVE: Our aims were to test the hypotheses that MIT for family caregivers would reduce depression symptoms and improve positive psychological traits more than a support group (SG), and would increase dorsolateral prefrontal cortex (DLPFC) connectivity and reduce subgenual anterior cingulate cortex (sgACC) connectivity. METHODS: Forty-six caregivers participated in a randomized controlled trial comparing a 4-week MIT group (n = 24) versus an SG (n = 22). Resting state neuroimaging was obtained at baseline and post-group in 28 caregivers, and questionnaires completed by all participants. The primary outcome was change in depression; secondary measures included anxiety, mindfulness, self-compassion, and well-being. Brain networks with participation of DLPFC and sgACC were identified. Connectivity strengths of DLPFC and sgACC with respective networks were determined with dual regression. DLPFC connectivity was correlated with mindfulness and depression outcomes. RESULTS: MIT significantly outperformed SG in improving depression, anxiety, mindfulness, self-compassion, and well-being, with moderate to large effect sizes. Relative to SG, participants in MIT showed significant increases in DLPFC connectivity - exactly replicating pilot study results - but no change in sgACC. DLPFC connectivity change correlated positively with mindfulness and negatively with depression change. CONCLUSIONS: In this trial, MIT was superior to SG for reducing depression and anxiety symptoms and improving positive psychological traits. Neuroimaging results suggested that strengthening DLPFC connectivity with an emotion regulation network might be mechanistically related to MIT effects.
+AN  - rayyan-1277759348
+AU  - Jain, F. A.
+AU  - Chernyak, S. V.
+AU  - Nickerson, L. D.
+AU  - Morgan, S.
+AU  - Schafer, R.
+AU  - Mischoulon, D.
+AU  - Bernard-Negron, R.
+AU  - Nyer, M.
+AU  - Cusin, C.
+AU  - Ramirez Gomez, L.
+AU  - Yeung, A.
+C1  - 1423-0348 Jain, Felipe A Chernyak, Sergey V Nickerson, Lisa D Morgan, Stefana Schafer, Rhiana Mischoulon, David Bernard-Negron, Richard Nyer, Maren Cusin, Cristina Ramirez Gomez, Liliana Yeung, Albert K76 AG064390/AG/NIA NIH HHS/United States P30 AG062421/AG/NIA NIH HHS/United States R21 AG051970/AG/NIA NIH HHS/United States Journal Article Randomized Controlled Trial Switzerland 2022/03/15 Psychother Psychosom. 2022;91(3):180-189. doi: 10.1159/000521950. Epub 2022 Mar 14. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2022
+DO  - doi:10.1159/000521950
+IS  - 3
+KW  - Caregivers
+*Dementia
+Humans
+Imagery, Psychotherapy
+Magnetic Resonance Imaging
+*Mentalization
+*Mindfulness/methods
+Pilot Projects
+Prefrontal Cortex/diagnostic imaging
+Depression
+Family caregivers
+Mentalization
+Mindfulness
+Neuroimaging
+LA  - eng
+PY  - 2022
+SN  - 0033-3190 (Print) 0033-3190
+SP  - 180-189
+ST  - Four-Week Mentalizing Imagery Therapy for Family Dementia Caregivers: A Randomized Controlled Trial with Neural Circuit Changes
+T2  - Psychother Psychosom
+TI  - Four-Week Mentalizing Imagery Therapy for Family Dementia Caregivers: A Randomized Controlled Trial with Neural Circuit Changes
+VL  - 91
+ID  - 50765
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Despite some promising preclinical and clinical data, it remains uncertain whether remote ischemic conditioning (RIC) with transient cycles of limb ischemia and reperfusion is an effective treatment for acute stroke. OBJECTIVE: To evaluate the effect of RIC when initiated in the prehospital setting and continued in the hospital on functional outcome in patients with acute stroke. DESIGN, SETTING, AND PARTICIPANTS: This was a randomized clinical trial conducted at 4 stroke centers in Denmark that included 1500 patients with prehospital stroke symptoms for less than 4 hours (enrolled March 16, 2018, to November 11, 2022; final follow-up, February 3, 2023). INTERVENTION: The intervention was delivered using an inflatable cuff on 1 upper extremity (RIC cuff pressure, ≤200 mm Hg [n = 749] and sham cuff pressure, 20 mm Hg [n = 751]). Each treatment application consisted of 5 cycles of 5 minutes of cuff inflation followed by 5 minutes of cuff deflation. Treatment was started in the ambulance and repeated at least once in the hospital and then twice daily for 7 days among a subset of participants. MAIN OUTCOMES AND MEASURES: The primary end point was improvement in functional outcome measured as a shift across the modified Rankin Scale (mRS) score (range, 0 [no symptoms] to 6 [death]) at 90 days in the target population with a final diagnosis of ischemic or hemorrhagic stroke. RESULTS: Among 1500 patients who were randomized (median age, 71 years; 591 women [41%]), 1433 (96%) completed the trial. Of these, 149 patients (10%) were diagnosed with transient ischemic attack and 382 (27%) with a stroke mimic. In the remaining 902 patients with a target diagnosis of stroke (737 [82%] with ischemic stroke and 165 [18%] with intracerebral hemorrhage), 436 underwent RIC and 466 sham treatment. The median mRS score at 90 days was 2 (IQR, 1-3) in the RIC group and 1 (IQR, 1-3) in the sham group. RIC treatment was not significantly associated with improved functional outcome at 90 days (odds ratio [OR], 0.95; 95% CI, 0.75 to 1.20, P = .67; absolute difference in median mRS score, -1; -1.7 to -0.25). In all randomized patients, there were no significant differences in the number of serious adverse events: 169 patients (23.7%) in the RIC group with 1 or more serious adverse events vs 175 patients (24.3%) in the sham group (OR, 0.97; 95% CI, 0.85 to 1.11; P = .68). Upper extremity pain during treatment and/or skin petechia occurred in 54 (7.2%) in the RIC group and 11 (1.5%) in the sham group. CONCLUSIONS AND RELEVANCE: RIC initiated in the prehospital setting and continued in the hospital did not significantly improve functional outcome at 90 days in patients with acute stroke. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT03481777.
+AN  - rayyan-1277759676
+AU  - Blauenfeldt, R. A.
+AU  - Hjort, N.
+AU  - Valentin, J. B.
+AU  - Homburg, A. M.
+AU  - Modrau, B.
+AU  - Sandal, B. F.
+AU  - Gude, M. F.
+AU  - Hougaard, K. D.
+AU  - Damgaard, D.
+AU  - Poulsen, M.
+AU  - Diedrichsen, T.
+AU  - Schmitz, M. L.
+AU  - von Weitzel-Mudersbach, P.
+AU  - Christensen, A. A.
+AU  - Figlewski, K.
+AU  - Grove, E. L.
+AU  - Hreiðarsdóttir, M. K.
+AU  - Lassesen, H. M.
+AU  - Wittrock, D.
+AU  - Mikkelsen, S.
+AU  - Væggemose, U.
+AU  - Juelsgaard, P.
+AU  - Kirkegaard, H.
+AU  - Rostgaard-Knudsen, M.
+AU  - Degn, N.
+AU  - Vestergaard, S. B.
+AU  - Damsbo, A. G.
+AU  - Iversen, A. B.
+AU  - Mortensen, J. K.
+AU  - Petersson, J.
+AU  - Christensen, T.
+AU  - Behrndtz, A. B.
+AU  - Bøtker, H. E.
+AU  - Gaist, D.
+AU  - Fisher, M.
+AU  - Hess, D. C.
+AU  - Johnsen, S. P.
+AU  - Simonsen, C. Z.
+AU  - Andersen, G.
+C1  - 1538-3598 Blauenfeldt, Rolf Ankerlund Hjort, Niels Valentin, Jan Brink Homburg, Anne-Mette Modrau, Boris Sandal, Birgitte Forsom Gude, Martin Faurholdt Hougaard, Kristina Dupont Damgaard, Dorte Poulsen, Marika Diedrichsen, Tove Schmitz, Marie Louise von Weitzel-Mudersbach, Paul Christensen, Alex Alban Figlewski, Krystian Grove, Erik Lerkevang Hreiðarsdóttir, Margrét Katrín Lassesen, Henning Morthorst Wittrock, Daniel Mikkelsen, Søren Væggemose, Ulla Juelsgaard, Palle Kirkegaard, Hans Rostgaard-Knudsen, Martin Degn, Niels Vestergaard, Sigrid Breinholt Damsbo, Andreas Gammelgaard Iversen, Ane Bull Mortensen, Janne Kærgård Petersson, Jesper Christensen, Thomas Behrndtz, Anne Brink Bøtker, Hans Erik Gaist, David Fisher, Marc Hess, David Charles Johnsen, Søren Paaske Simonsen, Claus Ziegler Andersen, Grethe Journal Article Multicenter Study Randomized Controlled Trial Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't United States 2023/10/03 JAMA. 2023 Oct 3;330(13):1236-1246. doi: 10.1001/jama.2023.16893. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2023-10-3
+DO  - doi:10.1001/jama.2023.16893
+IS  - 13
+KW  - Aged
+Female
+Humans
+Cerebral Hemorrhage/etiology/therapy
+*Ischemia
+Ischemic Attack, Transient/therapy
+Ischemic Stroke/therapy
+*Stroke/therapy
+*Ischemic Postconditioning/methods
+Extremities/blood supply
+Recovery of Function
+Denmark
+Hemorrhagic Stroke/therapy
+LA  - eng
+PY  - 2023
+SN  - 0098-7484 (Print) 0098-7484
+SP  - 1236-1246
+ST  - Remote Ischemic Conditioning for Acute Stroke: The RESIST Randomized Clinical Trial
+T2  - Jama
+TI  - Remote Ischemic Conditioning for Acute Stroke: The RESIST Randomized Clinical Trial
+VL  - 330
+ID  - 50766
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND OBJECTIVES: Dementia-friendly training should be incorporated in neighborhood stores for people living with dementia to maintain engagement in social activities. However, there is a lack of evidence of dementia-friendly training in these workplaces, and existing trainings have time constraints. We developed a mobile microlearning program based on stigma theory and the bystander intervention model. This study aimed to evaluate the microlearning program's effectiveness. RESEARCH DESIGN AND METHODS: Convenience store workers in Tokyo were recruited for a randomized, waiting-list, and controlled trial. The intervention group completed a 50-min online course. The primary outcome was an attitude toward people living with dementia. The secondary outcomes were knowledge of dementia and helping behavior toward customers suspected of having dementia. Data were collected at baseline, after 1 month, and 4 months following the randomization. RESULTS: Process evaluations confirmed satisfaction and high completion rates of the program. In total, 150 participants were included in the analysis. The intervention group showed significantly greater improvements in attitude (Hedge's g = 0.70) and knowledge (g = 0.59) after 1 month, compared to the control group. Helping behavior increased in the intervention group, although it did not differ significantly between the groups. All outcomes remained significantly improved after 4 months. DISCUSSION AND IMPLICATIONS: The findings provide evidence that dementia-friendly training reduces the general public's stigma and increases helping behavior in stores. Mitigation of time constraints through mobile microlearning is expected to contribute to the dissemination and help people living with dementia maintain their social participation in the communities. Clinical Trials Registration Number: UMIN000043623.
+AN  - rayyan-1277759869
+AU  - Matsumoto, H.
+AU  - Hagiwara, Y.
+AU  - Yamamoto-Mitani, N.
+AU  - Igarashi, A.
+C1  - 1758-5341 Matsumoto, Hiroshige Orcid: 0000-0003-2150-6484 Hagiwara, Yasuhiro Yamamoto-Mitani, Noriko Igarashi, Ayumi Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2022/12/13 Gerontologist. 2023 Sep 2;63(8):1300-1310. doi: 10.1093/geront/gnac182. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2023-9-2
+DO  - doi:10.1093/geront/gnac182
+IS  - 8
+KW  - Humans
+*Dementia
+Japan
+Dementia-friendly training
+Helping behavior
+Mobile microlearning
+Social engagement
+LA  - eng
+PY  - 2023
+SN  - 0016-9013 (Print) 0016-9013
+SP  - 1300-1310
+ST  - A Randomized Control Trial for ReDeSign: A Dementia-Friendly Mobile Microlearning Training for Store Workers in Japan
+T2  - Gerontologist
+TI  - A Randomized Control Trial for ReDeSign: A Dementia-Friendly Mobile Microlearning Training for Store Workers in Japan
+VL  - 63
+ID  - 50767
+ER  - 
+
+TY  - JOUR
+AB  - Current treatment methods do not achieve recovery for most individuals with schizophrenia, and symptoms such as negative symptoms and cognitive deficits often persist. Aerobic endurance training has been suggested as a potential add-on treatment targeting both physical and mental health. We performed a large-scale multicenter, rater-blind, parallel-group randomized controlled clinical trial in individuals with stable schizophrenia. Participants underwent a professionally supervised six-month training comprising either aerobic endurance training (AET) or flexibility, strengthening, and balance training (FSBT, control group), follow-up was another six months. The primary endpoint was all-cause discontinuation (ACD); secondary endpoints included effects on psychopathology, cognition, functioning, and cardiovascular risk. In total, 180 participants were randomized. AET was not superior to FSBT in ACD and most secondary outcomes, with dropout rates of 59.55% and 57.14% in the six-month active phase, respectively. However, both groups showed significant improvements in positive, general, and total symptoms, levels of functioning and in cognitive performance. A higher training frequency additionally promoted further memory domains. Participants with higher baseline cognitive abilities were more likely to respond to the interventions. Our results support integrating exercise into schizophrenia treatment, while future studies should aim to develop personalized training recommendations to maximize exercise-induced benefits.
+AN  - rayyan-1277759870
+AU  - Maurus, I.
+AU  - Roell, L.
+AU  - Lembeck, M.
+AU  - Papazova, I.
+AU  - Greska, D.
+AU  - Muenz, S.
+AU  - Wagner, E.
+AU  - Campana, M.
+AU  - Schwaiger, R.
+AU  - Schneider-Axmann, T.
+AU  - Rosenberger, K.
+AU  - Hellmich, M.
+AU  - Sykorova, E.
+AU  - Thieme, C. E.
+AU  - Vogel, B. O.
+AU  - Harder, C.
+AU  - Mohnke, S.
+AU  - Huppertz, C.
+AU  - Roeh, A.
+AU  - Keller-Varady, K.
+AU  - Malchow, B.
+AU  - Walter, H.
+AU  - Wolfarth, B.
+AU  - Wölwer, W.
+AU  - Henkel, K.
+AU  - Hirjak, D.
+AU  - Schmitt, A.
+AU  - Hasan, A.
+AU  - Meyer-Lindenberg, A.
+AU  - Falkai, P.
+C1  - 1872-7123 Maurus, Isabel Roell, Lukas Lembeck, Moritz Papazova, Irina Greska, David Muenz, Susanne Wagner, Elias Campana, Mattia Schwaiger, Rebecca Schneider-Axmann, Thomas Rosenberger, Kerstin Hellmich, Martin Sykorova, Eliska Thieme, Cristina E Vogel, Bob O Harder, Carolin Mohnke, Sebastian Huppertz, Charlotte Roeh, Astrid Keller-Varady, Katriona Malchow, Berend Walter, Henrik Wolfarth, Bernd Wölwer, Wolfgang Henkel, Karsten Hirjak, Dusan Schmitt, Andrea Hasan, Alkomiet Meyer-Lindenberg, Andreas Falkai, Peter Journal Article Multicenter Study Randomized Controlled Trial Research Support, Non-U.S. Gov't Ireland 2023/09/17 Psychiatry Res. 2023 Oct;328:115480. doi: 10.1016/j.psychres.2023.115480. Epub 2023 Sep 10. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2023-10
+DO  - doi:10.1016/j.psychres.2023.115480
+KW  - Humans
+*Schizophrenia/complications/therapy
+Exercise
+Exercise Therapy/methods
+*Cognition Disorders/complications
+Cognition
+Cardiovascular risk
+Clinical trial
+Lifestyle intervention
+Physical activity
+Psychosis
+LA  - eng
+PY  - 2023
+SN  - 0165-1781
+SP  - 115480
+ST  - Exercise as an add-on treatment in individuals with schizophrenia: Results from a large multicenter randomized controlled trial
+T2  - Psychiatry Res
+TI  - Exercise as an add-on treatment in individuals with schizophrenia: Results from a large multicenter randomized controlled trial
+VL  - 328
+ID  - 50768
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Exercise and cognitive training have been shown to induce neuroplastic changes and modulate cognitive function following stroke. However, it remains unclear whether hybridized exercise-cognitive training facilitates cortical activity and further influences cognitive function after stroke. OBJECTIVE: The study aimed to investigate the effects of 2 hybridized exercise-cognitive trainings on neuroplastic changes and behavioral outcomes in stroke survivors with mild cognitive decline. METHODS: This study was a single-blind randomized controlled trial. Stroke survivors were randomly assigned to 1 of 3 groups: (1) sequential exercise-cognitive training (SEQ), (2) dual-task exercise-cognitive training (DUAL), or (3) control group (CON). All groups underwent training 60 min per day, 3 days per week, for a total of 12 weeks. The primary outcome was the resting-state (RS) functional connectivity (FC) in functional magnetic resonance imaging. Secondary behavioral outcomes included cognitive and physical functions. RESULTS: After 12 weeks of training, patients in the SEQ group (n = 21) exhibited increased RS FC between the left occipital lobe and posterior cingulate gyrus with right parietal lobe, compared to the DUAL (n = 22) and CON (n = 20) groups. Additionally, patients in the DUAL group showed increased FC of the left temporal lobe. However, changes in behavioral outcome measures were non-significant among the 3 groups (all P's > .05). CONCLUSIONS: This study highlights the distinct neuroplastic mechanisms associated with 2 types of exercise-cognitive hybridized trainings. The pre-post functional magnetic resonance imaging measurements illustrated the time course of neural mechanisms for cognitive recovery in stroke survivors following different exercise-cognitive training approaches. Trial registration. NCT03230253.
+AN  - rayyan-1277760035
+AU  - Yeh, T. T.
+AU  - Chang, K. C.
+AU  - Wang, J. J.
+AU  - Lin, W. C.
+AU  - Wu, C. Y.
+C1  - 1552-6844 Yeh, Ting-Ting Chang, Ku-Chou Wang, Jiun-Jie Orcid: 0000-0002-2422-9059 Lin, Wei-Che Wu, Ching-Yi Orcid: 0000-0003-4726-2916 Journal Article Randomized Controlled Trial Research Support, Non-U.S. Gov't United States 2023/09/26 Neurorehabil Neural Repair. 2023 Sep;37(9):662-673. doi: 10.1177/15459683231200220. | RAYYAN-INCLUSION: {"Benjamin"=>"Maybe"}
+DA  - 2023-9
+DO  - doi:10.1177/15459683231200220
+IS  - 9
+KW  - Humans
+Cognitive Training
+Single-Blind Method
+*Cognitive Dysfunction/etiology
+*Stroke/complications/diagnostic imaging/therapy
+Survivors
+cognitive decline
+dual-task exercise-cognitive training
+functional magnetic resonance imaging
+resting-state functional connectivity
+sequential exercise-cognitive training
+stroke
+LA  - eng
+PY  - 2023
+SN  - 1545-9683
+SP  - 662-673
+ST  - Neuroplastic Changes Associated With Hybrid Exercise-Cognitive Training in Stroke Survivors With Mild Cognitive Decline: A Randomized Controlled Trial
+T2  - Neurorehabil Neural Repair
+TI  - Neuroplastic Changes Associated With Hybrid Exercise-Cognitive Training in Stroke Survivors With Mild Cognitive Decline: A Randomized Controlled Trial
+VL  - 37
+ID  - 50769
+ER  - 
+

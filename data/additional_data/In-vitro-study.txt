@@ -1,0 +1,2063 @@
+TY  - JOUR
+AB  - In long term culture of N-ethyl-N-nitrosourea (ENU) exposed fetal BD IX-rat brains, cells proliferate and form aggregates (nodules) in vitro, starting 2-3 months after the transplacental carcinogen injection in vivo. Cell nodules of cultures from 3-6 months after ENU exposure were investigated for the presence of organoid structures, signs of differentiation, and differentiation products. Organoid structures were absent as were signs of differentiation into more mature neuroglial cells since a relatively uniform immature cell population was typical for the nodules studied. Nuclear changes in form of nuclear envelope dilatation, margination and condensation of chromatin were present. The S-100 protein was generally expressed by the neuroglial cells in this premalignant phase; GFA and 14.3.2. protein were expressed to a variable degree. The cells showed enhanced proliferation. In conclusion there was a gradual change of differentiation accompanied by the acquisition of atypical nuclear structure in the premalignant phase studied.
+AN  - rayyan-1270409883
+AU  - Mørk, S. J.
+C1  - Mørk, S J Journal Article Greece 1984/05/01 Anticancer Res. 1984 May-Jun;4(3):189-95. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1984-5
+DO  - doi:
+IS  - 3
+KW  - Animals
+Brain Neoplasms/analysis/*ultrastructure
+Cell Aggregation
+Cell Transformation, Neoplastic
+Cells, Cultured
+Ethylnitrosourea
+Fetus
+Fluorescent Antibody Technique
+Glial Fibrillary Acidic Protein
+Intermediate Filament Proteins/analysis
+Microscopy, Electron
+Neoplasm Proteins/analysis
+Neuroglia/analysis/*ultrastructure
+Precancerous Conditions/analysis/*ultrastructure
+Rats
+Rats, Inbred Strains
+S100 Proteins/analysis
+LA  - eng
+PY  - 1984
+SN  - 0250-7005 (Print) 0250-7005
+SP  - 189-95
+ST  - Characterization of premalignant neurogenic rat cells in vitro
+T2  - Anticancer Res
+TI  - Characterization of premalignant neurogenic rat cells in vitro
+VL  - 4
+ID  - 40672
+ER  - 
+
+TY  - JOUR
+AB  - AIMS: To evaluate the performance of antigen detection by IDEIA (NovoNordisk Ltd) in the rapid diagnosis of potentially serious herpes simplex (HSV) infections. METHODS: Nine hundred and twelve specimens from a variety of clinical sites, including ocular, mucocutaneous, respiratory and genital material, urines and necropsy tissue, were compared by enzyme immunoassay (EIA) and conventional culture for the presence of HSV. RESULTS: The EIA performed to a high level of sensitivity and specificity using a variety of specimen types. Some problems were encountered using cervical swabs from pregnant women and necropsy brain tissue. Analysis of clinical and contact history data of most patients giving discrepant results supported the evidence of recent HSV infection obtained by EIA. The mean culture time was 2.4 days (range one to eight days). CONCLUSIONS: The HSV EIA test performed to a high level of sensitivity (93.7%) and specificity (96.6%) when compared with culture using a variety of clinical material. These results assumed cell culture was 100% sensitive and specific. The actual performance of the EIA test is probably much higher. This approach to rapid HSV diagnosis should be used more widely, particularly in potentially serious cases.
+AN  - rayyan-1270410501
+AU  - Sillis, M.
+C1  - 1472-4146 Sillis, M Case Reports Journal Article England 1992/02/01 J Clin Pathol. 1992 Feb;45(2):165-7. doi: 10.1136/jcp.45.2.165. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1992-2
+DO  - doi:10.1136/jcp.45.2.165
+IS  - 2
+KW  - Antigens, Viral/analysis
+Brain Diseases/diagnosis
+Female
+Herpes Simplex/*diagnosis
+Humans
+*Immunoenzyme Techniques
+Pregnancy
+Simplexvirus/immunology/isolation & purification
+Time Factors
+LA  - eng
+PY  - 1992
+SN  - 0021-9746 (Print) 0021-9746
+SP  - 165-7
+ST  - Clinical evaluation of enzyme immunoassay in rapid diagnosis of herpes simplex infections
+T2  - J Clin Pathol
+TI  - Clinical evaluation of enzyme immunoassay in rapid diagnosis of herpes simplex infections
+VL  - 45
+ID  - 40673
+ER  - 
+
+TY  - JOUR
+AB  - Focal, freeze-induced lesions were made in isolated hemispheres of turtle cerebral cortex in vitro, permitting the investigation of epileptiform discharges in a preparation with preserved intracortical circuitry. Freeze lesions resulted in interictal discharges and occasional ictal-like events. The interictal discharges were dependent upon activation of non-NMDA excitatory amino acid receptors and were affected by but did not require NMDA receptor activation. Voltage clamp and current clamp recordings revealed abnormal bursts of low-amplitude action potentials in 36% of recorded neurons, while large, repetitive inhibitory potentials, mediated by GABAA receptors, were recorded in 90% of the neurons. Thus, prominent findings in this model include abnormalities of both excitatory and inhibitory activity. Since these changes in neuronal excitability resulted from a localized physical injury, they may resemble the changes that occur in acute posttraumatic epilepsy.
+AN  - rayyan-1270410509
+AU  - Troyer, M. D.
+AU  - Blanton, M. G.
+AU  - Kriegstein, A. R.
+C1  - Troyer, M D Blanton, M G Kriegstein, A R GM07365/GM/NIGMS NIH HHS/United States NS12151/NS/NINDS NIH HHS/United States Journal Article Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, P.H.S. United States 1992/03/01 Epilepsia. 1992 Mar-Apr;33(2):199-212. doi: 10.1111/j.1528-1157.1992.tb02308.x. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1992-3
+DO  - doi:10.1111/j.1528-1157.1992.tb02308.x
+IS  - 2
+KW  - Action Potentials
+Animals
+Cerebral Cortex/*injuries/physiopathology
+Cortical Synchronization
+*Electroencephalography
+Epilepsies, Partial/etiology/*physiopathology
+Epilepsy, Post-Traumatic/physiopathology
+*Freezing
+Humans
+In Vitro Techniques
+Models, Neurological
+Neural Inhibition
+Turtles/*physiology
+gamma-Aminobutyric Acid/*physiology
+LA  - eng
+PY  - 1992
+SN  - 0013-9580 (Print) 0013-9580
+SP  - 199-212
+ST  - Abnormal action-potential bursts and synchronized, GABA-mediated inhibitory potentials in an in vitro model of focal epilepsy
+T2  - Epilepsia
+TI  - Abnormal action-potential bursts and synchronized, GABA-mediated inhibitory potentials in an in vitro model of focal epilepsy
+VL  - 33
+ID  - 40674
+ER  - 
+
+TY  - JOUR
+AB  - Cell culture lines from human cerebral arteries showing vasospasm after subarachnoid hemorrhage were established from three autopsy cases. Each culture line showed the ultrastructural characteristics of myofibroblasts. Decreased alpha-actin antigenicity, demonstrated using the anti-smooth muscle cell alpha-actin antibody, was observed in cultured cells possessing abundant F-actin. When incorporated into the three-dimensional collagen matrix in vitro, the cultured cells compacted the collagen lattice at a rate equivalent to that of human dermal fibroblasts. Lattice compaction was significantly accelerated by cerebrospinal fluid taken from patients with symptomatic vasospasm. Compaction was completely inhibited by the addition of 10(-6) mol/L verapamil or 100 U/mL heparin. Neither nimodipine (10(-5) mol/L) nor nicardipine (10(-5) mol/L) inhibited compaction, and endothelin (10(-6) mol/L) and potassium chloride (40 mmol/L) had no effect. The morphological change of cells in the collagen lattice suggests that both verapamil and heparin affect cellular motility, filopodial protrusion, and cell attachment. These data suggest that myofibroblasts in human cerebral arteries differ from medial smooth muscle cells and can generate a force rearranging the proliferated collagen matrix present after subarachnoid hemorrhage. This reorganization can contribute to, or be responsible for, sustained vasoconstriction. Consequently, current treatment for vasospasm may need to be reevaluated to include the nonmuscle components in the vessel wall.
+AN  - rayyan-1270410514
+AU  - Yamamoto, Y.
+AU  - Smith, R. R.
+AU  - Bernanke, D. H.
+C1  - Yamamoto, Y Smith, R R Bernanke, D H Journal Article United States 1992/03/01 Neurosurgery. 1992 Mar;30(3):337-45. doi: 10.1227/00006123-199203000-00005. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 1992-3
+DO  - doi:10.1227/00006123-199203000-00005
+IS  - 3
+KW  - Aged
+Calcium Channel Blockers/pharmacology
+Cells, Cultured
+Cerebral Arteries/drug effects/*pathology
+Collagen/ultrastructure
+Contractile Proteins/physiology
+Endothelins/pharmacology
+Female
+Fibroblasts/drug effects/pathology
+Heparin/pharmacology
+Humans
+Ischemic Attack, Transient/cerebrospinal fluid/etiology/*pathology
+Male
+Middle Aged
+Potassium Chloride/pharmacology
+Subarachnoid Hemorrhage/complications
+LA  - eng
+PY  - 1992
+SN  - 0148-396X (Print) 0148-396x
+SP  - 337-45
+ST  - Accelerated nonmuscle contraction after subarachnoid hemorrhage: culture and characterization of myofibroblasts from human cerebral arteries in vasospasm
+T2  - Neurosurgery
+TI  - Accelerated nonmuscle contraction after subarachnoid hemorrhage: culture and characterization of myofibroblasts from human cerebral arteries in vasospasm
+VL  - 30
+ID  - 40675
+ER  - 
+
+TY  - JOUR
+AB  - The calcium-activated potassium channel (K (Ca) channel) activator, NS1619, has been shown to selectively and time-dependently increase the permeability of the blood-tumor barrier (BTB) by downregulating the expression of tight junction (TJ) protein. However, the role of signaling cascades in this process has not been precisely elucidated. This study was performed to determine the role of signaling cascades involving reactive oxygen species (ROS)/RhoA/PI3K/PKB in increasing the permeability of the BTB induced by NS1619. Using an in vitro BTB model and selective inhibitors of signaling pathways, we investigated whether ROS/RhoA/PI3K/PKB pathway plays a key role in the process of the increase in BTB permeability induced by NS1619. The results revealed that the BTB permeability was increased and the expression of TJ proteins were significantly decreased by NS1619, and selective inhibitors of identified signaling pathways reversed the observed alterations. Moreover, the significant increases in ROS, RhoA activity, and PKB phosphorylation after NS1619 administration were observed, which were partly inhibited by N-2-mercaptopropionyl glycine or C3 exoenzyme or LY294002 pretreatment. The present study demonstrates that the activation of signaling cascades involving ROS/RhoA/PI3K/PKB in rat brain microvascular endothelial cells was required for the increase in BTB permeability induced by NS1619.
+AN  - rayyan-1270413880
+AU  - Gu, Y. T.
+AU  - Xue, Y. X.
+AU  - Wang, Y. F.
+AU  - Wang, J. H.
+AU  - ShangGuan, Q. R.
+AU  - Zhang, J. X.
+AU  - Qin, L. J.
+C1  - 1559-1166 Gu, Yan-Ting Xue, Yi-Xue Wang, Yan-Feng Wang, Jin-Hui ShangGuan, Qian-Ru Zhang, Jia-Xu Qin, Li-Juan Journal Article Research Support, Non-U.S. Gov't United States 2012/05/15 J Mol Neurosci. 2012 Sep;48(1):302-12. doi: 10.1007/s12031-012-9789-2. Epub 2012 May 12. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-9
+DO  - doi:10.1007/s12031-012-9789-2
+IS  - 1
+KW  - Animals
+Benzimidazoles/*pharmacology
+Blood-Brain Barrier/*drug effects/metabolism
+Brain Neoplasms/blood supply/*drug therapy/metabolism
+Capillary Permeability/drug effects/physiology
+Claudin-5/metabolism
+Endothelial Cells/*drug effects/metabolism
+Glioma/blood supply/*drug therapy/metabolism
+Occludin/metabolism
+Phosphatidylinositol 3-Kinases/metabolism
+Potassium Channels/agonists/metabolism
+Primary Cell Culture
+Proto-Oncogene Proteins c-akt/metabolism
+Rats
+Reactive Oxygen Species/metabolism
+Signal Transduction/*drug effects/physiology
+Tight Junctions/drug effects/metabolism
+rhoA GTP-Binding Protein/metabolism
+LA  - eng
+PY  - 2012
+SN  - 0895-8696
+SP  - 302-12
+ST  - Role of ROS/RhoA/PI3K/PKB signaling in NS1619-mediated blood-tumor barrier permeability increase
+T2  - J Mol Neurosci
+TI  - Role of ROS/RhoA/PI3K/PKB signaling in NS1619-mediated blood-tumor barrier permeability increase
+VL  - 48
+ID  - 40676
+ER  - 
+
+TY  - JOUR
+AB  - MS-based proteomics has been the method of choice for biomarker discovery in the field of traumatic brain injury (TBI). Due to its high sensitivity and specificity, MS is now being explored for biomarker quantitative validation in tissue and biofluids. In this study, we demonstrate the use of MS in both qualitative protein identification and targeted detection of acute TBI biomarkers released from degenerating cultured rat cortical mixed neuronal cells, mimicking intracellular fluid in the central nervous system after TBI. Calpain activation was induced by cell treatment with maitotoxin (MTX), a known calcium channel opener. Separate plates of mixed neuronal-glial culture were subjected to excitotoxin N-methyl-D-aspartate (NMDA) and apoptotic inducer staurosporine. Acute TBI biomarkers, GFAP and UCH-L1, were first detected and assessed in the culture media by Western blot. The cell-conditioned media were then trypsinized and subjected to bottom up proteomic analysis. GFAP was readily detected by data-dependent scanning but not UCH-L1. As a proof-of-principle study, rat glia-enriched cell cultures treated with MTX were used to investigate the time-dependent release of GFAP breakdown product by Western blot and for isotope dilution MS absolute quantitation method development. Absolute quantitation of the GFAP release was conducted using the three cortical mixed neuronal cell cultures treated with different agents. Other differentially expressed proteins identified in the glial-enriched and cortical mixed neuronal cell culture models were further analyzed by bioinformatic tools. In summary, this study demonstrates the use of MS in both protein identification and targeted quantitation of acute TBI biomarkers and is the preliminary step toward development of TBI biomarker validation by targeted MS.
+AN  - rayyan-1270413881
+AU  - Guingab-Cagmat, J. D.
+AU  - Newsom, K.
+AU  - Vakulenko, A.
+AU  - Cagmat, E. B.
+AU  - Kobeissy, F. H.
+AU  - Zoltewicz, S.
+AU  - Wang, K. K.
+AU  - Anagli, J.
+C1  - 1522-2683 Guingab-Cagmat, Joy D Newsom, Kimberly Vakulenko, Anatoliy Cagmat, Emilio B Kobeissy, Firas H Zoltewicz, Susie Wang, Kevin K Anagli, John Journal Article Germany 2012/11/20 Electrophoresis. 2012 Dec;33(24):3786-97. doi: 10.1002/elps.201200326. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-12
+DO  - doi:10.1002/elps.201200326
+IS  - 24
+KW  - Animals
+Apoptosis/drug effects
+Biomarkers/analysis/metabolism
+Brain Injuries/*metabolism/pathology
+Cells, Cultured
+Cerebral Cortex/chemistry/cytology/*metabolism
+Disease Models, Animal
+Glial Fibrillary Acidic Protein/analysis/chemistry/metabolism
+Marine Toxins/pharmacology
+Mass Spectrometry/*methods
+N-Methylaspartate/pharmacology
+Necrosis/metabolism
+Neuroglia/chemistry/cytology/*metabolism
+Neurons/chemistry/cytology/*metabolism
+Oxocins/pharmacology
+Protein Interaction Maps/drug effects
+Proteomics/*methods
+Rats
+Rats, Sprague-Dawley
+Signal Transduction/drug effects
+Staurosporine/pharmacology
+Ubiquitin Thiolesterase/analysis/metabolism
+LA  - eng
+PY  - 2012
+SN  - 0173-0835
+SP  - 3786-97
+ST  - In vitro MS-based proteomic analysis and absolute quantification of neuronal-glial injury biomarkers in cell culture system
+T2  - Electrophoresis
+TI  - In vitro MS-based proteomic analysis and absolute quantification of neuronal-glial injury biomarkers in cell culture system
+VL  - 33
+ID  - 40677
+ER  - 
+
+TY  - JOUR
+AB  - Accumulating evidence indicates that white matter degeneration contributes to the neural disconnections that underlie Alzheimer's disease pathophysiology. Although this white matter degeneration is partly attributable to axonopathy associated with neuronal degeneration, amyloid β (Aβ) protein-mediated damage to oligodendrocytes could be another mechanism. To test this hypothesis, we studied effects of soluble Aβ in oligomeric form on survival and differentiation of cells of the oligodendroglial lineage using highly purified oligodendroglial cultures from rats at different developmental stages. Aβ oligomer at 10 μM or higher reduced survival of mature oligodendrocytes, whereas oligodendroglial progenitor cells (OPCs) were relatively resistant to the Aβ oligomer-mediated cytotoxicity. Further study revealed that Aβ oligomer even at 1 μM accelerated 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) formazan exocytosis in mature oligodendrocytes, and, more significantly, inhibited myelin sheet formation after induction of in vitro differentiation of OPCs. These results imply a novel pathogenetic mechanism underlying Aβ oligomer-mediated white matter degeneration, which could impair myelin maintenance and remyelination by adult OPCs, resulting in accumulating damage to myelinating axons thereby contributing to neural disconnections.
+AN  - rayyan-1270413890
+AU  - Horiuchi, M.
+AU  - Maezawa, I.
+AU  - Itoh, A.
+AU  - Wakayama, K.
+AU  - Jin, L. W.
+AU  - Itoh, T.
+AU  - Decarli, C.
+C1  - 1558-1497 Horiuchi, Makoto Maezawa, Izumi Itoh, Aki Wakayama, Kouji Jin, Lee-Way Itoh, Takayuki Decarli, Charles R21 AG031362/AG/NIA NIH HHS/United States R01 AG025500-04/AG/NIA NIH HHS/United States P30 AG010129-19/AG/NIA NIH HHS/United States P30 AG010129/AG/NIA NIH HHS/United States R01 AG025500/AG/NIA NIH HHS/United States P30 AG10129/AG/NIA NIH HHS/United States Journal Article Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't United States 2010/07/03 Neurobiol Aging. 2012 Mar;33(3):499-509. doi: 10.1016/j.neurobiolaging.2010.05.007. Epub 2010 Jul 1. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-3
+DO  - doi:10.1016/j.neurobiolaging.2010.05.007
+IS  - 3
+KW  - Alzheimer Disease/etiology/*metabolism/pathology
+Amyloid beta-Peptides/metabolism/*toxicity
+Animals
+Animals, Newborn
+Myelin Sheath/drug effects/*pathology
+Nerve Fibers, Myelinated/metabolism/pathology
+Oligodendroglia/drug effects/pathology
+Peptide Fragments/metabolism/*toxicity
+Primary Cell Culture
+Rats
+Rats, Inbred Lew
+Stem Cells/*drug effects/pathology
+Tumor Cells, Cultured
+Wallerian Degeneration/*metabolism/pathology
+LA  - eng
+PY  - 2012
+SN  - 0197-4580 (Print) 0197-4580
+SP  - 499-509
+ST  - Amyloid β1-42 oligomer inhibits myelin sheet formation in vitro
+T2  - Neurobiol Aging
+TI  - Amyloid β1-42 oligomer inhibits myelin sheet formation in vitro
+VL  - 33
+ID  - 40678
+ER  - 
+
+TY  - JOUR
+AB  - Pathotropic neural stem and/or progenitor cells (NSCs) can potentially deliver therapeutic agents to otherwise inaccessible cancers. In glioma, NSCs are found in close contact with tumor cells, raising the possibility that specificity of NSC contact with glioma targets originates in the tumor cells themselves. Alternatively, target preferences may originate, at least in part, in the tumor microenvironment. To better understand mechanisms underlying NSC interactions with glioma cells, we examined NSC-target cell contacts in a highly simplified 3-dimensional peptide hydrogel (Puramatrix) in which cell behaviors can be studied in the relative absence of external cues. HB1.F3 is an immortalized clonal human NSC line extensively characterized in preclinical investigations. To study contact formation between HB1.F3 NSCs and glioma cells, we first examined co-cultures of eGFP-expressing HB1.F3 (HB1.F3.eGFP) NSCs and dsRed-expressing U251 glioma (U251.dsRed) cells. Using confocal microscopy, HB1.F3.eGFP cells were observed contacting or encircling U251.dsRed glioma cells, but never the reverse. Next, examining specificity of these contacts, no significant quantitative differences in either percentages of HB1.F3 NSCs contacting targets, or in the extent of target cell encirclement, were observed when HB1.F3.eGFP cells were presented with various potential target cells (human glioma and breast cancer cell lines, patient-derived brain tumor lines, non-tumor fibroblasts, primary mouse and human astroglial cells, and primary adult and newborn human dermal fibroblasts) except that interactions between HB1.F3 cells did not progress beyond establishing contacts. Finally cytoskeletal mechanisms employed by HB1.F3.eGFP cells varied with the substrate. When migrating in Puramatrix, HB1.F3 NSCs exhibited intermittent process extension followed by soma translocation, while during encirclement their movements were more amoeboid. We conclude that formation of contacts and subsequent encirclement of target cells by HB1.F3 NSCs is an intrinsic property of these NSCs, and that preferential contact formation with tumor cells in vivo must therefore be highly dependent on microenvironmental cues.
+AN  - rayyan-1270413906
+AU  - Khosh, N.
+AU  - Brown, C. E.
+AU  - Aboody, K. S.
+AU  - Barish, M. E.
+C1  - 1932-6203 Khosh, Nousha Brown, Christine E Aboody, Karen S Barish, Michael E Journal Article Research Support, Non-U.S. Gov't United States 2012/12/15 PLoS One. 2012;7(12):e51859. doi: 10.1371/journal.pone.0051859. Epub 2012 Dec 11. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012
+DO  - doi:10.1371/journal.pone.0051859
+IS  - 12
+KW  - Animals
+*Brain Neoplasms/metabolism/pathology/therapy
+*Cell Communication
+Cell Differentiation
+Cell Line
+Cell Lineage
+Cell Movement
+Cell- and Tissue-Based Therapy
+*Glioma/metabolism/pathology/therapy
+Green Fluorescent Proteins
+Humans
+Mice
+*Neural Stem Cells/cytology/metabolism
+Stem Cell Niche
+Stem Cell Transplantation/methods
+LA  - eng
+PY  - 2012
+SN  - 1932-6203
+SP  - e51859
+ST  - Contact and encirclement of glioma cells in vitro is an intrinsic behavior of a clonal human neural stem cell line
+T2  - PLoS One
+TI  - Contact and encirclement of glioma cells in vitro is an intrinsic behavior of a clonal human neural stem cell line
+VL  - 7
+ID  - 40679
+ER  - 
+
+TY  - JOUR
+AB  - Neuroepithelial tumor cells were cultured in vitro. The biopsy material was taken from 93 children at removal of the brain tumors during neurosurgical operations. The individual features of the cells sensitivity of primary cultures in respect to protocol-approved chemotherapy drugs and changes in the Interleukin-6 (Il-6) level in the culture medium after the application of chemotherapy were established. The initial level of Il-6 exceeded 600.0 pg/ml in the cultural medium with histologically verified pilomyxoid astrocytoma cells, and ranged from 100.0 to 200.0 pg/ml in the medium at cultivation of ganglioneuroblastoma and pilocytic astrocytoma. A decrease in the Il-6 level in the medium culture of primary tumors cells was observed after the application of chemotherapeutic agents on the cells of pilomyxoid astrocytoma, astrocytomas, and pilocytic desmoplastic/nodular medulloblastoma. The production of Il-6 increased after application of cytostatic drugs on the cells of oligoastrocytomas. A decrease in Il-6 level after application of Cisplatin and Methotrexate and a 5-10 fold increase in the level of Il-6 after application of Etoposide, Carboplatin, Cytarabine, and Gemcitabine were registered in the medium with ganglioneuroblastoma. To improve the cytotoxic action of chemotherapeutic agents, the combined application of cytostatics with heterocyclic compounds was carried out. A computer modeling of ligand-protein complexes of carbamide using the Dock 6.4 and USF Chimera program packages was performed with molecular mechanics method. Special attention was drawn to the ability of several isoxazole heterocycles and isothiazolyl to inhibit the tyrosine kinase. It was proved in vitro that the joint application of chemotherapeutic agents and heterocyclic compounds could reduce the concentration of the cytostatic factor by 10 or more times, having maintained the maximum cytotoxic effect. It was assumed that the target amplification of cytotoxic action of chemotherapeutic agents had prospects for reducing toxic side effects of chemotherapy in vivo, which would be carried out only after the preclinical studies.
+AN  - rayyan-1270413921
+AU  - Kulchitsky, V. A.
+AU  - Potkin, V. I.
+AU  - Zubenko, Y. S.
+AU  - Chernov, A. N.
+AU  - Talabaev, M. V.
+AU  - Demidchik, Y. E.
+AU  - Petkevich, S. K.
+AU  - Kazbanov, V. V.
+AU  - Gurinovich, T. A.
+AU  - Roeva, M. O.
+AU  - Grigoriev, D. G.
+AU  - Kletskov, A. V.
+AU  - Kalunov, V. N.
+C1  - 1875-6638 Kulchitsky, Vladimir A Potkin, Vladimir I Zubenko, Yuri S Chernov, Alexander N Talabaev, Michael V Demidchik, Yuri E Petkevich, Sergei K Kazbanov, Vladimir V Gurinovich, Tatiana A Roeva, Margarita O Grigoriev, Dmitry G Kletskov, Alexei V Kalunov, Vladimir N Journal Article Netherlands 2012/03/17 Med Chem. 2012 Jan;8(1):22-32. doi: 10.2174/157340612799278298. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-1
+DO  - doi:10.2174/157340612799278298
+IS  - 1
+KW  - Adolescent
+Antineoplastic Combined Chemotherapy Protocols/chemical
+synthesis/chemistry/*pharmacology
+Brain Neoplasms/*drug therapy/*pathology/surgery
+Cell Survival/drug effects
+Central Nervous System Neoplasms/*drug therapy/*pathology/surgery
+Child
+Child, Preschool
+Heterocyclic Compounds/chemical synthesis/chemistry/*pharmacology
+Humans
+Infant
+Interleukin-6/analysis
+Primary Cell Culture
+Tumor Cells, Cultured
+LA  - eng
+PY  - 2012
+SN  - 1573-4064
+SP  - 22-32
+ST  - Cytotoxic effects of chemotherapeutic drugs and heterocyclic compounds at application on the cells of primary culture of neuroepithelium tumors
+T2  - Med Chem
+TI  - Cytotoxic effects of chemotherapeutic drugs and heterocyclic compounds at application on the cells of primary culture of neuroepithelium tumors
+VL  - 8
+ID  - 40680
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Glioblastoma multiforme is a highly aggressive tumor with a median survival of 14 months despite all standard therapies. Focusing on alternative treatment strategies, we evaluated the oncolytic potential of varicella zoster virus (VZV) in malignant glioma cell cultures. MATERIALS AND METHODS: Replication of wildtype and mutant VZV was comparatively analyzed in glioma cell lines (U87, U251 and U373) and in primary malignant glioma cells (n=10) in vitro by infectious foci assay, immunofluorescence microscopy and western blot analysis. Additionally, the tumor-targeting potential of VZV-infected human mesenchymal stem cells was evaluated. RESULTS: VZV replicated efficiently in all the glioma cells studied here followed by rapid oncolysis in vitro. The attenuated vaccine VZV mutant rOKA/ORF63rev[T171] exhibited most efficient replication. Human mesenchymal stem cells were found suitable for targeting VZV to sites of tumor growth. CONCLUSION: VZV exhibits an intrinsic oncolytic potential in malignant glioma cell cultures and might be a novel candidate for virotherapy in glioblastoma multiforme.
+AN  - rayyan-1270413930
+AU  - Leske, H.
+AU  - Haase, R.
+AU  - Restle, F.
+AU  - Schichor, C.
+AU  - Albrecht, V.
+AU  - Vizoso Pinto, M. G.
+AU  - Tonn, J. C.
+AU  - Baiker, A.
+AU  - Thon, N.
+C1  - 1791-7530 Leske, Henning Haase, Rudolf Restle, Florian Schichor, Christian Albrecht, Valerie Vizoso Pinto, Maria G Tonn, Joerg C Baiker, Armin Thon, Niklas Journal Article Research Support, Non-U.S. Gov't Greece 2012/04/12 Anticancer Res. 2012 Apr;32(4):1137-44. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-4
+DO  - doi:
+IS  - 4
+KW  - Brain Neoplasms/pathology/therapy/*virology
+Cell Line, Tumor
+Glioma/pathology/therapy/*virology
+Herpesvirus 3, Human/*isolation & purification/physiology
+Humans
+*Oncolytic Virotherapy
+Virus Replication
+LA  - eng
+PY  - 2012
+SN  - 0250-7005
+SP  - 1137-44
+ST  - Varicella zoster virus infection of malignant glioma cell cultures: a new candidate for oncolytic virotherapy?
+T2  - Anticancer Res
+TI  - Varicella zoster virus infection of malignant glioma cell cultures: a new candidate for oncolytic virotherapy?
+VL  - 32
+ID  - 40681
+ER  - 
+
+TY  - JOUR
+AB  - The role of hyperphosphorylation of the microtubule-associated protein tau in the pathological processes of several neurodegenerative diseases is becoming better understood. Consequently, development of new compounds capable of preventing tau hyperphosphorylation is an increasingly hot topic. For this reason, dependable in vitro and in vivo models that reflect tau hyperphosphorylation in human diseases are needed. In this study, we generated and validated an in vitro model appropriate to test potential curative and preventive compound effects on tau phosphorylation. For this purpose, a stably transfected SH-SY5Y cell line was constructed over-expressing mutant human tau441 (SH-SY5Y-TMHT441). Analyses of expression levels and tau phosphorylation status in untreated cells confirmed relevance to human diseases. Subsequently, the effect of different established kinase inhibitors on tau phosphorylation (e.g., residues Thr231, Thr181, and Ser396) was examined. It was shown with several methods including immunosorbent assays and mass spectrometry that the phosphorylation pattern of tau in SH-SY5Y-TMHT441 cells can be reliably modulated by these compounds, specifically targeting JNK, GSK-3, CDK1/5, and CK1. These four protein kinases are known to be involved in in vivo tau phosphorylation and are therefore authentic indicators for the suitability of this new cell culture model for tauopathies.
+AN  - rayyan-1270413939
+AU  - Löffler, T.
+AU  - Flunkert, S.
+AU  - Taub, N.
+AU  - Schofield, E. L.
+AU  - Ward, M. A.
+AU  - Windisch, M.
+AU  - Hutter-Paier, B.
+C1  - 1559-1166 Löffler, Tina Flunkert, Stefanie Taub, Nicole Schofield, Emma L Ward, Malcolm A Windisch, Manfred Hutter-Paier, Birgit Journal Article United States 2012/02/22 J Mol Neurosci. 2012 May;47(1):192-203. doi: 10.1007/s12031-012-9716-6. Epub 2012 Feb 19. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-5
+DO  - doi:10.1007/s12031-012-9716-6
+IS  - 1
+KW  - Alzheimer Disease/*drug therapy/*genetics/pathology
+Animals
+Cell Line, Tumor
+Drug Design
+Genetic Testing/*methods
+Humans
+Mice
+Mice, Transgenic
+Mutagenesis/physiology
+Neuroblastoma/drug therapy/genetics/pathology
+Pharmacogenetics/*methods
+Phosphorylation/drug effects/genetics
+Tauopathies/drug therapy/genetics/metabolism
+Transfection/methods
+tau Proteins/*genetics
+LA  - eng
+PY  - 2012
+SN  - 0895-8696 (Print) 0895-8696
+SP  - 192-203
+ST  - Stable mutated tau441 transfected SH-SY5Y cells as screening tool for Alzheimer's disease drug candidates
+T2  - J Mol Neurosci
+TI  - Stable mutated tau441 transfected SH-SY5Y cells as screening tool for Alzheimer's disease drug candidates
+VL  - 47
+ID  - 40682
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Intravascular ultrasonography (IVUS) has been used for guiding intravascular stent placement in interventional cardiology. OBJECTIVE: To evaluate the feasibility of aneurysm embolization by using detachable coils under IVUS guidance. METHODS: IVUS-guided embolization in conjunction with fluoroscopic imaging and subsequently alone were performed in a silicone model with a side wall aneurysm. IVUS-guided embolization in conjunction with fluoroscopic imaging was also used in an in vitro model of a side wall aneurysm created using sheep vessels. The visibility of the aneurysm, microcatheter, and coils ascertained by the IVUS was graded as excellent, good, or poor based on visualization of these items as distinct structures. The agreement between simultaneously acquired angiographic and IVUS images for detecting increasing intra-aneurysmal coil mass and coil prolapse was assessed in 10 and 6 simultaneously acquired angiographic and IVUS images, respectively. RESULTS: IVUS measurements of the aneurysm dimensions strongly correlated with standardized dimensions and measurements acquired by contrast angiography (Pearson coefficient of 0.96 and 0.99 for silicone model and arterial segment model, respectively). IVUS visualization of the aneurysm, microcatheter tip, and coil loops were graded as excellent in the silicone aneurysm model and good in the carotid artery model. The agreement between simultaneously acquired angiographic and IVUS images was very high for detecting increasing intra-aneurysmal coil mass (Spearman rank correlation coefficient of 0.98) and coil prolapse (83% agreement). CONCLUSION: IVUS guidance during aneurysm embolization may improve the procedure by providing intravascular aneurysmal measurements and visualization of devices used in the procedure.
+AN  - rayyan-1270413944
+AU  - Majidi, S.
+AU  - Khatri, R.
+AU  - Watanabe, M.
+AU  - Siddiq, F.
+AU  - Chaudhry, S. A.
+AU  - Qureshi, A. I.
+C1  - 1524-4040 Majidi, Shahram Khatri, Rakesh Watanabe, Masaki Siddiq, Farhan Chaudhry, Saqib A Qureshi, Adnan I Journal Article United States 2011/12/14 Neurosurgery. 2012 Jun;70(6):1557-64. doi: 10.1227/NEU.0b013e31824467b7. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-6
+DO  - doi:10.1227/NEU.0b013e31824467b7
+IS  - 6
+KW  - Animals
+Embolization, Therapeutic/*instrumentation/*methods
+Feasibility Studies
+In Vitro Techniques
+Intracranial Aneurysm/diagnostic imaging/*therapy
+Sheep
+Ultrasonography, Interventional/*instrumentation/*methods
+LA  - eng
+PY  - 2012
+SN  - 0148-396x
+SP  - 1557-64
+ST  - Aneurysm embolization using detachable coils under intravascular ultrasonography guidance: an in vitro feasibility study
+T2  - Neurosurgery
+TI  - Aneurysm embolization using detachable coils under intravascular ultrasonography guidance: an in vitro feasibility study
+VL  - 70
+ID  - 40683
+ER  - 
+
+TY  - JOUR
+AB  - The purpose of the present study was to determine the potential for RhoA/ROCK signaling to play a role in endothelial-monocyte-activating polypeptide (EMAP) II-induced increase in blood-tumor barrier (BTB) permeability in rat brain microvascular endothelial cells (RBMECs). In the present study, we used an in vitro BTB model, a RhoA inhibitor (C3 exoenzyme) and a ROCK inhibitor (Y27632) to determine whether RhoA/ROCK pathway play a role in the process of TJ disassembly, stress fiber formation, MLC and cofilin phosphorylation, as well as increase of BTB permeability induced by EMAP II. The results revealed that BTB permeability was increased by EMAP II induction, and C3 exoenzyme or Y27632 could partially inhibit the EMAP II-induced increase of BTB permeability. The significant down-regulations in tight junction (TJ)-associated proteins occludin, claudin-5 and ZO-1 and stress fiber formation by EMAP II administration were observed, which were partly prevented by C3 exoenzyme or Y27632 pretreatment. Moreover, the significant increases in RhoA activity, myosin light chain (MLC) and cofilin phosphorylation by EMAP II administration were observed, MLC and cofilin phosphorylation were partly inhibited by C3 exoenzyme or Y27632 pretreatment. The present study demonstrates that the activation of RhoA/ROCK signaling in RBMECs was required for the increase of BTB permeability and these effects are related with the ability for RhoA/ROCK to mediate TJ disassembly and stress fiber formation by phosphorylating cofilin and MLC.
+AN  - rayyan-1270414078
+AU  - Xie, H.
+AU  - Xue, Y. X.
+AU  - Liu, L. B.
+AU  - Liu, Y. H.
+AU  - Wang, P.
+C1  - 1559-1166 Xie, Hui Xue, Yi-Xue Liu, Li-Bo Liu, Yun-Hui Wang, Ping Journal Article Research Support, Non-U.S. Gov't United States 2011/06/08 J Mol Neurosci. 2012 Mar;46(3):666-76. doi: 10.1007/s12031-011-9564-9. Epub 2011 Jun 7. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-3
+DO  - doi:10.1007/s12031-011-9564-9
+IS  - 3
+KW  - Animals
+Blood-Brain Barrier/*metabolism/pathology
+Brain Neoplasms/blood supply/*metabolism/pathology
+Endothelial Cells/cytology/enzymology
+Glioma/blood supply/enzymology/*metabolism
+Microtubule-Associated Proteins/*physiology
+Primary Cell Culture
+Rats
+Rats, Wistar
+Signal Transduction/*physiology
+Tight Junctions/enzymology/pathology
+rho-Associated Kinases/antagonists & inhibitors/*physiology
+rhoA GTP-Binding Protein/antagonists & inhibitors/*metabolism/*physiology
+LA  - eng
+PY  - 2012
+SN  - 0895-8696
+SP  - 666-76
+ST  - Role of RhoA/ROCK signaling in endothelial-monocyte-activating polypeptide II opening of the blood-tumor barrier: role of RhoA/ROCK signaling in EMAP II opening of the BTB
+T2  - J Mol Neurosci
+TI  - Role of RhoA/ROCK signaling in endothelial-monocyte-activating polypeptide II opening of the blood-tumor barrier: role of RhoA/ROCK signaling in EMAP II opening of the BTB
+VL  - 46
+ID  - 40684
+ER  - 
+
+TY  - JOUR
+AB  - CD200 is a glycoprotein that is expressed on the surfaces of neurons and other cells. It interacts with its receptor, CD200R, which is expressed on cells of the myeloid lineage, including microglia. The interaction of CD200 with its receptor plays a significant role in maintaining microglia in a quiescent state; thus, a decrease in CD200 expression in the brain is associated with evidence of microglial activation. However, their roles in pathological progression remain unclear. We examined the expression of CD200 in kainic acid (KA)-induced neurodegeneration of the mouse hippocampus. Our quantitative analysis revealed that CD200 was constitutively expressed in the normal brain and transiently upregulated by KA treatment. At the cellular level, CD200 was expressed in neurons in control, and was upregulated primarily in the microglia of KA-treated mouse hippocampi. We examined the contribution of CD200 to both the classical and alternative activation of microglia in vitro using an adult microglia culture, which was exposed to interleukin-4 (IL-4) with and without lipopolysaccharide (LPS). CD200 expression was increased after exposure to IL-4, but not to LPS. These in vivo experiments demonstrated that CD200 was transiently expressed in microglia in a process mediated by the inflammatory response. Based on CD200R expression in microglia, it suggests that microglia is maintained in an activated state with autocrine signaling by interactions between microglial CD200 and its CD200R. Moreover, we suggest that CD200 may be expressed in the alternative activation of microglia and play a beneficial role in neuroinflammation.
+AN  - rayyan-1270414085
+AU  - Yi, M. H.
+AU  - Zhang, E.
+AU  - Kang, J. W.
+AU  - Shin, Y. N.
+AU  - Byun, J. Y.
+AU  - Oh, S. H.
+AU  - Seo, J. H.
+AU  - Lee, Y. H.
+AU  - Kim, D. W.
+C1  - 1872-6240 Yi, Min-Hee Zhang, Enji Kang, Joon Won Shin, Yu Na Byun, Jin Young Oh, Sang-Ha Seo, Je Hoon Lee, Young Ho Kim, Dong Woon Journal Article Research Support, Non-U.S. Gov't Netherlands 2012/09/15 Brain Res. 2012 Oct 24;1481:90-6. doi: 10.1016/j.brainres.2012.08.053. Epub 2012 Sep 4. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2012-10-24
+DO  - doi:10.1016/j.brainres.2012.08.053
+KW  - Animals
+Antigens, CD/*metabolism
+Disease Models, Animal
+Encephalitis/*chemically induced/*metabolism
+Excitatory Amino Acid Agonists/toxicity
+Hippocampus/*metabolism/*pathology
+Interleukin-4/pharmacology
+Kainic Acid/toxicity
+Lipopolysaccharides/pharmacology
+Male
+Mice
+Mice, Inbred Strains
+Microglia/cytology/*metabolism
+Nerve Degeneration/chemically induced/metabolism
+Primary Cell Culture
+Rats
+Rats, Sprague-Dawley
+LA  - eng
+PY  - 2012
+SN  - 0006-8993
+SP  - 90-6
+ST  - Expression of CD200 in alternative activation of microglia following an excitotoxic lesion in the mouse hippocampus
+T2  - Brain Res
+TI  - Expression of CD200 in alternative activation of microglia following an excitotoxic lesion in the mouse hippocampus
+VL  - 1481
+ID  - 40685
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AIMS: Research results have shown that bone mesenchymal stromal cells (BMSC) can different into neural cells. Electromagnetic fields (EMF) play a role in regulating cell proliferation and differentiation, but the mechanisms behind this are unknown. In the present study, we explored the efficacy of EMF on the induction of rat BMSC differentiation into neurons in vitro. METHODS: First, rat BMSC were induced in a nerve cell culture environment and divided into three groups: an EMF induction treatment group (frequency of 50 Hz, magnetic induction of 5 mT, 60 min per day for 12 days), an induction-only group and a control group. Second, we observed cell phenotypes in a confocal microscope, tested gene expression through the use of reverse transcriptase-polymerase chain reaction, and detected postsynaptic currents by means of a cell patch-clamp. We analyzed the cell cycles and the portion of cells expressing neural cell markers with the use of flow cytometry. RESULTS: The results indicated that EMF can facilitate BMSC differentiation into neural cells, which expressed neuronal-specific markers and genes; they formed synaptic junctions and pulsed excitatory postsynaptic currents. At the same time, the G0-G1 phase ratio recorded by means of flow cytometry gradually decreased under the EMF treatment, whereas there was an increase of S-phase ratio, and the portion of cells expressing neuronal-specific markers increased. CONCLUSIONS: Given that a noninvasive treatment of 50-Hz EMF could significantly facilitate BMSC to differentiate into functional neurons, EMF appears to be a promising clinical option for stem cell transplantation therapies to combat central nervous system diseases.
+AN  - rayyan-1270414108
+AU  - Bai, W. F.
+AU  - Xu, W. C.
+AU  - Feng, Y.
+AU  - Huang, H.
+AU  - Li, X. P.
+AU  - Deng, C. Y.
+AU  - Zhang, M. S.
+C1  - 1477-2566 Bai, Wen-Fang Xu, Wei-Cheng Feng, Yu Huang, Hong Li, Xin-Ping Deng, Chun-Yu Zhang, Ming-Sheng Journal Article Research Support, Non-U.S. Gov't England 2013/04/23 Cytotherapy. 2013 Aug;15(8):961-70. doi: 10.1016/j.jcyt.2013.03.001. Epub 2013 Apr 17. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2013-8
+DO  - doi:10.1016/j.jcyt.2013.03.001
+IS  - 8
+KW  - Animals
+Bone Marrow Cells/radiation effects
+Cell Cycle/radiation effects
+Cell Proliferation/radiation effects
+Cells, Cultured
+Central Nervous System Diseases/*therapy
+*Electromagnetic Fields
+Female
+Male
+Mesenchymal Stem Cells/*cytology/*radiation effects
+Neurogenesis/*radiation effects
+Neurons/*cytology
+Patch-Clamp Techniques
+Rats
+Rats, Sprague-Dawley
+cell cycle
+differentiation
+electromagnetic fields
+neural cells
+stem cells
+LA  - eng
+PY  - 2013
+SN  - 1465-3249
+SP  - 961-70
+ST  - Fifty-Hertz electromagnetic fields facilitate the induction of rat bone mesenchymal stromal cells to differentiate into functional neurons
+T2  - Cytotherapy
+TI  - Fifty-Hertz electromagnetic fields facilitate the induction of rat bone mesenchymal stromal cells to differentiate into functional neurons
+VL  - 15
+ID  - 40686
+ER  - 
+
+TY  - JOUR
+AB  - Homer1 protein is an important scaffold protein at postsynaptic density and has been demonstrated to play a central role in calcium signaling in the central nervous system. The aim of this study was to investigate the effects of Homer1 knockdown on MPP(+) induced neuronal injury in cultured dopamine (DA) neurons. We found that down-regulating Homer1 expression with specific small interfering RNA (siRNA) significantly suppressed LDH release, reduced Propidium iodide (PI) or Hoechst staining, increased the number of tyrosine hydroxylase (TH) positive cells and DA uptake, and attenuated apoptotic and necrotic cell death after MPP(+) injury. Homer1 knockdown decreased intracellular reactive oxygen species (ROS) generation through inhibition of intracellular calcium overload, but did not affect the endogenous antioxidant enzyme activities. Calcium imaging was used to examine the changes of intracellular Ca(2+) concentration ([Ca(2+)]cyt) and Ca(2+) in endoplasmic reticulum (ER) ([Ca(2+)]ER), and the results showed that Homer1 siRNA transfection attenuated ER Ca(2+) release up to 120min after MPP(+) injury. Furthermore, decrease of [Ca(2+)]cyt induced by Homer1 knockdown in MPP(+) treated neurons was further enhanced by NMDA receptor antagonists MK-801 and AP-5, but not canonical transient receptor potential (TRPC) channel antagonist SKF-96365. l-type calcium antagonist isradipine but not nimodipine further inhibited intracellular calcium overload after MPP(+) insult in Homer1 down-regulated neurons. These results suggest that Homer1 knockdown has protective effects against neuronal injury in in vitro PD model by reducing calcium overload mediated ROS generation, and this protection may be dependent at least in part on the regulatory effects on the function of calcium channels in both plasma membrane and ER.
+AN  - rayyan-1270414133
+AU  - Chen, T.
+AU  - Yang, Y. F.
+AU  - Luo, P.
+AU  - Liu, W.
+AU  - Dai, S. H.
+AU  - Zheng, X. R.
+AU  - Fei, Z.
+AU  - Jiang, X. F.
+C1  - 1873-3913 Chen, Tao Yang, Yue-fan Luo, Peng Liu, Wei Dai, Shu-hui Zheng, Xin-rui Fei, Zhou Jiang, Xiao-fan Journal Article Research Support, Non-U.S. Gov't England 2013/09/17 Cell Signal. 2013 Dec;25(12):2863-70. doi: 10.1016/j.cellsig.2013.09.004. Epub 2013 Sep 12. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2013-12
+DO  - doi:10.1016/j.cellsig.2013.09.004
+IS  - 12
+KW  - 1-Methyl-4-phenylpyridinium
+Animals
+Calcium/*metabolism
+Calcium Channels/metabolism
+Calcium Signaling
+Carrier Proteins/*genetics/metabolism
+Cell Death
+Cells, Cultured
+Dopamine/metabolism
+Homeostasis
+Homer Scaffolding Proteins
+Neurons/*metabolism/*pathology
+Parkinson Disease, Secondary/chemically induced/genetics/*metabolism/pathology
+*RNA Interference
+RNA, Small Interfering/genetics
+Rats
+Rats, Sprague-Dawley
+Reactive Oxygen Species/metabolism
+Calcium channel
+Endoplasmic reticulum
+Homer
+Parkinson's disease
+LA  - eng
+PY  - 2013
+SN  - 0898-6568
+SP  - 2863-70
+ST  - Homer1 knockdown protects dopamine neurons through regulating calcium homeostasis in an in vitro model of Parkinson's disease
+T2  - Cell Signal
+TI  - Homer1 knockdown protects dopamine neurons through regulating calcium homeostasis in an in vitro model of Parkinson's disease
+VL  - 25
+ID  - 40687
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND AND PURPOSE: To evaluate the impact of proximal flow control on efficacy and safety of mechanical thrombectomy in an in vitro middle cerebral artery occlusion. METHODS: Three independent variables, including clot type, device (Merci Retriever, Solitaire FR, and Trevo devices), and use of a balloon guide catheter, were used to ascertain the impact of proximal flow control on the size and number of distal emboli generated during thrombectomy. Secondary end points were the recanalization rate and amount of flow restored. RESULTS: Use of the balloon guide catheter during thrombectomy of the fragile, hard clot significantly reduced the formation of large distal emboli with a diameter >1 mm, regardless of the device used (P<0.01). Applying aspiration via the balloon guide catheter in place of the conventional guide catheter resulted in a significant increase of flow reversal (P<0.0001). Prior to thrombectomy, deployment of the stent-trievers produced immediate flow restoration through the soft and hard clot occlusions, 69.2 ± 27.3 and 45.5 ± 22.8 mL/min, respectively, that was preserved after the balloon inflation because of collateral flow via the posterior communication artery. After deployment but before thrombectomy, no flow was restored when using the Merci Retriever. After thrombectomy, complete flow restoration was achieved in a majority of cases. The Merci Retriever required more thrombectomy attempts to achieve hard clot removal compared with the stent-trievers when the conventional guide catheter was used (1.5 versus 1.1). CONCLUSIONS: The risk of distal embolization was significantly reduced with the use of the balloon guide catheter.
+AN  - rayyan-1270414137
+AU  - Chueh, J. Y.
+AU  - Kühn, A. L.
+AU  - Puri, A. S.
+AU  - Wilson, S. D.
+AU  - Wakhloo, A. K.
+AU  - Gounis, M. J.
+C1  - 1524-4628 Chueh, Ju-Yu Kühn, Anna Luisa Puri, Ajit S Wilson, Scott D Wakhloo, Ajay K Gounis, Matthew J Journal Article Research Support, Non-U.S. Gov't United States 2013/03/16 Stroke. 2013 May;44(5):1396-401. doi: 10.1161/STROKEAHA.111.670463. Epub 2013 Mar 14. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2013-5
+DO  - doi:10.1161/strokeaha.111.670463
+IS  - 5
+KW  - Catheterization
+Humans
+Infarction, Middle Cerebral Artery/*surgery
+*Models, Anatomic
+Stents
+Stroke/*surgery
+Thrombectomy/instrumentation/*methods
+Treatment Outcome
+LA  - eng
+PY  - 2013
+SN  - 0039-2499
+SP  - 1396-401
+ST  - Reduction in distal emboli with proximal flow control during mechanical thrombectomy: a quantitative in vitro study
+T2  - Stroke
+TI  - Reduction in distal emboli with proximal flow control during mechanical thrombectomy: a quantitative in vitro study
+VL  - 44
+ID  - 40688
+ER  - 
+
+TY  - JOUR
+AB  - Spinal muscular atrophy (SMA) is a devastating neuromuscular disorder that stems from low levels of survival of motor neuron (SMN) protein. The processes that cause motor neurons and muscle cells to become dysfunctional are incompletely understood. We are interested in neuromuscular homeostasis and the stresses put upon that system by loss of SMN. We recently reported that α-COP, a member of the coatomer complex of coat protein I (COPI) vesicles, is an SMN-binding partner, implicating this protein complex in normal SMN function. To investigate the functional significance of the interaction between α-COP and SMN, we constructed an inducible NSC-34 cell culture system to model the consequences of SMN depletion and find that depletion of SMN protein results in shortened neurites. Heterologous expression of human SMN, and interestingly over-expression of α-COP, restores normal neurite length and morphology. Mutagenesis of the canonical COPI dilysine motifs in exon 2b results in failure to bind to α-COP and abrogates the ability of human SMN to restore neurite outgrowth in SMN-depleted motor neuron-like NSC-34 cells. We conclude that the interaction between SMN and α-COP serves an important function in the growth and maintenance of motor neuron processes and may play a significant role in the pathogenesis of SMA.
+AN  - rayyan-1270414143
+AU  - Custer, S. K.
+AU  - Todd, A. G.
+AU  - Singh, N. N.
+AU  - Androphy, E. J.
+C1  - 1460-2083 Custer, Sara K Todd, Adrian G Singh, Natalia N Androphy, Elliot J R01 NS082284/NS/NINDS NIH HHS/United States Journal Article Research Support, Non-U.S. Gov't England 2013/06/04 Hum Mol Genet. 2013 Oct 15;22(20):4043-52. doi: 10.1093/hmg/ddt254. Epub 2013 May 31. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2013-10-15
+DO  - doi:10.1093/hmg/ddt254
+IS  - 20
+KW  - Amino Acid Sequence
+Cell Culture Techniques/methods
+Cell Line
+Coat Protein Complex I/metabolism
+Coatomer Protein/*metabolism
+Dipeptides/chemistry/genetics/*metabolism
+*Exons
+Humans
+*Models, Biological
+Molecular Sequence Data
+Motor Neurons/metabolism/pathology
+Muscular Atrophy, Spinal/genetics/metabolism/*pathology
+Mutation
+Neurites/pathology/*physiology
+Protein Interaction Domains and Motifs/*physiology
+Survival of Motor Neuron 1 Protein/*chemistry/genetics/*metabolism
+LA  - eng
+PY  - 2013
+SN  - 0964-6906 (Print) 0964-6906
+SP  - 4043-52
+ST  - Dilysine motifs in exon 2b of SMN protein mediate binding to the COPI vesicle protein α-COP and neurite outgrowth in a cell culture model of spinal muscular atrophy
+T2  - Hum Mol Genet
+TI  - Dilysine motifs in exon 2b of SMN protein mediate binding to the COPI vesicle protein α-COP and neurite outgrowth in a cell culture model of spinal muscular atrophy
+VL  - 22
+ID  - 40689
+ER  - 
+
+TY  - JOUR
+AB  - Reactivation of the human polyomavirus JC (JCV) in the CNS results in a fatal demyelinating disease, progressive multifocal leukoencephalopathy (PML). The lytic destruction of oligodendrocytes, which occurs at the terminal stage of the viral infection cycle, is considered a critical factor in the development of demyelination and the pathogenesis of PML. However, knowledge is limited about interaction of JCV with oligodendrocytes and its impact on the denudation of axons at the early stage of viral reactivation and prior to the destruction of the infected cells. We have developed an in vitro neuroprogenitor cell culture using human fetal brain that can be differentiated to the oligodendrocyte lineage to investigate interactions of JCV with its host cells. Results show that infection with JCV delays oligodendrocyte maturation as shown by reduced levels of oligodendrocytic markers, including myelin basic protein, proteolipid protein, and platelet-derived growth factor receptor-α. Furthermore, replication of JCV in these cells caused substantial dysregulation of several chemokines, including CCL5/RANTES, GRO, CXCL1/GROα, CXCL16, CXCL8/IL-8, CXCL5/ENA-78, and CXCL10/IP-10, all of which play a role in cell growth and differentiation.
+AN  - rayyan-1270414146
+AU  - Darbinyan, A.
+AU  - Kaminski, R.
+AU  - White, M. K.
+AU  - Darbinian-Sarkissian, N.
+AU  - Khalili, K.
+C1  - 1097-4547 Darbinyan, Armine Kaminski, Rafal White, Martyn K Darbinian-Sarkissian, Nune Khalili, Kamel R01 MH093271/MH/NIMH NIH HHS/United States R01 NS035000/NS/NINDS NIH HHS/United States R01 NS35000/NS/NINDS NIH HHS/United States Journal Article Research Support, N.I.H., Extramural United States 2012/10/23 J Neurosci Res. 2013 Jan;91(1):116-27. doi: 10.1002/jnr.23135. Epub 2012 Oct 22. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2013-1
+DO  - doi:10.1002/jnr.23135
+IS  - 1
+KW  - Cell Differentiation/*physiology
+Cells, Cultured
+Chemokines/metabolism
+Humans
+Immunoblotting
+Immunohistochemistry
+Leukoencephalopathy, Progressive Multifocal/metabolism/virology
+Neural Stem Cells/cytology/metabolism/*virology
+Oligodendroglia/cytology/metabolism/*virology
+Polyomavirus Infections/*metabolism
+Reverse Transcriptase Polymerase Chain Reaction
+Tumor Virus Infections/metabolism
+LA  - eng
+PY  - 2013
+SN  - 0360-4012 (Print) 0360-4012
+SP  - 116-27
+ST  - Polyomavirus JC infection inhibits differentiation of oligodendrocyte progenitor cells
+T2  - J Neurosci Res
+TI  - Polyomavirus JC infection inhibits differentiation of oligodendrocyte progenitor cells
+VL  - 91
+ID  - 40690
+ER  - 
+
+TY  - JOUR
+AB  - Pituitary adenomas can invade surrounded tissue, but the mechanism remains elusive. Ether à go-go-1 (Eag1) potassium channel and epidermal growth factor receptors (ErbB1 and ErbB2) have been associated to invasive phenotypes or poor prognosis in cancer patients. However, cells arrange their cytoskeleton in order to acquire a successful migration pattern. We have studied ErbBs and Eag1 expression, and cytoskeleton arrangements in 11 human pituitary adenomas. Eag1, ErbB1 and ErbB2 expression were studied by immunochemistry in tissue and cultured cells. The cytoskeleton arrangement was analyzed in cultured cells by immunofluorescence. Normal pituitary tissue showed ErbB2 expression and Eag1 only in few cells. However, Eag1 and ErbB2 were expressed in all the tumors analyzed. ErbB1 expression was observed variable and did not show specificity for a tumor characteristic. Cultured cells from micro- and macro-adenomas clinically functional organize their cytoskeleton suggesting a mesenchymal pattern, and a round leucocyte/amoeboid pattern from invasive clinically silent adenoma. Pituitary tumors over-express EGF receptors and the ErbB2 repeated expression suggests is a characteristic of adenomas. Eag 1 was express, in different extent, and could be a therapeutic target. The cytoskeleton arrangements observed suggest that pituitary tumor cells acquire different patterns: mesenchymal, and leucocyte/amoeboid, the last observed in the invasive adenomas. Amoeboid migration pattern has been associated with high invasion capacity.
+AN  - rayyan-1270414149
+AU  - del Pliego, M. G.
+AU  - Aguirre-Benítez, E.
+AU  - Paisano-Cerón, K.
+AU  - Valdovinos-Ramírez, I.
+AU  - Rangel-Morales, C.
+AU  - Rodríguez-Mata, V.
+AU  - Solano-Agama, C.
+AU  - Martín-Tapia, D.
+AU  - de la Vega, M. T.
+AU  - Saldoval-Balanzario, M.
+AU  - Camacho, J.
+AU  - Mendoza-Garrido, M. E.
+C1  - 1936-2625 del Pliego, Margarita González Aguirre-Benítez, Elsa Paisano-Cerón, Karina Valdovinos-Ramírez, Irene Rangel-Morales, Carlos Rodríguez-Mata, Verónica Solano-Agama, Carmen Martín-Tapia, Dolores de la Vega, María Teresa Saldoval-Balanzario, Miguel Camacho, Javier Mendoza-Garrido, María Eugenia Journal Article Research Support, Non-U.S. Gov't United States 2013/02/16 Int J Clin Exp Pathol. 2013;6(3):458-68. Epub 2013 Feb 15. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2013
+DO  - doi:
+IS  - 3
+KW  - Adenoma/*metabolism/pathology/surgery
+Adult
+Aged
+Cells, Cultured
+Cytoskeleton/*metabolism/pathology
+ErbB Receptors/*metabolism
+Ether-A-Go-Go Potassium Channels/*metabolism
+Female
+Humans
+Male
+Middle Aged
+Pituitary Neoplasms/*metabolism/pathology/surgery
+Receptor, ErbB-2/*metabolism
+Eag1
+ErbBs
+Pituitary adenomas
+cell culture
+cytoskeleton
+invasion
+LA  - eng
+PY  - 2013
+SN  - 1936-2625
+SP  - 458-68
+ST  - Expression of Eag1 K+ channel and ErbBs in human pituitary adenomas: cytoskeleton arrangement patterns in cultured cells
+T2  - Int J Clin Exp Pathol
+TI  - Expression of Eag1 K+ channel and ErbBs in human pituitary adenomas: cytoskeleton arrangement patterns in cultured cells
+VL  - 6
+ID  - 40691
+ER  - 
+
+TY  - JOUR
+AB  - The cyanobacterial β-N-methylamino-L-alanine (L-BMAA) is described as a low-potency excitotoxin, possibly a factor in the increased incidence of amyotrophic lateral sclerosis (ALS) and Parkinsonism-dementia complex (PDC) in Guam. The latter association is intensively disputed, as L-BMAA concentrations required for toxic effects exceed those assumed to occur via food. The question thus was raised whether L-BMAA leads to neurodegeneration at nonexcitotoxic conditions. Using human SH-SY5Y neuroblastoma cells, L-BMAA-transport, incorporation into proteins, and subsequent impairment of cellular protein homeostasis were investigated. Binding of L-BMAA to intracellular proteins, but no clear protein incorporation was detected in response to (14)C-L-BMAA exposures. Nevertheless, low L-BMAA concentrations (≥ 0.1mM, 48 h) increased protein ubiquitination, 20S proteasomal and caspase 12 activity, expression of the endoplasmic reticulum (ER) stress marker CHOP, and enhanced phosphorylation of elf2α in SH-SY5Y cells. In contrast, high L-BMAA concentrations (≥ 1mM, 48 h) increased reactive oxygen species and protein oxidization, which were partially ameliorated by coincubation with vitamin E. L-BMAA-mediated cytotoxicity was observable 48 h following ≥ 2mM L-BMAA treatment. Consequently, the data presented here suggest that low L-BMAA concentrations result in a dysregulation of the cellular protein homeostasis with ensuing ER stress that is independent from high-concentration effects such as excitotoxicity and oxidative stress. Thus, the latter could be a contributing factor in the onset and slow progression of ALS/PDC in Guam.
+AN  - rayyan-1270414308
+AU  - Okle, O.
+AU  - Stemmer, K.
+AU  - Deschl, U.
+AU  - Dietrich, D. R.
+C1  - 1096-0929 Okle, Oliver Stemmer, Kerstin Deschl, Ulrich Dietrich, Daniel R Journal Article Research Support, Non-U.S. Gov't United States 2012/10/11 Toxicol Sci. 2013 Jan;131(1):217-24. doi: 10.1093/toxsci/kfs291. Epub 2012 Oct 9. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2013-1
+DO  - doi:10.1093/toxsci/kfs291
+IS  - 1
+KW  - Amino Acids, Diamino/*toxicity
+Amyotrophic Lateral Sclerosis/chemically induced/epidemiology/metabolism
+Caspase 12/*metabolism
+Cell Culture Techniques
+Cell Line, Tumor
+Cell Survival/drug effects
+Cyanobacteria Toxins
+Dose-Response Relationship, Drug
+Endoplasmic Reticulum Stress/*drug effects
+Excitatory Amino Acid Agonists/*toxicity
+Guam/epidemiology
+HEK293 Cells
+Humans
+Parkinson Disease/epidemiology/metabolism
+Protein Binding
+Protein Folding
+Reactive Oxygen Species/metabolism
+Reverse Transcriptase Polymerase Chain Reaction
+Supranuclear Palsy, Progressive/chemically induced/epidemiology/metabolism
+Ubiquitinated Proteins/metabolism
+LA  - eng
+PY  - 2013
+SN  - 1096-0929
+SP  - 217-24
+ST  - L-BMAA induced ER stress and enhanced caspase 12 cleavage in human neuroblastoma SH-SY5Y cells at low nonexcitotoxic concentrations
+T2  - Toxicol Sci
+TI  - L-BMAA induced ER stress and enhanced caspase 12 cleavage in human neuroblastoma SH-SY5Y cells at low nonexcitotoxic concentrations
+VL  - 131
+ID  - 40692
+ER  - 
+
+TY  - JOUR
+AB  - Hypoxic-ischemic (HI) brain injury in newborns results in serious damage. Magnesium sulfate has been clinically used as a cyto-protective agent against HI brain injury in newborns in some countries, including Japan. However, it is not clear how magnesium exerts this effect and how it acts on the individual types of cells within the newborn brain. In this study, we exposed cultured rat oligodendrocyte precursor cells to magnesium sulfate during the period when they differentiate into oligodendrocytes, and showed that magnesium-exposed oligodendrocytes exhibited more resistance to HI injury. Our data may support the use of magnesium sulfate in the clinical setting.
+AN  - rayyan-1270415135
+AU  - Itoh, K.
+AU  - Maki, T.
+AU  - Shindo, A.
+AU  - Egawa, N.
+AU  - Liang, A. C.
+AU  - Itoh, N.
+AU  - Lo, E. H.
+AU  - Lok, J.
+AU  - Arai, K.
+C1  - 1872-8111 Itoh, Kanako Maki, Takakuni Shindo, Akihiro Egawa, Naohiro Liang, Anna C Itoh, Naoki Lo, Eng H Lok, Josephine Arai, Ken P01 NS055104/NS/NINDS NIH HHS/United States R01 NS065089/NS/NINDS NIH HHS/United States Journal Article Ireland 2015/12/25 Neurosci Res. 2016 May;106:66-9. doi: 10.1016/j.neures.2015.12.004. Epub 2015 Dec 14. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016-5
+DO  - doi:10.1016/j.neures.2015.12.004
+KW  - Animals
+Animals, Newborn
+Cell Differentiation
+Cell Lineage
+Cell Survival/drug effects
+Cells, Cultured
+Hypoxia-Ischemia, Brain/*pathology/prevention & control
+Magnesium Sulfate/*pharmacology
+Oligodendroglia/*drug effects/pathology
+Rats
+Hypoxic–ischemic injury
+Magnesium sulfate
+Oligodendrocyte
+White matter
+LA  - eng
+PY  - 2016
+SN  - 0168-0102 (Print) 0168-0102
+SP  - 66-9
+ST  - Magnesium sulfate protects oligodendrocyte lineage cells in a rat cell-culture model of hypoxic-ischemic injury
+T2  - Neurosci Res
+TI  - Magnesium sulfate protects oligodendrocyte lineage cells in a rat cell-culture model of hypoxic-ischemic injury
+VL  - 106
+ID  - 40693
+ER  - 
+
+TY  - JOUR
+AB  - Nanoparticle (NP) drug delivery systems may potentially enhance the efficacy of therapeutic agents. It is difficult to characterize many important properties of NPs in vivo and therefore attempts have been made to use realistic in vitro multicellular spheroids instead. In this paper, we have evaluated poly(glycerol-adipate) (PGA) NPs as a potential drug carrier for local brain cancer therapy. Various three-dimensional (3-D) cell culture models have been used to investigate the delivery properties of PGA NPs. Tumour cells in 3-D culture showed a much higher level of endocytic uptake of NPs than a mixed normal neonatal brain cell population. Differences in endocytic uptake of NPs in 2-D and 3-D models strongly suggest that it is very important to use in vitro 3-D cell culture models for evaluating this parameter. Tumour penetration of NPs is another important parameter which could be studied in 3-D cell models. The penetration of PGA NPs through 3-D cell culture varied between models, which will therefore require further study to develop useful and realistic in vitro models. Further use of 3-D cell culture models will be of benefit in the future development of new drug delivery systems, particularly for brain cancers which are more difficult to study in vivo.
+AN  - rayyan-1270415206
+AU  - Meng, W.
+AU  - Garnett, M. C.
+AU  - Walker, D. A.
+AU  - Parker, T. L.
+C1  - 1535-3699 Meng, Weina Garnett, Martin C Walker, David A Parker, Terence L E19350/BB_/Biotechnology and Biological Sciences Research Council/United Kingdom 42/E19350/Biotechnology and Biological Sciences Research Council/United Kingdom Journal Article Research Support, Non-U.S. Gov't Switzerland 2015/11/17 Exp Biol Med (Maywood). 2016 Mar;241(5):466-77. doi: 10.1177/1535370215610441. Epub 2015 Nov 13. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016-3
+DO  - doi:10.1177/1535370215610441
+IS  - 5
+KW  - Animals
+Brain Neoplasms
+Cell Culture Techniques
+Drug Carriers/*pharmacokinetics
+Humans
+Models, Biological
+Nanoparticles/*metabolism
+Organ Culture Techniques
+Polyesters/*pharmacokinetics
+Rats, Wistar
+Bionanoscience
+brain
+polymer nanoparticles
+tumor models
+LA  - eng
+PY  - 2016
+SN  - 1535-3702 (Print) 1535-3699
+SP  - 466-77
+ST  - Penetration and intracellular uptake of poly(glycerol-adipate) nanoparticles into three-dimensional brain tumour cell culture models
+T2  - Exp Biol Med (Maywood)
+TI  - Penetration and intracellular uptake of poly(glycerol-adipate) nanoparticles into three-dimensional brain tumour cell culture models
+VL  - 241
+ID  - 40694
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Methylprednisolone (MPD) is a rapid acting highly effective cluster headache preventive and also suppresses the recurrence of migraine attacks. Previously, we could demonstrate that elevated CGRP plasma levels in a cluster headache bout are normalized after a course of high dose corticosteroids. Here we assess whether MPD suppresses interleukin-1β (IL-1β)- and prostaglandin E2 (PGE2)-induced CGRP release in a cell culture model of trigeminal ganglia cells, which could account for the preventive effect in migraine and cluster headache. Metoprolol﻿(MTP), a migraine preventive with a slow onset of action, was used for comparison. METHODS: Primary cultures of rat trigeminal ganglia were stimulated for 24 h with 10 ng/ml IL-1β or for 4 h with 10 μM PGE2 following the exposure to 10 or 100 μM MPD or 100 nM or 10 µM MTP for 45 min or 24 h. CGRP was determined by using a commercial enzyme immunoassay. RESULTS: MPD but not MTP blocked IL-1β-induced CGRP release from cultured trigeminal cells. PGE2-stimulated CGRP release from trigeminal ganglia cell culture was not affected by pre-stimulation whether with MPD or MTP. CONCLUSION: MPD but not MTP suppresses cytokine (IL-1β)-induced CGRP release from trigeminal ganglia cells. We propose that blockade of cytokine mediated trigeminal activation may represent a potential mechanism of action that mediates the preventive effect of MTP on cluster headache and recurrent migraine attacks.
+AN  - rayyan-1270415220
+AU  - Neeb, L.
+AU  - Hellen, P.
+AU  - Hoffmann, J.
+AU  - Dirnagl, U.
+AU  - Reuter, U.
+C1  - 1129-2377 Neeb, Lars Hellen, Peter Hoffmann, Jan Dirnagl, Ulrich Reuter, Uwe Comparative Study Journal Article Research Support, Non-U.S. Gov't England 2016/03/05 J Headache Pain. 2016;17:19. doi: 10.1186/s10194-016-0609-x. Epub 2016 Mar 1. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016
+DO  - doi:10.1186/s10194-016-0609-x
+KW  - Adrenergic beta-1 Receptor Antagonists/*pharmacology
+Animals
+Calcitonin Gene-Related Peptide/*drug effects
+Cells, Cultured
+Cluster Headache/*prevention & control
+Dinoprostone/*pharmacology
+Female
+Glucocorticoids/*pharmacology
+Interleukin-1beta/*pharmacology
+Male
+Methylprednisolone/*pharmacology
+Metoprolol/*pharmacology
+Migraine Disorders/*prevention & control
+Rats
+Rats, Sprague-Dawley
+Trigeminal Ganglion/*drug effects
+Calcitonin gene related peptide
+Cluster headache
+Interleukin-1β
+Methylprednisolone
+Metoprolol
+Migraine
+Prostaglandin E2
+Trigeminal ganglia cells
+LA  - eng
+PY  - 2016
+SN  - 1129-2369 (Print) 1129-2369
+SP  - 19
+ST  - Methylprednisolone blocks interleukin 1 beta induced calcitonin gene related peptide release in trigeminal ganglia cells
+T2  - J Headache Pain
+TI  - Methylprednisolone blocks interleukin 1 beta induced calcitonin gene related peptide release in trigeminal ganglia cells
+VL  - 17
+ID  - 40695
+ER  - 
+
+TY  - JOUR
+AB  - Induced pluripotent stem cells (iPSCs) can be a highly informative model of hereditary and sporadic human diseases. In the future, such cells can be used in substitution and regenerative therapy of a wide range of diseases and for the treatment of injuries and burns. The ability of iPSCs derived from patients with Parkinson's disease to differentiate into fibroblast-like cells (derivatives) was studied. It was found that these cells can serve as an effective feeder layer not only to maintain the pluripotency of allogenic and autologous iPSCs but also to derive new iPSC lines.
+AN  - rayyan-1270415222
+AU  - Novosadova, E. V.
+AU  - Manuilova, E. S.
+AU  - Arsenyeva, E. L.
+AU  - Grivennikov, I. A.
+AU  - Myasoedov, N. F.
+C1  - 1608-3091 Novosadova, E V Manuilova, E S Arsenyeva, E L Grivennikov, I A Myasoedov, N F Journal Article United States 2016/11/07 Dokl Biochem Biophys. 2016 Sep;470(1):353-356. doi: 10.1134/S1607672916050136. Epub 2016 Nov 6. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016-9
+DO  - doi:10.1134/s1607672916050136
+IS  - 1
+KW  - Cell Culture Techniques/*methods
+Cell Differentiation/physiology
+Cell Line/*physiology
+Cellular Reprogramming Techniques/*methods
+Coculture Techniques/*methods
+Fibroblasts/*physiology
+Humans
+Immunohistochemistry
+Induced Pluripotent Stem Cells/*physiology
+Parkinson Disease/physiopathology
+Reverse Transcriptase Polymerase Chain Reaction
+Skin/cytology
+LA  - eng
+PY  - 2016
+SN  - 1607-6729
+SP  - 353-356
+ST  - Fibroblast-like cells as an effective feeder for the cultivation and derivation of new lines of human induced pluripotent stem cells
+T2  - Dokl Biochem Biophys
+TI  - Fibroblast-like cells as an effective feeder for the cultivation and derivation of new lines of human induced pluripotent stem cells
+VL  - 470
+ID  - 40696
+ER  - 
+
+TY  - JOUR
+AB  - MicroRNAs (miRNAs) are short, non-coding RNAs that negatively regulate target gene expression, and play an important role in cerebral ischemic injury. MiR-146a has been reported to be highly related to cell invasion, metastasis, immunity, inflammation and apoptosis. Previous studies have indicated that miR-146a can either inhibit or promote apoptosis through different pathophysiological processes. In our previous study, miR-146a in the blood was down-regulated during acute ischemic stroke. However, the connection between miR-146a and acute cerebral ischemic injury and the mechanism underlying the connection remain unclear. Here, we aimed to investigate the role of miR-146a and its possible target genes in human SK-N-SH cells subjected to 16h of oxygen-glucose deprivation and 12h of reperfusion (OGD/R) injury. Cells were transfected with miR-146a mimic or inhibitor to alter the expression of miR-146a. MiR-146a in the SK-N-SH cells was down-regulated after OGD/R injury. Moreover, bioinformatics analysis and dual luciferase assays demonstrated that miR-146a directly recognized the 3'-UTR of the pro-apoptotic genes, Caspase7 and Bcl-2-associated transcription factor 1 (Bclaf1). Furthermore, miR-146a over-expression effectively decreased the mRNA and protein expression of Caspase7 and Bclaf1, and aggravated OGD/R-induced cell apoptosis; in contrast, miR-146a down-regulation was neuroprotective. In conclusion, our study revealed that miR-146a contributes to OGD/R injury in vitro, while negatively regulating the pro-apoptotic genes, Caspase7 and Bclaf1. This special mechanism provides new insight into miRNA regulatory networks. In addition, miR-146a may offer a potential therapeutic approach to cerebral ischemic injury.
+AN  - rayyan-1270415354
+AU  - Zhou, X.
+AU  - Su, S.
+AU  - Li, S.
+AU  - Pang, X.
+AU  - Chen, C.
+AU  - Li, J.
+AU  - Liu, J.
+C1  - 1872-6240 Zhou, Xia Su, Shengyou Li, Shenghua Pang, Xiaomin Chen, Chunyong Li, Jinpin Liu, Jingli Journal Article Research Support, Non-U.S. Gov't Netherlands 2016/07/28 Brain Res. 2016 Oct 1;1648(Pt A):136-143. doi: 10.1016/j.brainres.2016.07.034. Epub 2016 Jul 20. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2016-10-1
+DO  - doi:10.1016/j.brainres.2016.07.034
+KW  - 3' Untranslated Regions
+Apoptosis
+Brain Ischemia/*pathology/therapy
+Caspase 7/metabolism
+Cell Culture Techniques
+Cell Hypoxia/physiology
+Cell Line, Tumor
+Down-Regulation
+Glucose/metabolism
+HEK293 Cells
+Humans
+MicroRNAs/*genetics/*metabolism
+Neurons/metabolism
+Neuroprotection
+Neuroprotective Agents
+Oxygen/metabolism
+Repressor Proteins
+Stroke/pathology
+Tumor Suppressor Proteins
+Cerebral ischemic injury
+MicroRNA-146a
+Oxygen-glucose deprivation and reperfusion
+LA  - eng
+PY  - 2016
+SN  - 0006-8993
+SP  - 136-143
+ST  - MicroRNA-146a down-regulation correlates with neuroprotection and targets pro-apoptotic genes in cerebral ischemic injury in vitro
+T2  - Brain Res
+TI  - MicroRNA-146a down-regulation correlates with neuroprotection and targets pro-apoptotic genes in cerebral ischemic injury in vitro
+VL  - 1648
+ID  - 40697
+ER  - 
+
+TY  - JOUR
+AB  - One of the most promising approaches to confront the complexity of central nervous system disorders are new multi-target directed ligands (MTDLs). Five medicinal species (Cereus grandiflorus (L.) Mill., Hyssopus officinalis L., Acorus calamus L., Silybum marianum L. Gaertn. and Turnera diffusa Willd. Ex Schult), selected for their ethnopharmacological relevance, were object for in vitro screening. The aqueous extract of T. diffusa revealed the strongest neuroactive potential, inhibiting monoamine oxidase-A (IC(50) = 129.80 ± 11.97 μg/mL), and acetyl- and butyrylcholinesterase (IC(25) = 0.352 ± 0.011 and 0.370 ± 0.036 mg/mL, respectively). Its phenolic profile was established for the first time by HPLC-DAD-ESI/MS(n). Twenty-six out of thirty-seven compounds were newly identified in this species. The pre-treatment with this flavonoid-rich extract promoted a rightward shift of the glutamate concentration neuronal cell (SH-SY5Y) death response curve. Furthermore, it significantly reduced the early phase formation of intracellular reactive species after glutamate and t-BHP exposure, suggesting that neuroprotection in SH-SY5Y cells was, in part, mediated by antioxidant mechanisms.
+AN  - rayyan-1270415371
+AU  - Bernardo, J.
+AU  - Ferreres, F.
+AU  - Gil-Izquierdo, Á
+AU  - Valentão, P.
+AU  - Andrade, P. B.
+C1  - 1873-6351 Bernardo, João Ferreres, Federico Gil-Izquierdo, Ángel Valentão, Patrícia Andrade, Paula B Journal Article England 2017/06/14 Food Chem Toxicol. 2017 Aug;106(Pt A):466-476. doi: 10.1016/j.fct.2017.06.014. Epub 2017 Jun 9. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-8
+DO  - doi:10.1016/j.fct.2017.06.014
+KW  - Antioxidants/chemistry/pharmacology
+Cell Line
+Central Nervous System Diseases/*drug therapy/metabolism
+Glutamic Acid/*metabolism/toxicity
+Humans
+Mass Spectrometry
+Oxidative Stress/*drug effects
+Phenols/chemistry/pharmacology
+Plant Extracts/chemistry/*pharmacology
+Plants, Medicinal/*chemistry
+Reactive Oxygen Species/metabolism
+Turnera/*chemistry
+CNS enzymes
+Flavonoids
+Glutamate excitotoxicity
+Medicinal species
+Neuroprotection
+Turnera diffusa
+LA  - eng
+PY  - 2017
+SN  - 0278-6915
+SP  - 466-476
+ST  - Medicinal species as MTDLs: Turnera diffusa Willd. Ex Schult inhibits CNS enzymes and delays glutamate excitotoxicity in SH-SY5Y cells via oxidative damage
+T2  - Food Chem Toxicol
+TI  - Medicinal species as MTDLs: Turnera diffusa Willd. Ex Schult inhibits CNS enzymes and delays glutamate excitotoxicity in SH-SY5Y cells via oxidative damage
+VL  - 106
+ID  - 40698
+ER  - 
+
+TY  - JOUR
+AB  - The characterization of the aggregation kinetics of protein amyloids and the structural properties of the ensuing aggregates are vital in the study of the pathogenesis of many neurodegenerative diseases and the discovery of therapeutic targets. In this article, we show that the fluorescence lifetime of synthetic dyes covalently attached to amyloid proteins informs on the structural properties of amyloid clusters formed both in vitro and in cells. We demonstrate that the mechanism behind such a "lifetime sensor" of protein aggregation is based on fluorescence self-quenching and that it offers a good dynamic range to report on various stages of aggregation without significantly perturbing the process under investigation. We show that the sensor informs on the structural density of amyloid clusters in a high-throughput and quantitative manner and in these aspects the sensor outperforms super-resolution imaging techniques. We demonstrate the power and speed of the method, offering capabilities, for example, in therapeutic screenings that monitor biological self-assembly. We investigate the mechanism and advantages of the lifetime sensor in studies of the K18 protein fragment of the Alzheimer's disease related protein tau and its amyloid aggregates formed in vitro. Finally, we demonstrate the sensor in the study of aggregates of polyglutamine protein, a model used in studies related to Huntington's disease, by performing correlative fluorescence lifetime imaging microscopy and structured-illumination microscopy experiments in cells.
+AN  - rayyan-1270415392
+AU  - Chen, W.
+AU  - Young, L. J.
+AU  - Lu, M.
+AU  - Zaccone, A.
+AU  - Ströhl, F.
+AU  - Yu, N.
+AU  - Kaminski Schierle, G. S.
+AU  - Kaminski, C. F.
+C1  - 1530-6992 Chen, WeiYue Orcid: 0000-0001-5004-4376 Young, Laurence J Orcid: 0000-0002-0269-7548 Lu, Meng Zaccone, Alessio Ströhl, Florian Yu, Na Kaminski Schierle, Gabriele S Kaminski, Clemens F WT_/Wellcome Trust/United Kingdom 203249/Z/16/Z/WT_/Wellcome Trust/United Kingdom MR/K02292X/1/MRC_/Medical Research Council/United Kingdom 089703/Z/09/Z/WT_/Wellcome Trust/United Kingdom Journal Article Research Support, Non-U.S. Gov't United States 2017/01/12 Nano Lett. 2017 Jan 11;17(1):143-149. doi: 10.1021/acs.nanolett.6b03686. Epub 2016 Dec 8. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-1-11
+DO  - doi:10.1021/acs.nanolett.6b03686
+IS  - 1
+KW  - Alzheimer Disease/diagnostic imaging/metabolism
+Amyloid/*chemistry/*metabolism
+Fluorescence
+Fluorescent Dyes/chemistry
+HEK293 Cells
+Humans
+Huntington Disease/diagnostic imaging/metabolism
+Kinetics
+Optical Imaging
+Peptides/chemistry/metabolism
+*Protein Aggregates
+Protein Conformation
+Flim
+Sim
+Self-quenching
+amyloid aggregation
+super-resolution
+LA  - eng
+PY  - 2017
+SN  - 1530-6984 (Print) 1530-6984
+SP  - 143-149
+ST  - Fluorescence Self-Quenching from Reporter Dyes Informs on the Structural Properties of Amyloid Clusters Formed in Vitro and in Cells
+T2  - Nano Lett
+TI  - Fluorescence Self-Quenching from Reporter Dyes Informs on the Structural Properties of Amyloid Clusters Formed in Vitro and in Cells
+VL  - 17
+ID  - 40699
+ER  - 
+
+TY  - JOUR
+AB  - (-)-Epigallocatechin-3-gallate (EGCG) exhibits a broader spectrum health efficacy in subarachnoid hemorrhage (SAH) therapy; the mechanisms, however, are largely unknown. Given that miRNAs play important roles in regulation of thousands of gene expressions, the effect of EGCG on the expression of miRNAs was investigated to explore the multi-targeting actions of EGCG by using an in vitro SAH model. MTT and western blot assays were used to assess the health effects of EGCG in SAH progression; the results showed that oxyhemoglobin (OxyHb)-induced cell proliferation and excessive autophagic activation were significantly inhibited by 50 μM EGCG, but not by 1 μM EGCG. By high throughput sequencing analysis, the miRNA profiles of normal, SAH and EGCG (1 and 50 μM) groups were compared and a total of 953 miRNAs were identified. Of 192 differentially expressed miRNAs, 43 miRNAs were significantly differentially expressed in SAH (p < 0.01). However, EGCG significantly increased the number of differential expressions of miRNAs, which showed 144 and 138 miRNAs (112 and 115 upregulated, 32 and 23 downregulated, p < 0.01) in 1 μM and 50 μM EGCG groups, respectively. Among all the differentially expressed miRNAs, 13 miRNAs were shared by the three groups. 5 miRNAs (miR-218-5p, miR-218b, miR-143-3p, miR-101a-3p, miR-30a-3p) were detected in both SAH and EGCG 1 μM groups, and 104 miRNAs were shared by the EGCG 1 μM and EGCG 50 μM groups. Only 1 miRNA (miR-532-5p) was discovered in both SAH and EGCG 50 μM groups. Moreover, 24, 22 and 20 specific differentially expressed miRNAs were discovered in SAH, 1 μM and 50 μM EGCG groups, respectively. The predicted target genes of differentially expressed miRNAs showed that the most impacted MAPK signaling pathway, particularly the upregulated p38 expression in the SAH group, was restored to the normal level in both EGCG groups, but the calcium signaling pathway was enriched only in the EGCG 50 μM group. These results revealed that differential expression of miRNAs is fundamental to understand the multiple targets actions of EGCG in SAH therapy, and simultaneously targeting more robust signaling pathways could determine the therapeutic effects of EGCG.
+AN  - rayyan-1270415394
+AU  - Chen, Y.
+AU  - Huang, L.
+AU  - Wang, L.
+AU  - Chen, L.
+AU  - Ren, W.
+AU  - Zhou, W.
+C1  - 2042-650x Chen, Ying Huang, Liyong Wang, Lei Chen, Lingyun Ren, Wenhua Zhou, Wenke Journal Article England 2017/11/22 Food Funct. 2017 Dec 13;8(12):4675-4683. doi: 10.1039/c7fo01064h. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-12-13
+DO  - doi:10.1039/c7fo01064h
+IS  - 12
+KW  - Autophagy/drug effects
+Catechin/*analogs & derivatives/pharmacology
+Cell Proliferation/drug effects
+Gene Expression Profiling
+Humans
+MicroRNAs/*genetics/metabolism
+Signal Transduction/drug effects
+Subarachnoid Hemorrhage/drug therapy/*genetics/metabolism/physiopathology
+LA  - eng
+PY  - 2017
+SN  - 2042-6496
+SP  - 4675-4683
+ST  - Differential expression of microRNAs contributed to the health efficacy of EGCG in in vitro subarachnoid hemorrhage model
+T2  - Food Funct
+TI  - Differential expression of microRNAs contributed to the health efficacy of EGCG in in vitro subarachnoid hemorrhage model
+VL  - 8
+ID  - 40700
+ER  - 
+
+TY  - JOUR
+AB  - Tissue-type plasminogen activator (tPA) is the only treatment for ischemic stroke. However, tPA could induce the intracranial hemorrhage (ICH), which is the main cause of death in ischemic stroke patient after tPA treatment. At present, there is no treatment strategy to ameliorate tPA-induced brain injury after ischemia. Therefore, we investigated the effect of pre-treated isoflurane, which is a volatile anesthetic and has beneficial effects on neurological dysfunction, brain edema and infarct volume in ischemic stroke model. In this study, we used oxygen/glucose deprivation and reperfusion (OGD/R) condition to mimic an ischemic stroke in vitro. Matrix metalloproteinases (MMP) activity was measured in endothelial cell media. Also, neuronal cell culture was performed to investigate the effect of pretreated isoflurane on the neuronal cell survival after tPA-induced injury during OGD/R. Isoflurane pretreatment prevented tPA-induced MMP-2 and MMP-9 activity and suppressed tPA-triggered LRP/NF-κB/Cox-2 signaling after OGD/R. Neuronal cells, incubated with endothelial cell conditioned medium (EC-CM) after tPA + OGD/R, showed upregulation of pro-apoptotic molecules. However, neurons incubated with isoflurane-pretreated EC-CM showed increased anti-apoptotic molecules. Our findings suggest that isoflurane pretreatment could attenuate tPA-exaggerated brain ischemic injury, by reducing tPA-induced LRP/NF-κB/Cox-2 in endothelial cells, endothelial MMP-2 and MMP-9 activation, and subsequent pro-apoptotic molecule in neurons after OGD/R.
+AN  - rayyan-1270415396
+AU  - Cheon, S. Y.
+AU  - Kim, S. Y.
+AU  - Kam, E. H.
+AU  - Lee, J. H.
+AU  - Kim, J. M.
+AU  - Kim, E. J.
+AU  - Kim, T. W.
+AU  - Koo, B. N.
+C1  - 1449-1907 Cheon, So Yeong Kim, So Yeon Kam, Eun Hee Lee, Jae Hoon Kim, Jeong Min Kim, Eun Jung Kim, Tae Whan Koo, Bon-Nyeo Journal Article Australia 2017/05/26 Int J Med Sci. 2017 Apr 8;14(5):425-433. doi: 10.7150/ijms.18037. eCollection 2017. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017
+DO  - doi:10.7150/ijms.18037
+IS  - 5
+KW  - Animals
+Apoptosis/drug effects
+Brain Injuries/complications/*drug therapy/genetics/pathology
+Brain Ischemia/complications/*drug therapy/genetics/pathology
+Culture Media, Conditioned
+Cyclooxygenase 2/genetics
+Disease Models, Animal
+Endothelial Cells/drug effects/pathology
+Glucose/metabolism
+Humans
+Intracranial Hemorrhages/chemically induced/drug therapy/genetics/pathology
+Isoflurane/*administration & dosage
+Low Density Lipoprotein Receptor-Related Protein-1
+Matrix Metalloproteinase 2/genetics
+Mice
+NF-kappa B/genetics
+Neurons/drug effects/pathology
+Oxygen/metabolism
+Receptors, LDL/genetics
+Stroke/*drug therapy/genetics/pathology
+Tissue Plasminogen Activator/*administration & dosage/adverse effects/genetics
+Tumor Suppressor Proteins/genetics
+Tissue-type plasminogen activator
+endothelial cell
+isoflurane
+matrix metalloproteinase
+neuronal cell.
+oxygen/glucose deprivation
+LA  - eng
+PY  - 2017
+SN  - 1449-1907
+SP  - 425-433
+ST  - Isoflurane preconditioning inhibits the effects of tissue-type plasminogen activator on brain endothelial cell in an in vitro model of ischemic stroke
+T2  - Int J Med Sci
+TI  - Isoflurane preconditioning inhibits the effects of tissue-type plasminogen activator on brain endothelial cell in an in vitro model of ischemic stroke
+VL  - 14
+ID  - 40701
+ER  - 
+
+TY  - JOUR
+AB  - Amyotrophic Lateral Sclerosis (ALS) and Frontotemporal Dementia (FTD) share overlapping genetic causes and disease symptoms, and are linked neuropathologically by the RNA binding protein TDP-43 (TAR DNA binding protein-43 kDa). TDP-43 regulates RNA metabolism, trafficking, and localization of thousands of target genes. However, the cellular and molecular mechanisms by which dysfunction of TDP-43 contributes to disease pathogenesis and progression remain unclear. Severe changes in the structure of neuronal dendritic arbors disrupt proper circuit connectivity, which in turn could contribute to neurodegenerative disease. Although aberrant dendritic morphology has been reported in non-TDP-43 mouse models of ALS and in human ALS patients, this phenotype is largely unexplored with regards to TDP-43. Here we have employed a primary rodent neuronal culture model to study the cellular effects of TDP-43 dysfunction in hippocampal and cortical neurons. We show that manipulation of TDP-43 expression levels causes significant defects in dendritic branching and outgrowth, without an immediate effect on cell viability. The effect on dendritic morphology is dependent on the RNA-binding ability of TDP-43. Thus, this model system will be useful in identifying pathways downstream of TDP-43 that mediate dendritic arborization, which may provide potential new avenues for therapeutic intervention in ALS/FTD.
+AN  - rayyan-1270415459
+AU  - Herzog, J. J.
+AU  - Deshpande, M.
+AU  - Shapiro, L.
+AU  - Rodal, A. A.
+AU  - Paradis, S.
+C1  - 2045-2322 Herzog, Josiah J Deshpande, Mugdha Shapiro, Leah Rodal, Avital A Orcid: 0000-0002-2051-8304 Paradis, Suzanne R01 NS065856/NS/NINDS NIH HHS/United States T32 EB009419/EB/NIBIB NIH HHS/United States Journal Article England 2017/11/17 Sci Rep. 2017 Nov 15;7(1):15656. doi: 10.1038/s41598-017-15914-4. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-11-15
+DO  - doi:10.1038/s41598-017-15914-4
+IS  - 1
+KW  - Amyotrophic Lateral Sclerosis/*genetics/pathology
+Animals
+Cell Survival/genetics
+DNA-Binding Proteins/*genetics
+Dendritic Cells/*metabolism/pathology
+Frontotemporal Dementia/*genetics/pathology
+Gene Expression Regulation, Developmental
+Hippocampus/metabolism/pathology
+Humans
+Mice
+Neurons/metabolism/pathology
+Primary Cell Culture
+RNA-Binding Proteins/genetics/metabolism
+LA  - eng
+PY  - 2017
+SN  - 2045-2322
+SP  - 15656
+ST  - TDP-43 misexpression causes defects in dendritic growth
+T2  - Sci Rep
+TI  - TDP-43 misexpression causes defects in dendritic growth
+VL  - 7
+ID  - 40702
+ER  - 
+
+TY  - JOUR
+AB  - Calnuc is a ubiquitously expressed protein of the EF-hand Ca(2+)-binding superfamily. Previous studies have implicated it in Ca(2+)-sensitive physiological processes, whereas details of its function and involvement in human diseases are lacking. Drawing upon the sequence homology of calnuc with calreticulin, we propose it functions as a molecular chaperone-like protein. In cells under thermal, chemical [urea and guanidinium chloride (GdmCl)], and acidic stress, calnuc exhibits properties similar to those of established chaperone-like proteins (GRP78, spectrin, and α-crystallin), effectively demonstrated by its ability to suppress aggregation of malate dehydrogenase (MDH), alcohol dehydrogenase, and catalase. Calnuc aids in refolding of MDH with retention of 80% of its enzymatic activity. In HEK293 cells subjected to heat shock, calnuc chaperones luciferase, protecting its activity. Our in vitro and cell culture results establish the ability of calnuc to inhibit fibrillation of insulin and lysozyme and validate its neuroprotective role in cells treated with amyloid fibrils. Calnuc also rescues cells from fibrillar toxicity (caused by misfolded or aggregated proteins), providing a plausible explanation for the previous observation of its low level of expression in brains affected by Alzheimer's disease. We propose that calnuc is possibly involved in controlling protein unfolding diseases, such as Alzheimer's disease (AD), Parkinson's disease (PD), prion disease, and type II diabetes.
+AN  - rayyan-1270415484
+AU  - Kanuru, M.
+AU  - Aradhyam, G. K.
+C1  - 1520-4995 Kanuru, Madhavi Aradhyam, Gopala Krishna Orcid: 0000-0001-8232-3935 Journal Article United States 2016/12/21 Biochemistry. 2017 Jan 10;56(1):149-159. doi: 10.1021/acs.biochem.6b00660. Epub 2016 Dec 20. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-1-10
+DO  - doi:10.1021/acs.biochem.6b00660
+IS  - 1
+KW  - Alcohol Dehydrogenase/chemistry/metabolism
+Alzheimer Disease/metabolism
+Amyloid/chemistry/genetics/*metabolism
+Blotting, Western
+Calcium-Binding Proteins/genetics/*metabolism
+Catalase/chemistry/metabolism
+Circular Dichroism
+DNA-Binding Proteins/genetics/*metabolism
+Diabetes Mellitus, Type 2/metabolism
+Endoplasmic Reticulum Chaperone BiP
+HEK293 Cells
+Hot Temperature
+Humans
+Malate Dehydrogenase/chemistry/metabolism
+Molecular Chaperones/genetics/*metabolism
+Nerve Tissue Proteins/genetics/*metabolism
+Nucleobindins
+Parkinson Disease/metabolism
+Prion Diseases/metabolism
+Protein Aggregates
+*Protein Aggregation, Pathological
+Protein Refolding
+Protein Unfolding
+LA  - eng
+PY  - 2017
+SN  - 0006-2960
+SP  - 149-159
+ST  - Chaperone-like Activity of Calnuc Prevents Amyloid Aggregation
+T2  - Biochemistry
+TI  - Chaperone-like Activity of Calnuc Prevents Amyloid Aggregation
+VL  - 56
+ID  - 40703
+ER  - 
+
+TY  - JOUR
+AB  - Aberrant nucleocytoplasmic localization of proteins has been implicated in many neurodegenerative diseases. Evidence suggests that cytoplasmic mislocalization of nuclear proteins such as transactive response DNA-binding protein 43 (TDP-43) and fused in sarcoma (FUS) may be associated with neurotoxicity in amyotrophic lateral sclerosis (ALS) and frontotemporal lobar degeneration. This study investigated the changes in nucleocytoplasmic distributions of the proteome and transcriptome in an in vitro model of ALS. After subcellular fractionation of motor neuron-like cell lines expressing wild-type or G93A mutant hSOD1, quantitative mass spectrometry and next-generation RNA sequencing (RNA-seq) were performed for the nuclear and cytoplasmic compartments. A subset of the results was validated via immunoblotting. A total of 1,925 proteins were identified in either the nuclear or cytoplasmic fractions, and 32% of these proteins were quantified in both fractions. The nucleocytoplasmic distribution of 37 proteins was significantly changed in mutant cells with nuclear and cytoplasmic shifts in 13 and 24 proteins, respectively (p<0.05). The proteins shifted towards the nucleus were enriched regarding pathways of RNA transport and processing (Dhx9, Fmr1, Srsf3, Srsf6, Tra2b), whereas protein folding (Cct5, Cct7, Cct8), aminoacyl-tRNA biosynthesis (Farsb, Nars, Txnrd1), synaptic vesicle cycle (Cltc, Nsf), Wnt signalling (Cltc, Plcb3, Plec, Psmd3, Ruvbl1) and Hippo signalling (Camk2d, Plcb3, Ruvbl1) pathways were over-represented in the proteins shifted to the cytoplasm. A weak correlation between the changes in protein and mRNA levels was found only in the nucleus, where mRNA was relatively abundant in mutant cells. This study provides a comprehensive dataset of the nucleocytoplasmic distribution of the proteome and transcriptome in an in vitro model of ALS. An integrated analysis of the nucleocytoplasmic distribution of the proteome and transcriptome demonstrated multiple candidate pathways including RNA processing/transport and protein synthesis and folding that may be relevant to the pathomechanism of ALS.
+AN  - rayyan-1270415488
+AU  - Kim, J. E.
+AU  - Hong, Y. H.
+AU  - Kim, J. Y.
+AU  - Jeon, G. S.
+AU  - Jung, J. H.
+AU  - Yoon, B. N.
+AU  - Son, S. Y.
+AU  - Lee, K. W.
+AU  - Kim, J. I.
+AU  - Sung, J. J.
+C1  - 1932-6203 Kim, Jee-Eun Hong, Yoon Ho Kim, Jin Young Jeon, Gye Sun Jung, Jung Hee Yoon, Byung-Nam Son, Sung-Yeon Lee, Kwang-Woo Kim, Jong-Il Sung, Jung-Joon Journal Article United States 2017/04/30 PLoS One. 2017 Apr 28;12(4):e0176462. doi: 10.1371/journal.pone.0176462. eCollection 2017. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017
+DO  - doi:10.1371/journal.pone.0176462
+IS  - 4
+KW  - Amyotrophic Lateral Sclerosis/genetics/metabolism/*pathology
+Cell Line
+Cell Nucleus/*genetics/*metabolism
+Cytoplasm/*genetics/*metabolism
+*Proteome
+Reproducibility of Results
+*Transcriptome
+LA  - eng
+PY  - 2017
+SN  - 1932-6203
+SP  - e0176462
+ST  - Altered nucleocytoplasmic proteome and transcriptome distributions in an in vitro model of amyotrophic lateral sclerosis
+T2  - PLoS One
+TI  - Altered nucleocytoplasmic proteome and transcriptome distributions in an in vitro model of amyotrophic lateral sclerosis
+VL  - 12
+ID  - 40704
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Non-selective Connexin43 hemichannels contribute to secondary lesion spread. The hemichannel blocking peptidomimetic Peptide5, derived from the second extracellular loop of the human Connexin43 protein, prevents lesion spread and reduces vascular permeability in preclinical models of central nervous system injury. The molecular mode of action of Peptide5, however, was unknown and is described here. METHODS: Human cerebral microvascular endothelial cells and APRE-19 cells were used. Scrape loading was used to assess gap junction function and hypoxic, acidic ion-shifted Ringer solution induced ATP release used to assess hemichannel function. Peptide modifications, including amino acid substitutions and truncations, and competition assays were used to demonstrate Peptide5 functional specificity and site of action respectively. RESULTS: Peptide5 inhibits Connexin43 hemichannel-mediated ATP release by acting on extracellular loop two of Connexin43, adjacent to its matching sequence within the protein. Precise sequence specificity is important for hemichannel block, but less so for uncoupling of gap junction channels (seen only at high concentrations). The SRPTEKT motif is central to Peptide5 function but on its own is not sufficient to inhibit hemichannels. Both the SRPTEKT motif and Peptide5 reduce gap junction communication, but neither uncoupling below 50%. CONCLUSIONS: Reduced gap junction coupling at high peptide concentrations appears to be relatively non-specific. However, Peptide5 at low concentrations acts upon extracellular loop two of Connexin43 to block hemichannels in a precise, sequence specific manner. GENERAL SIGNIFICANCE: The concentration dependent and sequence specific action of Peptide5 supports its development for the treatment of retinal injury and chronic disease, as well as other central nervous system injury and disease conditions.
+AN  - rayyan-1270415489
+AU  - Kim, Y.
+AU  - Griffin, J. M.
+AU  - Harris, P. W.
+AU  - Chan, S. H.
+AU  - Nicholson, L. F.
+AU  - Brimble, M. A.
+AU  - O'Carroll, S. J.
+AU  - Green, C. R.
+C1  - Kim, Yeri Griffin, Jarred M Harris, Paul W R Chan, Sin Hang Crystal Nicholson, Louise F B Brimble, Margaret A O'Carroll, Simon J Green, Colin R Journal Article Research Support, Non-U.S. Gov't Netherlands 2016/11/07 Biochim Biophys Acta Gen Subj. 2017 Feb;1861(2):68-78. doi: 10.1016/j.bbagen.2016.11.001. Epub 2016 Nov 3. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-2
+DO  - doi:10.1016/j.bbagen.2016.11.001
+IS  - 2
+KW  - Adenosine Triphosphate/metabolism
+Cell Line
+Central Nervous System Diseases/drug therapy/metabolism
+Cerebrum/*drug effects/metabolism
+Connexin 43/*metabolism
+Endothelial Cells/*drug effects/metabolism
+Gap Junctions/drug effects/metabolism
+Humans
+Ion Channels/metabolism
+Ischemia/*drug therapy/metabolism
+Peptides/*pharmacology
+Reperfusion Injury/*drug therapy/metabolism
+Retinal Diseases/drug therapy/metabolism
+Connexin43
+Gap junctions
+Hemichannel
+Ischemia
+Peptide5
+Peptidomimetics
+LA  - eng
+PY  - 2017
+SN  - 0304-4165 (Print) 0304-4165
+SP  - 68-78
+ST  - Characterizing the mode of action of extracellular Connexin43 channel blocking mimetic peptides in an in vitro ischemia injury model
+T2  - Biochim Biophys Acta Gen Subj
+TI  - Characterizing the mode of action of extracellular Connexin43 channel blocking mimetic peptides in an in vitro ischemia injury model
+VL  - 1861
+ID  - 40705
+ER  - 
+
+TY  - JOUR
+AB  - A common method for cell-associated virus isolation involves disruption of infected cells by a combination of hypotonic burst, freeze-thaw cycles (F-T) and sonication. This protocol was also originally used for the preparation of cell-free extract containing the MX strain of lymphocytic choriomeningitis virus (LCMV), which is preferentially propagated by cell-to-cell contact and does not release distinct virions into the medium. In the present study, we compared different approaches to virus isolation. Based on virus yield, we show that deionized water lysis is the fastest and most effective method for releasing LCMV MX infectious viral particles from persistently infected cells. Moreover, we demonstrate that freeze-thaw cycles and sonication do not improve virus isolation. This simple protocol could be used for isolation of other viruses, the life cycle of which is strictly cell-associated and therefore are difficult to release in large amounts from host cells.
+AN  - rayyan-1270415501
+AU  - Laposova, K.
+AU  - Oveckova, I.
+AU  - Tomaskova, J.
+C1  - 1879-0984 Laposova, Katarina Oveckova, Ingrid Tomaskova, Jana Journal Article Netherlands 2017/09/20 J Virol Methods. 2017 Nov;249:194-196. doi: 10.1016/j.jviromet.2017.09.014. Epub 2017 Sep 18. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2017-11
+DO  - doi:10.1016/j.jviromet.2017.09.014
+KW  - A549 Cells
+Animals
+Antibodies, Viral
+Buffers
+Cell Culture Techniques
+Chlorocebus aethiops
+Culture Media/chemistry
+Freezing
+HeLa Cells
+Humans
+Lymphocytic Choriomeningitis/diagnosis/virology
+Lymphocytic choriomeningitis virus/growth & development/*isolation & purification
+Mice
+Nucleoproteins/*isolation & purification
+Vero Cells
+Virion/*isolation & purification
+Virology/*methods
+Cell-associated virus
+Cell-free extract
+Infection
+Lcmv
+Viral particles
+Virus isolation
+LA  - eng
+PY  - 2017
+SN  - 0166-0934
+SP  - 194-196
+ST  - A simple method for isolation of cell-associated viral particles from cell culture
+T2  - J Virol Methods
+TI  - A simple method for isolation of cell-associated viral particles from cell culture
+VL  - 249
+ID  - 40706
+ER  - 
+
+TY  - JOUR
+AB  - Neonatal hypoxic injury (NHI) is a devastating cause of disease that affects >60% of babies born with a very low birth weight, resulting in significant morbidity and mortality, including life-long neurological consequences such as seizures, cerebral palsy, and intellectual disability. Hypoxic injury results in increased neuronal death, which disrupts normal brain development. Although animal model systems have been useful to study the effects of NHI, they do not fully represent the uniqueness and complexities of the human brain. To better understand the effects of hypoxia on human brain development, we have generated a brain organoid protocol and evaluated these cells over the course of 6 months. As anticipated, the expression of a forebrain marker, FOXG1, increased and then remained expressed over time, while there was a transition in the expression of the deep-layer (TBR1) and upper-layer (SATB2) cortical markers. In addition, ventral genes (Eng1 and Nkx2.1) as well as markers of specialized nonneuronal cells (Olig2 and GFAP) also increased at later time points. We next tested the development of our in vitro cerebral organoid model at different oxygen concentrations and found that hypoxia repressed gene markers for forebrain, oligodendrocytes, glial cells, and cortical layers, as well as genes important for the migration of cortical neurons. In contrast, ventral markers were either unaffected or even increased in expression with hypoxic insult. Interestingly, the negative effect of hypoxia on the dorsal brain genes as well as oligodendrocytes, and neuronal progenitors could be mitigated by the use of minocycline, an FDA-approved small molecule. Taken together, we have generated a unique and relevant in vitro human brain model system to study diseases such as NHI as well as their potential treatments. Using this system, we have shown the efficacy of minocycline for human NHI.
+AN  - rayyan-1270416138
+AU  - Boisvert, E. M.
+AU  - Means, R. E.
+AU  - Michaud, M.
+AU  - Madri, J. A.
+AU  - Katz, S. G.
+C1  - 2041-4889 Boisvert, Erin M Means, Robert E Michaud, Michael Madri, Joseph A Katz, Samuel G T32 CA193200/CA/NCI NIH HHS/United States R01 HL131793/HL/NHLBI NIH HHS/United States Journal Article Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, Non-P.H.S. England 2019/04/13 Cell Death Dis. 2019 Apr 11;10(4):325. doi: 10.1038/s41419-019-1553-x. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019-4-11
+DO  - doi:10.1038/s41419-019-1553-x
+IS  - 4
+KW  - Brain/*metabolism
+Cell Death/drug effects
+Human Embryonic Stem Cells
+Humans
+Hypoxia, Brain/*drug therapy/genetics/metabolism/prevention & control
+Hypoxia-Ischemia, Brain/metabolism
+Minocycline/*therapeutic use
+Neurons/metabolism
+Organoids/cytology/drug effects/metabolism/pathology
+Proto-Oncogene Proteins c-bcl-2/genetics/metabolism
+SOXB1 Transcription Factors/genetics/metabolism
+Time Factors
+LA  - eng
+PY  - 2019
+SP  - 325
+ST  - Minocycline mitigates the effect of neonatal hypoxic insult on human brain organoids
+T2  - Cell Death Dis
+TI  - Minocycline mitigates the effect of neonatal hypoxic insult on human brain organoids
+VL  - 10
+ID  - 40707
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) is a progressive neurodegenerative disease, characterized by cognitive impairment. However, the pathogenesis of AD are very complicated, and the theories of Aβ and neurofibrillary tangles cannot explain all pathological alterations and clinical symptoms. Here, we used three-dimensional (3D) neural organoids culture derived from mouse induced pluripotent stem cells (iPSCs) to investigate the pathological mechanisms of AD. In this study, AD cerebral organoids were generated by overexpressing familial AD mutations (APP and PS1 genes) in mouse induced pluripotent stem cells, so that the early pathogenesis of AD could be investigated well with protein and cellular phenotype analyses. The results showed that AD cerebral organoids appeared some AD pathological alterations, and high levels of Aβ and p-Tau were induced as well. Furthermore, the number of GFAP-positive astrocytes and glutamatergic excitatory neurons increased significantly, but the number of GABAergic interneurons decreased. In conclusion, we suggest that cerebral organoids are a suitable AD model for scientific study, and that will provide us a novel insight into the understanding of the pathogenesis of AD.
+AN  - rayyan-1270416213
+AU  - Fan, W.
+AU  - Sun, Y.
+AU  - Shi, Z.
+AU  - Wang, H.
+AU  - Deng, J.
+C1  - 1872-7972 Fan, Wenjuan Sun, Yizheng Shi, Zhenyu Wang, Haili Deng, Jinbo Journal Article Research Support, Non-U.S. Gov't Ireland 2019/08/20 Neurosci Lett. 2019 Oct 15;711:134433. doi: 10.1016/j.neulet.2019.134433. Epub 2019 Aug 14. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019-10-15
+DO  - doi:10.1016/j.neulet.2019.134433
+KW  - *Alzheimer Disease
+Amyloid beta-Protein Precursor/genetics
+Animals
+Cell Culture Techniques/*methods
+Cell Differentiation
+*Cerebral Cortex
+*Disease Models, Animal
+Humans
+Induced Pluripotent Stem Cells
+Mice
+Mice, Inbred C57BL
+Mutation
+Neural Stem Cells
+*Organoids
+Presenilin-1/*genetics
+3D culture
+Alzheimer’s disease
+Cerebral organoid
+Glutamatergic neuron
+Induced pluripotent stem cell
+LA  - eng
+PY  - 2019
+SN  - 0304-3940
+SP  - 134433
+ST  - Mouse induced pluripotent stem cells-derived Alzheimer's disease cerebral organoid culture and neural differentiation disorders
+T2  - Neurosci Lett
+TI  - Mouse induced pluripotent stem cells-derived Alzheimer's disease cerebral organoid culture and neural differentiation disorders
+VL  - 711
+ID  - 40708
+ER  - 
+
+TY  - JOUR
+AB  - Recent advances in generating three-dimensional (3D) organoid systems from stem cells offer new possibilities for disease modeling and drug screening because organoids can recapitulate aspects of in vivo architecture and physiology. In this study, we generate isogenic 3D midbrain organoids with or without a Parkinson's disease-associated LRRK2 G2019S mutation to study the pathogenic mechanisms associated with LRRK2 mutation. We demonstrate that these organoids can recapitulate the 3D pathological hallmarks observed in patients with LRRK2-associated sporadic Parkinson's disease. Importantly, analysis of the protein-protein interaction network in mutant organoids revealed that TXNIP, a thiol-oxidoreductase, is functionally important in the development of LRRK2-associated Parkinson's disease in a 3D environment. These results provide proof of principle for the utility of 3D organoid-based modeling of sporadic Parkinson's disease in advancing therapeutic discovery.
+AN  - rayyan-1270416282
+AU  - Kim, H.
+AU  - Park, H. J.
+AU  - Choi, H.
+AU  - Chang, Y.
+AU  - Park, H.
+AU  - Shin, J.
+AU  - Kim, J.
+AU  - Lengner, C. J.
+AU  - Lee, Y. K.
+AU  - Kim, J.
+C1  - 2213-6711 Kim, Hongwon Park, Hyeok Ju Choi, Hwan Chang, Yujung Park, Hanseul Shin, Jaein Kim, Junyeop Lengner, Christopher J Lee, Yong Kyu Kim, Jongpil Journal Article Research Support, Non-U.S. Gov't United States 2019/02/26 Stem Cell Reports. 2019 Mar 5;12(3):518-531. doi: 10.1016/j.stemcr.2019.01.020. Epub 2019 Feb 21. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2019-3-5
+DO  - doi:10.1016/j.stemcr.2019.01.020
+IS  - 3
+KW  - Cells, Cultured
+Humans
+Leucine-Rich Repeat Serine-Threonine Protein Kinase-2/*genetics
+Male
+Middle Aged
+Mutation/genetics
+Organoids/*cytology
+Parkinson Disease/*genetics/*therapy
+Parkinson's disease
+disease modeling
+iPSC
+midbrain
+organoids
+LA  - eng
+PY  - 2019
+SN  - 2213-6711
+SP  - 518-531
+ST  - Modeling G2019S-LRRK2 Sporadic Parkinson's Disease in 3D Midbrain Organoids
+T2  - Stem Cell Reports
+TI  - Modeling G2019S-LRRK2 Sporadic Parkinson's Disease in 3D Midbrain Organoids
+VL  - 12
+ID  - 40709
+ER  - 
+
+TY  - JOUR
+AB  - The prognosis of patients with glioblastoma (GBM) remains dismal, with a median survival of approximately 15 months. Current preclinical GBM models are limited by the lack of a "normal" human microenvironment and the inability of many tumor cell lines to accurately reproduce GBM biology. To address these limitations, we have established a model system whereby we can retro-engineer patient-specific GBMs using patient-derived glioma stem cells (GSCs) and human embryonic stem cell (hESC)-derived cerebral organoids. Our cerebral organoid glioma (GLICO) model shows that GSCs home toward the human cerebral organoid and deeply invade and proliferate within the host tissue, forming tumors that closely phenocopy patient GBMs. Furthermore, cerebral organoid tumors form rapidly and are supported by an interconnected network of tumor microtubes that aids in the invasion of normal host tissue. Our GLICO model provides a system for modeling primary human GBM ex vivo and for high-throughput drug screening.
+AD  - Meyer Cancer Center, Weill Cornell Medicine, New York, NY, USA.
+Division of Neuropathology, Department of Pathology, NYU Langone Medical Center and Medical School, New York, NY, USA.
+Feil Family Brain and Mind Research Institute, Weill Cornell Medicine, New York, NY, USA.
+Department of Biochemistry, Weill Cornell Medicine, New York, NY, USA.
+Memorial Sloan Kettering Cancer Center Molecular Cytogenetics Core, New York, NY, USA.
+Department of Pathology & Laboratory Medicine, NewYork-Presbyterian Hospital/Weill Cornell Medicine, New York, NY, USA.
+Meyer Cancer Center, Division of Neuro-Oncology, Department of Neurology, NewYork-Presbyterian Hospital/Weill Cornell Medicine, New York, NY, USA. Electronic address: haf9016@med.cornell.edu.
+AN  - 30893594
+AU  - Linkous, A.
+AU  - Balamatsias, D.
+AU  - Snuderl, M.
+AU  - Edwards, L.
+AU  - Miyaguchi, K.
+AU  - Milner, T.
+AU  - Reich, B.
+AU  - Cohen-Gould, L.
+AU  - Storaska, A.
+AU  - Nakayama, Y.
+AU  - Schenkein, E.
+AU  - Singhania, R.
+AU  - Cirigliano, S.
+AU  - Magdeldin, T.
+AU  - Lin, Y.
+AU  - Nanjangud, G.
+AU  - Chadalavada, K.
+AU  - Pisapia, D.
+AU  - Liston, C.
+AU  - Fine, H. A.
+C1  - DECLARATION OF INTERESTS The authors declare no competing interests.
+C2  - PMC6625753
+C6  - NIHMS1524458
+DA  - Mar 19
+DO  - 10.1016/j.celrep.2019.02.063
+DP  - NLM
+IS  - 12
+KW  - Brain Neoplasms/*metabolism/pathology
+Glioblastoma/*metabolism/pathology
+Humans
+*Models, Biological
+Neoplasm Invasiveness
+Neoplastic Stem Cells/*metabolism/pathology
+Organoids/*metabolism/pathology
+brain tumors
+cancer stem cells
+cerebral organoids
+glioblastoma
+glioma
+glioma stem cells
+human embryonic stem cells
+stem-cell-based disease models
+tissue engineering
+tumor microtubes
+LA  - eng
+N1  - 2211-1247
+Linkous, Amanda
+Balamatsias, Demosthenes
+Snuderl, Matija
+Edwards, Lincoln
+Miyaguchi, Ken
+Milner, Teresa
+Reich, Batsheva
+Cohen-Gould, Leona
+Storaska, Andrew
+Nakayama, Yasumi
+Schenkein, Emily
+Singhania, Richa
+Cirigliano, Stefano
+Magdeldin, Tarig
+Lin, Ying
+Nanjangud, Gouri
+Chadalavada, Kalyani
+Pisapia, David
+Liston, Conor
+Fine, Howard A
+DP1 CA228040/CA/NCI NIH HHS/United States
+P30 CA008748/CA/NCI NIH HHS/United States
+Journal Article
+Research Support, N.I.H., Extramural
+United States
+2019/03/21
+Cell Rep. 2019 Mar 19;26(12):3203-3211.e5. doi: 10.1016/j.celrep.2019.02.063.
+PY  - 2019
+SP  - 3203-3211.e5
+ST  - Modeling Patient-Derived Glioblastoma with Cerebral Organoids
+T2  - Cell Rep
+TI  - Modeling Patient-Derived Glioblastoma with Cerebral Organoids
+VL  - 26
+ID  - 50899
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Glioblastoma (GBM) consists of devastating neoplasms with high invasive capacity, which have been difficult to study in vitro in a human-derived model system. Therapeutic progress is also limited by cellular heterogeneity within and between tumors, among other factors such as therapy resistance. To address these challenges, we present an experimental model using human cerebral organoids as a scaffold for patient-derived GBM cell invasion. METHODS: This study combined tissue clearing and confocal microscopy with single-cell RNA sequencing of GBM cells before and after co-culture with organoid cells. RESULTS: We show that tumor cells within organoids extend a network of long microtubes, recapitulating the in vivo behavior of GBM. Transcriptional changes implicated in the invasion process are coherent across patient samples, indicating that GBM cells reactively upregulate genes required for their dispersion. Potential interactions between GBM and organoid cells identified by an in silico receptor-ligand pairing screen suggest functional therapeutic targets. CONCLUSIONS: Taken together, our model has proven useful for studying GBM invasion and transcriptional heterogeneity in vitro, with applications for both pharmacological screens and patient-specific treatment selection on a time scale amenable to clinical practice.
+AN  - rayyan-1270416777
+AU  - Krieger, T. G.
+AU  - Tirier, S. M.
+AU  - Park, J.
+AU  - Jechow, K.
+AU  - Eisemann, T.
+AU  - Peterziel, H.
+AU  - Angel, P.
+AU  - Eils, R.
+AU  - Conrad, C.
+C1  - 1523-5866 Krieger, Teresa G Tirier, Stephan M Park, Jeongbin Jechow, Katharina Eisemann, Tanja Peterziel, Heike Angel, Peter Eils, Roland Conrad, Christian Journal Article Research Support, Non-U.S. Gov't England 2020/04/17 Neuro Oncol. 2020 Aug 17;22(8):1138-1149. doi: 10.1093/neuonc/noaa091. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2020-8-17
+DO  - doi:10.1093/neuonc/noaa091
+IS  - 8
+KW  - *Brain Neoplasms/genetics/pathology
+Cell Line, Tumor
+*Glioblastoma/genetics/pathology
+Humans
+Neoplasm Invasiveness
+*Organoids/pathology
+Transcriptome
+Tumor Cells, Cultured
+glioblastoma
+organoids
+single-cell RNA sequencing
+tumor cell heterogeneity
+tumor invasion
+LA  - eng
+PY  - 2020
+SN  - 1522-8517 (Print) 1522-8517
+SP  - 1138-1149
+ST  - Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics
+T2  - Neuro Oncol
+TI  - Modeling glioblastoma invasion using human brain organoids and single-cell transcriptomics
+VL  - 22
+ID  - 40710
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: ANA Advanced Neurovascular Access provides a novel funnel component designed to reduce clot fragmentation and facilitate retrieval in combination with stent-retrievers (SRs) in stroke patients by restricting flow and limiting clot shaving. In previous publications ANA presented excellent in vitro/in vivo efficacy data, especially with fibrin-rich hard clots. We aimed to determine the main physical property responsible for these results, namely suction force versus aspiration flow. METHODS: We evaluated in a bench model the suction force and flow generated by ANA and compared them to other neurovascular catheters combined with a SR (Solitaire). Aspiration flow was evaluated with a flow rate sensor while applying vacuum pressure with a pump. Suction force was determined using a tensile strength testing machine and a purposely designed tool that completely seals the device tip simulating complete occlusion by a hard clot. Suction force was defined as the force needed to separate the device from the clot under aspiration. All experiments were repeated five times, and mean values used for comparisons. RESULTS: Aspiration flow increased with the inner diameter of the device: ANA 1.85±0.04 mL/s, ACE68 3.74±0.05 mL/s, and 8F-Flowgate2 5.96±0.30 mL/s (P<0.001). After introducing the SR, the flow was reduced by an average of 0.57±0.12 mL/s. Due to its larger distal surface, ANA suction force (1.69±0.40 N) was significantly higher than ACE68 (0.26±0.04 N) and 8F-Flowgate2 (0.42±0.06 N) (P<0.001). After introducing the SR, suction force variation was not relevant except for ANA that increased to 2.64±0.41 N. CONCLUSION: Despite lower in vitro aspiration flow, the ANA design showed a substantially higher suction force than other thrombectomy devices.
+AN  - rayyan-1270417235
+AU  - Fernandez-Sanchez, D.
+AU  - Garcia-Sabido, D.
+AU  - Jovin, T. G.
+AU  - Villanova, H.
+AU  - Andersson, T.
+AU  - Nogueira, R. G.
+AU  - Cognard, C.
+AU  - Ribo, M.
+AU  - Siddiqui, A. H.
+AU  - Galve, I.
+AU  - Arad, O.
+AU  - Salmon, F.
+C1  - 1759-8486 Fernandez-Sanchez, David Garcia-Sabido, Daniel Jovin, Tudor G Villanova, Helena Andersson, Tommy Nogueira, Raul G Cognard, Cristophe Ribo, Marc Orcid: 0000-0001-9242-043x Siddiqui, Adnan H Galve, Iñaki Arad, Ofir Salmon, François Journal Article England 2021/01/31 J Neurointerv Surg. 2021 Dec;13(12):1157-1161. doi: 10.1136/neurintsurg-2020-017242. Epub 2021 Jan 29. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-12
+DO  - doi:10.1136/neurintsurg-2020-017242
+IS  - 12
+KW  - Humans
+*Stroke/diagnostic imaging/surgery
+Suction
+Thrombectomy
+*Thrombosis
+Treatment Outcome
+device
+stroke
+LA  - eng
+PY  - 2021
+SN  - 1759-8478
+SP  - 1157-1161
+ST  - Suction force rather than aspiration flow correlates with recanalization in hard clots: an in vitro study model
+T2  - J Neurointerv Surg
+TI  - Suction force rather than aspiration flow correlates with recanalization in hard clots: an in vitro study model
+VL  - 13
+ID  - 40711
+ER  - 
+
+TY  - JOUR
+AB  - Creutzfeldt-Jakob Disease (CJD) is a fatal, currently incurable, neurodegenerative disease. The search for candidate treatments would be greatly facilitated by the availability of human cell-based models of prion disease. Recently, an induced pluripotent stem cell derived human cerebral organoid model was shown to take up and propagate human CJD prions. This model offers new opportunities to screen drug candidates for the treatment of human prion diseases in an entirely human genetic background. Here we provide the first evidence that human cerebral organoids can be a viable model for CJD drug screening by using an established anti-prion compound, pentosan polysulfate (PPS). PPS delayed prion propagation in a prophylactic-like treatment paradigm and also alleviated propagation when applied following establishment of infection in a therapeutic-like treatment paradigm. This study demonstrates the utility of cerebral organoids as the first human 3D cell culture system for screening therapeutic drug candidates for human prion diseases.
+AN  - rayyan-1270417262
+AU  - Groveman, B. R.
+AU  - Ferreira, N. C.
+AU  - Foliaki, S. T.
+AU  - Walters, R. O.
+AU  - Winkler, C. W.
+AU  - Race, B.
+AU  - Hughson, A. G.
+AU  - Zanusso, G.
+AU  - Haigh, C. L.
+C1  - 2045-2322 Groveman, Bradley R Ferreira, Natalia C Foliaki, Simote T Walters, Ryan O Winkler, Clayton W Race, Brent Hughson, Andrew G Zanusso, Gianluigi Haigh, Cathryn L Journal Article Research Support, N.I.H., Intramural Research Support, Non-U.S. Gov't England 2021/03/18 Sci Rep. 2021 Mar 9;11(1):5165. doi: 10.1038/s41598-021-84689-6. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-3-9
+DO  - doi:10.1038/s41598-021-84689-6
+IS  - 1
+KW  - Cell Culture Techniques/methods
+Cell Line
+Cerebral Ventricles/*drug effects/pathology
+Creutzfeldt-Jakob Syndrome/*drug therapy/pathology
+Drug Discovery/methods
+Drug Evaluation, Preclinical/*methods
+Humans
+Organoids/*drug effects/pathology
+Pentosan Sulfuric Polyester/pharmacology
+LA  - eng
+PY  - 2021
+SN  - 2045-2322
+SP  - 5165
+ST  - Human cerebral organoids as a therapeutic drug screening model for Creutzfeldt-Jakob disease
+T2  - Sci Rep
+TI  - Human cerebral organoids as a therapeutic drug screening model for Creutzfeldt-Jakob disease
+VL  - 11
+ID  - 40712
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Primary adherent glioblastoma cell lines are an important tool in investigating cellular and molecular tumor biology, as well as treatment options for patients. AIM: The phenotypical and immunocytochemical characterization of primary cell lines from glioblastoma specimens during establishment is of great importance, in order to reliably identify these cell lines as primary glioblastoma cell lines. METHODS AND RESULTS: Sixteen primary adherent cell lines out of 34 glioblastoma samples (47%) were established and further characterized. For phenotypical characterization, morphology and growth characteristics of the cells were classified. The cell lines had a high growth rate with a doubling time of 2 to 14 days. Morphologically, the cells displayed spindle-form or polygonal to amorphous shapes and grow as monolayer or in foci without evidence of contact inhibition. The cells were able to migrate and to form colonies. For further characterization, the protein expression of the astrocyte-specific protein glial fibrillary acidic protein (GFAP), the glial marker S100B, the neuronal marker TUBB3, and malignancy marker VIM, as well as the progenitor markers NES and SOX2, the proliferation marker MKI67, and the fibroblast marker TE7 were determined. Based on the immunocytochemical validation criterion of a coexpression of GFAP and S100B, 15 out of these 16 cell lines (94%) were defined as primary glioblastoma cell lines (pGCL). All 15 pGCL expressed TUBB3 and VIM. NES and SOX2 were stained positively in 13/15 and 6/15 pGCL. MKI67 was expressed in 11/15 and TE7 in 2/15 pGCL. CONCLUSION: These results point out that in self-established primary adherent glioblastoma cell lines, the expression of the specific astrocytic and glial markers GFAP and S100B and of the malignancy and progenitor markers VIM, NES, and SOX2 has to be validated. These data show that primary cell lines of glioblastoma origin with high malignant potential are reliably to establish using standardized validation criteria.
+AN  - rayyan-1270417263
+AU  - Grube, S.
+AU  - Freitag, D.
+AU  - Kalff, R.
+AU  - Ewald, C.
+AU  - Walter, J.
+C1  - 2573-8348 Grube, Susanne Orcid: 0000-0003-0267-858x Freitag, Diana Orcid: 0000-0001-7573-3119 Kalff, Rolf Orcid: 0000-0002-1792-3544 Ewald, Christian Orcid: 0000-0002-8187-7714 Walter, Jan Orcid: 0000-0003-0890-5544 Journal Article Research Support, Non-U.S. Gov't United States 2020/12/01 Cancer Rep (Hoboken). 2021 Apr;4(2):e1324. doi: 10.1002/cnr2.1324. Epub 2020 Nov 30. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-4
+DO  - doi:10.1002/cnr2.1324
+IS  - 2
+KW  - Adult
+Aged
+Aged, 80 and over
+Biomarkers, Tumor/*analysis/metabolism
+Brain Neoplasms/*pathology
+Cell Adhesion
+Female
+Glial Fibrillary Acidic Protein/*analysis/metabolism
+Glioblastoma/*pathology
+Humans
+Male
+Middle Aged
+Primary Cell Culture/*methods
+Tumor Cells, Cultured
+Gfap
+glioblastoma
+in vitro
+primary cell line
+LA  - eng
+PY  - 2021
+SN  - 2573-8348
+SP  - e1324
+ST  - Characterization of adherent primary cell lines from fresh human glioblastoma tissue, defining glial fibrillary acidic protein as a reliable marker in establishment of glioblastoma cell culture
+T2  - Cancer Rep (Hoboken)
+TI  - Characterization of adherent primary cell lines from fresh human glioblastoma tissue, defining glial fibrillary acidic protein as a reliable marker in establishment of glioblastoma cell culture
+VL  - 4
+ID  - 40713
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE: The mechanisms underlying anticancer effects of electromagnetic fields are poorly understood. An alternating electric field-generating therapeutic device called Optune™ device has been approved for the treatment of glioblastoma (GBM). We have developed a new device that generates oscillating magnetic fields (OMF) by rapid rotation of strong permanent magnets in specially designed patterns of frequency and timing and have used it to treat an end-stage recurrent GBM patient under an expanded access/compassionate use treatment protocol. Here, we ask whether OMF causes selective cytotoxic effects in GBM and whether it is through generation of reactive oxygen species (ROS). METHODS: We stimulated patient derived GBM cells, lung cancer cells, normal human cortical neurons, astrocytes, and bronchial epithelial cells using OMF generators (oncoscillators) of our Oncomagnetic Device and compared the results to those obtained under unstimulated or sham-stimulated control conditions. Quantitative fluorescence microscopy was used to assess cell morphology, viability, and ROS production mechanisms. RESULTS: We find that OMF induces highly selective cell death of patient derived GBM cells associated with activation of caspase 3, while leaving normal tissue cells undamaged. The cytotoxic effect of OMF is also seen in pulmonary cancer cells. The underlying mechanism is a marked increase in ROS in the mitochondria, possibly in part through perturbation of the electron flow in the respiratory chain. CONCLUSION: Rotating magnetic fields produced by a new noninvasive device selectively kill cultured human glioblastoma and non-small cell lung cancer cells by raising intracellular reactive oxygen species, but not normal human tissue cells.
+AN  - rayyan-1270417275
+AU  - Helekar, S. A.
+AU  - Hambarde, S.
+AU  - Ijare, O. B.
+AU  - Pichumani, K.
+AU  - Baskin, D. S.
+AU  - Sharpe, M. A.
+C1  - 1432-1335 Helekar, Santosh A Orcid: 0000-0002-9264-0966 Hambarde, Shashank Ijare, Omkar B Pichumani, Kumar Baskin, David S Sharpe, Martyn A Journal Article Germany 2021/09/04 J Cancer Res Clin Oncol. 2021 Dec;147(12):3577-3589. doi: 10.1007/s00432-021-03787-0. Epub 2021 Sep 3. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-12
+DO  - doi:10.1007/s00432-021-03787-0
+IS  - 12
+KW  - *Brain Neoplasms
+Cell Death
+*Glioblastoma
+Humans
+Magnetic Field Therapy/*methods
+Tumor Cells, Cultured
+Brain tumor
+Cell culture
+Noninvasive treatment
+Oncomagnetic device
+Reactive oxygen species
+LA  - eng
+PY  - 2021
+SN  - 0171-5216
+SP  - 3577-3589
+ST  - Selective induction of rapid cytotoxic effect in glioblastoma cells by oscillating magnetic fields
+T2  - J Cancer Res Clin Oncol
+TI  - Selective induction of rapid cytotoxic effect in glioblastoma cells by oscillating magnetic fields
+VL  - 147
+ID  - 40714
+ER  - 
+
+TY  - JOUR
+AB  - Bromodomain and extraterminal domain (BET) proteins have emerged as therapeutic targets in multiple cancers, including the most common primary adult brain tumor glioblastoma (GBM). Although several BET inhibitors have entered clinical trials, few are brain penetrant. We have generated UM-002, a novel brain penetrant BET inhibitor that reduces GBM cell proliferation in vitro and in a human cerebral brain organoid model. Since UM-002 is more potent than other BET inhibitors, it could potentially be developed for GBM treatment. Furthermore, UM-002 treatment reduces the expression of cell-cycle related genes in vivo and reduces the expression of invasion related genes within the non-proliferative cells present in tumors as measured by single cell RNA-sequencing. These studies suggest that BET inhibition alters the transcriptional landscape of GBM tumors, which has implications for designing combination therapies. Importantly, they also provide an integrated dataset that combines in vitro and ex vivo studies with in vivo single-cell RNA-sequencing to characterize a novel BET inhibitor in GBM.
+AN  - rayyan-1270417296
+AU  - Jermakowicz, A. M.
+AU  - Rybin, M. J.
+AU  - Suter, R. K.
+AU  - Sarkaria, J. N.
+AU  - Zeier, Z.
+AU  - Feng, Y.
+AU  - Ayad, N. G.
+C1  - 2045-2322 Jermakowicz, Anna M Rybin, Matthew J Suter, Robert K Sarkaria, Jann N Zeier, Zane Feng, Yangbo Ayad, Nagi G R56 NS102590/NS/NINDS NIH HHS/United States Journal Article Research Support, N.I.H., Extramural England 2021/12/05 Sci Rep. 2021 Dec 3;11(1):23370. doi: 10.1038/s41598-021-02584-6. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-12-3
+DO  - doi:10.1038/s41598-021-02584-6
+IS  - 1
+KW  - Animals
+Antineoplastic Agents/*administration & dosage/chemical
+synthesis/chemistry/pharmacology
+Brain Neoplasms/*drug therapy/genetics
+Cell Cycle/drug effects
+Cell Line, Tumor
+Cell Movement/drug effects
+Cell Proliferation/drug effects
+Cell Survival/drug effects
+Gene Expression Profiling/*methods
+Gene Expression Regulation, Neoplastic/drug effects
+Gene Regulatory Networks/drug effects
+Glioblastoma/*drug therapy/genetics
+Humans
+Male
+Mice
+Molecular Structure
+Neoplasm Invasiveness
+Pyridines/*administration & dosage/chemical synthesis/chemistry/pharmacology
+Sequence Analysis, RNA
+Single-Cell Analysis
+Xenograft Model Antitumor Assays
+LA  - eng
+PY  - 2021
+SN  - 2045-2322
+SP  - 23370
+ST  - The novel BET inhibitor UM-002 reduces glioblastoma cell proliferation and invasion
+T2  - Sci Rep
+TI  - The novel BET inhibitor UM-002 reduces glioblastoma cell proliferation and invasion
+VL  - 11
+ID  - 40715
+ER  - 
+
+TY  - JOUR
+AB  - Exposure to particulate matter (PM) has been considered a potential risk factor for various neurodegenerative diseases, whereas nicotine has protective effects on Parkinson's disease (PD). However, it is still unclear whether or how PM alone and in combination with nicotine affects the pathogenesis of PD. We investigated the potential neurotoxicity of PM and the protective properties of nicotine in an in vitro PD model. A 1-methyl-4-phenylpyridimium (MPP+)-induced neurotoxicity model was established with SH-SY5Y cells. Cell viability and apoptosis were measured using MTT and TUNEL assays, respectively. Intracellular reactive oxygen species (ROS) levels were analyzed using the cell-permeant fluorescent probe DCFH-DA. We investigated mitochondrial apoptotic markers such as Bax, Bcl2, cytochrome C, and cleaved caspase-3 and analyzed their levels by Western blotting. SH-SY5Y cells exposed to PM and MPP+ exhibited significantly increased intracellular ROS and decreased cell viability with those exposed to PM alone. PM strikingly exacerbated MPP+-induced mitochondrial dysfunction, including an increase in the Bax/Bcl2 ratio and the release of cytochrome C and cleaved caspase-3. On the other hand, pretreatment of SH-SY5Y cells with nicotine reduced the MPP+-induced loss of cell viability and levels of intracellular ROS and mitochondrial apoptotic signaling proteins. However, pretreatment with nicotine did not prevent PM-induced toxicity in MPP+-treated SHSY5Y cells. PM and MPP+ synergistically increased ROS levels and mitochondrial apoptosis, which led to SH-SY5Y cell death. The protective effect of nicotine cannot rescue PM-induced synergistic neurotoxicity in the MPP+-induced PD model. Our findings verified the opposing roles of PM and nicotine in a model of PD pathogenesis. A large number of in vivo and in vitro studies would verify the roles of PM and nicotine in the future.
+AN  - rayyan-1270417309
+AU  - Jung, Y. J.
+AU  - Choi, H.
+AU  - Oh, E.
+C1  - 1872-7972 Jung, Yu Jin Choi, Hyunsu Oh, Eungseok Journal Article Research Support, Non-U.S. Gov't Ireland 2021/09/27 Neurosci Lett. 2021 Nov 20;765:136265. doi: 10.1016/j.neulet.2021.136265. Epub 2021 Sep 23. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-11-20
+DO  - doi:10.1016/j.neulet.2021.136265
+KW  - 1-Methyl-4-phenylpyridinium/toxicity
+Apoptosis/drug effects
+Cell Death/drug effects
+Cell Line, Tumor
+Cell Survival/drug effects
+Humans
+Neurons/drug effects/pathology
+Nicotine/*pharmacology
+Nicotinic Agonists/*pharmacology
+Parkinsonian Disorders/chemically induced/*pathology
+Particulate Matter/*toxicity
+1-Methyl-4-phenylpyridimium (MPP+)
+Mitochondrial dysfunction
+Nicotine
+Oxidative stress
+Parkinson's disease
+Particulate matter
+LA  - eng
+PY  - 2021
+SN  - 0304-3940
+SP  - 136265
+ST  - Effects of particulate matter and nicotine for the MPP+-induced SH-SY5Y cells: Implication for Parkinson's disease
+T2  - Neurosci Lett
+TI  - Effects of particulate matter and nicotine for the MPP+-induced SH-SY5Y cells: Implication for Parkinson's disease
+VL  - 765
+ID  - 40716
+ER  - 
+
+TY  - JOUR
+AB  - Successful clinical translation of stem cell-based therapy largely relies on the scalable and reproducible preparation of donor cells with potent therapeutic capacities. In this study, midbrain organoids were yielded from human pluripotent stem cells (hPSCs) to prepare cells for Parkinson's disease (PD) therapy. Neural stem/precursor cells (NSCs) isolated from midbrain organoids (Og-NSCs) expanded stably and differentiated into midbrain-type dopamine(mDA) neurons, and an unprecedentedly high proportion expressed midbrain-specific factors, with relatively low cell line and batch-to-batch variations. Single cell transcriptome analysis followed by in vitro assays indicated that the majority of cells in the Og-NSC cultures are ventral midbrain (VM)-patterned with low levels of cellular senescence/aging and mitochondrial stress, compared to those derived from 2D-culture environments. Notably, in contrast to current methods yielding mDA neurons without astrocyte differentiation, mDA neurons that differentiated from Og-NSCs were interspersed with astrocytes as in the physiologic brain environment. Thus, the Og-NSC-derived mDA neurons exhibited improved synaptic maturity, functionality, resistance to toxic insults, and faithful expressions of the midbrain-specific factors, in vitro and in vivo long after transplantation. Consequently, Og-NSC transplantation yielded potent therapeutic outcomes that are reproducible in PD model animals. Collectively, our observations demonstrate that the organoid-based method may satisfy the demands needed in the clinical setting of PD cell therapy.
+AN  - rayyan-1270417330
+AU  - Kim, S. W.
+AU  - Woo, H. J.
+AU  - Kim, E. H.
+AU  - Kim, H. S.
+AU  - Suh, H. N.
+AU  - Kim, S. H.
+AU  - Song, J. J.
+AU  - Wulansari, N.
+AU  - Kang, M.
+AU  - Choi, S. Y.
+AU  - Choi, S. J.
+AU  - Jang, W. H.
+AU  - Lee, J.
+AU  - Kim, K. H.
+AU  - Lee, W.
+AU  - Kim, S. H.
+AU  - Yang, J.
+AU  - Kyung, J.
+AU  - Lee, H. S.
+AU  - Park, S. M.
+AU  - Chang, M. Y.
+AU  - Lee, S. H.
+C1  - 1873-5118 Kim, Seung Won Woo, Hye-Ji Kim, Eun Hee Kim, Hyung Sun Suh, Han Na Kim, Soo-Hyun Song, Jae-Jin Wulansari, Noviana Kang, Minji Choi, Se-Young Choi, Su Jeong Jang, Won Hyuk Lee, Jungbin Kim, Ki Hean Lee, Wongyoung Kim, Sung Hyun Yang, Jinhee Kyung, Jangbeen Lee, Hyun-Seob Park, Sang Myun Chang, Mi-Yoon Lee, Sang-Hun Journal Article Research Support, Non-U.S. Gov't England 2021/05/31 Prog Neurobiol. 2021 Sep;204:102086. doi: 10.1016/j.pneurobio.2021.102086. Epub 2021 May 28. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-9
+DO  - doi:10.1016/j.pneurobio.2021.102086
+KW  - Animals
+Cell Differentiation
+Dopaminergic Neurons
+Humans
+Mesencephalon
+*Neural Stem Cells
+Organoids
+*Parkinson Disease/therapy
+Astrocyte
+Cell therapy
+Dopaminergic neuron
+Midbrain organoid
+Neural stem cell
+Parkinson's disease
+LA  - eng
+PY  - 2021
+SN  - 0301-0082
+SP  - 102086
+ST  - Neural stem cells derived from human midbrain organoids as a stable source for treating Parkinson's disease: Midbrain organoid-NSCs (Og-NSC) as a stable source for PD treatment
+T2  - Prog Neurobiol
+TI  - Neural stem cells derived from human midbrain organoids as a stable source for treating Parkinson's disease: Midbrain organoid-NSCs (Og-NSC) as a stable source for PD treatment
+VL  - 204
+ID  - 40717
+ER  - 
+
+TY  - JOUR
+AB  - UBE3A is an E3 ubiquitin ligase encoded by the neurally imprinted UBE3A gene. The abundance and subcellular distribution of UBE3A has been the topic of many previous studies as its dosage and localization has been linked to neurodevelopmental disorders including Autism, Dup15q syndrome, and Angelman syndrome. While commercially available antibodies have been widely employed to determine UBE3A localization, an extensive analysis and comparison of the performance of different UBE3A antibodies has not been conducted. Here we evaluated the specificities of seven commercial UBE3A antibodies in two of the major experimental models used in UBE3A research, mouse and human pluripotent stem cell-derived neural cells and tissues. We tested these antibodies in their two most common assays, immunofluorescence and western blot. In addition, we also assessed the ability of these antibodies to capture dynamic spatiotemporal changes of UBE3A by utilizing human cerebral organoid models. Our results reveal that among the seven antibodies tested, three antibodies demonstrated substantial nonspecific immunoreactivity. While four antibodies show specific localization patterns in both mouse brain sections and human cerebral organoids, these antibodies varied significantly in background signals and staining patterns in undifferentiated human pluripotent stem cells.
+AN  - rayyan-1270417496
+AU  - Sen, D.
+AU  - Drobna, Z.
+AU  - Keung, A. J.
+C1  - 2045-2322 Sen, Dilara Drobna, Zuzana Keung, Albert J DP1 DA044359/DA/NIDA NIH HHS/United States Journal Article Research Support, N.I.H., Extramural Research Support, Non-U.S. Gov't Research Support, U.S. Gov't, Non-P.H.S. England 2021/03/20 Sci Rep. 2021 Mar 18;11(1):6323. doi: 10.1038/s41598-021-85923-x. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2021-3-18
+DO  - doi:10.1038/s41598-021-85923-x
+IS  - 1
+KW  - Angelman Syndrome/genetics/pathology
+Animals
+Antibodies/*genetics/immunology
+Autistic Disorder/genetics/pathology
+Cerebellum/cytology
+Disease Models, Animal
+Genomic Imprinting
+Humans
+Mice
+Neural Stem Cells/metabolism
+Neurons/*metabolism/pathology
+Organoids/cytology
+Pluripotent Stem Cells
+Ubiquitin-Protein Ligases/*genetics/immunology
+LA  - eng
+PY  - 2021
+SN  - 2045-2322
+SP  - 6323
+ST  - Evaluation of UBE3A antibodies in mice and human cerebral organoids
+T2  - Sci Rep
+TI  - Evaluation of UBE3A antibodies in mice and human cerebral organoids
+VL  - 11
+ID  - 40718
+ER  - 
+
+TY  - JOUR
+AB  - Studies of underlying neurodegenerative processes in Parkinson's Disease (PD) have traditionally utilized cell cultures grown on two-dimensional (2D) surfaces. Biomimetic three-dimensional (3D) cell culture platforms have been developed to better emulate features of the brain's natural microenvironment. We here use our bioengineered brain-like tissue model, composed of a silk-hydrogel composite, to study the 3D microenvironment's contributions on the development and performance of dopaminergic-like neurons (DLNs). Compared with 2D culture, SH-SY5Y cells differentiated in 3D microenvironments were enriched for DLNs concomitant with a reduction in proliferative capacity during the neurodevelopmental process. Additionally, the 3D DLN cultures were more sensitive to oxidative stresses elicited by the PD-related neurotoxin 1-methyl-4-phenylpyridinium (MPP). MPP induced transcriptomic profile changes specific to 3D-differentiated DLN cultures, replicating the dysfunction of neuronal signaling pathways and mitochondrial dynamics implicated in PD. Overall, this physiologically-relevant 3D platform resembles a useful tool for studying dopamine neuron biology and interrogating molecular mechanisms underlying neurodegeneration in PD.
+AN  - rayyan-1270417766
+AU  - Fiore, N. J.
+AU  - Tamer-Mahoney, J. D.
+AU  - Beheshti, A.
+AU  - Nieland, T. J. F.
+AU  - Kaplan, D. L.
+C1  - 1878-5905 Fiore, Nicholas J Tamer-Mahoney, Jackson D Beheshti, Afshin Nieland, Thomas J F Kaplan, David L S10 OD021624/OD/NIH HHS/United States R01 AG061838/AG/NIA NIH HHS/United States P41 EB027062/EB/NIBIB NIH HHS/United States Journal Article Research Support, N.I.H., Extramural Netherlands 2022/10/23 Biomaterials. 2022 Nov;290:121858. doi: 10.1016/j.biomaterials.2022.121858. Epub 2022 Oct 12. | RAYYAN-INCLUSION: {"Benjamin"=>"Included"}
+DA  - 2022-11
+DO  - doi:10.1016/j.biomaterials.2022.121858
+KW  - Humans
+Dopamine
+*Parkinson Disease/metabolism
+Cell Line, Tumor
+*Neuroblastoma
+Dopaminergic Neurons
+Phenotype
+Apoptosis
+Tumor Microenvironment
+Bioengineered 3D cell culture
+Dopaminergic neuron differentiation
+Mitochondrial stress
+Network biology
+Parkinson's disease model
+Sh-sy5y
+Transcriptomics
+LA  - eng
+PY  - 2022
+SN  - 0142-9612
+SP  - 121858
+ST  - 3D biocomposite culture enhances differentiation of dopamine-like neurons from SH-SY5Y cells: A model for studying Parkinson's disease phenotypes
+T2  - Biomaterials
+TI  - 3D biocomposite culture enhances differentiation of dopamine-like neurons from SH-SY5Y cells: A model for studying Parkinson's disease phenotypes
+VL  - 290
+ID  - 40719
+ER  - 
+
+TY  - JOUR
+AB  - Alzheimer's disease (AD) is the primary cause of dementia, to date. The urgent need to understand the biological and biochemical processes related to this condition, as well as the demand for reliable in vitro models for drug screening, has led to the development of novel techniques, among which stem cell methods are of utmost relevance for AD research, particularly the development of human brain organoids. Brain organoids are three-dimensional cellular aggregates derived from induced pluripotent stem cells (iPSCs) that recreate different neural cell interactions and tissue characteristics in culture. Here, we describe the protocol for the generation of brain organoids derived from AD patients and for the analysis of AD-derived pathology. AD organoids can recapitulate beta-amyloid and tau pathological features, making them a promising model for studying the molecular mechanisms underlying disease and for in vitro drug testing.
+AD  - D'Or Institute for Research and Education (IDOR), Rio de Janeiro, Brazil.
+Institute of Biomedical Sciences, Rio de Janeiro, Brazil.
+Instituto de Biología Celular y Neurociencia IBCN (UBA-CONICET), Facultad de Medicina, Universidad de Buenos Aires, Buenos Aires, Argentina.
+Instituto de Investigación en Biomedicina de Buenos Aires IBioBA (CONICET), Partner Institute of the Max Planck Society, Buenos Aires, Argentina.
+D'Or Institute for Research and Education (IDOR), Rio de Janeiro, Brazil. stevens.rehen@idor.org.
+Department of Genetics, Institute of Biology, Federal University of Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil. stevens.rehen@idor.org.
+AN  - 36399268
+AU  - Karmirian, K.
+AU  - Holubiec, M.
+AU  - Goto-Silva, L.
+AU  - Fernandez Bessone, I.
+AU  - Vitória, G.
+AU  - Mello, B.
+AU  - Alloatti, M.
+AU  - Vanderborght, B.
+AU  - Falzone, T. L.
+AU  - Rehen, S.
+DO  - 10.1007/978-1-0716-2655-9_7
+DP  - NLM
+KW  - Humans
+Organoids
+*Alzheimer Disease/pathology
+Brain/pathology
+Amyloid beta-Peptides/metabolism
+*Induced Pluripotent Stem Cells
+Alzheimer’s disease
+Amyloidosis
+Brain organoids
+Induced pluripotent stem cells
+Tauopathies
+neurodegenerative diseases
+LA  - eng
+N1  - 1940-6029
+Karmirian, Karina
+Holubiec, Mariana
+Goto-Silva, Livia
+Fernandez Bessone, Ivan
+Vitória, Gabriela
+Mello, Beatriz
+Alloatti, Matias
+Vanderborght, Bart
+Falzone, Tomás L
+Rehen, Stevens
+Journal Article
+United States
+2022/11/19
+Methods Mol Biol. 2023;2561:135-158. doi: 10.1007/978-1-0716-2655-9_7.
+PY  - 2023
+SN  - 1064-3745
+SP  - 135-158
+ST  - Modeling Alzheimer's Disease Using Human Brain Organoids
+T2  - Methods Mol Biol
+TI  - Modeling Alzheimer's Disease Using Human Brain Organoids
+VL  - 2561
+ID  - 50898
+ER  - 
+
