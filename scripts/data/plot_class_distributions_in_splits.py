@@ -41,6 +41,12 @@ def plot_class_distribution(train_data, val_data, test_data, label_column, save_
 
     plt.show()
 
+def compute_abstract_statistics(train_data, val_data, test_data):
+    """
+    function to compute the following:
+    - 
+    """
+
 
 def main():
     # Path to train, val, and test data files

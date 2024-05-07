@@ -55,10 +55,6 @@ def load_data_splits(data_dir, col_name, tokenizer_name, batch_size):
 
     train_df['text'] = train_df.apply(concatenate_text, axis=1)
     val_df['text'] = val_df.apply(concatenate_text, axis=1)
-
-    # # Concatenate 'journal_name', 'title', 'keywords' and 'abstract' columns to create 'text' column
-    # train_df['text'] = train_df['journal_name'] + ' ' + train_df['title'] + ' ' + train_df['keywords'] + ' ' + train_df['abstract']
-    # val_df['text'] = val_df['journal_name'] + ' ' + val_df['title'] + ' ' + val_df['keywords'] + ' ' + val_df['abstract']
     print(train_df.text.head())
     print(val_df.text.head())
  
@@ -152,16 +148,6 @@ def train_model(model_name, tokenizer_name, col_name, num_labels, epochs, patien
             'val_loss': val_loss,
         }, checkpoint_path)
 
-        # # Save the model if it has the best validation loss
-        # if val_loss < best_val_loss:
-        #     best_val_loss = val_loss
-        #     if best_model_path:
-        #         os.remove(best_model_path)  # Remove the previously saved best model
-        #         os.remove(best_model_path.replace('.pt', '_FULL.pt'))  # Remove the previously saved best full model
-        #     best_model_path = os.path.join(save_dir, f"{model_name.replace('/', '_')}_{classification_type}_epoch_{epoch+1}_val_loss_{val_loss:.4f}.pt")
-        #     torch.save(model.state_dict(), best_model_path)  # Save state dict
-        #     torch.save(model, best_model_path.replace('.pt', '_FULL.pt'))  # Save entire model
-        #     no_improvement_count = 0  # Reset the counter since there's improvement
 
         if val_loss < best_val_loss:
             best_val_loss = val_loss
@@ -189,33 +175,8 @@ def train_model(model_name, tokenizer_name, col_name, num_labels, epochs, patien
             print((f"Early stopping as validation loss didn't improve for {patience} consecutive epochs."))
             break
 
-        # # Increment the counter if there's no improvement
-        # no_improvement_count += 1
     
     ################# Plot train and val losses #################
-    # create dir for plots
-    # short_model_name = get_short_model_name(model_name) # get short name as predefined
-    # plot_dir = os.path.join(save_dir, 'plots')
-    # os.makedirs(plot_dir, exist_ok=True)
-    # # Plot and save the training loss
-    # plt.plot(range(1, len(train_losses) + 1), train_losses, label='Train Loss')
-    # plt.xlabel('Epoch')
-    # plt.ylabel('Loss')
-    # plt.title(f'Training Loss: {short_model_name}')
-    # plt.legend()
-    # plt.savefig(os.path.join(plot_dir, f'{short_model_name}_train_loss.png'))
-    # plt.show()
-    # plt.close()
-    # # Plot and save the validation loss
-    # plt.plot(range(1, len(val_losses)+1), val_losses, label='Validation Loss')
-    # plt.xlabel('Epoch')
-    # plt.ylabel('Loss')
-    # plt.title(f'Validation Loss: {short_model_name}')
-    # plt.legend()
-    # plt.savefig(os.path.join(plot_dir, f'{short_model_name}_val_loss.png'))
-    # plt.show()
-    # plt.close()
-    # Plot and save the training loss
     plt.plot(range(1, len(train_losses) + 1), train_losses, label='Train Loss')
     plt.xlabel('Epoch')
     plt.ylabel('Loss')
@@ -225,7 +186,6 @@ def train_model(model_name, tokenizer_name, col_name, num_labels, epochs, patien
     plt.show()
     plt.close()
 
-    # Plot and save the validation loss
     plt.plot(range(1, len(val_losses)+1), val_losses, label='Validation Loss')
     plt.xlabel('Epoch')
     plt.ylabel('Loss')
