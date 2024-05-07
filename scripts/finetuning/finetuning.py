@@ -28,9 +28,12 @@ def load_data_splits(data_dir, col_name, tokenizer_name, batch_size):
     train_df = pd.read_csv(train_file)
     val_df = pd.read_csv(val_file)
 
-    # Concatenate 'journal_name', 'title', and 'abstract' columns to create 'text' column
-    train_df['text'] = train_df['journal_name'] + ' ' + train_df['title'] + ' ' + train_df['abstract']
-    val_df['text'] = val_df['journal_name'] + ' ' + val_df['title'] + ' ' + val_df['abstract']
+    # TODO add keywords to concatenation
+    # Concatenate 'journal_name', 'title', 'keywords' and 'abstract' columns to create 'text' column
+    train_df['text'] = train_df['journal_name'] + ' ' + train_df['title'] + ' ' + train_df['keywords'] + ' ' + train_df['abstract']
+    val_df['text'] = val_df['journal_name'] + ' ' + val_df['title'] + ' ' + val_df['keywords'] + ' ' + val_df['abstract']
+    print(train_df.text.head())
+    print(val_df.text.head())
  
     # tokenize and encode textual data
     tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
@@ -48,17 +51,7 @@ def load_data_splits(data_dir, col_name, tokenizer_name, batch_size):
     return DataLoader(train_dataset, sampler=RandomSampler(train_dataset), batch_size=batch_size), DataLoader(val_dataset, sampler=SequentialSampler(val_dataset), batch_size=batch_size)
 
 
-def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_size, learning_rate, weight_decay, data_dir, save_dir, log_dir, classification_type, logger):
-    log_dir = os.path.join(save_dir, 'logs')  # logs are saved here
-    os.makedirs(log_dir, exist_ok=True) # create if does not exist yet
-
-    if classification_type == 'binary':
-        num_labels = 2
-    elif classification_type == 'multi':
-        # TODO double-check the classes in new data split
-        num_labels = 14 
-    else:
-        raise ValueError("Invalid classification_type. Must be either 'binary' or 'multi'.")
+def train_model(model_name, tokenizer_name, col_name, num_labels, epochs, patience, batch_size, learning_rate, weight_decay, data_dir, save_dir, log_dir, classification_type, logger):
 
     train_dataloader, val_dataloader = load_data_splits(data_dir, col_name, tokenizer_name, batch_size)
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -68,7 +61,6 @@ def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_si
     criterion = nn.CrossEntropyLoss()
 
     total_steps = len(train_dataloader) * epochs
-    # TODO modify to adapt warmup dynamically
     num_warmup_steps = int(total_steps * 0.1) 
     scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=num_warmup_steps, num_training_steps=total_steps)
 
@@ -177,9 +169,9 @@ def train_model(model_name, tokenizer_name, col_name, epochs, patience, batch_si
 
 def main(classification_type):
     # define input and output dirs
-    data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes"
+    data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes_enriched_with_kw"
     save_dir = f"./../../models/transformers/checkpoints/{classification_type}/models"
-    log_dir = f"./../../models/transformers/checkpoints/{classification_type}"
+    log_dir = f"./../../models/transformers/checkpoints/{classification_type}/logs"
  
     # define models and map autotokenizers
     # TODO more elegant way to do this?
@@ -195,8 +187,12 @@ def main(classification_type):
     # select logger output dir based on classification type
     if classification_type == 'binary':
         col_name = 'binary_label'
-    else:
+        num_labels = 2
+    elif classification_type == 'multi':
         col_name = 'multi_label'
+        num_labels = 14
+    else:
+        raise ValueError("Invalid classification_type. Must be either 'binary' or 'multi'.")
     
     # set up logger
     os.makedirs(log_dir, exist_ok=True)
@@ -210,6 +206,7 @@ def main(classification_type):
             model_name=model_name,
             tokenizer_name=tokenizer_name,
             col_name=col_name,
+            num_labels = num_labels
             epochs=10,
             patience=4,
             batch_size=8,
