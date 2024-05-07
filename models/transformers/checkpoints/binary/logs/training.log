@@ -300,3 +300,28 @@
 2024-04-23 20:21:48,408 - INFO - Validation Loss: 0.12325893771587289
 2024-04-23 20:21:48,408 - INFO - Validation F1-score: 0.9781998357554517
 2024-04-23 20:21:48,409 - INFO - Early stopping as validation loss didn't improve for 4 consecutive epochs.
+2024-05-07 16:16:00,704 - INFO - 
+
+************** Fine-tuning bert-base-uncased: binary **************
+2024-05-07 16:24:38,241 - INFO - 
+
+************** Fine-tuning bert-base-uncased: binary **************
+2024-05-07 16:25:59,084 - INFO - 
+
+************** Fine-tuning bert-base-uncased: binary **************
+2024-05-07 16:27:19,943 - INFO - Epoch 1/10
+2024-05-07 16:27:19,948 - INFO - Train Loss: 0.3227949905482055
+2024-05-07 16:27:19,948 - INFO - Validation Loss: 0.10096900213037187
+2024-05-07 16:27:19,948 - INFO - Validation F1-score: 0.9616702818864904
+2024-05-07 16:28:34,545 - INFO - Epoch 2/10
+2024-05-07 16:28:34,550 - INFO - Train Loss: 0.09233669453768549
+2024-05-07 16:28:34,550 - INFO - Validation Loss: 0.09860325869304865
+2024-05-07 16:28:34,550 - INFO - Validation F1-score: 0.9740052275325276
+2024-05-07 16:29:49,939 - INFO - Epoch 3/10
+2024-05-07 16:29:49,944 - INFO - Train Loss: 0.07010742151025551
+2024-05-07 16:29:49,944 - INFO - Validation Loss: 0.10300224258150878
+2024-05-07 16:29:49,945 - INFO - Validation F1-score: 0.9720764132448728
+2024-05-07 16:31:06,226 - INFO - Epoch 4/10
+2024-05-07 16:31:06,232 - INFO - Train Loss: 0.05028989887046698
+2024-05-07 16:31:06,232 - INFO - Validation Loss: 0.11787341410596508
+2024-05-07 16:31:06,232 - INFO - Validation F1-score: 0.9722193497539149
