@@ -99,8 +99,8 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger, class
     # confusion matrix
     conf_matrix = confusion_matrix(true_labels, predictions)
     conf_matrix_norm = conf_matrix.astype('float') / conf_matrix.sum(axis=1)[:, np.newaxis]    
-    plt.figure(figsize=(8, 6))
-    sns.heatmap(conf_matrix_norm, annot=True, fmt=".2f", cmap="Blues")
+    plt.figure(figsize=(10, 10))
+    sns.heatmap(conf_matrix_norm, annot=True, fmt=".2f", cmap="Greens")
 
     class_labels = list(label_mapping.keys()) # add textual labels to classes in the matrix
     plt.xticks(np.arange(len(class_labels)) + 0.5, class_labels, rotation=90)
@@ -111,7 +111,7 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger, class
     plt.title(f'Confusion Matrix: {short_model_name}')
     confusion_matrices_dir = os.path.join(output_dir, 'confusion_matrices')
     os.makedirs(confusion_matrices_dir, exist_ok=True)
-    plt.savefig(os.path.join(confusion_matrices_dir, f'{short_model_name}.png'))
+    plt.savefig(os.path.join(confusion_matrices_dir, f'{short_model_name}.png'), bbox_inches='tight')
     plt.close()
 
 
@@ -196,4 +196,5 @@ def main(classification_type):
 
 
 if __name__ == "__main__":
-    main(classification_type='multi')
+    # TODO select 'binary' or 'multi'
+    main(classification_type='binary')

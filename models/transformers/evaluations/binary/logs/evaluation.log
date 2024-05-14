@@ -1,5 +1,5 @@
-2024-05-14 14:58:40,811 - INFO - Evaluating bert-base
-2024-05-14 14:58:54,606 - INFO - Model: bert-base-uncased
+2024-05-14 16:42:32,728 - INFO - Evaluating bert-base
+2024-05-14 16:42:45,515 - INFO - Model: bert-base-uncased
               precision    recall  f1-score   support
 
            0       0.97      0.99      0.98       457
@@ -9,8 +9,8 @@
    macro avg       0.95      0.91      0.93       534
 weighted avg       0.97      0.97      0.97       534
 
-2024-05-14 14:58:54,768 - INFO - Evaluating PubMedBERT
-2024-05-14 14:59:04,071 - INFO - Model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+2024-05-14 16:42:45,752 - INFO - Evaluating PubMedBERT
+2024-05-14 16:42:54,941 - INFO - Model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
               precision    recall  f1-score   support
 
            0       1.00      0.98      0.99       457
@@ -20,8 +20,8 @@ weighted avg       0.97      0.97      0.97       534
    macro avg       0.95      0.99      0.97       534
 weighted avg       0.99      0.99      0.99       534
 
-2024-05-14 14:59:04,179 - INFO - Evaluating BiomedBERT
-2024-05-14 14:59:13,566 - INFO - Model: microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract
+2024-05-14 16:42:55,134 - INFO - Evaluating BiomedBERT
+2024-05-14 16:43:04,495 - INFO - Model: microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract
               precision    recall  f1-score   support
 
            0       1.00      0.98      0.99       457
@@ -31,8 +31,8 @@ weighted avg       0.99      0.99      0.99       534
    macro avg       0.94      0.98      0.96       534
 weighted avg       0.98      0.98      0.98       534
 
-2024-05-14 14:59:13,670 - INFO - Evaluating Scibert
-2024-05-14 14:59:23,181 - INFO - Model: allenai/scibert_scivocab_uncased
+2024-05-14 16:43:04,676 - INFO - Evaluating Scibert
+2024-05-14 16:43:13,919 - INFO - Model: allenai/scibert_scivocab_uncased
               precision    recall  f1-score   support
 
            0       0.99      1.00      0.99       457
@@ -42,8 +42,8 @@ weighted avg       0.98      0.98      0.98       534
    macro avg       0.98      0.97      0.97       534
 weighted avg       0.99      0.99      0.99       534
 
-2024-05-14 14:59:23,285 - INFO - Evaluating biobert
-2024-05-14 14:59:32,290 - INFO - Model: dmis-lab/biobert-v1.1
+2024-05-14 16:43:14,100 - INFO - Evaluating biobert
+2024-05-14 16:43:22,971 - INFO - Model: dmis-lab/biobert-v1.1
               precision    recall  f1-score   support
 
            0       0.98      0.99      0.99       457
@@ -53,8 +53,8 @@ weighted avg       0.99      0.99      0.99       534
    macro avg       0.97      0.95      0.96       534
 weighted avg       0.98      0.98      0.98       534
 
-2024-05-14 14:59:32,393 - INFO - Evaluating BioLinkBERT
-2024-05-14 14:59:41,466 - INFO - Model: michiyasunaga/BioLinkBERT-base
+2024-05-14 16:43:23,157 - INFO - Evaluating BioLinkBERT
+2024-05-14 16:43:31,995 - INFO - Model: michiyasunaga/BioLinkBERT-base
               precision    recall  f1-score   support
 
            0       0.99      0.99      0.99       457
@@ -64,8 +64,8 @@ weighted avg       0.98      0.98      0.98       534
    macro avg       0.97      0.96      0.97       534
 weighted avg       0.98      0.99      0.98       534
 
-2024-05-14 14:59:41,572 - INFO - Evaluating Bio_ClinicalBERT
-2024-05-14 14:59:51,081 - INFO - Model: emilyalsentzer/Bio_ClinicalBERT
+2024-05-14 16:43:32,183 - INFO - Evaluating Bio_ClinicalBERT
+2024-05-14 16:43:41,445 - INFO - Model: emilyalsentzer/Bio_ClinicalBERT
               precision    recall  f1-score   support
 
            0       0.99      0.99      0.99       457
