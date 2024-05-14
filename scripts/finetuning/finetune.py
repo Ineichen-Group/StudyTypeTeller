@@ -14,7 +14,7 @@ def setup_logger(log_dir):
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.INFO)
     formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-    file_handler = logging.FileHandler(os.path.join(log_dir, 'training.log'), mode='a') # mode='a' is to append logs instead of overwriting
+    file_handler = logging.FileHandler(os.path.join(log_dir, 'training.log'), mode='a') # do not overwrite log
     file_handler.setFormatter(formatter)
     logger.addHandler(file_handler)
 
@@ -29,7 +29,6 @@ def get_short_model_name(model_name):
         'allenai/scibert_scivocab_uncased': 'Scibert',
         'dmis-lab/biobert-v1.1': 'biobert',
         'michiyasunaga/BioLinkBERT-base': 'BioLinkBERT',
-        'sultan/BioM-BERT-PubMed-PMC-Large': 'BioM-BERT-PubMed',
         'emilyalsentzer/Bio_ClinicalBERT': 'Bio_ClinicalBERT'}
     if model_name in model_names.keys():
         return model_names[model_name]
@@ -141,7 +140,7 @@ def train_model(model_name, tokenizer_name, col_name, num_labels, epochs, patien
         checkpoint_path = os.path.join(model_dir, f"checkpoint_epoch_{epoch+1}.pt")
         torch.save({
             'epoch': epoch,
-            'model_state_dict': model.state_dict(),
+            'model': model,
             'optimizer_state_dict': optimizer.state_dict(),
             'scheduler_state_dict': scheduler.state_dict(),
             'train_loss': train_loss,
@@ -152,7 +151,7 @@ def train_model(model_name, tokenizer_name, col_name, num_labels, epochs, patien
         if val_loss < best_val_loss:
             best_val_loss = val_loss
             best_model_path = os.path.join(model_dir, f"best_model_{get_short_model_name(model_name)}_{classification_type}.pt")
-            torch.save(model.state_dict(), best_model_path)
+            torch.save(model, best_model_path)
             no_improvement_count = 0
         else:
             no_improvement_count += 1
@@ -210,7 +209,6 @@ def main(classification_type):
                             'allenai/scibert_scivocab_uncased',
                             'dmis-lab/biobert-v1.1',
                             'michiyasunaga/BioLinkBERT-base',
-                            'sultan/BioM-BERT-PubMed-PMC-Large',
                             'emilyalsentzer/Bio_ClinicalBERT',
                             ]
 
@@ -251,4 +249,4 @@ def main(classification_type):
 
 if __name__ == "__main__":
     # TODO select classification type (multi, binary)
-    main(classification_type='binary')  
+    main(classification_type='multi')  

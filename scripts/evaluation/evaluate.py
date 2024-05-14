@@ -11,6 +11,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
+def load_model(model_path):
+    model = torch.load(model_path)
+    return model
+
+
 def get_short_model_name(model_name): # TODO move function to helpers
     model_names = {
         'bert-base-uncased': 'bert-base',
@@ -19,7 +24,6 @@ def get_short_model_name(model_name): # TODO move function to helpers
         'allenai/scibert_scivocab_uncased': 'Scibert',
         'dmis-lab/biobert-v1.1': 'biobert',
         'michiyasunaga/BioLinkBERT-base': 'BioLinkBERT',
-        'sultan/BioM-BERT-PubMed-PMC-Large': 'BioM-BERT-PubMed',
         'emilyalsentzer/Bio_ClinicalBERT': 'Bio_ClinicalBERT'}
     if model_name in model_names.keys():
         return model_names[model_name]
@@ -118,7 +122,7 @@ def main(classification_type):
     # logging
     logs_dir = os.path.join(output_dir, 'logs')
     os.makedirs(logs_dir, exist_ok=True)
-    logging.basicConfig(filename=os.path.join(logs_dir, f"evaluation.log"), filemode='a', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+    logging.basicConfig(filename=os.path.join(logs_dir, f"evaluation.log"), filemode='w', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
     logger = logging.getLogger(__name__)
     # checkpoints
     checkpoint_dir = f"./../../models/transformers/checkpoints/{classification_type}/models"
@@ -186,4 +190,4 @@ def main(classification_type):
 
 
 if __name__ == "__main__":
-    main(classification_type='binary')
+    main(classification_type='multi')
