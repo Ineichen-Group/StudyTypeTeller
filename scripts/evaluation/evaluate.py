@@ -58,7 +58,7 @@ def load_test_data(data_dir, model_name, classification_type):
     return test_encodings, test_labels
 
 
-def evaluate_model(model, test_dataloader, output_dir, model_name, logger, classification_type):
+def evaluate_model(model, test_dataloader, output_dir, model_name, logger, classification_type, label_mapping):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model.to(device)
     model.eval()
@@ -101,6 +101,11 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger, class
     conf_matrix_norm = conf_matrix.astype('float') / conf_matrix.sum(axis=1)[:, np.newaxis]    
     plt.figure(figsize=(8, 6))
     sns.heatmap(conf_matrix_norm, annot=True, fmt=".2f", cmap="Blues")
+
+    class_labels = list(label_mapping.keys()) # add textual labels to classes in the matrix
+    plt.xticks(np.arange(len(class_labels)) + 0.5, class_labels, rotation=90)
+    plt.yticks(np.arange(len(class_labels)) + 0.5, class_labels, rotation=0)
+
     plt.xlabel('Predicted')
     plt.ylabel('True')
     plt.title(f'Confusion Matrix: {short_model_name}')
@@ -185,7 +190,8 @@ def main(classification_type):
                         output_dir, 
                         model_name, 
                         logger,
-                        classification_type
+                        classification_type,
+                        label_mapping
                         )
 
 
