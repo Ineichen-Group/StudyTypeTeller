@@ -8,6 +8,7 @@ packages = [{include = "pubmed_abstract_classifier"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+matplotlib = "^3.9.0"
 
 
 [build-system]
