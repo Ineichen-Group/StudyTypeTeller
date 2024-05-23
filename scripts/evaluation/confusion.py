@@ -52,19 +52,6 @@ def generate_confusion_matrix_from_log(file_path, label_mapping, model_name, out
 
 def main():
 
-    model_name = 'GPT' #TODO modify
-
-    output_dir = './'
-    if model_name == 'SciBERT':
-        file_path = './../../models/transformers/evaluations/multi/predictions/Scibert.csv'
-        col_prediction = 'true_label'
-        col_true = 'prediction'
-    elif model_name == 'GPT':
-        file_path = './gpt-4-turbo-preview_enriched_kw_test_outputs_P6_P7_P11_3_P11_4_structured.csv'
-        col_prediction = 'accepted_label_numerical'
-        col_true = 'gpt_predictions_P11_4_numerical'
-
-
     label_mapping = {
         'Remaining': 0,
         'Non-systematic-review': 1,
@@ -82,14 +69,32 @@ def main():
         'Human-RCT-non-intervention': 13
     }
 
-    generate_confusion_matrix_from_log(
-                                        file_path, 
-                                        label_mapping, 
-                                        model_name, 
-                                        output_dir, 
-                                        col_true, 
-                                        col_prediction
-                                        )
+    models = ['GPT', 'BERT']
+    for model in models:
+
+        output_dir = './'
+        if model == 'BERT':
+            model_name = 'SciBERT'
+            file_path = './../../models/transformers/evaluations/multi/predictions/Scibert.csv'
+            col_prediction = 'true_label'
+            col_true = 'prediction'
+        elif model == 'GPT':
+            model_name = 'GPT-4' # TODO modify name
+            file_path = './gpt-4-turbo-preview_enriched_kw_test_outputs_P6_P7_P11_3_P11_4_structured.csv' # TODO modify name
+            col_prediction = 'accepted_label_numerical'
+            col_true = 'gpt_predictions_P6_numerical'
+
+
+
+
+            generate_confusion_matrix_from_log(
+                                                file_path, 
+                                                label_mapping, 
+                                                model_name, 
+                                                output_dir, 
+                                                col_true, 
+                                                col_prediction
+                                                )
 
 
 if __name__ == "__main__":
