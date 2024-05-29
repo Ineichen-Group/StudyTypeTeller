@@ -1,4 +1,4 @@
-,Unnamed: 0,pmid,accepted_label,multi_label,gpt_3_predictions_P2_HIERARCHY,gpt_3_predictions_P2_HIERARCHY_numerical,gpt_4_predictions_P2_HIERARCHY,gpt_4_predictions_P2_HIERARCHY_numerical
+,Unnamed: 0,pmid,accepted_label,multi_label,gpt_4_predictions_P2_HIERARCHY,gpt_4_predictions_P2_HIERARCHY_numerical,gpt_3_predictions_P2_HIERARCHY,gpt_3_predictions_P2_HIERARCHY_numerical
 0,0,32147509,Non-systematic-review,1,Animal-other,5,Animal-systematic-review,7
 1,1,16312938,Non-systematic-review,1,Animal-non-drug-intervention,10,Animal-other,5
 2,2,23811310,Non-systematic-review,1,Animal-other,5,Animal-other,5
