@@ -1,0 +1,2 @@
+,precision,precision CI,recall,recall CI,f1-score,f1-score CI,accuracy,accuracy CI,Prompt ID
+0,0.471,"(0.368, 0.562)",0.341,"(0.301, 0.382)",0.271,"(0.23, 0.314)",0.341,"(0.301, 0.382)",P1
