@@ -1,0 +1,73 @@
+,precision,recall,f1-score,support,Prompt ID
+Human-systematic-review,0.0,0.0,0.0,0.0,P10
+Human-RCT-drug-intervention,0.6666666666666666,1.0,0.8,4.0,P10
+Human-RCT-non-drug-intervention,0.0,0.0,0.0,1.0,P10
+Human-RCT-non-intervention,0.0,0.0,0.0,0.0,P10
+Human-case-report,0.2222222222222222,1.0,0.3636363636363636,2.0,P10
+Human-non-RCT-drug-intervention,1.0,0.3333333333333333,0.5,3.0,P10
+Human-non-RCT-non-drug-intervention,0.0,0.0,0.0,4.0,P10
+Animal-systematic-review,0.0,0.0,0.0,0.0,P10
+Animal-drug-intervention,0.8,0.8,0.8000000000000002,5.0,P10
+Animal-non-drug-intervention,0.0,0.0,0.0,0.0,P10
+Animal-other,0.6666666666666666,0.6666666666666666,0.6666666666666666,3.0,P10
+Non-systematic-review,0.6666666666666666,0.2857142857142857,0.4,7.0,P10
+In-vitro-study,1.0,1.0,1.0,1.0,P10
+Clinical-study-protocol,0.0,0.0,0.0,0.0,P10
+Remaining,0.75,0.15,0.24999999999999997,20.0,P10
+micro avg,0.38,0.38,0.38,50.0,P10
+macro avg,0.38481481481481483,0.34904761904761905,0.3186868686868687,50.0,P10
+weighted avg,0.6555555555555556,0.38,0.4045454545454546,50.0,P10
+Human-systematic-review,0.0,0.0,0.0,0.0,P11
+Human-RCT-drug-intervention,0.6666666666666666,1.0,0.8,4.0,P11
+Human-RCT-non-drug-intervention,0.0,0.0,0.0,1.0,P11
+Human-RCT-non-intervention,0.0,0.0,0.0,0.0,P11
+Human-case-report,0.2,1.0,0.33333333333333337,2.0,P11
+Human-non-RCT-drug-intervention,1.0,1.0,1.0,3.0,P11
+Human-non-RCT-non-drug-intervention,0.3333333333333333,0.75,0.46153846153846156,4.0,P11
+Animal-systematic-review,0.0,0.0,0.0,0.0,P11
+Animal-drug-intervention,0.8,0.8,0.8000000000000002,5.0,P11
+Animal-non-drug-intervention,0.0,0.0,0.0,0.0,P11
+Animal-other,0.5,0.3333333333333333,0.4,3.0,P11
+Non-systematic-review,0.0,0.0,0.0,7.0,P11
+In-vitro-study,0.5,1.0,0.6666666666666666,1.0,P11
+Clinical-study-protocol,0.0,0.0,0.0,0.0,P11
+Remaining,0.8333333333333334,0.25,0.3846153846153846,20.0,P11
+micro avg,0.5,0.46,0.4791666666666667,50.0,P11
+macro avg,0.3222222222222222,0.40888888888888886,0.3230769230769231,50.0,P11
+weighted avg,0.6013333333333334,0.46,0.4454358974358974,50.0,P11
+Human-systematic-review,0.0,0.0,0.0,0.0,P11_1
+Human-RCT-drug-intervention,0.5714285714285714,1.0,0.7272727272727273,4.0,P11_1
+Human-RCT-non-drug-intervention,0.0,0.0,0.0,1.0,P11_1
+Human-RCT-non-intervention,0.0,0.0,0.0,0.0,P11_1
+Human-case-report,0.25,1.0,0.4,2.0,P11_1
+Human-non-RCT-drug-intervention,1.0,0.3333333333333333,0.5,3.0,P11_1
+Human-non-RCT-non-drug-intervention,0.21428571428571427,0.75,0.3333333333333333,4.0,P11_1
+Animal-systematic-review,0.0,0.0,0.0,0.0,P11_1
+Animal-drug-intervention,0.8,0.8,0.8000000000000002,5.0,P11_1
+Animal-non-drug-intervention,0.0,0.0,0.0,0.0,P11_1
+Animal-other,1.0,0.3333333333333333,0.5,3.0,P11_1
+Non-systematic-review,0.0,0.0,0.0,7.0,P11_1
+In-vitro-study,0.5,1.0,0.6666666666666666,1.0,P11_1
+Clinical-study-protocol,0.0,0.0,0.0,0.0,P11_1
+Remaining,0.6666666666666666,0.1,0.1739130434782609,20.0,P11_1
+micro avg,0.4186046511627907,0.36,0.38709677419354843,50.0,P11_1
+macro avg,0.3334920634920635,0.3544444444444444,0.27341238471673257,50.0,P11_1
+weighted avg,0.5495238095238095,0.36,0.3237470355731225,50.0,P11_1
+Human-systematic-review,0.0,0.0,0.0,0.0,P11_2
+Human-RCT-drug-intervention,0.6666666666666666,1.0,0.8,4.0,P11_2
+Human-RCT-non-drug-intervention,0.0,0.0,0.0,1.0,P11_2
+Human-RCT-non-intervention,0.0,0.0,0.0,0.0,P11_2
+Human-case-report,0.18181818181818182,1.0,0.3076923076923077,2.0,P11_2
+Human-non-RCT-drug-intervention,1.0,1.0,1.0,3.0,P11_2
+Human-non-RCT-non-drug-intervention,0.375,0.75,0.5,4.0,P11_2
+Animal-systematic-review,0.0,0.0,0.0,0.0,P11_2
+Animal-drug-intervention,0.8,0.8,0.8000000000000002,5.0,P11_2
+Animal-non-drug-intervention,0.0,0.0,0.0,0.0,P11_2
+Animal-other,0.6666666666666666,0.6666666666666666,0.6666666666666666,3.0,P11_2
+Non-systematic-review,0.0,0.0,0.0,7.0,P11_2
+In-vitro-study,0.0,0.0,0.0,1.0,P11_2
+Clinical-study-protocol,0.0,0.0,0.0,0.0,P11_2
+Remaining,0.5,0.15,0.23076923076923075,20.0,P11_2
+micro avg,0.4666666666666667,0.42,0.4421052631578947,50.0,P11_2
+macro avg,0.2793434343434343,0.3577777777777778,0.28700854700854705,50.0,P11_2
+weighted avg,0.47060606060606064,0.42,0.3886153846153846,50.0,P11_2
