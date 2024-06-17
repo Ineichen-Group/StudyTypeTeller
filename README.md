@@ -119,3 +119,27 @@ in [scripts/confidenceinterval](scripts%2Fconfidenceinterval).
 3. Hierarchical: [Evaluation_GPT_hierarchical_with_CI.ipynb](models%2Fgpt%2FEvaluation_GPT_hierarchical_with_CI.ipynb)
 
 # 4. Annotation with BERT
+
+We experimented with the following models from the HuggingFace library:
+```bib
+    models_to_fine_tune = [
+                            'bert-base-uncased',
+                            'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext',
+                            'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract',
+                            'allenai/scibert_scivocab_uncased',
+                            'dmis-lab/biobert-v1.1',
+                            'michiyasunaga/BioLinkBERT-base',
+                            'emilyalsentzer/Bio_ClinicalBERT',
+                            ]
+```
+
+## Hyperparameter optimization
+We used the library Weights&Biases and its [Sweeps functionality](https://docs.wandb.ai/guides/sweeps) to automate and
+visualize hyperparameter search. 
+
+The code for that is in [hyperparam_optimization_binary.py](scripts%2Fhyperparam_optimization%2Fhyperparam_optimization_binary.py)
+and [hyperparam_optimization_milti.py](scripts%2Fhyperparam_optimization%2Fhyperparam_optimization_milti.py).
+
+## Models fine-tuning
+
+The models fine-tuning code is in [finetune.py](scripts%2Ffinetuning%2Ffinetune.py).
