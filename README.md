@@ -57,11 +57,11 @@ The annotation with GPT using different prompting strategies follows the steps:
 2. We read the test set ([6-2-2_all_classes_enriched_with_kw/test.csv](data%2Fdata_splits_stratified%2F6-2-2_all_classes_enriched_with_kw%2Ftest.csv)).
 3. For each title, abstract, and eventually keywords (kw) in the test set and for each prompting strategy, we send an
 individual GTP query and retrieve the predicted class.
-4. We save the predictions in [predictions](models%2Fpredictions).
+4. We save the predictions in [predictions](models%2Fgpt%2Fpredictions).
 
 ## Multi-label classification
 In this setup we directly want to classify the abstracts into one of the 14 class types.
-1. The relevant prompts are in [prompt_strategies.json](models%2Fprompts%2Fprompt_strategies.json).
+1. The relevant prompts are in [prompt_strategies.json](models%2Fgpt%2Fprompts%2Fprompt_strategies.json).
 An example prompt is given below:
 ```bib
    {
@@ -71,11 +71,11 @@ An example prompt is given below:
     }
 ```
 
-2. The annotation is done in [Annotate_with_GPT_Prompts_multi-label.ipynb](models%2FAnnotate_with_GPT_Prompts_multi-label.ipynb).
+2. The annotation is done in [Annotate_with_GPT_Prompts_multi-label.ipynb](models%2Fgpt%2FAnnotate_with_GPT_Prompts_multi-label.ipynb).
 
 ## Binary classification
 In this setup we want to classify each abstract either as ANIMAL or OTHER.
-1. The relevant prompts are in [prompt_strategies_binary.json](models%2Fprompts%2Fprompt_strategies_binary.json).
+1. The relevant prompts are in [prompt_strategies_binary.json](models%2Fgpt%2Fprompts%2Fprompt_strategies_binary.json).
 An example prompt is given below:
 ```bib
   {
@@ -84,12 +84,12 @@ An example prompt is given below:
       "strategy_type": "zero_shot"
     }
 ```
-2. The annotation is done in [Annotate_with_GPT_Prompts_binary.ipynb](models%2FAnnotate_with_GPT_Prompts_binary.ipynb).
+2. The annotation is done in [Annotate_with_GPT_Prompts_binary.ipynb](models%2Fgpt%2FAnnotate_with_GPT_Prompts_binary.ipynb).
 
 ## Hierarchical classification
 In this setup we want to first classify either as ANIMAL or OTHER. 
 Then classify the abstracts within each of these two classes into one of the fine-grained categories within this class. 
-1. The relevant prompts are in [prompt_strategies_hierarchical.json](models%2Fprompts%2Fprompt_strategies_hierarchical.json).
+1. The relevant prompts are in [prompt_strategies_hierarchical.json](models%2Fgpt%2Fprompts%2Fprompt_strategies_hierarchical.json).
 An example prompt is given below:
 ```bib
     {
@@ -100,7 +100,7 @@ An example prompt is given below:
     },
 ```
 
-2. The annotation is done in [Annotate_with_GPT_Prompts_hierarchical.ipynb](models%2FAnnotate_with_GPT_Prompts_hierarchical.ipynb).
+2. The annotation is done in [Annotate_with_GPT_Prompts_hierarchical.ipynb](models%2Fgpt%2FAnnotate_with_GPT_Prompts_hierarchical.ipynb).
 
 ## GPT Results Evaluation
 The evaluation of GPT predictions follows the steps:
@@ -115,5 +115,7 @@ in [scripts/confidenceinterval](scripts%2Fconfidenceinterval).
 
 ### Evaluation Notebooks
 1. Multi-label: tbd
-2. Binary: [Evaluation_GPT_binary_with_CI.ipynb](models%2FEvaluation_GPT_binary_with_CI.ipynb)
-3. Hierarchical: [Evaluation_GPT_hierarchical_with_CI.ipynb](models%2FEvaluation_GPT_hierarchical_with_CI.ipynb)
+2. Binary: [Evaluation_GPT_binary_with_CI.ipynb](models%2Fgpt%2FEvaluation_GPT_binary_with_CI.ipynb)
+3. Hierarchical: [Evaluation_GPT_hierarchical_with_CI.ipynb](models%2Fgpt%2FEvaluation_GPT_hierarchical_with_CI.ipynb)
+
+# 4. Annotation with BERT
