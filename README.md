@@ -52,10 +52,10 @@ To ensure that all classes are present across all parts of the split, we employe
 
 # 3. Annotation with GPT
 
-The annotation with GPT using different prompting strategies follows a similar structure.
+The annotation with GPT using different prompting strategies follows the steps:
 1. We prepare the prompts in a json file and assign a unique ID to each.
 2. We read the test set ([6-2-2_all_classes_enriched_with_kw/test.csv](data%2Fdata_splits_stratified%2F6-2-2_all_classes_enriched_with_kw%2Ftest.csv)).
-3. For each title and abstract in the test set and for each prompting strategy, we send an
+3. For each title, abstract, and eventually keywords (kw) in the test set and for each prompting strategy, we send an
 individual GTP query and retrieve the predicted class.
 4. We save the predictions in [predictions](models%2Fpredictions).
 
@@ -102,5 +102,18 @@ An example prompt is given below:
 
 2. The annotation is done in [Annotate_with_GPT_Prompts_hierarchical.ipynb](models%2FAnnotate_with_GPT_Prompts_hierarchical.ipynb).
 
-
 ## GPT Results Evaluation
+The evaluation of GPT predictions follows the steps:
+1. We read the predictions obtained from GPT.
+2. We map the predictions to their numerical representation, as well as the target annotated columns.
+The mapping includes a fuzzy matching of the GPT outputs to our target labels to take into account the different
+spelling variations that GPT sometimes produces.
+3. We evaluate the prompts, including obtaining a classification report and a confusion matrix between predicted 
+and target labels for each prompting strategy. The confidence interval calculations are from the local package
+in [scripts/confidenceinterval](scripts%2Fconfidenceinterval).
+4. We map the resulting dataframes to LaTeX tables that we can directly report in our paper.
+
+### Evaluation Notebooks
+1. Multi-label: tbd
+2. Binary: [Evaluation_GPT_binary_with_CI.ipynb](models%2FEvaluation_GPT_binary_with_CI.ipynb)
+3. Hierarchical: [Evaluation_GPT_hierarchical_with_CI.ipynb](models%2FEvaluation_GPT_hierarchical_with_CI.ipynb)
