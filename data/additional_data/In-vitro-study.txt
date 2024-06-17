@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+﻿TY  - JOUR
+=======
 TY  - JOUR
+>>>>>>> main
 AB  - In long term culture of N-ethyl-N-nitrosourea (ENU) exposed fetal BD IX-rat brains, cells proliferate and form aggregates (nodules) in vitro, starting 2-3 months after the transplacental carcinogen injection in vivo. Cell nodules of cultures from 3-6 months after ENU exposure were investigated for the presence of organoid structures, signs of differentiation, and differentiation products. Organoid structures were absent as were signs of differentiation into more mature neuroglial cells since a relatively uniform immature cell population was typical for the nodules studied. Nuclear changes in form of nuclear envelope dilatation, margination and condensation of chromatin were present. The S-100 protein was generally expressed by the neuroglial cells in this premalignant phase; GFA and 14.3.2. protein were expressed to a variable degree. The cells showed enhanced proliferation. In conclusion there was a gradual change of differentiation accompanied by the acquisition of atypical nuclear structure in the premalignant phase studied.
 AN  - rayyan-1270409883
 AU  - Mørk, S. J.
