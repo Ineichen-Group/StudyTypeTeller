@@ -124,7 +124,7 @@ in [scripts/confidenceinterval](scripts%2Fconfidenceinterval).
 4. We map the resulting dataframes to LaTeX tables that we can directly report in our paper.
 
 ### Evaluation Notebooks
-1. Multi-label: tbd
+1. Multi-label: [Evaluation_GPT_multi-label_CI_LaTextables.ipynb](models%2Fgpt%2FEvaluation_GPT_multi-label_CI_LaTextables.ipynb)
 2. Binary: [Evaluation_GPT_binary_with_CI.ipynb](models%2Fgpt%2FEvaluation_GPT_binary_with_CI.ipynb)
 3. Hierarchical: [Evaluation_GPT_hierarchical_with_CI.ipynb](models%2Fgpt%2FEvaluation_GPT_hierarchical_with_CI.ipynb)
 
