@@ -135,11 +135,32 @@ We experimented with the following models from the HuggingFace library:
 
 ## Hyperparameter optimization
 We used the library Weights&Biases and its [Sweeps functionality](https://docs.wandb.ai/guides/sweeps) to automate and
-visualize hyperparameter search. 
+visualize hyperparameter search. The sweep configuration was as follows:
+```bib
+    SWEEP_CONFIG = {
+        'method': 'bayes',
+        'metric': {'name': 'val_loss', 'goal': 'minimize'},
+        'parameters': {
+            'learning_rate': {'min': 1e-5, 'max': 1e-3},
+            'batch_size': {'values': [8, 16, 32]},
+            "weight_decay": {"min": 1e-5, "max": 1e-3}
+    }
+}
+```
 
 The code for that is in [hyperparam_optimization_binary.py](scripts%2Fhyperparam_optimization%2Fhyperparam_optimization_binary.py)
 and [hyperparam_optimization_milti.py](scripts%2Fhyperparam_optimization%2Fhyperparam_optimization_milti.py).
 
 ## Models fine-tuning
+The best hyperparameters were then used to fine-tune the models.
+The fine-tuning code is in [finetune.py](scripts%2Ffinetuning%2Ffinetune.py).
 
-The models fine-tuning code is in [finetune.py](scripts%2Ffinetuning%2Ffinetune.py).
+The log outputs from that process were saved in [models/transformers/checkpoints](models%2Ftransformers%2Fcheckpoints).
+
+## Models Evaluation
+
+The evaluation scripts for BERT can be found in [evaluation](scripts%2Fevaluation).
+
+The notebook [performance_w_CI.ipynb](scripts%2Fevaluation%2Fperformance_w_CI.ipynb)
+contains the code to evaluate all BERT models. It also produces the confusion matrix and comparison plots of 
+the best-performing GPT and BERT model.
