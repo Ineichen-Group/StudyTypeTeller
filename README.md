@@ -67,10 +67,10 @@ The annotation with GPT using different prompting strategies follows the steps:
 2. We read the test set ([6-2-2_all_classes_enriched_with_kw/test.csv](data%2Fdata_splits_stratified%2F6-2-2_all_classes_enriched_with_kw%2Ftest.csv)).
 3. For each title, abstract, and eventually keywords (kw) in the test set and for each prompting strategy, we send an
 individual GTP query and retrieve the predicted class.
-4. We save the predictions in [predictions](models%2Fgpt%2Fpredictions).
+4. We save the predictions from the classifiaction in [predictions](models%2Fgpt%2Fpredictions).
 
 ## Multi-label classification
-In this setup we directly want to classify the abstracts into one of the 14 class types.
+In this setup we directly want to classify the abstracts into one of the 15 class types. Please note however that in the final evaluation we only considered 14 of the classes, excluding Animal-systematic-review. This was due to the very low amount of annotated data.
 1. The relevant prompts are in [prompt_strategies.json](models%2Fgpt%2Fprompts%2Fprompt_strategies.json).
 An example prompt is given below:
 ```bib
