@@ -21,6 +21,10 @@ Please follow [this docu](https://saturncloud.io/blog/how-to-use-conda-environme
 # 2. Data
 ## Querying PubMed
 
+We used the EDirect package, which includes several commands that use the E-utilities API to find and retrieve PubMed data. You can install it via the command:
+```bib
+sh -c "$(curl -fsSL https://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect/install-edirect.sh)"
+```
 To obtain the initial set of relevant PMIDs, the database was queried using a generic search string related to CNS and Psychiatric conditions, as follows:
 y
 `esearch -db pubmed -query 'Central nervous system diseases[MeSH] OR Mental Disorders Psychiatric illness[MeSH]' | efetch -format uid > ./pubmed/cns_psychiatric_diseases_mesh.txt
