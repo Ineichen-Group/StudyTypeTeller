@@ -1,6 +1,6 @@
 import torch
 from torch.utils.data import DataLoader, TensorDataset
-from transformers import AutoTokenizer, BertForSequenceClassification
+from transformers import AutoTokenizer
 from sklearn.metrics import classification_report, confusion_matrix
 import pandas as pd
 import os
@@ -10,25 +10,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Set seeds for reproducibility
-torch.manual_seed(42)
-np.random.seed(42)
 
-
-def load_model(model_path, model_name, num_labels):
-    if torch.cuda.is_available():
-        state_dict = torch.load(model_path)
-    else:
-        state_dict = torch.load(model_path, map_location=torch.device('cpu'))
-
-    # Initialize model based on the model_name and number of labels
-    model = BertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels)
-    model.load_state_dict(state_dict)
-
+def load_model(model_path):
+    model = torch.load(model_path)
     return model
 
 
-def get_short_model_name(model_name):
+def get_short_model_name(model_name): # TODO move function to helpers
     model_names = {
         'bert-base-uncased': 'bert-base',
         'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext': 'PubMedBERT',
@@ -36,9 +24,8 @@ def get_short_model_name(model_name):
         'allenai/scibert_scivocab_uncased': 'Scibert',
         'dmis-lab/biobert-v1.1': 'biobert',
         'michiyasunaga/BioLinkBERT-base': 'BioLinkBERT',
-        'emilyalsentzer/Bio_ClinicalBERT': 'Bio_ClinicalBERT'
-    }
-    if model_name in model_names:
+        'emilyalsentzer/Bio_ClinicalBERT': 'Bio_ClinicalBERT'}
+    if model_name in model_names.keys():
         return model_names[model_name]
     else:
         raise ValueError("Invalid model name. Cannot be mapped to short name.")
@@ -50,7 +37,7 @@ def load_test_data(data_dir, model_name, classification_type):
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-    def concatenate_text(row):
+    def concatenate_text(row): # TODO move function to helpers
         text_parts = [str(row['journal_name']), str(row['title']), str(row['abstract'])]
         keywords = row['keywords']
         if pd.notna(keywords):
@@ -128,22 +115,22 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger, class
     plt.close()
 
 
-def main(classification_type, experiment_name):
+def main(classification_type):
 
     if classification_type not in ['binary', 'multi']:
         raise ValueError("Invalid classification type. Must be either 'binary' or 'multi'.")
 
     # data
     data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes_enriched_with_kw"
-    output_dir = f'./../../models/transformers/evaluations/{experiment_name}/{classification_type}'
+    output_dir = f'./../../models/transformers/evaluations/{classification_type}'
     os.makedirs(output_dir, exist_ok=True)
     # logging
     logs_dir = os.path.join(output_dir, 'logs')
     os.makedirs(logs_dir, exist_ok=True)
-    logging.basicConfig(filename=os.path.join(logs_dir, f"evaluation.log"), filemode='a', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
+    logging.basicConfig(filename=os.path.join(logs_dir, f"evaluation.log"), filemode='w', format='%(asctime)s - %(levelname)s - %(message)s', level=logging.INFO)
     logger = logging.getLogger(__name__)
     # checkpoints
-    checkpoint_dir = f"./../../models/transformers/checkpoints/{experiment_name}/{classification_type}/models"
+    checkpoint_dir = f"./../../models/transformers/checkpoints/{classification_type}/models"
     # models
     models_to_evaluate = [
         'bert-base-uncased',
@@ -182,27 +169,20 @@ def main(classification_type, experiment_name):
     else:
         label_mapping = label_mapping_multi
 
+
+
     # iterate over select models and perform evaluation
     for model_name in models_to_evaluate:
         # log evaluation
         logger.info(f"Evaluating {get_short_model_name(model_name)}")
         print(f"Evaluating {get_short_model_name(model_name)}")
         # define path to models
-        model_path = os.path.join(checkpoint_dir, get_short_model_name(model_name), f"ft_{get_short_model_name(model_name)}_{classification_type}.pt")
-        
-        # Determine the number of labels based on the classification type
-        if classification_type == 'binary':
-            num_labels = len(label_mapping_binary)
-        else:
-            num_labels = len(label_mapping_multi)
-        
-        model = load_model(model_path, model_name, num_labels)
-        
+        model_path = os.path.join(checkpoint_dir, get_short_model_name(model_name), f"best_model_{get_short_model_name(model_name)}_{classification_type}.pt")
+        model = load_model(model_path)
         # load test data
         test_encodings, test_labels = load_test_data(data_dir, model_name, classification_type)
         test_dataset = TensorDataset(test_encodings['input_ids'], test_encodings['attention_mask'], test_labels)
-        # test_dataloader = DataLoader(test_dataset, batch_size=8, shuffle=True)  # Shuffle is True for random ordering of batches
-        test_dataloader = DataLoader(test_dataset, batch_size=8, shuffle=False)
+        test_dataloader = DataLoader(test_dataset, batch_size=8, shuffle=True)
 
         evaluate_model(
                         model, 
@@ -216,6 +196,5 @@ def main(classification_type, experiment_name):
 
 
 if __name__ == "__main__":
-    classification_type = "multi"  # Choose 'binary' or 'multi'
-    experiment_name = "rerun_finetuning_19-06-24"
-    main(classification_type=classification_type, experiment_name=experiment_name)
+    # TODO select 'binary' or 'multi'
+    main(classification_type='binary')

@@ -1,0 +1,20 @@
+                                     precision    recall  f1-score   support
+
+                          Remaining       0.88      0.90      0.89       172
+              Non-systematic-review       0.87      0.91      0.89        75
+Human-non-RCT-non-drug-intervention       0.74      0.67      0.70        42
+    Human-non-RCT-drug-intervention       0.87      0.72      0.79        36
+                  Human-case-report       0.91      0.91      0.91        33
+                       Animal-other       0.75      0.87      0.81        31
+           Animal-drug-intervention       0.84      0.90      0.87        30
+            Human-systematic-review       0.88      1.00      0.94        22
+                     In-vitro-study       0.94      0.71      0.81        21
+    Human-RCT-non-drug-intervention       0.85      0.94      0.89        18
+       Animal-non-drug-intervention       1.00      0.75      0.86        16
+        Human-RCT-drug-intervention       0.78      0.93      0.85        15
+            Clinical-study-protocol       1.00      1.00      1.00        12
+         Human-RCT-non-intervention       0.62      0.45      0.53        11
+
+                           accuracy                           0.86       534
+                          macro avg       0.85      0.83      0.84       534
+                       weighted avg       0.86      0.86      0.85       534

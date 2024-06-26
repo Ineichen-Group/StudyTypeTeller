@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+        Rest       0.99      0.99      0.99       457
+      Animal       0.96      0.96      0.96        77
+
+    accuracy                           0.99       534
+   macro avg       0.98      0.98      0.98       534
+weighted avg       0.99      0.99      0.99       534
