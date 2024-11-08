@@ -46,8 +46,8 @@ def load_data_splits(data_dir, col_name, tokenizer_name, batch_size):
     # TODO add keywords to concatenation
     def concatenate_text(row):
         text_parts = [str(row['journal_name']), str(row['title']), str(row['abstract'])]
-        keywords = row['keywords']
-        if pd.notna(keywords):
+        keywords = row.get('keywords')
+        if keywords and pd.notna(keywords):
             keywords_list = keywords.split('|')
             text_parts.extend(keywords_list)
         return ' '.join(text_parts)
@@ -197,19 +197,19 @@ def train_model(model_name, tokenizer_name, col_name, num_labels, epochs, patien
 
 def main(classification_type):
     # define input and output dirs
-    data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes_enriched_with_kw"
-    save_dir = f"./../../models/transformers/checkpoints/{classification_type}/models"
-    log_dir = f"./../../models/transformers/checkpoints/{classification_type}/logs"
+    data_dir = "./9-1-0_all_classes_enriched"
+    save_dir = f"./models/transformers/models"
+    log_dir = f"./models/transformers/logs"
  
     # TODO modify the list of models, if needed
     models_to_fine_tune = [
-                            'bert-base-uncased',
+                            #'bert-base-uncased',
                             'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext',
                             'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract',
                             'allenai/scibert_scivocab_uncased',
-                            'dmis-lab/biobert-v1.1',
+                            #'dmis-lab/biobert-v1.1',
                             'michiyasunaga/BioLinkBERT-base',
-                            'emilyalsentzer/Bio_ClinicalBERT',
+                            #'emilyalsentzer/Bio_ClinicalBERT',
                             ]
 
     if classification_type == 'binary':
