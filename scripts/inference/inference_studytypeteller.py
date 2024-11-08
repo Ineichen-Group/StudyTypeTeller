@@ -3,6 +3,7 @@ from torch.utils.data import DataLoader, TensorDataset
 import pandas as pd
 from transformers import AutoTokenizer
 import numpy as np
+import argparse
 
 def load_model(model_path):
     # Load the trained model from the specified path
@@ -11,7 +12,7 @@ def load_model(model_path):
 
 def inference_on_new_data(new_data, model_path, model_name, batch_size=8):
     """
-    Perform inference on new, unlabeled data using a trained model.
+    Perform inference on new, unlabeled data using a trained model and map label IDs to names.
 
     Parameters:
     - new_data (pd.DataFrame): DataFrame containing new data with columns 'PMID', 'journal_name', 'title', 'abstract', and optionally 'keywords'.
@@ -20,8 +21,28 @@ def inference_on_new_data(new_data, model_path, model_name, batch_size=8):
     - batch_size (int): Batch size for inference.
 
     Returns:
-    - pd.DataFrame: DataFrame containing PMID, label predictions, and confidence scores for each sample.
+    - pd.DataFrame: DataFrame containing PMID, label predictions (as IDs and names), and confidence scores for each sample.
     """
+    # Label mapping dictionary
+    label_mapping_multi = {
+        'Remaining': 0,
+        'Non-systematic-review': 1,
+        'Human-non-RCT-non-drug-intervention': 2,
+        'Human-non-RCT-drug-intervention': 3,
+        'Human-case-report': 4,
+        'Animal-other': 5,
+        'Animal-drug-intervention': 6,
+        'Human-systematic-review': 7,
+        'In-vitro-study': 8,
+        'Human-RCT-non-drug-intervention': 9,
+        'Animal-non-drug-intervention': 10,
+        'Human-RCT-drug-intervention': 11,
+        'Clinical-study-protocol': 12,
+        'Human-RCT-non-intervention': 13
+    }
+    # Reverse the mapping to get label names from IDs
+    id_to_label = {v: k for k, v in label_mapping_multi.items()}
+
     # Load model and tokenizer
     model = load_model(model_path)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -57,10 +78,15 @@ def inference_on_new_data(new_data, model_path, model_name, batch_size=8):
             predictions.extend(preds.cpu().numpy())
             confidences.extend(probs.max(dim=1).values.cpu().numpy())
 
-    # Construct DataFrame for output with PMID and label
+    # Map predicted label IDs to label names
+    label_ids = predictions
+    label_names = [id_to_label[label_id] for label_id in label_ids]
+
+    # Construct DataFrame for output with PMID, label ID, label name, and confidence
     result_df = pd.DataFrame({
         'PMID': new_data['PMID'],
-        'label': predictions,
+        'label_id': label_ids,       # Add label IDs
+        'label_name': label_names,   # Add label names
         'confidence': confidences
     })
 
@@ -72,25 +98,25 @@ if __name__ == "__main__":
     parser.add_argument(
         "--model_name_or_path",
         type=str,
-        default="michiyasunaga/BioLinkBERT-base",
+        default="microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
         help="The name or path of the HuggingFace model to use. For example, 'michiyasunaga/BioLinkBERT-base'."
     )
     parser.add_argument(
         "--trained_model_path",
         type=str,
-        default="BioLinkBERT-base_1436_model.pt",
+        default="./scripts/inference/best_model_PubMedBERT_multi.pt",
         help="Path to the fine-tuned .pt file of the HuggingFace model."
     )
     parser.add_argument(
         "--pubmed_file",
         type=str,
-        default="./pmid_contents_chunk_1.txt",
+        default="./scripts/inference/pmid_contents_chunk_1.txt",
         help="File with PubMed content."
     )
     parser.add_argument(
         "--output_file",
         type=str,
-        default="./predictions_chunk_1.txt",
+        default="./scripts/inference/predictions_chunk_1.txt",
         help="File name to save predictions, e.g. ./model_predictions/neuro_pubmed/predictions_chunk_0.txt."
     )
 
@@ -109,4 +135,4 @@ if __name__ == "__main__":
 
     # Perform inference
     results = inference_on_new_data(new_data, model_path, model_name)
-    results.to_csv(out_file)
+    results.to_csv(out_file, index=False)

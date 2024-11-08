@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=preclin_goldhamster
-#SBATCH --array=0-500                  # Array job for PUBMED_CHUNK_ID 0 to 500
+#SBATCH --array=0-5                  # Array job for PUBMED_CHUNK_ID 0 to 500
 #SBATCH --gpus=1                        # Request 1 GPU per task
 #SBATCH --time=00:10:00                 # Set a time limit for each job
 #SBATCH --mem-per-gpu=32G               # Request 32 GB of memory per GPU
@@ -8,14 +8,14 @@
 #SBATCH --error=inference_logs/inference_error_%A_%a.log    # Save stderr with job and task ID
 
 # Parameters
-INFERENCE_SCRIPT="inference_studytypeteller.py"
-TUNED_MODEL="BioLinkBERT-base_1436_model.pt"
-MODEL="michiyasunaga/BioLinkBERT-base"
+INFERENCE_SCRIPT="./inference_studytypeteller.py"
+TUNED_MODEL="./models/transformers/models/PubMedBERT/best_model_PubMedBERT_multi.pt"
+MODEL="microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext"
 
 # Use the Slurm array task ID as the PUBMED_CHUNK_ID
 PUBMED_CHUNK_ID=$SLURM_ARRAY_TASK_ID
-PUBMED_DATA_PATH="./full_pubmed_raw"
-OUTPUTS_DATA_PATH="./model_predictions/neuro_pubmed"
+PUBMED_DATA_PATH="../pubmed_abstracts/pubmed_results"
+OUTPUTS_DATA_PATH="./model_predictions/"
 
 # Define the input file and output file for the current chunk
 FILE_FOR_INFERENCE="${PUBMED_DATA_PATH}/pmid_contents_chunk_${PUBMED_CHUNK_ID}.txt"
