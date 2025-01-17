@@ -129,9 +129,9 @@ if __name__ == "__main__":
     input_file_path = args.pubmed_file
     out_file = args.output_file
 
-    headers = ["PMID", "Year", "journal_name", "title", "abstract", "DOI"]
+    headers = ["PMID", "year", "journal_name", "title", "abstract", "doi", "publication_type"]
 
-    new_data = pd.read_csv(input_file_path, sep=r'\^!\^', names=headers,  engine='python')  # Change 'sep' if files use a different delimiter
+    new_data = pd.read_csv(input_file_path, sep=r'|||', names=headers,  engine='python')  # Change 'sep' if files use a different delimiter
 
     # Perform inference
     results = inference_on_new_data(new_data, model_path, model_name)
