@@ -1,0 +1,154 @@
+2024-06-20 16:59:15,741 - INFO - Evaluating bert-base
+2024-06-20 16:59:28,523 - INFO - Model: bert-base-uncased
+              precision    recall  f1-score   support
+
+           0       0.99      0.96      0.98       457
+           1       0.80      0.96      0.88        77
+
+    accuracy                           0.96       534
+   macro avg       0.90      0.96      0.93       534
+weighted avg       0.97      0.96      0.96       534
+
+2024-06-20 16:59:28,798 - INFO - Evaluating PubMedBERT
+2024-06-20 16:59:38,920 - INFO - Model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       457
+           1       0.95      0.94      0.94        77
+
+    accuracy                           0.98       534
+   macro avg       0.97      0.96      0.97       534
+weighted avg       0.98      0.98      0.98       534
+
+2024-06-20 16:59:39,058 - INFO - Evaluating BiomedBERT
+2024-06-20 16:59:48,670 - INFO - Model: microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       457
+           1       0.99      0.95      0.97        77
+
+    accuracy                           0.99       534
+   macro avg       0.99      0.97      0.98       534
+weighted avg       0.99      0.99      0.99       534
+
+2024-06-20 16:59:48,804 - INFO - Evaluating Scibert
+2024-06-20 16:59:59,146 - INFO - Model: allenai/scibert_scivocab_uncased
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       457
+           1       0.93      0.96      0.94        77
+
+    accuracy                           0.98       534
+   macro avg       0.96      0.97      0.97       534
+weighted avg       0.98      0.98      0.98       534
+
+2024-06-20 16:59:59,282 - INFO - Evaluating biobert
+2024-06-20 17:00:08,964 - INFO - Model: dmis-lab/biobert-v1.1
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       457
+           1       1.00      0.90      0.95        77
+
+    accuracy                           0.99       534
+   macro avg       0.99      0.95      0.97       534
+weighted avg       0.99      0.99      0.98       534
+
+2024-06-20 17:00:09,105 - INFO - Evaluating BioLinkBERT
+2024-06-20 17:00:19,311 - INFO - Model: michiyasunaga/BioLinkBERT-base
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       457
+           1       0.97      0.92      0.95        77
+
+    accuracy                           0.99       534
+   macro avg       0.98      0.96      0.97       534
+weighted avg       0.98      0.99      0.98       534
+
+2024-06-20 17:00:19,446 - INFO - Evaluating Bio_ClinicalBERT
+2024-06-20 17:00:29,651 - INFO - Model: emilyalsentzer/Bio_ClinicalBERT
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       457
+           1       0.91      0.88      0.89        77
+
+    accuracy                           0.97       534
+   macro avg       0.94      0.93      0.94       534
+weighted avg       0.97      0.97      0.97       534
+
+2024-06-20 17:02:18,261 - INFO - Evaluating bert-base
+2024-06-20 17:02:30,300 - INFO - Model: bert-base-uncased
+              precision    recall  f1-score   support
+
+           0       0.99      0.96      0.98       457
+           1       0.80      0.96      0.88        77
+
+    accuracy                           0.96       534
+   macro avg       0.90      0.96      0.93       534
+weighted avg       0.97      0.96      0.96       534
+
+2024-06-20 17:02:30,593 - INFO - Evaluating PubMedBERT
+2024-06-20 17:02:40,786 - INFO - Model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       457
+           1       0.95      0.94      0.94        77
+
+    accuracy                           0.98       534
+   macro avg       0.97      0.96      0.97       534
+weighted avg       0.98      0.98      0.98       534
+
+2024-06-20 17:02:40,938 - INFO - Evaluating BiomedBERT
+2024-06-20 17:02:50,781 - INFO - Model: microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       457
+           1       0.99      0.95      0.97        77
+
+    accuracy                           0.99       534
+   macro avg       0.99      0.97      0.98       534
+weighted avg       0.99      0.99      0.99       534
+
+2024-06-20 17:02:50,924 - INFO - Evaluating Scibert
+2024-06-20 17:03:01,085 - INFO - Model: allenai/scibert_scivocab_uncased
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       457
+           1       0.93      0.96      0.94        77
+
+    accuracy                           0.98       534
+   macro avg       0.96      0.97      0.97       534
+weighted avg       0.98      0.98      0.98       534
+
+2024-06-20 17:03:01,228 - INFO - Evaluating biobert
+2024-06-20 17:03:11,010 - INFO - Model: dmis-lab/biobert-v1.1
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       457
+           1       1.00      0.90      0.95        77
+
+    accuracy                           0.99       534
+   macro avg       0.99      0.95      0.97       534
+weighted avg       0.99      0.99      0.98       534
+
+2024-06-20 17:03:11,165 - INFO - Evaluating BioLinkBERT
+2024-06-20 17:03:21,316 - INFO - Model: michiyasunaga/BioLinkBERT-base
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       457
+           1       0.97      0.92      0.95        77
+
+    accuracy                           0.99       534
+   macro avg       0.98      0.96      0.97       534
+weighted avg       0.98      0.99      0.98       534
+
+2024-06-20 17:03:21,469 - INFO - Evaluating Bio_ClinicalBERT
+2024-06-20 17:03:31,707 - INFO - Model: emilyalsentzer/Bio_ClinicalBERT
+              precision    recall  f1-score   support
+
+           0       0.98      0.98      0.98       457
+           1       0.91      0.88      0.89        77
+
+    accuracy                           0.97       534
+   macro avg       0.94      0.93      0.94       534
+weighted avg       0.97      0.97      0.97       534
+

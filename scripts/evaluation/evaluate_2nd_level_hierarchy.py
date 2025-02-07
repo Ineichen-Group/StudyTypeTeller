@@ -10,6 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 # Set seeds for reproducibility
 torch.manual_seed(42)
 np.random.seed(42)
@@ -45,35 +46,28 @@ def get_short_model_name(model_name):
 
 
 def load_test_data(data_dir, model_name, classification_type):
-    test_file = os.path.join(data_dir, 'test.csv')
+    test_file = os.path.join(data_dir, f'test_{classification_type}.csv')
     test_df = pd.read_csv(test_file)
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     def concatenate_text(row):
-        text_parts = []
-        for col in ['journal_name', 'title', 'abstract']:
-            if col in row and pd.notna(row[col]):
-                text_parts.append(str(row[col]))
-
-        if 'keywords' in row and pd.notna(row['keywords']):
-            text_parts.extend(row['keywords'].split('|'))
-        # text_parts = [str(row['journal_name']), str(row['title']), str(row['abstract'])]
-        # keywords = row['keywords']
-        # if pd.notna(keywords):
-        #     keywords_list = keywords.split('|')
-        #     text_parts.extend(keywords_list)
+        text_parts = [str(row['journal_name']), str(row['title']), str(row['abstract'])]
+        keywords = row['keywords']
+        if pd.notna(keywords):
+            keywords_list = keywords.split('|')
+            text_parts.extend(keywords_list)
         return ' '.join(text_parts)
 
     test_df['text'] = test_df.apply(concatenate_text, axis=1)
     test_encodings = tokenizer(test_df['text'].tolist(), padding=True, truncation=True, max_length=256, return_tensors='pt')
 
-    if classification_type == 'binary':
-        test_labels = torch.tensor(test_df['binary_label'].values)
-    elif classification_type == 'multi':
-        test_labels = torch.tensor(test_df['multi_label'].values)
+    if classification_type == 'animal':
+        test_labels = torch.tensor(test_df['animal_label'].values)
+    elif classification_type == 'other':
+        test_labels = torch.tensor(test_df['other_label'].values)
     else:
-        raise ValueError("Invalid classification type. Must be either 'binary' or 'multi'.")
+        raise ValueError("Invalid classification type. Must be either 'animal' or 'other'.")
 
     return test_encodings, test_labels
 
@@ -89,7 +83,7 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger, class
     with torch.no_grad():
         for batch in test_dataloader:
             batch = tuple(t.to(device) for t in batch)
-            inputs = {'input_ids': batch[0], 'attention_mask': batch[1], 'labels': batch[2]}
+            inputs = {'input_ids': batch[0], 'attention_mask': batch[1]}
             outputs = model(**inputs)
             logits = outputs.logits
             preds = torch.argmax(logits, dim=1)
@@ -109,7 +103,7 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger, class
         writer.writerows(zip(predictions, true_labels, [max(prob) for prob in probabilities]))
 
     # classification report
-    classification_report_str = classification_report(true_labels, predictions)
+    classification_report_str = classification_report(true_labels, predictions, target_names=list(label_mapping.keys()))
     logger.info(f"Model: {model_name}\n{classification_report_str}")
     class_report_dir = os.path.join(output_dir, 'classification_reports')
     os.makedirs(class_report_dir, exist_ok=True)
@@ -137,11 +131,11 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger, class
 
 def main(classification_type, experiment_name):
 
-    if classification_type not in ['binary', 'multi']:
-        raise ValueError("Invalid classification type. Must be either 'binary' or 'multi'.")
+    if classification_type not in ['animal', 'other']:
+        raise ValueError("Invalid classification type. Must be either 'animal' or 'other'.")
 
     # data
-    data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes"
+    data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes_enriched_with_kw_hierarchical"
     output_dir = f'./../../models/transformers/evaluations/{experiment_name}/{classification_type}'
     os.makedirs(output_dir, exist_ok=True)
     # logging
@@ -153,41 +147,36 @@ def main(classification_type, experiment_name):
     checkpoint_dir = f"./../../models/transformers/checkpoints/{experiment_name}/{classification_type}/models"
     # models
     models_to_evaluate = [
-        # 'bert-base-uncased',
-        'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext',
-        'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract',
-        # 'allenai/scibert_scivocab_uncased',
+        'allenai/scibert_scivocab_uncased',
         'dmis-lab/biobert-v1.1',
-        # 'michiyasunaga/BioLinkBERT-base',
-        # 'emilyalsentzer/Bio_ClinicalBERT',
     ]
 
     # select appropriate labels
-    label_mapping_multi = {
+    label_mapping_animal = {
+        'Animal-other': 0,
+        'Animal-drug-intervention': 1,
+        'Animal-non-drug-intervention': 2
+    }
+    label_mapping_other = {
         'Remaining': 0,
-        'Non-systematic-review': 1, 
+        'Non-systematic-review': 1,
         'Human-non-RCT-non-drug-intervention': 2,
         'Human-non-RCT-drug-intervention': 3,
         'Human-case-report': 4,
-        'Animal-other': 5,
-        'Animal-drug-intervention': 6,
-        'Human-systematic-review': 7,
-        'In-vitro-study': 8,
-        'Human-RCT-non-drug-intervention': 9,
-        'Animal-non-drug-intervention': 10,
-        'Human-RCT-drug-intervention': 11,
-        'Clinical-study-protocol': 12,
-        'Human-RCT-non-intervention': 13
-        }
-    label_mapping_binary = {
-        'Rest': 0,
-        'Animal': 1
-        }
+        'Human-systematic-review': 5,
+        'In-vitro-study': 6,
+        'Human-RCT-non-drug-intervention': 7,
+        'Human-RCT-drug-intervention': 8,
+        'Clinical-study-protocol': 9,
+        'Human-RCT-non-intervention': 10
+    }
 
-    if classification_type == 'binary':
-        label_mapping = label_mapping_binary
+    if classification_type == 'animal':
+        label_mapping = label_mapping_animal
+        num_labels = len(label_mapping_animal)
     else:
-        label_mapping = label_mapping_multi
+        label_mapping = label_mapping_other
+        num_labels = len(label_mapping_other)
 
     # iterate over select models and perform evaluation
     for model_name in models_to_evaluate:
@@ -197,32 +186,19 @@ def main(classification_type, experiment_name):
         # define path to models
         model_path = os.path.join(checkpoint_dir, get_short_model_name(model_name), f"ft_{get_short_model_name(model_name)}_{classification_type}.pt")
         
-        # Determine the number of labels based on the classification type
-        if classification_type == 'binary':
-            num_labels = len(label_mapping_binary)
-        else:
-            num_labels = len(label_mapping_multi)
-        
         model = load_model(model_path, model_name, num_labels)
         
         # load test data
         test_encodings, test_labels = load_test_data(data_dir, model_name, classification_type)
         test_dataset = TensorDataset(test_encodings['input_ids'], test_encodings['attention_mask'], test_labels)
-        # test_dataloader = DataLoader(test_dataset, batch_size=8, shuffle=True)  # Shuffle is True for random ordering of batches
-        test_dataloader = DataLoader(test_dataset, batch_size=8, shuffle=False)
+        test_dataloader = DataLoader(test_dataset, batch_size=16, shuffle=False)
 
-        evaluate_model(
-                        model, 
-                        test_dataloader, 
-                        output_dir, 
-                        model_name, 
-                        logger,
-                        classification_type,
-                        label_mapping
-                        )
+        # evaluate model
+        evaluate_model(model, test_dataloader, output_dir, model_name, logger, classification_type, label_mapping)
 
+    print('Evaluations complete')
 
-if __name__ == "__main__":
-    classification_type = "multi"  # Choose 'binary' or 'multi'
-    experiment_name = "finetuning_07-02-25_nonenriched"
-    main(classification_type=classification_type, experiment_name=experiment_name)
+# Execute the main function for both 'animal' and 'other' classification types.
+if __name__ == '__main__':
+    main('animal', 'hierarchical_finetuning_27-06-24')
+    main('other', 'hierarchical_finetuning_27-06-24')

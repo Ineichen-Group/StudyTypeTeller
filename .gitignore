@@ -14,7 +14,8 @@ data/prodigy/typeteller_1500.zip
 data/.DS_Store
 .DS_Store
 
-# heavy bert-based models
+# heavy bert-based models (incl. logs)
 models/transformers/checkpoints/binary/models
 models/transformers/checkpoints/multi/models
+models/transformers/checkpoints
 

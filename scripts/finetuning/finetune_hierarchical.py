@@ -11,7 +11,6 @@ from sklearn.metrics import f1_score
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 
-
 def set_seed(seed):
     random.seed(seed)
     np.random.seed(seed)
@@ -20,31 +19,25 @@ def set_seed(seed):
     torch.backends.cudnn.deterministic = True
     torch.backends.cudnn.benchmark = False
 
-
 class ExperimentManager:
     def __init__(self, classification_type, experiment_name):
-        self.data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes_enriched_with_kw" # TODO
+        self.data_dir = "./../../data/data_splits_stratified/6-2-2_all_classes_enriched_with_kw_hierarchical"
         self.save_dir = f"./../../models/transformers/checkpoints/{experiment_name}/{classification_type}/models"
         self.log_dir = f"./../../models/transformers/checkpoints/{experiment_name}/{classification_type}/logs"
         self.classification_type = classification_type
         self.models_to_fine_tune = [
-            # 'bert-base-uncased',
-            'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext',
-            'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract',
-            # 'allenai/scibert_scivocab_uncased',
+            'allenai/scibert_scivocab_uncased',
             'dmis-lab/biobert-v1.1',
-            # 'michiyasunaga/BioLinkBERT-base',
-            # 'emilyalsentzer/Bio_ClinicalBERT',
         ]
 
-        if classification_type == 'binary':
-            self.col_name = 'binary_label'
-            self.num_labels = 2
-        elif classification_type == 'multi':
-            self.col_name = 'multi_label'
-            self.num_labels = 14  # TODO change to dynamic
+        if classification_type == 'animal':
+            self.col_name = 'animal_label'
+            self.num_labels = 3  # Number of animal labels: 5, 6, 10
+        elif classification_type == 'other':
+            self.col_name = 'other_label'
+            self.num_labels = 11  # Number of non-animal labels
         else:
-            raise ValueError("Invalid classification_type. Must be either 'binary' or 'multi'.")
+            raise ValueError("Invalid classification_type. Must be either 'animal' or 'other'.")
 
         os.makedirs(self.log_dir, exist_ok=True)
         os.makedirs(self.save_dir, exist_ok=True)
@@ -76,33 +69,25 @@ class ExperimentManager:
             raise ValueError("Invalid model name. Cannot be mapped to short name.")
 
     def load_data_splits(self, tokenizer_name, batch_size):
-        train_file = os.path.join(self.data_dir, 'train.csv')
-        val_file = os.path.join(self.data_dir, 'val.csv')
+        train_file = os.path.join(self.data_dir, f'train_{self.classification_type}.csv')
+        val_file = os.path.join(self.data_dir, f'val_{self.classification_type}.csv')
         train_df = pd.read_csv(train_file)
         val_df = pd.read_csv(val_file)
 
         def concatenate_text(row):
-            text_parts = []
-            for col in ['journal_name', 'title', 'abstract']:
-                if col in row and pd.notna(row[col]):
-                    text_parts.append(str(row[col]))
-
-            if 'keywords' in row and pd.notna(row['keywords']):
-                text_parts.extend(row['keywords'].split('|'))
-
-            # text_parts = [str(row['journal_name']), str(row['title']), str(row['abstract'])]
-            # keywords = row['keywords']
-            # if pd.notna(keywords):
-            #     keywords_list = keywords.split('|')
-            #     text_parts.extend(keywords_list)
+            text_parts = [str(row['journal_name']), str(row['title']), str(row['abstract'])]
+            keywords = row['keywords']
+            if pd.notna(keywords):
+                keywords_list = keywords.split('|')
+                text_parts.extend(keywords_list)
             return ' '.join(text_parts)
 
         train_df['text'] = train_df.apply(concatenate_text, axis=1)
         val_df['text'] = val_df.apply(concatenate_text, axis=1)
 
         tokenizer = AutoTokenizer.from_pretrained(tokenizer_name)
-        train_encodings = tokenizer(train_df['text'].tolist(), padding=True, truncation=True, max_length=512, return_tensors='pt')
-        val_encodings = tokenizer(val_df['text'].tolist(), padding=True, truncation=True, max_length=512, return_tensors='pt')
+        train_encodings = tokenizer(train_df['text'].tolist(), padding=True, truncation=True, max_length=256, return_tensors='pt')
+        val_encodings = tokenizer(val_df['text'].tolist(), padding=True, truncation=True, max_length=256, return_tensors='pt')
 
         train_labels = torch.tensor(train_df[self.col_name].values)
         val_labels = torch.tensor(val_df[self.col_name].values)
@@ -133,7 +118,6 @@ class ExperimentManager:
                 logger=self.logger
             )
             model_finetuner.finetune_model()
-
 
 class ModelFinetuner:
     def __init__(self, model_name, train_dataloader, val_dataloader, col_name, num_labels, epochs, patience, learning_rate, weight_decay, save_dir, classification_type, experiment_name, logger):
@@ -209,28 +193,20 @@ class ModelFinetuner:
             val_losses.append(val_loss)
 
             checkpoint_path = os.path.join(self.model_dir, f"checkpoint_epoch_{epoch + 1}.pt")
+            torch.save({
+                'epoch': epoch,
+                'model_state_dict': model.state_dict(),
+                'optimizer_state_dict': optimizer.state_dict(),
+                'scheduler_state_dict': scheduler.state_dict(),
+                'train_loss': train_loss,
+                'val_loss': val_loss,
+            }, checkpoint_path)
 
             if val_loss < best_val_loss:
                 best_val_loss = val_loss
                 best_model_path = os.path.join(self.model_dir, f"ft_{ExperimentManager(self.classification_type, self.experiment_name).get_short_model_name(self.model_name)}_{self.classification_type}.pt")
                 torch.save(model.state_dict(), best_model_path)
                 no_improvement_count = 0
-
-                # Remove previous checkpoints to free up space
-                for file in os.listdir(self.model_dir):
-                    file_path = os.path.join(self.model_dir, file)
-                    if file.startswith("checkpoint_epoch_") and file_path != checkpoint_path:
-                        os.remove(file_path)
-
-                torch.save({
-                    'epoch': epoch,
-                    'model_state_dict': model.state_dict(),
-                    'optimizer_state_dict': optimizer.state_dict(),
-                    'scheduler_state_dict': scheduler.state_dict(),
-                    'train_loss': train_loss,
-                    'val_loss': val_loss,
-                }, checkpoint_path)
-
             else:
                 no_improvement_count += 1
 
@@ -263,14 +239,13 @@ class ModelFinetuner:
         plt.show()
         plt.close()
 
-
 if __name__ == "__main__":
-    # TODO choose experiment name to avoid overwriting
-    experiment_name = "finetuning_07-02-25_enriched_with_kw_512"
-    # keep this seed
+    experiment_name = "hierarchical_finetuning_27-06-24"
     seed = 42 
     set_seed(seed)
-    # TODO select from 'binary' or 'multi'
-    experiment = ExperimentManager(classification_type='multi', experiment_name=experiment_name)
 
-    experiment.run_experiment()
+    classification_types = ['animal', 'other']
+
+    for classification_type in classification_types:
+        experiment = ExperimentManager(classification_type=classification_type, experiment_name=experiment_name)
+        experiment.run_experiment()

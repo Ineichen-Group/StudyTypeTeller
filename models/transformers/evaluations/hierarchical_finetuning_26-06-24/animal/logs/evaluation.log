@@ -1,0 +1,71 @@
+2024-06-27 02:52:55,134 - INFO - Evaluating Scibert
+2024-06-27 02:56:04,839 - INFO - Evaluating Scibert
+2024-06-27 02:57:43,599 - INFO - Evaluating Scibert
+2024-06-27 02:58:47,772 - INFO - Evaluating Scibert
+2024-06-27 03:00:42,827 - INFO - Evaluating Scibert
+2024-06-27 03:02:07,095 - INFO - Evaluating Scibert
+2024-06-27 03:06:40,320 - INFO - Evaluating Scibert
+2024-06-27 13:22:02,131 - INFO - Evaluating Scibert
+2024-06-27 13:22:08,465 - INFO - Model: allenai/scibert_scivocab_uncased
+                              precision    recall  f1-score   support
+
+                Animal-other       0.86      0.81      0.83        31
+    Animal-drug-intervention       0.79      0.87      0.83        30
+Animal-non-drug-intervention       0.87      0.81      0.84        16
+
+                    accuracy                           0.83        77
+                   macro avg       0.84      0.83      0.83        77
+                weighted avg       0.83      0.83      0.83        77
+
+2024-06-27 13:22:08,827 - INFO - Evaluating biobert
+2024-06-27 13:22:12,371 - INFO - Model: dmis-lab/biobert-v1.1
+                              precision    recall  f1-score   support
+
+                Animal-other       0.83      0.94      0.88        31
+    Animal-drug-intervention       0.88      0.77      0.82        30
+Animal-non-drug-intervention       0.88      0.88      0.88        16
+
+                    accuracy                           0.86        77
+                   macro avg       0.86      0.86      0.86        77
+                weighted avg       0.86      0.86      0.86        77
+
+2024-06-27 13:22:12,547 - INFO - Evaluating Scibert
+2024-06-27 13:22:20,488 - INFO - Model: allenai/scibert_scivocab_uncased
+                                     precision    recall  f1-score   support
+
+                          Remaining       0.88      0.89      0.88       172
+              Non-systematic-review       0.91      0.85      0.88        75
+Human-non-RCT-non-drug-intervention       0.72      0.69      0.71        42
+    Human-non-RCT-drug-intervention       0.81      0.81      0.81        36
+                  Human-case-report       0.86      0.91      0.88        33
+            Human-systematic-review       0.95      0.95      0.95        22
+                     In-vitro-study       0.90      0.86      0.88        21
+    Human-RCT-non-drug-intervention       0.77      0.94      0.85        18
+        Human-RCT-drug-intervention       0.82      0.93      0.88        15
+            Clinical-study-protocol       1.00      1.00      1.00        12
+         Human-RCT-non-intervention       0.67      0.55      0.60        11
+
+                           accuracy                           0.86       457
+                          macro avg       0.85      0.85      0.85       457
+                       weighted avg       0.86      0.86      0.86       457
+
+2024-06-27 13:22:20,876 - INFO - Evaluating biobert
+2024-06-27 13:22:28,481 - INFO - Model: dmis-lab/biobert-v1.1
+                                     precision    recall  f1-score   support
+
+                          Remaining       0.88      0.87      0.87       172
+              Non-systematic-review       0.87      0.92      0.90        75
+Human-non-RCT-non-drug-intervention       0.73      0.64      0.68        42
+    Human-non-RCT-drug-intervention       0.76      0.72      0.74        36
+                  Human-case-report       0.88      0.91      0.90        33
+            Human-systematic-review       0.88      1.00      0.94        22
+                     In-vitro-study       0.86      0.86      0.86        21
+    Human-RCT-non-drug-intervention       0.94      0.83      0.88        18
+        Human-RCT-drug-intervention       0.78      0.93      0.85        15
+            Clinical-study-protocol       0.86      1.00      0.92        12
+         Human-RCT-non-intervention       0.67      0.55      0.60        11
+
+                           accuracy                           0.85       457
+                          macro avg       0.83      0.84      0.83       457
+                       weighted avg       0.85      0.85      0.85       457
+

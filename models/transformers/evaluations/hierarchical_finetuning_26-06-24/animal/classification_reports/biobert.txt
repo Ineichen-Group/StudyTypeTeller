@@ -1,0 +1,9 @@
+                              precision    recall  f1-score   support
+
+                Animal-other       0.83      0.94      0.88        31
+    Animal-drug-intervention       0.88      0.77      0.82        30
+Animal-non-drug-intervention       0.88      0.88      0.88        16
+
+                    accuracy                           0.86        77
+                   macro avg       0.86      0.86      0.86        77
+                weighted avg       0.86      0.86      0.86        77
