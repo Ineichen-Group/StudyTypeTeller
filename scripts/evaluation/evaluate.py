@@ -66,7 +66,7 @@ def load_test_data(data_dir, model_name, classification_type):
         return ' '.join(text_parts)
 
     test_df['text'] = test_df.apply(concatenate_text, axis=1)
-    test_encodings = tokenizer(test_df['text'].tolist(), padding=True, truncation=True, max_length=256, return_tensors='pt')
+    test_encodings = tokenizer(test_df['text'].tolist(), padding=True, truncation=True, max_length=512, return_tensors='pt')
 
     if classification_type == 'binary':
         test_labels = torch.tensor(test_df['binary_label'].values)
@@ -154,10 +154,10 @@ def main(classification_type, experiment_name):
     # models
     models_to_evaluate = [
         # 'bert-base-uncased',
-        'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext',
-        'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract',
-        # 'allenai/scibert_scivocab_uncased',
-        'dmis-lab/biobert-v1.1',
+        # 'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext',
+        # 'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract',
+        'allenai/scibert_scivocab_uncased',
+        # 'dmis-lab/biobert-v1.1',
         # 'michiyasunaga/BioLinkBERT-base',
         # 'emilyalsentzer/Bio_ClinicalBERT',
     ]
@@ -224,5 +224,5 @@ def main(classification_type, experiment_name):
 
 if __name__ == "__main__":
     classification_type = "multi"  # Choose 'binary' or 'multi'
-    experiment_name = "finetuning_07-02-25_nonenriched"
+    experiment_name = "finetuning_07-02-25_enriched_with_kw_512"
     main(classification_type=classification_type, experiment_name=experiment_name)

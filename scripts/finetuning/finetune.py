@@ -29,10 +29,10 @@ class ExperimentManager:
         self.classification_type = classification_type
         self.models_to_fine_tune = [
             # 'bert-base-uncased',
-            'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext',
-            'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract',
-            # 'allenai/scibert_scivocab_uncased',
-            'dmis-lab/biobert-v1.1',
+            # 'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext',
+            # 'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract',
+            'allenai/scibert_scivocab_uncased',
+            # 'dmis-lab/biobert-v1.1',
             # 'michiyasunaga/BioLinkBERT-base',
             # 'emilyalsentzer/Bio_ClinicalBERT',
         ]
@@ -116,7 +116,7 @@ class ExperimentManager:
         for model_name in self.models_to_fine_tune:
             self.logger.info(f"\n\n************** Fine-tuning {model_name}: {self.classification_type} **************")
             print(f"\n\n************** Fine-tuning {model_name}: {self.classification_type} **************")
-            train_dataloader, val_dataloader = self.load_data_splits(model_name, batch_size=8)
+            train_dataloader, val_dataloader = self.load_data_splits(model_name, batch_size=16)
             model_finetuner = ModelFinetuner(
                 model_name=model_name,
                 train_dataloader=train_dataloader,

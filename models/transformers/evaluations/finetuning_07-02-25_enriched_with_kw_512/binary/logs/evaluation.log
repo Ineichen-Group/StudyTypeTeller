@@ -1,0 +1,33 @@
+2025-02-07 20:26:38,997 - INFO - Evaluating PubMedBERT
+2025-02-07 20:26:51,141 - INFO - Model: microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       357
+           1       0.98      0.91      0.95        47
+
+    accuracy                           0.99       404
+   macro avg       0.98      0.96      0.97       404
+weighted avg       0.99      0.99      0.99       404
+
+2025-02-07 20:26:51,557 - INFO - Evaluating BiomedBERT
+2025-02-07 20:26:59,978 - INFO - Model: microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       357
+           1       0.98      0.89      0.93        47
+
+    accuracy                           0.99       404
+   macro avg       0.98      0.95      0.96       404
+weighted avg       0.99      0.99      0.98       404
+
+2025-02-07 20:27:00,205 - INFO - Evaluating biobert
+2025-02-07 20:27:07,042 - INFO - Model: dmis-lab/biobert-v1.1
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       357
+           1       0.98      0.91      0.95        47
+
+    accuracy                           0.99       404
+   macro avg       0.98      0.96      0.97       404
+weighted avg       0.99      0.99      0.99       404
+
