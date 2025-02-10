@@ -1,0 +1,3 @@
+,precision,precision CI,recall,recall CI,f1-score,f1-score CI,accuracy,accuracy CI,Prompt ID
+0,0.448,"(0.358, 0.529)",0.311,"(0.273, 0.352)",0.258,"(0.218, 0.301)",0.311,"(0.272, 0.352)",P1_HIERARCHY
+1,0.58,"(0.524, 0.621)",0.507,"(0.466, 0.551)",0.502,"(0.459, 0.546)",0.507,"(0.466, 0.551)",P2_HIERARCHY

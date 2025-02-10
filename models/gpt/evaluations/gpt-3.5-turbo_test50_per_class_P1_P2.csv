@@ -1,0 +1,37 @@
+,precision,recall,f1-score,support,Prompt ID
+Human-systematic-review,0.0,0.0,0.0,0.0,P1
+Human-RCT-drug-intervention,0.6666666666666666,1.0,0.8,4.0,P1
+Human-RCT-non-drug-intervention,0.0,0.0,0.0,1.0,P1
+Human-RCT-non-intervention,0.0,0.0,0.0,0.0,P1
+Human-case-report,0.2,1.0,0.33333333333333337,2.0,P1
+Human-non-RCT-drug-intervention,1.0,0.3333333333333333,0.5,3.0,P1
+Human-non-RCT-non-drug-intervention,0.07692307692307693,0.25,0.11764705882352941,4.0,P1
+Animal-systematic-review,0.0,0.0,0.0,0.0,P1
+Animal-drug-intervention,0.8333333333333334,1.0,0.9090909090909091,5.0,P1
+Animal-non-drug-intervention,0.0,0.0,0.0,0.0,P1
+Animal-other,0.5,0.3333333333333333,0.4,3.0,P1
+Non-systematic-review,0.5,0.14285714285714285,0.22222222222222224,7.0,P1
+In-vitro-study,1.0,1.0,1.0,1.0,P1
+Clinical-study-protocol,0.0,0.0,0.0,0.0,P1
+Remaining,0.5,0.1,0.16666666666666669,20.0,P1
+micro avg,0.36,0.36,0.36,50.0,P1
+macro avg,0.3517948717948718,0.3439682539682539,0.2965973460091107,50.0,P1
+weighted avg,0.5308205128205128,0.36,0.34943196672608434,50.0,P1
+Human-systematic-review,0.0,0.0,0.0,0.0,P2
+Human-RCT-drug-intervention,0.6666666666666666,1.0,0.8,4.0,P2
+Human-RCT-non-drug-intervention,0.0,0.0,0.0,1.0,P2
+Human-RCT-non-intervention,0.0,0.0,0.0,0.0,P2
+Human-case-report,0.15384615384615385,1.0,0.2666666666666667,2.0,P2
+Human-non-RCT-drug-intervention,0.5,0.3333333333333333,0.4,3.0,P2
+Human-non-RCT-non-drug-intervention,0.0,0.0,0.0,4.0,P2
+Animal-systematic-review,0.0,0.0,0.0,0.0,P2
+Animal-drug-intervention,0.75,0.6,0.6666666666666665,5.0,P2
+Animal-non-drug-intervention,0.0,0.0,0.0,0.0,P2
+Animal-other,0.5,0.3333333333333333,0.4,3.0,P2
+Non-systematic-review,0.0,0.0,0.0,7.0,P2
+In-vitro-study,1.0,1.0,1.0,1.0,P2
+Clinical-study-protocol,0.0,0.0,0.0,0.0,P2
+Remaining,1.0,0.1,0.18181818181818182,20.0,P2
+micro avg,0.28,0.28,0.28,50.0,P2
+macro avg,0.3047008547008547,0.2911111111111111,0.24767676767676766,50.0,P2
+weighted avg,0.6144871794871795,0.28,0.282060606060606,50.0,P2

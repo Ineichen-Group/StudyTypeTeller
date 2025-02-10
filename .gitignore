@@ -19,3 +19,6 @@ models/transformers/checkpoints/binary/models
 models/transformers/checkpoints/multi/models
 models/transformers/checkpoints
 
+models/transformers/checkpoints/rerun_finetuning_19-06-24/binary/models
+models/transformers/checkpoints/rerun_finetuning_19-06-24/multi/models
+

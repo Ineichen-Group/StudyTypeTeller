@@ -1,0 +1,19 @@
+{
+  "prompts": [
+    {
+      "id": "P1",
+      "text": "Classify this text, choosing one of these labels: 'ANIMAL' if the text is related to animal, and 'OTHER' for any other study type. Respond in json format with the key: gpt_label.",
+      "strategy_type": "zero_shot"
+    },
+    {
+      "id": "P2",
+      "text": "Please classify the provided text by selecting the appropriate label. Use the label 'ANIMAL' if the text discusses anything related to animals, and 'OTHER' for all other types of content. Provide your response in JSON format using the key gpt_label. For instance, if the text is about animals, your response should be {gpt_label: ANIMAL}.",
+      "strategy_type": "zero_shot"
+    },
+    {
+      "id": "P3",
+      "text": "Please classify the provided text by selecting the appropriate label. Use the label 'ANIMAL' if the text discusses anything related to animal research, such as summary of animal studies, studies testing interventions on animals, and any other studies involving animals. Use 'OTHER' for all other research types, such as human clinical trials, reviews, or theoretical studies. Provide your response in JSON format using the key gpt_label. For instance, if the text is about animals, your response should be {gpt_label: ANIMAL}.",
+      "strategy_type": "zero_shot"
+    }
+  ]
+}

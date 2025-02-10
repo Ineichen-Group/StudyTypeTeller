@@ -159,6 +159,7 @@ weighted avg       0.84      0.84      0.84       534
    macro avg       0.77      0.78      0.77       534
 weighted avg       0.79      0.79      0.79       534
 
+<<<<<<< HEAD
 2024-06-27 16:31:01,198 - INFO - Evaluating biobert
 2024-06-27 16:31:06,533 - INFO - Model: dmis-lab/biobert-v1.1
               precision    recall  f1-score   support
@@ -182,3 +183,5 @@ weighted avg       0.79      0.79      0.79       534
    macro avg       0.84      0.84      0.84       534
 weighted avg       0.86      0.86      0.86       534
 
+=======
+>>>>>>> ca73e81747c83c8ac6dbbcfb270e90584258b544

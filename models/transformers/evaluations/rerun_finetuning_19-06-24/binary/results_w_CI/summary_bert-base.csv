@@ -1,0 +1,2 @@
+,precision,precision CI,recall,recall CI,f1-score,f1-score CI,accuracy,accuracy CI
+0,0.966,"(0.951, 0.977)",0.961,"(0.942, 0.976)",0.962,"(0.945, 0.976)",0.961,"(0.942, 0.976)"

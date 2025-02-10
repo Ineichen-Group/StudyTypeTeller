@@ -1,0 +1,535 @@
+,Unnamed: 0,pmid,accepted_label,multi_label,gpt_3_predictions_P2_HIERARCHY,gpt_3_predictions_P2_HIERARCHY_numerical,gpt_4_predictions_P2_HIERARCHY,gpt_4_predictions_P2_HIERARCHY_numerical
+0,0,32147509,Non-systematic-review,1,Animal-other,5,Animal-systematic-review,7
+1,1,16312938,Non-systematic-review,1,Animal-non-drug-intervention,10,Animal-other,5
+2,2,23811310,Non-systematic-review,1,Animal-other,5,Animal-other,5
+3,3,33846423,Remaining,0,Animal-other,5,Animal-other,5
+4,4,11909745,Remaining,0,Animal-other,5,Animal-other,5
+5,5,31852295,In-vitro-study,8,Animal-non-drug-intervention,10,In-vitro-study,8
+6,6,22975132,In-vitro-study,8,Animal-other,5,Animal-other,5
+7,7,19630956,In-vitro-study,8,Animal-other,5,Animal-other,5
+8,8,23386689,In-vitro-study,8,Animal-drug-intervention,6,Remaining,0
+9,9,8544909,In-vitro-study,8,Animal-other,5,Animal-other,5
+10,10,11775071,In-vitro-study,8,Animal-other,5,In-vitro-study,8
+11,11,27983922,In-vitro-study,8,Animal-other,5,Remaining,0
+12,12,35968702,Human-systematic-review,7,Animal-systematic-review,7,Animal-systematic-review,7
+13,13,1506887,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-non-drug-intervention,10
+14,14,33243690,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+15,15,6541614,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+16,16,32938453,Animal-drug-intervention,6,Animal-other,5,Animal-other,5
+17,17,21796107,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+18,18,15465624,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+19,19,6443185,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+20,20,23094836,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+21,21,24497025,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+22,22,27768761,Animal-drug-intervention,6,Animal-drug-intervention,6,Human-non-RCT-drug-intervention,3
+23,23,26520066,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+24,24,19198615,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+25,25,23659448,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+26,26,33468172,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+27,27,21741993,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+28,28,825883,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-other,5
+29,29,33762687,Animal-drug-intervention,6,Animal-other,5,Animal-other,5
+30,30,23771672,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+31,31,26852943,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+32,32,32750380,Animal-drug-intervention,6,Animal-other,5,Animal-other,5
+33,33,11593032,Animal-drug-intervention,6,Animal-drug-intervention,6,In-vitro-study,8
+34,34,19672228,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+35,35,35955753,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+36,36,31404565,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+37,37,22086360,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+38,38,20074673,Animal-drug-intervention,6,Animal-drug-intervention,6,In-vitro-study,8
+39,39,23996345,Animal-drug-intervention,6,Animal-drug-intervention,6,Human-non-RCT-drug-intervention,3
+40,40,6141275,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-other,5
+41,41,20430438,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+42,42,15787692,Animal-drug-intervention,6,Animal-drug-intervention,6,Animal-drug-intervention,6
+43,43,15344922,Animal-other,5,Animal-other,5,Animal-other,5
+44,44,15252287,Animal-other,5,Animal-other,5,Animal-drug-intervention,6
+45,45,15365721,Animal-other,5,Animal-other,5,Animal-other,5
+46,46,6789348,Animal-other,5,Animal-drug-intervention,6,Animal-drug-intervention,6
+47,47,36724557,Animal-other,5,Animal-other,5,Animal-other,5
+48,48,33646155,Animal-other,5,Animal-other,5,Animal-other,5
+49,49,37578236,Animal-other,5,Animal-other,5,Animal-other,5
+50,50,4542033,Animal-other,5,Animal-other,5,Animal-other,5
+51,51,35839930,Animal-other,5,Animal-other,5,Animal-other,5
+52,52,32514154,Animal-other,5,Animal-other,5,Animal-other,5
+53,53,35410629,Animal-other,5,Animal-other,5,Animal-other,5
+54,54,28552947,Animal-other,5,Animal-other,5,Animal-other,5
+55,55,27470171,Animal-other,5,Animal-other,5,Animal-other,5
+56,56,35598655,Animal-other,5,Animal-other,5,In-vitro-study,8
+57,57,33863723,Animal-other,5,Animal-other,5,In-vitro-study,8
+58,58,2840539,Animal-other,5,Animal-drug-intervention,6,In-vitro-study,8
+59,59,18606868,Animal-other,5,Animal-other,5,Animal-other,5
+60,60,6619955,Animal-other,5,Animal-other,5,Animal-other,5
+61,61,24656518,Animal-other,5,Animal-drug-intervention,6,Animal-drug-intervention,6
+62,62,1327351,Animal-other,5,Animal-other,5,Animal-other,5
+63,63,32918104,Animal-other,5,Animal-other,5,Animal-other,5
+64,64,1649899,Animal-other,5,Animal-other,5,Animal-other,5
+65,65,9126189,Animal-other,5,Animal-other,5,Animal-other,5
+66,66,7732774,Animal-other,5,Animal-other,5,Animal-other,5
+67,67,15680341,Animal-other,5,Animal-drug-intervention,6,Animal-other,5
+68,68,21668435,Animal-other,5,Animal-other,5,Animal-other,5
+69,69,31738162,Animal-other,5,Animal-other,5,Remaining,0
+70,70,35036927,Animal-other,5,Animal-other,5,Remaining,0
+71,71,8387729,Animal-other,5,Animal-drug-intervention,6,In-vitro-study,8
+72,72,37326915,Animal-other,5,Animal-other,5,Animal-other,5
+73,73,38538761,Animal-other,5,Animal-other,5,Animal-other,5
+74,74,16537997,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+75,75,36370926,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+76,76,37211337,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+77,77,36377657,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+78,78,33731766,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+79,79,1424704,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-drug-intervention,6
+80,80,33866227,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+81,81,15807099,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+82,82,6475578,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+83,83,23939879,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-drug-intervention,6
+84,84,7964992,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+85,85,30232364,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+86,86,27720992,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,In-vitro-study,8
+87,87,21851183,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+88,88,15476533,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10,Animal-non-drug-intervention,10
+89,89,25402009,Animal-non-drug-intervention,10,Animal-other,5,Animal-other,5
+90,90,12047012,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+91,91,28832188,Non-systematic-review,1,Non-systematic-review,1,Remaining,0
+92,92,17678496,Non-systematic-review,1,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+93,93,25649308,Non-systematic-review,1,Non-systematic-review,1,Human-systematic-review,7
+94,94,6312596,Non-systematic-review,1,Non-systematic-review,1,Remaining,0
+95,95,37459647,Non-systematic-review,1,Non-systematic-review,1,In-vitro-study,8
+96,96,9193127,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+97,97,3306750,Non-systematic-review,1,Remaining,0,Remaining,0
+98,98,19491314,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+99,99,27638306,Non-systematic-review,1,Non-systematic-review,1,Human-systematic-review,7
+100,100,9267730,Non-systematic-review,1,Remaining,0,Remaining,0
+101,101,29063964,Non-systematic-review,1,Non-systematic-review,1,Human-systematic-review,7
+102,102,12207853,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+103,103,401921,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+104,104,18787971,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+105,105,19404652,Non-systematic-review,1,Non-systematic-review,1,Remaining,0
+106,106,34120128,Non-systematic-review,1,Non-systematic-review,1,Remaining,0
+107,107,15002343,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+108,108,17568334,Non-systematic-review,1,Human-case-report,4,Human-case-report,4
+109,109,7401856,Non-systematic-review,1,Human-case-report,4,Remaining,0
+110,110,18998206,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-drug-intervention,3
+111,111,11206029,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+112,112,8240570,Non-systematic-review,1,Human-case-report,4,Human-case-report,4
+113,113,16857575,Non-systematic-review,1,Remaining,0,Human-non-RCT-drug-intervention,3
+114,114,32134887,Non-systematic-review,1,Remaining,0,Remaining,0
+115,115,8781644,Non-systematic-review,1,Remaining,0,Remaining,0
+116,116,26890312,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-drug-intervention,3
+117,117,10410848,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-drug-intervention,3
+118,118,2366164,Non-systematic-review,1,Non-systematic-review,1,Remaining,0
+119,119,26166654,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+120,120,7494943,Non-systematic-review,1,Remaining,0,Remaining,0
+121,121,25351111,Non-systematic-review,1,Remaining,0,Human-non-RCT-non-drug-intervention,2
+122,122,2744979,Non-systematic-review,1,Remaining,0,Non-systematic-review,1
+123,123,21387692,Non-systematic-review,1,Remaining,0,Remaining,0
+124,124,1968717,Non-systematic-review,1,Remaining,0,Remaining,0
+125,125,3489155,Non-systematic-review,1,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2
+126,126,11077858,Non-systematic-review,1,Remaining,0,Remaining,0
+127,127,15175528,Non-systematic-review,1,Remaining,0,Remaining,0
+128,128,30291873,Non-systematic-review,1,Non-systematic-review,1,Remaining,0
+129,129,8800803,Non-systematic-review,1,Remaining,0,Remaining,0
+130,130,28091879,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-drug-intervention,3
+131,131,22377864,Non-systematic-review,1,Remaining,0,Remaining,0
+132,132,2562495,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-drug-intervention,3
+133,133,18379746,Non-systematic-review,1,Non-systematic-review,1,Remaining,0
+134,134,27264140,Non-systematic-review,1,Remaining,0,Remaining,0
+135,135,17364777,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+136,136,28341420,Non-systematic-review,1,Non-systematic-review,1,Human-systematic-review,7
+137,137,2694530,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-drug-intervention,3
+138,138,32213570,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-drug-intervention,3
+139,139,21303234,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+140,140,21902053,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+141,141,3426206,Non-systematic-review,1,Remaining,0,Remaining,0
+142,142,10494527,Non-systematic-review,1,Remaining,0,Remaining,0
+143,143,21714358,Non-systematic-review,1,Non-systematic-review,1,Human-RCT-non-drug-intervention,9
+144,144,23095594,Non-systematic-review,1,Human-case-report,4,Human-non-RCT-non-drug-intervention,2
+145,145,10181464,Non-systematic-review,1,Remaining,0,Remaining,0
+146,146,33947273,Non-systematic-review,1,Remaining,0,Non-systematic-review,1
+147,147,29450726,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+148,148,14604504,Non-systematic-review,1,Remaining,0,Non-systematic-review,1
+149,149,29879331,Non-systematic-review,1,Non-systematic-review,1,Remaining,0
+150,150,2664852,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+151,151,29462105,Non-systematic-review,1,Human-case-report,4,Human-case-report,4
+152,152,23265360,Non-systematic-review,1,Remaining,0,Remaining,0
+153,153,27040285,Non-systematic-review,1,Non-systematic-review,1,Human-systematic-review,7
+154,154,33922322,Non-systematic-review,1,Non-systematic-review,1,Human-systematic-review,7
+155,155,15853502,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-drug-intervention,3
+156,156,26022165,Non-systematic-review,1,Non-systematic-review,1,Non-systematic-review,1
+157,157,21885540,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-non-drug-intervention,2
+158,158,16333492,Non-systematic-review,1,Human-case-report,4,Human-case-report,4
+159,159,16444349,Non-systematic-review,1,Non-systematic-review,1,Remaining,0
+160,160,31506009,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-non-drug-intervention,2
+161,161,24697248,Non-systematic-review,1,Non-systematic-review,1,Human-non-RCT-drug-intervention,3
+162,162,27618799,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-drug-intervention,11
+163,163,1592254,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-drug-intervention,11
+164,164,35287133,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+165,165,18087209,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+166,166,4646510,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+167,167,20955603,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+168,168,36508394,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+169,169,37787796,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+170,170,31685285,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+171,171,11142535,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+172,172,22399019,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+173,173,19812460,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+174,174,24502822,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+175,175,28576629,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+176,176,28142397,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+177,177,21922877,Human-RCT-non-drug-intervention,9,"Human, RCT drug-intervention",11,Human-RCT-drug-intervention,11
+178,178,24103190,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-intervention,13
+179,179,11246648,Human-RCT-non-drug-intervention,9,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+180,180,1359657,Remaining,0,Human-case-report,4,Human-case-report,4
+181,181,3206055,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+182,182,21602685,Remaining,0,Non-systematic-review,1,Non-systematic-review,1
+183,183,19728219,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+184,184,34006885,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+185,185,32446556,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+186,186,11904752,Remaining,0,Remaining,0,Remaining,0
+187,187,27534431,Remaining,0,In-vitro study,8,Animal-other,5
+188,188,35288616,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+189,189,3383095,Remaining,0,Human-case-report,4,Human-case-report,4
+190,190,27244063,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+191,191,31177578,Remaining,0,Human-case-report,4,Human-case-report,4
+192,192,539570,Remaining,0,Remaining,0,Human-case-report,4
+193,193,34182963,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+194,194,27503465,Remaining,0,Remaining,0,Remaining,0
+195,195,25496414,Remaining,0,Human-case-report,4,Remaining,0
+196,196,28627925,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+197,197,35871348,Remaining,0,Remaining,0,Remaining,0
+198,198,29915258,Remaining,0,Remaining,0,In-vitro-study,8
+199,199,8264869,Remaining,0,Human-case-report,4,Remaining,0
+200,200,33484326,Remaining,0,Human-case-report,4,Human-case-report,4
+201,201,35962220,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+202,202,12645093,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+203,203,29450838,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+204,204,37495977,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+205,205,32759986,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+206,206,12679234,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+207,207,16737451,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+208,208,28097788,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+209,209,8497646,Remaining,0,Remaining,0,Remaining,0
+210,210,17766726,Remaining,0,Remaining,0,Remaining,0
+211,211,25754495,Remaining,0,Remaining,0,Remaining,0
+212,212,27035548,Remaining,0,Remaining,0,Remaining,0
+213,213,8291133,Remaining,0,Remaining,0,Animal-other,5
+214,214,29040911,Remaining,0,Remaining,0,In-vitro-study,8
+215,215,15221931,Remaining,0,Remaining,0,Animal-other,5
+216,216,30468246,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+217,217,3522814,Remaining,0,Human-non-RCT-drug-intervention,3,Remaining,0
+218,218,2461673,Remaining,0,Human-case-report,4,Human-case-report,4
+219,219,8129058,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+220,220,21954106,Remaining,0,Remaining,0,Remaining,0
+221,221,22954836,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+222,222,12045804,Remaining,0,Remaining,0,Remaining,0
+223,223,37369805,Remaining,0,In-vitro study,8,Remaining,0
+224,224,1122897,Remaining,0,Human-case-report,4,Human-case-report,4
+225,225,27785533,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+226,226,32563266,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+227,227,15118119,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+228,228,32623545,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+229,229,35332187,Remaining,0,Remaining,0,Remaining,0
+230,230,9560069,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Remaining,0
+231,231,17287644,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+232,232,18256970,Remaining,0,Remaining,0,Non-systematic-review,1
+233,233,1581789,Remaining,0,Remaining,0,Remaining,0
+234,234,15926646,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+235,235,28693402,Remaining,0,Human-case-report,4,Remaining,0
+236,236,29039020,Remaining,0,Remaining,0,Human-systematic-review,7
+237,237,29288994,Remaining,0,Remaining,0,In-vitro-study,8
+238,238,3189332,Remaining,0,Remaining,0,Remaining,0
+239,239,23629739,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+240,240,28428190,Remaining,0,Remaining,0,Remaining,0
+241,241,22560407,Remaining,0,Remaining,0,Human-case-report,4
+242,242,16546355,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+243,243,2956306,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+244,244,20640503,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+245,245,33130675,Remaining,0,Remaining,0,Remaining,0
+246,246,7625228,Remaining,0,Remaining,0,Remaining,0
+247,247,7775177,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+248,248,11596825,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+249,249,20860567,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+250,250,14757298,Remaining,0,Remaining,0,Human-case-report,4
+251,251,11580007,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+252,252,17018553,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-RCT-non-drug-intervention,9
+253,253,8546853,Remaining,0,Remaining,0,Human-case-report,4
+254,254,9268814,Remaining,0,Remaining,0,Remaining,0
+255,255,11523839,Remaining,0,Remaining,0,Remaining,0
+256,256,8561201,Remaining,0,Remaining,0,Remaining,0
+257,257,8510058,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+258,258,19176415,Remaining,0,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2
+259,259,2303571,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+260,260,23788398,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+261,261,29067401,Remaining,0,Remaining,0,Remaining,0
+262,262,18042234,Remaining,0,Human-case-report,4,Human-case-report,4
+263,263,28089985,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Human-case-report,4
+264,264,18488127,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+265,265,30700595,Remaining,0,Remaining,0,Remaining,0
+266,266,21280167,Remaining,0,Human-non-RCT-non-drug-intervention,2,Non-systematic-review,1
+267,267,16001444,Remaining,0,"Human, case report",4,Human-case-report,4
+268,268,34852344,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Remaining,0
+269,269,1274703,Remaining,0,Human-case-report,4,Human-case-report,4
+270,270,22910836,Remaining,0,Human-systematic-review,7,Human-systematic-review,7
+271,271,10829805,Remaining,0,Human-case-report,4,Remaining,0
+272,272,1358438,Remaining,0,Remaining,0,Remaining,0
+273,273,25080285,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-systematic-review,7
+274,274,8733222,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+275,275,18227418,Remaining,0,Human-case-report,4,Human-case-report,4
+276,276,31414355,Remaining,0,Remaining,0,Remaining,0
+277,277,15206562,Remaining,0,Human-case-report,4,Human-case-report,4
+278,278,36067424,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+279,279,11385005,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Human-case-report,4
+280,280,23524624,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+281,281,24828314,Remaining,0,Human-case-report,4,Human-case-report,4
+282,282,11514259,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+283,283,32721633,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+284,284,6812391,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+285,285,18832663,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+286,286,18491223,Remaining,0,Remaining,0,Human-case-report,4
+287,287,10745181,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+288,288,27349722,Remaining,0,Remaining,0,Remaining,0
+289,289,32000208,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+290,290,31570200,Remaining,0,Remaining,0,Remaining,0
+291,291,17241214,Remaining,0,Human-case-report,4,Human-case-report,4
+292,292,8011818,Remaining,0,"Human, case report",4,Remaining,0
+293,293,2018095,Remaining,0,Human-case-report,4,Remaining,0
+294,294,32198120,Remaining,0,Human-case-report,4,Human-non-RCT-non-drug-intervention,2
+295,295,28691134,Remaining,0,Remaining,0,Human-case-report,4
+296,296,31330239,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+297,297,24254639,Remaining,0,Remaining,0,Non-systematic-review,1
+298,298,23312396,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+299,299,27527755,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+300,300,36314672,Remaining,0,Remaining,0,Animal-other,5
+301,301,32103506,Remaining,0,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2
+302,302,30766591,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Human-case-report,4
+303,303,3610529,Remaining,0,Remaining,0,Non-systematic-review,1
+304,304,3421352,Remaining,0,Remaining,0,Remaining,0
+305,305,14628940,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Remaining,0
+306,306,17630257,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+307,307,27405098,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+308,308,3060558,Remaining,0,Remaining,0,Remaining,0
+309,309,6799631,Remaining,0,Human-case-report,4,Remaining,0
+310,310,29531139,Remaining,0,Remaining,0,Remaining,0
+311,311,2634817,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+312,312,11563798,Remaining,0,Remaining,0,Remaining,0
+313,313,33428336,Remaining,0,Remaining,0,In-vitro-study,8
+314,314,19734013,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+315,315,22843258,Remaining,0,Remaining,0,Remaining,0
+316,316,15957200,Remaining,0,Remaining,0,Human-case-report,4
+317,317,1351342,Remaining,0,Remaining,0,Remaining,0
+318,318,33034830,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+319,319,10858008,Remaining,0,Remaining,0,Remaining,0
+320,320,34057668,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+321,321,28274150,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+322,322,28805936,Remaining,0,Remaining,0,Remaining,0
+323,323,22757585,Remaining,0,Remaining,0,In-vitro-study,8
+324,324,7305695,Remaining,0,Human-case-report,4,Human-case-report,4
+325,325,23227749,Remaining,0,Remaining,0,Remaining,0
+326,326,18978724,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+327,327,28224345,Remaining,0,Remaining,0,Remaining,0
+328,328,8634037,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Remaining,0
+329,329,33421355,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-systematic-review,7
+330,330,2125805,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+331,331,27180692,Remaining,0,Remaining,0,Remaining,0
+332,332,37905374,Remaining,0,Remaining,0,Remaining,0
+333,333,10541600,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+334,334,16043811,Remaining,0,Human-case-report,4,Remaining,0
+335,335,8970655,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+336,336,9751440,Remaining,0,Human-case-report,4,Remaining,0
+337,337,22241258,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Remaining,0
+338,338,23149030,Remaining,0,Remaining,0,Remaining,0
+339,339,33764656,Remaining,0,Remaining,0,Remaining,0
+340,340,30848979,Remaining,0,Human-non-RCT-non-drug-intervention,2,Remaining,0
+341,341,12206066,Remaining,0,Remaining,0,Remaining,0
+342,342,30677716,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+343,343,15291713,Remaining,0,Remaining,0,Remaining,0
+344,344,30597295,Remaining,0,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+345,345,36146383,Remaining,0,Remaining,0,Remaining,0
+346,346,25975166,Remaining,0,Remaining,0,Remaining,0
+347,347,1910699,Remaining,0,Remaining,0,Remaining,0
+348,348,28419491,Remaining,0,Remaining,0,Human-non-RCT-non-drug-intervention,2
+349,349,32929643,Remaining,0,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+350,350,24036210,In-vitro-study,8,In-vitro study,8,Animal-other,5
+351,351,14655759,In-vitro-study,8,In-vitro study,8,Human-non-RCT-drug-intervention,3
+352,352,1720637,In-vitro-study,8,In-vitro study,8,In-vitro-study,8
+353,353,34477946,In-vitro-study,8,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+354,354,28923314,In-vitro-study,8,In-vitro study,8,Animal-other,5
+355,355,27030558,In-vitro-study,8,In-vitro study,8,In-vitro-study,8
+356,356,26568330,In-vitro-study,8,In-vitro study,8,In-vitro-study,8
+357,357,23926278,In-vitro-study,8,In-vitro study,8,In-vitro-study,8
+358,358,18375019,In-vitro-study,8,In-vitro study,8,In-vitro-study,8
+359,359,22420547,In-vitro-study,8,In-vitro study,8,Animal-drug-intervention,6
+360,360,19222703,In-vitro-study,8,In-vitro study,8,In-vitro-study,8
+361,361,23047912,In-vitro-study,8,In-vitro study,8,In-vitro-study,8
+362,362,11494030,In-vitro-study,8,In-vitro study,8,In-vitro-study,8
+363,363,16332401,In-vitro-study,8,In-vitro study,8,In-vitro-study,8
+364,364,17054228,Human-systematic-review,7,Human-systematic-review,7,Human-RCT-non-drug-intervention,9
+365,365,34193113,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+366,366,8428898,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+367,367,31945584,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+368,368,24746530,Human-systematic-review,7,Human-systematic-review,7,Human-systematic-review,7
+369,369,30852930,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+370,370,33527885,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+371,371,37564014,Human-systematic-review,7,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+372,372,37860852,Human-systematic-review,7,Human-systematic-review,7,Human-systematic-review,7
+373,373,12917950,Human-systematic-review,7,Human-systematic-review,7,Human-RCT-drug-intervention,11
+374,374,32047067,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+375,375,38343329,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+376,376,34569865,Human-systematic-review,7,Human-systematic-review,7,Human-systematic-review,7
+377,377,31276598,Human-systematic-review,7,Human-systematic-review,7,Human-systematic-review,7
+378,378,36924042,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+379,379,25740785,Human-systematic-review,7,Human-systematic-review,7,Human-systematic-review,7
+380,380,24984052,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+381,381,30205256,Human-systematic-review,7,Human-systematic-review,7,Human-systematic-review,7
+382,382,32967293,Human-systematic-review,7,Human-systematic-review,7,Human-systematic-review,7
+383,383,28031406,Human-systematic-review,7,"Human, systematic review",7,Human-systematic-review,7
+384,384,35288967,Human-systematic-review,7,Human-systematic-review,7,Human-systematic-review,7
+385,385,6315428,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3
+386,386,18586813,Human-non-RCT-non-drug-intervention,2,"Human, RCT non-drug-intervention",9,Human-non-RCT-non-drug-intervention,2
+387,387,503829,Human-non-RCT-non-drug-intervention,2,Human-case-report,4,Human-case-report,4
+388,388,2759575,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Remaining,0
+389,389,10431565,Human-non-RCT-non-drug-intervention,2,Remaining,0,Remaining,0
+390,390,33054545,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+391,391,9141543,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+392,392,30846275,Human-non-RCT-non-drug-intervention,2,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+393,393,18930560,Human-non-RCT-non-drug-intervention,2,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+394,394,20070414,Human-non-RCT-non-drug-intervention,2,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+395,395,7945010,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+396,396,22120272,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Remaining,0
+397,397,31564448,Human-non-RCT-non-drug-intervention,2,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+398,398,8687254,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+399,399,19482236,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+400,400,24355148,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+401,401,25622273,Human-non-RCT-non-drug-intervention,2,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+402,402,27440364,Human-non-RCT-non-drug-intervention,2,Remaining,0,Remaining,0
+403,403,34894769,Human-non-RCT-non-drug-intervention,2,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+404,404,37199161,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+405,405,21107143,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+406,406,8674522,Human-non-RCT-non-drug-intervention,2,"Human, Non-RCT non-drug-intervention",2,Remaining,0
+407,407,16096861,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+408,408,25069902,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+409,409,23909246,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+410,410,7002247,Human-non-RCT-non-drug-intervention,2,"Human, RCT non-drug-intervention",9,Human-non-RCT-non-drug-intervention,2
+411,411,27692730,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+412,412,6380301,Human-non-RCT-non-drug-intervention,2,"Human, RCT non-drug-intervention",9,Human-non-RCT-non-drug-intervention,2
+413,413,18007122,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+414,414,3268267,Human-non-RCT-non-drug-intervention,2,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+415,415,15369417,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+416,416,17581446,Human-non-RCT-non-drug-intervention,2,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+417,417,33959771,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2
+418,418,24021522,Human-non-RCT-non-drug-intervention,2,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-non-drug-intervention,2
+419,419,33689536,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+420,420,29236921,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+421,421,29030455,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Remaining,0
+422,422,28927961,Human-non-RCT-non-drug-intervention,2,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+423,423,30303262,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+424,424,19146787,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+425,425,19445364,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+426,426,25856530,Human-non-RCT-non-drug-intervention,2,Human-case-report,4,Human-case-report,4
+427,427,18262763,Human-case-report,4,Human-case-report,4,Human-case-report,4
+428,428,17698712,Human-case-report,4,Human-case-report,4,Human-case-report,4
+429,429,9490907,Human-case-report,4,Human-case-report,4,Human-case-report,4
+430,430,12856230,Human-case-report,4,Human-case-report,4,Human-case-report,4
+431,431,33937974,Human-case-report,4,Human-case-report,4,Remaining,0
+432,432,33789074,Human-case-report,4,Human-case-report,4,Human-case-report,4
+433,433,16322902,Human-case-report,4,Human-case-report,4,Human-case-report,4
+434,434,9874554,Human-case-report,4,Human-case-report,4,Human-case-report,4
+435,435,37840138,Human-case-report,4,Human-case-report,4,Human-case-report,4
+436,436,10025430,Human-case-report,4,Human-case-report,4,Human-case-report,4
+437,437,26847429,Human-case-report,4,Human-case-report,4,Human-case-report,4
+438,438,28248914,Human-case-report,4,Human-case-report,4,Human-case-report,4
+439,439,25920574,Human-case-report,4,Human case report,4,Human-case-report,4
+440,440,25305754,Human-case-report,4,Human-case-report,4,Human-case-report,4
+441,441,15617602,Human-case-report,4,Human-case-report,4,Human-case-report,4
+442,442,17883529,Human-case-report,4,Human-case-report,4,Human-case-report,4
+443,443,18802664,Human-case-report,4,Human case report,4,Human-case-report,4
+444,444,7565833,Human-case-report,4,Human-case-report,4,Human-case-report,4
+445,445,26179932,Human-case-report,4,Human-case-report,4,Human-case-report,4
+446,446,35049207,Human-case-report,4,Human-case-report,4,Human-case-report,4
+447,447,12208012,Human-case-report,4,Human-case-report,4,Human-case-report,4
+448,448,2282616,Human-case-report,4,Human-case-report,4,Human-case-report,4
+449,449,12027574,Human-case-report,4,Human-case-report,4,Human-case-report,4
+450,450,28684367,Human-case-report,4,Human-case-report,4,Human-case-report,4
+451,451,34460886,Human-case-report,4,Human-case-report,4,Human-case-report,4
+452,452,33598364,Human-case-report,4,Human-case-report,4,Human-case-report,4
+453,453,25651393,Human-case-report,4,Human-case-report,4,Human-case-report,4
+454,454,1523976,Human-case-report,4,Human-case-report,4,Human-case-report,4
+455,455,34362322,Human-case-report,4,Human-case-report,4,Human-case-report,4
+456,456,22182460,Human-case-report,4,Human-case-report,4,Human-case-report,4
+457,457,28954634,Human-case-report,4,Human-case-report,4,Human-case-report,4
+458,458,34766639,Human-case-report,4,Human-case-report,4,Human-case-report,4
+459,459,22978465,Human-case-report,4,Human-case-report,4,Human-case-report,4
+460,460,24145687,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Human-case-report,4
+461,461,19435588,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Remaining,0
+462,462,15580211,Human-non-RCT-drug-intervention,3,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11
+463,463,10847312,Human-non-RCT-drug-intervention,3,Human-case-report,4,Human-case-report,4
+464,464,11379844,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Human-non-RCT-drug-intervention,3
+465,465,34477852,Human-non-RCT-drug-intervention,3,"Human, Non-RCT non-drug-intervention",2,Human-non-RCT-drug-intervention,3
+466,466,34665205,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Human-non-RCT-drug-intervention,3
+467,467,7599368,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3
+468,468,20629611,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+469,469,8788082,Human-non-RCT-drug-intervention,3,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11
+470,470,33273050,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2
+471,471,8422739,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3
+472,472,29768955,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Human-non-RCT-drug-intervention,3
+473,473,23943341,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Human-non-RCT-non-drug-intervention,2
+474,474,21873835,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3
+475,475,7862905,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3
+476,476,9627929,Human-non-RCT-drug-intervention,3,Remaining,0,Human-non-RCT-drug-intervention,3
+477,477,9109103,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Remaining,0
+478,478,9339867,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Human-non-RCT-drug-intervention,3
+479,479,31132877,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+480,480,8170770,Human-non-RCT-drug-intervention,3,Human-RCT-drug-intervention,11,Human-non-RCT-drug-intervention,3
+481,481,2884555,Human-non-RCT-drug-intervention,3,Remaining,0,Human-RCT-drug-intervention,11
+482,482,23318473,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3
+483,483,16958574,Human-non-RCT-drug-intervention,3,Human-case-report,4,Human-case-report,4
+484,484,16595989,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3
+485,485,30625491,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2
+486,486,29192863,Human-non-RCT-drug-intervention,3,Human-case-report,4,Remaining,0
+487,487,26513639,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Remaining,0
+488,488,9309469,Human-non-RCT-drug-intervention,3,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11
+489,489,19342103,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Human-non-RCT-non-drug-intervention,2
+490,490,10937606,Human-non-RCT-drug-intervention,3,"Human, Non-RCT drug-intervention",3,Human-non-RCT-drug-intervention,3
+491,491,3625187,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Remaining,0
+492,492,37336053,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+493,493,30282491,Human-non-RCT-drug-intervention,3,Human-non-RCT-non-drug-intervention,2,Remaining,0
+494,494,14673555,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Remaining,0
+495,495,15323592,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3
+496,496,25037206,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11
+497,497,1780420,Human-RCT-drug-intervention,11,"Human, RCT drug-intervention",11,Human-non-RCT-non-drug-intervention,2
+498,498,11015815,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11
+499,499,12364843,Human-RCT-drug-intervention,11,"Human, RCT drug-intervention",11,Human-RCT-drug-intervention,11
+500,500,13680082,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11
+501,501,16476809,Human-RCT-drug-intervention,11,"Human, RCT drug-intervention",11,Human-RCT-drug-intervention,11
+502,502,25241758,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11
+503,503,16291885,Human-RCT-drug-intervention,11,"Human, RCT drug-intervention",11,Human-RCT-drug-intervention,11
+504,504,10867450,Human-RCT-drug-intervention,11,"Human, RCT drug-intervention",11,Human-RCT-drug-intervention,11
+505,505,11279969,Human-RCT-drug-intervention,11,"Human, RCT drug-intervention",11,Human-RCT-drug-intervention,11
+506,506,37041092,Human-RCT-drug-intervention,11,"Human, RCT drug-intervention",11,Human-RCT-drug-intervention,11
+507,507,24994555,Human-RCT-drug-intervention,11,"Human, RCT drug-intervention",11,Human-RCT-drug-intervention,11
+508,508,6805002,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11
+509,509,14617718,Human-RCT-drug-intervention,11,"Human, RCT drug-intervention",11,Human-RCT-drug-intervention,11
+510,510,15960563,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11,Human-RCT-drug-intervention,11
+511,511,27965787,Clinical-study-protocol,12,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+512,512,27756441,Clinical-study-protocol,12,"Human, RCT non-drug-intervention",9,Clinical-study-protocol,12
+513,513,35793342,Clinical-study-protocol,12,"Human, RCT non-drug-intervention",9,Animal-non-drug-intervention,10
+514,514,18426567,Clinical-study-protocol,12,Study protocol,12,Clinical-study-protocol,12
+515,515,35295452,Clinical-study-protocol,12,Clinical-study-protocol,12,Clinical-study-protocol,12
+516,516,33371624,Clinical-study-protocol,12,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+517,517,35002831,Clinical-study-protocol,12,Clinical-study-protocol,12,Clinical-study-protocol,12
+518,518,34598981,Clinical-study-protocol,12,Clinical-study-protocol,12,Clinical-study-protocol,12
+519,519,18294375,Clinical-study-protocol,12,Clinical-study-protocol,12,Clinical-study-protocol,12
+520,520,18495031,Clinical-study-protocol,12,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+521,521,26582408,Clinical-study-protocol,12,Clinical-study-protocol,12,Clinical-study-protocol,12
+522,522,37369561,Clinical-study-protocol,12,Clinical-study-protocol,12,Clinical-study-protocol,12
+523,523,34374162,Human-RCT-non-intervention,13,"Human, RCT non-drug-intervention",9,Human-RCT-non-drug-intervention,9
+524,524,18586994,Human-RCT-non-intervention,13,"Human, RCT non-drug-intervention",9,Human-RCT-non-intervention,13
+525,525,17728427,Human-RCT-non-intervention,13,Human-non-RCT-drug-intervention,3,Human-non-RCT-drug-intervention,3
+526,526,15375100,Human-RCT-non-intervention,13,"Human, RCT non-drug-intervention",9,Human-RCT-non-intervention,13
+527,527,24920862,Human-RCT-non-intervention,13,Human-non-RCT-non-drug-intervention,2,Animal-other,5
+528,528,31615771,Human-RCT-non-intervention,13,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+529,529,24507711,Human-RCT-non-intervention,13,Human-non-RCT-non-drug-intervention,2,Remaining,0
+530,530,28063795,Human-RCT-non-intervention,13,"Human, RCT non-drug-intervention",9,Human-RCT-drug-intervention,11
+531,531,35488938,Human-RCT-non-intervention,13,Human-non-RCT-non-drug-intervention,2,Human-non-RCT-non-drug-intervention,2
+532,532,16158009,Human-RCT-non-intervention,13,Human-non-RCT-non-drug-intervention,2,Human-case-report,4
+533,533,24075291,Human-RCT-non-intervention,13,Remaining,0,Human-RCT-drug-intervention,11
