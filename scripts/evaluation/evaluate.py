@@ -58,11 +58,6 @@ def load_test_data(data_dir, model_name, classification_type):
 
         if 'keywords' in row and pd.notna(row['keywords']):
             text_parts.extend(row['keywords'].split('|'))
-        # text_parts = [str(row['journal_name']), str(row['title']), str(row['abstract'])]
-        # keywords = row['keywords']
-        # if pd.notna(keywords):
-        #     keywords_list = keywords.split('|')
-        #     text_parts.extend(keywords_list)
         return ' '.join(text_parts)
 
     test_df['text'] = test_df.apply(concatenate_text, axis=1)
@@ -115,7 +110,7 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger, class
     os.makedirs(class_report_dir, exist_ok=True)
     with open(os.path.join(class_report_dir, f'{short_model_name}.txt'), 'w') as f:
         f.write(classification_report_str)
-    
+
     # confusion matrix
     conf_matrix = confusion_matrix(true_labels, predictions)
     conf_matrix_norm = conf_matrix.astype('float') / conf_matrix.sum(axis=1)[:, np.newaxis]    
@@ -123,8 +118,12 @@ def evaluate_model(model, test_dataloader, output_dir, model_name, logger, class
     sns.heatmap(conf_matrix_norm, annot=True, fmt=".2f", cmap="Greens")
 
     class_labels = list(label_mapping.keys()) # add textual labels to classes in the matrix
-    plt.xticks(np.arange(len(class_labels)) + 0.5, class_labels, rotation=90)
-    plt.yticks(np.arange(len(class_labels)) + 0.5, class_labels, rotation=0)
+    # plt.xticks(np.arange(len(class_labels)) + 0.5, class_labels, rotation=90)
+    # plt.yticks(np.arange(len(class_labels)) + 0.5, class_labels, rotation=0)
+
+    handles = [plt.Line2D([0], [0], marker='o', color='w', markerfacecolor=plt.cm.Greens(i / len(class_labels)), markersize=10) 
+               for i in range(len(class_labels))]
+    plt.legend(handles, class_labels, loc='center', bbox_to_anchor=(1.05, 0.5), title="")
 
     plt.xlabel('Predicted')
     plt.ylabel('True')
