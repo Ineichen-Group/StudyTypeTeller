@@ -32,7 +32,7 @@ class ExperimentManager:
             # 'microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext',
             # 'microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract',
             'allenai/scibert_scivocab_uncased',
-            # 'dmis-lab/biobert-v1.1',
+            'dmis-lab/biobert-v1.1',
             # 'michiyasunaga/BioLinkBERT-base',
             # 'emilyalsentzer/Bio_ClinicalBERT',
         ]
@@ -116,7 +116,7 @@ class ExperimentManager:
         for model_name in self.models_to_fine_tune:
             self.logger.info(f"\n\n************** Fine-tuning {model_name}: {self.classification_type} **************")
             print(f"\n\n************** Fine-tuning {model_name}: {self.classification_type} **************")
-            train_dataloader, val_dataloader = self.load_data_splits(model_name, batch_size=16)
+            train_dataloader, val_dataloader = self.load_data_splits(model_name, batch_size=8)
             model_finetuner = ModelFinetuner(
                 model_name=model_name,
                 train_dataloader=train_dataloader,
@@ -266,7 +266,7 @@ class ModelFinetuner:
 
 if __name__ == "__main__":
     # TODO choose experiment name to avoid overwriting
-    experiment_name = "finetuning_07-02-25_enriched_with_kw_512"
+    experiment_name = "finetuning_10-02-25_enriched_with_kw_512"
     # keep this seed
     seed = 42 
     set_seed(seed)
