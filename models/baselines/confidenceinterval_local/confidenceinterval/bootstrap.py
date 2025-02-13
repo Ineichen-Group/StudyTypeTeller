@@ -38,7 +38,7 @@ def bootstrap_ci(y_true: List[int],
                               method=method.split('bootstrap_')[1],
                               random_state=random_state)
     if metric_average != 'n.a.':
-        result = metric(y_true, y_pred, average=metric_average, zero_division=np.nan)
+        result = metric(y_true, y_pred, average=metric_average, zero_division="warn")
     else:
         result = metric(y_true, y_pred)
     ci = bootstrap_res.confidence_interval.low, bootstrap_res.confidence_interval.high
