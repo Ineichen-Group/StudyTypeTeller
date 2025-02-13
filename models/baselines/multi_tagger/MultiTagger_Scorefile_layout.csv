@@ -1,0 +1,51 @@
+Column Headers in tsv,threshold having optimal F1
+PMID,
+Autobiography,0.3738
+Bibliography,1
+Biography,0.5
+Case-Control Studies,0.2928
+Case Reports,0.4913
+Clinical Studies as Topic,0.834
+Clinical Study,0.363
+Cohort Studies,0.2347
+Comment,0.4912
+Congress,0.3895
+Consensus Development Conference,0.2526
+Cross-Cultural Comparison,0.3317
+Cross-Over Studies,0.3667
+Cross-Sectional Studies,0.3968
+Diagnostic Test Accuracy,0.086
+Double-Blind Method,0.4148
+Editorial,0.1364
+Evaluation Studies as Topic,0.1
+Evaluation Study,0.1946
+Feasibility Studies,0.3972
+Focus Groups,0.4634
+Follow-Up Studies,0.268
+Genome-Wide Association Study,0.311
+Historical Article,0.488
+Human Experimentation,0.122
+interview,0.3333
+Interviews as Topic,0.2684
+Lecture,0.2927
+Legal Case,0.3571
+Letter,0.1667
+Longitudinal Studies,0.3005
+Matched-Pair Analysis,0.3333
+Meta-analysis,0.3935
+Multicenter Study,0.3333
+News,0.4545
+Personal Narrative,0.875
+Portrait,0.2985
+Practice Guideline,0.2609
+Predictive Value of Tests,0.2269
+Prospective Studies,0.4063
+Random Allocation,0.1339
+Randomized Controlled Trial,0.2197
+Reproducibility of Results,0.2767
+Retrospective Studies,0.3971
+Review,0.4624
+Systematic Reviews as Topic,0.0622
+Systematic Review,0.9406
+Twin Study,0.4
+Validation Study,0.3276
