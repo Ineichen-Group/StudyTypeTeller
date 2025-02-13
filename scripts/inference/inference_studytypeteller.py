@@ -110,7 +110,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--pubmed_file",
         type=str,
-        default="./scripts/inference/pmid_contents_chunk_1.txt",
+        default="./scripts/inference/pmid_contents_chunk_49.txt",
         help="File with PubMed content."
     )
     parser.add_argument(
@@ -130,8 +130,22 @@ if __name__ == "__main__":
     out_file = args.output_file
 
     headers = ["PMID", "year", "journal_name", "title", "abstract", "doi", "publication_type"]
+    
+    separator = "|||"
 
-    new_data = pd.read_csv(input_file_path, sep=r'|||', names=headers,  engine='python')  # Change 'sep' if files use a different delimiter
+    # Read and process the file manually to handle the multi-character delimiter
+    data = []
+    with open(input_file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            # Split each line using the delimiter and add to the list
+            fields = line.strip().split(separator)
+            if len(fields) == len(headers):  # Ensure the correct number of fields
+                data.append(fields)
+
+    # Convert the processed data into a DataFrame
+    new_data = pd.DataFrame(data, columns=headers)
+
+    #new_data = pd.read_csv(input_file_path, sep=r'|||', names=headers,  engine='python')  # Change 'sep' if files use a different delimiter
 
     # Perform inference
     results = inference_on_new_data(new_data, model_path, model_name)
