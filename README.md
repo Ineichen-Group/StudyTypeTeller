@@ -179,3 +179,36 @@ The evaluation scripts for BERT can be found in [evaluation](scripts%2Fevaluatio
 The notebook [performance_w_CI.ipynb](scripts%2Fevaluation%2Fperformance_w_CI.ipynb)
 contains the code to evaluate all BERT models. It also produces the confusion matrix and comparison plots of 
 the best-performing GPT and BERT model.
+
+# 5. Related Work, Baselines
+
+## MeSH terms
+
+There was an issue with some PMIDs missing from the enriched studies of the smaller classes. Instead of a PMID they had the rayyan-software ID. We were able to obtain their PMIDs from the DOI of the papers. The code for this is in [./data/Data_Preparation_and_Postprocessing.ipynb](./data/Data_Preparation_and_Postprocessing.ipynb).
+
+
+We then fetched the MeSH terms for each PMID using the below code.
+```
+id_list=$(paste -sd, "enriched_data_pmids.txt")
+
+efetch -db pubmed -id $id_list -format xml | xtract -pattern PubmedArticle -tab '^' -def "N/A" \
+    -element MedlineCitation/PMID \
+    -block MedlineCitation/MeshHeadingList/MeshHeading -sep "|" -element DescriptorName \
+    > "./pmid_mesh_terms.txt"
+```
+
+An evaluation of using them as a binary classifier into Animal and Other class, can be found in [./models/baselines/MeSH_Baseline.ipynb](./models/baselines/MeSH_Baseline.ipynb).
+
+## GoldHamster dataset
+
+The replication of the work of [Neves M, Klippert A, Knöspel F, et al. ](https://pubmed.ncbi.nlm.nih.gov/37658458/) can be found in a separate GitHub repository: [https://github.com/Ineichen-Group/Preclinical_GoldHamster_Replication](https://github.com/Ineichen-Group/Preclinical_GoldHamster_Replication).
+
+The analysis of the resulting label predictions is in [./models/baselines/StudyTypeTeller_vs_Goldhamster.ipynb](./models/baselines/StudyTypeTeller_vs_Goldhamster.ipynb).
+
+## Multi-Tagger
+
+The work of [Cohen, Aaron M., et al. ](https://www.medrxiv.org/content/10.1101/2021.07.13.21260468v1) has released predictions over the full PubMed database. We downloaded the files from [https://arrowsmith.psych.uic.edu/evidence_based_medicine/mt_download.html](https://arrowsmith.psych.uic.edu/evidence_based_medicine/mt_download.html), which included:
+1. A column reference that includes the multi-tagger model names as well as their optimal F1 threshholds, [./models/baselines/multi_tagger/MultiTagger_Scorefile_layout.csv](./models/baselines/multi_tagger/MultiTagger_Scorefile_layout.csv).
+2. Three model score files over different time periods up to 2024. These files contain scores between 0 and 1 for each Publication Type and Study Design for each article. We loaded those files into a local PostgreSQL DB in order to more easily filter them for the PMIDs in our dataset. The resulting filtered studies with their Multi-Tagger predictions are in: [./models/baselines/multi_tagger/multitagger_filtered_data_table_1_20250206.csv](./models/baselines/multi_tagger/multitagger_filtered_data_table_1_20250206.csv), [./models/baselines/multi_tagger/multitagger_filtered_data_table_2_20250206.csv](./models/baselines/multi_tagger/multitagger_filtered_data_table_2_20250206.csv), [./models/baselines/multi_tagger/multitagger_filtered_data_table_3_20250206.csv](./models/baselines/multi_tagger/multitagger_filtered_data_table_3_20250206.csv).
+
+The analysis of the resulting label predictions is in [./models/baselines/StudyTypeTeller_vs_MultiTagger.ipynb](./models/baselines/StudyTypeTeller_vs_MultiTagger.ipynb).
