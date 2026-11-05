@@ -1,9 +1,18 @@
 # PreclinicalAbstractClassification
 Objectives: develop methods to distinguish different types of pre-clinical literature based on abstract text.
 
-## Pretrained models on Zenodo
+## Released models on Zenodo
 
-The fine-tuned StudyTypeTeller SciBERT models are available on [Zenodo](https://zenodo.org/records/23975832). The resource includes a binary model that distinguishes animal studies (`Animal`) from other literature (`Rest`) and a multiclass model that assigns one of 14 research study-type labels. It contains model weights, configurations, tokenizer files, a README, and an optional example notebook for inference. Both models can be loaded locally using Hugging Face Transformers.
+The fine-tuned StudyTypeTeller SciBERT models for biomedical study type classification are available on [Zenodo](https://zenodo.org/records/23975832).
+
+| Model | Classification task |
+| --- | --- |
+| Binary | Distinguishes animal studies (`Animal`) from other literature (`Rest`). |
+| Multiclass | Assigns one of 14 research study-type labels. |
+
+**Training setup.** Both released models were fine-tuned using a **90% training / 10% validation split**. The data are available in [data/9-1-0_all_classes_enriched](data/9-1-0_all_classes_enriched), and the training procedure is implemented in [finetune.py](scripts/finetuning/finetune.py).
+
+**Release contents and usage.** The Zenodo resource includes model weights, configurations, tokenizer files, a README, and an optional notebook demonstrating inference. Both models can be loaded locally using Hugging Face Transformers.
 
 # 1. Set up the environment
 ## Poetry
